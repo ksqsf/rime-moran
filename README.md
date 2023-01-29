@@ -27,7 +27,7 @@
   - 用 `` ` `` 引導
 + 繪文字（Emoji）支持
   - 用 Ctrl+E 開關
-+ Unicode 編碼和區位顯示用
++ Unicode 編碼和區位顯示
   - 用 Ctrl+U 開關
 + 時間快速查詢與輸入
   - 日期 orq
