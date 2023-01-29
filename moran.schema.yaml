@@ -9,8 +9,8 @@ schema:
   dependencies:
     - tiger
     - moran.fixed
-    # - moran.english
-    # - moran.japanese
+    - moran.english
+    - moran.japanese
 
 switches:
   - name: ascii_mode
@@ -19,6 +19,7 @@ switches:
   - name: full_shape
     states: [ 半角, 全角 ]
   - name: simplification
+    reset: 1
     states: [ 漢字, 汉字 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
@@ -50,6 +51,8 @@ engine:
     - punct_translator
     - reverse_lookup_translator
     - table_translator@custom_phrase  # 自定義短語
+    - table_translator@english
+    - table_translator@japanese
     - table_translator@fixed          # 固頂碼表輸入模式
     - script_translator               # 智能整句輸入模式
     - lua_translator@moran_shijian    # 日期orq 節氣ojq 星期oxq 時間osj
@@ -86,6 +89,18 @@ custom_phrase: # 自定義短語
   enable_completion: false
   enable_sentence: false
   initial_quality: 1
+
+english:
+  dictionary: moran.english
+  enable_completion: true
+  enable_sentence: false
+  initial_quality: 0.5
+
+japanese:
+  dictionary: moran.japanese
+  enable_completion: true
+  enable_sentence: true
+  initial_quality: 0.3
 
 emoji:
   opencc_config: emoji.json
