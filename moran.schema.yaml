@@ -9,8 +9,8 @@ schema:
   dependencies:
     - tiger
     - moran.fixed
-    - moran.english
-    - moran.japanese
+    # - moran.english
+    # - moran.japanese
 
 switches:
   - name: ascii_mode
