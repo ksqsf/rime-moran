@@ -1,0 +1,116 @@
+schema:
+  schema_id: moran
+  name: 魔然
+  version: "0.15"
+  author:
+    - ksqsf
+  description: |
+    魔改自然碼（魔然）
+  dependencies:
+    - tiger
+    - moran.fixed
+    - moran.english
+    - moran.japanese
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+  - name: emoji
+    reset: 1
+    states: [ 🈚, 🈶 ]
+  - name: unicode_comment
+    reset: 0
+    states: [ U開, U關 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - lua_processor@moran_launch     # 輸入 omorj 或 ogrwh 後回車打開魔然官網
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - reverse_lookup_translator
+    - table_translator@custom_phrase  # 自定義短語
+    - table_translator@fixed          # 固頂碼表輸入模式
+    - script_translator               # 智能整句輸入模式
+    - lua_translator@moran_shijian    # 日期orq 節氣ojq 星期oxq 時間osj
+    - lua_translator@moran_number     # 數字轉大寫
+  filters:
+    - simplifier
+    - simplifier@emoji
+    - lua_filter@moran_charset_comment_filter  # Unicode 區位提示
+    - lua_filter@moran_unicode_display_filter  # Unicode 編碼提示
+    - uniquifier
+
+speller:
+  alphabet: abcdefghijklmnopqrstuvwxyz
+  delimiter: " '"
+  algebra:
+    - fuzz/^(\w*);(\w)(\w)$/$1$2$3/
+    - fuzz/^(\w*);(\w)(\w)$/$1$2/
+    - fuzz/^(\w*);(\w)(\w)$/$1/
+    - abbrev/^([a-z]).+$/$1/
+
+translator:    # 整句模式
+  dictionary: moran.extended
+
+fixed:         # 固頂
+  dictionary: moran.fixed
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+custom_phrase: # 自定義短語
+  dictionary: ""
+  user_dict: moran.custom
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+emoji:
+  opencc_config: emoji.json
+  option_name: emoji
+  tips: all
+
+reverse_lookup:
+  dictionary: tiger
+  enable_completion: true
+  prefix: "`"
+  suffix: "'"
+  tips: 〔虎碼〕
+
+punctuator:
+  import_preset: default
+
+key_binder:
+  import_preset: default
+  bindings:
+    - {when: has_menu, accept: "Control+s", toggle: simplification}
+    - {when: has_menu, accept: "Control+u", toggle: unicode_comment}
+    - {when: has_menu, accept: "Control+e", toggle: emoji}
+    - {when: has_menu, accept: semicolon, send: "2"}
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*'?$"

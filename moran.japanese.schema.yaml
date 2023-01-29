@@ -1,0 +1,7 @@
+schema:
+  schema_id: moran.japanese
+  name: 勿用·工具方案
+
+translator:
+  dictionary: moran.japanese
+  enable_user_dict: false

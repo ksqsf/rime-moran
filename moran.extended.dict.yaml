@@ -1,0 +1,22 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: moran.extended
+version: "1"
+sort: by_weight
+use_preset_vocabulary: true
+columns:
+  - text
+  - code
+import_tables:
+  - moran.main       # 自然碼輔碼、補充詞、快符等
+# - moran.sogou      # 搜狗詞庫 (默認禁用)
+  - moran.computer   # 計算機術語
+  - moran.hanyu      # 漢語大詞典
+  - moran.touhou
+  - moran.genshin
+  - moran.priconne
+...
+
+# 用戶自定義詞庫

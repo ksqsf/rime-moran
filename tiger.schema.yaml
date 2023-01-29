@@ -1,0 +1,117 @@
+schema:
+  author:
+    - {}
+  dependencies:
+    - pinyin_simp
+  description: |
+    虎码官方单字
+    敲 ` 鍵進入拼音反查    
+  name: "虎码官方单字"
+  schema_id: tiger
+  version: 0.9
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+#  - name: full_shape
+#    states: [ 半角, 全角 ]
+#  - name: extended_charset
+#    states: [ 常用, 增廣 ]
+#  - name: ascii_punct
+#    states: [ 。，, ．， ]
+  - options: [ gbk, gb2312, utf8 ]
+    states:	 
+    - GBK
+    - GB2312
+    - UTF-8
+
+
+
+  - options: [ _keyboard_default, _keyboard_defaultzj]
+    states: [ "助记关", "助记开"]
+    
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - reverse_lookup_translator
+    - table_translator
+  filters:
+#    - simplifier
+    - uniquifier
+    - charset_filter@gbk
+    - charset_filter@utf8
+    - charset_filter@gb2312
+#    - charset_filter@big5
+#    - reverse_lookup_filter@reverse_lookup
+
+speller:
+  auto_clear: max_length
+  auto_select: true
+  max_code_length: 4
+
+
+translator:
+  dictionary: tiger
+  enable_charset_filter: false
+  enable_encoder: true
+  enable_sentence: false
+  encode_commit_history: true
+  max_phrase_length: 4
+  enable_user_dict: false
+
+reverse_lookup:
+  dictionary: pinyin_simp
+  preedit_format:
+    - "xform/([nl])v/$1ü/"
+    - "xform/([nl])ue/$1üe/"
+    - "xform/([jqxy])v/$1u/"
+  prefix: "`"
+  suffix: "'"
+  tips: "〔拼音〕"
+
+punctuator:
+  import_preset: symbols
+
+key_binder:
+#  import_preset: default
+  bindings:
+    - {accept: semicolon, send: 2, when: has_menu}
+
+recognizer:
+  import_preset: default
+  patterns:
+    punct: '^/([0-9]0?|[A-Za-z]+)$'
+    reverse_lookup: "^`[a-z]*'?$"
+
+ascii_composer:
+  switch_key:
+    Caps_Lock: clear
+    Control_L: noop
+    Control_R: noop
+    Eisu_toggle: clear
+    Shift_L: commit_code
+    Shift_R: commit_text
+
+
+#menu:
+#  page_size: 3
+
+
+
+

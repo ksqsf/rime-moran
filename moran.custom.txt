@@ -1,0 +1,23 @@
+# Rime table
+# coding: utf-8
+#@db/db_name custom_phrase.txt
+#@db/db_type tabledb
+#
+# 魔然方案自定義短語
+# 修改後重新部署方可生效
+#
+# ⚠ 自定義短語總是出現在主詞庫詞條之前。
+#   如果你希望添加的詞語可以參與動態調頻，請將詞添加到 moran.extended.dict.yaml 中。
+#
+# 每行格式：文字 <tab> 編碼 <tab> 權重（權重越高，順序越靠前）
+#
+# 示例：
+魔然	morj	100
+驀然	morj	10
+秩	rank	0
+Markdown	mkdn	0
+Logseq	lgsq	0
+Obsidian	obsd	0
+Youtube	yout	0
+肉球球	rqq	0
+

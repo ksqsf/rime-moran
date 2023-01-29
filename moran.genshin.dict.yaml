@@ -1,0 +1,11 @@
+# Rime dictionary
+# coding: utf-8
+# 原神詞庫
+
+---
+name: moran.genshin
+version: "1"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
