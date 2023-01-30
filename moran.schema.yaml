@@ -65,10 +65,13 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: abcdefghijklmnopqrstuvwxyz
+  alphabet: abcdefghijklmnopqrstuvwxyz'
   delimiter: " '"
   algebra:
-    - fuzz/^(\w*);(\w)(\w)$/$1$2$3/
+    - fuzz/^(\w*);(\w)(\w)$/$1$2'$3/
+    - fuzz/^(\w*);(\w)(\w)$/$1''$3/
+    - fuzz/^(\w*);(\w)(\w)$/$1$2''/
+    - fuzz/^(\w*);(\w)(\w)$/$1'''/
     - fuzz/^(\w*);(\w)(\w)$/$1$2/
     - fuzz/^(\w*);(\w)(\w)$/$1/
     - abbrev/^([a-z]).+$/$1/
