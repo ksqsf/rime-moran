@@ -83,7 +83,7 @@ bq	並且
 #br
 #bs
 #bt
-bu	部
+bu	不
 #bv
 #bw
 bx	別
@@ -125,7 +125,7 @@ dg	等
 dh	當
 dj	但
 di	地
-dk	到
+dk	道
 dl	帶
 dm	點
 dn	電腦
@@ -168,11 +168,12 @@ er	而
 #ey
 #ez
 fa	發
+fa	髮
 fb	否
 fc	覅
 #fd
 #fe
-#ff
+ff	分
 fg	風
 fh	放
 fj	翻
@@ -189,7 +190,7 @@ fs	發送
 #ft
 fu	服
 #fv
-#fw
+fw	訪問
 #fx
 #fy
 #fz
@@ -287,7 +288,7 @@ il	拆
 #im
 #in
 io	戳
-ip	春
+ip	純
 #iq
 ir	傳
 is	重
@@ -325,7 +326,7 @@ kw	跨
 ky	快
 kz	剋
 la	拉
-lb	漏
+lb	嘍
 lc	聊
 ld	兩
 le	了
@@ -355,10 +356,11 @@ mb	某
 mc	妙
 #md
 me	麼
+mf	們
 mf	門
 mg	夢
 mh	忙
-mj	滿
+mj	慢
 mi	蜜
 mk	貓
 ml	買
@@ -375,7 +377,7 @@ mu	木
 #mw
 mx	咩
 my	名
-mz	每
+mz	沒
 na	那
 #nb
 nc	鳥
@@ -464,7 +466,7 @@ qd	強
 #qg
 #qh
 #qj
-qi	其
+qi	騎
 #qk
 #ql
 qm	前
@@ -487,7 +489,7 @@ rb	肉
 #rd
 re	熱
 rf	認
-rg	仍
+rg	如果
 rh	讓
 rj	然
 ri	日
@@ -597,7 +599,7 @@ vg	正
 vh	章
 vj	站
 vi	之
-vk	兆
+vk	找
 vl	摘
 vm	這麼
 vn	只能
@@ -632,7 +634,7 @@ wo	我
 #wp
 wq	完全
 wr	微軟
-#ws
+ws	爲啥
 wt	問題
 wu	無
 wv	網站
@@ -688,7 +690,7 @@ ys	用
 yt	月
 yu	與
 #yv
-#yw
+yw	因爲
 #yx
 yy	應
 yz	樣子
@@ -1404,7 +1406,7 @@ aae	阿
 #bah
 #baj
 #bai
-#bak
+bak	吧
 #bal
 #bam
 #ban
@@ -1667,7 +1669,7 @@ bjl	辦
 #bkk
 #bkl
 #bkm
-#bkn
+bkn	鴇
 #bko
 #bkp
 #bkq
@@ -1918,7 +1920,7 @@ bla	百
 #bub
 #buc
 #bud
-#bue
+bue	部
 #buf
 #bug
 #buh
@@ -2857,7 +2859,7 @@ daf	搭
 #dee
 #def
 #deg
-#deh
+deh	的話
 #dej
 #dei
 #dek
@@ -3009,7 +3011,7 @@ der	德
 #dka
 #dkb
 #dkc
-#dkd
+dkd	到
 #dke
 #dkf
 #dkg
@@ -4107,7 +4109,7 @@ enk	嗯
 #fag
 #fah
 #faj
-#fai
+fai	髮
 #fak
 #fal
 #fam
@@ -4231,7 +4233,7 @@ enk	嗯
 #ffa
 #ffb
 #ffc
-#ffd
+ffd	奮
 #ffe
 #fff
 #ffg
@@ -4245,9 +4247,9 @@ enk	嗯
 #ffo
 #ffp
 #ffq
-#ffr
-#ffs
-#fft
+ffr	份
+ffs	紛
+fft	墳
 #ffu
 #ffv
 #ffw
@@ -4686,7 +4688,7 @@ fju	飯
 #fwn
 #fwo
 #fwp
-#fwq
+fwq	服務器
 #fwr
 #fws
 #fwt
@@ -5531,7 +5533,7 @@ goj	鍋
 #hcz
 #hda
 #hdb
-#hdc
+hdc	荒
 #hdd
 #hde
 #hdf
@@ -5818,8 +5820,9 @@ hlb	害
 #hoa
 #hob
 #hoc
+hod	活
 hod	火
-hodu	活
+hodd	火
 #hoe
 #hof
 #hog
@@ -5910,7 +5913,7 @@ hodu	活
 #hrn
 #hro
 #hrp
-#hrq
+hrq	歡
 #hrr
 #hrs
 #hrt
@@ -5918,7 +5921,7 @@ hodu	活
 #hrv
 #hrw
 #hrx
-#hry
+hry	幻
 #hrz
 #hsa
 #hsb
@@ -6493,7 +6496,7 @@ jnra	金
 #jnw
 #jnx
 #jny
-#jnz
+jnz	近
 #joa
 #job
 #joc
@@ -6896,7 +6899,7 @@ idd	創
 #idi
 #idk
 #idl
-#idm
+idm	闖
 #idn
 #ido
 #idp
@@ -7210,7 +7213,7 @@ ihk	唱
 #ipl
 #ipm
 #ipn
-#ipo
+ipo	春
 #ipp
 #ipq
 #ipr
@@ -7701,6 +7704,7 @@ khf	抗
 #kjj
 #kji
 #kjk
+kjkj	看看
 #kjl
 #kjm
 #kjn
@@ -8187,7 +8191,7 @@ kwg	骻
 #lba
 #lbb
 #lbc
-#lbd
+lbd	漏
 #lbe
 #lbf
 #lbg
@@ -8250,7 +8254,7 @@ kwg	骻
 #ldl
 #ldm
 #ldn
-#ldo
+ldo	量
 #ldp
 #ldq
 #ldr
@@ -9045,7 +9049,7 @@ mfr	們
 #mja
 #mjb
 #mjc
-mjd	漫
+mjd	滿
 #mje
 #mjf
 #mjg
@@ -9065,7 +9069,7 @@ mjd	漫
 #mju
 #mjv
 #mjw
-mjx	慢
+#mjx
 #mjy
 #mjz
 #mia
@@ -9502,14 +9506,14 @@ myo	明
 #mzo
 #mzp
 #mzq
-#mzr
+mzr	每
 #mzs
 #mzt
-#mzu
+mzu	眉
 #mzv
 #mzw
 #mzx
-#mzy
+mzy	美
 #mzz
 #naa
 #nab
@@ -9523,7 +9527,7 @@ myo	明
 #nai
 nak	哪
 #nal
-#nam
+nam	那麼
 #nan
 #nao
 #nap
@@ -9833,7 +9837,7 @@ nln	奶
 #nmh
 #nmj
 #nmi
-#nmk
+nmk	唸
 #nml
 #nmm
 #nmn
@@ -9846,7 +9850,7 @@ nln	奶
 #nmu
 #nmv
 #nmw
-#nmx
+nmx	念
 #nmy
 #nmz
 #nna
@@ -11774,18 +11778,18 @@ qco	瞧
 #qjy
 #qjz
 #qia
-#qib
+qib	其
 #qic
 qid	奇
 #qie
 #qif
 #qig
-#qih
+qih	其
 #qij
 #qii
 #qik
 #qil
-#qim
+qim	棋
 #qin
 #qio
 #qip
@@ -11953,7 +11957,7 @@ qiw	齊
 #qpv
 #qpw
 #qpx
-#qpy
+qpy	裙
 #qpz
 #qqa
 #qqb
@@ -12388,7 +12392,7 @@ rfp	壬
 #rgo
 #rgp
 #rgq
-#rgr
+rgr	仍
 #rgs
 #rgt
 #rgu
@@ -13134,7 +13138,7 @@ sid	死
 #sie
 #sif
 #sig
-#sih
+sih	私
 sij	斯
 #sii
 #sik
@@ -13518,7 +13522,7 @@ svv	歲
 #sxy
 #sxz
 #sya
-#syb
+syb	所有
 #syc
 #syd
 #sye
@@ -14120,7 +14124,7 @@ tuk	圖
 #tvc
 #tvd
 #tve
-tvf	tvf
+tvf	推
 #tvg
 #tvh
 #tvj
@@ -14463,6 +14467,7 @@ ugo	勝
 #ujg
 #ujh
 #ujj
+ujjg	數據結構
 #uji
 ujk	數據庫
 #ujl
@@ -14497,11 +14502,10 @@ uia	事
 uio	時
 #uip
 #uiq
-#uir
+uir	使
 #uis
 #uit
-#uiu
-#uiv
+uiv	師
 #uiw
 #uix
 #uiy
@@ -15977,7 +15981,7 @@ wob	卧
 #woi
 #wok
 #wol
-#wom
+wom	我們
 #won
 #woo
 #wop
@@ -17120,7 +17124,7 @@ yba	又
 #ygj
 #ygi
 #ygk
-#ygl
+ygl	應該
 #ygm
 #ygn
 #ygo
@@ -17138,7 +17142,8 @@ ygr	一個人
 #yha
 #yhb
 #yhc
-#yhd
+yhd	洋
+yhdd	羊
 #yhe
 #yhf
 #yhg
@@ -17264,7 +17269,8 @@ yjyy	諺
 #ylv
 #ylw
 #ylx
-#yly
+yly	越來越
+yly	愈來愈
 #ylz
 #yma
 #ymb
@@ -17290,7 +17296,7 @@ yjyy	諺
 #ymv
 #ymw
 #ymx
-#ymy
+ymy	有沒有
 #ymz
 #yna
 #ynb
@@ -17476,7 +17482,7 @@ yta	曰
 #ytz
 yua	于
 yuad	雨
-#yub
+yub	宇
 #yuc
 #yud
 #yue

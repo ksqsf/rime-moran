@@ -20,4 +20,3 @@ Logseq	lgsq	0
 Obsidian	obsd	0
 Youtube	yout	0
 肉球球	rqq	0
-
