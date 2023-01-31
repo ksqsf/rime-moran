@@ -17,6 +17,7 @@ d	的
 e	二
 f	非
 g	個
+g	該
 h	和
 j	就
 i	出
@@ -114,7 +115,7 @@ cv	催
 #cx
 #cy
 #cz
-da	大
+da	打
 db	都
 dc	掉
 #dd
@@ -130,6 +131,7 @@ dm	點
 dn	電腦
 do	多
 dp	頓
+dq	丟
 dr	短
 ds	懂
 dt
@@ -155,7 +157,7 @@ em	唔
 en	恩
 #eo
 #ep
-#eq
+eq	而且
 er	而
 #es
 #et
@@ -256,6 +258,7 @@ ji	及
 #jk
 #jl
 jm	見
+jn	進
 jn	今
 #jo
 jp	均
@@ -454,7 +457,7 @@ py	平
 pz	陪
 qa	親愛的
 qb	全部
-qc	橋
+qc	敲
 qd	強
 #qe
 #qf
@@ -625,7 +628,7 @@ wi	完成
 wl	外
 wm	我們
 #wn
-wo	卧
+wo	我
 #wp
 wq	完全
 wr	微軟
@@ -719,7 +722,7 @@ zz	賊
 #aab
 #aac
 #aad
-#aae
+aae	阿
 #aaf
 #aag
 #aah
@@ -1610,7 +1613,7 @@ zz	賊
 #bjj
 #bji
 #bjk
-#bjl
+bjl	辦
 #bjm
 #bjn
 #bjo
@@ -2743,12 +2746,12 @@ byq	編譯器
 #czx
 #czy
 #czz
-#daa
+daa	大
 #dab
 #dac
 #dad
 #dae
-#daf
+daf	搭
 #dag
 #dah
 #daj
@@ -4885,13 +4888,13 @@ fju	飯
 #geh
 #gej
 #gei
-#gek
+gek	哥
 #gel
 #gem
 #gen
 #geo
 #gep
-#geq
+geq	歌
 #ger
 #ges
 #get
@@ -4948,6 +4951,7 @@ fju	飯
 #ggs
 #ggt
 #ggu
+ggum	規格說明
 #ggv
 #ggw
 #ggx
@@ -5069,7 +5073,7 @@ gkf	搞
 #gli
 #glk
 #gll
-#glm
+glm	蓋
 #gln
 #glo
 #glp
@@ -5143,7 +5147,7 @@ gkf	搞
 #gof
 #gog
 #goh
-#goj
+goj	鍋
 #goi
 #gok
 #gol
@@ -5658,7 +5662,7 @@ hhr	行
 #hja
 #hjb
 #hjc
-#hjd
+hjd	漢
 #hje
 #hjf
 #hjg
@@ -6992,9 +6996,9 @@ idx	窗
 #ihf
 #ihg
 #ihh
-#ihj
+ihj	常
 #ihi
-#ihk
+ihk	唱
 #ihl
 #ihm
 #ihn
@@ -8830,7 +8834,7 @@ lyk	另
 #lzx
 #lzy
 #lzz
-#maa
+maa	馬
 #mab
 #mac
 #mad
@@ -9090,7 +9094,7 @@ mjx	慢
 #mix
 #miy
 #miz
-#mka
+mka	矛
 #mkb
 #mkc
 #mkd
@@ -9101,11 +9105,12 @@ mjx	慢
 #mkj
 #mki
 #mkk
-#mkl
+mkl	凱
+mklq	鎧
 #mkm
 #mkn
 #mko
-#mkp
+mkp	毛
 #mkq
 #mkr
 #mks
@@ -9213,7 +9218,7 @@ moh	默
 #moq
 #mor
 #mos
-#mot
+mot	墨
 #mou
 #mov
 #mow
@@ -9526,7 +9531,7 @@ nak	哪
 #nar
 #nas
 #nat
-#nau
+nau	拿
 #nav
 #naw
 #nax
@@ -11598,9 +11603,9 @@ pzb	賠
 #qci
 #qck
 #qcl
-#qcm
+qcm	橋
 #qcn
-#qco
+qco	瞧
 #qcp
 #qcq
 #qcr
@@ -12355,7 +12360,7 @@ qrd	犬
 #rfm
 #rfn
 #rfo
-#rfp
+rfp	壬
 #rfq
 #rfr
 #rfs
@@ -13529,7 +13534,7 @@ svv	歲
 #syo
 #syp
 #syq
-#syr
+syr	所有人
 #sys
 #syt
 #syu
@@ -15137,7 +15142,8 @@ uwn	耍
 #vji
 #vjk
 #vjl
-#vjm
+vjm	棧
+vjmv	粘
 #vjn
 #vjo
 #vjp
@@ -15154,7 +15160,7 @@ uwn	耍
 #via
 #vib
 #vic
-#vid
+vid	制
 #vie
 #vif
 #vig
@@ -15165,6 +15171,7 @@ uwn	耍
 #vil
 #vim
 #vin
+ving	智能	# 只能 -> vn
 #vio
 #vip
 #viq
@@ -15175,7 +15182,8 @@ viu	知
 #viv
 #viw
 #vix
-#viy
+viy	製
+viyv	誌
 #viz
 #vka
 #vkb
@@ -15958,7 +15966,7 @@ wmd	我們的
 #wny
 #wnz
 #woa
-#wob
+wob	卧
 #woc
 #wod
 #woe
@@ -15980,7 +15988,7 @@ wmd	我們的
 #wou
 #wov
 #wow
-#wox
+wox	窝
 #woy
 #woz
 #wpa
@@ -16912,7 +16920,7 @@ xsh	熊
 #xyq
 #xyr
 #xys
-#xyt
+xyt	型
 #xyu
 #xyv
 #xyw
@@ -16971,7 +16979,7 @@ xsh	熊
 #yax
 #yay
 #yaz
-#yba
+yba	又
 #ybb
 #ybc
 #ybd
@@ -17151,7 +17159,7 @@ ygr	一個人
 #yhv
 #yhw
 #yhx
-#yhy
+yhy	養
 #yhz
 #yja
 #yjb
@@ -17484,7 +17492,7 @@ yuad	雨
 #yuo
 #yup
 #yuq
-#yur
+yur	余
 #yus
 #yut
 #yuu
