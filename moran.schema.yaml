@@ -19,7 +19,7 @@ switches:
   - name: full_shape
     states: [ 半角, 全角 ]
   - name: simplification
-    reset: 1
+    reset: 0
     states: [ 漢字, 汉字 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
@@ -84,6 +84,7 @@ fixed:         # 固頂
   enable_completion: false
   enable_sentence: false
   initial_quality: 1
+  enable_user_dict: false
 
 custom_phrase: # 自定義短語
   dictionary: ""
