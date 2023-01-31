@@ -14,6 +14,7 @@ a	啊
 b	不
 c	才
 d	的
+d	道
 e	二
 f	非
 g	個
@@ -125,7 +126,7 @@ dg	等
 dh	當
 dj	但
 di	地
-dk	道
+dk	到
 dl	帶
 dm	點
 dn	電腦
@@ -211,8 +212,8 @@ gl	改
 go	過
 gp	滾
 #gq
-#gr
-#gs
+gr	關
+gs	功
 #gt
 gu	古
 gv	貴
@@ -388,7 +389,7 @@ nf	嫩
 ng	能
 nh	囊
 nj	難
-ni	擬
+ni	你
 nk	鬧
 nl	乃
 nm	年
@@ -474,7 +475,7 @@ qm	前
 qn	親
 #qo
 qp	羣
-qq	球
+qq	求
 qr	全
 qs	窮
 #qt
@@ -1688,7 +1689,7 @@ bla	百
 #blc
 #bld
 #ble
-#blf
+blf	掰
 #blg
 #blh
 #blj
@@ -1951,7 +1952,7 @@ bue	部
 #bvf
 #bvg
 #bvh
-#bvj
+bvj	B站
 #bvi
 #bvk
 #bvl
@@ -3012,7 +3013,7 @@ der	德
 #dka
 #dkb
 #dkc
-dkd	到
+#dkd
 #dke
 #dkf
 #dkg
@@ -7432,7 +7433,7 @@ ivh	炊
 #ixv
 #ixw
 #ixx
-#ixy
+ixy	程序員
 #ixz
 #iya
 #iyb
@@ -8193,8 +8194,8 @@ kyt	塊
 #lbb
 #lbc
 lbd	漏
-#lbe
-#lbf
+lbe	陋
+lbf	摟
 #lbg
 #lbh
 #lbj
@@ -8505,7 +8506,7 @@ ldo	量
 #lnb
 #lnc
 #lnd
-#lne
+lne	鄰
 #lnf
 #lng
 #lnh
@@ -8809,9 +8810,9 @@ lyk	另
 #lyt
 #lyu
 #lyv
-#lyw
+lyw	靈
 #lyx
-#lyy
+lyy	零
 #lyz
 #lza
 #lzb
@@ -9755,7 +9756,7 @@ njt	男
 #nic
 #nid
 #nie
-#nif
+nif	擬
 #nig
 #nih
 #nij
@@ -11788,22 +11789,23 @@ qid	奇
 qih	其
 #qij
 #qii
-#qik
+qik	器
 #qil
 qim	棋
 #qin
-#qio
-#qip
-#qiq
-#qir
+qio	期
+qip	气
+qiq	氣
+qir	乞
+qir	企
 #qis
 #qit
-#qiu
+qiu	豈
 #qiv
 qiw	齊
 #qix
-#qiy
-#qiz
+qiy	訖
+qiz	迄
 #qka
 #qkb
 #qkc
@@ -11982,7 +11984,7 @@ qpy	裙
 #qqt
 #qqu
 #qqv
-#qqw
+qqw	球
 #qqx
 #qqy
 #qqz
@@ -12074,7 +12076,7 @@ qrd	犬
 #quh
 #quj
 #qui
-#quk
+quk	區
 #qul
 #qum
 #qun
@@ -15058,7 +15060,7 @@ uwn	耍
 #vey
 #vez
 #vfa
-#vfb
+vfb	支付寶
 #vfc
 #vfd
 #vfe
@@ -16484,7 +16486,7 @@ wsm	爲什麼
 #xhr
 #xhs
 #xht
-#xhu
+xhu	小紅書
 #xhv
 #xhw
 #xhx
@@ -17153,7 +17155,8 @@ yhdd	羊
 #yhi
 #yhk
 #yhl
-#yhm
+yhm	楊
+yhm	樣
 #yhn
 #yho
 #yhp
