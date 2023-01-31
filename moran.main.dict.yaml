@@ -1,6 +1,8 @@
 # Rime dictionary
 # encoding: utf-8
 
+# ⚠ 單字編碼部分有增刪修改，非原版自然碼。
+
 ---
 name: moran.main
 version: "1"
