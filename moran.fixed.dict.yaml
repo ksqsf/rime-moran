@@ -258,6 +258,7 @@ jd	奬
 #jh
 #jj
 ji	及
+ji	極
 #jk
 #jl
 jm	見
@@ -678,7 +679,7 @@ ye	也
 #yf
 yg	一個
 yh	樣
-yj	眼
+yj	言
 yi	以
 yk	要
 yl	依賴
@@ -2868,12 +2869,12 @@ deh	的話
 #del
 #dem
 #den
-#deo
+deo	旳
 #dep
 #deq
 der	德
 #des
-#det
+det	地
 #deu
 #dev
 #dew
@@ -2933,13 +2934,13 @@ der	德
 #dgy
 #dgz
 #dha
-#dhb
-#dhc
+dhb	宕
+dhc	蕩
 #dhd
-#dhe
-#dhf
+dhe	党
+dhf	擋
 #dhg
-#dhh
+dhh	黨
 #dhj
 #dhi
 #dhk
@@ -2955,33 +2956,35 @@ der	德
 #dhu
 #dhv
 #dhw
-#dhx
+dhx	黨
 #dhy
 #dhz
-#dja
-#djb
+dja	石
+djb	单
 #djc
-#djd
-#dje
-#djf
-#djg
-#djh
+djd	淡
+djd	殫
+dje	耽
+djf	擔
+djg	彈
+djh	石
 #djj
-#dji
-#djk
+dji	蛋
+djk	單
 #djl
 #djm
 #djn
-#djo
-#djp
-#djq
+djo	膽
+djo	旦
+djp	丹
+djq	氮
 #djr
 #djs
 #djt
 #dju
-#djv
+djv	簞
 #djw
-#djx
+djx	憚
 #djy
 #djz
 #dia
@@ -6380,7 +6383,6 @@ jdy	講
 #jik
 #jil
 jim	機
-jimj	極
 #jin
 #jio
 #jip
@@ -6991,7 +6993,7 @@ idx	窗
 #igv
 #igw
 #igx
-#igy
+igy	誠
 #igz
 #iha
 #ihb
@@ -9860,7 +9862,7 @@ nmx	念
 #nnc
 #nnd
 #nne
-#nnf
+nnf	拰
 #nng
 #nnh
 #nnj
@@ -16339,7 +16341,8 @@ wsm	爲什麼
 #xca
 #xcb
 #xcc
-#xcd
+xcd	消
+xcd	淆
 #xce
 #xcf
 #xcg
@@ -16781,7 +16784,7 @@ xsh	熊
 #xta
 #xtb
 #xtc
-#xtd
+xtd	削
 #xte
 #xtf
 #xtg
@@ -17071,7 +17074,7 @@ yba	又
 #yee
 #yef
 #yeg
-#yeh
+yeh	頁
 #yej
 #yei
 #yek
@@ -17136,78 +17139,80 @@ ygl	應該
 ygr	一個人
 #ygs
 #ygt
-#ygu
+ygu	應該是
 #ygv
 #ygw
-#ygx
+ygx	有關係
 #ygy
 #ygz
-#yha
-#yhb
+yha	央
+yhb	癢
 #yhc
 yhd	洋
 yhdd	羊
-#yhe
-#yhf
-#yhg
-#yhh
+yhe	陽
+yhf	揚
+yhg	鞅
+yhh	秧
+yhh	煬
 #yhj
 #yhi
-#yhk
+yhk	央
 #yhl
 yhm	楊
 yhm	樣
-#yhn
-#yho
+yhn	鴦
+yho	暘
 #yhp
-#yhq
-#yhr
+yhq	氧
+yhr	仰
 #yhs
 #yht
 #yhu
 #yhv
 #yhw
-#yhx
+yhx	恙
 yhy	養
 #yhz
-#yja
-#yjb
+yja	严
+yjb	宴
 yjc	菸
-#yjd
+yjd	演
+yjd	淹
 #yje
-#yjf
-#yjg
-#yjh
+yjf	掩
+yjg	魘
+yjh	煙
 #yjj
-#yji
+yji	厭
 yjk	嚴
 #yjl
 #yjm
 #yjn
-#yjo
+yjo	眼
 #yjp
 #yjq
-#yjr
-#yjs
-#yjt
-#yju
-#yjv
-yjw	言
-#yjx
+yjr	衍
+yjs	艷
+yjt	堰
+yju	研
+yjv	焉
+yjw	彥
+yjx	衍
 yjy	顏
 yjyy	諺
-#yjz
+yjz	延
 yia	乙
-#yib
-#yic
+yib	疑
+yic	藝
 #yid
 #yie
 #yif
 #yig
 #yih
 #yij
-#yii
-#yik
+yii	蟻
+yik	咦
 #yil
 #yim
 #yin
@@ -17220,12 +17225,14 @@ yia	乙
 #yiu
 yiv	已
 #yiw
-#yix
-#yiy
-#yiz
-#yka
+yix	意
+yix	憶
+yiy	議
+yiy	義
+yiz	遺
+yka	幺
 #ykb
-#ykc
+ykc	藥
 #ykd
 #yke
 #ykf
@@ -17246,7 +17253,7 @@ yiv	已
 #yku
 #ykv
 #ykw
-#ykx
+ykx	窑
 #yky
 #ykz
 #yla
@@ -17488,7 +17495,7 @@ yua	于
 yuad	雨
 yub	宇
 #yuc
-#yud
+yud	魚
 #yue
 #yuf
 #yug
@@ -17503,6 +17510,8 @@ yub	宇
 #yup
 #yuq
 yur	余
+yur	御
+yurx	御
 #yus
 #yut
 #yuu
@@ -18095,7 +18104,8 @@ zot	坐
 #zri
 #zrk
 #zrl
-#zrm
+zrm	自然碼
+zrmup	自然碼雙拼
 #zrn
 #zro
 #zrp

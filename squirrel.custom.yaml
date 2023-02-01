@@ -5,9 +5,9 @@ patch:
   # style/color_scheme: mac_light
   # style/color_scheme: mac_green
   # style/color_scheme: mac_orange
-  # style/color_scheme: mac_blue
+  style/color_scheme: mac_blue
   # style/color_scheme: win10
-  style/color_scheme: apathy
+  # style/color_scheme: apathy
   # style/color_scheme: google
   # style/color_scheme: milan
   # style/color_scheme: ink
