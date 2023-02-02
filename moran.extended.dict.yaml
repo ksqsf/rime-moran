@@ -17,6 +17,7 @@ import_tables:
   - moran.touhou
   - moran.genshin
   - moran.priconne
+  - moran.vtb
 ...
 
 # 用戶自定義詞庫
