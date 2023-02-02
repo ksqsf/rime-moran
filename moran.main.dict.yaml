@@ -28536,9 +28536,11 @@ use_preset_vocabulary: true
 釋	ui;px	937000
 釋	ui;bx	937000
 重	vs;ph	583915
-重	is;ph	415084
 重	vs;pa	583915
+重	vs;ql	583915
+重	is;ph	415084
 重	is;pa	415084
+重	is;ql	415084
 野	ye;ly	966000
 野	ye;yl	966000
 量	ld;ol	999000
