@@ -16,7 +16,7 @@
 # 注（魔然）：原始詞庫爲簡化字，使用 OpenCC 繁體化。
 
 ---
-name: luna_pinyin.computer
+name: moran.computer
 version: "2014.09.07+1"
 sort: by_weight
 use_preset_vocabulary: true
