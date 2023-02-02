@@ -74,7 +74,7 @@ bg	崩
 bh	幫
 bj	版
 bi	比
-bk	包
+bk	報
 bl	白
 bm	便
 bn	濱
@@ -272,7 +272,7 @@ js	囧
 jt	覺
 ju	句
 #jv
-jw	加
+jw	家
 jx	解
 jy	竟
 #jz
@@ -1660,12 +1660,12 @@ bjl	辦
 #biy
 #biz
 #bka
-#bkb
+bkb	寶
 #bkc
 #bkd
 #bke
-#bkf
-#bkg
+bkf	抱
+bkg	包
 #bkh
 #bkj
 #bki
@@ -2967,7 +2967,7 @@ djd	殫
 dje	耽
 djf	擔
 djg	彈
-djh	石
+djh	大家好
 #djj
 dji	蛋
 djk	單
@@ -3038,7 +3038,7 @@ djx	憚
 #dkw
 #dkx
 #dky
-#dkz
+dkz	蹈
 #dla
 #dlb
 #dlc
@@ -3878,7 +3878,7 @@ enk	嗯
 #ere
 #erf
 #erg
-#erh
+erh	耳
 #erj
 #eri
 #erk
@@ -6710,7 +6710,8 @@ jpk	君
 #jvy
 #jvz
 jwa	甲
-#jwb
+jwb	贾
+jwb	痂
 #jwc
 #jwd
 #jwe
@@ -6720,13 +6721,14 @@ jwa	甲
 #jwj
 #jwi
 #jwk
-#jwl
+jwl	加
 #jwm
 #jwn
 #jwo
 #jwp
 #jwq
-#jwr
+jwr	假
+jwr	價
 #jws
 #jwt
 #jwu
@@ -7297,7 +7299,7 @@ isi	蟲
 #isn
 #iso
 #isp
-#isq
+isq	重
 #isr
 #iss
 #ist
@@ -7352,7 +7354,7 @@ isi	蟲
 #iuq
 #iur
 #ius
-#iut
+iut	畜
 #iuu
 #iuv
 #iuw
@@ -11807,7 +11809,7 @@ qiu	豈
 qiw	齊
 #qix
 qiy	訖
-qiz	迄
+qiz	起
 #qka
 #qkb
 #qkc
@@ -13214,13 +13216,13 @@ sis	絲
 #slx
 #sly
 #slz
-#sma
+sma	什么啊
 #smb
 #smc
 #smd
 #sme
 #smf
-#smg
+smg	什么鬼
 #smh
 #smj
 #smi
@@ -14513,7 +14515,7 @@ uir	使
 uiv	師
 #uiw
 #uix
-#uiy
+uiy	試
 #uiz
 #uka
 #ukb
@@ -15186,7 +15188,7 @@ ving	智能	# 只能 -> vn
 #viq
 #vir
 #vis
-#vit
+vit	至
 viu	知
 #viv
 #viw
@@ -16621,7 +16623,7 @@ xhu	小紅書
 #xmt
 #xmu
 #xmv
-#xmw
+xmw	現
 #xmx
 #xmy
 #xmz
@@ -17607,7 +17609,7 @@ yuw	玉
 #yyg
 #yyh
 #yyj
-#yyi
+yyi	蠅
 #yyk
 #yyl
 #yym
@@ -17918,7 +17920,7 @@ zjo	暫
 #zkf
 #zkg
 #zkh
-#zkj
+zkj	鑿
 #zki
 #zkk
 #zkl
@@ -17934,7 +17936,7 @@ zjo	暫
 #zkv
 #zkw
 #zkx
-#zky
+zky	凿
 #zkz
 #zla
 #zlb
