@@ -143,7 +143,7 @@ dv	對
 dy	定
 dz	得
 #ea
-#eb
+eb	而不
 #ec
 #ed
 ee	額
@@ -369,7 +369,7 @@ mk	貓
 ml	買
 mm	面
 mn	民
-mo	莫
+mo	摸
 #mp
 mq	謬
 #mr
@@ -627,6 +627,7 @@ wd	我的
 wf	問
 wg	翁
 wh	忘
+whs	網
 wj	玩
 wi	完成
 #wk
@@ -706,7 +707,7 @@ zf	怎
 zg	增
 zh	髒
 zj	讚
-zi	子
+zi	字
 zk	早
 zl	再
 zm	怎麼
@@ -919,7 +920,7 @@ aae	阿
 #ahl
 #ahm
 #ahn
-#aho
+aho	昂
 #ahp
 #ahq
 #ahr
@@ -1635,6 +1636,7 @@ bjl	辦
 #bjz
 #bia
 #bib
+bibb	皕
 #bic
 #bid
 #bie
@@ -2793,7 +2795,7 @@ daf	搭
 #dbn
 #dbo
 #dbp
-#dbq
+dbq	對不起
 #dbr
 #dbs
 #dbt
@@ -3400,6 +3402,7 @@ dvf	㨃
 #dyu
 #dyv
 #dyw
+dywe	獨一無二
 #dyx
 #dyy
 #dyz
@@ -3475,7 +3478,7 @@ dvf	㨃
 #ebr
 #ebs
 #ebt
-#ebu
+ebu	而不是
 #ebv
 #ebw
 #ebx
@@ -6613,7 +6616,7 @@ jpk	君
 #jsf
 #jsg
 #jsh
-#jsj
+jsj	计算机
 #jsi
 #jsk
 #jsl
@@ -9211,10 +9214,10 @@ mkp	毛
 #mnz
 moa	末
 #mob
-#moc
+moc	莫
 #mod
 #moe
-#mof
+mof	抹
 #mog
 moh	默
 #moj
@@ -15175,7 +15178,7 @@ vid	制
 #vie
 #vif
 #vig
-#vih
+vih	秩
 #vij
 #vii
 #vik
@@ -16605,7 +16608,7 @@ xhu	小紅書
 #xmb
 #xmc
 #xmd
-#xme
+xme	限
 #xmf
 #xmg
 #xmh
@@ -17886,8 +17889,8 @@ zjo	暫
 #zjx
 #zjy
 #zjz
-#zia
-#zib
+zia	子
+zib	資
 #zic
 #zid
 #zie
@@ -17965,7 +17968,7 @@ zky	凿
 #zly
 #zlz
 #zma
-#zmb
+zmb	怎麼辦
 #zmc
 #zmd
 #zme
