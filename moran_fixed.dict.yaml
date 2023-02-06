@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 ---
-name: moran.fixed
+name: moran_fixed
 version: "1"
 sort: original
 columns:
@@ -6040,7 +6040,7 @@ huh	虎
 #hvx
 #hvy
 #hvz
-hwa	
+#hwa
 #hwb
 hwc	花
 hwc	華
