@@ -279,7 +279,7 @@ jw	家
 jx	解
 jy	竟
 #jz
-ia	插
+ia	查
 ib	醜
 #ic
 id	牀
@@ -345,7 +345,7 @@ lk	老
 ll	來
 lm	連
 ln	林
-lo	咯
+lo	落
 lp	論
 lq	六
 lr	亂
@@ -578,7 +578,7 @@ ug	生
 ug	省
 uh	上
 uj	山
-ui	十
+ui	事
 uk	少
 ul	色
 um	什麼
@@ -1409,7 +1409,8 @@ aho	昂
 #bac
 #bad
 #bae
-#baf
+baf	拔
+bafb	扒
 #bag
 #bah
 #baj
@@ -6738,7 +6739,8 @@ jwr	假
 jwr	價
 #jws
 #jwt
-#jwu
+jwu	嘉
+jwu	岬
 #jwv
 #jww
 #jwx
@@ -6747,55 +6749,60 @@ jwr	價
 #jxa
 #jxb
 #jxc
-#jxd
+jxd	潔
 #jxe
-#jxf
+jxf	接
 #jxg
-#jxh
+jxh	杰
 #jxj
 #jxi
-#jxk
-#jxl
-#jxm
-#jxn
-#jxo
+jxk	嗟
+jxl	劫
+jxm	桀
+jxn	姐
+jxo	睫
 #jxp
-#jxq
-#jxr
-#jxs
-#jxt
-#jxu
-#jxv
-#jxw
-#jxx
-#jxy
+jxq	狤
+jxr	介
+jxr	傑
+jxs	結
+jxt	界
+jxu	屆
+jxv	節
+jxw	玠
+jxx	街
+jxy	訐
 #jxz
-#jya
-#jyb
-#jyc
-#jyd
+jya	井
+jyb	痙
+jyc	莖
+jyd	凈
 #jye
-#jyf
-#jyg
-#jyh
-#jyj
-#jyi
-#jyk
-#jyl
-#jym
-#jyn
-#jyo
+jyf	旌
+jyg	弳
+jyh	稉
+jyj	鏡
+jyi	蜻
+jyk	兢
+jyl	竟
+jyl	競
+jym	睛
+jyn	婧
+jyo	景
+jyoq	睛
+jyoo	晶
 #jyp
-#jyq
-#jyr
-#jys
-#jyt
+jyq	靜
+jyr	徑
+jys	經
+jyt	境
 #jyu
 #jyv
-#jyw
-#jyx
-#jyy
-#jyz
+jyw	敬
+jywx	京
+jyx	徑
+jyy	頸
+jyz	逕
 #jza
 #jzb
 #jzc
@@ -6823,57 +6830,57 @@ jwr	價
 #jzy
 #jzz
 #iaa
-#iab
-#iac
-#iad
+iab	察
+iac	茶
+iad	叉
 #iae
-#iaf
+iaf	插
 #iag
 #iah
 #iaj
 #iai
 #iak
 #ial
-#iam
+iam	查
 #ian
 #iao
 #iap
 #iaq
-#iar
+iar	侘
 #ias
 #iat
-#iau
+iau	岔
 #iav
 #iaw
 #iax
-#iay
+iay	差
 #iaz
-#iba
+iba	丑
 #ibb
 #ibc
 #ibd
 #ibe
-#ibf
+ibf	抽
 #ibg
 #ibh
-#ibj
+ibj	幬
 #ibi
 #ibk
 #ibl
 #ibm
 #ibn
-#ibo
+ibo	瞅
 #ibp
 #ibq
-#ibr
-#ibs
+ibr	仇
+ibs	綢
 #ibt
 #ibu
-#ibv
+ibv	籌
 #ibw
-#ibx
-#iby
-#ibz
+ibx	愁
+iby	酬
+ibz	臭
 #ica
 #icb
 #icc
@@ -6901,12 +6908,12 @@ jwr	價
 #icy
 #icz
 #ida
-idb	剙
+idb	瘡
 #idc
 idd	創
 #ide
 #idf
-#idg
+idg	床
 #idh
 #idj
 #idi
@@ -6915,9 +6922,9 @@ idd	創
 idm	闖
 #idn
 #ido
-#idp
+idp	牀
 #idq
-#idr
+idr	剏
 #ids
 #idt
 #idu
@@ -6926,12 +6933,12 @@ idm	闖
 idx	窗
 #idy
 #idz
-#iea
+iea	屮
 #ieb
 #iec
-#ied
+ied	澈
 #iee
-#ief
+ief	扯
 #ieg
 #ieh
 #iej
@@ -6946,142 +6953,147 @@ idx	窗
 #ier
 #ies
 #iet
-#ieu
+ieu	掣
 #iev
 #iew
-#iex
+iex	徹
 #iey
 #iez
-#ifa
-#ifb
+ifa	臣
+ifb	宸
 #ifc
-#ifd
-#ife
-#iff
+ifd	沉
+ife	陳
+iff	抻
 #ifg
-#ifh
+ifh	稱
 #ifj
-#ifi
-#ifk
-#ifl
+ifi	齔
+ifk	嗔
+ifl	塵
 #ifm
 #ifn
-#ifo
+ifo	晨
 #ifp
 #ifq
 #ifr
 #ifs
-#ift
+ift	塵
 #ifu
-#ifv
+ifv	爯
 #ifw
-#ifx
-#ify
-#ifz
-#iga
+ifx	忱
+ify	襯
+ifz	趁
+iga	承
 #igb
 #igc
-#igd
+igd	澄
 #ige
-#igf
-#igg
-#igh
-#igj
-#igi
-#igk
-#igl
+igf	撐
+igg	成
+igh	稱
+ighi	程
+igj	鐺
+igi	蛏
+igk	呈
+igl	丞
 #igm
 #ign
 #igo
-#igp
+igp	乘
 #igq
 #igr
 #igs
-#igt
+igt	城
 #igu
 #igv
 #igw
-#igx
+igx	懲
 igy	誠
-#igz
-#iha
+igz	逞
+iha	厂
 #ihb
 #ihc
-#ihd
+ihd	嘗
 #ihe
 #ihf
-#ihg
+ihg	廠
 #ihh
 ihj	常
 #ihi
 ihk	唱
+ihk	嚐
 #ihl
-#ihm
-#ihn
-#iho
+ihm	氅
+ihn	娼
+iho	昌
 #ihp
-#ihq
-#ihr
+ihq	猖
+ihr	倡
 #ihs
-#iht
-#ihu
+iht	場
+ihu	暢
 #ihv
-#ihw
+ihw	敞
 #ihx
-#ihy
+ihy	裳
 #ihz
 #ija
-#ijb
+ijb	单
 #ijc
 #ijd
 #ije
-#ijf
+ijf	摻
+ijft	攙
+ijfc	摻
 #ijg
 #ijh
-#ijj
+ijj	鏟
 #iji
 #ijk
 #ijl
 #ijm
-#ijn
+ijn	嬋
 #ijo
 #ijp
 #ijq
 #ijr
-#ijs
+ijs	纏
 #ijt
-#iju
+iju	禪
+ijut	饞
 #ijv
 #ijw
-#ijx
-#ijy
+ijx	懺
+ijy	讒
 #ijz
-#iia
-#iib
+iia	尺
+iib	癡
 #iic
-#iid
-#iie
-#iif
-#iig
-#iih
-#iij
-#iii
-#iik
-#iil
-#iim
-#iin
+iid	池
+iie	恥
+iif	持
+iig	弛
+iih	熾
+iij	斥
+iii	蚩
+iik	吃
+iil	勅
+iim	馳
+iin	鴟
 #iio
-#iip
+iip	彳
 #iiq
 #iir
 #iis
 #iit
 #iiu
-#iiv
-#iiw
+iiv	齒
+iiw	敕
 #iix
 #iiy
-#iiz
+iiz	遲
 #ika
 #ikb
 #ikc
@@ -7109,27 +7121,27 @@ ihk	唱
 #iky
 #ikz
 #ila
-#ilb
+ilb	瘥
 #ilc
 #ild
 #ile
-#ilf
+ilf	拆
 #ilg
 #ilh
-#ilj
-#ili
+ilj	釵
+ili	蠆
 #ilk
 #ill
-#ilm
+ilm	柴
 #iln
 #ilo
 #ilp
 #ilq
-#ilr
+ilr	儕
 #ils
 #ilt
 #ilu
-#ilv
+ilv	豺
 #ilw
 #ilx
 #ily
@@ -7195,21 +7207,22 @@ ihk	唱
 #iog
 #ioh
 #ioj
-#ioi
-#iok
+ioi	輟
+ioiz	齪
+iok	啜
 #iol
 #iom
 #ion
 #ioo
-#iop
-#ioq
+iop	辵
+ioq	歠
 #ior
-#ios
+ios	綽
 #iot
 #iou
 #iov
 #iow
-#iox
+iox	惙
 #ioy
 #ioz
 #ipa
@@ -7349,7 +7362,7 @@ isq	重
 #iue
 #iuf
 #iug
-#iuh
+iuh	處
 #iuj
 #iui
 #iuk
@@ -7364,7 +7377,7 @@ isq	重
 iut	畜
 #iuu
 #iuv
-#iuw
+iuw	处
 #iux
 #iuy
 #iuz
@@ -8462,69 +8475,70 @@ ldo	量
 #lky
 #lkz
 #lla
-#llb
-#llc
-#lld
+llb	癩
+llc	萊
+lld	瀨
 #lle
 #llf
 #llg
 #llh
-#llj
+llj	錸
 #lli
-#llk
+llk	唻
 #lll
 #llm
 #lln
-#llo
+llo	睞
 #llp
-#llq
-#llr
+llq	猍
+llr	徠
 #lls
 #llt
-#llu
-#llv
-#llw
+llu	赖
+llv	籟
+llw	琜
 #llx
-#lly
-#llz
+lly	頼
+llz	逨
 #lma
 #lmb
-#lmc
+lmc	蓮
 #lmd
-#lme
+lme	聯
 #lmf
-#lmg
-#lmh
-#lmj
-#lmi
+lmg	廉
+lmh	煉
+lmj	鍊
+lmi	蠊
 #lmk
 #lml
 #lmm
 #lmn
-#lmo
+lmo	臉
 #lmp
 #lmq
 #lmr
-#lms
+lms	練
 #lmt
 #lmu
-#lmv
-#lmw
-#lmx
+lmv	簾
+lmw	斂
+lmx	戀
+lmxj	帘
 #lmy
 #lmz
 #lna
-#lnb
-#lnc
-#lnd
+lnb	賃
+lnc	藺
+lnd	淋
 lne	鄰
-#lnf
-#lng
-#lnh
+lnf	拎
+lng	廩
+lnh	燐
 #lnj
-#lni
-#lnk
-#lnl
+lni	臨
+lnk	吝
+lnl	麟
 #lnm
 #lnn
 #lno
@@ -8535,32 +8549,33 @@ lne	鄰
 #lnt
 #lnu
 #lnv
-#lnw
-#lnx
-#lny
-#lnz
+lnw	琳
+lnx	懍
+lny	鱗
+lnyl	霖
+lnz	遴
 #loa
 #lob
-#loc
-#lod
+loc	蘿
+lod	洛
 #loe
-#lof
+lof	捋
 #log
-#loh
-#loj
-#loi
-#lok
+loh	烙
+loj	鑼
+loi	螺
+lok	咯
 #lol
-#lom
-#lon
+lom	騾
+lon	犖
 #loo
 #lop
-#loq
+loq	玀
 #lor
-#los
+los	羅
 #lot
 #lou
-#lov
+lov	籮
 #low
 #lox
 #loy
@@ -8594,7 +8609,7 @@ lne	鄰
 #lqa
 #lqb
 #lqc
-#lqd
+lqd	流
 #lqe
 #lqf
 #lqg
@@ -14501,31 +14516,43 @@ ujk	數據庫
 #ujx
 #ujy
 #ujz
-uia	事
-#uib
-#uic
-#uid
-#uie
-#uif
-#uig
+uia	十
+uiak	石
+uiap	尸
+uib	實
+uibv	室
+uic	世
+uid	溼
+uie	示
+uif	拾
+uify	施
+uig	式
 #uih
-#uij
-#uii
-#uik
-#uil
+uij	視
+uii	弒
+uik	史
+uil	勢
 #uim
-#uin
+uin	始
 uio	時
-#uip
-#uiq
+uip	失
+uipt	矢
+uiq	獅
 uir	使
+uirl	食
+uird	矢
+uiry	似
 #uis
 #uit
+uiu	士
+uiuj	飾
+uius	屍
+uium	屎
 uiv	師
-#uiw
+uiw	市
 #uix
 uiy	試
-#uiz
+uiz	適
 #uka
 #ukb
 #ukc
@@ -14794,7 +14821,7 @@ urf	輸入法
 #uuf
 #uug
 #uuh
-#uuj
+uuj	鼠
 #uui
 #uuk
 #uul
@@ -15232,7 +15259,7 @@ viyv	誌
 #vky
 #vkz
 #vla
-#vlb
+vlb	宅
 #vlc
 #vld
 #vle
@@ -15243,7 +15270,7 @@ viyv	誌
 #vli
 #vlk
 #vll
-#vlm
+vlm	寨
 #vln
 #vlo
 #vlp
@@ -17625,19 +17652,20 @@ yyix	應用程序
 #yyk
 #yyl
 #yym
-#yyn
-#yyo
-#yyp
+yyn	鷹
+yynb	嬰
+yyo	映
+yyp	影
 #yyq
 #yyr
-#yys
-#yyt
-#yyu
+yys	縈
+yyt	塋
+yyu	硬
 #yyv
 #yyw
 #yyx
 #yyy
-#yyz
+yyz	迎
 #yza
 #yzb
 #yzc

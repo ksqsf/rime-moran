@@ -4,7 +4,7 @@
 ---
 name: moran.extended
 version: "1"
-sort: by_weight
+sort: original
 use_preset_vocabulary: true
 columns:
   - text
