@@ -65,16 +65,13 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: abcdefghijklmnopqrstuvwxyz`
+  alphabet: abcdefghijklmnopqrstuvwxyz
   delimiter: " '"
   algebra:
-    - fuzz/^(\w*);(\w)(\w)$/$1$2`$3/
-    - fuzz/^(\w*);(\w)(\w)$/$1$2``/
-    - fuzz/^(\w*);(\w)(\w)$/$1```/
-    - fuzz/^(\w*);(\w)(\w)$/$1$2/
-    - fuzz/^(\w*);(\w)(\w)$/$1/
-    - fuzz/^(\w*);(\w)(\w)$/$1$2$3`/
-    - abbrev/^([a-z]).+$/$1/
+    - derive/^(\w*);(\w)(\w)$/$1$2$3o/ # 全碼 YYXXo
+    - fuzz/^(\w*);(\w)(\w)$/$1$2/      # 構詞可以用 YYX
+    - fuzz/^(\w*);(\w)(\w)$/$1/        # 構詞可以用 YY
+    - abbrev/^([a-z]).+$/$1/           # 首字母簡拼
 
 translator:    # 整句模式
   dictionary: moran.extended
