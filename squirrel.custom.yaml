@@ -1,27 +1,32 @@
 patch:
-  show_notification_when: appropriate
+  show_notifications_when: appropriate
 
-  # 浅色主题
-  # style/color_scheme: mac_light
-  # style/color_scheme: mac_green
-  # style/color_scheme: mac_orange
-  style/color_scheme: mac_blue
-  # style/color_scheme: win10
-  # style/color_scheme: apathy
-  # style/color_scheme: google
-  style/color_scheme: milan
-  # style/color_scheme: ink
-  # style/color_scheme: nord_light
-  # style/color_scheme: roseo_maple
-  # style/color_scheme: calm
-  # 深色主题
-  # style/color_scheme_dark: mac_dark
-  # style/color_scheme_dark: psionics
-  # style/color_scheme_dark: solarized_rock
-  # style/color_scheme_dark: solarized_dark
-  # style/color_scheme_dark: purity
-  # style/color_scheme_dark: starcraft
-  # style/color_scheme_dark: nord_dark
+  style:
+    inline_preedit: true    # 在文本框顯示輸入串
+    inline_candidate: false # 在文本框顯示首選項
+    translucency: false     # 透明度總開關
+
+    # 浅色主题
+    # color_scheme: mac_light
+    # color_scheme: mac_green
+    # color_scheme: mac_orange
+    # color_scheme: mac_blue
+    # color_scheme: win10
+    # color_scheme: apathy
+    color_scheme: google
+    # color_scheme: milan
+    # color_scheme: ink
+    # color_scheme: nord_light
+    # color_scheme: roseo_maple
+    # color_scheme: calm
+    # 深色主题
+    # color_scheme_dark: mac_dark
+    # color_scheme_dark: psionics
+    # color_scheme_dark: solarized_rock
+    # color_scheme_dark: solarized_dark
+    # color_scheme_dark: purity
+    # color_scheme_dark: starcraft
+    # color_scheme_dark: nord_dark
 
   preset_color_schemes:
     mac_light:
