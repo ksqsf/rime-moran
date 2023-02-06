@@ -78,13 +78,13 @@ speller:
 
 translator:    # 整句模式
   dictionary: moran.extended
-  initial_quality: -1
+  initial_quality: 0
 
 fixed:         # 固頂
   dictionary: moran.fixed
   enable_completion: false
   enable_sentence: false
-  initial_quality: 1
+  initial_quality: 5
   enable_user_dict: false
 
 custom_phrase: # 自定義短語
@@ -93,19 +93,19 @@ custom_phrase: # 自定義短語
   db_class: stabledb
   enable_completion: false
   enable_sentence: false
-  initial_quality: 2
+  initial_quality: 10
 
 english:
   dictionary: moran.english
-  enable_completion: true
+  enable_completion: false
   enable_sentence: false
-  initial_quality: 0.5
+  initial_quality: 1
 
 japanese:
   dictionary: moran.japanese
-  enable_completion: true
-  enable_sentence: true
-  initial_quality: 0.3
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
 
 emoji:
   opencc_config: emoji.json
