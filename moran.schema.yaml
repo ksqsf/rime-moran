@@ -78,6 +78,7 @@ speller:
 
 translator:    # 整句模式
   dictionary: moran.extended
+  initial_quality: -1
 
 fixed:         # 固頂
   dictionary: moran.fixed
@@ -92,7 +93,7 @@ custom_phrase: # 自定義短語
   db_class: stabledb
   enable_completion: false
   enable_sentence: false
-  initial_quality: 1
+  initial_quality: 2
 
 english:
   dictionary: moran.english
