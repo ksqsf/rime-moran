@@ -1,0 +1,3 @@
+patch:
+  menu:
+    alternative_select_labels: [ ㊀, ㊁, ㊂, ㊃, ㊄, ㊅, ㊆, ㊇, ㊈ ]
