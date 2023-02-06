@@ -119,6 +119,7 @@ cv	催
 #cz
 da	打
 db	都
+db	數據庫
 dc	掉
 #dd
 de	得
@@ -189,13 +190,14 @@ fo	佛
 #fq
 #fr
 fs	發送
+fs	文件系統
 #ft
 fu	服
 #fv
 fw	訪問
-#fx
+fx	分析
 #fy
-#fz
+fz	非
 ga	噶
 gb	狗
 gc	剛才
@@ -345,7 +347,7 @@ lm	連
 ln	林
 lo	咯
 lp	論
-lq	留
+lq	六
 lr	亂
 ls	聾
 lt	略
@@ -696,6 +698,7 @@ yt	月
 yu	與
 #yv
 yw	因爲
+yw	以爲
 #yx
 yy	應
 yz	樣子
@@ -2764,7 +2767,7 @@ daf	搭
 #dah
 #daj
 #dai
-#dak
+dak	噠
 #dal
 #dam
 #dan
@@ -2993,12 +2996,12 @@ djx	憚
 #dia
 #dib
 #dic
-#did
+did	滴
 #die
 #dif
 #dig
 #dih
-#dij
+dij	帝
 #dii
 #dik
 #dil
@@ -6071,7 +6074,7 @@ huh	虎
 #hxg
 #hxh
 #hxj
-#hxi
+hxi	候選窗
 #hxk
 #hxl
 #hxm
@@ -6203,7 +6206,7 @@ huh	虎
 #jcj
 #jci
 #jck
-#jcl
+jcl	交
 #jcm
 #jcn
 #jco
@@ -8607,7 +8610,7 @@ lne	鄰
 #lqq
 #lqr
 #lqs
-#lqt
+lqt	留
 #lqu
 #lqv
 #lqw
@@ -12408,6 +12411,7 @@ rgr	仍
 #rgt
 #rgu
 #rgv
+rgvn	人工智能
 #rgw
 #rgx
 #rgy
@@ -13525,6 +13529,7 @@ svv	歲
 #sxq
 #sxr
 #sxs
+sxsy	隨心所欲
 #sxt
 #sxu
 #sxv
@@ -14708,7 +14713,7 @@ uiy	試
 #urc
 #urd
 #ure
-#urf
+urf	輸入法
 #urg
 #urh
 #urj
@@ -16496,10 +16501,12 @@ xcd	淆
 #xhs
 #xht
 xhu	小紅書
+xhup	小鶴雙拼
 #xhv
 #xhw
 #xhx
-#xhy
+xhy	歇後語
+xhyx	小鶴音形
 #xhz
 #xja
 #xjb
@@ -17549,7 +17556,7 @@ yuw	玉
 #yvu
 #yvv
 #yvw
-#yvx
+yvx	一致性
 #yvy
 #yvz
 #ywa
@@ -17614,6 +17621,7 @@ yuw	玉
 #yyh
 #yyj
 yyi	蠅
+yyix	應用程序
 #yyk
 #yyl
 #yym
