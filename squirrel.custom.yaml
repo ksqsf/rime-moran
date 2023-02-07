@@ -7,9 +7,9 @@ patch:
     translucency: false     # 透明度總開關
 
     # 浅色主题
-    color_scheme: google
+    color_scheme: milan
     # 深色主题
-    # color_scheme_dark: ...
+    color_scheme_dark: psionics
 
     # 默認界面設置 (會被具體主題覆寫)
     font_point: 16
