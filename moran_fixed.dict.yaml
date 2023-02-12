@@ -61,12 +61,12 @@ aq	安全
 #at
 #au
 av	安裝
-#aw
-#ax
-#ay
+#aw	
+#ax	❤️
+ay	哎呀
 #az
 ba	把
-#bb
+bb	並不
 bc	表
 #bd
 #be
@@ -102,7 +102,7 @@ ch	藏
 cj	慘
 ci	詞
 ck	草
-cl	菜
+cl	才
 #cm
 #cn
 co	錯
@@ -347,7 +347,7 @@ lm	連
 ln	林
 lo	落
 lp	論
-lq	六
+lq	留
 lr	亂
 ls	聾
 lt	略
@@ -472,7 +472,7 @@ qd	強
 #qg
 #qh
 #qj
-qi	騎
+qi	起
 #qk
 #ql
 qm	前
@@ -690,7 +690,7 @@ yl	依賴
 #ym
 yn	因
 yo	喲
-yp	暈
+yp	雲
 #yq
 yr	元
 ys	用
@@ -1066,58 +1066,58 @@ aho	昂
 #amx
 #amy
 #amz
-#ana
-#anb
-#anc
+ana	厂
+anb	安
+anc	庵
 #and
 #ane
-#anf
-#ang
-#anh
-#anj
-#ani
-#ank
+anf	按
+ang	鞍
+anh	黯
+anj	銨
+ani	厈
+ank	唵
 #anl
-#anm
-#ann
-#ano
+anm	案
+ann	鵪
+ano	暗
 #anp
-#anq
-#anr
-#ans
+anq	氨
+anr	俺
+ans	罯
 #ant
-#anu
+anu	岸
 #anv
-#anw
-#anx
-#any
-#anz
-#aoa
+anw	玵
+anx	馣
+any	諳
+anz	遃
+aoa	凹
 #aob
 #aoc
-#aod
-#aoe
-#aof
-#aog
-#aoh
-#aoj
-#aoi
-#aok
-#aol
+aod	澳
+aoe	聱
+aof	拗
+aog	廒
+aoh	熬
+aoj	鏊
+aoi	螯
+aok	嗷
+aol	鏖
 #aom
-#aon
-#aoo
-#aop
-#aoq
-#aor
+aon	媼
+aoo	眑
+aop	奧
+aoq	獒
+aor	傲
 #aos
-#aot
-#aou
+aot	坳
+aou	岰
 #aov
-#aow
-#aox
-#aoy
-#aoz
+aow	敖
+aox	懊
+aoy	袄
+aoz	遨
 #apa
 #apb
 #apc
@@ -1404,33 +1404,33 @@ aho	昂
 #azx
 #azy
 #azz
-#baa
-#bab
-#bac
-#bad
+baa	巴
+bab	疤
+bac	芭
+bad	灞
 #bae
 baf	拔
 bafb	扒
-#bag
-#bah
-#baj
-#bai
+bag	靶
+bah	炦
+baj	鈀
+bai	蚆
 bak	吧
-#bal
-#bam
-#ban
-#bao
-#bap
+bal	耙
+bam	粑
+ban	妭
+bao	胈
+bap	八
 #baq
-#bar
-#bas
-#bat
+bar	仈
+bas	罷
+bat	壩
 #bau
-#bav
-#baw
-#bax
-#bay
-#baz
+bav	笆
+baw	玐
+bax	覇
+bay	霸
+baz	跋
 #bba
 #bbb
 #bbc
@@ -1458,30 +1458,31 @@ bak	吧
 #bby
 #bbz
 #bca
-#bcb
+bcb	瘭
 #bcc
 #bcd
 #bce
-#bcf
+bcf	飆
 #bcg
-#bch
-#bcj
-#bci
+bch	彪
+bcj	鑣
+bci	髟
 #bck
-#bcl
-#bcm
-#bcn
-#bco
+bcl	麃
+bcm	標
+bcm	驫
+bcn	婊
+bco	膘
 #bcp
-#bcq
+bcq	猋
 #bcr
 #bcs
-#bct
-#bcu
-#bcv
+bct	墂
+bcu	磦
+bcv	篻
 #bcw
 #bcx
-#bcy
+bcy	褾
 #bcz
 #bda
 #bdb
@@ -1535,43 +1536,43 @@ bak	吧
 #bex
 #bey
 #bez
-#bfa
-#bfb
-#bfc
-#bfd
+bfa	本
+bfb	賁
+bfc	苯
+bfd	奔
 #bfe
 #bff
 #bfg
-#bfh
+bfh	炃
 #bfj
-#bfi
-#bfk
+bfi	蟦
+bfk	喯
 #bfl
 #bfm
-#bfn
+bfn	犇
 #bfo
 #bfp
 #bfq
-#bfr
-#bfs
-#bft
+bfr	倴
+bfs	畚
+bft	坌
 #bfu
-#bfv
+bfv	笨
 #bfw
 #bfx
-#bfy
-#bfz
+bfy	翉
+bfz	逩
 #bga
-#bgb
-#bgc
-#bgd
+bgb	甭
+bgc	菶
+bgd	奟
 #bge
-#bgf
-#bgg
+bgf	揼
+bgg	鞛
 #bgh
-#bgj
-#bgi
-#bgk
+bgj	鏰
+bgi	蚌
+bgk	嘣
 #bgl
 #bgm
 #bgn
@@ -1579,93 +1580,107 @@ bak	吧
 #bgp
 #bgq
 #bgr
-#bgs
+bgs	繃
 #bgt
-#bgu
+bgu	泵
 #bgv
-#bgw
-#bgx
+bgw	甮
+bgx	恲
 #bgy
-#bgz
+bgz	蹦
+bgz	迸
 #bha
-#bhb
-#bhc
-#bhd
-#bhe
-#bhf
-#bhg
-#bhh
-#bhj
-#bhi
+bhb	幫
+bhc	蒡
+bhd	浜
+bhe	邦
+bhf	搒
+bhg	髈
+bhh	稖
+bhj	鎊
+bhi	蚌
 #bhk
 #bhl
-#bhm
+bhm	棒
+bhmp	榜
 #bhn
-#bho
-#bhp
+bho	膀
+bhp	牓
 #bhq
-#bhr
-#bhs
+bhr	傍
+bhs	綁
 #bht
-#bhu
-#bhv
-#bhw
+bhu	磅
+bhv	艕
+bhw	玤
 #bhx
-#bhy
+bhy	謗
 #bhz
 #bja
-#bjb
+bjb	半
 #bjc
-#bjd
-#bje
-#bjf
-#bjg
-#bjh
-#bjj
-#bji
+bjd	班
+bje	阪
+bjf	扮
+bjf	拌
+bjf	搬
+bjf	扳
+bjfy	搬
+bjfd	扮
+bjg	瓣
+bjh	秚
+bjj	鈑
+bji	螌
 #bjk
 bjl	辦
-#bjm
+bjm	板
+bjm	闆
 #bjn
 #bjo
-#bjp
-#bjq
-#bjr
-#bjs
-#bjt
-#bju
-#bjv
-#bjw
-#bjx
-#bjy
-#bjz
-#bia
-#bib
+bjp	版
+bjq	編輯器
+bjr	伴
+bjs	絆
+bjt	坂
+bju	搫
+bjv	般
+bjw	斑
+bjx	怑
+bjy	頒
+bjz	跘
+bia	畐
+bib	痹
 bibb	皕
-#bic
-#bid
-#bie
-#bif
-#big
-#bih
-#bij
-#bii
-#bik
+bic	弊
+bic	蔽
+bicw	蔽
+bid	濞
+bie	鄙
+bif	旇
+big	庇
+bih	秕
+bij	币
+bii	蜌
+bik	嗶
 #bil
-#bim
-#bin
-#bio
-#bip
+bim	閉
+bin	婢
+bio	臂
+bip	匕
 #biq
-#bir
-#bis
-#bit
-#biu
-#biv
-#biw
-#bix
-#biy
-#biz
+bir	俾
+bis	斃
+bit	壁
+biu	畢
+biv	筆
+biw     敝
+bix	必
+biy	璧
+biz	逼
+biz	避
+biz	鼻
+bizx	避
+bizq	鼻
 #bka
 bkb	寶
 #bkc
@@ -1685,7 +1700,7 @@ bkn	鴇
 #bkq
 #bkr
 #bks
-#bkt
+bkt	堡
 #bku
 #bkv
 #bkw
@@ -1698,104 +1713,126 @@ bla	百
 #bld
 #ble
 blf	掰
-#blg
-#blh
+blf	擺
+blfn	擺弄
+blfq	擺
+blg	庍
+blh	稗
 #blj
 #bli
-#blk
-#bll
-#blm
-#bln
+blk	兡
+bll	竡
+blm	柏
+bln	犤
 #blo
 #blp
-#blq
-#blr
-#bls
+blq	猈
+blr	伯
+blr	佰
+bls	絔
 #blt
-#blu
+blu	拜
 #blv
-#blw
+blw	敗
 #blx
-#bly
+bly	襬
 #blz
 #bma
-#bmb
-#bmc
-#bmd
+bmb	貶
+bmc	苄
+bmd	辨
 #bme
 #bmf
-#bmg
-#bmh
-#bmj
-#bmi
-#bmk
+bmg	鞭
+bmh	扁
+bmh	煸
+bmj	覵
+bmi	蝙
+bmk	匾
 #bml
 #bmm
 #bmn
 #bmo
-#bmp
+bmp	牑
 #bmq
-#bmr
-#bms
+bmr	便
+bms	編
+bms	辮
+bmsx	辮
 #bmt
-#bmu
-#bmv
-#bmw
-#bmx
-#bmy
-#bmz
+bmu	砭
+bmv	籩
+bmw	變
+bmx	辡
+bmy	辯
+bmz	邊
 #bna
-#bnb
+bnb	賓
 #bnc
-#bnd
-#bne
-#bnf
-#bng
+bnd	瀕
+bnd	殯
+bne	邠
+bnf	擯
+bng	髕
 #bnh
-#bnj
-#bni
+bnj	鑌
+bni	鬢
 #bnk
 #bnl
-#bnm
+bnm	檳
 #bnn
-#bno
-#bnp
+bno	臏
+bnp	彬
 #bnq
-#bnr
-#bns
+bnr	儐
+bns	繽
 #bnt
-#bnu
+bnu	豳
 #bnv
-#bnw
+bnw	斌
 #bnx
 #bny
 #bnz
-#boa
-#bob
-#boc
-#bod
-#boe
-#bof
-#bog
+boa	癶
+bob	皪
+boc	薄
+boct	蔔
+bod	剝
+bod	波
+bod	泊
+boe	郣
+bof	撥
+bof	搏
+bof	播
+bog	瓟
 #boh
-#boj
-#boi
-#bok
-#bol
-#bom
-#bon
-#boo
-#bop
-#boq
-#bor
-#bos
-#bot
-#bou
-#bov
-#bow
+boj	帛
+bojb	鉢
+boi	蚾
+bok	啵
+bol	勃
+bom	駁
+bon	鵓
+boo	脖
+boo	膊
+boob	胉
+boof	膊
+bop	牔
+boq	狛
+bor	伯
+bos	紴
+bot	壆
+bou	博
+bou	擘
+bou	餑
+bov	簿
+bov	箔
+bov	舶
+bov	簸
+bow	玻
 #box
-#boy
-#boz
+boy	詙
+boz	跛
 #bpa
 #bpb
 #bpc
@@ -1926,32 +1963,35 @@ blf	掰
 #btx
 #bty
 #btz
-#bua
+bua	卜
 #bub
 #buc
 #bud
 bue	部
-#buf
+buf	捕
+buff	部分
 #bug
 #buh
-#buj
-#bui
-#buk
+buj	布
+buj	鈈
+bui     轐
+buk	哺
 #bul
-#bum
+bum	柨
 #bun
-#buo
+buo	晡
 #bup
 #buq
-#bur
+bur	佈
 #bus
-#but
+but	埠
 #buu
-#buv
-#buw
-#bux
-#buy
-#buz
+buv	簿
+buv	步
+buw	瓿
+bux	怖
+buy	補
+buz	逋
 #bva
 #bvb
 #bvc
@@ -1961,6 +2001,7 @@ bvd	不知道
 #bvg
 #bvh
 bvj	B站
+bvj	Bilibili
 #bvi
 #bvk
 #bvl
@@ -2005,18 +2046,19 @@ bvj	B站
 #bwy
 #bwz
 #bxa
-#bxb
+bxb	癟
 #bxc
-#bxd
+bxd	別
 #bxe
 #bxf
-#bxg
+bxg	龞
+bxg	彆
 #bxh
 #bxj
 #bxi
 #bxk
 #bxl
-#bxm
+bxm	鼈
 #bxn
 #bxo
 #bxp
@@ -2027,15 +2069,15 @@ bvj	B站
 #bxu
 #bxv
 #bxw
-#bxx
-#bxy
-#bxz
-#bya
-#byb
-#byc
-#byd
+bxx	憋
+bxy	鱉
+bxz	蹩
+bya	丙
+byb	并
+byc	苪
+byd	冰
 #bye
-#byf
+byf	摒
 #byg
 #byh
 #byj
@@ -2045,87 +2087,93 @@ bvj	B站
 #bym
 #byn
 #byo
-#byp
+byp	秉
 byq	編譯器
-#byr
-#bys
-#byt
-#byu
+byr	併
+bys	絣
+byt	垪
+byu	餅
 #byv
-#byw
+byw     稟
 #byx
 #byy
-#byz
-#bza
-#bzb
-#bzc
+byz	迸
+bza	貝
+bzb	北
+bzc	蓓
 #bzd
-#bze
-#bzf
-#bzg
-#bzh
-#bzj
-#bzi
-#bzk
+bze	邶
+bze	陂
+bzf	揹
+bzg	鞴
+bzh	焙
+bzj	鋇
+bzi	軰
+bzk	唄
 #bzl
-#bzm
+bzm	杯
 #bzn
-#bzo
-#bzp
-#bzq
-#bzr
+bzo	背
+bzp	卑
+bzq	狽
+bzr	倍
+bzr	備
+bzry	備
 #bzs
-#bzt
-#bzu
-#bzv
-#bzw
-#bzx
-#bzy
-#bzz
+bzt	垻
+bzu	碑
+bzv	箄
+bzw	备
+bzx	悲
+bzx	悖
+bzx	憊
+bzy	誖
+bzz	孛
 #caa
 #cab
 #cac
 #cad
 #cae
-#caf
+caf	擦
 #cag
 #cah
 #caj
 #cai
-#cak
+cak	囃
+cak	嚓
 #cal
 #cam
 #can
 #cao
 #cap
 #caq
-#car
+car	偲
 #cas
 #cat
 #cau
 #cav
 #caw
 #cax
-#cay
-#caz
+cay	乲
+caz	遪
 #cba
 #cbb
 #cbc
-#cbd
+cbd	湊
 #cbe
 #cbf
 #cbg
 #cbh
 #cbj
-#cbi
+cbi	輳
 #cbk
 #cbl
-#cbm
+cbm	楱
 #cbn
-#cbo
+cbo	腠
 #cbp
-#cbq
-#cbr
+cbq	擦邊球
+cbr	傶
 #cbs
 #cbt
 #cbu
@@ -2186,16 +2234,16 @@ byq	編譯器
 #cdx
 #cdy
 #cdz
-#cea
+cea	冊
 #ceb
 #cec
-#ced
+ced	測
 #cee
-#cef
-#ceg
+cef	拺
+ceg	廁
 #ceh
 #cej
-#cei
+cei	厠
 #cek
 #cel
 #cem
@@ -2203,13 +2251,13 @@ byq	編譯器
 #ceo
 #cep
 #ceq
-#cer
+cer	側
 #ces
-#cet
-#ceu
-#cev
-#cew
-#cex
+cet	畟
+ceu	冊
+cev	策
+cew	敇
+cex	惻
 #cey
 #cez
 #cfa
@@ -2239,7 +2287,7 @@ byq	編譯器
 #cfy
 #cfz
 #cga
-#cgb
+cgb	曾
 #cgc
 #cgd
 #cge
@@ -2248,9 +2296,10 @@ byq	編譯器
 #cgh
 #cgj
 #cgi
-#cgk
-#cgl
-#cgm
+cgk	噌
+cgl	竲
+cgm	橧
+cgm	驓
 #cgn
 #cgo
 #cgp
@@ -2258,142 +2307,152 @@ byq	編譯器
 #cgr
 #cgs
 #cgt
-#cgu
+cgu	層
 #cgv
 #cgw
 #cgx
 #cgy
-#cgz
+cgz	蹭
 #cha
-#chb
-#chc
-#chd
+chb	賶
+chc	蒼
+chd	滄
 #che
 #chf
 #chg
 #chh
-#chj
-#chi
+chj	鑶
+chi	螥
 #chk
 #chl
-#chm
-#chn
+chm	欌
+chn	鶬
 #cho
 #chp
-#chq
-#chr
+chq	獊
+chr	倉
+chr	傖
+chrc	傖
 #chs
 #cht
-#chu
-#chv
-#chw
+chu	嵢
+chv	艙
+chw	瑲
 #chx
 #chy
 #chz
 #cja
-#cjb
-#cjc
-#cjd
+cjb	歺
+cjc	薒
+cjd	殘
+cjd	飡
 #cje
-#cjf
+cjf	摻
 #cjg
-#cjh
+cjh	燦
 #cjj
-#cji
-#cjk
+cji	蠶
+cjk	喰
 #cjl
-#cjm
-#cjn
-#cjo
+cjm	粲
+cjm	驂
+cjn	嬠
+cjo	朁
 #cjp
 #cjq
 #cjr
-#cjs
+cjs	參
 #cjt
-#cju
-#cjv
-#cjw
-#cjx
-#cjy
+cju	餐
+cjv	篸
+cjw	璨
+cjx	慘
+cjx	慚
+cjy	謲
 #cjz
-#cia
-#cib
+cia	朿
+cib	賜
+cib	疵
 #cic
-#cid
+cid	次
+cid	刺
 #cie
 #cif
 #cig
 #cih
-#cij
+cij	鈶
 #cii
-#cik
+cik	呲
 #cil
-#cim
-#cin
+cim	糍
+cin	鶿
 #cio
 #cip
 #ciq
 #cir
 #cis
-#cit
-#ciu
-#civ
-#ciw
-#cix
+cit	垐
+ciu	磁
+civ	此
+ciw	瓷
+cix	辭
 #ciy
-#ciz
-#cka
+ciz	跐
+cka	艹
+cka	屮
 #ckb
-#ckc
-#ckd
-#cke
-#ckf
-#ckg
+ckc	艸
+ckd	漕
+cke	鄵
+ckf	操
+ckg	鼜
 #ckh
-#ckj
-#cki
-#ckk
+ckj	鏪
+cki	螬
+ckk	嘈
 #ckl
-#ckm
+ckm	槽
+ckm	糙
 #ckn
-#cko
+cko	曹
 #ckp
 #ckq
-#ckr
+ckr	肏
 #cks
 #ckt
-#cku
-#ckv
+cku	嶆
+ckv	艚
 #ckw
-#ckx
+ckx	愺
 #cky
 #ckz
-#cla
-#clb
-#clc
+cla	才
+clb	財
+clc	菜
 #cld
 #cle
-#clf
-#clg
+clf	採
+clg	裁
 #clh
 #clj
 #cli
-#clk
+clk	啋
 #cll
-#clm
-#cln
-#clo
-#clp
-#clq
-#clr
-#cls
-#clt
+clm	采
+clm	材
+cln	婇
+clo	睬
+clp	彩
+clq	猜
+clr	倸
+cls	纔
+clt	埰
 #clu
-#clv
+clv	采
 #clw
 #clx
-#cly
-#clz
+cly	裁
+clz	踩
 #cma
 #cmb
 #cmc
@@ -2447,47 +2506,51 @@ byq	編譯器
 #cny
 #cnz
 #coa
-#cob
+cob	痤
 #coc
-#cod
-#coe
-#cof
-#cog
-#coh
-#coj
-#coi
+cod	剉
+coe	酇
+cof	挫
+cof	搓
+cof	撮
+cof	措
+cog	庴
+coh	虘
+coj	錯
+coj	銼
+coi	厝
 #cok
-#col
+col	鹺
 #com
 #con
 #coo
 #cop
 #coq
 #cor
-#cos
+cos	縒
 #cot
-#cou
+cou	磋
 #cov
 #cow
 #cox
 #coy
-#coz
-#cpa
+coz	蹉
+cpa	寸
 #cpb
-#cpc
-#cpd
-#cpe
-#cpf
+cpc	屗
+cpd	刌
+cpe	邨
+cpf	拵
 #cpg
 #cph
 #cpj
 #cpi
-#cpk
-#cpl
-#cpm
+cpk	吋
+cpl	竴
+cpm	村
 #cpn
 #cpo
-#cpp
+cpp	皴
 #cpq
 #cpr
 #cps
@@ -2495,7 +2558,7 @@ byq	編譯器
 #cpu
 #cpv
 #cpw
-#cpx
+cpx	忖
 #cpy
 #cpz
 #cqa
@@ -2529,53 +2592,53 @@ byq	編譯器
 #crc
 #crd
 #cre
-#crf
+crf	攢
 #crg
-#crh
+crh	爨
 #crj
 #cri
 #crk
 #crl
-#crm
+crm	櫕
 #crn
 #cro
 #crp
 #crq
-#crr
+crr	汆
 #crs
 #crt
-#cru
-#crv
+cru	巑
+crv	篡
 #crw
-#crx
-#cry
-#crz
-#csa
-#csb
-#csc
-#csd
-#cse
+crx	竄
+cry	襸
+crz	躥
+csa	丛
+csb	匆
+csc	蔥
+csd	淙
+cse	聰
 #csf
-#csg
+csg	匆
 #csh
 #csj
-#csi
-#csk
-#csl
-#csm
+csi	蟌
+csk	囪
+csl	樷
+#csm	欉
 #csn
 #cso
-#csp
+csp	囪
 #csq
 #csr
-#css
+css	繱
 #cst
-#csu
-#csv
-#csw
-#csx
-#csy
-#csz
+csu	碂
+csv	篵
+csw	琮
+csx	怱
+csy	叢
+csz	孮
 #cta
 #ctb
 #ctc
@@ -2604,55 +2667,58 @@ byq	編譯器
 #ctz
 #cua
 #cub
-#cuc
-#cud
+cuc	蔟
+cud	殂
 #cue
 #cuf
 #cug
 #cuh
 #cuj
 #cui
-#cuk
-#cul
-#cum
+cuk	噈
+cul	麤
+cum	粗
 #cun
-#cuo
-#cup
-#cuq
-#cur
-#cus
-#cut
-#cuu
-#cuv
-#cuw
-#cux
-#cuy
-#cuz
+cuo	脨
+cup	皻
+cuq	猝
+cur	促
+cus	縬
+cut	鼀
+cuu	卒
+cuv	簇
+cuw	卒
+cux	徂
+cuy	醋
+cuy	酢
+cuz	蹙
+cuz	蹴
 #cva
 #cvb
-#cvc
-#cvd
+cvc	萃
+cvd	淬
 #cve
-#cvf
+cvf	摧
 #cvg
-#cvh
-#cvj
+cvh	焠
+cvj	鏙
 #cvi
-#cvk
+cvk	啐
 #cvl
-#cvm
+cvm	粹
+cvm	毳
 #cvn
-#cvo
-#cvp
+cvo	脆
+cvp	隹
 #cvq
-#cvr
+cvr	催
 #cvs
-#cvt
-#cvu
+cvt	墔
+cvu	崔
 #cvv
-#cvw
+cvw	衰
 #cvx
-#cvy
+cvy	翠
 #cvz
 #cwa
 #cwb
@@ -2759,41 +2825,42 @@ byq	編譯器
 #czy
 #czz
 daa	大
-#dab
+dab	瘩
 #dac
 #dad
-#dae
+dae	耷
 daf	搭
-#dag
-#dah
+dag	韃
+dah	炟
 #daj
-#dai
+dai	蟽
 dak	噠
-#dal
+dal	龘
 #dam
-#dan
-#dao
+dan	妲
+dao	沓
 #dap
 #daq
-#dar
-#das
-#dat
+dar	畣
+das	眔
+dat	墶
 #dau
-#dav
+dav	答
+dav	笪
 #daw
-#dax
+dax	怛
 #day
-#daz
-#dba
-#dbb
+daz	達
+dba	豆
+dbb	兜
 #dbc
-#dbd
-#dbe
-#dbf
+dbd	斗
+dbe	陡
+dbf	抖
 #dbg
 #dbh
 #dbj
-#dbi
+dbi	蚪
 #dbk
 #dbl
 #dbm
@@ -2801,45 +2868,47 @@ dak	噠
 #dbo
 #dbp
 dbq	對不起
-#dbr
+dbr	侸
 #dbs
 #dbt
-#dbu
-#dbv
-#dbw
-#dbx
-#dby
-#dbz
-#dca
-#dcb
+dbu	餖
+dbv	篼
+dbw     鬥
+dbx	竇
+dby	讀
+dbz	逗
+dca	弔
+dcb	瘹
 #dcc
-#dcd
-#dce
-#dcf
-#dcg
+dcd	凋
+dce	﨩
+dcf	掉
+dcg	弔
 #dch
-#dcj
-#dci
-#dck
-#dcl
+dcj	釣
+dci	蛁
+dck	吊
+dck	叼
+dcl     竨
 #dcm
-#dcn
-#dco
-#dcp
+dcn	鵰
+dco	瞗
+dcp	彫
 #dcq
-#dcr
-#dcs
+dcr	伄
+dcs	絩
 #dct
-#dcu
-#dcv
-#dcw
-#dcx
-#dcy
+dcu	碉
+dcu	屌
+dcv	雕
+dcw	琱
+dcx	窵
+dcy     調
 #dcz
 #dda
 #ddb
 #ddc
-#ddd
+ddd	端到端
 #dde
 #ddf
 #ddg
@@ -2870,11 +2939,11 @@ dbq	對不起
 #def
 #deg
 deh	的話
-#dej
-#dei
-#dek
+dej	鍀
+dei	蚮
+dek	嘚
 #del
-#dem
+dem	棏
 #den
 deo	旳
 #dep
@@ -2885,7 +2954,7 @@ det	地
 #deu
 #dev
 #dew
-#dex
+dex	德
 #dey
 #dez
 #dfa
@@ -2893,7 +2962,7 @@ det	地
 #dfc
 #dfd
 #dfe
-#dff
+dff	抌
 #dfg
 #dfh
 #dfj
@@ -2917,29 +2986,29 @@ det	地
 #dga
 #dgb
 #dgc
-#dgd
-#dge
+dgd	登
+dge	鄧
 #dgf
-#dgg
-#dgh
-#dgj
+dgg	戥
+dgh	燈
+dgj	凳
 #dgi
-#dgk
-#dgl
-#dgm
-#dgn
-#dgo
+dgk	噔
+dgl	竳
+dgm	櫈
+dgn	嬁
+dgo	瞪
 #dgp
 #dgq
-#dgr
+dgr	僜
 #dgs
-#dgt
+dgt	墱
 #dgu
 #dgv
-#dgw
-#dgx
+dgw	璒
+dgx	憕
 #dgy
-#dgz
+dgz	蹬
 #dha
 dhb	宕
 dhc	蕩
@@ -2948,23 +3017,23 @@ dhe	党
 dhf	擋
 #dhg
 dhh	黨
-#dhj
-#dhi
-#dhk
+dhj	鐺
+dhi	蟷
+dhk	噹
 #dhl
-#dhm
-#dhn
-#dho
+dhm	檔
+dhn	婸
+dho	瞊
 #dhp
 #dhq
 #dhr
 #dhs
-#dht
+dht	壋
 #dhu
 #dhv
 #dhw
 dhx	黨
-#dhy
+dhy	襠
 #dhz
 dja	石
 djb	单
@@ -2995,31 +3064,38 @@ djx	憚
 #djy
 #djz
 #dia
-#dib
-#dic
+dib	弟
+dic	蔕
 did	滴
-#die
-#dif
-#dig
+die	邸
+dif	抵
+dig	底
 #dih
 dij	帝
 #dii
-#dik
-#dil
-#dim
-#din
-#dio
-#dip
-#diq
-#dir
-#dis
-#dit
-#diu
-#div
-#diw
+dik	嘀
+dik	哋
+dik	啲
+dik	嚸
+dil	帝
+dim	棣
+din	嫡
+dio	睇
+dip	氐
+diq	狄
+dir	低
+dir	籴
+dis	締
+dit	堤
+dit	墬
+diu	砥
+div	第
+div	笛
+diw     敵
 #dix
-#diy
-#diz
+diy	翟
+diz	迪
+diz	遞
 #dka
 #dkb
 #dkc
@@ -3046,58 +3122,60 @@ dij	帝
 #dkx
 #dky
 dkz	蹈
-#dla
-#dlb
+dla	歹
+dlb	貸
 #dlc
-#dld
+dld	殆
 #dle
-#dlf
-#dlg
-#dlh
-#dlj
-#dli
-#dlk
+dlf	摕
+dlg	戴
+dlh	黛
+dlj	帶
+dli	蚮
+dlk	呆
 #dll
 #dlm
-#dln
+dln	鴏
 #dlo
 #dlp
-#dlq
-#dlr
+dlq	獃
+dlr	代
 #dls
 #dlt
-#dlu
+dlu	岱
 #dlv
-#dlw
-#dlx
-#dly
-#dlz
-#dma
-#dmb
+dlw	玳
+dlx	待
+dlx	怠
+dly	袋
+dlz	逮
+dma	电
+dmb	典
 #dmc
-#dmd
-#dme
-#dmf
-#dmg
-#dmh
-#dmj
+dmd	滇
+dmd	奠
+dme	阽
+dmf	掂
+dmg	店
+dmh	點
+dmj	鈿
 #dmi
 #dmk
 #dml
 #dmm
 #dmn
-#dmo
-#dmp
-#dmq
-#dmr
+dmo	电
+dmp	敁
+dmq	靛
+dmr	佃
 #dms
-#dmt
-#dmu
+dmt	墊
+dmu	殿
 #dmv
 #dmw
-#dmx
-#dmy
-#dmz
+dmx	惦
+dmy	電
+dmz	踮
 #dna
 #dnb
 #dnc
@@ -3124,32 +3202,33 @@ dkz	蹈
 #dnx
 #dny
 #dnz
-#doa
+doa	夛
 #dob
-#doc
-#dod
+doc	奪
+dod	剁
 #doe
-#dof
-#dog
+dof	掇
+dog	度
 #doh
-#doj
-#doi
-#dok
+doj	鐸
+doi	鬌
+dok	咄
 #dol
-#dom
+dom	朵
 #don
 #doo
 #dop
 #doq
 #dor
 #dos
-#dot
-#dou
-#dov
+dot	墮
+dou	躲
+dov	舵
 #dow
-#dox
+dox	惰
 #doy
-#doz
+doz	跺
+dozd	踱
 #dpa
 #dpb
 #dpc
@@ -3181,10 +3260,10 @@ dpk	噸
 #dqc
 #dqd
 #dqe
-#dqf
+dqf	颩
 #dqg
 #dqh
-#dqj
+dqj	銩
 #dqi
 #dqk
 #dql
@@ -3204,56 +3283,60 @@ dpk	噸
 #dqz
 #dra
 #drb
-#drc
+drc	葮
 #drd
 #dre
 #drf
 #drg
-#drh
+drh	煅
 drj	斷
 #dri
 #drk
-#drl
-#drm
-#drn
-#dro
-#drp
+drl	端
+drm	椴
+drn	媏
+dro	腶
+drp	段
 #drq
-#drr
-#drs
-#drt
+drr	偳
+drs	緞
+drt	塅
 dru	段
-#drv
-#drw
+drv	籪
+drw	瑖
 #drx
-#dry
-#drz
-#dsa
+dry	褍
+drz	躖
+dsa	東
 #dsb
-#dsc
-#dsd
+dsc	董
+dsd	洞
+dsd	凍
+dsdd	凍
+dsdt	洞
 #dse
-#dsf
-#dsg
+dsf	揰
+dsg	鼕
 #dsh
 #dsj
-#dsi
-#dsk
-#dsl
-#dsm
-#dsn
-#dso
+dsi	蝀
+dsk	咚
+dsl	動
+dsm	棟
+dsn	姛
+dsn	鶇
+dso	胴
 #dsp
-#dsq
-#dsr
-#dss
+dsq	氡
+dsr	働
+dss	絧
 #dst
 #dsu
 #dsv
-#dsw
-#dsx
+dsw	冬
+dsx	懂
 #dsy
-#dsz
+dsz	迵
 #dta
 #dtb
 #dtc
@@ -3280,56 +3363,62 @@ dru	段
 #dtx
 #dty
 #dtz
-#dua
-#dub
+dua	蠹
+dub	賭
 #duc
-#dud
-#due
-#duf
-#dug
-#duh
-#duj
-#dui
-#duk
+dud	渡
+dud	瀆
+due	都
+duf	毒
+dug	度
+duh	黷
+duj	鍍
+dui	蠧
+duk	嘟
 #dul
-#dum
-#dun
-#duo
-#dup
-#duq
+dum	杜
+dun	妒
+duo	睹
+duo	肚
+duo	督
+duot	肚
+duou	督
+duov	睹
+dup	牘
+duq	獨
 #dur
-#dus
-#dut
-#duu
-#duv
+dus	斁
+dut	堵
+duu	蠧
+duv	篤
 #duw
 #dux
 #duy
 #duz
 #dva
-#dvb
-#dvc
+dvb	兌
+dvc	對
 #dvd
-#dve
+dve	隊
 dvf	㨃
 #dvg
 #dvh
 #dvj
-#dvi
-#dvk
+dvi	轛
+dvk	啍
 #dvl
-#dvm
-#dvn
+dvm	杸
+dvn	鴭
 #dvo
 #dvp
 #dvq
 #dvr
-#dvs
-#dvt
+dvs	綐
+dvt	堆
 #dvu
-#dvv
+dvv	頧
 #dvw
-#dvx
+dvx	懟
 #dvy
 #dvz
 #dwa
@@ -3342,7 +3431,7 @@ dvf	㨃
 #dwh
 #dwj
 #dwi
-#dwk
+dwk	嗲
 #dwl
 #dwm
 #dwn
@@ -3360,56 +3449,58 @@ dvf	㨃
 #dwz
 #dxa
 #dxb
-#dxc
+dxc	苵
 #dxd
 #dxe
-#dxf
-#dxg
+dxf	爹
+dxg	瓞
 #dxh
-#dxj
-#dxi
-#dxk
-#dxl
-#dxm
-#dxn
-#dxo
-#dxp
-#dxq
+dxj	幉
+dxi	蝶
+dxk	咥
+dxk	喋
+dxl	疊
+dxm	楪
+dxn	鴩
+dxo	昳
+dxp	牒
+dxq	疊
 #dxr
-#dxs
+dxs	絰
 #dxt
-#dxu
+dxu	碟
 #dxv
 #dxw
 #dxx
-#dxy
-#dxz
-#dya
-#dyb
+dxy	諜
+dxz	跌
+dya	丁
+dyb	定
 #dyc
-#dyd
-#dye
-#dyf
-#dyg
+dyd	頂
+dye	耵
+dyf	掟
+dyg	靪
 #dyh
-#dyj
-#dyi
-#dyk
+dyj	釘
+dyi	虰
+dyk	叮
 #dyl
-#dym
-#dyn
-#dyo
+dym	椗
+dyn	奵
+dyo	盯
+dyoa	鼎
 #dyp
 #dyq
-#dyr
+dyr	仃
 #dys
-#dyt
-#dyu
+dyt	町
+dyu	嵿
 #dyv
-#dyw
+dyw	玎
 dywe	獨一無二
-#dyx
-#dyy
+dyx	忊
+dyy	訂
 #dyz
 #dza
 #dzb
@@ -3421,22 +3512,22 @@ dywe	獨一無二
 #dzh
 #dzj
 #dzi
-#dzk
+dzk	嘚
 #dzl
 #dzm
 #dzn
 #dzo
 #dzp
 #dzq
-#dzr
+dzr	得
 #dzs
 #dzt
 #dzu
 #dzv
 #dzw
-#dzx
+dzx	得
 #dzy
-#dzz
+dzz	逮
 #eaa
 #eab
 #eac
@@ -3776,13 +3867,13 @@ ebu	而不是
 #emy
 #emz
 #ena
-#enb
-#enc
+enb	奀
+enc	蒽
 #end
 #ene
-#enf
+enf	摁
 #eng
-#enh
+enh	煾
 #enj
 #eni
 enk	嗯
@@ -3795,7 +3886,7 @@ enk	嗯
 #enr
 #ens
 #ent
-#enu
+enu	峎
 #env
 #enw
 #enx
@@ -3879,32 +3970,34 @@ enk	嗯
 #eqx
 #eqy
 #eqz
-#era
-#erb
+era	二
+erb	貳
 #erc
-#erd
-#ere
+erd	尔
+ere	兒
 #erf
 #erg
 erh	耳
-#erj
+#erj	兒
 #eri
-#erk
+erk	咡
 #erl
 #erm
-#ern
-#ero
-#erp
-#erq
-#err
+ern	鴯
+ero	胹
+erp	尓
+erq	而且
+err	尓
+err	尒
 #ers
 #ert
-#eru
+eru	餌
 #erv
-#erw
-#erx
-#ery
-#erz
+erw	珥
+erx	尔
+ery	貳
+ery	弍
+erz	邇
 #esa
 #esb
 #esc
@@ -5583,7 +5676,7 @@ hdc	荒
 #hek
 #hel
 #hem
-#hen
+hen	鶴
 heo	曷
 #hep
 #heq
@@ -6380,7 +6473,7 @@ jdy	講
 #jjx
 #jjy
 #jjz
-#jia
+jia	己
 #jib
 #jic
 #jid
@@ -6401,7 +6494,7 @@ jim	機
 jis	級
 #jit
 #jiu
-#jiv
+jiv	籍
 #jiw
 #jix
 #jiy
@@ -6466,11 +6559,11 @@ jis	級
 #jmf
 #jmg
 #jmh
-#jmj
+jmj	鍵
 #jmi
 #jmk
 #jml
-#jmm
+jmm	間
 #jmn
 #jmo
 #jmp
@@ -6970,7 +7063,7 @@ iff	抻
 #ifg
 ifh	稱
 #ifj
-ifi	齔
+ifi	辰
 ifk	嗔
 ifl	塵
 #ifm
@@ -7460,6 +7553,7 @@ ivh	炊
 #ixw
 #ixx
 ixy	程序員
+ixyy	程序語言
 #ixz
 #iya
 #iyb
@@ -8584,56 +8678,58 @@ lov	籮
 #loz
 #lpa
 #lpb
-#lpc
-#lpd
-#lpe
-#lpf
+lpc	菕
+lpd	淪
+lpe	陯
+lpf	掄
 #lpg
-#lph
-#lpj
-#lpi
-#lpk
-#lpl
-#lpm
-#lpn
-#lpo
+lph	稐
+lpj	錀
+lpi	輪
+lpk	圇
+lpl	耣
+lpm	棆
+lpn	婨
+lpo	腀
 #lpp
 #lpq
-#lpr
-#lps
-#lpt
-#lpu
+lpr	倫
+lps	綸
+lpt	埨
+lpu	崙
 #lpv
 #lpw
 #lpx
-#lpy
-#lpz
-#lqa
-#lqb
+lpy	鯩
+lpz	踚
+lqa	畱
+lqb	瘤
 #lqc
 lqd	流
-#lqe
-#lqf
-#lqg
+lqd	溜
+lqe	陸
+lqf	旒
+lqg	廇
 #lqh
-#lqj
-#lqi
-#lqk
+lqj	鋶
+lqi	蟉
+lqk	嚠
 #lql
-#lqm
-#lqn
+lqm	柳
+lqm	榴
+lqn	鶹
 #lqo
 #lqp
 #lqq
 #lqr
-#lqs
-lqt	留
-#lqu
-#lqv
-#lqw
+lqs	綹
+lqt	塯
+lqu	硫
+lqv	艈
+lqw	六
 #lqx
-#lqy
-#lqz
+lqy	霤
+lqz	遛
 #lra
 #lrb
 #lrc
@@ -9499,7 +9595,7 @@ mot	墨
 #myd
 #mye
 #myf
-#myg
+myg	每一個
 #myh
 #myj
 #myi
@@ -9566,6 +9662,7 @@ nam	那麼
 #nas
 #nat
 nau	拿
+naui	那時
 #nav
 #naw
 #nax
@@ -9584,7 +9681,7 @@ nau	拿
 #nbk
 #nbl
 #nbm
-#nbn
+nbn	能不能
 #nbo
 #nbp
 #nbq
@@ -11820,6 +11917,7 @@ qih	其
 qik	器
 #qil
 qim	棋
+qim	騎
 #qin
 qio	期
 qip	气
@@ -12201,7 +12299,7 @@ quk	區
 #qya
 #qyb
 #qyc
-#qyd
+qyd	清
 #qye
 #qyf
 #qyg
@@ -14126,7 +14224,7 @@ tof	托
 #ttx
 #tty
 #ttz
-#tua
+tua	凸
 #tub
 #tuc
 #tud
@@ -14240,7 +14338,8 @@ txj	帖
 #tyh
 #tyj
 #tyi
-#tyk
+tyk	听
+tyk	咡
 #tyl
 #tym
 #tyn
@@ -15007,7 +15106,7 @@ uwn	耍
 #vbh
 #vbj
 #vbi
-#vbk
+vbk	周
 #vbl
 #vbm
 #vbn
@@ -15449,7 +15548,7 @@ vrb	賺
 #vse
 #vsf
 #vsg
-#vsh
+vsh	種
 #vsj
 #vsi
 #vsk
@@ -16303,7 +16402,7 @@ wsm	爲什麼
 #wza
 #wzb
 #wzc
-#wzd
+wzd	危
 #wze
 #wzf
 #wzg
@@ -17407,7 +17506,7 @@ ymy	有沒有
 #ypb
 #ypc
 #ypd
-#ype
+ype	云
 #ypf
 #ypg
 #yph
@@ -17417,7 +17516,7 @@ ymy	有沒有
 #ypl
 #ypm
 #ypn
-#ypo
+ypo	暈
 #ypp
 #ypq
 #ypr
