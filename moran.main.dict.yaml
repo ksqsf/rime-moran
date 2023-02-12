@@ -13331,6 +13331,7 @@ use_preset_vocabulary: true
 歹	dl;ax	0.645
 歺	dl;bx	0.007
 歺	dl;xb	0.007
+歺	cj;bx	0
 死	si;db	0.999
 歼	jm;dq	0.58
 歽	ve;dj	0
@@ -30829,6 +30830,7 @@ use_preset_vocabulary: true
 页	ye;ab	0.72
 页	ye;bh	0.72
 頂	dy;yd	0.963
+頂	dy;dy	0.963
 顶	dy;dy	0.963
 顶	dy;yd	0.963
 頃	qy;yb	0.531
