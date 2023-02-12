@@ -179,7 +179,7 @@ fc	覅
 ff	分
 fg	風
 fh	放
-fj	翻
+fj	返
 fi	非常
 #fk
 #fl
@@ -199,7 +199,7 @@ fx	分析
 #fy
 fz	非
 ga	噶
-gb	狗
+gb	夠
 gc	剛才
 gd	光
 ge	各
@@ -4206,57 +4206,57 @@ erz	邇
 #ezx
 #ezy
 #ezz
-#faa
-#fab
+faa	发
+fab	髮
 #fac
-#fad
+fad	法
 #fae
-#faf
-#fag
+faf	发
+fag	發
 #fah
-#faj
+faj	鍅
 fai	髮
 #fak
 #fal
-#fam
-#fan
+fam	閥
+fan	姂
 #fao
-#fap
+fap	乏
 #faq
-#far
-#fas
+far	伐
+fas	罰
 #fat
-#fau
-#fav
-#faw
+fau	砝
+fav	筏
+faw	琺
 #fax
 #fay
 #faz
-#fba
+fba	不
 #fbb
 #fbc
 #fbd
 #fbe
 #fbf
 #fbg
-#fbh
+fbh	炰
 #fbj
 #fbi
-#fbk
+fbk	否
 #fbl
 #fbm
-#fbn
+fbn	鴀
 #fbo
-#fbp
+fbp	缶
 #fbq
-#fbr
-#fbs
+fbr	缶
+fbs	紑
 #fbt
 #fbu
 #fbv
-#fbw
-#fbx
-#fby
+fbw	缶
+fbx	衃
+fby	雬
 #fbz
 #fca
 #fcb
@@ -4280,7 +4280,7 @@ fai	髮
 #fct
 #fcu
 #fcv
-#fcw
+fcw	覅
 #fcx
 #fcy
 #fcz
@@ -4337,109 +4337,111 @@ fai	髮
 #fey
 #fez
 #ffa
-#ffb
-#ffc
+ffb	分
+ffc	紛
 ffd	奮
-#ffe
+ffe	隫
 #fff
-#ffg
-#ffh
+ffg	鼖
+ffh	焚
 #ffj
 #ffi
-#ffk
-#ffl
-#ffm
+ffk	吩
+ffl	竕
+ffm	糞
 #ffn
-#ffo
+ffo	瞓
 #ffp
-#ffq
+ffq	氛
 ffr	份
 ffs	紛
 fft	墳
 #ffu
 #ffv
-#ffw
-#ffx
+ffw	瓰
+ffx	憤
 #ffy
 #ffz
-#fga
-#fgb
-#fgc
-#fgd
-#fge
-#fgf
+fga	丰
+fgb	瘋
+fgc	封
+fgd	馮
+fge	酆
+fgf	奉
 #fgg
-#fgh
-#fgj
-#fgi
-#fgk
-#fgl
-#fgm
+fgh	烽
+fgj	鋒
+fgj	鳯
+fgi	蜂
+fgk	唪
+fgl	檒
+fgm	楓
 #fgn
-#fgo
+fgo	盽
 #fgp
-#fgq
-#fgr
-#fgs
+fgq	猦
+fgr	俸
+fgs	縫
 #fgt
-#fgu
+fgu	峯
 #fgv
 #fgw
-#fgx
-#fgy
-#fgz
+fgx	覂
+fgy	諷
+fgz	逢
 #fha
-#fhb
-#fhc
-#fhd
-#fhe
-#fhf
+fhb	髣
+fhc	芳
+fhd	方
+fhe	防
+fhf	放
 #fhg
-#fhh
-#fhj
-#fhi
+fhh	房
+fhj	鈁
+fhi	蚄
 #fhk
 #fhl
-#fhm
-#fhn
+fhm	枋
+fhn	妨
 #fho
 #fhp
 #fhq
-#fhr
-#fhs
+fhr	倣
+fhs	紡
 #fht
-#fhu
-#fhv
+fhu	祊
+fhv	舫
 fhw	方
-#fhx
-#fhy
-#fhz
-#fja
-#fjb
-#fjc
-#fjd
+fhx	彷
+fhy	訪
+fhz	趽
+fja	凣
+fjb	販
+fjc	范
+fjd	凡
+fjd	泛
 #fje
-#fjf
+fjf	梵
 #fjg
-#fjh
-#fjj
+fjh	煩
+fjj	帆
 #fji
 #fjk
-#fjl
-#fjm
+fjl	勫
+fjm	梵
 #fjn
-#fjo
+fjo	膰
 fjp	反
-#fjq
+fjq	犯
 fjr	仮
-#fjs
-#fjt
+fjs	繁
+fjt	番
 fju	飯
-#fjv
+fjv	範
 #fjw
 #fjx
-#fjy
-#fjz
+fjy	翻
+fjz	返
 #fia
 #fib
 #fic
@@ -4583,13 +4585,14 @@ fju	飯
 #fok
 #fol
 #fom
-#fon
+fon	妚
 #foo
 #fop
 #foq
-#for
+for	佛
+for	仏
 #fos
-#fot
+fot	坲
 #fou
 #fov
 #fow
@@ -4726,32 +4729,45 @@ fju	飯
 #ftx
 #fty
 #ftz
-#fua
-#fub
-#fuc
-#fud
-#fue
-#fuf
-#fug
-#fuh
-#fuj
-#fui
-#fuk
-#ful
-#fum
-#fun
-#fuo
+fua	甫
+fub	父
+fub	賦
+fuc	芙
+fud	副
+fud	負
+fue	夫
+fuf	斧
+fuf	撫
+fuf	拂
+fug	弗
+fug	府
+fug	腐
+fuh	膚
+fuj	幅
+fui	蝠
+fui	輻
+fuk	咐
+ful	孵
+fum	駙
+fun	婦
+fun	鳬
+fuo	服
+fuo	腹
+fuo	肤
 #fup
-#fuq
-#fur
-#fus
+fuq	氟
+fur	付
+fur	伏
+fur	复
+fus	縛
 #fut
-#fuu
-#fuv
-#fuw
-#fux
-#fuy
-#fuz
+fuu	福
+fuv	符
+fuw	敷
+fux	復
+fuy	複
+fuz	赴
+fuz	孚
 #fva
 #fvb
 #fvc
@@ -4820,7 +4836,7 @@ fwq	服務器
 #fxn
 #fxo
 #fxp
-#fxq
+fxq	分析器
 #fxr
 #fxs
 #fxt
@@ -4856,31 +4872,34 @@ fwq	服務器
 #fyx
 #fyy
 #fyz
-#fza
-#fzb
-#fzc
-#fzd
-#fze
-#fzf
-#fzg
-#fzh
-#fzj
-#fzi
-#fzk
+fza	非
+fzb	費
+fzb	痱
+fzc	菲
+fzd	沸
+fze	陫
+fzf	飛
+fzg	廢
+fzh	扉
+fzj	鐨
+fzi	蜚
+fzk	吠
+fzk	匪
 #fzl
 #fzm
-#fzn
-#fzo
+fzn	妃
+fzo	肥
+fzo	肺
 #fzp
-#fzq
+fzq	狒
 #fzr
-#fzs
+fzs	緋
 #fzt
 #fzu
 #fzv
-#fzw
-#fzx
-#fzy
+fzw	斐
+fzx	悱
+fzy	誹
 #fzz
 #gaa
 #gab
@@ -4888,18 +4907,18 @@ fwq	服務器
 #gad
 #gae
 #gaf
-#gag
+gag	魀
 #gah
-#gaj
-#gai
-#gak
+gaj	釓
+gai	軋
+gak	嘎
 #gal
 #gam
-#gan
-#gao
-#gap
+gan	尕
+gao	朒
+gap	玍
 #gaq
-#gar
+gar	伽
 #gas
 #gat
 #gau
@@ -4908,32 +4927,32 @@ fwq	服務器
 #gax
 #gay
 #gaz
-#gba
-#gbb
-#gbc
-#gbd
+gba	冓
+gbb	購
+gbc	苟
+gbd	溝
 #gbe
 #gbf
-#gbg
-#gbh
-#gbj
-#gbi
-#gbk
+gbg	勾
+gbh	煹
+gbj	鉤
+gbi	蚼
+gbk	句
 #gbl
-#gbm
-#gbn
+gbm	構
+gbn	媾
 #gbo
 #gbp
-#gbq
-#gbr
-#gbs
-#gbt
+gbq	狗
+gbr	佝
+gbs	緱
+gbt	垢
 #gbu
 #gbv
 #gbw
 #gbx
-#gby
-#gbz
+gby	詬
+gbz	遘
 #gca
 #gcb
 #gcc
@@ -4960,71 +4979,72 @@ fwq	服務器
 #gcx
 #gcy
 #gcz
-#gda
+gda	卝
 #gdb
 #gdc
 #gdd
 #gde
 #gdf
-#gdg
+gdg	廣
 #gdh
-#gdj
+gdj	銧
 #gdi
-#gdk
+gdk	咣
 #gdl
 #gdm
-#gdn
-#gdo
+gdn	姯
+gdo	胱
 #gdp
-#gdq
+gdq	獷
 #gdr
 #gds
 #gdt
-#gdu
+gdu	硄
 #gdv
-#gdw
+gdw	珖
 #gdx
 #gdy
-#gdz
-#gea
-#geb
-#gec
-#ged
-#gee
-#gef
-#geg
-#geh
-#gej
-#gei
+gdz	逛
+gea	戈
+geb	疙
+gec	葛
+gec	革
+ged	割
+gee	隔
+gef	擱
+geg	骼
+geh	搿
+gej	鉻
+gei	蛤
 gek	哥
 #gel
-#gem
-#gen
-#geo
+gem	格
+gen	鴿
+geo	胳
 #gep
 geq	歌
-#ger
-#ges
+ger	个
+ges	紇
 #get
-#geu
-#gev
+geu	硌
+gev	舸
 #gew
 #gex
-#gey
+gey	詥
 #gez
-#gfa
+gfa	亘
 #gfb
-#gfc
+gfc	茛
 #gfd
 #gfe
-#gff
+gff	揯
 #gfg
 #gfh
 #gfj
 #gfi
-#gfk
+gfk	哏
 #gfl
-#gfm
+gfm	根
 #gfn
 #gfo
 #gfp
@@ -5033,90 +5053,92 @@ geq	歌
 #gfs
 #gft
 #gfu
-#gfv
+gfv	艮
 #gfw
 #gfx
 #gfy
-#gfz
-#gga
-#ggb
+gfz	跟
+gga	更
+ggb	賡
 #ggc
 #ggd
-#gge
-#ggf
-#ggg
-#ggh
+gge	耿
+ggf	挭
+ggg	羹
+ggg	庚
+ggh	焿
 #ggj
 #ggi
-#ggk
-#ggl
-#ggm
-#ggn
+ggk	哽
+ggl	耕
+ggm	梗
+ggn	鶊
 #ggo
 #ggp
 #ggq
 #ggr
 #ggs
-#ggt
-#ggu
+ggt	埂
+ggu	峺
 ggum	規格說明
 #ggv
 #ggw
 #ggx
-#ggy
+ggy	鯁
 #ggz
 #gha
-#ghb
+ghb	疘
 #ghc
-#ghd
-#ghe
-#ghf
+ghd	港
+ghe	阬
+ghf	缸
 #ghg
-#ghh
-#ghj
+ghh	焵
+ghj	鋼
 #ghi
-#ghk
+ghk	岡
 #ghl
-#ghm
+ghm	槓
 #ghn
-#gho
+gho	肛
 #ghp
-#ghq
+ghq	犺
 #ghr
-#ghs
+ghs	綱
 #ght
-#ghu
+ghu	崗
 #ghv
 #ghw
-#ghx
+ghx	戅
 #ghy
 #ghz
-#gja
-#gjb
-#gjc
-#gjd
+gja	干
+gjb	疳
+gjc	甘
+gjd	淦
 #gje
-#gjf
-#gjg
-#gjh
+gjf	擀
+gjg	幹
+gjh	稈
 #gjj
-#gji
-#gjk
+gji	虷
+gjk	咁
 #gjl
-#gjm
+gjm	桿
 #gjn
 #gjo
-#gjp
-#gjq
-#gjr
-#gjs
-#gjt
-#gju
-#gjv
-#gjw
-#gjx
+gjp	皯
+gjq	乾
+gjr	倝
+gjs	紺
+gjt	坩
+gju	矸
+gjv	竿
+gjv	赣
+gjw	敢
+gjx	感
 #gjy
-#gjz
+#gjz	趕
 #gia
 #gib
 #gic
@@ -5143,57 +5165,57 @@ ggum	規格說明
 #gix
 #giy
 #giz
-#gka
-#gkb
+gka	櫜
+gkb	皋
 #gkc
 #gkd
 #gke
 gkf	搞
 #gkg
-#gkh
-#gkj
+gkh	稿
+gkj	鎬
 #gki
-#gkk
-#gkl
-#gkm
-#gkn
-#gko
-#gkp
-#gkq
+gkk	告
+gkl	勂
+gkm	糕
+gkn	告
+gko	膏
+gkp	睾
+gkq	獋
 #gkr
-#gks
+gks	縞
 #gkt
-#gku
+#gku	餻
 #gkv
 #gkw
 #gkx
-#gky
-#gkz
+gky	膏
+gkz	臯
 #gla
-#glb
-#glc
-#gld
+glb	賅
+glc	蓋
+gld	溉
 #gle
 #glf
 #glg
 #glh
-#glj
+glj	鈣
 #gli
 #glk
 #gll
 glm	蓋
-#gln
-#glo
+gln	姟
+glo	晐
 #glp
 #glq
-#glr
-#gls
+glr	侅
+gls	絯
 #glt
 #glu
 #glv
-#glw
-#glx
-#gly
+glw	改
+glx	忋
+gly	該
 #glz
 #gma
 #gmb
@@ -5248,44 +5270,44 @@ glm	蓋
 #gny
 #gnz
 #goa
-#gob
-#goc
+gob	瘑
+goc	菓
 #god
-#goe
-#gof
+goe	郭
+gof	摑
 #gog
-#goh
+goh	虢
 goj	鍋
-#goi
-#gok
+goi	蝈
+gok	國
 #gol
-#gom
+gom	粿
 #gon
 #goo
 #gop
-#goq
+goq	猓
 #gor
-#gos
-#got
-#gou
+gos	綶
+got	果
+gou	餜
 #gov
 #gow
 #gox
-#goy
-#goz
+goy	裹
+goz	過
 #gpa
 #gpb
 #gpc
-#gpd
+gpd	滚
 #gpe
 #gpf
 #gpg
 #gph
 #gpj
-#gpi
+gpi	輥
 #gpk
 #gpl
-#gpm
+gpm	棍
 #gpn
 #gpo
 #gpp
@@ -5297,7 +5319,7 @@ goj	鍋
 #gpv
 #gpw
 #gpx
-#gpy
+gpy	鯀
 #gpz
 #gqa
 #gqb
@@ -5325,57 +5347,62 @@ goj	鍋
 #gqx
 #gqy
 #gqz
-#gra
-#grb
+gra	丱
+gra	毌
+grb	官
+grb	冠
+grb	貫
 #grc
-#grd
+grd	灌
 #gre
-#grf
+grf	罐
+grf	摜
 #grg
 #grh
-#grj
-#gri
+grj	觀
+gri	輨
 #grk
 #grl
-#grm
-#grn
-#gro
+grm	棺
+grn	鸛
+gro	矔
 #grp
-#grq
-#grr
-#grs
+grq	关
+grr	倌
+grs	綸
 #grt
-#gru
-#grv
+gru	館
+grv	管
 #grw
-#grx
-#gry
+grx	慣
+gry	鰥
 #grz
-#gsa
-#gsb
-#gsc
-#gsd
+gsa	工
+gsb	宫
+gsb	貢
+gsc	共
+gsd	澒
 #gse
-#gsf
+gsf	拱
 #gsg
-#gsh
-#gsj
-#gsi
-#gsk
-#gsl
+gsh	熕
+gsj	觥
+gsi	蚣
+gsk	嗊
+gsl	功
 #gsm
 #gsn
-#gso
+gso	肱
 #gsp
 #gsq
-#gsr
-#gss
+gsr	供
+gss	公
 #gst
 #gsu
-#gsv
-#gsw
-#gsx
-#gsy
+gsv	弓
+gsw	攻
+gsx	恭
+gsy	羾
 #gsz
 #gta
 #gtb
@@ -5404,81 +5431,88 @@ goj	鍋
 #gty
 #gtz
 #gua
-#gub
-#guc
-#gud
+gub	谷
+guc	菇
+gud	汩
 #gue
 #guf
-#gug
-#guh
-#guj
-#gui
-#guk
+gug	骨
+guh	雇
+guh	穀
+guj	錮
+gui	轂
+guk	咕
 #gul
-#gum
-#gun
-#guo
-#gup
+gum	蠱
+gun	姑
+guo	股
+gup	鼔
 #guq
-#gur
-#gus
+gur	估
+gus	罟
 #gut
 #guu
-#guv
-#guw
-#gux
-#guy
-#guz
+guv	鼓
+guv	箍
+guw	故
+gux	賈
+guy	詁
+guz	孤
 #gva
-#gvb
+gvb	貴
 #gvc
-#gvd
-#gve
-#gvf
+gvd	归
+gve	邽
+gvf	規
 #gvg
 #gvh
 #gvj
-#gvi
+gvi	軌
 #gvk
 #gvl
-#gvm
+gvm	櫃
+gvm	桂
 #gvn
-#gvo
-#gvp
-#gvq
+gvo	晷
+gvp	鬼
+gvp	龜
+gvq	猤
 #gvr
 #gvs
-#gvt
+gvt	圭
+gvt	癸
 #gvu
-#gvv
-#gvw
+gvv	歸
+gvw	瑰
 #gvx
-#gvy
-#gvz
+gvy	詭
+gvy	鱖
+gvz	跪
 #gwa
-#gwb
+gwb	寡
+gwb	卦
 #gwc
-#gwd
+gwd	刮
 #gwe
-#gwf
+gwf	掛
 #gwg
-#gwh
+gwh	煱
 #gwj
 #gwi
-#gwk
+gwk	呱
 #gwl
 #gwm
-#gwn
-#gwo
-#gwp
-#gwq
+gwn	鴰
+gwo	胍
+gwp	瓜
+gwq	歄
 #gwr
 #gws
 #gwt
 #gwu
 #gwv
 #gww
-#gwx
+gwx	颪
 #gwy
 #gwz
 #gxa
@@ -5512,26 +5546,26 @@ goj	鍋
 #gyc
 #gyd
 #gye
-#gyf
+gyf	拐
 #gyg
 #gyh
-#gyj
+gyj	叏
 #gyi
 #gyk
 #gyl
-#gym
+gym	柺
 #gyn
 #gyo
-#gyp
-#gyq
+gyp	乖
+gyq	乖
 #gyr
 #gys
 #gyt
 #gyu
-#gyv
+gyv	夬
 #gyw
-#gyx
-#gyy
+gyx	怪
+gyy	叏
 #gyz
 #gza
 #gzb
@@ -5551,7 +5585,7 @@ goj	鍋
 #gzp
 #gzq
 #gzr
-#gzs
+gzs	給
 #gzt
 #gzu
 #gzv
@@ -7534,6 +7568,7 @@ ivh	炊
 #ixd
 #ixe
 #ixf
+ixfx	程序分析
 #ixg
 #ixh
 #ixj
