@@ -644,6 +644,8 @@ patch:
       ascii_mode: true
     com.apple.dt.Xcode:
       ascii_mode: true
+    com.googlecode.iterm2:
+      ascii_mode: true
 
     com.tencent.Lemon:
       ascii_mode: true
