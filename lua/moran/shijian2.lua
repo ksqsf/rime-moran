@@ -1916,6 +1916,12 @@ local function translator(input, seg)
     weekday = os.date("%A")
     candidate = Candidate("xq", seg.start, seg._end, weekday, num_weekday)
     yield(candidate)
+  elseif (input == "ow") then
+     weekno = string.gsub(os.date("%W"), "^0+", "")
+     candidate = Candidate("ow", seg.start, seg._end, "W" .. weekno, "週")
+     yield(candidate)
+     candidate = Candidate("ow", seg.start, seg._end, "第" .. weekno .. "週", "週")
+     yield(candidate)
     -- 节气 已修复崩溃问题
   elseif (input == "ojq") then
     local keyword, jqs
