@@ -21,6 +21,7 @@ g	個
 g	該
 h	和
 j	就
+j	醬
 i	出
 k	可
 l	了
@@ -35,93 +36,79 @@ t	他
 u	是
 v	這
 w	我
+w	位
 x	小
 x	性
 y	一
 z	在
 aa	啊
-#ab
-#ac
-#ad
-#ae
-#af
-#ag
+ad	啊對
+ag	嗯
 ah	昂
-#aj
+aj	按鍵
 ai	愛
-#ak
-#al
-#am
 an	按
 ao	奧
-#ap
+ap	安排
 aq	安全
-#ar
-#as
-#at
-#au
 av	安裝
-#aw	
-#ax	❤️
+ax	❤️
 ay	哎呀
-#az
 ba	把
 bb	並不
 bc	表
-#bd
-#be
+bd	不但
 bf	本
 bg	崩
 bh	幫
-bj	版
+bj	半
 bi	比
 bk	報
 bl	白
 bm	便
 bn	濱
 bo	撥
-#bp
+bp	兺
 bq	並且
-#br
-#bs
-#bt
+br	比如
+bs	伴隨
+bt	比特
 bu	不
-#bv
-#bw
+bv	標準
+bw	把握
 bx	別
 by	並
 bz	被
 ca	擦
 cb	湊
-#cc
-#cd
+cd	菜單
 ce	測
-#cf
+cf	涔
 cg	曾
 ch	藏
 cj	慘
 ci	詞
 ck	草
 cl	才
-#cm
-#cn
+cm	聰明
+cn	才能
 co	錯
 cp	存
-#cq
+cq	此前
 cr	攢
 cs	從
-#ct
+ct	從頭
 cu	粗
 cv	催
-#cw
-#cx
-#cy
-#cz
+cw	錯誤
+cx	從新
+cy	參與
+cz	存在
 da	打
 db	都
 db	數據庫
 dc	掉
-#dd
+dd	到底
 de	得
 df	扽
 dg	等
@@ -137,66 +124,62 @@ dp	頓
 dq	丟
 dr	短
 ds	懂
-dt
+dt	動態
 du	讀
 dv	對
-#dw
-#dx
+dw	嗲
+dx	爹
 dy	定
 dz	得
-#ea
 eb	而不
-#ec
-#ed
+ec	二次
+ed	而當
 ee	額
-#ef
+ef	而非
 eg	鞥
-#eh
-#ej
+eh	而後
+ej	而今
 ei	誒
-#ek
-#el
+ek	而況
+el	而來
 em	唔
 en	恩
-#eo
-#ep
 eq	而且
 er	而
-#es
-#et
-#eu
-#ev
-#ew
-#ex
-#ey
-#ez
+es	二三
+et	兒童
+eu	而是
+ev	而這
+ew	而我
+ex	噁心
+ey	而已
+ez	兒子
 fa	發
 fa	髮
 fb	否
 fc	覅
-#fd
-#fe
+fd	反對
+fe	反而
 ff	分
 fg	風
 fh	放
 fj	返
 fi	非常
-#fk
-#fl
-#fm
-#fn
+fk	飛快
+fl	分離
+fm	繁忙
+fn	煩惱
 fo	佛
-#fp
-#fq
-#fr
+fp	分配
+fq	放棄
 fs	發送
 fs	文件系統
-#ft
+ft	發帖
 fu	服
-#fv
+fv	反正
 fw	訪問
 fx	分析
-#fy
+fy	翻譯
 fz	非
 ga	噶
 gb	夠
@@ -207,21 +190,21 @@ gf	跟
 gg	更
 gh	剛
 gj	幹
-#gi
+gi	過程
 gk	高
 gl	改
-#gm
-#gn
+gm	革命
+gn	功能
 go	過
 gp	滾
-#gq
+gq	過去
 gr	關
 gs	功
-#gt
+gt	共同
 gu	古
 gv	貴
 gw	瓜
-#gx
+gx	更新
 gy	乖
 gz	給
 ha	哈
@@ -233,55 +216,54 @@ hf	很
 hg	哼
 hh	航
 hj	汗
-#hi
+hi	何嘗
 hk	好
 hl	還
-#hm
-#hn
+hm	後面
+hn	還能
 ho	或
 hp	混
-#hq
+hq	好奇
 hr	還
 hs	紅
-#ht
+ht	話題
 hu	戶
 hv	會
 hw	話
 hx	好像
 hy	壞
 hz	黑
-#ja
-#jb
+ja	驕傲
+jb	基本
 jc	叫
 jd	將
 jd	奬
-#je
-#jf
-#jg
-#jh
-#jj
+je	進而
+jf	積分
+jg	結果
+jh	計劃
+jj	解決
 ji	及
 ji	極
-#jk
-#jl
+jk	即可
+jl	經歷
 jm	見
 jn	進
 jn	今
-#jo
 jp	均
-jq	酒
+jq	九
 jr	卷
 js	囧
 jt	覺
 ju	句
-#jv
+jv	極致
 jw	家
 jx	解
 jy	竟
-#jz
+jz	講座
 ia	查
 ib	醜
-#ic
+ic	出錯
 id	牀
 ie	車
 if	趁
@@ -291,44 +273,44 @@ ij	產
 ii	喫
 ik	超
 il	拆
-#im
-#in
+im	重碼
+in	常年
 io	戳
 ip	純
-#iq
+iq	重啓
 ir	傳
 is	重
-#it
+it	衝突
 iu	除
 iv	吹
 iw	欻
 ix	程序
 iy	踹
-#iz
+iz	創作
 ka	卡
 kb	口
-#kc
+kc	咔嚓
 kd	狂
 ke	課
 kf	肯
 kg	坑
 kh	扛
 kj	看
-#ki
+ki	開車
 kk	靠
 kl	開
-#km
+km	科目
 kn	可能
 ko	擴
 kp	困
-# kq
+kq	開啓
 kr	寬
 ks	空
-# kt
+kt	開通
 ku	哭
 kv	虧
 kw	跨
-# kx
+kx	科學
 ky	快
 kz	剋
 la	拉
@@ -336,7 +318,7 @@ lb	嘍
 lc	聊
 ld	兩
 le	了
-#lf
+lf	浪費
 lg	冷
 lh	浪
 lj	藍
@@ -360,7 +342,7 @@ lz	類
 ma	嗎
 mb	某
 mc	妙
-#md
+md	目的
 me	麼
 mf	們
 mf	門
@@ -373,19 +355,19 @@ ml	買
 mm	面
 mn	民
 mo	摸
-#mp
+mp	冒泡
 mq	謬
-#mr
+mr	默認
 ms	貌似
-#mt
+mt	明天
 mu	木
-#mv
-#mw
+mv	民主
+mw	末尾
 mx	咩
 my	名
 mz	沒
 na	那
-#nb
+nb	耨
 nc	鳥
 nd	娘
 ne	呢
@@ -406,41 +388,15 @@ ns	弄
 nt	虐
 nu	怒
 nv	女
-#nw
+nw	內外
 nx	捏
 ny	凝
 nz	内
-#oa
-#ob
-#oc
-#od
-#oe
-#of
-#og
-#oh
-#oj
-#oi
-#ok
-#ol
-#om
-#on
-#oo
-#op
-#oq
-#or
-#os
-#ot
-#ou
-#ov
-#ow
-#ox
-#oy
-#oz
 pa	怕
 pb	剖
 pc	票
-#pd
-#pe
+pd	片段
+pe	浌
 pf	噴
 pg	碰
 ph	胖
@@ -452,47 +408,45 @@ pl	拍
 pm	騙
 pn	品
 po	破
-#pp
-#pq
-#pr
-#ps
-#pt
+pq	拋棄
+pr	騙人
+ps	配送
+pt	普通
 pu	普
-#pv
-#pw
+pv	配置
+pw	品味
 px	撇
 py	平
 pz	陪
-qa	親愛的
+qa	親愛
 qb	全部
 qc	敲
 qd	強
-#qe
-#qf
-#qg
-#qh
-#qj
+qe	全額
+qf	區分
+qg	全國
+qh	切換
+qj	期間
 qi	起
-#qk
-#ql
+qk	情況
+ql	起來
 qm	前
 qn	親
-#qo
 qp	羣
 qq	求
 qr	全
 qs	窮
-#qt
+qt	卻
 qu	取
-#qv
+qv	其中
 qw	卡
 qx	且
 qy	請
-#qz
-#ra
+qz	圈子
+ra	罖
 rb	肉
-#rc
-#rd
+rc	如此
+rd	認得
 re	熱
 rf	認
 rg	如果
@@ -500,24 +454,24 @@ rh	讓
 rj	然
 ri	日
 rk	繞
-#rl
-#rm
-#rn
+rl	日曆
+rm	入門
+rn	容納
 ro	若
 rp	潤
-#rq
+rq	日期
 rr	軟
 rs	容
-#rt
+rt	如同
 ru	如
 rv	睿
-#rw
-#rx
-#ry
-#rz
+rw	認爲
+rx	如下
+ry	容易
+rz	仍在
 sa	撒
 sb	搜
-#sc
+sc	算錯
 sd	速度
 se	色
 sf	森
@@ -528,25 +482,25 @@ si	四
 sk	掃
 sl	塞
 sm	什麼
-#sn
+sn	肆虐
 so	所
 sp	損
-#sq
+sq	索取
 sr	算
 ss	送
-#st
+st	色圖
 su	速
 sv	雖
 sw	所謂
 sx	思想
 sy	所以
-sz	
+sz	所在
 ta	她
 tb	頭
 tc	條
-#td
+td	聽到
 te	特
-#tf
+tf	突發
 tg	疼
 th	湯
 tj	談
@@ -554,24 +508,24 @@ ti	提
 tk	套
 tl	太
 tm	天
-#tn
+tn	太難
 to	拖
 tp	吞
-#tq
+tq	天氣
 tr	團
 ts	同
-#tt
+tt	天天
 tu	土
 tv	退
 tw	臺灣
 tx	貼
 ty	聽
-#tz
+tz	帖子
 ua	啥
 ua	杀
 ub	手
-#uc
-ud	爽
+uc	手冊
+ud	雙
 ue	射
 uf	深
 ug	生
@@ -582,13 +536,13 @@ ui	事
 uk	少
 ul	色
 um	什麼
-#un
+un	少女
 uo	說
 up	順
 uq	事情
 ur	拴
-#us
-#ut
+us	生死
+ut	試圖
 uu	書
 uv	水
 uw	刷
@@ -597,7 +551,7 @@ uy	帅
 uz	誰
 va	渣
 vb	粥
-#vc
+vc	至此
 vd	裝
 ve	着
 vf	真
@@ -623,89 +577,90 @@ vx	這下
 vy	拽
 vz	這
 wa	挖
-#wb
-#wc
+wb	文本
+wc	臥槽
 wd	我的
-#we
+we	莞爾
 wf	問
 wg	翁
 wh	忘
 whs	網
 wj	玩
 wi	完成
-#wk
+wk	網卡
 wl	外
 wm	我們
-#wn
+wn	無奈
 wo	我
-#wp
+wp	瘒
 wq	完全
 wr	微軟
 ws	爲啥
 wt	問題
 wu	無
 wv	網站
-#ww
+ww	嗚嗚
 wx	微信
-#wy
+wy	無語
 wz	爲
+wz	惟
 xa	西安
-#xb
+xb	先別
 xc	笑
 xd	想
-#xe
-#xf
-#xg
+xe	邪惡
+xf	想法
+xg	習慣
 xh	喜歡
-#xj
+xj	先進
 xi	系
-#xk
+xk	辛苦
 xl	下來
 xm	先
 xn	新
-#xo
 xp	尋
 xq	修
 xr	選
 xs	胸
 xt	學
+xt	系統
 xu	需
-#xv
+xv	性質
 xw	下
 xx	寫
 xy	行
-#xz
+xz	現在
 ya	呀
 yb	有
 yc	因此
 yd	一定
 ye	也
-#yf
+yf	一份
 yg	一個
 yh	樣
 yj	言
 yi	以
 yk	要
 yl	依賴
-#ym
+ym	豜
 yn	因
 yo	喲
 yp	雲
-#yq
+yq	一切
 yr	元
 ys	用
 yt	月
 yu	與
-#yv
+yv	驗證
 yw	因爲
 yw	以爲
-#yx
+yx	也許
 yy	應
 yz	樣子
 za	咋
 zb	走
-#zc
-#zd
+zc	再次
+zd	自動
 ze	則
 zf	怎
 zg	增
@@ -715,386 +670,85 @@ zi	字
 zk	早
 zl	再
 zm	怎麼
-#zn
+zn	怎能
 zo	做
 zp	尊
-#zq
+zq	最強
 zr	鑽
 zs	總
-#zt
+zt	昨天
 zu	足
 zv	最
 zw	作爲
-#zx
-#zy
+zx	最新
+zy	資源
 zz	賊
-#aaa
-#aab
-#aac
-#aad
 aae	阿
-#aaf
-#aag
-#aah
-#aaj
-#aai
-#aak
-#aal
-#aam
-#aan
-#aao
-#aap
-#aaq
-#aar
-#aas
-#aat
-#aau
-#aav
-#aaw
-#aax
-#aay
-#aaz
-#aba
-#abb
-#abc
-#abd
-#abe
-#abf
-#abg
-#abh
-#abj
-#abi
-#abk
-#abl
-#abm
-#abn
-#abo
-#abp
-#abq
-#abr
-#abs
-#abt
-#abu
-#abv
-#abw
-#abx
-#aby
-#abz
-#aca
-#acb
-#acc
-#acd
-#ace
-#acf
-#acg
-#ach
-#acj
-#aci
-#ack
-#acl
-#acm
-#acn
-#aco
-#acp
-#acq
-#acr
-#acs
-#act
-#acu
-#acv
-#acw
-#acx
-#acy
-#acz
-#ada
-#adb
-#adc
-#add
-#ade
-#adf
-#adg
-#adh
-#adj
-#adi
-#adk
-#adl
-#adm
-#adn
-#ado
-#adp
-#adq
-#adr
-#ads
-#adt
-#adu
-#adv
-#adw
-#adx
-#ady
-#adz
-#aea
-#aeb
-#aec
-#aed
-#aee
-#aef
-#aeg
-#aeh
-#aej
-#aei
-#aek
-#ael
-#aem
-#aen
-#aeo
-#aep
-#aeq
-#aer
-#aes
-#aet
-#aeu
-#aev
-#aew
-#aex
-#aey
-#aez
-#afa
-#afb
-#afc
-#afd
-#afe
-#aff
-#afg
-#afh
-#afj
-#afi
-#afk
-#afl
-#afm
-#afn
-#afo
-#afp
-#afq
-#afr
-#afs
-#aft
-#afu
-#afv
-#afw
-#afx
-#afy
-#afz
-#aga
-#agb
-#agc
-#agd
-#age
-#agf
-#agg
-#agh
-#agj
-#agi
-#agk
-#agl
-#agm
-#agn
-#ago
-#agp
-#agq
-#agr
-#ags
-#agt
-#agu
-#agv
-#agw
-#agx
-#agy
-#agz
-#aha
-#ahb
-#ahc
-#ahd
-#ahe
-#ahf
-#ahg
-#ahh
-#ahj
-#ahi
-#ahk
-#ahl
-#ahm
-#ahn
+aaj	錒
+aai	厑
+aak	吖
+aak	嗄
+aao	腌
+add	啊對對
+addd	啊對對對
+ahe	卬
+ahg	骯
+ahm	盎
 aho	昂
-#ahp
-#ahq
-#ahr
-#ahs
-#aht
-#ahu
-#ahv
-#ahw
-#ahx
-#ahy
-#ahz
-#aja
-#ajb
-#ajc
-#ajd
-#aje
-#ajf
-#ajg
-#ajh
-#ajj
-#aji
-#ajk
-#ajl
-#ajm
-#ajn
-#ajo
-#ajp
-#ajq
-#ajr
-#ajs
-#ajt
-#aju
-#ajv
-#ajw
-#ajx
-#ajy
-#ajz
-#aia
-#aib
-#aic
-#aid
-#aie
-#aif
-#aig
-#aih
-#aij
-#aii
-#aik
-#ail
-#aim
-#ain
-#aio
-#aip
-#aiq
-#air
-#ais
-#ait
-#aiu
-#aiv
-#aiw
-#aix
-#aiy
-#aiz
-#aka
-#akb
-#akc
-#akd
-#ake
-#akf
-#akg
-#akh
-#akj
-#aki
-#akk
-#akl
-#akm
-#akn
-#ako
-#akp
-#akq
-#akr
-#aks
-#akt
-#aku
-#akv
-#akw
-#akx
-#aky
-#akz
-#ala
-#alb
-#alc
-#ald
-#ale
-#alf
-#alg
-#alh
-#alj
-#ali
-#alk
-#all
-#alm
-#aln
-#alo
-#alp
-#alq
-#alr
-#als
-#alt
-#alu
-#alv
-#alw
-#alx
-#aly
-#alz
-#ama
-#amb
-#amc
-#amd
-#ame
-#amf
-#amg
-#amh
-#amj
-#ami
-#amk
-#aml
-#amm
-#amn
-#amo
-#amp
-#amq
-#amr
-#ams
-#amt
-#amu
-#amv
-#amw
-#amx
-#amy
-#amz
+ahu	岇
+ahy	醠
+aib	癌
+aic	艾
+aic	藹
+aid	哀
+aie	隘
+aif	挨
+aif	捱
+aih	焥
+aij	鎄
+aik	唉
+aik	哎
+aim	騃
+ain	嬡
+aio	暧
+aip	敱
+aiq	欸
+air	僾
+ais	絠
+ait	埃
+aiu	矮
+aiu	碍
+aiv	愛
+aiw	璦
+aix	懝
+aiy	靄
+aiy	靉
 ana	厂
 anb	安
 anc	庵
-#and
-#ane
+and	广
+and	洝
+ane	隌
 anf	按
 ang	鞍
 anh	黯
 anj	銨
 ani	厈
 ank	唵
-#anl
 anm	案
 ann	鵪
 ano	暗
-#anp
 anq	氨
 anr	俺
 ans	罯
-#ant
+ant	埯
 anu	岸
-#anv
+anv	豻
 anw	玵
 anx	馣
 any	諳
 anz	遃
 aoa	凹
-#aob
-#aoc
 aod	澳
 aoe	聱
 aof	拗
@@ -1104,311 +758,21 @@ aoj	鏊
 aoi	螯
 aok	嗷
 aol	鏖
-#aom
 aon	媼
 aoo	眑
 aop	奧
 aoq	獒
 aor	傲
-#aos
 aot	坳
 aou	岰
-#aov
 aow	敖
 aox	懊
 aoy	袄
 aoz	遨
-#apa
-#apb
-#apc
-#apd
-#ape
-#apf
-#apg
-#aph
-#apj
-#api
-#apk
-#apl
-#apm
-#apn
-#apo
-#app
-#apq
-#apr
-#aps
-#apt
-#apu
-#apv
-#apw
-#apx
-#apy
-#apz
-#aqa
-#aqb
-#aqc
-#aqd
-#aqe
-#aqf
-#aqg
-#aqh
-#aqj
-#aqi
-#aqk
-#aql
-#aqm
-#aqn
-#aqo
-#aqp
-#aqq
-#aqr
-#aqs
-#aqt
-#aqu
-#aqv
-#aqw
-#aqx
-#aqy
-#aqz
-#ara
-#arb
-#arc
-#ard
-#are
-#arf
-#arg
-#arh
-#arj
-#ari
-#ark
-#arl
-#arm
-#arn
-#aro
-#arp
-#arq
-#arr
-#ars
-#art
-#aru
-#arv
-#arw
-#arx
-#ary
-#arz
-#asa
-#asb
-#asc
-#asd
-#ase
-#asf
-#asg
-#ash
-#asj
-#asi
-#ask
-#asl
-#asm
-#asn
-#aso
-#asp
-#asq
-#asr
-#ass
-#ast
-#asu
-#asv
-#asw
-#asx
-#asy
-#asz
-#ata
-#atb
-#atc
-#atd
-#ate
-#atf
-#atg
-#ath
-#atj
-#ati
-#atk
-#atl
-#atm
-#atn
-#ato
-#atp
-#atq
-#atr
-#ats
-#att
-#atu
-#atv
-#atw
-#atx
-#aty
-#atz
-#aua
-#aub
-#auc
-#aud
-#aue
-#auf
-#aug
-#auh
-#auj
-#aui
-#auk
-#aul
-#aum
-#aun
-#auo
-#aup
-#auq
-#aur
-#aus
-#aut
-#auu
-#auv
-#auw
-#aux
-#auy
-#auz
-#ava
-#avb
-#avc
-#avd
-#ave
-#avf
-#avg
-#avh
-#avj
-#avi
-#avk
-#avl
-#avm
-#avn
-#avo
-#avp
-#avq
-#avr
-#avs
-#avt
-#avu
-#avv
-#avw
-#avx
-#avy
-#avz
-#awa
-#awb
-#awc
-#awd
-#awe
-#awf
-#awg
-#awh
-#awj
-#awi
-#awk
-#awl
-#awm
-#awn
-#awo
-#awp
-#awq
-#awr
-#aws
-#awt
-#awu
-#awv
-#aww
-#awx
-#awy
-#awz
-#axa
-#axb
-#axc
-#axd
-#axe
-#axf
-#axg
-#axh
-#axj
-#axi
-#axk
-#axl
-#axm
-#axn
-#axo
-#axp
-#axq
-#axr
-#axs
-#axt
-#axu
-#axv
-#axw
-#axx
-#axy
-#axz
-#aya
-#ayb
-#ayc
-#ayd
-#aye
-#ayf
-#ayg
-#ayh
-#ayj
-#ayi
-#ayk
-#ayl
-#aym
-#ayn
-#ayo
-#ayp
-#ayq
-#ayr
-#ays
-#ayt
-#ayu
-#ayv
-#ayw
-#ayx
-#ayy
-#ayz
-#aza
-#azb
-#azc
-#azd
-#aze
-#azf
-#azg
-#azh
-#azj
-#azi
-#azk
-#azl
-#azm
-#azn
-#azo
-#azp
-#azq
-#azr
-#azs
-#azt
-#azu
-#azv
-#azw
-#azx
-#azy
-#azz
 baa	巴
 bab	疤
 bac	芭
 bad	灞
-#bae
 baf	拔
 bafb	扒
 bag	靶
@@ -1421,175 +785,103 @@ bam	粑
 ban	妭
 bao	胈
 bap	八
-#baq
 bar	仈
 bas	罷
 bat	壩
-#bau
+bau	豝
 bav	笆
 baw	玐
 bax	覇
 bay	霸
 baz	跋
-#bba
-#bbb
-#bbc
-#bbd
-#bbe
-#bbf
-#bbg
-#bbh
-#bbj
-#bbi
-#bbk
-#bbl
-#bbm
-#bbn
-#bbo
-#bbp
-#bbq
-#bbr
-#bbs
-#bbt
-#bbu
-#bbv
-#bbw
-#bbx
-#bby
-#bbz
-#bca
+bbu	不变式
 bcb	瘭
-#bcc
-#bcd
-#bce
 bcf	飆
-#bcg
 bch	彪
 bcj	鑣
 bci	髟
-#bck
 bcl	麃
 bcm	標
 bcm	驫
 bcn	婊
 bco	膘
-#bcp
 bcq	猋
-#bcr
-#bcs
 bct	墂
 bcu	磦
 bcv	篻
-#bcw
-#bcx
 bcy	褾
-#bcz
-#bda
-#bdb
-#bdc
-#bdd
-#bde
-#bdf
-#bdg
-#bdh
-#bdj
-#bdi
-#bdk
-#bdl
-#bdm
-#bdn
-#bdo
-#bdp
-#bdq
-#bdr
-#bds
-#bdt
-#bdu
-#bdv
-#bdw
-#bdx
-#bdy
-#bdz
-#bea
-#beb
-#bec
-#bed
-#bee
-#bef
-#beg
-#beh
-#bej
-#bei
-#bek
-#bel
-#bem
-#ben
-#beo
-#bep
-#beq
-#ber
-#bes
-#bet
-#beu
-#bev
-#bew
-#bex
-#bey
-#bez
+bda	不對啊
+bdb	不得不
+bdd	不動點
+bde	半道兒
+bdf	貝多芬
+bdg	白大褂
+bdh	本地化
+bdj	不對勁
+bdi	不對稱
+bdl	不得了
+bdq	不定期
+bdr	班得瑞
+bds	被打死
+bdt	半導體
+bdu	表達式
+bdw	不對味
+bdx	不動心
+bdy	不但要
+bdz	半吊子
+befm	不二法門
+beg	巴爾幹
+beh	北二環
+bej	白堊紀
+bei	板兒車
+bek	波爾卡
+ben	包二奶
+bex	不二心
 bfa	本
 bfb	賁
 bfc	苯
 bfd	奔
-#bfe
-#bff
-#bfg
+bfg	避風港
 bfh	炃
-#bfj
 bfi	蟦
 bfk	喯
-#bfl
-#bfm
+bfl	百分率
 bfn	犇
-#bfo
-#bfp
-#bfq
+bfp	捕風瓶
+bfq	播放器
 bfr	倴
 bfs	畚
 bft	坌
-#bfu
+bfu	比方說
 bfv	笨
-#bfw
-#bfx
+bfx	暴風雪
 bfy	翉
 bfz	逩
-#bga
+bga	併購案
 bgb	甭
 bgc	菶
 bgd	奟
-#bge
+bge	冰棍兒
 bgf	揼
 bgg	鞛
-#bgh
 bgj	鏰
 bgi	蚌
 bgk	嘣
-#bgl
-#bgm
-#bgn
-#bgo
-#bgp
-#bgq
-#bgr
+bgl	辦公樓
+bgm	閍
+bgn	不給你
+bgp	不公平
+bgq	辦公區
+bgr	被告人
 bgs	繃
-#bgt
 bgu	泵
-#bgv
+bgv	辦公桌
 bgw	甮
 bgx	恲
-#bgy
+bgy	不管用
 bgz	蹦
 bgz	迸
-#bha
+bha	不會啊
 bhb	幫
 bhc	蒡
 bhd	浜
@@ -1599,26 +891,25 @@ bhg	髈
 bhh	稖
 bhj	鎊
 bhi	蚌
-#bhk
-#bhl
+bhk	報戶口
+bhl	不合理
 bhm	棒
 bhmp	榜
-#bhn
+bhn	不好弄
 bho	膀
 bhp	牓
-#bhq
+bhq	變換器
 bhr	傍
 bhs	綁
-#bht
 bhu	磅
 bhv	艕
 bhw	玤
-#bhx
+bhx	不和諧
 bhy	謗
-#bhz
-#bja
-bjb	半
-#bjc
+bhz	百合子
+bjb	瘢
+bjb	癍
+bjc	保健操
 bjd	班
 bje	阪
 bjf	扮
@@ -1631,12 +922,11 @@ bjg	瓣
 bjh	秚
 bjj	鈑
 bji	螌
-#bjk
+bjk	不健康
 bjl	辦
 bjm	板
 bjm	闆
-#bjn
-#bjo
+bjn	比基尼
 bjp	版
 bjq	編輯器
 bjr	伴
@@ -1662,12 +952,11 @@ bih	秕
 bij	币
 bii	蜌
 bik	嗶
-#bil
+bil	不成立
 bim	閉
 bin	婢
 bio	臂
 bip	匕
-#biq
 bir	俾
 bis	斃
 bit	壁
@@ -1681,118 +970,103 @@ biz	避
 biz	鼻
 bizx	避
 bizq	鼻
-#bka
 bkb	寶
-#bkc
-#bkd
-#bke
+bkc	薄
+bkd	剝
+bke	報
 bkf	抱
 bkg	包
-#bkh
-#bkj
-#bki
-#bkk
-#bkl
-#bkm
+bkh	爆
+bkh	煲
+bki	齙
+bkk	嚗
+bkl	伯克利
 bkn	鴇
-#bko
-#bkp
-#bkq
-#bkr
-#bks
+bko	暴
+bko	曝
+bkob	曝
+bkp	勹
+bkq	犳
+bkr	保
+bks	緥
 bkt	堡
-#bku
-#bkv
-#bkw
-#bkx
-#bky
-#bkz
+bku	飽
+bkv	豹
+bkw	褒
+bkx	報
+bky	鮑
+bky	雹
+bky	褓
+bkz	孢
+bkz	趵
 bla	百
-#blb
-#blc
-#bld
-#ble
+blc	薭
+bld	變量
 blf	掰
 blf	擺
 blfn	擺弄
 blfq	擺
 blg	庍
 blh	稗
-#blj
-#bli
+blj	八路軍
+bli	暴露出
 blk	兡
 bll	竡
 blm	柏
 bln	犤
-#blo
-#blp
+blp	玻璃瓶
 blq	猈
 blr	伯
 blr	佰
 bls	絔
-#blt
+blt	柏拉圖
 blu	拜
-#blv
+blv	玻璃珠
 blw	敗
-#blx
+blx	波浪形
 bly	襬
-#blz
-#bma
+blz	半拉子
 bmb	貶
 bmc	苄
 bmd	辨
-#bme
-#bmf
 bmg	鞭
 bmh	扁
 bmh	煸
 bmj	覵
 bmi	蝙
 bmk	匾
-#bml
-#bmm
-#bmn
-#bmo
+bml	遍歷
+bmm	糄
+bmo	昪
 bmp	牑
-#bmq
 bmr	便
 bms	編
 bms	辮
 bmsx	辮
-#bmt
 bmu	砭
 bmv	籩
 bmw	變
 bmx	辡
 bmy	辯
 bmz	邊
-#bna
+bna	不能啊
 bnb	賓
-#bnc
 bnd	瀕
 bnd	殯
 bne	邠
 bnf	擯
 bng	髕
-#bnh
 bnj	鑌
 bni	鬢
-#bnk
-#bnl
+bnk	不能看
+bnl	瀕臨
 bnm	檳
-#bnn
 bno	臏
 bnp	彬
-#bnq
 bnr	儐
 bns	繽
-#bnt
 bnu	豳
-#bnv
 bnw	斌
-#bnx
-#bny
-#bnz
 boa	癶
 bob	皪
 boc	薄
@@ -1805,7 +1079,6 @@ bof	撥
 bof	搏
 bof	播
 bog	瓟
-#boh
 boj	帛
 bojb	鉢
 boi	蚾
@@ -1830,245 +1103,104 @@ bov	箔
 bov	舶
 bov	簸
 bow	玻
-#box
 boy	詙
 boz	跛
-#bpa
-#bpb
-#bpc
-#bpd
-#bpe
-#bpf
-#bpg
-#bph
-#bpj
-#bpi
-#bpk
-#bpl
-#bpm
-#bpn
-#bpo
-#bpp
-#bpq
-#bpr
-#bps
-#bpt
-#bpu
-#bpv
-#bpw
-#bpx
-#bpy
-#bpz
-#bqa
-#bqb
-#bqc
-#bqd
-#bqe
-#bqf
-#bqg
-#bqh
-#bqj
-#bqi
-#bqk
-#bql
-#bqm
-#bqn
-#bqo
-#bqp
-#bqq
-#bqr
-#bqs
-#bqt
-#bqu
-#bqv
-#bqw
-#bqx
-#bqy
-#bqz
-#bra
-#brb
-#brc
-#brd
-#bre
-#brf
-#brg
-#brh
-#brj
-#bri
-#brk
-#brl
-#brm
-#brn
-#bro
-#brp
-#brq
-#brr
-#brs
-#brt
-#bru
-#brv
-#brw
-#brx
-#bry
-#brz
-#bsa
-#bsb
-#bsc
-#bsd
-#bse
-#bsf
-#bsg
-#bsh
-#bsj
-#bsi
-#bsk
-#bsl
-#bsm
-#bsn
-#bso
-#bsp
-#bsq
-#bsr
-#bss
-#bst
-#bsu
-#bsv
-#bsw
-#bsx
-#bsy
-#bsz
-#bta
-#btb
-#btc
-#btd
-#bte
-#btf
-#btg
-#bth
-#btj
-#bti
-#btk
-#btl
-#btm
-#btn
-#bto
-#btp
-#btq
-#btr
-#bts
-#btt
-#btu
-#btv
-#btw
-#btx
-#bty
-#btz
+bpa	保平安
+bpd	不平等
+bpf	兺
+bpg	變頻管
+bph	白平衡
+bpi	不平常
+bpl	被騙了
+bpn	不騙你
+bpp	不匹配
+bpq	變頻器
+bpu	白皮書
+bpv	不排除
+bqe	白求恩
+bqf	版權法
+bqg	版權歸
+bqh	搬遷戶
+bqj	閉區間
+bqi	不清楚
+bql	冰淇淋
+bqn	並且能
+brc	百日草
+brd	不認得
+bre	不入耳
+brh	白熱化
+brl	不入流
+brm	白日夢
+brq	哺乳期
+bsb	比薩餅
+bsd	波塞冬
+bse	貝賽爾
+bsg	變速桿
+bsl	變色龍
+bta	变态啊
+btd	不停地
+bth	不太好
 bua	卜
-#bub
-#buc
-#bud
 bue	部
 buf	捕
 buff	部分
-#bug
-#buh
-buj	布
+buj	鈈
 buj	鈈
 bui     轐
 buk	哺
-#bul
 bum	柨
-#bun
 buo	晡
-#bup
-#buq
+buq	半衰期
 bur	佈
-#bus
 but	埠
-#buu
+buu	布
 buv	簿
 buv	步
 buw	瓿
 bux	怖
 buy	補
 buz	逋
-#bva
-#bvb
-#bvc
+bva	編者按
+bvb	標準版
 bvd	不知道
-#bve
-#bvf
-#bvg
-#bvh
+bvf	辯證法
 bvj	B站
 bvj	Bilibili
-#bvi
-#bvk
-#bvl
-#bvm
-#bvn
-#bvo
-#bvp
-#bvq
-#bvr
-#bvs
-#bvt
-#bvu
-#bvv
-#bvw
-#bvx
-#bvy
-#bvz
-#bwa
-#bwb
-#bwc
-#bwd
-#bwe
-#bwf
-#bwg
-#bwh
-#bwj
-#bwi
-#bwk
-#bwl
-#bwm
-#bwn
-#bwo
-#bwp
-#bwq
-#bwr
-#bws
-#bwt
-#bwu
-#bwv
-#bww
-#bwx
-#bwy
-#bwz
-#bxa
+bvi	標準差
+bvl	備註欄
+bvp	標誌牌
+bvq	保質期
+bvr	班主任
+bvt	拜占庭
+bvu	本質上
+bvv	標誌着
+bvx	標誌性
+bvy	標準語
+bwb	保溫杯
+bwd	不穩定
+bwe	鮑威爾
+bwg	博物館
+bwl	備忘錄
+bwp	保溫瓶
+bwq	不完全
+bxa	不行啊
 bxb	癟
-#bxc
 bxd	別
-#bxe
-#bxf
+bxf	保險費
 bxg	龞
 bxg	彆
-#bxh
-#bxj
-#bxi
-#bxk
-#bxl
+bxh	並行化
+bxj	步行街
+bxi	表現出
+bxk	必修課
+bxl	表現力
 bxm	鼈
-#bxn
-#bxo
-#bxp
-#bxq
-#bxr
-#bxs
-#bxt
-#bxu
-#bxv
-#bxw
+bxq	保修期
+bxr	徶
+bxs	保險絲
+bxt	本系統
+bxu	便攜式
+bxw	表現爲
 bxx	憋
 bxy	鱉
 bxz	蹩
@@ -2076,32 +1208,26 @@ bya	丙
 byb	并
 byc	苪
 byd	冰
-#bye
 byf	摒
-#byg
-#byh
-#byj
-#byi
-#byk
-#byl
-#bym
-#byn
-#byo
+byh	秉
+byi	蛃
+byk	不要看
+byl	竝
+bym	柄
+byn	比翼鳥
 byp	秉
 byq	編譯器
 byr	併
 bys	絣
 byt	垪
 byu	餅
-#byv
+byv	不一致
 byw     稟
-#byx
-#byy
 byz	迸
 bza	貝
 bzb	北
 bzc	蓓
-#bzd
+bzd	半自動
 bze	邶
 bze	陂
 bzf	揹
@@ -2110,16 +1236,14 @@ bzh	焙
 bzj	鋇
 bzi	軰
 bzk	唄
-#bzl
+bzl	勃
 bzm	杯
-#bzn
 bzo	背
 bzp	卑
 bzq	狽
 bzr	倍
 bzr	備
 bzry	備
-#bzs
 bzt	垻
 bzu	碑
 bzv	箄
@@ -2129,31 +1253,10 @@ bzx	悖
 bzx	憊
 bzy	誖
 bzz	孛
-#caa
-#cab
-#cac
-#cad
-#cae
 caf	擦
-#cag
-#cah
-#caj
-#cai
 cak	囃
 cak	嚓
-#cal
-#cam
-#can
-#cao
-#cap
-#caq
 car	偲
-#cas
-#cat
-#cau
-#cav
-#caw
-#cax
 cay	乲
 caz	遪
 #cba
@@ -3052,6 +2155,7 @@ djk	單
 #djn
 djo	膽
 djo	旦
+djoa	旦
 djp	丹
 djq	氮
 #djr
@@ -3519,7 +2623,8 @@ dzk	嘚
 #dzo
 #dzp
 #dzq
-dzr	得
+dzr	大自然
+dzrj	大自然
 #dzs
 #dzt
 #dzu
@@ -3786,7 +2891,7 @@ ebu	而不是
 #eiv
 #eiw
 #eix
-#eiy
+eiy	誒
 #eiz
 #eka
 #ekb
@@ -3850,7 +2955,8 @@ ebu	而不是
 #emh
 #emj
 #emi
-#emk
+emk	嘸
+emk	呣
 #eml
 #emm
 #emn
@@ -4348,6 +3454,7 @@ ffh	焚
 #ffi
 ffk	吩
 ffl	竕
+ffm	粉
 ffm	糞
 #ffn
 ffo	瞓
@@ -5707,7 +4814,7 @@ hdc	荒
 #heh
 #hej
 #hei
-#hek
+hek	喝
 #hel
 #hem
 hen	鶴
@@ -5987,27 +5094,27 @@ hodd	火
 #hoz
 #hpa
 #hpb
-#hpc
-#hpd
+hpc	葷
+hpd	渾
 #hpe
-#hpf
-#hpg
+hpf	掍
+hpg	魂
 #hph
-#hpj
-#hpi
+hpj	觨
+hpi	轋
 #hpk
 #hpl
-#hpm
-#hpn
-#hpo
+hpm	閽
+hpn	婚
+hpo	昏
 #hpp
 #hpq
-#hpr
+hpr	倱
 #hps
 #hpt
-#hpu
+hpu	餫
 #hpv
-#hpw
+hpw	琿
 #hpx
 #hpy
 #hpz
@@ -6125,11 +5232,14 @@ hry	幻
 huh	虎
 #huj
 #hui
-#huk
+huk	呼
+huk	唬
+huk	唿
+huk	囫
 #hul
 #hum
 #hun
-#huo
+huo	胡
 #hup
 #huq
 #hur
@@ -6139,7 +5249,7 @@ huh	虎
 #huv
 #huw
 #hux
-#huy
+huy	醐
 #huz
 #hva
 #hvb
@@ -6376,6 +5486,8 @@ jdd	江
 #jdw
 #jdx
 jdy	講
+jdyj	醬
+
 #jdz
 #jea
 #jeb
@@ -6520,18 +5632,20 @@ jia	己
 #jik
 #jil
 jim	機
-#jin
+jin	鷄
 #jio
-#jip
+jip	几
 #jiq
 #jir
 jis	級
 #jit
-#jiu
-jiv	籍
+jiu	吉
+jiv	集
+jivx	籍
 #jiw
 #jix
-#jiy
+jiy	記
+jiyd	幾
 #jiz
 #jka
 #jkb
@@ -6626,10 +5740,10 @@ jmv	簡
 #jnm
 #jnn
 #jno
-#jnp
+jnp	金
+jnp	斤
 #jnq
 jnr	僅
-jnra	金
 #jns
 #jnt
 #jnu
@@ -6693,7 +5807,7 @@ jpk	君
 #jqa
 #jqb
 #jqc
-#jqd
+jqd	酒
 #jqe
 #jqf
 #jqg
@@ -6705,7 +5819,7 @@ jpk	君
 #jqm
 #jqn
 #jqo
-#jqp
+jqp	久
 #jqq
 #jqr
 #jqs
@@ -6750,7 +5864,9 @@ jpk	君
 #jsf
 #jsg
 #jsh
-jsj	计算机
+jsj	計算機
+jsjkx	計算機科學
+jsjkxj	計算機科學家
 #jsi
 #jsk
 #jsl
@@ -6987,7 +6103,9 @@ iay	差
 iba	丑
 #ibb
 #ibc
-#ibd
+ibd	差不多
+ibd	殠
+ibdo	差不多
 #ibe
 ibf	抽
 #ibg
@@ -8249,7 +7367,7 @@ kwg	骻
 #kxf
 #kxg
 #kxh
-#kxj
+kxj	科學家
 #kxi
 #kxk
 #kxl
@@ -8574,10 +7692,10 @@ ldo	量
 #lis
 #lit
 #liu
-#liv
-#liw
+liv	離
+liw	理
 #lix
-#liy
+liy	鯉
 #liz
 #lka
 #lkb
@@ -9376,7 +8494,7 @@ moh	默
 #moi
 #mok
 #mol
-#mom
+mom	模
 #mon
 #moo
 #mop
@@ -9697,7 +8815,8 @@ nam	那麼
 #nas
 #nat
 nau	拿
-naui	那時
+naui	那是
+nauio	那時
 #nav
 #naw
 #nax
@@ -10141,7 +9260,7 @@ noy	諾
 #nrt
 #nru
 #nrv
-#nrw
+nrw	你認爲
 #nrx
 #nry
 #nrz
@@ -11708,7 +10827,7 @@ pzb	賠
 #qaa
 #qab
 #qac
-#qad
+qad	親愛的
 #qae
 #qaf
 #qag
@@ -11750,7 +10869,7 @@ pzb	賠
 #qbq
 #qbr
 #qbs
-#qbt
+qbt	千比特
 #qbu
 #qbv
 #qbw
@@ -12022,7 +11141,9 @@ qiz	起
 #qma
 #qmb
 #qmc
-#qmd
+qmd	淺
+qmd	欠
+qmd	潛
 #qme
 #qmf
 #qmg
@@ -12353,14 +11474,14 @@ qyd	清
 #qyt
 #qyu
 #qyv
-#qyw
+qyw	竊以爲
 #qyx
 #qyy
 #qyz
 #qza
 #qzb
 #qzc
-#qzd
+qzd	全自動
 #qze
 #qzf
 #qzg
@@ -13399,6 +12520,7 @@ smg	什么鬼
 #smw
 #smx
 #smy
+smys	什麼意思
 #smz
 #sna
 #snb
@@ -13692,6 +12814,7 @@ syb	所有
 #syc
 #syd
 #sye
+syea	隨遇而安
 #syf
 #syg
 #syh
@@ -13705,11 +12828,11 @@ syb	所有
 #syp
 #syq
 syr	所有人
-#sys
+sys	啥意思
 #syt
 #syu
 #syv
-#syw
+syw	私以爲
 #syx
 #syy
 #syz
@@ -13997,7 +13120,7 @@ tiu	題
 #tiv
 #tiw
 #tix
-#tiy
+tiy	醍
 #tiz
 #tka
 #tkb
@@ -14088,7 +13211,9 @@ tiu	題
 #tnj
 #tni
 #tnk
-#tnl
+tnl	太難了
+tnl	太牛了
+tnl	聽膩了
 #tnm
 #tnn
 #tno
@@ -14203,7 +13328,8 @@ tof	托
 #trt
 #tru
 #trv
-#trw
+trw	他認爲
+trw	她認爲
 #trx
 #try
 #trz
@@ -14260,29 +13386,31 @@ tof	托
 #tty
 #ttz
 tua	凸
-#tub
-#tuc
-#tud
+tub	宊
+tuc	荼
+tud	涂
+tud	兔
 #tue
 #tuf
 #tug
-#tuh
-#tuj
+tuh	禿
+tuj	釷
 #tui
 tuk	圖
 #tul
 #tum
 #tun
-#tuo
-#tup
+tuo	腯
+tup	兎
 #tuq
-#tur
+tur	徒
 #tus
 #tut
 #tuu
 #tuv
 #tuw
-#tux
+tux	突
+tux	徒
 #tuy
 #tuz
 #tva
@@ -14299,7 +13427,7 @@ tvf	推
 #tvl
 #tvm
 #tvn
-#tvo
+tvo	腿
 #tvp
 #tvq
 #tvr
@@ -14462,7 +13590,8 @@ uau	殺
 #ubr
 #ubs
 #ubt
-#ubu
+ubu	是不是
+ubu	壽
 #ubv
 #ubw
 #ubx
@@ -14635,7 +13764,8 @@ ugo	勝
 #ujh
 #ujj
 ujjg	數據結構
-#uji
+uji
+ujio	時間戳
 ujk	數據庫
 #ujl
 #ujm
@@ -14696,7 +13826,7 @@ uiz	適
 #uke
 #ukf
 #ukg
-#ukh
+ukh	烧
 #ukj
 #uki
 #ukk
@@ -14871,10 +14001,11 @@ uiz	適
 #uqx
 #uqy
 #uqz
+uqzr	順其自然
 #ura
 #urb
 #urc
-#urd
+urd	涮
 #ure
 urf	輸入法
 #urg
@@ -14883,15 +14014,16 @@ urf	輸入法
 #uri
 #urk
 #url
-#urm
+urm	栓
+urm	閂
 #urn
 #uro
 #urp
 #urq
 #urr
-#urs
+urs	絟
 #urt
-#uru
+uru	輸入輸出
 #urv
 #urw
 #urx
@@ -14971,7 +14103,7 @@ uuj	鼠
 #uut
 #uuu
 #uuv
-#uuw
+uuw	數
 #uux
 #uuy
 #uuz
@@ -15215,7 +14347,7 @@ vbk	周
 #ved
 #vee
 #vef
-#veg
+veg	這個
 #veh
 #vej
 #vei
@@ -15230,6 +14362,8 @@ ver	這兒
 #ves
 #vet
 #veu
+veui	這是
+veuio	這時
 #vev
 #vew
 #vex
@@ -15358,7 +14492,7 @@ ving	智能	# 只能 -> vn
 #vio
 #vip
 #viq
-#vir
+vir	值
 #vis
 vit	至
 viu	知
@@ -15548,7 +14682,7 @@ vlm	寨
 #vqv
 #vqw
 #vqx
-#vqy
+vqyu	終其一生
 #vqz
 #vra
 vrb	賺
@@ -15657,7 +14791,7 @@ vuu	豬
 #vva
 #vvb
 #vvc
-#vvd
+vvd	真正的
 #vve
 #vvf
 #vvg
@@ -16248,7 +15382,7 @@ wox	窝
 #wrt
 #wru
 #wrv
-#wrw
+wrw	我認爲
 #wrx
 #wry
 #wrz
@@ -16314,10 +15448,13 @@ wsm	爲什麼
 #wuh
 #wuj
 #wui
-#wuk
+wuk	吳
+wuk	嗚
+wuk	唔
 #wul
-#wum
-#wun
+wum	務
+wumw	梧
+wun	物
 #wuo
 #wup
 #wuq
@@ -16326,8 +15463,8 @@ wsm	爲什麼
 #wut
 #wuu
 #wuv
-#wuw
-#wux
+wuw	吾
+wux	悟
 #wuy
 #wuz
 #wva
@@ -16451,13 +15588,19 @@ wzd	危
 #wzo
 #wzp
 #wzq
-#wzr
+wzr	位
+wzr	僞
+wzr	偉
+wzrw	偉
 #wzs
 #wzt
 #wzu
 #wzv
 #wzw
-#wzx
+wzx	微
+wzx	惟
+wzx	衛
+wzxv	惟
 #wzy
 #wzz
 #xaa
@@ -16517,18 +15660,20 @@ wzd	危
 #xcc
 xcd	消
 xcd	淆
-#xce
+xce	郩
 #xcf
-#xcg
+xcg	魈
 #xch
-#xcj
+xcj	銷
 #xci
-#xck
-#xcl
-#xcm
-#xcn
-#xco
-#xcp
+xck	嘯
+xck	囂
+xcl	孝
+xcm	校
+xcn	鴞
+xcn	梟
+xco	晓
+xcp	斅
 #xcq
 #xcr
 #xcs
@@ -16536,7 +15681,7 @@ xcd	淆
 #xcu
 #xcv
 #xcw
-#xcx
+xcx	肖
 #xcy
 #xcz
 #xda
@@ -16734,7 +15879,7 @@ xhyx	小鶴音形
 #xkj
 #xki
 #xkk
-#xkl
+xkl	辛苦了
 #xkm
 #xkn
 #xko
@@ -16772,7 +15917,8 @@ xhyx	小鶴音形
 #xlu
 #xlv
 #xlw
-#xlx
+xlx	心理學
+xlxj	心理學家
 #xly
 #xlz
 #xma
@@ -17139,58 +16285,65 @@ xyt	型
 #xzx
 #xzy
 #xzz
-#yaa
-#yab
-#yac
-#yad
-#yae
-#yaf
+yaa	牙
+yab	丫
+yac	芽
+yad	涯
+yae	聐
+yaf	押
 #yag
-#yah
+yah	亞
 #yaj
-#yai
-#yak
-#yal
-#yam
-#yan
-#yao
-#yap
-#yaq
-#yar
-#yas
-#yat
-#yau
-#yav
-#yaw
-#yax
-#yay
+yai	軋
+yak	啞
+yal	劜
+yam	椏
+yan	鴨
+yan	鴉
+yao	睚
+yaq	氬
+yar	伢
+yat	壓
+yau	崖
+yav	雅
+yaw	琊
+yax	衙
+yay	訝
 #yaz
-yba	又
-#ybb
-#ybc
-#ybd
-#ybe
-#ybf
-#ybg
-#ybh
-#ybj
+yba	由
+yba	酉
+yba	尤
+ybb	宥
+ybb	釉
+ybb	宥
+ybc	莠
+ybd	油
+ybd	游
+ybe	郵
+ybf	揂
+ybf	斿
+ybg	庮
+ybh	尤
+ybj	鈾
 #ybi
-#ybk
-#ybl
-#ybm
+ybk	右
+ybl	幼
+ybm	柚
 #ybn
 #ybo
-#ybp
-#ybq
-#ybr
-#ybs
+ybp	牖
+ybq	猶
+ybr	優
+ybr	佑
+ybs	纋
 #ybt
-#ybu
-#ybv
+ybu	友
+ybu	右
+ybv	又
 #ybw
-#ybx
-#yby
-#ybz
+ybx	憂
+yby	誘
+ybz	遊
 #yca
 #ycb
 #ycc
@@ -17381,28 +16534,50 @@ yjz	延
 yia	乙
 yib	疑
 yic	藝
-#yid
+yic	弈
+yicy	弈
+yicy	羿
+yid	衣
 #yie
-#yif
+yif	抑
 #yig
-#yih
-#yij
+yih	熠
+yij	銥
 yii	蟻
 yik	咦
-#yil
-#yim
-#yin
-#yio
-#yip
-#yiq
-#yir
-#yis
-#yit
-#yiu
+yik	噫
+yik	邑
+yik	囈
+yil	意
+yim	益
+yim	驛
+yim	椅
+yin	姨
+yio	易
+yio	胰
+yip	乂
+yiq	猗
+yir	依
+yir	億
+yir	伊
+yir	儀
+yir	倚
+yir	佚
+yirq	倚
+yiry	億
+yiry	儀
+yis	矣
+yis	縊
+yis	繹
+yis	繄
+yisi	意思
+yit	異
+yiu	毅
 yiv	已
-#yiw
-yix	意
+yiw	亦
 yix	憶
+yix	役
+yix	意
 yiy	議
 yiy	義
 yiz	遺
@@ -17592,7 +16767,8 @@ ypo	暈
 #yra
 #yrb
 #yrc
-#yrd
+yrd	源
+yrd	淵
 #yre
 #yrf
 #yrg
@@ -17693,8 +16869,10 @@ yurx	御
 #yuu
 #yuv
 yuw	玉
-#yux
-#yuy
+yux	羽
+yuxxo	御
+yuy	語
+yuy	預
 #yuz
 #yva
 #yvb
@@ -17772,7 +16950,8 @@ yvx	一致性
 #yxv
 #yxw
 #yxx
-#yxy
+yxy	一心一意
+yxyy	一心一意
 #yxz
 #yya
 #yyb
@@ -18142,6 +17321,7 @@ zky	凿
 #zlz
 #zma
 zmb	怎麼辦
+zmba	怎麼辦啊
 #zmc
 #zmd
 #zme
@@ -18371,6 +17551,7 @@ zrmup	自然碼雙拼
 #zut
 #zuu
 #zuv
+zuvv	自始至終
 #zuw
 #zux
 #zuy

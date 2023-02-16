@@ -19,7 +19,7 @@ switches:
   - name: full_shape
     states: [ 半角, 全角 ]
   - name: simplification
-    reset: 0
+    reset: 1
     states: [ 漢字, 汉字 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
@@ -72,7 +72,7 @@ speller:
     - abbrev/^(\w*);(\w)(\w)$/$1$2$3/  # 全碼 YYXX，優先級更低
     - derive/^(\w*);(\w)(\w)$/$1$2/    # 構詞可以用 YYX
     - derive/^(\w*);(\w)(\w)$/$1/      # 構詞可以用 YY
-    - abbrev/^([a-z]).+$/$1/           # 首字母簡拼
+    #- abbrev/^([a-z]).+$/$1/           # 首字母簡拼（※ 嚴重影響出字速度，在簡詞完善後可能關閉）
 
 translator:    # 整句模式
   dictionary: moran.extended
