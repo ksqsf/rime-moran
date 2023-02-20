@@ -1,7 +1,7 @@
 schema:
-  schema_id: moran_fixed
+  schema_id: moran.fixed
   name: 勿用·工具方案
 
 translator:
-  dictionary: moran_fixed
+  dictionary: moran.fixed
   enable_user_dict: false

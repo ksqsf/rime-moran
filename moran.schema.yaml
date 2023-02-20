@@ -8,7 +8,7 @@ schema:
     魔改自然碼（魔然）
   dependencies:
     - tiger
-    - moran_fixed
+    - moran.fixed
     - moran.english
     - moran.japanese
 
@@ -76,17 +76,14 @@ speller:
 
 translator:    # 整句模式
   dictionary: moran.extended
-  prism: moran
   initial_quality: 0
 
 fixed:         # 固頂
-  dictionary: moran_fixed
-  initial_quality: 5
-  enable_user_dict: false
+  dictionary: moran.fixed
   enable_completion: false
   enable_sentence: false
-  enable_encoder: false
-  encode_commit_history: false
+  initial_quality: 5
+  enable_user_dict: false
 
 custom_phrase: # 自定義短語
   dictionary: ""
