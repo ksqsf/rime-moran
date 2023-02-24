@@ -74,6 +74,10 @@ speller:
     - derive/^(\w*);(\w)(\w)$/$1/      # 構詞可以用 YY
     #- abbrev/^([a-z]).+$/$1/           # 首字母簡拼（※ 嚴重影響出字速度，在簡詞完善後可能關閉）
 
+ascii_composer:
+  switch_key:
+    Shift_L: commit_code
+
 translator:    # 整句模式
   dictionary: moran.extended
   prism: moran

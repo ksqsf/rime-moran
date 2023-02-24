@@ -138,7 +138,7 @@ ee	額
 ef	而非
 eg	鞥
 eh	而後
-ej	而今
+ej	二進制
 ei	誒
 ek	而況
 el	而來
@@ -284,7 +284,7 @@ it	衝突
 iu	除
 iv	吹
 iw	欻
-ix	程序
+ix	抽象
 iy	踹
 iz	創作
 ka	卡
@@ -341,7 +341,7 @@ ly	令
 lz	類
 ma	嗎
 mb	某
-mc	妙
+mc	秒
 md	目的
 me	麼
 mf	們
@@ -541,7 +541,7 @@ uo	說
 up	順
 uq	事情
 ur	拴
-us	生死
+us	是啥
 ut	試圖
 uu	書
 uv	水
@@ -555,7 +555,7 @@ vc	至此
 vd	裝
 ve	着
 vf	真
-vg	正
+vg	這個
 vh	章
 vj	站
 vi	之
@@ -592,7 +592,7 @@ wl	外
 wm	我們
 wn	無奈
 wo	我
-wp	瘒
+wp	網盤
 wq	完全
 wr	微軟
 ws	爲啥
@@ -826,6 +826,7 @@ bds	被打死
 bdt	半導體
 bdu	表達式
 bdw	不對味
+bdwp	百度網盤
 bdx	不動心
 bdy	不但要
 bdz	半吊子
@@ -2866,8 +2867,8 @@ ebu	而不是
 #ejs
 #ejt
 #eju
-#ejv
-#ejw
+ejv	二進制
+ejw	二進制文件
 #ejx
 #ejy
 #ejz
@@ -2941,7 +2942,7 @@ eiy	誒
 #elp
 #elq
 #elr
-#els
+els	俄羅斯
 #elt
 #elu
 #elv
@@ -5556,7 +5557,8 @@ jdyj	醬
 #jgj
 #jgi
 #jgk
-#jgl
+jgl	舉個例子
+jglz	舉個例子
 #jgm
 #jgn
 #jgo
@@ -6711,6 +6713,8 @@ ixfx	程序分析
 #ixx
 ixy	程序員
 ixyy	程序語言
+ixyf	抽象語法樹
+ixyfu	抽象語法樹
 #ixz
 #iya
 #iyb
@@ -8186,7 +8190,7 @@ mau	碼
 #mck
 #mcl
 #mcm
-#mcn
+mcn	妙
 #mco
 #mcp
 #mcq
@@ -10454,6 +10458,7 @@ pfm	盆
 #pln
 #plo
 #plp
+plpl	噼里啪啦
 #plq
 #plr
 #pls
@@ -10557,7 +10562,7 @@ pfm	盆
 #ppm
 #ppn
 #ppo
-#ppp
+pppp	噼噼啪啪
 #ppq
 #ppr
 #pps
@@ -13857,7 +13862,7 @@ ukh	烧
 #ulf
 #ulg
 #ulh
-#ulj
+ulj	十六進制
 #uli
 #ulk
 #ull
@@ -14045,7 +14050,7 @@ uru	輸入輸出
 #usi
 #usk
 #usl
-#usm
+usm	是什麼
 #usn
 #uso
 #usp
@@ -14399,7 +14404,7 @@ vfb	支付寶
 #vfx
 #vfy
 #vfz
-#vga
+vga	正
 #vgb
 #vgc
 #vgd
@@ -14453,6 +14458,9 @@ vfb	支付寶
 #vhz
 #vja
 #vjb
+vjbd	中間表達
+vjbdx	中間表達形式
+vjbdxu	中間表達形式
 #vjc
 #vjd
 #vje
@@ -14970,7 +14978,8 @@ vyd	這樣的
 #wbt
 #wbu
 #wbv
-#wbw
+wbw	文本文件
+wbwj	文本文件
 #wbx
 #wby
 #wbz
@@ -15193,7 +15202,7 @@ wha	王
 #wkj
 #wki
 #wkk
-#wkl
+wkl	烏克蘭
 #wkm
 #wkn
 #wko
@@ -16446,7 +16455,7 @@ yeh	頁
 #yfr
 #yfs
 #yft
-#yfu
+yfu	語法樹
 #yfv
 #yfw
 #yfx
@@ -17113,7 +17122,7 @@ zak	咱
 #zdv
 #zdw
 #zdx
-#zdy
+zdy     自定義
 #zdz
 #zea
 #zeb
@@ -17348,6 +17357,7 @@ zmlak	怎么啦
 #zmt
 zmu	怎麼說
 #zmv
+zmvm	怎麼這麼
 #zmw
 zmx	怎麼行
 zmy	怎麼樣
