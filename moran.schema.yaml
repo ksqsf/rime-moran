@@ -8,7 +8,7 @@ schema:
     魔改自然碼（魔然）
   dependencies:
     - tiger
-    - moran.fixed
+    - moran_fixed
     - moran.english
     - moran.japanese
 

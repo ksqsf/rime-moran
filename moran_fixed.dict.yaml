@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 ---
-name: moran.fixed
+name: moran_fixed
 version: "1"
 sort: original
 columns:
@@ -12821,7 +12821,7 @@ sxsy	隨心所欲
 #sya
 syb	所有
 #syc
-#syd
+syd	所有的
 #sye
 syea	隨遇而安
 #syf
@@ -13180,6 +13180,7 @@ tiy	醍
 #tlu
 #tlv
 #tlw
+tlwb	圖靈完備
 #tlx
 #tly
 #tlz
@@ -14780,7 +14781,7 @@ vss	終
 #vud
 #vue
 #vuf
-#vug
+#vug	竹
 #vuh
 #vuj
 #vui
@@ -14789,7 +14790,7 @@ vss	終
 #vum
 #vun
 #vuo
-#vup
+#vup	朱
 vuq	助
 #vur
 vusm	這是什麼
