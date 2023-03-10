@@ -86,7 +86,7 @@ translator:    # 整句模式
 fixed:         # 固頂
   initial_quality: 5
   enable_user_dict: false
-  dictionary: moran.fixed
+  dictionary: moran_fixed
   enable_completion: false
   enable_sentence: false
   enable_encoder: false
