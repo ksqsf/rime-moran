@@ -51,7 +51,8 @@
 + 自然碼原始碼表來自 [rime-zrm](https://github.com/bigshans/rime-zrm)
 + 部分功能設計得到[小鶴音形](https://flypy.com)的啓發
 + Lua 腳本和繪文字來自 [秃版虎碼 Rime 方案](https://tiger-code.com/)
-+ 皮膚收集自 [ssnhd/Rime](https://github.com/ssnhd/rime/)、[KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian/) 和秃版虎码方案。
++ 皮膚收集自 [ssnhd/Rime](https://github.com/ssnhd/rime/)、[KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian/) 和秃版虎码方案
++ [清華大學開放中文詞庫](http://thuocl.thunlp.org/)
 
 大部分詞庫收集自其他 Rime 方案，出處均在相應詞典文件頭標出。
 
