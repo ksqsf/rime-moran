@@ -1,6 +1,9 @@
 """生成合法的 thuocl 词库
 
-需要先把 thuocl-pinyin 项目 output 目录中的所有 .csv 文件拷贝到当前目录下"""
+需要先把 thuocl-pinyin 项目 [1] output 目录中的所有 .csv 文件拷贝到当前目录下
+
+[1] https://github.com/ksqsf/THUOCL-pinyin
+"""
 
 from zrmify import *
 import os
