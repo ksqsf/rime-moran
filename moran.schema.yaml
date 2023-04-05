@@ -29,6 +29,9 @@ switches:
   - name: unicode_comment
     reset: 0
     states: [ U開, U關 ]
+  - name: dzing
+    reset: 0
+    states: [ 通, 寍 ]
 
 engine:
   processors:
@@ -60,6 +63,7 @@ engine:
   filters:
     - simplifier
     - simplifier@emoji
+    - simplifier@dzing
     - lua_filter@moran_charset_comment_filter  # Unicode 區位提示
     - lua_filter@moran_unicode_display_filter  # Unicode 編碼提示
     - uniquifier
@@ -117,6 +121,11 @@ emoji:
   option_name: emoji
   tips: all
 
+dzing:
+  opencc_config: dzing.json
+  option_name: dzing
+  tips: all
+
 reverse_lookup:
   dictionary: tiger
   enable_completion: true
@@ -133,6 +142,7 @@ key_binder:
     - {when: has_menu, accept: "Control+s", toggle: simplification}
     - {when: has_menu, accept: "Control+u", toggle: unicode_comment}
     - {when: has_menu, accept: "Control+e", toggle: emoji}
+    - {when: has_menu, accept: "Control+d", toggle: dzing}
     - {when: has_menu, accept: semicolon, send: "2"}
 
 recognizer:
