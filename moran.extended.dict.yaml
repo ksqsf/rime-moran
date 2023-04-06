@@ -4,7 +4,7 @@
 ---
 name: moran.extended
 version: "1"
-sort: original
+sort: by_weight
 use_preset_vocabulary: false
 import_tables:
   - moran.main       # 自然碼輔碼、補充詞、快符等
@@ -22,7 +22,7 @@ import_tables:
   - moran.thuocl.poem
 # - moran.sogou      # 搜狗詞庫 (默認禁用)
   - moran.computer   # 計算機術語
-  - moran.hanyu      # 漢語大詞典
+# - moran.hanyu      # 漢語大詞典（都是些很生僻的詞，不如關了）
   - moran.touhou
   - moran.genshin
   - moran.priconne
