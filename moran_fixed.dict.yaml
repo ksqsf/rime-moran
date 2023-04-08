@@ -180,7 +180,7 @@ fv	反正
 fw	訪問
 fx	分析
 fy	翻譯
-fz	非
+fz	飛
 ga	噶
 gb	夠
 gc	剛才
@@ -284,7 +284,7 @@ it	衝突
 iu	除
 iv	吹
 iw	欻
-ix	抽象
+ix	程序
 iy	踹
 iz	創作
 ka	卡
@@ -2480,7 +2480,7 @@ dud	瀆
 due	都
 duf	毒
 dug	度
-duh	黷
+duh	的時候
 duj	鍍
 dui	蠧
 duk	嘟
@@ -4204,7 +4204,7 @@ ghb	疘
 ghd	港
 ghe	阬
 ghf	缸
-#ghg
+ghg	共和國
 ghh	焵
 ghj	鋼
 #ghi
@@ -6037,7 +6037,7 @@ jyi	蜻
 jyk	兢
 jyl	竟
 jyl	競
-jym	睛
+jym	精
 jyn	婧
 jyo	景
 jyoq	睛
@@ -8079,6 +8079,7 @@ lsl	龍
 #lyd
 #lye
 #lyf
+lyfm	另一方面
 #lyg
 #lyh
 #lyj
@@ -11091,7 +11092,7 @@ qir	企
 #qit
 qiu	豈
 #qiv
-qiw	齊
+qiw	棄
 #qix
 qiy	訖
 qiz	起
@@ -12741,6 +12742,8 @@ spz	孫
 #suz
 #sva
 #svb
+svbt	死豬不怕開水燙
+svbp	死豬不怕開水燙
 #svc
 #svd
 #sve
@@ -14451,6 +14454,7 @@ vga	正
 #vhp
 #vhq
 #vhr
+vhrm	中華人民共和國
 #vhs
 #vht
 #vhu
@@ -14503,7 +14507,7 @@ vih	秩
 #vil
 #vim
 #vin
-ving	智能	# 只能 -> vn
+#ving	智能	# 只能 -> vn, 频繁打错，干脆删了
 #vio
 #vip
 #viq
@@ -15031,7 +15035,9 @@ wbwj	文本文件
 #wdq
 #wdr
 #wds
-#wdt
+wdt	我的天
+wdty	我的天呀
+wdta	我的天啊
 #wdu
 #wdv
 #wdw
@@ -16406,6 +16412,7 @@ ybz	遊
 #yds
 #ydt
 #ydu
+yduh	有的時候
 #ydv
 #ydw
 #ydx
@@ -16449,7 +16456,7 @@ yeh	頁
 #yfi
 #yfk
 #yfl
-#yfm
+yfm	一方面
 #yfn
 #yfo
 #yfp
