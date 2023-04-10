@@ -70,7 +70,7 @@ bn	濱
 bo	撥
 bp	兺
 bq	並且
-br	比如
+br	不如
 bs	伴隨
 bt	比特
 bu	不
@@ -3892,7 +3892,7 @@ fuz	孚
 #fvi
 #fvk
 #fvl
-#fvm
+fvm	輔助碼
 #fvn
 #fvo
 #fvp
@@ -17272,6 +17272,7 @@ zib	資
 #zig
 #zih
 #zij
+ziji	自己
 #zii
 #zik
 #zil
@@ -17683,7 +17684,7 @@ zyd	怎樣的
 #zyv
 #zyw
 #zyx
-#zyy
+zyy	作用域
 #zyz
 #zza
 #zzb
@@ -17704,6 +17705,7 @@ zyd	怎樣的
 #zzq
 #zzr
 #zzs
+zzsm	這是什麼
 #zzt
 #zzu
 #zzv

@@ -1,4 +1,5 @@
 patch:
   schema_list:
-    - {schema: luna_pinyin}
     - {schema: moran}
+    - {schema: tiger}
+    - {schema: luna_pinyin}
