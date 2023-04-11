@@ -4,7 +4,7 @@ patch:
   style:
     inline_preedit: true    # 在文本框顯示輸入串
     inline_candidate: false # 在文本框顯示首選項
-    translucency: false     # 透明度總開關
+    translucency: true      # 透明度總開關
 
     # 浅色主题
     color_scheme: milan

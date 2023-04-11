@@ -73,7 +73,7 @@ bq	並且
 br	不如
 bs	伴隨
 bt	比特
-bu	不
+bu	步
 bv	標準
 bw	把握
 bx	別
@@ -118,6 +118,7 @@ di	地
 dk	到
 dl	帶
 dm	點
+dm	丶
 dn	電腦
 do	多
 dp	頓
@@ -569,7 +570,7 @@ vq	之前
 vr	轉
 vs	中
 vt	狀態
-vu	住
+vu	注
 vv	追
 vw	抓
 vx	這些
@@ -12444,7 +12445,7 @@ sij	斯
 #sio
 #sip
 #siq
-#sir
+sir	似
 sis	絲
 #sit
 #siu
@@ -14784,7 +14785,7 @@ vss	終
 #vua
 #vub
 #vuc
-#vud
+vud	主
 #vue
 #vuf
 #vug	竹
@@ -14798,7 +14799,7 @@ vss	終
 #vuo
 #vup	朱
 vuq	助
-#vur
+vur	住
 vusm	這是什麼
 #vut
 vuu	豬
