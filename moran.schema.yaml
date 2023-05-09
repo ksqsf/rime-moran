@@ -144,6 +144,8 @@ key_binder:
     - {when: has_menu, accept: "Control+e", toggle: emoji}
     - {when: has_menu, accept: "Control+d", toggle: dzing}
     - {when: has_menu, accept: semicolon, send: "2"}
+    - {when: has_menu, accept: "Tab", send: "Conrtol+Right"}
+    - {when: composing, accept: "Tab", send: "Conrtol+Right"}
 
 recognizer:
   import_preset: default
