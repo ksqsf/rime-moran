@@ -516,7 +516,7 @@ tq	天氣
 tr	團
 ts	同
 tt	天天
-tu	土
+tu	圖
 tv	退
 tw	臺灣
 tx	貼
@@ -3843,13 +3843,13 @@ fsu	分散式
 #ftx
 #fty
 #ftz
-fua	甫
+fua	夫
 fub	父
 fub	賦
 fuc	芙
 fud	副
 fud	負
-fue	夫
+fue	附
 fuf	斧
 fuf	撫
 fuf	拂
@@ -12531,7 +12531,8 @@ smg	什麼鬼
 #smv
 #smw
 #smx
-#smy
+smy	什麼樣
+smyd	什麼樣的
 smys	什麼意思
 #smz
 #sna
@@ -13403,17 +13404,16 @@ trw	她認爲
 #tty
 #ttz
 tua	凸
-tub	宊
 tuc	荼
 tud	涂
-tud	兔
+#tudd	兔
 #tue
 #tuf
 #tug
 tuh	禿
 tuj	釷
 #tui
-tuk	圖
+tuk	吐
 #tul
 #tum
 #tun
