@@ -144,8 +144,8 @@ key_binder:
     - {when: has_menu, accept: "Control+e", toggle: emoji}
     - {when: has_menu, accept: "Control+d", toggle: dzing}
     - {when: has_menu, accept: semicolon, send: "2"}
-    - {when: has_menu, accept: "Tab", send: "Conrtol+Right"}
-    - {when: composing, accept: "Tab", send: "Conrtol+Right"}
+    - {when: has_menu, accept: "Tab", send: "Control+Right"}
+    - {when: composing, accept: "Tab", send: "Control+Right"}
 
 recognizer:
   import_preset: default
@@ -155,4 +155,3 @@ recognizer:
 
 __patch:
   - moran.custom.yaml:/patch?
-
