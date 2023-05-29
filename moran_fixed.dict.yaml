@@ -394,6 +394,7 @@ nw	內外
 nx	捏
 ny	凝
 nz	内
+os	操作系統
 pa	怕
 pb	剖
 pc	票
@@ -2062,7 +2063,7 @@ der	德
 #des
 det	地
 #deu
-#dev
+dev	開發者
 #dew
 dex	德
 #dey
@@ -12528,7 +12529,8 @@ smg	什麼鬼
 #smr
 #sms
 #smt
-#smu
+smu	什麼是
+smui	什麼事
 #smv
 #smw
 #smx
@@ -15613,7 +15615,7 @@ wzd	危
 #wzo
 #wzp
 #wzq
-wzr	位
+#wzr	位  #已经是一简了
 wzr	僞
 wzr	偉
 wzrw	偉
