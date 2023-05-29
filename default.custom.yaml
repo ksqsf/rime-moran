@@ -3,3 +3,4 @@ patch:
     - {schema: moran}
     - {schema: tiger}
     - {schema: luna_pinyin}
+    - {schema: njerchet}
