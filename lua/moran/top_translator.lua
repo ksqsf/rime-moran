@@ -25,8 +25,6 @@ function top.init(env)
 end
 
 function top.fini(env)
-   fixed = nil
-   smart = nil
 end
 
 function top.func(input, seg, env)
