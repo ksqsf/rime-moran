@@ -18,7 +18,7 @@ d	道
 e	二
 f	非
 g	個
-g	該
+g	感覺
 h	和
 j	就
 j	醬
@@ -258,7 +258,7 @@ jr	卷
 js	囧
 jt	覺
 ju	句
-jv	極致
+jv	矩陣
 jw	家
 jx	解
 jy	竟
@@ -537,7 +537,7 @@ uh	上
 uj	山
 ui	事
 uk	少
-ul	色
+ul	篩
 um	什麼
 un	少女
 uo	說
@@ -917,12 +917,7 @@ bjb	癍
 bjc	保健操
 bjd	班
 bje	阪
-bjf	扮
-bjf	拌
 bjf	搬
-bjf	扳
-bjfy	搬
-bjfd	扮
 bjg	瓣
 bjh	秚
 bjj	鈑
@@ -1146,6 +1141,7 @@ bta	变态啊
 btd	不停地
 bth	不太好
 bua	卜
+bub	不是吧
 bue	部
 buf	捕
 buff	部分
@@ -1968,7 +1964,7 @@ dbb	兜
 dbd	斗
 dbe	陡
 dbf	抖
-#dbg
+dbg	調試器
 #dbh
 #dbj
 dbi	蚪
@@ -5609,7 +5605,10 @@ jglz	舉個例子
 #jjc
 #jjd
 #jje
-#jjf
+jjf	解決方案
+jjf	解決方法
+jjfa	解決方案
+jjff	解決方法
 #jjg
 #jjh
 #jjj
@@ -13423,7 +13422,7 @@ tuk	吐
 #tun
 tuo	腯
 tup	兎
-#tuq
+tuq	調試器
 tur	徒
 #tus
 #tut
@@ -16603,8 +16602,6 @@ yit	異
 yiu	毅
 yiv	已
 yiw	亦
-yix	憶
-yix	役
 yix	意
 yiy	議
 yiy	義
