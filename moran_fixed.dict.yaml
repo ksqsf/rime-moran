@@ -207,7 +207,7 @@ gu	古
 gv	貴
 gw	瓜
 gx	更新
-gy	乖
+gy	怪
 gz	給
 ha	哈
 hb	後
@@ -236,7 +236,7 @@ hx	好像
 hy	壞
 hz	黑
 ja	驕傲
-jb	基本
+jb	腳本
 jc	叫
 jd	將
 jd	奬
@@ -439,6 +439,7 @@ qp	羣
 qq	求
 qr	全
 qs	窮
+qs	確實
 qt	卻
 qu	取
 qv	其中
@@ -912,9 +913,7 @@ bhw	玤
 bhx	不和諧
 bhy	謗
 bhz	百合子
-bjb	瘢
-bjb	癍
-bjc	保健操
+bjb	筆記本
 bjd	班
 bje	阪
 bjf	搬
@@ -1125,6 +1124,7 @@ bqj	閉區間
 bqi	不清楚
 bql	冰淇淋
 bqn	並且能
+bqy	標籤頁
 brc	百日草
 brd	不認得
 bre	不入耳
@@ -4677,7 +4677,7 @@ gyq	乖
 gyv	夬
 #gyw
 gyx	怪
-gyy	叏
+#gyy
 #gyz
 #gza
 #gzb
@@ -4904,7 +4904,7 @@ hfq	狠
 #hho
 #hhp
 #hhq
-hhr	行
+#hhr
 #hhs
 #hht
 #hhu
@@ -5011,7 +5011,7 @@ hlb	害
 #hlr
 #hls
 #hlt
-#hlu
+hlu	行列式
 #hlv
 #hlw
 #hlx
@@ -8819,6 +8819,7 @@ mzy	美
 #nai
 nak	哪
 #nal
+nali	那里
 nam	那麼
 #nan
 #nao
@@ -15672,7 +15673,7 @@ wzxv	惟
 #xbn
 #xbo
 #xbp
-#xbq
+xbq	新標籤
 #xbr
 #xbs
 #xbt
@@ -16630,7 +16631,7 @@ ykc	藥
 #ykv
 #ykw
 ykx	窑
-#yky
+yky	謠
 #ykz
 #yla
 #ylb
@@ -16875,20 +16876,18 @@ yub	宇
 yud	魚
 #yue
 #yuf
-#yug
+yug	欲
 #yuh
 #yuj
-#yui
+yui	御
 #yuk
 #yul
 #yum
 #yun
 #yuo
 #yup
-#yuq
+yuq	獄
 yur	余
-yur	御
-yurx	御
 #yus
 #yut
 #yuu
@@ -17525,6 +17524,7 @@ zrmup	自然碼雙拼
 #zsq
 #zsr
 #zss
+zssm	這是什麼
 #zst
 #zsu
 #zsv
@@ -17708,7 +17708,6 @@ zyy	作用域
 #zzq
 #zzr
 #zzs
-zzsm	這是什麼
 #zzt
 #zzu
 #zzv
