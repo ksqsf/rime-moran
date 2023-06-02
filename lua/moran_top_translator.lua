@@ -16,12 +16,10 @@
 -- script 可以看到所有輸入，從而解決造詞問題。
 
 local top = {}
-local fixed = nil
-local smart = nil
 
 function top.init(env)
-   fixed = Component.Translator(env.engine, "", "table_translator@fixed")
-   smart = Component.Translator(env.engine, "", "script_translator@smart")
+   env.fixed = Component.Translator(env.engine, "", "table_translator@fixed")
+   env.smart = Component.Translator(env.engine, "", "script_translator@translator")
 end
 
 function top.fini(env)
@@ -29,14 +27,14 @@ end
 
 function top.func(input, seg, env)
    if (env.engine.context.input == input) then
-      local fixed_res = fixed:query(input, seg)
+      local fixed_res = env.fixed:query(input, seg)
       for cand in fixed_res:iter() do
          cand.comment = "⚡"
          yield(cand)
       end
    end
 
-   local smart_res = smart:query(input, seg)
+   local smart_res = env.smart:query(input, seg)
    for cand in smart_res:iter() do
       yield(cand)
    end
