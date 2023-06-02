@@ -40,7 +40,7 @@ engine:
     - key_binder
     - speller
     - punctuator
-    - lua_processor@moran_launch     # 輸入 omorj 或 ogrwh 後回車打開魔然官網
+    - lua_processor@*moran_launcher     # 輸入 omorj 或 ogrwh 後回車打開魔然官網
     - selector
     - navigator
     - express_editor
@@ -53,18 +53,18 @@ engine:
   translators:
     - punct_translator
     - reverse_lookup_translator
-    - table_translator@custom_phrase      # 自定義短語
-    #- table_translator@english           # 英語混輸
-    #- table_translator@japanese          # 日語混輸
-    - lua_translator@moran_translator     # 頂層翻譯器
-    - lua_translator@moran_shijian        # 日期orq 節氣ojq 星期oxq 時間osj
-    - lua_translator@moran_number         # 數字轉大寫
+    - table_translator@custom_phrase       # 自定義短語
+    #- table_translator@english             # 英語混輸
+    #- table_translator@japanese            # 日語混輸
+    - lua_translator@*moran_top_translator # 頂層翻譯器
+    - lua_translator@*moran_shijian        # 日期orq 節氣ojq 星期oxq 時間osj
+    - lua_translator@*moran_number         # 數字轉大寫
   filters:
     - simplifier
     - simplifier@emoji
     - simplifier@dzing
-    - lua_filter@moran_charset_comment_filter  # Unicode 區位提示
-    - lua_filter@moran_unicode_display_filter  # Unicode 編碼提示
+    - lua_filter@*moran_charset_comment_filter  # Unicode 區位提示
+    - lua_filter@*moran_unicode_display_filter  # Unicode 編碼提示
     - uniquifier
 
 speller:
