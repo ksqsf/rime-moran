@@ -5,10 +5,9 @@
 name: moran.extended
 version: "1"
 sort: by_weight
-use_preset_vocabulary: false
+use_preset_vocabulary: true
 import_tables:
   - moran.main       # 自然碼輔碼、補充詞、快符等
-  - moran.essay      # Rime 八股文詞庫
   - moran.thuocl.IT
   - moran.thuocl.animal
   - moran.thuocl.caijing
