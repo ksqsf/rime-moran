@@ -31,6 +31,7 @@ function top.func(input, seg, env)
    if (env.engine.context.input == input) then
       local fixed_res = fixed:query(input, seg)
       for cand in fixed_res:iter() do
+         cand.comment = "⚡"
          yield(cand)
       end
    end
