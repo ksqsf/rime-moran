@@ -26,9 +26,13 @@ function top.fini(env)
 end
 
 function top.func(input, seg, env)
-   if (env.engine.context.input == input) then
+   local input_len = utf8.len(input)
+   -- 禁止輸出詞語
+   if (input_len < 4 and env.engine.context.input == input) then
       local fixed_res = env.fixed:query(input, seg)
+      local input_len = utf8.len(input)
       for cand in fixed_res:iter() do
+         local cand_len = utf8.len(cand.text)
          cand.comment = "⚡"
          yield(cand)
       end
