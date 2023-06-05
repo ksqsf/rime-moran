@@ -1,7 +1,77 @@
 schema:
   schema_id: moran_fixed
-  name: 勿用·工具方案
+  name: 魔然·字詞
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    reset: 1
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+  - name: emoji
+    reset: 1
+    states: [ 🈚, 🈶 ]
+  - name: unicode_comment
+    reset: 0
+    states: [ U開, U關 ]
+  - name: dzing
+    reset: 0
+    states: [ 通, 寍 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - reverse_lookup_translator
+    - table_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: "abcdefghijklmnopqrstuvwxyz'"
+  delimiter: " "
+  max_code_length: 4
+  auto_select: true
+  auto_select_pattern: ^;.$|^\w{4}$
+  auto_clear: max_length # manual | auto | max_length
+
+ascii_composer:
+  switch_key:
+    Shift_L: commit_code
 
 translator:
   dictionary: moran_fixed
+  enable_charset_filter: false
+  enable_sentence: false
+  enable_completion: false
   enable_user_dict: false
+  disable_user_dict_for_patterns:
+    - "^z.*$"
+
+punctuator:
+  import_preset: symbols
+
+key_binder:
+  import_preset: default
+  bindings:
+    - {when: has_menu, accept: semicolon, send: "2"}

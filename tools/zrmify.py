@@ -14,6 +14,8 @@ def zrmify1(pinyin: str) -> str:
     assert len(pinyin) > 0
     if pinyin[0] in 'aeiou':
         return 零聲母轉換(pinyin)
+    elif pinyin == 'n':
+        return 'en'
     elif len(pinyin) > 2 and pinyin[:2] in ['zh', 'ch', 'sh']:
         聲 = 聲母轉換(pinyin[:2])
         韻 = 韻母轉換(pinyin[2:])

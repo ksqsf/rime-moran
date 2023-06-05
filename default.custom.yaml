@@ -1,6 +1,7 @@
 patch:
   schema_list:
     - {schema: moran}
+    - {schema: moran_fixed}
     - {schema: zrm6}
     - {schema: luna_pinyin}
     - {schema: njerchet}

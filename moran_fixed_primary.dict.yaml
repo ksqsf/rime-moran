@@ -1,0 +1,17723 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: moran_fixed_primary
+version: "1"
+sort: original
+columns:
+  - code
+  - text
+...
+
+a	啊
+b	不
+c	才
+d	的
+d	道
+e	二
+f	非
+g	個
+g	感覺
+h	和
+j	就
+j	醬
+i	出
+k	可
+l	了
+m	沒
+n	你
+o	哦
+p	平
+q	去
+r	人
+s	三
+t	他
+u	是
+v	這
+w	我
+w	位
+x	小
+x	性
+y	一
+z	在
+aa	啊
+ad	啊對
+ag	嗯
+ah	昂
+aj	按鍵
+ai	愛
+an	按
+ao	奧
+ap	安排
+aq	安全
+av	安裝
+ax	❤️
+ay	哎呀
+ba	把
+bb	並不
+bc	表
+bd	不但
+bd	𰻞
+bf	本
+bg	崩
+bh	幫
+bj	半
+bi	比
+bk	報
+bl	白
+bm	邊
+bn	濱
+bo	撥
+bp	兺
+bq	並且
+br	不如
+bs	伴隨
+bt	比特
+bu	步
+bv	標準
+bw	把握
+bx	別
+by	並
+bz	被
+ca	擦
+cb	湊
+cd	菜單
+ce	測
+cf	涔
+cg	曾
+ch	藏
+cj	慘
+ci	此
+ck	草
+cl	才
+cm	聰明
+cn	才能
+co	錯
+cp	存
+cq	此前
+cr	攢
+cs	從
+ct	從頭
+cu	粗
+cv	催
+cw	錯誤
+cx	從新
+cy	參與
+cz	存在
+da	打
+db	都
+db	數據庫
+dc	掉
+dd	到底
+de	得
+df	扽
+dg	等
+dh	當
+dj	但
+di	地
+dk	到
+dl	帶
+dm	點
+dm	丶
+dn	電腦
+do	多
+dp	頓
+dq	丟
+dr	短
+ds	懂
+dt	動態
+du	讀
+dv	對
+dw	嗲
+dx	爹
+dy	定
+dz	得
+eb	而不
+ec	二次
+ed	而當
+ee	餓
+ef	而非
+eg	鞥
+eh	而後
+ej	二進制
+ei	誒
+ek	而況
+el	而來
+em	唔
+en	恩
+eq	而且
+er	而
+es	二三
+et	兒童
+eu	而是
+ev	而這
+ew	而我
+ex	噁心
+ey	而已
+ez	兒子
+fa	發
+fa	髮
+fb	否
+fc	覅
+fd	反對
+fe	反而
+ff	分
+fg	風
+fh	放
+fj	返
+fi	非常
+fk	飛快
+fl	分離
+fm	繁忙
+fn	煩惱
+fo	佛
+fp	分配
+fq	放棄
+fs	發送
+fs	文件系統
+ft	發帖
+fu	服
+fv	反正
+fw	訪問
+fx	分析
+fy	翻譯
+fz	飛
+ga	噶
+gb	夠
+gc	剛才
+gd	光
+ge	各
+gf	跟
+gg	更
+gh	剛
+gj	幹
+gi	過程
+gk	高
+gl	改
+gm	革命
+gn	功能
+go	過
+gp	滾
+gq	過去
+gr	關
+gs	功
+gt	共同
+gu	古
+gv	貴
+gw	瓜
+gx	更新
+gy	怪
+gz	給
+ha	哈
+hb	後
+hc	緩存
+hd	黃
+he	何
+hf	很
+hg	哼
+hh	行
+hj	汗
+hi	何嘗
+hk	好
+hl	還
+hm	後面
+hn	還能
+ho	或
+hp	混
+hq	好奇
+hr	換
+hs	紅
+ht	話題
+hu	戶
+hv	會
+hw	話
+hx	好像
+hy	壞
+hz	黑
+ja	驕傲
+jb	腳本
+jc	叫
+jd	將
+jd	奬
+je	進而
+jf	積分
+jg	結果
+jh	計劃
+jj	解決
+ji	及
+ji	極
+jk	接口
+jl	經歷
+jm	見
+jn	進
+jn	今
+jp	均
+jq	九
+jr	卷
+js	囧
+jt	覺
+ju	句
+jv	矩陣
+jw	家
+jx	解
+jy	竟
+jz	講座
+ia	查
+ib	醜
+ic	出錯
+id	牀
+ie	車
+if	趁
+ig	成
+ih	長
+ij	產
+ii	喫
+ik	超
+il	拆
+im	重碼
+in	常年
+io	戳
+ip	純
+iq	重啓
+ir	傳
+is	重
+it	衝突
+iu	除
+iv	吹
+iw	欻
+ix	程序
+iy	踹
+iz	創作
+ka	卡
+kb	口
+kc	咔嚓
+kd	狂
+ke	課
+kf	肯
+kg	坑
+kh	扛
+kj	看
+ki	開車
+kk	靠
+kl	開
+km	科目
+kn	可能
+ko	擴
+kp	困
+kq	開啓
+kr	寬
+ks	空
+kt	開通
+ku	哭
+kv	虧
+kw	跨
+kx	科學
+ky	快
+kz	剋
+la	拉
+lb	嘍
+lc	聊
+ld	兩
+le	樂
+lf	浪費
+lg	冷
+lh	浪
+lj	藍
+li	裏
+lk	老
+ll	來
+lm	連
+ln	林
+lo	落
+lp	論
+lq	留
+lr	亂
+ls	龍
+lt	略
+lu	路
+lv	綠
+lw	倆
+lx	列
+ly	令
+lz	類
+ma	嗎
+mb	某
+mc	秒
+md	目的
+me	麼
+mf	們
+mf	門
+mg	夢
+mh	忙
+mj	慢
+mi	蜜
+mk	貓
+ml	買
+mm	面
+mn	民
+mo	摸
+mp	冒泡
+mq	謬
+mr	默認
+ms	貌似
+mt	明天
+mu	木
+mv	民主
+mw	末尾
+mx	咩
+my	名
+mz	每
+na	那
+nb	耨
+nc	鳥
+nd	娘
+ne	呢
+nf	嫩
+ng	能
+nh	囊
+nj	難
+ni	你
+nk	鬧
+nl	乃
+nm	年
+nn	您
+no	挪
+np	嫩
+nq	牛
+nr	暖
+ns	弄
+nt	虐
+nu	怒
+nv	女
+nw	內外
+nx	捏
+ny	凝
+nz	内
+os	操作系統
+pa	怕
+pb	剖
+pc	票
+pd	片段
+pe	浌
+pf	噴
+pg	碰
+ph	胖
+ph	肨
+pj	盤
+pi	批
+pk	跑
+pl	拍
+pm	騙
+pn	品
+po	破
+pq	拋棄
+pr	騙人
+ps	配送
+pt	普通
+pu	普
+pv	配置
+pw	品味
+px	撇
+py	平
+pz	配
+qa	親愛
+qb	全部
+qc	敲
+qd	強
+qe	全額
+qf	區分
+qg	全國
+qh	切換
+qj	期間
+qi	起
+qk	情況
+ql	起來
+qm	前
+qn	親
+qp	羣
+qq	求
+qr	全
+qs	窮
+qs	確實
+qt	卻
+qu	取
+qv	其中
+qw	卡
+qx	且
+qy	請
+qz	圈子
+ra	罖
+rb	肉
+rc	如此
+rd	認得
+re	熱
+rf	認
+rg	如果
+rh	讓
+rj	然
+ri	日
+rk	繞
+rl	日曆
+rm	入門
+rn	容納
+ro	若
+rp	潤
+rq	日期
+rr	軟
+rs	容
+rt	如同
+ru	入
+rv	睿
+rw	認爲
+rx	如下
+ry	容易
+rz	仍在
+sa	撒
+sb	搜
+sc	算錯
+sd	速度
+se	色
+sf	森
+sg	僧
+sh	桑
+sj	散
+si	四
+sk	掃
+sl	塞
+sm	什麼
+sn	肆虐
+so	所
+sp	損
+sq	索取
+sr	算
+ss	送
+st	色圖
+su	速
+sv	雖
+sw	所謂
+sx	思想
+sy	所以
+sz	所在
+ta	她
+tb	頭
+tc	條
+td	聽到
+te	特
+tf	突發
+tg	疼
+th	湯
+tj	談
+ti	提
+tk	套
+tl	太
+tm	天
+tn	太難
+to	拖
+tp	吞
+tq	天氣
+tr	團
+ts	同
+tt	天天
+tu	圖
+tv	退
+tw	臺灣
+tx	貼
+ty	聽
+tz	帖子
+ua	啥
+ua	杀
+ub	手
+uc	手冊
+ud	雙
+ue	射
+uf	深
+ug	生
+ug	省
+uh	上
+uj	山
+ui	事
+uk	少
+ul	篩
+um	什麼
+un	少女
+uo	說
+up	順
+uq	事情
+ur	拴
+us	是啥
+ut	試圖
+uu	書
+uv	水
+uw	刷
+ux	實現
+uy	帅
+uz	誰
+va	渣
+vb	周
+vc	至此
+vd	裝
+ve	着
+vf	真
+vg	這個
+vh	章
+vj	站
+vi	只
+vk	找
+vl	摘
+vm	這麼
+vn	只能
+vo	桌
+vp	準
+vq	之前
+vr	轉
+vs	中
+vt	狀態
+vu	注
+vv	追
+vw	抓
+vx	這些
+vx	這下
+vy	拽
+vz	這
+wa	挖
+wb	文本
+wc	臥槽
+wd	我的
+we	莞爾
+wf	問
+wg	翁
+wh	忘
+whs	網
+wj	玩
+wi	完成
+wk	網卡
+wl	外
+wm	我們
+wn	無奈
+wo	我
+wp	網盤
+wq	完全
+wr	微軟
+ws	爲啥
+wt	問題
+wu	無
+wv	網站
+ww	嗚嗚
+wx	微信
+wy	無語
+wz	爲
+wz	惟
+xa	西安
+xb	先別
+xc	笑
+xd	想
+xe	邪惡
+xf	想法
+xg	習慣
+xh	喜歡
+xj	先進
+xi	系
+xk	辛苦
+xl	下來
+xm	先
+xn	新
+xp	尋
+xq	修
+xr	選
+xs	胸
+xt	學
+xt	系統
+xu	需
+xv	性質
+xw	下
+xx	寫
+xy	行
+xz	現在
+ya	呀
+yb	有
+yc	因此
+yd	一定
+ye	也
+yf	一份
+yg	一個
+yh	樣
+yj	言
+yi	以
+yk	要
+yl	依賴
+ym	豜
+yn	因
+yo	喲
+yp	雲
+yq	一切
+yr	元
+ys	用
+yt	月
+yu	與
+yv	驗證
+yw	因爲
+yw	以爲
+yx	一下
+yy	應
+yz	樣子
+za	咋
+zb	走
+zc	再次
+zd	自動
+ze	則
+zf	怎
+zg	增
+zh	髒
+zj	讚
+zi	字
+zk	早
+zl	再
+zm	怎麼
+zn	怎能
+zo	做
+zp	尊
+zq	最強
+zr	鑽
+zs	總
+zt	昨天
+zu	足
+zv	最
+zw	作爲
+zx	最新
+zy	怎樣
+zz	賊
+aae	阿
+aaj	錒
+aai	厑
+aak	吖
+aak	嗄
+aao	腌
+add	啊對對
+addd	啊對對對
+adly	澳大利亞
+ahe	卬
+ahg	骯
+ahm	盎
+aho	昂
+ahu	岇
+ahv	愛好者
+ahy	醠
+aib	癌
+aic	艾
+aic	藹
+aid	哀
+aie	隘
+aif	挨
+aif	捱
+aih	焥
+aij	鎄
+aik	唉
+aik	哎
+aim	騃
+ain	嬡
+aio	暧
+aip	敱
+aiq	欸
+air	僾
+ais	絠
+ait	埃
+aiu	矮
+aiu	碍
+aiv	愛
+aiw	璦
+aix	懝
+aiy	靄
+aiy	靉
+ana	厂
+anb	安
+anc	庵
+and	广
+and	洝
+ane	隌
+anf	按
+ang	鞍
+anh	黯
+anj	銨
+ani	厈
+ank	唵
+anm	案
+ann	鵪
+ano	暗
+anq	氨
+anr	俺
+ans	罯
+ant	埯
+anu	岸
+anv	豻
+anw	玵
+anx	馣
+any	諳
+anz	遃
+aoa	凹
+aod	澳
+aoe	聱
+aof	拗
+aog	廒
+aoh	熬
+aoj	鏊
+aoi	螯
+aok	嗷
+aol	鏖
+aon	媼
+aoo	眑
+aop	奧
+aoq	獒
+aor	傲
+aot	坳
+aou	岰
+aow	敖
+aox	懊
+aoy	袄
+aoz	遨
+baa	巴
+bab	疤
+bac	芭
+bad	灞
+baf	拔
+bafb	扒
+bag	靶
+bah	炦
+baj	鈀
+bai	蚆
+bak	吧
+bal	耙
+bam	粑
+ban	妭
+bao	胈
+bap	八
+bar	仈
+bas	罷
+bat	壩
+bau	豝
+bav	笆
+baw	玐
+bax	覇
+bay	霸
+baz	跋
+bbu	不变式
+bcb	瘭
+bcf	飆
+bch	彪
+bcj	鑣
+bci	髟
+bcl	麃
+bcm	標
+bcm	驫
+bcn	婊
+bco	膘
+bcq	猋
+bct	墂
+bcu	磦
+bcv	篻
+bcy	褾
+bda	不對啊
+bdb	不得不
+bdd	不動點
+bde	半道兒
+bdf	貝多芬
+bdg	白大褂
+bdh	本地化
+bdj	不對勁
+bdi	不對稱
+bdl	不得了
+bdq	不定期
+bdr	班得瑞
+bds	被打死
+bdt	半導體
+bdu	表達式
+bdw	不對味
+bdwp	百度網盤
+bdx	不動心
+bdy	不但要
+bdz	𰻞
+befm	不二法門
+beg	巴爾幹
+beh	北二環
+bej	白堊紀
+bei	板兒車
+bek	波爾卡
+ben	包二奶
+bex	不二心
+bfa	本
+bfb	賁
+bfc	苯
+bfd	奔
+bfg	避風港
+bfh	炃
+bfi	蟦
+bfk	喯
+bfl	百分率
+bfn	犇
+bfp	捕風瓶
+bfq	播放器
+bfr	倴
+bfs	畚
+bft	坌
+bfu	比方說
+bfv	笨
+bfx	暴風雪
+bfy	翉
+bfz	逩
+bga	併購案
+bgb	甭
+bgc	菶
+bgd	奟
+bge	冰棍兒
+bgf	揼
+bgg	鞛
+bgj	鏰
+bgi	蚌
+bgk	嘣
+bgl	辦公樓
+bgm	閍
+bgn	不給你
+bgp	不公平
+bgq	辦公區
+bgr	被告人
+bgs	繃
+bgu	泵
+bgv	辦公桌
+bgw	甮
+bgx	恲
+bgy	不管用
+bgz	蹦
+bgz	迸
+bha	不會啊
+bhb	幫
+bhc	蒡
+bhd	浜
+bhe	邦
+bhf	搒
+bhg	髈
+bhh	稖
+bhj	鎊
+bhi	蚌
+bhk	報戶口
+bhl	不合理
+bhm	棒
+bhmp	榜
+bhn	不好弄
+bho	膀
+bhp	牓
+bhq	變換器
+bhr	傍
+bhs	綁
+bhu	磅
+bhv	艕
+bhw	玤
+bhx	不和諧
+bhy	謗
+bhz	百合子
+bjb	筆記本
+bjd	班
+bje	阪
+bjf	搬
+bjg	瓣
+bjh	秚
+bjj	鈑
+bji	螌
+bjk	不健康
+bjl	辦
+bjm	板
+bjm	闆
+bjn	比基尼
+bjp	版
+bjq	編輯器
+bjr	伴
+bjs	絆
+bjt	坂
+bju	搫
+bjv	般
+bjw	斑
+bjx	怑
+bjy	頒
+bjz	跘
+bia	畐
+bib	痹
+bibb	皕
+bic	弊
+bic	蔽
+bicw	蔽
+bid	濞
+bie	鄙
+bif	旇
+big	庇
+bih	秕
+bij	币
+bii	蜌
+bik	嗶
+bil	不成立
+bim	閉
+bin	婢
+bio	臂
+bip	匕
+bir	俾
+bis	斃
+bit	壁
+biu	畢
+biv	筆
+biw     敝
+bix	必
+biy	璧
+biz	逼
+biz	避
+biz	鼻
+bizx	避
+bizq	鼻
+bkb	寶
+bkc	薄
+bkd	剝
+bke	報
+bkf	抱
+bkg	包
+bkh	爆
+bkh	煲
+bki	齙
+bkk	嚗
+bkl	伯克利
+bkn	鴇
+bko	暴
+bko	曝
+bkob	曝
+bkp	勹
+bkq	犳
+bkr	保
+bks	緥
+bkt	堡
+bku	飽
+bkv	豹
+bkw	褒
+bkx	報
+bky	鮑
+bky	雹
+bky	褓
+bkz	孢
+bkz	趵
+bla	百
+blc	薭
+bld	變量
+blf	掰
+blf	擺
+blfn	擺弄
+blfq	擺
+blg	庍
+blh	稗
+blj	八路軍
+bli	暴露出
+blk	兡
+bll	竡
+blm	柏
+bln	犤
+blp	玻璃瓶
+blq	猈
+blr	伯
+blr	佰
+bls	絔
+blt	柏拉圖
+blu	拜
+blv	玻璃珠
+blw	敗
+blx	波浪形
+bly	襬
+blz	半拉子
+bmb	貶
+bmc	苄
+bmd	辨
+bmg	鞭
+bmh	扁
+bmh	煸
+bmj	覵
+bmi	蝙
+bmk	匾
+bml	遍歷
+bmm	糄
+bmo	昪
+bmp	牑
+bmr	便
+bms	編
+bms	辮
+bmsx	辮
+bmu	砭
+bmv	籩
+bmw	變
+bmx	辡
+bmy	辯
+bmz	遍
+bna	不能啊
+bnb	賓
+bnd	瀕
+bnd	殯
+bne	邠
+bnf	擯
+bng	髕
+bnj	鑌
+bni	鬢
+bnk	不能看
+bnl	瀕臨
+bnm	檳
+bno	臏
+bnp	彬
+bnr	儐
+bns	繽
+bnu	豳
+bnw	斌
+boa	癶
+bob	皪
+boc	薄
+boct	蔔
+bod	剝
+bod	波
+bod	泊
+boe	郣
+bof	撥
+bof	搏
+bof	播
+bog	瓟
+boj	帛
+bojb	鉢
+boi	蚾
+bok	啵
+bol	勃
+bom	駁
+bon	鵓
+boo	脖
+boo	膊
+boob	胉
+boof	膊
+bop	牔
+boq	狛
+bor	伯
+bos	紴
+bot	壆
+bou	博
+bou	擘
+bou	餑
+bov	簿
+bov	箔
+bov	舶
+bov	簸
+bow	玻
+boy	詙
+boz	跛
+bpa	保平安
+bpd	不平等
+bpf	兺
+bpg	變頻管
+bph	白平衡
+bpi	不平常
+bpl	被騙了
+bpn	不騙你
+bpp	不匹配
+bpq	變頻器
+bpu	白皮書
+bpv	不排除
+bqe	白求恩
+bqf	版權法
+bqg	版權歸
+bqh	搬遷戶
+bqj	閉區間
+bqi	不清楚
+bql	冰淇淋
+bqn	並且能
+bqy	標籤頁
+brc	百日草
+brd	不認得
+bre	不入耳
+brh	白熱化
+brl	不入流
+brm	白日夢
+brq	哺乳期
+bsb	比薩餅
+bsd	波塞冬
+bse	貝賽爾
+bsg	變速桿
+bsl	變色龍
+bta	变态啊
+btd	不停地
+bth	不太好
+bua	卜
+bub	不是吧
+bue	部
+buf	捕
+buff	部分
+buj	鈈
+buj	鈈
+bui     轐
+buk	哺
+bum	柨
+buo	晡
+buq	半衰期
+bur	佈
+but	埠
+buu	布
+buv	簿
+buv	步
+buw	瓿
+bux	怖
+buy	補
+buz	逋
+bva	編者按
+bvb	標準版
+bvd	不知道
+bvdw	不知道爲什麼
+bvdws	不知道爲什麼
+bvdwsm	不知道爲什麼
+bvf	辯證法
+bvj	B站
+bvj	Bilibili
+bvi	標準差
+bvii	不支持
+bvl	備註欄
+bvp	標誌牌
+bvq	保質期
+bvr	班主任
+bvt	拜占庭
+bvu	本質上
+bvv	標誌着
+bvx	標誌性
+bvy	標準語
+bwb	保溫杯
+bwd	不穩定
+bwe	鮑威爾
+bwg	博物館
+bwl	備忘錄
+bwp	保溫瓶
+bwq	不完全
+bxa	不行啊
+#bxb	癟
+#bxd	別
+bxf	保險費
+bxg	龞
+bxg	彆
+bxh	並行化
+bxj	步行街
+bxi	表現出
+bxk	必修課
+bxl	表現力
+bxm	鼈
+bxq	保修期
+bxr	徶
+bxs	保險絲
+bxt	本系統
+bxu	便攜式
+bxw	表現爲
+bxx	憋
+bxy	鱉
+bxz	蹩
+bya	丙
+byb	并
+byc	苪
+byd	冰
+byf	摒
+byh	秉
+byi	蛃
+byk	不要看
+byl	竝
+bym	柄
+byn	比翼鳥
+byp	秉
+byq	編譯器
+byr	併
+bys	絣
+byt	垪
+byu	餅
+byv	不一致
+byw     稟
+byz	迸
+bza	貝
+bzb	北
+bzc	蓓
+bzd	半自動
+bze	邶
+bze	陂
+bzf	揹
+bzg	鞴
+bzh	焙
+bzj	鋇
+bzi	軰
+bzk	唄
+bzl	勃
+bzm	杯
+bzo	背
+bzp	卑
+bzq	狽
+bzr	倍
+bzr	備
+bzry	備
+bzt	垻
+bzu	碑
+bzv	箄
+bzw	备
+bzx	悲
+bzx	悖
+bzx	憊
+bzy	誖
+bzz	孛
+caf	擦
+cak	囃
+cak	嚓
+car	偲
+cay	乲
+caz	遪
+#cba
+#cbb
+#cbc
+cbd	湊
+#cbe
+#cbf
+#cbg
+#cbh
+#cbj
+cbi	輳
+#cbk
+#cbl
+cbm	楱
+#cbn
+cbo	腠
+#cbp
+cbq	擦邊球
+cbr	傶
+#cbs
+#cbt
+#cbu
+#cbv
+#cbw
+#cbx
+#cby
+#cbz
+#cca
+#ccb
+#ccc
+#ccd
+#cce
+#ccf
+#ccg
+#cch
+#ccj
+#cci
+#cck
+#ccl
+#ccm
+#ccn
+#cco
+#ccp
+#ccq
+#ccr
+#ccs
+#cct
+#ccu
+#ccv
+#ccw
+#ccx
+#ccy
+#ccz
+#cda
+#cdb
+#cdc
+#cdd
+#cde
+#cdf
+#cdg
+#cdh
+#cdj
+#cdi
+#cdk
+#cdl
+#cdm
+#cdn
+#cdo
+#cdp
+#cdq
+#cdr
+#cds
+#cdt
+#cdu
+#cdv
+#cdw
+#cdx
+#cdy
+#cdz
+cea	冊
+#ceb
+#cec
+ced	測
+#cee
+cef	拺
+ceg	廁
+#ceh
+#cej
+cei	厠
+#cek
+#cel
+#cem
+#cen
+#ceo
+#cep
+#ceq
+cer	側
+#ces
+cet	畟
+ceu	冊
+cev	策
+cew	敇
+cex	惻
+#cey
+#cez
+#cfa
+#cfb
+#cfc
+#cfd
+#cfe
+#cff
+#cfg
+#cfh
+#cfj
+#cfi
+#cfk
+#cfl
+#cfm
+#cfn
+#cfo
+#cfp
+#cfq
+#cfr
+#cfs
+#cft
+#cfu
+#cfv
+#cfw
+#cfx
+#cfy
+#cfz
+#cga
+cgb	曾
+#cgc
+#cgd
+#cge
+#cgf
+#cgg
+#cgh
+#cgj
+#cgi
+cgk	噌
+cgl	竲
+cgm	橧
+cgm	驓
+#cgn
+#cgo
+#cgp
+#cgq
+#cgr
+#cgs
+#cgt
+cgu	層
+#cgv
+#cgw
+#cgx
+#cgy
+cgz	蹭
+#cha
+chb	賶
+chc	蒼
+chd	滄
+#che
+#chf
+#chg
+#chh
+chj	鑶
+chi	螥
+#chk
+#chl
+chm	欌
+chn	鶬
+#cho
+#chp
+chq	獊
+chr	倉
+chr	傖
+chrc	傖
+#chs
+#cht
+chu	嵢
+chv	艙
+chw	瑲
+#chx
+#chy
+#chz
+#cja
+cjb	歺
+cjc	薒
+cjd	殘
+cjd	飡
+#cje
+cjf	摻
+#cjg
+cjh	燦
+#cjj
+cji	蠶
+cjk	喰
+#cjl
+cjm	粲
+cjm	驂
+cjn	嬠
+cjo	朁
+#cjp
+#cjq
+#cjr
+cjs	參
+#cjt
+cju	餐
+cjv	篸
+cjw	璨
+cjx	慘
+cjx	慚
+cjy	謲
+#cjz
+cia	朿
+cib	賜
+cib	疵
+#cic
+cid	次
+cid	刺
+#cie
+#cif
+#cig
+#cih
+cij	鈶
+#cii
+cik	呲
+#cil
+cim	糍
+cin	鶿
+#cio
+#cip
+#ciq
+#cir
+#cis
+cit	垐
+ciu	磁
+civ	此
+ciw	瓷
+cix	辭
+ciy	詞
+ciz	跐
+cka	艹
+cka	屮
+#ckb
+ckc	艸
+ckd	漕
+cke	鄵
+ckf	操
+ckg	鼜
+#ckh
+ckj	鏪
+cki	螬
+ckk	嘈
+#ckl
+ckm	槽
+ckm	糙
+#ckn
+cko	曹
+#ckp
+#ckq
+ckr	肏
+#cks
+#ckt
+cku	嶆
+ckv	艚
+#ckw
+ckx	愺
+#cky
+#ckz
+cla	才
+clb	財
+clc	菜
+#cld
+#cle
+clf	採
+clg	裁
+#clh
+#clj
+#cli
+clk	啋
+#cll
+clm	采
+clm	材
+cln	婇
+clo	睬
+clp	彩
+clq	猜
+clr	倸
+cls	纔
+clt	埰
+#clu
+clv	采
+#clw
+#clx
+cly	裁
+clz	踩
+#cma
+#cmb
+#cmc
+#cmd
+#cme
+#cmf
+#cmg
+#cmh
+#cmj
+#cmi
+#cmk
+#cml
+#cmm
+#cmn
+#cmo
+#cmp
+#cmq
+#cmr
+#cms
+#cmt
+#cmu
+#cmv
+#cmw
+#cmx
+#cmy
+#cmz
+#cna
+#cnb
+#cnc
+#cnd
+#cne
+#cnf
+#cng
+#cnh
+#cnj
+#cni
+#cnk
+#cnl
+#cnm
+#cnn
+#cno
+#cnp
+#cnq
+#cnr
+#cns
+#cnt
+#cnu
+#cnv
+#cnw
+#cnx
+#cny
+#cnz
+#coa
+cob	痤
+#coc
+cod	剉
+coe	酇
+cof	挫
+cof	搓
+cof	撮
+cof	措
+cog	庴
+coh	虘
+coj	錯
+coj	銼
+coi	厝
+#cok
+col	鹺
+#com
+#con
+#coo
+#cop
+#coq
+#cor
+cos	縒
+#cot
+cou	磋
+#cov
+#cow
+#cox
+#coy
+coz	蹉
+cpa	寸
+#cpb
+cpc	屗
+cpd	刌
+cpe	邨
+cpf	拵
+#cpg
+#cph
+#cpj
+#cpi
+cpk	吋
+cpl	竴
+cpm	村
+#cpn
+#cpo
+cpp	皴
+#cpq
+#cpr
+#cps
+#cpt
+#cpu
+#cpv
+#cpw
+cpx	忖
+#cpy
+#cpz
+#cqa
+#cqb
+#cqc
+#cqd
+#cqe
+#cqf
+#cqg
+#cqh
+#cqj
+#cqi
+#cqk
+#cql
+#cqm
+#cqn
+#cqo
+#cqp
+#cqq
+#cqr
+#cqs
+#cqt
+#cqu
+#cqv
+#cqw
+#cqx
+#cqy
+#cqz
+#cra
+#crb
+#crc
+#crd
+#cre
+crf	攢
+#crg
+crh	爨
+#crj
+#cri
+#crk
+#crl
+crm	櫕
+#crn
+#cro
+#crp
+#crq
+crr	汆
+#crs
+#crt
+cru	巑
+crv	篡
+#crw
+crx	竄
+cry	襸
+crz	躥
+csa	丛
+csb	匆
+csc	蔥
+csd	淙
+cse	聰
+#csf
+csg	匆
+#csh
+#csj
+csi	蟌
+csk	囪
+csl	樷
+#csm	欉
+#csn
+#cso
+csp	囪
+#csq
+#csr
+css	繱
+#cst
+csu	碂
+csv	篵
+csw	琮
+csx	怱
+csy	叢
+csz	孮
+#cta
+#ctb
+#ctc
+#ctd
+#cte
+#ctf
+#ctg
+#cth
+#ctj
+#cti
+#ctk
+#ctl
+#ctm
+#ctn
+#cto
+#ctp
+#ctq
+#ctr
+#cts
+#ctt
+#ctu
+#ctv
+#ctw
+#ctx
+#cty
+#ctz
+#cua
+#cub
+cuc	蔟
+cud	殂
+#cue
+#cuf
+#cug
+#cuh
+#cuj
+#cui
+cuk	噈
+cul	麤
+cum	粗
+#cun
+cuo	脨
+cup	皻
+cuq	猝
+cur	促
+cus	縬
+cut	鼀
+cuu	卒
+cuv	簇
+cuw	卒
+cux	徂
+cuy	醋
+cuy	酢
+cuz	蹙
+cuz	蹴
+#cva
+#cvb
+cvc	萃
+cvd	淬
+#cve
+cvf	摧
+#cvg
+cvh	焠
+cvj	鏙
+#cvi
+cvk	啐
+#cvl
+cvm	粹
+cvm	毳
+#cvn
+cvo	脆
+cvp	隹
+#cvq
+cvr	催
+#cvs
+cvt	墔
+cvu	崔
+#cvv
+cvw	衰
+#cvx
+cvy	翠
+#cvz
+#cwa
+#cwb
+#cwc
+#cwd
+#cwe
+#cwf
+#cwg
+#cwh
+#cwj
+#cwi
+#cwk
+#cwl
+#cwm
+#cwn
+#cwo
+#cwp
+#cwq
+#cwr
+#cws
+#cwt
+#cwu
+#cwv
+#cww
+#cwx
+#cwy
+#cwz
+#cxa
+#cxb
+#cxc
+#cxd
+#cxe
+#cxf
+#cxg
+#cxh
+#cxj
+#cxi
+#cxk
+#cxl
+#cxm
+#cxn
+#cxo
+#cxp
+#cxq
+#cxr
+#cxs
+#cxt
+#cxu
+#cxv
+#cxw
+#cxx
+#cxy
+#cxz
+#cya
+#cyb
+#cyc
+#cyd
+#cye
+#cyf
+#cyg
+#cyh
+#cyj
+#cyi
+#cyk
+#cyl
+#cym
+#cyn
+#cyo
+#cyp
+#cyq
+#cyr
+#cys
+#cyt
+#cyu
+#cyv
+#cyw
+#cyx
+#cyy
+#cyz
+#cza
+#czb
+#czc
+#czd
+#cze
+#czf
+#czg
+#czh
+#czj
+#czi
+#czk
+#czl
+#czm
+#czn
+#czo
+#czp
+#czq
+#czr
+#czs
+#czt
+#czu
+#czv
+#czw
+#czx
+#czy
+#czz
+daa	大
+dab	瘩
+#dac
+#dad
+dae	耷
+daf	搭
+dag	韃
+dah	炟
+#daj
+dai	蟽
+dak	噠
+dal	龘
+#dam
+dan	妲
+dao	沓
+#dap
+#daq
+dar	畣
+das	眔
+dat	墶
+#dau
+dav	答
+dav	笪
+#daw
+dax	怛
+#day
+daz	達
+dba	豆
+dbb	兜
+#dbc
+dbd	斗
+dbe	陡
+dbf	抖
+dbg	調試器
+#dbh
+#dbj
+dbi	蚪
+#dbk
+#dbl
+#dbm
+#dbn
+#dbo
+#dbp
+dbq	對不起
+dbr	侸
+#dbs
+#dbt
+dbu	餖
+dbv	篼
+dbw     鬥
+dbx	竇
+dby	讀
+dbz	逗
+dca	弔
+dcb	瘹
+#dcc
+dcd	凋
+dce	﨩
+dcf	掉
+dcg	弔
+#dch
+dcj	釣
+dci	蛁
+dck	吊
+dck	叼
+dcl     竨
+#dcm
+dcn	鵰
+dco	瞗
+dcp	彫
+#dcq
+dcr	伄
+dcs	絩
+#dct
+dcu	碉
+dcu	屌
+dcv	雕
+dcw	琱
+dcx	窵
+dcy     調
+#dcz
+#dda
+#ddb
+#ddc
+ddd	端到端
+dddd	懂的都懂
+#dde
+#ddf
+#ddg
+#ddh
+#ddj
+#ddi
+#ddk
+#ddl
+#ddm
+#ddn
+#ddo
+#ddp
+#ddq
+#ddr
+#dds
+#ddt
+#ddu
+#ddv
+#ddw
+#ddx
+#ddy
+#ddz
+#dea
+#deb
+#dec
+#ded
+#dee
+#def
+#deg
+deh	的話
+dej	鍀
+dei	蚮
+dek	嘚
+#del
+dem	棏
+#den
+deo	旳
+#dep
+#deq
+der	德
+#des
+det	地
+#deu
+dev	開發者
+#dew
+dex	德
+#dey
+#dez
+#dfa
+#dfb
+#dfc
+#dfd
+#dfe
+dff	抌
+#dfg
+#dfh
+#dfj
+#dfi
+#dfk
+#dfl
+#dfm
+#dfn
+#dfo
+#dfp
+#dfq
+#dfr
+#dfs
+#dft
+#dfu
+#dfv
+#dfw
+#dfx
+#dfy
+#dfz
+#dga
+#dgb
+#dgc
+dgd	登
+dge	鄧
+#dgf
+dgg	戥
+dgh	燈
+dgj	凳
+#dgi
+dgk	噔
+dgl	竳
+dgm	櫈
+dgn	嬁
+dgo	瞪
+#dgp
+#dgq
+dgr	僜
+#dgs
+dgt	墱
+#dgu
+#dgv
+dgw	璒
+dgx	憕
+#dgy
+dgz	蹬
+#dha
+dhb	宕
+dhc	蕩
+#dhd
+dhe	党
+dhf	擋
+#dhg
+dhh	黨
+dhj	鐺
+dhi	蟷
+dhk	噹
+#dhl
+dhm	檔
+dhn	婸
+dho	瞊
+#dhp
+#dhq
+#dhr
+#dhs
+dht	壋
+#dhu
+#dhv
+#dhw
+dhx	黨
+dhy	襠
+#dhz
+dja	石
+djb	单
+#djc
+djd	淡
+djd	殫
+dje	耽
+djf	擔
+djg	彈
+djh	大家好
+#djj
+dji	蛋
+djk	單
+#djl
+#djm
+#djn
+djo	膽
+djo	旦
+djoa	旦
+djp	丹
+djq	氮
+#djr
+#djs
+#djt
+#dju
+djv	簞
+#djw
+djx	憚
+#djy
+#djz
+#dia
+dib	弟
+dic	蔕
+did	滴
+die	邸
+dif	抵
+dig	底
+#dih
+dij	帝
+#dii
+dik	嘀
+dik	哋
+dik	啲
+dik	嚸
+dil	帝
+dim	棣
+din	嫡
+dio	睇
+dip	氐
+diq	狄
+dir	低
+dir	籴
+dis	締
+dit	堤
+dit	墬
+diu	砥
+div	第
+div	笛
+diw     敵
+#dix
+diy	翟
+diz	迪
+diz	遞
+#dka
+#dkb
+#dkc
+#dkd
+#dke
+#dkf
+#dkg
+#dkh
+#dkj
+#dki
+#dkk
+#dkl
+#dkm
+#dkn
+#dko
+#dkp
+#dkq
+#dkr
+#dks
+#dkt
+#dku
+#dkv
+#dkw
+#dkx
+#dky
+dkz	蹈
+dla	歹
+dlb	貸
+#dlc
+dld	殆
+#dle
+dlf	摕
+dlg	戴
+dlh	黛
+dlj	帶
+dli	蚮
+dlk	呆
+#dll
+#dlm
+dln	鴏
+#dlo
+#dlp
+dlq	獃
+dlr	代
+#dls
+#dlt
+dlu	岱
+#dlv
+dlw	玳
+dlx	待
+dlx	怠
+dly	袋
+dlz	逮
+dma	电
+dmb	典
+#dmc
+dmd	滇
+dmd	奠
+dme	阽
+dmf	掂
+dmg	店
+dmh	點
+dmj	鈿
+#dmi
+#dmk
+#dml
+#dmm
+#dmn
+dmo	电
+dmp	敁
+dmq	靛
+dmr	佃
+#dms
+dmt	墊
+dmu	殿
+#dmv
+#dmw
+dmx	惦
+dmy	電
+dmz	踮
+#dna
+#dnb
+#dnc
+#dnd
+#dne
+#dnf
+#dng
+#dnh
+#dnj
+#dni
+#dnk
+#dnl
+#dnm
+#dnn
+#dno
+#dnp
+#dnq
+#dnr
+#dns
+#dnt
+#dnu
+#dnv
+#dnw
+#dnx
+#dny
+#dnz
+doa	夛
+#dob
+doc	奪
+dod	剁
+#doe
+dof	掇
+dog	度
+#doh
+doj	鐸
+doi	鬌
+dok	咄
+#dol
+dom	朵
+#don
+#doo
+#dop
+#doq
+#dor
+#dos
+dot	墮
+dou	躲
+dov	舵
+#dow
+dox	惰
+#doy
+doz	跺
+dozd	踱
+#dpa
+#dpb
+#dpc
+#dpd
+#dpe
+#dpf
+#dpg
+#dph
+#dpj
+#dpi
+dpk	噸
+#dpl
+#dpm
+#dpn
+#dpo
+#dpp
+#dpq
+#dpr
+#dps
+#dpt
+#dpu
+#dpv
+#dpw
+#dpx
+#dpy
+#dpz
+#dqa
+#dqb
+#dqc
+#dqd
+#dqe
+dqf	颩
+#dqg
+#dqh
+dqj	銩
+#dqi
+#dqk
+#dql
+#dqm
+#dqn
+#dqo
+#dqp
+#dqq
+#dqr
+#dqs
+#dqt
+#dqu
+#dqv
+#dqw
+#dqx
+#dqy
+#dqz
+#dra
+#drb
+drc	葮
+#drd
+#dre
+#drf
+#drg
+drh	煅
+drj	斷
+#dri
+#drk
+drl	端
+drm	椴
+drn	媏
+dro	腶
+drp	段
+#drq
+drr	偳
+drs	緞
+drt	塅
+dru	段
+drv	籪
+drw	瑖
+#drx
+dry	褍
+drz	躖
+dsa	東
+#dsb
+dsc	董
+dsd	洞
+dsd	凍
+dsdd	凍
+dsdt	洞
+#dse
+dsf	揰
+dsg	鼕
+#dsh
+#dsj
+dsi	蝀
+dsk	咚
+dsl	動
+dsm	棟
+dsn	姛
+dsn	鶇
+dso	胴
+#dsp
+dsq	氡
+dsr	働
+dss	絧
+#dst
+#dsu
+#dsv
+dsw	冬
+dsx	懂
+#dsy
+dsz	迵
+#dta
+#dtb
+#dtc
+#dtd
+#dte
+#dtf
+#dtg
+#dth
+#dtj
+#dti
+#dtk
+#dtl
+#dtm
+#dtn
+#dto
+#dtp
+#dtq
+#dtr
+#dts
+#dtt
+#dtu
+#dtv
+#dtw
+#dtx
+#dty
+#dtz
+dua	蠹
+dub	賭
+#duc
+dud	渡
+dud	瀆
+due	都
+duf	毒
+dug	度
+duh	的時候
+duj	鍍
+dui	蠧
+duk	嘟
+#dul
+dum	杜
+dun	妒
+duo	睹
+duo	肚
+duo	督
+duot	肚
+duou	督
+duov	睹
+dup	牘
+duq	獨
+#dur
+dus	斁
+dut	堵
+duu	蠧
+duv	篤
+#duw
+#dux
+#duy
+#duz
+#dva
+dvb	兌
+dvc	對
+#dvd
+dve	隊
+dvf	㨃
+#dvg
+#dvh
+#dvj
+dvi	轛
+dvk	啍
+#dvl
+dvm	杸
+dvn	鴭
+#dvo
+#dvp
+#dvq
+#dvr
+dvs	綐
+dvt	堆
+#dvu
+dvv	頧
+#dvw
+dvx	懟
+#dvy
+#dvz
+#dwa
+#dwb
+#dwc
+#dwd
+#dwe
+#dwf
+#dwg
+#dwh
+#dwj
+#dwi
+dwk	嗲
+#dwl
+#dwm
+#dwn
+#dwo
+#dwp
+#dwq
+#dwr
+#dws
+#dwt
+#dwu
+#dwv
+#dww
+#dwx
+#dwy
+#dwz
+#dxa
+#dxb
+dxc	苵
+#dxd
+#dxe
+dxf	爹
+dxg	瓞
+#dxh
+dxj	幉
+dxi	蝶
+dxk	咥
+dxk	喋
+dxl	疊
+dxm	楪
+dxn	鴩
+dxo	昳
+dxp	牒
+dxq	疊
+#dxr
+dxs	絰
+#dxt
+dxu	碟
+#dxv
+#dxw
+#dxx
+dxy	諜
+dxz	跌
+dya	丁
+dyb	定
+#dyc
+dyd	頂
+dye	耵
+dyf	掟
+dyg	靪
+#dyh
+dyj	釘
+dyi	虰
+dyk	叮
+#dyl
+dym	椗
+dyn	奵
+dyo	盯
+dyoa	鼎
+#dyp
+#dyq
+dyr	仃
+#dys
+dyt	町
+dyu	嵿
+#dyv
+dyw	玎
+dywe	獨一無二
+dyx	忊
+dyy	訂
+#dyz
+#dza
+#dzb
+#dzc
+#dzd
+#dze
+#dzf
+#dzg
+#dzh
+#dzj
+#dzi
+dzk	嘚
+#dzl
+#dzm
+#dzn
+#dzo
+#dzp
+#dzq
+dzr	大自然
+dzrj	大自然
+#dzs
+#dzt
+#dzu
+#dzv
+#dzw
+dzx	得
+#dzy
+dzz	逮
+#eaa
+#eab
+#eac
+#ead
+#eae
+#eaf
+#eag
+#eah
+#eaj
+#eai
+#eak
+#eal
+#eam
+#ean
+#eao
+#eap
+#eaq
+#ear
+#eas
+#eat
+#eau
+#eav
+#eaw
+#eax
+#eay
+#eaz
+#eba
+#ebb
+#ebc
+#ebd
+#ebe
+#ebf
+#ebg
+#ebh
+#ebj
+#ebi
+#ebk
+#ebl
+#ebm
+#ebn
+#ebo
+#ebp
+#ebq
+#ebr
+#ebs
+#ebt
+ebu	而不是
+#ebv
+#ebw
+#ebx
+#eby
+#ebz
+#eca
+#ecb
+#ecc
+#ecd
+#ece
+#ecf
+#ecg
+#ech
+#ecj
+#eci
+#eck
+#ecl
+#ecm
+#ecn
+#eco
+#ecp
+#ecq
+#ecr
+#ecs
+#ect
+#ecu
+#ecv
+#ecw
+#ecx
+ecy	二次元
+#ecz
+#eda
+#edb
+#edc
+#edd
+#ede
+#edf
+#edg
+#edh
+#edj
+#edi
+#edk
+#edl
+#edm
+#edn
+#edo
+#edp
+#edq
+#edr
+#eds
+#edt
+#edu
+#edv
+#edw
+#edx
+#edy
+#edz
+#eea
+#eeb
+#eec
+#eed
+#eee
+#eef
+#eeg
+#eeh
+#eej
+#eei
+eek	呃
+#eel
+#eem
+#een
+#eeo
+#eep
+#eeq
+#eer
+#ees
+#eet
+#eeu
+#eev
+#eew
+#eex
+eey	額
+#eez
+#efa
+#efb
+#efc
+#efd
+#efe
+#eff
+#efg
+#efh
+#efj
+#efi
+#efk
+#efl
+#efm
+#efn
+#efo
+#efp
+#efq
+#efr
+#efs
+#eft
+#efu
+#efv
+#efw
+#efx
+#efy
+#efz
+#ega
+#egb
+#egc
+#egd
+#ege
+#egf
+#egg
+#egh
+#egj
+#egi
+#egk
+#egl
+#egm
+#egn
+#ego
+#egp
+#egq
+#egr
+#egs
+#egt
+#egu
+#egv
+#egw
+#egx
+#egy
+#egz
+#eha
+#ehb
+#ehc
+#ehd
+#ehe
+#ehf
+#ehg
+#ehh
+#ehj
+#ehi
+#ehk
+#ehl
+#ehm
+#ehn
+#eho
+#ehp
+#ehq
+#ehr
+#ehs
+#eht
+#ehu
+#ehv
+#ehw
+#ehx
+#ehy
+#ehz
+#eja
+#ejb
+#ejc
+#ejd
+#eje
+#ejf
+#ejg
+#ejh
+#ejj
+#eji
+#ejk
+#ejl
+#ejm
+#ejn
+#ejo
+#ejp
+#ejq
+#ejr
+#ejs
+#ejt
+#eju
+ejv	二進制
+ejw	二進制文件
+#ejx
+#ejy
+#ejz
+#eia
+#eib
+#eic
+#eid
+#eie
+#eif
+#eig
+#eih
+#eij
+#eii
+#eik
+#eil
+#eim
+#ein
+#eio
+#eip
+#eiq
+#eir
+#eis
+#eit
+#eiu
+#eiv
+#eiw
+#eix
+eiy	誒
+#eiz
+#eka
+#ekb
+#ekc
+#ekd
+#eke
+#ekf
+#ekg
+#ekh
+#ekj
+#eki
+#ekk
+#ekl
+#ekm
+#ekn
+#eko
+#ekp
+#ekq
+#ekr
+#eks
+#ekt
+#eku
+#ekv
+#ekw
+#ekx
+#eky
+#ekz
+#ela
+#elb
+#elc
+#eld
+#ele
+#elf
+#elg
+#elh
+#elj
+#eli
+#elk
+#ell
+#elm
+#eln
+#elo
+#elp
+#elq
+#elr
+els	俄羅斯
+#elt
+#elu
+#elv
+#elw
+#elx
+#ely
+#elz
+#ema
+#emb
+#emc
+#emd
+#eme
+#emf
+#emg
+#emh
+#emj
+#emi
+emk	嘸
+emk	呣
+#eml
+#emm
+#emn
+#emo
+#emp
+#emq
+#emr
+#ems
+#emt
+#emu
+#emv
+#emw
+#emx
+#emy
+#emz
+#ena
+enb	奀
+enc	蒽
+#end
+#ene
+enf	摁
+#eng
+enh	煾
+#enj
+#eni
+enk	嗯
+#enl
+#enm
+#enn
+#eno
+#enp
+#enq
+#enr
+#ens
+#ent
+enu	峎
+#env
+#enw
+#enx
+#eny
+#enz
+#eoa
+#eob
+#eoc
+#eod
+#eoe
+#eof
+#eog
+#eoh
+#eoj
+#eoi
+#eok
+#eol
+#eom
+#eon
+#eoo
+#eop
+#eoq
+#eor
+#eos
+#eot
+#eou
+#eov
+#eow
+#eox
+#eoy
+#eoz
+#epa
+#epb
+#epc
+#epd
+#epe
+#epf
+#epg
+#eph
+#epj
+#epi
+#epk
+#epl
+#epm
+#epn
+#epo
+#epp
+#epq
+#epr
+#eps
+#ept
+#epu
+#epv
+#epw
+#epx
+#epy
+#epz
+#eqa
+#eqb
+#eqc
+#eqd
+#eqe
+#eqf
+#eqg
+#eqh
+#eqj
+#eqi
+#eqk
+#eql
+#eqm
+#eqn
+#eqo
+#eqp
+#eqq
+#eqr
+#eqs
+#eqt
+#equ
+#eqv
+#eqw
+#eqx
+#eqy
+#eqz
+era	二
+erb	貳
+#erc
+erd	尔
+ere	兒
+#erf
+#erg
+erh	耳
+#erj	兒
+#eri
+erk	咡
+#erl
+#erm
+ern	鴯
+ero	胹
+erp	尓
+erq	而且
+err	尓
+err	尒
+#ers
+#ert
+eru	餌
+#erv
+erw	珥
+erx	尔
+ery	貳
+ery	弍
+erz	邇
+#esa
+#esb
+#esc
+#esd
+#ese
+#esf
+#esg
+#esh
+#esj
+#esi
+#esk
+#esl
+#esm
+#esn
+#eso
+#esp
+#esq
+#esr
+#ess
+#est
+#esu
+#esv
+#esw
+#esx
+#esy
+#esz
+#eta
+#etb
+#etc
+#etd
+#ete
+#etf
+#etg
+#eth
+#etj
+#eti
+#etk
+#etl
+#etm
+#etn
+#eto
+#etp
+#etq
+#etr
+#ets
+#ett
+#etu
+#etv
+#etw
+#etx
+#ety
+#etz
+#eua
+#eub
+#euc
+#eud
+#eue
+#euf
+#eug
+#euh
+#euj
+#eui
+#euk
+#eul
+#eum
+#eun
+#euo
+#eup
+#euq
+#eur
+#eus
+#eut
+#euu
+#euv
+#euw
+#eux
+#euy
+#euz
+#eva
+#evb
+#evc
+#evd
+#eve
+#evf
+#evg
+#evh
+#evj
+#evi
+#evk
+#evl
+#evm
+#evn
+#evo
+#evp
+#evq
+#evr
+#evs
+#evt
+#evu
+#evv
+#evw
+#evx
+#evy
+#evz
+#ewa
+#ewb
+#ewc
+#ewd
+#ewe
+#ewf
+#ewg
+#ewh
+#ewj
+#ewi
+#ewk
+#ewl
+ewm	二維碼
+#ewn
+#ewo
+#ewp
+#ewq
+#ewr
+#ews
+#ewt
+#ewu
+#ewv
+#eww
+#ewx
+#ewy
+#ewz
+#exa
+#exb
+#exc
+#exd
+#exe
+#exf
+#exg
+#exh
+#exj
+#exi
+#exk
+#exl
+#exm
+#exn
+#exo
+#exp
+#exq
+#exr
+#exs
+#ext
+#exu
+#exv
+#exw
+#exx
+#exy
+#exz
+#eya
+#eyb
+#eyc
+#eyd
+#eye
+#eyf
+#eyg
+#eyh
+#eyj
+#eyi
+#eyk
+#eyl
+#eym
+#eyn
+#eyo
+#eyp
+#eyq
+#eyr
+#eys
+#eyt
+#eyu
+#eyv
+#eyw
+#eyx
+#eyy
+#eyz
+#eza
+#ezb
+#ezc
+#ezd
+#eze
+#ezf
+#ezg
+#ezh
+#ezj
+#ezi
+#ezk
+#ezl
+#ezm
+#ezn
+#ezo
+#ezp
+#ezq
+#ezr
+#ezs
+#ezt
+#ezu
+#ezv
+#ezw
+#ezx
+#ezy
+#ezz
+faa	发
+fab	髮
+#fac
+fad	法
+#fae
+faf	发
+fag	發
+#fah
+faj	鍅
+fai	髮
+#fak
+#fal
+fam	閥
+fan	姂
+#fao
+fap	乏
+#faq
+far	伐
+fas	罰
+#fat
+fau	砝
+fav	筏
+faw	琺
+#fax
+#fay
+#faz
+fba	不
+#fbb
+#fbc
+#fbd
+#fbe
+#fbf
+#fbg
+fbh	炰
+#fbj
+#fbi
+fbk	否
+#fbl
+#fbm
+fbn	鴀
+#fbo
+fbp	缶
+#fbq
+fbr	缶
+fbs	紑
+#fbt
+fbu	分佈式
+#fbv
+fbw	缶
+fbx	衃
+fby	雬
+#fbz
+#fca
+#fcb
+#fcc
+#fcd
+#fce
+#fcf
+#fcg
+#fch
+#fcj
+#fci
+#fck
+#fcl
+#fcm
+#fcn
+#fco
+#fcp
+#fcq
+#fcr
+#fcs
+#fct
+#fcu
+#fcv
+fcw	覅
+#fcx
+#fcy
+#fcz
+#fda
+#fdb
+#fdc
+#fdd
+#fde
+#fdf
+#fdg
+#fdh
+#fdj
+#fdi
+#fdk
+#fdl
+#fdm
+#fdn
+#fdo
+#fdp
+#fdq
+#fdr
+#fds
+#fdt
+#fdu
+#fdv
+#fdw
+#fdx
+#fdy
+#fdz
+#fea
+#feb
+#fec
+#fed
+#fee
+#fef
+#feg
+#feh
+#fej
+#fei
+#fek
+#fel
+#fem
+#fen
+#feo
+#fep
+#feq
+#fer
+#fes
+#fet
+#feu
+#fev
+#few
+#fex
+#fey
+#fez
+#ffa
+ffb	分
+ffc	紛
+ffd	奮
+ffe	隫
+#fff
+ffg	鼖
+ffh	焚
+#ffj
+#ffi
+ffk	吩
+ffl	竕
+ffm	粉
+ffm	糞
+#ffn
+ffo	瞓
+#ffp
+ffq	氛
+ffr	份
+ffs	紛
+fft	墳
+#ffu
+#ffv
+ffw	瓰
+ffx	憤
+#ffy
+#ffz
+fga	丰
+fgb	瘋
+fgc	封
+fgd	馮
+fge	酆
+fgf	奉
+#fgg
+fgh	烽
+fgj	鋒
+fgj	鳯
+fgi	蜂
+fgk	唪
+fgl	檒
+fgm	楓
+#fgn
+fgo	盽
+#fgp
+fgq	猦
+fgr	俸
+fgs	縫
+#fgt
+fgu	峯
+#fgv
+#fgw
+fgx	覂
+fgy	諷
+fgz	逢
+#fha
+fhb	髣
+fhc	芳
+fhd	方
+fhe	防
+fhf	放
+#fhg
+fhh	房
+fhj	鈁
+fhi	蚄
+#fhk
+#fhl
+fhm	枋
+fhn	妨
+#fho
+#fhp
+fhq	防火牆
+fhr	倣
+fhs	紡
+#fht
+fhu	祊
+fhv	舫
+fhvx	符號執行
+fhw	方
+fhx	彷
+fhy	訪
+fhz	趽
+fja	凣
+fjb	販
+fjc	范
+fjd	凡
+fjd	泛
+#fje
+fjf	梵
+#fjg
+fjh	煩
+fjj	帆
+#fji
+#fjk
+fjl	勫
+fjm	梵
+#fjn
+fjo	膰
+fjp	反
+fjq	犯
+fjr	仮
+fjs	繁
+fjt	番
+fju	飯
+fjv	範
+#fjw
+#fjx
+fjy	翻
+fjz	返
+#fia
+#fib
+#fic
+#fid
+#fie
+#fif
+#fig
+#fih
+#fij
+#fii
+#fik
+#fil
+#fim
+#fin
+#fio
+#fip
+#fiq
+#fir
+#fis
+#fit
+#fiu
+#fiv
+#fiw
+#fix
+#fiy
+#fiz
+#fka
+#fkb
+#fkc
+#fkd
+#fke
+#fkf
+#fkg
+#fkh
+#fkj
+#fki
+#fkk
+#fkl
+#fkm
+#fkn
+#fko
+#fkp
+#fkq
+#fkr
+#fks
+#fkt
+#fku
+#fkv
+#fkw
+#fkx
+#fky
+#fkz
+#fla
+#flb
+#flc
+#fld
+#fle
+#flf
+#flg
+#flh
+#flj
+#fli
+#flk
+#fll
+#flm
+#fln
+#flo
+#flp
+#flq
+#flr
+#fls
+#flt
+#flu
+#flv
+#flw
+#flx
+#fly
+#flz
+#fma
+#fmb
+#fmc
+#fmd
+#fme
+#fmf
+#fmg
+#fmh
+#fmj
+#fmi
+#fmk
+#fml
+#fmm
+#fmn
+#fmo
+#fmp
+#fmq
+#fmr
+#fms
+#fmt
+#fmu
+#fmv
+#fmw
+#fmx
+#fmy
+#fmz
+#fna
+#fnb
+#fnc
+#fnd
+#fne
+#fnf
+#fng
+#fnh
+#fnj
+#fni
+#fnk
+#fnl
+#fnm
+#fnn
+#fno
+#fnp
+#fnq
+#fnr
+#fns
+#fnt
+#fnu
+#fnv
+#fnw
+#fnx
+#fny
+#fnz
+#foa
+#fob
+#foc
+#fod
+#foe
+#fof
+#fog
+#foh
+#foj
+#foi
+#fok
+#fol
+#fom
+fon	妚
+#foo
+#fop
+#foq
+for	佛
+for	仏
+#fos
+fot	坲
+#fou
+#fov
+#fow
+#fox
+#foy
+#foz
+#fpa
+#fpb
+#fpc
+#fpd
+#fpe
+#fpf
+#fpg
+#fph
+#fpj
+#fpi
+#fpk
+#fpl
+#fpm
+#fpn
+#fpo
+#fpp
+#fpq
+#fpr
+#fps
+#fpt
+#fpu
+#fpv
+#fpw
+#fpx
+#fpy
+#fpz
+#fqa
+#fqb
+#fqc
+#fqd
+#fqe
+#fqf
+#fqg
+#fqh
+#fqj
+#fqi
+#fqk
+#fql
+#fqm
+#fqn
+#fqo
+#fqp
+#fqq
+#fqr
+#fqs
+#fqt
+#fqu
+#fqv
+#fqw
+#fqx
+#fqy
+#fqz
+#fra
+#frb
+#frc
+#frd
+#fre
+#frf
+#frg
+#frh
+#frj
+#fri
+#frk
+#frl
+#frm
+#frn
+#fro
+#frp
+#frq
+#frr
+#frs
+#frt
+#fru
+#frv
+#frw
+#frx
+#fry
+#frz
+#fsa
+#fsb
+#fsc
+#fsd
+#fse
+#fsf
+#fsg
+#fsh
+#fsj
+#fsi
+#fsk
+#fsl
+#fsm
+#fsn
+#fso
+#fsp
+#fsq
+#fsr
+#fss
+#fst
+fsu	分散式
+#fsv
+#fsw
+#fsx
+#fsy
+#fsz
+#fta
+#ftb
+#ftc
+#ftd
+#fte
+#ftf
+#ftg
+#fth
+#ftj
+#fti
+#ftk
+#ftl
+#ftm
+#ftn
+#fto
+#ftp
+#ftq
+#ftr
+#fts
+#ftt
+#ftu
+#ftv
+#ftw
+#ftx
+#fty
+#ftz
+fua	夫
+fub	父
+fub	賦
+fuc	芙
+fud	副
+fud	負
+fue	附
+fuf	斧
+fuf	撫
+fuf	拂
+fug	弗
+fug	府
+fug	腐
+fuh	膚
+fuj	幅
+fui	輔
+fuk	咐
+ful	孵
+fum	駙
+fun	婦
+fun	鳬
+fuo	服
+fuo	腹
+fuo	肤
+#fup
+fuq	氟
+fur	付
+fur	伏
+fur	复
+fus	縛
+#fut
+fuu	福
+fuv	符
+fuw	敷
+fux	復
+fuy	複
+fuz	赴
+fuz	孚
+#fva
+#fvb
+#fvc
+#fvd
+#fve
+#fvf
+#fvg
+#fvh
+#fvj
+#fvi
+#fvk
+#fvl
+fvm	輔助碼
+#fvn
+#fvo
+#fvp
+#fvq
+#fvr
+#fvs
+#fvt
+#fvu
+#fvv
+#fvw
+#fvx
+#fvy
+#fvz
+#fwa
+#fwb
+#fwc
+#fwd
+#fwe
+#fwf
+#fwg
+#fwh
+#fwj
+#fwi
+#fwk
+#fwl
+#fwm
+#fwn
+#fwo
+#fwp
+fwq	服務器
+#fwr
+#fws
+#fwt
+#fwu
+#fwv
+#fww
+#fwx
+#fwy
+#fwz
+#fxa
+#fxb
+#fxc
+#fxd
+#fxe
+#fxf
+#fxg
+#fxh
+#fxj
+#fxi
+#fxk
+#fxl
+#fxm
+#fxn
+#fxo
+#fxp
+fxq	分析器
+#fxr
+#fxs
+#fxt
+#fxu
+#fxv
+#fxw
+#fxx
+#fxy
+#fxz
+#fya
+#fyb
+#fyc
+#fyd
+#fye
+#fyf
+#fyg
+#fyh
+#fyj
+#fyi
+#fyk
+#fyl
+#fym
+#fyn
+#fyo
+#fyp
+#fyq
+#fyr
+#fys
+#fyt
+#fyu
+#fyv
+#fyw
+#fyx
+#fyy
+#fyz
+fza	非
+fzb	費
+fzb	痱
+fzc	菲
+fzd	沸
+fze	陫
+fzf	飛
+fzg	廢
+fzh	扉
+fzj	鐨
+fzi	蜚
+fzk	吠
+fzk	匪
+#fzl
+#fzm
+fzn	妃
+fzo	肥
+fzo	肺
+#fzp
+fzq	狒
+#fzr
+fzs	緋
+#fzt
+#fzu
+#fzv
+fzw	斐
+fzx	悱
+fzy	誹
+#fzz
+#gaa
+#gab
+#gac
+#gad
+#gae
+#gaf
+gag	魀
+#gah
+gaj	釓
+gai	軋
+gak	嘎
+#gal
+#gam
+gan	尕
+gao	朒
+gap	玍
+#gaq
+gar	伽
+#gas
+#gat
+#gau
+#gav
+#gaw
+#gax
+#gay
+#gaz
+gba	冓
+gbb	購
+gbc	苟
+gbd	溝
+#gbe
+#gbf
+gbg	勾
+gbh	煹
+gbj	鉤
+gbi	蚼
+gbk	句
+#gbl
+gbm	構
+gbn	媾
+#gbo
+#gbp
+gbq	狗
+gbr	佝
+gbs	緱
+gbt	垢
+#gbu
+#gbv
+#gbw
+#gbx
+gby	詬
+gbz	遘
+#gca
+#gcb
+#gcc
+#gcd
+#gce
+#gcf
+#gcg
+#gch
+#gcj
+#gci
+#gck
+#gcl
+#gcm
+#gcn
+#gco
+#gcp
+#gcq
+#gcr
+#gcs
+#gct
+#gcu
+#gcv
+#gcw
+#gcx
+#gcy
+#gcz
+gda	卝
+#gdb
+#gdc
+#gdd
+#gde
+#gdf
+gdg	廣
+#gdh
+gdj	銧
+#gdi
+gdk	咣
+#gdl
+#gdm
+gdn	姯
+gdo	胱
+#gdp
+gdq	獷
+#gdr
+#gds
+#gdt
+gdu	硄
+#gdv
+gdw	珖
+#gdx
+#gdy
+gdz	逛
+gea	戈
+geb	疙
+gec	葛
+gec	革
+ged	割
+gee	隔
+gef	擱
+geg	骼
+geh	搿
+gej	鉻
+gei	蛤
+gek	哥
+#gel
+gem	格
+gen	鴿
+geo	胳
+#gep
+geq	歌
+ger	个
+ges	紇
+#get
+geu	硌
+gev	舸
+#gew
+#gex
+gey	詥
+#gez
+gfa	亘
+#gfb
+gfc	茛
+#gfd
+#gfe
+gff	揯
+#gfg
+#gfh
+#gfj
+#gfi
+gfk	哏
+#gfl
+gfm	根
+#gfn
+#gfo
+#gfp
+#gfq
+#gfr
+#gfs
+#gft
+#gfu
+gfv	艮
+#gfw
+#gfx
+#gfy
+gfz	跟
+gga	更
+ggb	賡
+#ggc
+#ggd
+gge	耿
+ggf	挭
+ggg	羹
+ggg	庚
+ggh	焿
+#ggj
+#ggi
+ggk	哽
+ggl	耕
+ggm	梗
+ggn	鶊
+#ggo
+#ggp
+#ggq
+#ggr
+#ggs
+ggt	埂
+ggu	峺
+ggum	規格說明
+#ggv
+#ggw
+#ggx
+ggy	鯁
+#ggz
+#gha
+ghb	疘
+#ghc
+ghd	港
+ghe	阬
+ghf	缸
+ghg	共和國
+ghh	焵
+ghj	鋼
+#ghi
+ghk	岡
+#ghl
+ghm	槓
+#ghn
+gho	肛
+#ghp
+ghq	犺
+#ghr
+ghs	綱
+#ght
+ghu	崗
+#ghv
+#ghw
+ghx	戅
+#ghy
+#ghz
+gja	干
+gjb	疳
+gjc	甘
+gjd	淦
+#gje
+gjf	擀
+gjg	幹
+gjh	稈
+#gjj
+gji	虷
+gjk	咁
+#gjl
+gjm	桿
+#gjn
+#gjo
+gjp	皯
+gjq	乾
+gjr	倝
+gjs	紺
+gjt	坩
+gju	矸
+gjv	竿
+gjv	赣
+gjw	敢
+gjx	感
+#gjy
+#gjz	趕
+#gia
+#gib
+#gic
+#gid
+#gie
+#gif
+#gig
+#gih
+#gij
+#gii
+#gik
+#gil
+#gim
+#gin
+#gio
+#gip
+#giq
+#gir
+#gis
+#git
+#giu
+#giv
+#giw
+#gix
+#giy
+#giz
+gka	櫜
+gkb	皋
+#gkc
+#gkd
+#gke
+gkf	搞
+#gkg
+gkh	稿
+gkj	鎬
+#gki
+gkk	告
+gkl	勂
+gkm	糕
+gkn	告
+gko	膏
+gkp	睾
+gkq	獋
+#gkr
+gks	縞
+#gkt
+#gku	餻
+#gkv
+#gkw
+#gkx
+gky	膏
+gkz	臯
+#gla
+glb	賅
+glc	蓋
+gld	溉
+#gle
+#glf
+#glg
+#glh
+glj	鈣
+#gli
+#glk
+#gll
+glm	蓋
+gln	姟
+glo	晐
+#glp
+#glq
+glr	侅
+gls	絯
+#glt
+#glu
+#glv
+glw	改
+glx	忋
+gly	該
+#glz
+#gma
+#gmb
+#gmc
+#gmd
+#gme
+#gmf
+#gmg
+#gmh
+#gmj
+#gmi
+#gmk
+#gml
+#gmm
+#gmn
+#gmo
+#gmp
+#gmq
+#gmr
+#gms
+#gmt
+#gmu
+#gmv
+#gmw
+#gmx
+#gmy
+#gmz
+#gna
+#gnb
+#gnc
+#gnd
+#gne
+#gnf
+#gng
+#gnh
+#gnj
+#gni
+#gnk
+#gnl
+#gnm
+#gnn
+#gno
+#gnp
+#gnq
+#gnr
+#gns
+#gnt
+#gnu
+#gnv
+#gnw
+#gnx
+#gny
+#gnz
+#goa
+gob	瘑
+goc	菓
+#god
+goe	郭
+gof	摑
+#gog
+goh	虢
+goj	鍋
+goi	蝈
+gok	國
+#gol
+gom	粿
+#gon
+#goo
+#gop
+goq	猓
+#gor
+gos	綶
+got	果
+gou	餜
+#gov
+#gow
+#gox
+goy	裹
+goz	過
+#gpa
+#gpb
+#gpc
+gpd	滚
+#gpe
+#gpf
+#gpg
+#gph
+#gpj
+gpi	輥
+#gpk
+#gpl
+gpm	棍
+#gpn
+#gpo
+#gpp
+#gpq
+#gpr
+#gps
+#gpt
+#gpu
+#gpv
+#gpw
+#gpx
+gpy	鯀
+#gpz
+#gqa
+#gqb
+#gqc
+#gqd
+#gqe
+#gqf
+#gqg
+#gqh
+#gqj
+#gqi
+#gqk
+#gql
+#gqm
+#gqn
+#gqo
+#gqp
+#gqq
+#gqr
+#gqs
+#gqt
+#gqu
+#gqv
+#gqw
+#gqx
+#gqy
+#gqz
+gra	丱
+gra	毌
+grb	官
+grb	冠
+grb	貫
+#grc
+grd	灌
+#gre
+grf	罐
+grf	摜
+#grg
+#grh
+grj	觀
+gri	輨
+#grk
+#grl
+grm	棺
+grn	鸛
+gro	矔
+#grp
+grq	关
+grr	倌
+grs	綸
+#grt
+gru	館
+grv	管
+#grw
+grx	慣
+gry	鰥
+#grz
+gsa	工
+gsb	宫
+gsb	貢
+gsc	共
+gsd	澒
+#gse
+gsf	拱
+#gsg
+gsh	熕
+gsj	觥
+gsi	蚣
+gsk	嗊
+gsl	功
+#gsm
+#gsn
+gso	肱
+#gsp
+#gsq
+gsr	供
+gss	公
+#gst
+#gsu
+gsv	弓
+gsw	攻
+gsx	恭
+gsy	羾
+#gsz
+#gta
+#gtb
+#gtc
+#gtd
+#gte
+#gtf
+#gtg
+#gth
+#gtj
+#gti
+#gtk
+#gtl
+#gtm
+#gtn
+#gto
+#gtp
+#gtq
+#gtr
+#gts
+#gtt
+#gtu
+#gtv
+#gtw
+#gtx
+#gty
+#gtz
+#gua
+gub	谷
+guc	菇
+gud	汩
+#gue
+#guf
+gug	骨
+guh	雇
+guh	穀
+guj	錮
+gui	轂
+guk	咕
+#gul
+gum	蠱
+gun	姑
+guo	股
+gup	鼔
+#guq
+gur	估
+gus	罟
+#gut
+#guu
+guv	鼓
+guv	箍
+guw	故
+gux	賈
+guy	詁
+guz	孤
+#gva
+gvb	貴
+#gvc
+gvd	归
+gve	邽
+gvf	規
+#gvg
+#gvh
+#gvj
+gvi	軌
+#gvk
+#gvl
+gvm	櫃
+gvm	桂
+#gvn
+gvo	晷
+gvp	鬼
+gvp	龜
+gvq	猤
+#gvr
+#gvs
+gvt	圭
+gvt	癸
+#gvu
+gvv	歸
+gvw	瑰
+#gvx
+gvy	詭
+gvy	鱖
+gvz	跪
+#gwa
+gwb	寡
+gwb	卦
+#gwc
+gwd	刮
+#gwe
+gwf	掛
+#gwg
+gwh	煱
+#gwj
+#gwi
+gwk	呱
+#gwl
+#gwm
+gwn	鴰
+gwo	胍
+gwp	瓜
+gwq	歄
+#gwr
+#gws
+#gwt
+#gwu
+#gwv
+#gww
+gwx	颪
+#gwy
+#gwz
+#gxa
+#gxb
+#gxc
+#gxd
+#gxe
+#gxf
+#gxg
+#gxh
+#gxj
+#gxi
+#gxk
+#gxl
+#gxm
+#gxn
+#gxo
+#gxp
+#gxq
+#gxr
+#gxs
+#gxt
+#gxu
+#gxv
+#gxw
+#gxx
+#gxy
+#gxz
+#gya
+#gyb
+#gyc
+#gyd
+#gye
+gyf	拐
+#gyg
+#gyh
+gyj	叏
+#gyi
+#gyk
+#gyl
+gym	柺
+#gyn
+#gyo
+gyp	乖
+gyq	乖
+#gyr
+#gys
+#gyt
+#gyu
+gyv	夬
+#gyw
+gyx	怪
+#gyy
+#gyz
+#gza
+#gzb
+#gzc
+#gzd
+#gze
+#gzf
+#gzg
+#gzh
+#gzj
+#gzi
+#gzk
+#gzl
+#gzm
+#gzn
+#gzo
+#gzp
+#gzq
+#gzr
+gzs	給
+#gzt
+#gzu
+#gzv
+#gzw
+#gzx
+#gzy
+#gzz
+#haa
+#hab
+#hac
+#had
+#hae
+#haf
+#hag
+#hah
+#haj
+#hai
+#hak
+#hal
+#ham
+#han
+#hao
+#hap
+#haq
+#har
+#has
+#hat
+#hau
+#hav
+#haw
+#hax
+#hay
+#haz
+#hba
+#hbb
+#hbc
+#hbd
+#hbe
+#hbf
+#hbg
+hbh	會不會
+#hbj
+#hbi
+#hbk
+#hbl
+#hbm
+#hbn
+#hbo
+#hbp
+#hbq
+#hbr
+#hbs
+#hbt
+#hbu
+#hbv
+#hbw
+#hbx
+#hby
+#hbz
+#hca
+#hcb
+#hcc
+#hcd
+#hce
+#hcf
+#hcg
+#hch
+#hcj
+#hci
+#hck
+#hcl
+#hcm
+#hcn
+#hco
+#hcp
+#hcq
+#hcr
+#hcs
+#hct
+#hcu
+#hcv
+#hcw
+#hcx
+#hcy
+#hcz
+#hda
+#hdb
+hdc	荒
+#hdd
+#hde
+#hdf
+#hdg
+#hdh
+#hdj
+#hdi
+#hdk
+#hdl
+#hdm
+#hdn
+#hdo
+#hdp
+#hdq
+#hdr
+#hds
+#hdt
+#hdu
+#hdv
+#hdw
+#hdx
+#hdy
+#hdz
+#hea
+#heb
+#hec
+#hed
+#hee
+#hef
+#heg
+#heh
+#hej
+#hei
+hek	喝
+#hel
+#hem
+hen	鶴
+heo	曷
+#hep
+#heq
+her	合
+#hes
+#het
+#heu
+#hev
+#hew
+#hex
+#hey
+#hez
+#hfa
+#hfb
+#hfc
+#hfd
+#hfe
+#hff
+#hfg
+#hfh
+#hfj
+#hfi
+#hfk
+#hfl
+#hfm
+#hfn
+#hfo
+#hfp
+hfq	狠
+#hfr
+#hfs
+#hft
+#hfu
+#hfv
+#hfw
+#hfx
+#hfy
+#hfz
+#hga
+#hgb
+#hgc
+#hgd
+#hge
+#hgf
+#hgg
+#hgh
+#hgj
+#hgi
+#hgk
+#hgl
+#hgm
+#hgn
+#hgo
+#hgp
+#hgq
+#hgr
+#hgs
+#hgt
+#hgu
+#hgv
+#hgw
+#hgx
+#hgy
+#hgz
+#hha
+#hhb
+#hhc
+#hhd
+#hhe
+#hhf
+#hhg
+#hhh
+#hhj
+#hhi
+#hhk
+#hhl
+#hhm
+#hhn
+#hho
+#hhp
+#hhq
+#hhr
+#hhs
+#hht
+#hhu
+hhv	航
+#hhw
+#hhx
+#hhy
+#hhz
+#hja
+#hjb
+#hjc
+hjd	漢
+#hje
+#hjf
+#hjg
+#hjh
+#hjj
+#hji
+#hjk
+#hjl
+#hjm
+#hjn
+#hjo
+#hjp
+#hjq
+#hjr
+#hjs
+#hjt
+#hju
+#hjv
+#hjw
+#hjx
+#hjy
+#hjz
+#hia
+#hib
+#hic
+#hid
+#hie
+#hif
+#hig
+#hih
+#hij
+#hii
+#hik
+#hil
+#him
+#hin
+#hio
+#hip
+#hiq
+#hir
+#his
+#hit
+#hiu
+#hiv
+#hiw
+#hix
+#hiy
+#hiz
+#hka
+#hkb
+#hkc
+#hkd
+#hke
+#hkf
+#hkg
+#hkh
+#hkj
+#hki
+#hkk
+#hkl
+#hkm
+#hkn
+#hko
+#hkp
+#hkq
+#hkr
+#hks
+#hkt
+#hku
+#hkv
+#hkw
+#hkx
+#hky
+#hkz
+#hla
+hlb	害
+#hlc
+#hld
+#hle
+#hlf
+#hlg
+#hlh
+#hlj
+#hli
+#hlk
+#hll
+#hlm
+#hln
+#hlo
+#hlp
+#hlq
+#hlr
+#hls
+#hlt
+hlu	行列式
+#hlv
+#hlw
+#hlx
+#hly
+#hlz
+#hma
+#hmb
+#hmc
+#hmd
+#hme
+#hmf
+#hmg
+#hmh
+#hmj
+#hmi
+#hmk
+#hml
+#hmm
+#hmn
+#hmo
+#hmp
+#hmq
+#hmr
+#hms
+#hmt
+#hmu
+#hmv
+#hmw
+#hmx
+#hmy
+#hmz
+#hna
+#hnb
+#hnc
+#hnd
+#hne
+#hnf
+#hng
+#hnh
+#hnj
+#hni
+#hnk
+#hnl
+#hnm
+#hnn
+#hno
+#hnp
+#hnq
+#hnr
+#hns
+#hnt
+#hnu
+#hnv
+#hnw
+#hnx
+#hny
+#hnz
+#hoa
+#hob
+#hoc
+hod	活
+hod	火
+hodd	火
+#hoe
+#hof
+#hog
+#hoh
+#hoj
+#hoi
+#hok
+#hol
+#hom
+#hon
+#hoo
+#hop
+#hoq
+#hor
+#hos
+#hot
+#hou
+#hov
+#how
+#hox
+#hoy
+#hoz
+#hpa
+#hpb
+hpc	葷
+hpd	渾
+#hpe
+hpf	掍
+hpg	魂
+#hph
+hpj	觨
+hpi	轋
+#hpk
+#hpl
+hpm	閽
+hpn	婚
+hpo	昏
+#hpp
+#hpq
+hpr	倱
+#hps
+#hpt
+hpu	餫
+#hpv
+hpw	琿
+#hpx
+#hpy
+#hpz
+#hqa
+#hqb
+#hqc
+#hqd
+#hqe
+#hqf
+#hqg
+#hqh
+#hqj
+#hqi
+#hqk
+#hql
+#hqm
+#hqn
+#hqo
+#hqp
+#hqq
+#hqr
+#hqs
+#hqt
+#hqu
+#hqv
+#hqw
+#hqx
+#hqy
+#hqz
+#hra
+#hrb
+#hrc
+#hrd
+#hre
+#hrf
+#hrg
+#hrh
+#hrj
+#hri
+#hrk
+#hrl
+#hrm
+#hrn
+#hro
+#hrp
+hrq	歡
+#hrr
+#hrs
+#hrt
+#hru
+#hrv
+#hrw
+#hrx
+hry	幻
+#hrz
+#hsa
+#hsb
+#hsc
+#hsd
+#hse
+#hsf
+#hsg
+#hsh
+#hsj
+#hsi
+#hsk
+#hsl
+#hsm
+#hsn
+#hso
+#hsp
+#hsq
+#hsr
+#hss
+#hst
+#hsu
+#hsv
+#hsw
+#hsx
+#hsy
+#hsz
+#hta
+#htb
+#htc
+#htd
+#hte
+#htf
+#htg
+#hth
+#htj
+#hti
+#htk
+#htl
+#htm
+#htn
+#hto
+#htp
+#htq
+#htr
+#hts
+#htt
+#htu
+#htv
+#htw
+#htx
+#hty
+#htz
+#hua
+#hub
+#huc
+#hud
+#hue
+#huf
+#hug
+huh	虎
+#huj
+#hui
+huk	呼
+huk	唬
+huk	唿
+huk	囫
+#hul
+#hum
+#hun
+huo	胡
+#hup
+#huq
+#hur
+#hus
+#hut
+#huu
+#huv
+#huw
+#hux
+huy	醐
+#huz
+#hva
+#hvb
+#hvc
+#hvd
+#hve
+#hvf
+#hvg
+#hvh
+#hvj
+#hvi
+#hvk
+#hvl
+#hvm
+#hvn
+#hvo
+#hvp
+#hvq
+#hvr
+#hvs
+#hvt
+#hvu
+#hvv
+#hvw
+#hvx
+#hvy
+#hvz
+hwa	画
+#hwb
+hwc	花
+hwc	華
+hwd	滑
+hwd	劃
+#hwe
+#hwf
+#hwg
+#hwh
+#hwj
+#hwi
+hwk	嘩
+#hwl
+hwm	椛
+hwn	嬅
+#hwo
+#hwp
+hwq	猾
+#hwr
+#hws
+#hwt
+#hwu
+#hwv
+#hww
+#hwx
+#hwy
+#hwz
+#hxa
+#hxb
+#hxc
+#hxd
+#hxe
+#hxf
+#hxg
+#hxh
+#hxj
+hxi	候選窗
+#hxk
+#hxl
+#hxm
+#hxn
+#hxo
+#hxp
+#hxq
+#hxr
+#hxs
+#hxt
+#hxu
+#hxv
+#hxw
+#hxx
+#hxy
+#hxz
+#hya
+#hyb
+#hyc
+#hyd
+#hye
+#hyf
+#hyg
+#hyh
+#hyj
+#hyi
+#hyk
+hykn	很有可能
+#hyl
+#hym
+#hyn
+#hyo
+#hyp
+#hyq
+#hyr
+#hys
+#hyt
+#hyu
+#hyv
+#hyw
+#hyx
+#hyy
+#hyz
+#hza
+#hzb
+#hzc
+#hzd
+#hze
+#hzf
+#hzg
+#hzh
+#hzj
+#hzi
+#hzk
+#hzl
+#hzm
+#hzn
+#hzo
+#hzp
+#hzq
+#hzr
+#hzs
+#hzt
+#hzu
+#hzv
+#hzw
+#hzx
+#hzy
+#hzz
+#jaa
+#jab
+#jac
+#jad
+#jae
+#jaf
+#jag
+#jah
+#jaj
+#jai
+#jak
+#jal
+#jam
+#jan
+#jao
+#jap
+#jaq
+#jar
+#jas
+#jat
+#jau
+#jav
+#jaw
+#jax
+#jay
+#jaz
+#jba
+#jbb
+#jbc
+#jbd
+#jbe
+#jbf
+#jbg
+#jbh
+#jbj
+#jbi
+#jbk
+#jbl
+#jbm
+#jbn
+#jbo
+#jbp
+#jbq
+#jbr
+#jbs
+#jbt
+#jbu
+#jbv
+#jbw
+#jbx
+#jby
+#jbz
+#jca
+#jcb
+#jcc
+#jcd
+#jce
+#jcf
+#jcg
+#jch
+#jcj
+#jci
+#jck
+jcl	交
+#jcm
+#jcn
+#jco
+#jcp
+#jcq
+#jcr
+#jcs
+#jct
+#jcu
+#jcv
+#jcw
+#jcx
+#jcy
+#jcz
+#jda
+#jdb
+#jdc
+jdd	江
+#jde
+#jdf
+#jdg
+#jdh
+#jdj
+#jdi
+#jdk
+#jdl
+#jdm
+#jdn
+#jdo
+#jdp
+#jdq
+#jdr
+#jds
+#jdt
+#jdu
+#jdv
+#jdw
+#jdx
+jdy	講
+jdy	醬
+#jdz
+#jea
+#jeb
+#jec
+#jed
+#jee
+#jef
+#jeg
+#jeh
+#jej
+#jei
+#jek
+#jel
+#jem
+#jen
+#jeo
+#jep
+#jeq
+#jer
+#jes
+#jet
+#jeu
+#jev
+#jew
+#jex
+#jey
+#jez
+#jfa
+#jfb
+#jfc
+#jfd
+#jfe
+#jff
+#jfg
+#jfh
+#jfj
+#jfi
+#jfk
+#jfl
+#jfm
+#jfn
+#jfo
+#jfp
+#jfq
+#jfr
+#jfs
+#jft
+#jfu
+#jfv
+#jfw
+#jfx
+#jfy
+#jfz
+#jga
+#jgb
+#jgc
+#jgd
+#jge
+#jgf
+#jgg
+#jgh
+#jgj
+#jgi
+#jgk
+jgl	舉個例子
+jglz	舉個例子
+#jgm
+#jgn
+#jgo
+#jgp
+#jgq
+#jgr
+#jgs
+#jgt
+#jgu
+#jgv
+#jgw
+#jgx
+#jgy
+#jgz
+#jha
+#jhb
+#jhc
+#jhd
+#jhe
+#jhf
+#jhg
+#jhh
+#jhj
+#jhi
+#jhk
+#jhl
+#jhm
+#jhn
+#jho
+#jhp
+#jhq
+#jhr
+#jhs
+#jht
+#jhu
+#jhv
+#jhw
+#jhx
+#jhy
+#jhz
+#jja
+#jjb
+#jjc
+#jjd
+#jje
+jjf	解決方案
+jjf	解決方法
+jjfa	解決方案
+jjff	解決方法
+#jjg
+#jjh
+#jjj
+#jji
+#jjk
+#jjl
+#jjm
+#jjn
+#jjo
+#jjp
+#jjq
+#jjr
+#jjs
+#jjt
+#jju
+#jjv
+#jjw
+#jjx
+#jjy
+#jjz
+jia	己
+#jib
+#jic
+#jid
+#jie
+jif	擊
+jig	即
+#jih
+jij	既
+#jii
+#jik
+#jil
+jim	機
+jim	極
+jimq	極
+jin	鷄
+#jio
+jip	几
+#jiq
+#jir
+jis	級
+#jit
+jiu	吉
+jiv	集
+jivx	籍
+#jiw
+#jix
+jiy	記
+jiyd	幾
+#jiz
+#jka
+#jkb
+#jkc
+#jkd
+#jke
+#jkf
+#jkg
+#jkh
+#jkj
+#jki
+#jkk
+#jkl
+#jkm
+#jkn
+#jko
+#jkp
+#jkq
+#jkr
+#jks
+#jkt
+#jku
+#jkv
+#jkw
+#jkx
+#jky
+#jkz
+#jla
+#jlb
+#jlc
+#jld
+#jle
+#jlf
+#jlg
+#jlh
+#jlj
+#jli
+#jlk
+#jll
+#jlm
+#jln
+#jlo
+#jlp
+#jlq
+#jlr
+#jls
+#jlt
+#jlu
+#jlv
+#jlw
+#jlx
+#jly
+#jlz
+#jma
+#jmb
+#jmc
+#jmd
+#jme
+#jmf
+#jmg
+#jmh
+jmj	鍵
+#jmi
+#jmk
+#jml
+jmm	間
+#jmn
+#jmo
+#jmp
+#jmq
+#jmr
+#jms
+#jmt
+#jmu
+jmv	簡
+#jmw
+#jmx
+#jmy
+#jmz
+#jna
+#jnb
+#jnc
+#jnd
+#jne
+#jnf
+#jng
+#jnh
+#jnj
+#jni
+#jnk
+#jnl
+#jnm
+#jnn
+#jno
+jnp	金
+jnp	斤
+#jnq
+jnr	僅
+#jns
+#jnt
+#jnu
+#jnv
+#jnw
+#jnx
+#jny
+jnz	近
+#joa
+#job
+#joc
+#jod
+#joe
+#jof
+#jog
+#joh
+#joj
+#joi
+#jok
+#jol
+#jom
+#jon
+#joo
+#jop
+#joq
+#jor
+#jos
+#jot
+#jou
+#jov
+#jow
+#jox
+#joy
+#joz
+#jpa
+#jpb
+#jpc
+#jpd
+#jpe
+#jpf
+#jpg
+#jph
+#jpj
+#jpi
+jpk	君
+#jpl
+#jpm
+#jpn
+#jpo
+#jpp
+#jpq
+#jpr
+#jps
+#jpt
+#jpu
+#jpv
+#jpw
+#jpx
+#jpy
+#jpz
+#jqa
+#jqb
+#jqc
+jqd	酒
+#jqe
+#jqf
+#jqg
+#jqh
+#jqj
+#jqi
+#jqk
+#jql
+#jqm
+#jqn
+#jqo
+jqp	久
+#jqq
+#jqr
+#jqs
+#jqt
+#jqu
+#jqv
+#jqw
+#jqx
+#jqy
+#jqz
+#jra
+#jrb
+#jrc
+#jrd
+#jre
+#jrf
+#jrg
+#jrh
+#jrj
+#jri
+#jrk
+#jrl
+#jrm
+#jrn
+#jro
+#jrp
+#jrq
+#jrr
+#jrs
+#jrt
+#jru
+#jrv
+#jrw
+#jrx
+#jry
+#jrz
+#jsa
+#jsb
+#jsc
+#jsd
+#jse
+#jsf
+#jsg
+#jsh
+jsj	計算機
+jsjkx	計算機科學
+jsjkxj	計算機科學家
+#jsi
+#jsk
+#jsl
+#jsm
+#jsn
+#jso
+#jsp
+jsq	計算器
+#jsr
+#jss
+#jst
+#jsu
+#jsv
+#jsw
+#jsx
+#jsy
+#jsz
+#jta
+#jtb
+#jtc
+#jtd
+#jte
+#jtf
+#jtg
+#jth
+#jtj
+#jti
+#jtk
+#jtl
+#jtm
+#jtn
+#jto
+#jtp
+#jtq
+#jtr
+#jts
+#jtt
+#jtu
+#jtv
+#jtw
+#jtx
+#jty
+#jtz
+#jua
+#jub
+juc	菊
+#jud
+#jue
+#juf
+#jug
+#juh
+#juj
+#jui
+#juk
+#jul
+#jum
+#jun
+#juo
+#jup
+#juq
+#jur
+#jus
+#jut
+#juu
+#juv
+#juw
+#jux
+#juy
+#juz
+#jva
+#jvb
+#jvc
+#jvd
+#jve
+#jvf
+#jvg
+#jvh
+#jvj
+#jvi
+#jvk
+#jvl
+#jvm
+#jvn
+#jvo
+#jvp
+#jvq
+#jvr
+#jvs
+#jvt
+#jvu
+#jvv
+#jvw
+#jvx
+#jvy
+#jvz
+jwa	甲
+jwb	贾
+jwb	痂
+#jwc
+#jwd
+#jwe
+#jwf
+#jwg
+#jwh
+#jwj
+#jwi
+#jwk
+jwl	加
+#jwm
+#jwn
+#jwo
+#jwp
+#jwq
+jwr	假
+jwr	價
+#jws
+#jwt
+jwu	嘉
+jwu	岬
+#jwv
+#jww
+#jwx
+#jwy
+#jwz
+#jxa
+#jxb
+#jxc
+jxd	潔
+#jxe
+jxf	接
+#jxg
+jxh	杰
+#jxj
+#jxi
+jxk	嗟
+jxl	劫
+jxm	桀
+jxn	姐
+jxo	睫
+#jxp
+jxq	狤
+jxr	借
+jxs	結
+jxt	界
+jxu	屆
+jxv	節
+jxw	玠
+jxx	街
+jxy	訐
+#jxz
+jya	井
+jyb	痙
+jyc	莖
+jyd	凈
+#jye
+jyf	旌
+jyg	弳
+jyh	稉
+jyj	鏡
+jyi	蜻
+jyk	兢
+jyl	竟
+jyl	競
+jym	精
+jyn	婧
+jyo	景
+jyoq	睛
+jyoo	晶
+#jyp
+jyq	靜
+jyr	徑
+jys	經
+jyt	境
+#jyu
+#jyv
+jyw	敬
+jywx	京
+jyx	徑
+jyy	頸
+jyz	逕
+#jza
+#jzb
+#jzc
+#jzd
+#jze
+#jzf
+#jzg
+#jzh
+#jzj
+#jzi
+#jzk
+#jzl
+#jzm
+#jzn
+#jzo
+#jzp
+#jzq
+#jzr
+#jzs
+#jzt
+#jzu
+#jzv
+#jzw
+#jzx
+#jzy
+#jzz
+#iaa
+iab	察
+iac	茶
+iad	叉
+#iae
+iaf	插
+#iag
+#iah
+#iaj
+#iai
+#iak
+#ial
+iam	查
+#ian
+#iao
+#iap
+#iaq
+iar	侘
+#ias
+#iat
+iau	岔
+#iav
+#iaw
+#iax
+iay	差
+#iaz
+iba	丑
+#ibb
+#ibc
+ibd	差不多
+ibd	殠
+ibdo	差不多
+#ibe
+ibf	抽
+#ibg
+#ibh
+ibj	幬
+#ibi
+#ibk
+#ibl
+#ibm
+#ibn
+ibo	瞅
+#ibp
+#ibq
+ibr	仇
+ibs	綢
+#ibt
+#ibu
+ibv	籌
+#ibw
+ibx	愁
+iby	酬
+ibz	臭
+#ica
+#icb
+#icc
+#icd
+#ice
+#icf
+#icg
+#ich
+#icj
+#ici
+#ick
+#icl
+#icm
+#icn
+#ico
+#icp
+#icq
+#icr
+#ics
+#ict
+#icu
+#icv
+#icw
+#icx
+#icy
+#icz
+#ida
+idb	瘡
+#idc
+idd	創
+#ide
+#idf
+idg	床
+#idh
+#idj
+#idi
+#idk
+#idl
+idm	闖
+#idn
+#ido
+idp	牀
+#idq
+idr	剏
+#ids
+#idt
+#idu
+#idv
+#idw
+idx	窗
+#idy
+#idz
+iea	屮
+#ieb
+#iec
+ied	澈
+#iee
+ief	扯
+#ieg
+#ieh
+#iej
+#iei
+#iek
+#iel
+#iem
+#ien
+#ieo
+#iep
+#ieq
+#ier
+#ies
+#iet
+ieu	掣
+#iev
+#iew
+iex	徹
+#iey
+#iez
+ifa	臣
+ifb	宸
+#ifc
+ifd	沉
+ife	陳
+iff	抻
+#ifg
+ifh	稱
+#ifj
+ifi	辰
+ifk	嗔
+ifl	塵
+#ifm
+#ifn
+ifo	晨
+#ifp
+#ifq
+#ifr
+#ifs
+ift	塵
+#ifu
+ifv	爯
+#ifw
+ifx	忱
+ify	襯
+ifz	趁
+iga	承
+#igb
+#igc
+igd	澄
+#ige
+igf	撐
+igg	成
+igh	稱
+ighi	程
+igj	鐺
+igi	蛏
+igk	呈
+igl	丞
+#igm
+#ign
+#igo
+igp	乘
+#igq
+#igr
+#igs
+igt	城
+#igu
+#igv
+#igw
+igx	懲
+igy	誠
+igz	逞
+iha	厂
+#ihb
+#ihc
+ihd	嘗
+#ihe
+#ihf
+ihg	廠
+#ihh
+ihj	常
+#ihi
+ihk	唱
+ihk	嚐
+#ihl
+ihm	氅
+ihn	娼
+iho	昌
+#ihp
+ihq	猖
+ihr	倡
+#ihs
+iht	場
+ihu	暢
+#ihv
+ihw	敞
+#ihx
+ihy	裳
+#ihz
+#ija
+ijb	单
+#ijc
+#ijd
+#ije
+ijf	摻
+ijft	攙
+ijfc	摻
+#ijg
+#ijh
+ijj	鏟
+#iji
+#ijk
+#ijl
+#ijm
+ijn	嬋
+#ijo
+#ijp
+#ijq
+#ijr
+ijs	纏
+#ijt
+iju	禪
+ijut	饞
+#ijv
+#ijw
+ijx	懺
+ijy	讒
+#ijz
+iia	尺
+iib	癡
+#iic
+iid	池
+iie	恥
+iif	持
+iig	弛
+iih	熾
+iij	斥
+iii	蚩
+iik	吃
+iil	勅
+iim	馳
+iin	鴟
+#iio
+iip	彳
+#iiq
+#iir
+#iis
+#iit
+#iiu
+iiv	齒
+iiw	敕
+#iix
+#iiy
+iiz	遲
+#ika
+#ikb
+#ikc
+#ikd
+#ike
+#ikf
+#ikg
+#ikh
+#ikj
+#iki
+#ikk
+#ikl
+#ikm
+#ikn
+#iko
+#ikp
+#ikq
+#ikr
+#iks
+#ikt
+#iku
+#ikv
+#ikw
+#ikx
+#iky
+#ikz
+#ila
+ilb	瘥
+#ilc
+#ild
+#ile
+ilf	拆
+#ilg
+#ilh
+ilj	釵
+ili	蠆
+#ilk
+#ill
+ilm	柴
+#iln
+#ilo
+#ilp
+#ilq
+ilr	儕
+#ils
+#ilt
+#ilu
+ilv	豺
+#ilw
+#ilx
+#ily
+#ilz
+#ima
+#imb
+#imc
+#imd
+#ime
+#imf
+#img
+#imh
+#imj
+#imi
+#imk
+#iml
+#imm
+#imn
+#imo
+#imp
+#imq
+#imr
+#ims
+#imt
+#imu
+#imv
+#imw
+#imx
+#imy
+#imz
+#ina
+#inb
+#inc
+#ind
+#ine
+#inf
+#ing
+#inh
+#inj
+#ini
+#ink
+#inl
+#inm
+#inn
+#ino
+#inp
+#inq
+#inr
+#ins
+#int
+#inu
+#inv
+#inw
+#inx
+#iny
+#inz
+#ioa
+#iob
+#ioc
+#iod
+#ioe
+#iof
+#iog
+#ioh
+#ioj
+ioi	輟
+ioiz	齪
+iok	啜
+#iol
+#iom
+#ion
+#ioo
+iop	辵
+ioq	歠
+#ior
+ios	綽
+#iot
+#iou
+#iov
+#iow
+iox	惙
+#ioy
+#ioz
+#ipa
+#ipb
+#ipc
+#ipd
+#ipe
+#ipf
+#ipg
+#iph
+#ipj
+#ipi
+#ipk
+#ipl
+#ipm
+#ipn
+ipo	春
+#ipp
+#ipq
+#ipr
+#ips
+#ipt
+#ipu
+#ipv
+#ipw
+#ipx
+#ipy
+#ipz
+#iqa
+#iqb
+#iqc
+#iqd
+#iqe
+#iqf
+#iqg
+#iqh
+#iqj
+#iqi
+#iqk
+#iql
+#iqm
+#iqn
+#iqo
+#iqp
+#iqq
+#iqr
+#iqs
+#iqt
+#iqu
+#iqv
+#iqw
+#iqx
+#iqy
+#iqz
+#ira
+#irb
+#irc
+#ird
+#ire
+#irf
+#irg
+#irh
+#irj
+#iri
+#irk
+#irl
+#irm
+#irn
+#iro
+#irp
+#irq
+#irr
+#irs
+#irt
+#iru
+#irv
+#irw
+irx	穿
+#iry
+#irz
+#isa
+#isb
+#isc
+#isd
+#ise
+#isf
+#isg
+#ish
+#isj
+isi	蟲
+#isk
+#isl
+#ism
+#isn
+#iso
+#isp
+isq	重
+#isr
+#iss
+#ist
+#isu
+#isv
+#isw
+#isx
+#isy
+#isz
+#ita
+#itb
+#itc
+#itd
+#ite
+#itf
+#itg
+#ith
+#itj
+#iti
+#itk
+#itl
+#itm
+#itn
+#ito
+#itp
+#itq
+#itr
+#its
+#itt
+#itu
+#itv
+#itw
+#itx
+#ity
+#itz
+#iua
+#iub
+#iuc
+#iud
+#iue
+#iuf
+#iug
+iuh	處
+#iuj
+#iui
+#iuk
+#iul
+#ium
+#iun
+#iuo
+#iup
+#iuq
+#iur
+#ius
+iut	畜
+#iuu
+#iuv
+iuw	处
+#iux
+#iuy
+#iuz
+#iva
+#ivb
+#ivc
+#ivd
+#ive
+#ivf
+#ivg
+ivh	炊
+#ivj
+#ivi
+#ivk
+#ivl
+#ivm
+#ivn
+#ivo
+#ivp
+#ivq
+#ivr
+#ivs
+#ivt
+#ivu
+#ivv
+#ivw
+#ivx
+#ivy
+#ivz
+#iwa
+#iwb
+#iwc
+#iwd
+#iwe
+#iwf
+#iwg
+#iwh
+#iwj
+#iwi
+#iwk
+#iwl
+#iwm
+#iwn
+#iwo
+#iwp
+#iwq
+#iwr
+#iws
+#iwt
+#iwu
+#iwv
+#iww
+#iwx
+#iwy
+#iwz
+#ixa
+#ixb
+#ixc
+#ixd
+#ixe
+#ixf
+ixfx	程序分析
+#ixg
+#ixh
+#ixj
+#ixi
+#ixk
+#ixl
+#ixm
+#ixn
+#ixo
+#ixp
+#ixq
+#ixr
+#ixs
+#ixt
+#ixu
+#ixv
+#ixw
+#ixx
+ixy	程序員
+ixyy	程序語言
+ixyf	抽象語法樹
+ixyfu	抽象語法樹
+#ixz
+#iya
+#iyb
+#iyc
+#iyd
+#iye
+#iyf
+#iyg
+#iyh
+#iyj
+#iyi
+#iyk
+#iyl
+#iym
+#iyn
+#iyo
+#iyp
+#iyq
+#iyr
+#iys
+#iyt
+#iyu
+#iyv
+#iyw
+#iyx
+#iyy
+#iyz
+#iza
+#izb
+#izc
+#izd
+#ize
+#izf
+#izg
+#izh
+#izj
+#izi
+#izk
+#izl
+#izm
+#izn
+#izo
+#izp
+#izq
+#izr
+#izs
+#izt
+#izu
+#izv
+#izw
+#izx
+#izy
+#izz
+#kaa
+#kab
+#kac
+#kad
+#kae
+#kaf
+#kag
+#kah
+#kaj
+#kai
+#kak
+#kal
+#kam
+#kan
+#kao
+#kap
+#kaq
+#kar
+#kas
+#kat
+#kau
+#kav
+#kaw
+#kax
+#kay
+#kaz
+#kba
+#kbb
+#kbc
+#kbd
+#kbe
+#kbf
+#kbg
+#kbh
+#kbj
+#kbi
+#kbk
+#kbl
+#kbm
+#kbn
+#kbo
+#kbp
+#kbq
+#kbr
+#kbs
+#kbt
+#kbu
+#kbv
+#kbw
+#kbx
+#kby
+#kbz
+#kca
+#kcb
+#kcc
+#kcd
+#kce
+#kcf
+#kcg
+#kch
+#kcj
+#kci
+#kck
+#kcl
+#kcm
+#kcn
+#kco
+#kcp
+#kcq
+#kcr
+#kcs
+#kct
+#kcu
+#kcv
+#kcw
+#kcx
+#kcy
+#kcz
+#kda
+#kdb
+#kdc
+#kdd
+#kde
+#kdf
+#kdg
+#kdh
+#kdj
+#kdi
+#kdk
+#kdl
+#kdm
+#kdn
+#kdo
+#kdp
+#kdq
+#kdr
+#kds
+#kdt
+#kdu
+#kdv
+#kdw
+#kdx
+#kdy
+#kdz
+#kea
+#keb
+#kec
+#ked
+#kee
+#kef
+#keg
+#keh
+#kej
+#kei
+#kek
+#kel
+#kem
+#ken
+#keo
+#kep
+keq	氪
+#ker
+#kes
+#ket
+#keu
+#kev
+#kew
+#kex
+key	顆
+#kez
+#kfa
+#kfb
+#kfc
+#kfd
+#kfe
+#kff
+#kfg
+#kfh
+#kfj
+#kfi
+#kfk
+#kfl
+#kfm
+#kfn
+#kfo
+#kfp
+#kfq
+#kfr
+#kfs
+#kft
+#kfu
+#kfv
+#kfw
+#kfx
+#kfy
+#kfz
+#kga
+#kgb
+#kgc
+#kgd
+#kge
+#kgf
+#kgg
+#kgh
+#kgj
+#kgi
+#kgk
+#kgl
+#kgm
+#kgn
+#kgo
+#kgp
+#kgq
+#kgr
+#kgs
+#kgt
+#kgu
+#kgv
+#kgw
+#kgx
+#kgy
+#kgz
+#kha
+#khb
+#khc
+#khd
+#khe
+khf	抗
+#khg
+#khh
+#khj
+#khi
+#khk
+#khl
+#khm
+#khn
+#kho
+#khp
+#khq
+#khr
+#khs
+#kht
+#khu
+#khv
+#khw
+#khx
+#khy
+#khz
+#kja
+#kjb
+#kjc
+#kjd
+#kje
+#kjf
+#kjg
+#kjh
+#kjj
+#kji
+#kjk
+kjkj	看看
+#kjl
+#kjm
+#kjn
+#kjo
+#kjp
+#kjq
+#kjr
+#kjs
+#kjt
+#kju
+#kjv
+#kjw
+#kjx
+#kjy
+#kjz
+#kia
+#kib
+#kic
+#kid
+#kie
+#kif
+#kig
+#kih
+#kij
+#kii
+#kik
+#kil
+#kim
+#kin
+#kio
+#kip
+#kiq
+#kir
+#kis
+#kit
+#kiu
+#kiv
+#kiw
+#kix
+#kiy
+#kiz
+#kka
+#kkb
+#kkc
+#kkd
+#kke
+#kkf
+#kkg
+#kkh
+#kkj
+#kki
+#kkk
+#kkl
+#kkm
+#kkn
+#kko
+#kkp
+#kkq
+#kkr
+#kks
+#kkt
+#kku
+#kkv
+#kkw
+#kkx
+#kky
+#kkz
+#kla
+#klb
+#klc
+#kld
+#kle
+#klf
+#klg
+#klh
+#klj
+#kli
+#klk
+#kll
+#klm
+#kln
+#klo
+#klp
+#klq
+#klr
+#kls
+#klt
+#klu
+#klv
+#klw
+#klx
+#kly
+#klz
+#kma
+#kmb
+#kmc
+#kmd
+#kme
+#kmf
+#kmg
+#kmh
+#kmj
+#kmi
+#kmk
+#kml
+#kmm
+#kmn
+#kmo
+#kmp
+#kmq
+#kmr
+#kms
+#kmt
+#kmu
+#kmv
+#kmw
+#kmx
+#kmy
+#kmz
+#kna
+#knb
+#knc
+#knd
+#kne
+#knf
+#kng
+#knh
+#knj
+#kni
+#knk
+#knl
+#knm
+#knn
+#kno
+#knp
+#knq
+#knr
+#kns
+#knt
+knu	可能是
+#knv
+#knw
+#knx
+#kny
+#knz
+#koa
+#kob
+#koc
+#kod
+#koe
+#kof
+#kog
+#koh
+#koj
+#koi
+#kok
+#kol
+#kom
+#kon
+#koo
+#kop
+#koq
+#kor
+#kos
+#kot
+#kou
+#kov
+#kow
+#kox
+#koy
+#koz
+#kpa
+#kpb
+#kpc
+#kpd
+#kpe
+#kpf
+#kpg
+#kph
+#kpj
+#kpi
+#kpk
+#kpl
+kpm	睏
+#kpn
+#kpo
+#kpp
+#kpq
+#kpr
+#kps
+#kpt
+#kpu
+#kpv
+#kpw
+#kpx
+#kpy
+#kpz
+#kqa
+#kqb
+#kqc
+#kqd
+#kqe
+#kqf
+#kqg
+#kqh
+#kqj
+#kqi
+#kqk
+kql	看起來
+#kqm
+#kqn
+#kqo
+#kqp
+#kqq
+#kqr
+#kqs
+#kqt
+#kqu
+#kqv
+#kqw
+#kqx
+#kqy
+#kqz
+#kra
+#krb
+#krc
+#krd
+#kre
+#krf
+#krg
+#krh
+#krj
+#kri
+#krk
+#krl
+#krm
+#krn
+#kro
+#krp
+#krq
+#krr
+#krs
+#krt
+#kru
+#krv
+#krw
+#krx
+#kry
+#krz
+#ksa
+#ksb
+#ksc
+#ksd
+#kse
+#ksf
+#ksg
+#ksh
+#ksj
+#ksi
+#ksk
+#ksl
+#ksm
+#ksn
+#kso
+#ksp
+#ksq
+#ksr
+#kss
+#kst
+#ksu
+#ksv
+#ksw
+#ksx
+#ksy
+#ksz
+#kta
+#ktb
+#ktc
+#ktd
+#kte
+#ktf
+#ktg
+#kth
+#ktj
+#kti
+#ktk
+#ktl
+#ktm
+#ktn
+#kto
+#ktp
+#ktq
+#ktr
+#kts
+#ktt
+#ktu
+#ktv
+#ktw
+#ktx
+#kty
+#ktz
+#kua
+#kub
+#kuc
+#kud
+#kue
+#kuf
+#kug
+#kuh
+#kuj
+#kui
+#kuk
+#kul
+#kum
+#kun
+#kuo
+#kup
+#kuq
+#kur
+#kus
+#kut
+#kuu
+#kuv
+#kuw
+#kux
+#kuy
+#kuz
+#kva
+#kvb
+#kvc
+#kvd
+#kve
+#kvf
+#kvg
+#kvh
+#kvj
+#kvi
+#kvk
+#kvl
+#kvm
+#kvn
+#kvo
+#kvp
+#kvq
+#kvr
+#kvs
+#kvt
+#kvu
+#kvv
+#kvw
+#kvx
+#kvy
+#kvz
+#kwa
+#kwb
+#kwc
+#kwd
+#kwe
+#kwf
+kwg	骻
+#kwh
+#kwj
+#kwi
+#kwk
+#kwl
+#kwm
+#kwn
+#kwo
+#kwp
+#kwq
+#kwr
+#kws
+#kwt
+#kwu
+#kwv
+#kww
+#kwx
+#kwy
+#kwz
+#kxa
+#kxb
+#kxc
+#kxd
+#kxe
+#kxf
+#kxg
+#kxh
+kxj	科學家
+#kxi
+#kxk
+#kxl
+#kxm
+#kxn
+#kxo
+#kxp
+#kxq
+#kxr
+#kxs
+#kxt
+#kxu
+#kxv
+#kxw
+#kxx
+#kxy
+#kxz
+#kya
+#kyb
+#kyc
+#kyd
+#kye
+#kyf
+#kyg
+#kyh
+#kyj
+#kyi
+#kyk
+#kyl
+#kym
+#kyn
+#kyo
+#kyp
+#kyq
+#kyr
+#kys
+kyt	塊
+#kyu
+#kyv
+#kyw
+#kyx
+#kyy
+#kyz
+#kza
+#kzb
+#kzc
+#kzd
+#kze
+#kzf
+#kzg
+#kzh
+#kzj
+#kzi
+#kzk
+#kzl
+#kzm
+#kzn
+#kzo
+#kzp
+#kzq
+#kzr
+#kzs
+#kzt
+#kzu
+#kzv
+#kzw
+#kzx
+#kzy
+#kzz
+#laa
+#lab
+#lac
+#lad
+#lae
+#laf
+#lag
+#lah
+#laj
+#lai
+#lak
+#lal
+#lam
+#lan
+#lao
+#lap
+#laq
+#lar
+#las
+#lat
+#lau
+#lav
+#law
+#lax
+#lay
+#laz
+#lba
+#lbb
+#lbc
+lbd	漏
+lbe	陋
+lbf	摟
+#lbg
+#lbh
+#lbj
+#lbi
+#lbk
+#lbl
+#lbm
+#lbn
+#lbo
+#lbp
+#lbq
+#lbr
+#lbs
+#lbt
+#lbu
+#lbv
+#lbw
+#lbx
+#lby
+#lbz
+#lca
+#lcb
+#lcc
+#lcd
+#lce
+#lcf
+#lcg
+#lch
+#lcj
+#lci
+#lck
+#lcl
+#lcm
+#lcn
+#lco
+#lcp
+#lcq
+#lcr
+#lcs
+#lct
+#lcu
+#lcv
+#lcw
+#lcx
+#lcy
+#lcz
+#lda
+#ldb
+#ldc
+#ldd
+#lde
+#ldf
+#ldg
+#ldh
+#ldj
+#ldi
+#ldk
+#ldl
+#ldm
+#ldn
+ldo	量
+#ldp
+#ldq
+#ldr
+#lds
+#ldt
+#ldu
+#ldv
+#ldw
+#ldx
+#ldy
+#ldz
+#lea
+#leb
+#lec
+#led
+#lee
+#lef
+#leg
+#leh
+#lej
+#lei
+#lek
+#lel
+#lem
+#len
+#leo
+#lep
+#leq
+#ler
+#les
+#let
+#leu
+#lev
+#lew
+#lex
+#ley
+#lez
+#lfa
+#lfb
+#lfc
+#lfd
+#lfe
+#lff
+#lfg
+#lfh
+#lfj
+#lfi
+#lfk
+#lfl
+#lfm
+#lfn
+#lfo
+#lfp
+#lfq
+#lfr
+#lfs
+#lft
+#lfu
+#lfv
+#lfw
+#lfx
+#lfy
+#lfz
+#lga
+#lgb
+#lgc
+#lgd
+#lge
+#lgf
+#lgg
+#lgh
+#lgj
+#lgi
+#lgk
+#lgl
+#lgm
+#lgn
+#lgo
+#lgp
+#lgq
+#lgr
+#lgs
+#lgt
+#lgu
+#lgv
+#lgw
+#lgx
+#lgy
+#lgz
+#lha
+#lhb
+#lhc
+#lhd
+#lhe
+#lhf
+#lhg
+#lhh
+#lhj
+#lhi
+#lhk
+#lhl
+#lhm
+#lhn
+#lho
+#lhp
+#lhq
+#lhr
+#lhs
+#lht
+#lhu
+#lhv
+#lhw
+#lhx
+#lhy
+#lhz
+#lja
+#ljb
+#ljc
+#ljd
+#lje
+#ljf
+#ljg
+#ljh
+#ljj
+#lji
+#ljk
+#ljl
+#ljm
+#ljn
+#ljo
+#ljp
+#ljq
+#ljr
+#ljs
+#ljt
+#lju
+#ljv
+#ljw
+#ljx
+#ljy
+#ljz
+#lia
+#lib
+#lic
+#lid
+#lie
+#lif
+#lig
+#lih
+#lij
+#lii
+#lik
+#lil
+#lim
+#lin
+#lio
+#lip
+#liq
+#lir
+#lis
+#lit
+#liu
+liv	離
+liw	理
+#lix
+liy	鯉
+#liz
+#lka
+#lkb
+#lkc
+#lkd
+#lke
+#lkf
+#lkg
+#lkh
+#lkj
+#lki
+#lkk
+#lkl
+#lkm
+#lkn
+#lko
+#lkp
+#lkq
+#lkr
+#lks
+#lkt
+#lku
+#lkv
+#lkw
+#lkx
+#lky
+#lkz
+#lla
+llb	癩
+llc	萊
+lld	瀨
+#lle
+#llf
+#llg
+#llh
+llj	錸
+#lli
+llk	唻
+#lll
+#llm
+#lln
+llo	睞
+#llp
+llq	瀏覽器
+llr	徠
+#lls
+#llt
+llu	赖
+llv	籟
+llw	琜
+#llx
+lly	頼
+llz	逨
+#lma
+#lmb
+lmc	蓮
+#lmd
+lme	聯
+#lmf
+lmg	廉
+lmh	煉
+lmj	鏈
+lmi	蠊
+#lmk
+#lml
+#lmm
+#lmn
+lmo	臉
+#lmp
+#lmq
+#lmr
+lms	練
+#lmt
+#lmu
+lmv	簾
+lmw	斂
+lmx	戀
+lmxj	帘
+#lmy
+#lmz
+#lna
+lnb	賃
+lnc	藺
+lnd	淋
+lne	鄰
+lnf	拎
+lng	廩
+lnh	燐
+#lnj
+lni	臨
+lnk	吝
+lnl	麟
+#lnm
+#lnn
+#lno
+#lnp
+#lnq
+#lnr
+#lns
+#lnt
+#lnu
+#lnv
+lnw	琳
+lnx	懍
+lny	鱗
+lnyl	霖
+lnz	遴
+#loa
+#lob
+loc	蘿
+lod	洛
+#loe
+lof	捋
+#log
+loh	烙
+loj	鑼
+loi	螺
+lok	咯
+#lol
+lom	騾
+lon	犖
+#loo
+#lop
+loq	玀
+#lor
+los	羅
+#lot
+#lou
+lov	籮
+#low
+#lox
+#loy
+#loz
+#lpa
+#lpb
+lpc	菕
+lpd	淪
+lpe	陯
+lpf	掄
+#lpg
+lph	稐
+lpj	錀
+lpi	輪
+lpk	圇
+lpl	耣
+lpm	棆
+lpn	婨
+lpo	腀
+#lpp
+#lpq
+lpr	倫
+lps	綸
+lpt	埨
+lpu	崙
+#lpv
+#lpw
+#lpx
+lpy	鯩
+lpz	踚
+lqa	畱
+lqb	瘤
+#lqc
+lqd	流
+lqd	溜
+lqe	陸
+lqf	旒
+lqg	廇
+#lqh
+lqj	鋶
+lqi	蟉
+lqk	嚠
+#lql
+lqm	柳
+lqm	榴
+lqn	鶹
+#lqo
+#lqp
+#lqq
+#lqr
+lqs	綹
+lqt	塯
+lqu	硫
+lqv	艈
+lqw	六
+#lqx
+lqy	霤
+lqz	遛
+#lra
+#lrb
+#lrc
+#lrd
+#lre
+#lrf
+#lrg
+#lrh
+#lrj
+#lri
+#lrk
+#lrl
+#lrm
+#lrn
+#lro
+#lrp
+#lrq
+#lrr
+#lrs
+#lrt
+#lru
+#lrv
+#lrw
+#lrx
+#lry
+#lrz
+#lsa
+#lsb
+#lsc
+#lsd
+lse	聾
+#lsf
+#lsg
+#lsh
+#lsj
+#lsi
+#lsk
+lsl	龍
+#lsm
+#lsn
+#lso
+#lsp
+#lsq
+#lsr
+#lss
+#lst
+#lsu
+#lsv
+#lsw
+#lsx
+#lsy
+#lsz
+#lta
+#ltb
+#ltc
+#ltd
+#lte
+#ltf
+#ltg
+#lth
+#ltj
+#lti
+#ltk
+#ltl
+#ltm
+#ltn
+#lto
+#ltp
+#ltq
+#ltr
+#lts
+#ltt
+#ltu
+#ltv
+#ltw
+#ltx
+#lty
+#ltz
+#lua
+#lub
+#luc
+#lud
+#lue
+#luf
+#lug
+#luh
+#luj
+#lui
+#luk
+#lul
+#lum
+#lun
+#luo
+#lup
+#luq
+#lur
+#lus
+#lut
+#luu
+#luv
+#luw
+#lux
+#luy
+#luz
+#lva
+#lvb
+#lvc
+#lvd
+#lve
+#lvf
+#lvg
+#lvh
+#lvj
+#lvi
+#lvk
+#lvl
+#lvm
+#lvn
+#lvo
+#lvp
+#lvq
+#lvr
+#lvs
+#lvt
+#lvu
+#lvv
+#lvw
+#lvx
+#lvy
+#lvz
+#lwa
+#lwb
+#lwc
+#lwd
+#lwe
+#lwf
+#lwg
+#lwh
+#lwj
+#lwi
+#lwk
+#lwl
+#lwm
+#lwn
+#lwo
+#lwp
+#lwq
+#lwr
+#lws
+#lwt
+#lwu
+#lwv
+#lww
+#lwx
+#lwy
+#lwz
+#lxa
+#lxb
+#lxc
+#lxd
+#lxe
+#lxf
+#lxg
+#lxh
+#lxj
+#lxi
+#lxk
+#lxl
+#lxm
+#lxn
+#lxo
+#lxp
+#lxq
+#lxr
+#lxs
+#lxt
+#lxu
+#lxv
+#lxw
+#lxx
+#lxy
+#lxz
+#lya
+#lyb
+#lyc
+#lyd
+#lye
+#lyf
+lyfm	另一方面
+#lyg
+#lyh
+#lyj
+#lyi
+lyk	另
+#lyl
+#lym
+#lyn
+#lyo
+#lyp
+#lyq
+#lyr
+#lys
+#lyt
+#lyu
+#lyv
+lyw	靈
+#lyx
+lyy	零
+#lyz
+#lza
+#lzb
+#lzc
+#lzd
+#lze
+#lzf
+#lzg
+#lzh
+#lzj
+#lzi
+#lzk
+#lzl
+#lzm
+#lzn
+#lzo
+#lzp
+#lzq
+#lzr
+#lzs
+#lzt
+#lzu
+#lzv
+#lzw
+#lzx
+#lzy
+#lzz
+maa	馬
+#mab
+#mac
+#mad
+#mae
+#maf
+#mag
+#mah
+#maj
+#mai
+mak	嘛
+#mal
+#mam
+#man
+#mao
+#map
+#maq
+#mar
+#mas
+#mat
+mau	碼
+#mav
+#maw
+#max
+#may
+#maz
+#mba
+#mbb
+#mbc
+#mbd
+#mbe
+#mbf
+#mbg
+#mbh
+#mbj
+#mbi
+#mbk
+#mbl
+#mbm
+#mbn
+#mbo
+#mbp
+#mbq
+#mbr
+#mbs
+#mbt
+#mbu
+#mbv
+#mbw
+#mbx
+#mby
+#mbz
+#mca
+#mcb
+#mcc
+#mcd
+#mce
+#mcf
+#mcg
+#mch
+#mcj
+#mci
+#mck
+#mcl
+#mcm
+mcn	妙
+#mco
+#mcp
+#mcq
+#mcr
+#mcs
+#mct
+#mcu
+#mcv
+#mcw
+#mcx
+#mcy
+#mcz
+#mda
+#mdb
+#mdc
+#mdd
+#mde
+#mdf
+#mdg
+#mdh
+#mdj
+#mdi
+#mdk
+#mdl
+#mdm
+#mdn
+#mdo
+#mdp
+#mdq
+#mdr
+#mds
+#mdt
+#mdu
+#mdv
+#mdw
+#mdx
+#mdy
+#mdz
+#mea
+#meb
+#mec
+#med
+#mee
+#mef
+#meg
+#meh
+#mej
+#mei
+#mek
+#mel
+#mem
+#men
+#meo
+#mep
+#meq
+#mer
+#mes
+#met
+#meu
+#mev
+#mew
+#mex
+#mey
+#mez
+#mfa
+#mfb
+#mfc
+#mfd
+#mfe
+#mff
+#mfg
+#mfh
+#mfj
+#mfi
+#mfk
+#mfl
+#mfm
+#mfn
+#mfo
+#mfp
+#mfq
+mfr	們
+#mfs
+#mft
+#mfu
+#mfv
+#mfw
+#mfx
+#mfy
+#mfz
+#mga
+#mgb
+#mgc
+#mgd
+#mge
+#mgf
+#mgg
+#mgh
+#mgj
+#mgi
+#mgk
+#mgl
+#mgm
+#mgn
+#mgo
+#mgp
+#mgq
+#mgr
+#mgs
+#mgt
+#mgu
+#mgv
+#mgw
+#mgx
+#mgy
+#mgz
+#mha
+#mhb
+#mhc
+#mhd
+#mhe
+#mhf
+#mhg
+#mhh
+#mhj
+#mhi
+#mhk
+#mhl
+#mhm
+#mhn
+#mho
+#mhp
+#mhq
+#mhr
+#mhs
+#mht
+#mhu
+#mhv
+#mhw
+#mhx
+#mhy
+#mhz
+#mja
+#mjb
+#mjc
+mjd	滿
+#mje
+#mjf
+#mjg
+#mjh
+#mjj
+#mji
+#mjk
+#mjl
+#mjm
+#mjn
+#mjo
+#mjp
+#mjq
+#mjr
+#mjs
+#mjt
+#mju
+#mjv
+#mjw
+#mjx
+#mjy
+#mjz
+#mia
+#mib
+#mic
+#mid
+#mie
+#mif
+#mig
+#mih
+#mij
+#mii
+#mik
+#mil
+#mim
+#min
+#mio
+#mip
+#miq
+#mir
+#mis
+#mit
+#miu
+#miv
+#miw
+#mix
+#miy
+#miz
+mka	矛
+#mkb
+#mkc
+#mkd
+#mke
+#mkf
+#mkg
+#mkh
+#mkj
+#mki
+#mkk
+mkl	凱
+mklq	鎧
+#mkm
+#mkn
+#mko
+mkp	毛
+#mkq
+#mkr
+#mks
+#mkt
+#mku
+#mkv
+#mkw
+#mkx
+#mky
+#mkz
+#mla
+#mlb
+#mlc
+#mld
+#mle
+#mlf
+#mlg
+#mlh
+#mlj
+#mli
+#mlk
+#mll
+#mlm
+#mln
+#mlo
+#mlp
+#mlq
+#mlr
+#mls
+#mlt
+#mlu
+#mlv
+#mlw
+#mlx
+#mly
+#mlz
+#mma
+#mmb
+#mmc
+#mmd
+#mme
+#mmf
+#mmg
+#mmh
+#mmj
+#mmi
+#mmk
+#mml
+#mmm
+#mmn
+#mmo
+#mmp
+#mmq
+#mmr
+#mms
+#mmt
+#mmu
+#mmv
+#mmw
+#mmx
+#mmy
+#mmz
+#mna
+#mnb
+#mnc
+#mnd
+#mne
+#mnf
+#mng
+#mnh
+#mnj
+#mni
+#mnk
+#mnl
+#mnm
+#mnn
+#mno
+#mnp
+#mnq
+#mnr
+#mns
+#mnt
+#mnu
+#mnv
+#mnw
+#mnx
+#mny
+#mnz
+moa	末
+#mob
+moc	莫
+#mod
+#moe
+mof	抹
+#mog
+moh	默
+#moj
+#moi
+#mok
+#mol
+mom	模
+#mon
+#moo
+#mop
+#moq
+#mor
+#mos
+mot	墨
+#mou
+#mov
+#mow
+#mox
+#moy
+#moz
+#mpa
+#mpb
+#mpc
+#mpd
+#mpe
+#mpf
+#mpg
+#mph
+#mpj
+#mpi
+#mpk
+#mpl
+#mpm
+#mpn
+#mpo
+#mpp
+#mpq
+#mpr
+#mps
+#mpt
+#mpu
+#mpv
+#mpw
+#mpx
+#mpy
+#mpz
+#mqa
+#mqb
+#mqc
+#mqd
+#mqe
+#mqf
+#mqg
+#mqh
+#mqj
+#mqi
+#mqk
+#mql
+#mqm
+#mqn
+#mqo
+#mqp
+#mqq
+#mqr
+#mqs
+#mqt
+#mqu
+#mqv
+#mqw
+#mqx
+#mqy
+#mqz
+#mra
+#mrb
+#mrc
+#mrd
+#mre
+#mrf
+#mrg
+#mrh
+#mrj
+#mri
+#mrk
+#mrl
+#mrm
+#mrn
+#mro
+#mrp
+#mrq
+#mrr
+#mrs
+#mrt
+#mru
+#mrv
+#mrw
+#mrx
+#mry
+#mrz
+#msa
+#msb
+#msc
+#msd
+#mse
+#msf
+#msg
+#msh
+#msj
+#msi
+#msk
+#msl
+#msm
+#msn
+#mso
+#msp
+#msq
+#msr
+#mss
+#mst
+msu	貌似是
+#msv
+#msw
+#msx
+#msy
+#msz
+#mta
+#mtb
+#mtc
+#mtd
+#mte
+#mtf
+#mtg
+#mth
+#mtj
+#mti
+#mtk
+#mtl
+#mtm
+#mtn
+#mto
+#mtp
+#mtq
+#mtr
+#mts
+#mtt
+#mtu
+#mtv
+#mtw
+#mtx
+#mty
+#mtz
+#mua
+#mub
+#muc
+#mud
+#mue
+#muf
+#mug
+#muh
+#muj
+#mui
+#muk
+#mul
+#mum
+#mun
+#muo
+#mup
+#muq
+#mur
+#mus
+#mut
+#muu
+#muv
+#muw
+#mux
+#muy
+#muz
+#mva
+#mvb
+#mvc
+#mvd
+#mve
+#mvf
+#mvg
+#mvh
+#mvj
+#mvi
+#mvk
+#mvl
+#mvm
+#mvn
+#mvo
+#mvp
+#mvq
+#mvr
+#mvs
+#mvt
+#mvu
+#mvv
+#mvw
+#mvx
+#mvy
+#mvz
+#mwa
+#mwb
+#mwc
+#mwd
+#mwe
+#mwf
+#mwg
+#mwh
+#mwj
+#mwi
+#mwk
+#mwl
+#mwm
+#mwn
+#mwo
+#mwp
+#mwq
+#mwr
+#mws
+#mwt
+#mwu
+#mwv
+#mww
+#mwx
+#mwy
+#mwz
+#mxa
+#mxb
+#mxc
+#mxd
+#mxe
+#mxf
+#mxg
+#mxh
+#mxj
+#mxi
+#mxk
+#mxl
+#mxm
+#mxn
+#mxo
+#mxp
+#mxq
+#mxr
+#mxs
+#mxt
+#mxu
+#mxv
+#mxw
+#mxx
+#mxy
+#mxz
+#mya
+#myb
+#myc
+#myd
+#mye
+#myf
+myg	每一個
+#myh
+#myj
+#myi
+#myk
+#myl
+#mym
+#myn
+myo	明
+#myp
+#myq
+#myr
+#mys
+#myt
+#myu
+#myv
+#myw
+#myx
+#myy
+#myz
+#mza
+#mzb
+#mzc
+#mzd
+#mze
+#mzf
+#mzg
+#mzh
+#mzj
+#mzi
+#mzk
+#mzl
+#mzm
+#mzn
+#mzo
+#mzp
+#mzq
+mzr	每
+#mzs
+#mzt
+mzu	眉
+#mzv
+#mzw
+#mzx
+mzy	美
+#mzz
+#naa
+#nab
+#nac
+#nad
+#nae
+#naf
+#nag
+#nah
+#naj
+#nai
+nak	哪
+nal	哪里
+nali	那里
+nam	那麼
+#nan
+#nao
+#nap
+#naq
+#nar
+#nas
+#nat
+nau	拿
+naui	那是
+nauio	那時
+#nav
+#naw
+#nax
+#nay
+#naz
+#nba
+#nbb
+#nbc
+#nbd
+#nbe
+#nbf
+#nbg
+#nbh
+#nbj
+#nbi
+#nbk
+#nbl
+#nbm
+nbn	能不能
+#nbo
+#nbp
+#nbq
+#nbr
+#nbs
+#nbt
+#nbu
+#nbv
+#nbw
+#nbx
+#nby
+#nbz
+#nca
+#ncb
+#ncc
+#ncd
+#nce
+#ncf
+#ncg
+#nch
+#ncj
+#nci
+#nck
+#ncl
+#ncm
+#ncn
+#nco
+#ncp
+#ncq
+#ncr
+#ncs
+#nct
+ncu	尿
+#ncv
+#ncw
+#ncx
+#ncy
+#ncz
+#nda
+#ndb
+#ndc
+#ndd
+#nde
+#ndf
+#ndg
+#ndh
+#ndj
+#ndi
+#ndk
+#ndl
+#ndm
+ndn	嬢
+#ndo
+#ndp
+#ndq
+#ndr
+#nds
+#ndt
+#ndu
+#ndv
+#ndw
+#ndx
+#ndy
+#ndz
+#nea
+#neb
+#nec
+#ned
+#nee
+#nef
+#neg
+#neh
+#nej
+#nei
+#nek
+#nel
+#nem
+#nen
+#neo
+#nep
+#neq
+#ner
+#nes
+#net
+#neu
+#nev
+#new
+#nex
+#ney
+#nez
+#nfa
+#nfb
+#nfc
+#nfd
+#nfe
+#nff
+#nfg
+#nfh
+#nfj
+#nfi
+#nfk
+#nfl
+#nfm
+#nfn
+#nfo
+#nfp
+#nfq
+#nfr
+#nfs
+#nft
+#nfu
+#nfv
+#nfw
+#nfx
+#nfy
+#nfz
+#nga
+#ngb
+#ngc
+#ngd
+#nge
+#ngf
+#ngg
+#ngh
+#ngj
+#ngi
+#ngk
+#ngl
+#ngm
+#ngn
+#ngo
+#ngp
+#ngq
+#ngr
+#ngs
+#ngt
+#ngu
+#ngv
+#ngw
+#ngx
+#ngy
+#ngz
+#nha
+#nhb
+#nhc
+#nhd
+#nhe
+#nhf
+#nhg
+#nhh
+#nhj
+#nhi
+#nhk
+#nhl
+#nhm
+#nhn
+#nho
+#nhp
+#nhq
+#nhr
+#nhs
+#nht
+#nhu
+#nhv
+#nhw
+#nhx
+#nhy
+#nhz
+#nja
+#njb
+#njc
+#njd
+#nje
+#njf
+#njg
+#njh
+#njj
+#nji
+#njk
+#njl
+#njm
+#njn
+#njo
+#njp
+#njq
+#njr
+#njs
+njt	男
+#nju
+#njv
+#njw
+#njx
+#njy
+#njz
+#nia
+#nib
+#nic
+#nid
+#nie
+nif	擬
+#nig
+#nih
+#nij
+#nii
+#nik
+#nil
+#nim
+#nin
+#nio
+#nip
+#niq
+#nir
+#nis
+#nit
+#niu
+#niv
+#niw
+#nix
+#niy
+#niz
+#nka
+#nkb
+#nkc
+#nkd
+#nke
+#nkf
+#nkg
+#nkh
+#nkj
+#nki
+#nkk
+#nkl
+#nkm
+#nkn
+nko	腦
+#nkp
+#nkq
+#nkr
+#nks
+#nkt
+#nku
+#nkv
+#nkw
+#nkx
+#nky
+#nkz
+#nla
+#nlb
+#nlc
+#nld
+#nle
+#nlf
+#nlg
+#nlh
+#nlj
+#nli
+#nlk
+#nll
+#nlm
+nln	奶
+#nlo
+#nlp
+#nlq
+#nlr
+#nls
+#nlt
+#nlu
+#nlv
+#nlw
+#nlx
+#nly
+#nlz
+#nma
+#nmb
+#nmc
+#nmd
+#nme
+#nmf
+#nmg
+#nmh
+#nmj
+#nmi
+nmk	唸
+#nml
+#nmm
+#nmn
+#nmo
+#nmp
+#nmq
+#nmr
+#nms
+#nmt
+#nmu
+#nmv
+#nmw
+nmx	念
+#nmy
+#nmz
+#nna
+#nnb
+#nnc
+#nnd
+#nne
+nnf	拰
+#nng
+#nnh
+#nnj
+#nni
+#nnk
+#nnl
+#nnm
+#nnn
+#nno
+#nnp
+#nnq
+#nnr
+#nns
+#nnt
+#nnu
+#nnv
+#nnw
+#nnx
+#nny
+#nnz
+#noa
+#nob
+#noc
+#nod
+#noe
+nof	搦
+#nog
+#noh
+#noj
+#noi
+#nok
+#nol
+#nom
+#non
+#noo
+#nop
+#noq
+#nor
+#nos
+#not
+#nou
+#nov
+#now
+#nox
+noy	諾
+#noz
+#npa
+#npb
+#npc
+#npd
+#npe
+#npf
+#npg
+#nph
+#npj
+#npi
+#npk
+#npl
+#npm
+#npn
+#npo
+#npp
+#npq
+#npr
+#nps
+#npt
+#npu
+#npv
+#npw
+#npx
+#npy
+#npz
+#nqa
+#nqb
+#nqc
+#nqd
+#nqe
+#nqf
+#nqg
+#nqh
+#nqj
+#nqi
+#nqk
+#nql
+#nqm
+#nqn
+#nqo
+#nqp
+#nqq
+#nqr
+#nqs
+#nqt
+#nqu
+#nqv
+#nqw
+#nqx
+#nqy
+#nqz
+#nra
+#nrb
+#nrc
+#nrd
+#nre
+#nrf
+#nrg
+#nrh
+#nrj
+#nri
+#nrk
+#nrl
+#nrm
+#nrn
+#nro
+#nrp
+#nrq
+#nrr
+#nrs
+#nrt
+#nru
+#nrv
+nrw	你認爲
+#nrx
+#nry
+#nrz
+#nsa
+#nsb
+#nsc
+#nsd
+#nse
+#nsf
+#nsg
+#nsh
+#nsj
+#nsi
+#nsk
+#nsl
+#nsm
+#nsn
+#nso
+#nsp
+nsq	農
+#nsr
+#nss
+#nst
+#nsu
+#nsv
+#nsw
+#nsx
+#nsy
+#nsz
+#nta
+#ntb
+#ntc
+#ntd
+#nte
+#ntf
+#ntg
+#nth
+#ntj
+#nti
+#ntk
+#ntl
+#ntm
+#ntn
+#nto
+#ntp
+#ntq
+#ntr
+#nts
+#ntt
+#ntu
+#ntv
+#ntw
+#ntx
+#nty
+#ntz
+#nua
+#nub
+#nuc
+#nud
+#nue
+#nuf
+#nug
+#nuh
+#nuj
+#nui
+#nuk
+#nul
+#num
+#nun
+#nuo
+#nup
+#nuq
+#nur
+#nus
+#nut
+#nuu
+#nuv
+#nuw
+#nux
+#nuy
+#nuz
+#nva
+#nvb
+#nvc
+#nvd
+#nve
+#nvf
+#nvg
+#nvh
+#nvj
+#nvi
+#nvk
+#nvl
+#nvm
+#nvn
+#nvo
+#nvp
+#nvq
+#nvr
+#nvs
+#nvt
+#nvu
+#nvv
+#nvw
+#nvx
+#nvy
+#nvz
+#nwa
+#nwb
+#nwc
+#nwd
+#nwe
+#nwf
+#nwg
+#nwh
+#nwj
+#nwi
+#nwk
+#nwl
+#nwm
+#nwn
+#nwo
+#nwp
+#nwq
+#nwr
+#nws
+#nwt
+#nwu
+#nwv
+#nww
+#nwx
+#nwy
+#nwz
+#nxa
+#nxb
+#nxc
+#nxd
+#nxe
+#nxf
+#nxg
+#nxh
+#nxj
+#nxi
+#nxk
+#nxl
+#nxm
+#nxn
+#nxo
+#nxp
+#nxq
+#nxr
+#nxs
+#nxt
+#nxu
+#nxv
+#nxw
+#nxx
+#nxy
+#nxz
+#nya
+#nyb
+#nyc
+#nyd
+#nye
+#nyf
+#nyg
+#nyh
+#nyj
+#nyi
+#nyk
+#nyl
+#nym
+#nyn
+#nyo
+#nyp
+#nyq
+#nyr
+#nys
+#nyt
+#nyu
+#nyv
+#nyw
+#nyx
+#nyy
+#nyz
+#nza
+#nzb
+#nzc
+#nzd
+#nze
+#nzf
+#nzg
+#nzh
+#nzj
+#nzi
+#nzk
+#nzl
+#nzm
+#nzn
+#nzo
+#nzp
+#nzq
+#nzr
+#nzs
+#nzt
+#nzu
+#nzv
+#nzw
+#nzx
+#nzy
+#nzz
+#oaa
+#oab
+#oac
+#oad
+#oae
+#oaf
+#oag
+#oah
+#oaj
+#oai
+#oak
+#oal
+#oam
+#oan
+#oao
+#oap
+#oaq
+#oar
+#oas
+#oat
+#oau
+#oav
+#oaw
+#oax
+#oay
+#oaz
+#oba
+#obb
+#obc
+#obd
+#obe
+#obf
+#obg
+#obh
+#obj
+#obi
+#obk
+#obl
+#obm
+#obn
+#obo
+#obp
+#obq
+#obr
+#obs
+#obt
+#obu
+#obv
+#obw
+#obx
+#oby
+#obz
+#oca
+#ocb
+#occ
+#ocd
+#oce
+#ocf
+#ocg
+#och
+#ocj
+#oci
+#ock
+#ocl
+#ocm
+#ocn
+#oco
+#ocp
+#ocq
+#ocr
+#ocs
+#oct
+#ocu
+#ocv
+#ocw
+#ocx
+#ocy
+#ocz
+#oda
+#odb
+#odc
+#odd
+#ode
+#odf
+#odg
+#odh
+#odj
+#odi
+#odk
+#odl
+#odm
+#odn
+#odo
+#odp
+#odq
+#odr
+#ods
+#odt
+#odu
+#odv
+#odw
+#odx
+#ody
+#odz
+#oea
+#oeb
+#oec
+#oed
+#oee
+#oef
+#oeg
+#oeh
+#oej
+#oei
+#oek
+#oel
+#oem
+#oen
+#oeo
+#oep
+#oeq
+#oer
+#oes
+#oet
+#oeu
+#oev
+#oew
+#oex
+#oey
+#oez
+#ofa
+#ofb
+#ofc
+#ofd
+#ofe
+#off
+#ofg
+#ofh
+#ofj
+#ofi
+#ofk
+#ofl
+#ofm
+#ofn
+#ofo
+#ofp
+#ofq
+#ofr
+#ofs
+#oft
+#ofu
+#ofv
+#ofw
+#ofx
+#ofy
+#ofz
+#oga
+#ogb
+#ogc
+#ogd
+#oge
+#ogf
+#ogg
+#ogh
+#ogj
+#ogi
+#ogk
+#ogl
+#ogm
+#ogn
+#ogo
+#ogp
+#ogq
+#ogr
+#ogs
+#ogt
+#ogu
+#ogv
+#ogw
+#ogx
+#ogy
+#ogz
+#oha
+#ohb
+#ohc
+#ohd
+#ohe
+#ohf
+#ohg
+#ohh
+#ohj
+#ohi
+#ohk
+#ohl
+#ohm
+#ohn
+#oho
+#ohp
+#ohq
+#ohr
+#ohs
+#oht
+#ohu
+#ohv
+#ohw
+#ohx
+#ohy
+#ohz
+#oja
+#ojb
+#ojc
+#ojd
+#oje
+#ojf
+#ojg
+#ojh
+#ojj
+#oji
+#ojk
+#ojl
+#ojm
+#ojn
+#ojo
+#ojp
+#ojq
+#ojr
+#ojs
+#ojt
+#oju
+#ojv
+#ojw
+#ojx
+#ojy
+#ojz
+#oia
+#oib
+#oic
+#oid
+#oie
+#oif
+#oig
+#oih
+#oij
+#oii
+#oik
+#oil
+#oim
+#oin
+#oio
+#oip
+#oiq
+#oir
+#ois
+#oit
+#oiu
+#oiv
+#oiw
+#oix
+#oiy
+#oiz
+#oka
+#okb
+#okc
+#okd
+#oke
+#okf
+#okg
+#okh
+#okj
+#oki
+#okk
+#okl
+#okm
+#okn
+#oko
+#okp
+#okq
+#okr
+#oks
+#okt
+#oku
+#okv
+#okw
+#okx
+#oky
+#okz
+#ola
+#olb
+#olc
+#old
+#ole
+#olf
+#olg
+#olh
+#olj
+#oli
+#olk
+#oll
+#olm
+#oln
+#olo
+#olp
+#olq
+#olr
+#ols
+#olt
+#olu
+#olv
+#olw
+#olx
+#oly
+#olz
+#oma
+#omb
+#omc
+#omd
+#ome
+#omf
+#omg
+#omh
+#omj
+#omi
+#omk
+#oml
+#omm
+#omn
+#omo
+#omp
+#omq
+#omr
+#oms
+#omt
+#omu
+#omv
+#omw
+#omx
+#omy
+#omz
+#ona
+#onb
+#onc
+#ond
+#one
+#onf
+#ong
+#onh
+#onj
+#oni
+#onk
+#onl
+#onm
+#onn
+#ono
+#onp
+#onq
+#onr
+#ons
+#ont
+#onu
+#onv
+#onw
+#onx
+#ony
+#onz
+#ooa
+#oob
+#ooc
+#ood
+#ooe
+#oof
+#oog
+#ooh
+#ooj
+#ooi
+#ook
+#ool
+#oom
+#oon
+#ooo
+#oop
+#ooq
+#oor
+#oos
+#oot
+#oou
+#oov
+#oow
+#oox
+#ooy
+#ooz
+#opa
+#opb
+#opc
+#opd
+#ope
+#opf
+#opg
+#oph
+#opj
+#opi
+#opk
+#opl
+#opm
+#opn
+#opo
+#opp
+#opq
+#opr
+#ops
+#opt
+#opu
+#opv
+#opw
+#opx
+#opy
+#opz
+#oqa
+#oqb
+#oqc
+#oqd
+#oqe
+#oqf
+#oqg
+#oqh
+#oqj
+#oqi
+#oqk
+#oql
+#oqm
+#oqn
+#oqo
+#oqp
+#oqq
+#oqr
+#oqs
+#oqt
+#oqu
+#oqv
+#oqw
+#oqx
+#oqy
+#oqz
+#ora
+#orb
+#orc
+#ord
+#ore
+#orf
+#org
+#orh
+#orj
+#ori
+#ork
+#orl
+#orm
+#orn
+#oro
+#orp
+#orq
+#orr
+#ors
+#ort
+#oru
+#orv
+#orw
+#orx
+#ory
+#orz
+#osa
+#osb
+#osc
+#osd
+#ose
+#osf
+#osg
+#osh
+#osj
+#osi
+#osk
+#osl
+#osm
+#osn
+#oso
+#osp
+#osq
+#osr
+#oss
+#ost
+#osu
+#osv
+#osw
+#osx
+#osy
+#osz
+#ota
+#otb
+#otc
+#otd
+#ote
+#otf
+#otg
+#oth
+#otj
+#oti
+#otk
+#otl
+#otm
+#otn
+#oto
+#otp
+#otq
+#otr
+#ots
+#ott
+#otu
+#otv
+#otw
+#otx
+#oty
+#otz
+#oua
+#oub
+#ouc
+#oud
+#oue
+#ouf
+#oug
+#ouh
+#ouj
+#oui
+#ouk
+#oul
+#oum
+#oun
+#ouo
+#oup
+#ouq
+#our
+#ous
+#out
+#ouu
+#ouv
+#ouw
+#oux
+#ouy
+#ouz
+#ova
+#ovb
+#ovc
+#ovd
+#ove
+#ovf
+#ovg
+#ovh
+#ovj
+#ovi
+#ovk
+#ovl
+#ovm
+#ovn
+#ovo
+#ovp
+#ovq
+#ovr
+#ovs
+#ovt
+#ovu
+#ovv
+#ovw
+#ovx
+#ovy
+#ovz
+#owa
+#owb
+#owc
+#owd
+#owe
+#owf
+#owg
+#owh
+#owj
+#owi
+#owk
+#owl
+#owm
+#own
+#owo
+#owp
+#owq
+#owr
+#ows
+#owt
+#owu
+#owv
+#oww
+#owx
+#owy
+#owz
+#oxa
+#oxb
+#oxc
+#oxd
+#oxe
+#oxf
+#oxg
+#oxh
+#oxj
+#oxi
+#oxk
+#oxl
+#oxm
+#oxn
+#oxo
+#oxp
+#oxq
+#oxr
+#oxs
+#oxt
+#oxu
+#oxv
+#oxw
+#oxx
+#oxy
+#oxz
+#oya
+#oyb
+#oyc
+#oyd
+#oye
+#oyf
+#oyg
+#oyh
+#oyj
+#oyi
+#oyk
+#oyl
+#oym
+#oyn
+#oyo
+#oyp
+#oyq
+#oyr
+#oys
+#oyt
+#oyu
+#oyv
+#oyw
+#oyx
+#oyy
+#oyz
+#oza
+#ozb
+#ozc
+#ozd
+#oze
+#ozf
+#ozg
+#ozh
+#ozj
+#ozi
+#ozk
+#ozl
+#ozm
+#ozn
+#ozo
+#ozp
+#ozq
+#ozr
+#ozs
+#ozt
+#ozu
+#ozv
+#ozw
+#ozx
+#ozy
+#ozz
+#paa
+#pab
+#pac
+#pad
+#pae
+#paf
+#pag
+#pah
+#paj
+#pai
+#pak
+#pal
+#pam
+#pan
+#pao
+#pap
+#paq
+#par
+#pas
+#pat
+#pau
+#pav
+#paw
+#pax
+#pay
+#paz
+#pba
+#pbb
+#pbc
+#pbd
+#pbe
+#pbf
+#pbg
+#pbh
+#pbj
+#pbi
+#pbk
+#pbl
+#pbm
+#pbn
+#pbo
+#pbp
+#pbq
+#pbr
+#pbs
+#pbt
+pbu	怕不是
+#pbv
+#pbw
+#pbx
+#pby
+#pbz
+#pca
+#pcb
+#pcc
+#pcd
+#pce
+pcf	飄
+#pcg
+#pch
+#pcj
+#pci
+#pck
+#pcl
+#pcm
+#pcn
+#pco
+#pcp
+#pcq
+#pcr
+#pcs
+#pct
+#pcu
+#pcv
+#pcw
+#pcx
+#pcy
+#pcz
+#pda
+#pdb
+#pdc
+#pdd
+#pde
+#pdf
+#pdg
+#pdh
+#pdj
+#pdi
+#pdk
+#pdl
+#pdm
+#pdn
+#pdo
+#pdp
+#pdq
+#pdr
+#pds
+#pdt
+#pdu
+#pdv
+#pdw
+#pdx
+#pdy
+#pdz
+#pea
+#peb
+#pec
+#ped
+#pee
+#pef
+#peg
+#peh
+#pej
+#pei
+#pek
+#pel
+#pem
+#pen
+#peo
+#pep
+#peq
+#per
+#pes
+#pet
+#peu
+#pev
+#pew
+#pex
+#pey
+#pez
+#pfa
+#pfb
+#pfc
+#pfd
+#pfe
+#pff
+#pfg
+#pfh
+#pfj
+#pfi
+#pfk
+#pfl
+pfm	盆
+#pfn
+#pfo
+#pfp
+#pfq
+#pfr
+#pfs
+#pft
+#pfu
+#pfv
+#pfw
+#pfx
+#pfy
+#pfz
+#pga
+#pgb
+#pgc
+#pgd
+#pge
+#pgf
+#pgg
+#pgh
+#pgj
+#pgi
+#pgk
+#pgl
+#pgm
+#pgn
+#pgo
+#pgp
+#pgq
+#pgr
+#pgs
+#pgt
+#pgu
+#pgv
+#pgw
+#pgx
+#pgy
+#pgz
+#pha
+#phb
+#phc
+#phd
+#phe
+#phf
+#phg
+#phh
+#phj
+#phi
+#phk
+#phl
+#phm
+#phn
+#pho
+#php
+#phq
+#phr
+#phs
+#pht
+#phu
+#phv
+#phw
+#phx
+#phy
+#phz
+#pja
+#pjb
+#pjc
+#pjd
+#pje
+#pjf
+#pjg
+#pjh
+#pjj
+#pji
+#pjk
+#pjl
+#pjm
+#pjn
+#pjo
+#pjp
+#pjq
+#pjr
+#pjs
+#pjt
+#pju
+#pjv
+#pjw
+#pjx
+#pjy
+#pjz
+#pia
+#pib
+#pic
+#pid
+#pie
+#pif
+#pig
+#pih
+#pij
+#pii
+#pik
+#pil
+#pim
+#pin
+#pio
+#pip
+#piq
+#pir
+#pis
+#pit
+#piu
+#piv
+#piw
+#pix
+#piy
+#piz
+#pka
+#pkb
+#pkc
+#pkd
+#pke
+#pkf
+#pkg
+#pkh
+#pkj
+#pki
+#pkk
+#pkl
+#pkm
+#pkn
+#pko
+#pkp
+#pkq
+#pkr
+#pks
+#pkt
+#pku
+#pkv
+#pkw
+#pkx
+#pky
+#pkz
+#pla
+#plb
+#plc
+#pld
+#ple
+#plf
+#plg
+#plh
+#plj
+#pli
+#plk
+#pll
+#plm
+#pln
+#plo
+#plp
+plpl	噼里啪啦
+#plq
+#plr
+#pls
+#plt
+#plu
+#plv
+#plw
+#plx
+#ply
+#plz
+#pma
+#pmb
+#pmc
+#pmd
+#pme
+#pmf
+#pmg
+#pmh
+#pmj
+#pmi
+#pmk
+#pml
+#pmm
+#pmn
+#pmo
+#pmp
+#pmq
+#pmr
+#pms
+#pmt
+#pmu
+#pmv
+#pmw
+#pmx
+#pmy
+#pmz
+#pna
+#pnb
+#pnc
+#pnd
+#pne
+#pnf
+#png
+#pnh
+#pnj
+#pni
+#pnk
+#pnl
+#pnm
+#pnn
+#pno
+#pnp
+#pnq
+#pnr
+#pns
+#pnt
+#pnu
+#pnv
+#pnw
+#pnx
+#pny
+#pnz
+#poa
+#pob
+#poc
+#pod
+#poe
+#pof
+#pog
+#poh
+#poj
+#poi
+#pok
+#pol
+#pom
+#pon
+#poo
+#pop
+#poq
+#por
+#pos
+#pot
+#pou
+#pov
+#pow
+#pox
+#poy
+#poz
+#ppa
+#ppb
+#ppc
+#ppd
+#ppe
+#ppf
+#ppg
+#pph
+#ppj
+#ppi
+#ppk
+#ppl
+#ppm
+#ppn
+#ppo
+pppp	噼噼啪啪
+#ppq
+#ppr
+#pps
+#ppt
+#ppu
+#ppv
+#ppw
+#ppx
+#ppy
+#ppz
+#pqa
+#pqb
+#pqc
+#pqd
+#pqe
+#pqf
+#pqg
+#pqh
+#pqj
+#pqi
+#pqk
+#pql
+#pqm
+#pqn
+#pqo
+#pqp
+#pqq
+#pqr
+#pqs
+#pqt
+#pqu
+#pqv
+#pqw
+#pqx
+#pqy
+#pqz
+#pra
+#prb
+#prc
+#prd
+#pre
+#prf
+#prg
+#prh
+#prj
+#pri
+#prk
+#prl
+#prm
+#prn
+#pro
+#prp
+#prq
+#prr
+#prs
+#prt
+#pru
+#prv
+#prw
+#prx
+#pry
+#prz
+#psa
+#psb
+#psc
+#psd
+#pse
+#psf
+#psg
+#psh
+#psj
+#psi
+#psk
+#psl
+psm	憑什麼
+#psn
+#pso
+#psp
+#psq
+#psr
+#pss
+#pst
+#psu
+#psv
+#psw
+#psx
+#psy
+#psz
+#pta
+#ptb
+#ptc
+#ptd
+#pte
+#ptf
+#ptg
+#pth
+#ptj
+#pti
+#ptk
+#ptl
+#ptm
+#ptn
+#pto
+#ptp
+#ptq
+#ptr
+#pts
+#ptt
+#ptu
+#ptv
+#ptw
+#ptx
+#pty
+#ptz
+#pua
+#pub
+#puc
+#pud
+#pue
+#puf
+#pug
+#puh
+#puj
+#pui
+puk	噗
+#pul
+#pum
+#pun
+#puo
+#pup
+#puq
+#pur
+#pus
+#put
+#puu
+#puv
+#puw
+#pux
+#puy
+#puz
+#pva
+#pvb
+#pvc
+#pvd
+#pve
+#pvf
+#pvg
+#pvh
+#pvj
+#pvi
+#pvk
+#pvl
+#pvm
+#pvn
+#pvo
+#pvp
+#pvq
+#pvr
+#pvs
+#pvt
+#pvu
+#pvv
+#pvw
+#pvx
+#pvy
+#pvz
+#pwa
+#pwb
+#pwc
+#pwd
+#pwe
+#pwf
+#pwg
+#pwh
+#pwj
+#pwi
+#pwk
+#pwl
+#pwm
+#pwn
+#pwo
+#pwp
+#pwq
+#pwr
+#pws
+#pwt
+#pwu
+#pwv
+#pww
+#pwx
+#pwy
+#pwz
+#pxa
+#pxb
+#pxc
+#pxd
+#pxe
+#pxf
+#pxg
+#pxh
+#pxj
+#pxi
+#pxk
+#pxl
+#pxm
+#pxn
+#pxo
+#pxp
+#pxq
+#pxr
+#pxs
+#pxt
+#pxu
+#pxv
+#pxw
+#pxx
+#pxy
+#pxz
+#pya
+#pyb
+#pyc
+#pyd
+#pye
+#pyf
+#pyg
+#pyh
+#pyj
+#pyi
+#pyk
+#pyl
+#pym
+#pyn
+#pyo
+#pyp
+#pyq
+#pyr
+#pys
+#pyt
+#pyu
+#pyv
+#pyw
+#pyx
+#pyy
+#pyz
+#pza
+pzb	賠
+#pzc
+#pzd
+#pze
+#pzf
+#pzg
+#pzh
+#pzj
+#pzi
+#pzk
+#pzl
+#pzm
+#pzn
+#pzo
+#pzp
+#pzq
+#pzr
+#pzs
+#pzt
+#pzu
+#pzv
+#pzw
+#pzx
+#pzy
+#pzz
+#qaa
+#qab
+#qac
+qad	親愛的
+#qae
+#qaf
+#qag
+#qah
+#qaj
+#qai
+#qak
+#qal
+#qam
+#qan
+#qao
+#qap
+#qaq
+#qar
+#qas
+#qat
+#qau
+#qav
+#qaw
+#qax
+#qay
+#qaz
+#qba
+#qbb
+#qbc
+#qbd
+#qbe
+#qbf
+#qbg
+#qbh
+#qbj
+#qbi
+#qbk
+#qbl
+#qbm
+#qbn
+#qbo
+#qbp
+#qbq
+#qbr
+#qbs
+qbt	千比特
+#qbu
+#qbv
+#qbw
+#qbx
+#qby
+#qbz
+#qca
+#qcb
+#qcc
+#qcd
+#qce
+#qcf
+#qcg
+#qch
+#qcj
+#qci
+#qck
+#qcl
+qcm	橋
+#qcn
+qco	瞧
+#qcp
+#qcq
+#qcr
+#qcs
+#qct
+#qcu
+#qcv
+#qcw
+#qcx
+#qcy
+#qcz
+#qda
+#qdb
+#qdc
+#qdd
+#qde
+#qdf
+#qdg
+#qdh
+#qdj
+#qdi
+#qdk
+#qdl
+#qdm
+#qdn
+#qdo
+#qdp
+#qdq
+#qdr
+#qds
+#qdt
+#qdu
+#qdv
+#qdw
+#qdx
+#qdy
+#qdz
+#qea
+#qeb
+#qec
+#qed
+#qee
+#qef
+#qeg
+#qeh
+#qej
+#qei
+#qek
+#qel
+#qem
+#qen
+#qeo
+#qep
+#qeq
+#qer
+#qes
+#qet
+#qeu
+#qev
+#qew
+#qex
+#qey
+#qez
+#qfa
+#qfb
+#qfc
+#qfd
+#qfe
+#qff
+#qfg
+#qfh
+#qfj
+#qfi
+#qfk
+#qfl
+#qfm
+#qfn
+#qfo
+#qfp
+#qfq
+#qfr
+#qfs
+#qft
+#qfu
+#qfv
+#qfw
+#qfx
+#qfy
+#qfz
+#qga
+#qgb
+#qgc
+#qgd
+#qge
+#qgf
+#qgg
+#qgh
+#qgj
+#qgi
+#qgk
+#qgl
+#qgm
+#qgn
+#qgo
+#qgp
+#qgq
+#qgr
+#qgs
+#qgt
+#qgu
+#qgv
+#qgw
+#qgx
+#qgy
+#qgz
+#qha
+#qhb
+#qhc
+#qhd
+#qhe
+#qhf
+#qhg
+#qhh
+#qhj
+#qhi
+#qhk
+#qhl
+#qhm
+#qhn
+#qho
+#qhp
+#qhq
+#qhr
+#qhs
+#qht
+#qhu
+#qhv
+#qhw
+#qhx
+#qhy
+#qhz
+#qja
+#qjb
+#qjc
+#qjd
+#qje
+#qjf
+#qjg
+#qjh
+#qjj
+#qji
+#qjk
+#qjl
+#qjm
+#qjn
+#qjo
+#qjp
+#qjq
+#qjr
+#qjs
+#qjt
+#qju
+#qjv
+#qjw
+#qjx
+#qjy
+#qjz
+#qia
+qib	其
+#qic
+qid	奇
+#qie
+#qif
+#qig
+qih	其
+#qij
+#qii
+qik	器
+#qil
+qim	騎
+qimq	棋
+#qin
+qio	期
+qip	气
+qiq	氣
+qir	乞
+qir	企
+#qis
+#qit
+qiu	豈
+#qiv
+qiw	棄
+#qix
+qiy	訖
+qiz	起
+#qka
+#qkb
+#qkc
+#qkd
+#qke
+#qkf
+#qkg
+#qkh
+#qkj
+#qki
+#qkk
+#qkl
+#qkm
+#qkn
+#qko
+#qkp
+#qkq
+#qkr
+#qks
+#qkt
+#qku
+#qkv
+#qkw
+#qkx
+#qky
+#qkz
+#qla
+#qlb
+#qlc
+#qld
+#qle
+#qlf
+#qlg
+#qlh
+#qlj
+#qli
+#qlk
+#qll
+#qlm
+#qln
+#qlo
+#qlp
+#qlq
+#qlr
+#qls
+#qlt
+#qlu
+#qlv
+#qlw
+#qlx
+#qly
+#qlz
+#qma
+#qmb
+#qmc
+qmd	淺
+qmd	欠
+qmd	潛
+#qme
+#qmf
+#qmg
+#qmh
+#qmj
+#qmi
+#qmk
+#qml
+#qmm
+#qmn
+#qmo
+#qmp
+#qmq
+#qmr
+#qms
+#qmt
+#qmu
+#qmv
+#qmw
+#qmx
+#qmy
+#qmz
+#qna
+#qnb
+#qnc
+#qnd
+#qne
+#qnf
+#qng
+#qnh
+#qnj
+#qni
+#qnk
+#qnl
+#qnm
+#qnn
+#qno
+#qnp
+#qnq
+#qnr
+#qns
+#qnt
+#qnu
+#qnv
+#qnw
+#qnx
+#qny
+#qnz
+#qoa
+#qob
+#qoc
+#qod
+#qoe
+#qof
+#qog
+#qoh
+#qoj
+#qoi
+#qok
+#qol
+#qom
+#qon
+#qoo
+#qop
+#qoq
+#qor
+#qos
+#qot
+#qou
+#qov
+#qow
+#qox
+#qoy
+#qoz
+#qpa
+#qpb
+#qpc
+#qpd
+#qpe
+#qpf
+#qpg
+#qph
+#qpj
+#qpi
+#qpk
+#qpl
+#qpm
+#qpn
+#qpo
+#qpp
+#qpq
+#qpr
+#qps
+#qpt
+#qpu
+#qpv
+#qpw
+#qpx
+qpy	裙
+#qpz
+#qqa
+#qqb
+#qqc
+#qqd
+#qqe
+#qqf
+#qqg
+#qqh
+#qqj
+#qqi
+#qqk
+#qql
+#qqm
+#qqn
+#qqo
+#qqp
+#qqq
+#qqr
+#qqs
+#qqt
+#qqu
+#qqv
+qqw	球
+#qqx
+#qqy
+#qqz
+#qra
+#qrb
+#qrc
+qrd	犬
+#qre
+#qrf
+#qrg
+#qrh
+#qrj
+#qri
+#qrk
+#qrl
+#qrm
+#qrn
+#qro
+#qrp
+#qrq
+#qrr
+#qrs
+#qrt
+#qru
+#qrv
+#qrw
+#qrx
+#qry
+#qrz
+#qsa
+#qsb
+#qsc
+#qsd
+#qse
+#qsf
+#qsg
+#qsh
+#qsj
+#qsi
+#qsk
+#qsl
+#qsm
+#qsn
+#qso
+#qsp
+#qsq
+#qsr
+#qss
+#qst
+#qsu
+#qsv
+#qsw
+#qsx
+#qsy
+#qsz
+#qta
+#qtb
+#qtc
+#qtd
+#qte
+#qtf
+#qtg
+#qth
+#qtj
+#qti
+#qtk
+#qtl
+#qtm
+#qtn
+#qto
+#qtp
+#qtq
+#qtr
+#qts
+#qtt
+#qtu
+#qtv
+#qtw
+#qtx
+#qty
+#qtz
+#qua
+#qub
+#quc
+#qud
+#que
+#quf
+#qug
+#quh
+#quj
+#qui
+quk	區
+#qul
+#qum
+#qun
+#quo
+#qup
+#quq
+#qur
+#qus
+#qut
+#quu
+#quv
+#quw
+#qux
+#quy
+#quz
+#qva
+#qvb
+#qvc
+#qvd
+#qve
+#qvf
+#qvg
+#qvh
+#qvj
+#qvi
+#qvk
+#qvl
+#qvm
+#qvn
+#qvo
+#qvp
+#qvq
+#qvr
+#qvs
+#qvt
+#qvu
+#qvv
+#qvw
+#qvx
+#qvy
+#qvz
+#qwa
+#qwb
+#qwc
+#qwd
+#qwe
+#qwf
+#qwg
+#qwh
+#qwj
+#qwi
+#qwk
+#qwl
+#qwm
+#qwn
+#qwo
+#qwp
+#qwq
+#qwr
+#qws
+#qwt
+#qwu
+#qwv
+#qww
+#qwx
+#qwy
+#qwz
+#qxa
+#qxb
+#qxc
+#qxd
+#qxe
+#qxf
+#qxg
+#qxh
+#qxj
+#qxi
+#qxk
+#qxl
+#qxm
+#qxn
+#qxo
+#qxp
+#qxq
+#qxr
+#qxs
+#qxt
+#qxu
+#qxv
+#qxw
+#qxx
+#qxy
+#qxz
+#qya
+#qyb
+#qyc
+qyd	清
+#qye
+#qyf
+#qyg
+#qyh
+#qyj
+#qyi
+#qyk
+#qyl
+#qym
+#qyn
+#qyo
+#qyp
+#qyq
+#qyr
+#qys
+#qyt
+#qyu
+#qyv
+qyw	竊以爲
+#qyx
+#qyy
+#qyz
+#qza
+#qzb
+#qzc
+qzd	全自動
+#qze
+#qzf
+#qzg
+#qzh
+#qzj
+#qzi
+#qzk
+#qzl
+#qzm
+#qzn
+#qzo
+#qzp
+#qzq
+#qzr
+#qzs
+#qzt
+#qzu
+#qzv
+#qzw
+#qzx
+#qzy
+#qzz
+#raa
+#rab
+#rac
+#rad
+#rae
+#raf
+#rag
+#rah
+#raj
+#rai
+#rak
+#ral
+#ram
+#ran
+#rao
+#rap
+#raq
+#rar
+#ras
+#rat
+#rau
+#rav
+#raw
+#rax
+#ray
+#raz
+#rba
+#rbb
+#rbc
+#rbd
+#rbe
+#rbf
+#rbg
+#rbh
+#rbj
+#rbi
+#rbk
+#rbl
+#rbm
+#rbn
+#rbo
+#rbp
+#rbq
+#rbr
+#rbs
+#rbt
+#rbu
+#rbv
+#rbw
+#rbx
+#rby
+#rbz
+#rca
+#rcb
+#rcc
+#rcd
+#rce
+#rcf
+#rcg
+#rch
+#rcj
+#rci
+#rck
+#rcl
+#rcm
+#rcn
+#rco
+#rcp
+#rcq
+#rcr
+#rcs
+#rct
+#rcu
+#rcv
+#rcw
+#rcx
+#rcy
+#rcz
+#rda
+#rdb
+#rdc
+#rdd
+#rde
+#rdf
+#rdg
+#rdh
+#rdj
+#rdi
+#rdk
+#rdl
+#rdm
+#rdn
+#rdo
+#rdp
+#rdq
+#rdr
+#rds
+#rdt
+#rdu
+#rdv
+#rdw
+#rdx
+#rdy
+#rdz
+#rea
+#reb
+#rec
+#red
+#ree
+#ref
+#reg
+#reh
+#rej
+#rei
+#rek
+#rel
+#rem
+#ren
+#reo
+#rep
+#req
+#rer
+#res
+#ret
+#reu
+#rev
+#rew
+#rex
+#rey
+#rez
+#rfa
+#rfb
+#rfc
+#rfd
+#rfe
+#rff
+#rfg
+#rfh
+#rfj
+#rfi
+#rfk
+#rfl
+#rfm
+#rfn
+#rfo
+rfp	壬
+#rfq
+#rfr
+#rfs
+#rft
+#rfu
+#rfv
+#rfw
+#rfx
+#rfy
+#rfz
+#rga
+#rgb
+#rgc
+#rgd
+#rge
+#rgf
+#rgg
+#rgh
+#rgj
+#rgi
+#rgk
+#rgl
+#rgm
+#rgn
+#rgo
+#rgp
+#rgq
+rgr	仍
+#rgs
+#rgt
+#rgu
+#rgv
+rgvn	人工智能
+#rgw
+#rgx
+#rgy
+#rgz
+#rha
+#rhb
+#rhc
+#rhd
+#rhe
+#rhf
+#rhg
+#rhh
+#rhj
+#rhi
+#rhk
+#rhl
+#rhm
+#rhn
+#rho
+#rhp
+#rhq
+#rhr
+#rhs
+#rht
+#rhu
+#rhv
+#rhw
+#rhx
+#rhy
+#rhz
+#rja
+#rjb
+#rjc
+#rjd
+#rje
+#rjf
+#rjg
+#rjh
+#rjj
+#rji
+#rjk
+#rjl
+#rjm
+#rjn
+#rjo
+#rjp
+#rjq
+#rjr
+#rjs
+#rjt
+#rju
+#rjv
+#rjw
+#rjx
+#rjy
+#rjz
+#ria
+#rib
+#ric
+#rid
+#rie
+#rif
+#rig
+#rih
+#rij
+#rii
+#rik
+#ril
+#rim
+#rin
+#rio
+#rip
+#riq
+#rir
+#ris
+#rit
+#riu
+#riv
+#riw
+#rix
+#riy
+#riz
+#rka
+#rkb
+#rkc
+#rkd
+#rke
+#rkf
+#rkg
+#rkh
+#rkj
+#rki
+#rkk
+#rkl
+#rkm
+#rkn
+#rko
+#rkp
+#rkq
+#rkr
+#rks
+#rkt
+#rku
+#rkv
+#rkw
+#rkx
+#rky
+#rkz
+#rla
+#rlb
+#rlc
+#rld
+#rle
+#rlf
+#rlg
+#rlh
+#rlj
+#rli
+#rlk
+#rll
+#rlm
+#rln
+#rlo
+#rlp
+#rlq
+#rlr
+#rls
+#rlt
+#rlu
+#rlv
+#rlw
+#rlx
+#rly
+#rlz
+#rma
+#rmb
+#rmc
+#rmd
+#rme
+#rmf
+#rmg
+#rmh
+#rmj
+#rmi
+#rmk
+#rml
+#rmm
+#rmn
+#rmo
+#rmp
+#rmq
+#rmr
+#rms
+#rmt
+#rmu
+#rmv
+#rmw
+#rmx
+#rmy
+#rmz
+#rna
+#rnb
+#rnc
+#rnd
+#rne
+#rnf
+#rng
+#rnh
+#rnj
+#rni
+#rnk
+#rnl
+#rnm
+#rnn
+#rno
+#rnp
+#rnq
+#rnr
+#rns
+#rnt
+#rnu
+#rnv
+#rnw
+#rnx
+#rny
+#rnz
+#roa
+#rob
+roc	蒻
+#rod
+#roe
+#rof
+rog	弱
+#roh
+#roj
+#roi
+#rok
+#rol
+#rom
+ron	鶸
+ronr	婼
+#roo
+#rop
+#roq
+#ror
+#ros
+#rot
+#rou
+#rov
+#row
+#rox
+#roy
+#roz
+#rpa
+#rpb
+#rpc
+#rpd
+#rpe
+#rpf
+#rpg
+#rph
+#rpj
+#rpi
+#rpk
+#rpl
+rpm	閏
+#rpn
+#rpo
+#rpp
+#rpq
+#rpr
+#rps
+#rpt
+#rpu
+#rpv
+#rpw
+#rpx
+#rpy
+#rpz
+#rqa
+#rqb
+#rqc
+#rqd
+#rqe
+#rqf
+#rqg
+#rqh
+#rqj
+#rqi
+#rqk
+#rql
+#rqm
+#rqn
+#rqo
+#rqp
+#rqq
+#rqr
+#rqs
+#rqt
+#rqu
+#rqv
+#rqw
+#rqx
+#rqy
+#rqz
+#rra
+#rrb
+#rrc
+#rrd
+#rre
+#rrf
+#rrg
+#rrh
+#rrj
+#rri
+#rrk
+#rrl
+#rrm
+#rrn
+#rro
+#rrp
+#rrq
+#rrr
+#rrs
+#rrt
+#rru
+#rrv
+#rrw
+#rrx
+#rry
+#rrz
+#rsa
+#rsb
+#rsc
+#rsd
+#rse
+#rsf
+#rsg
+#rsh
+#rsj
+#rsi
+#rsk
+#rsl
+#rsm
+#rsn
+#rso
+#rsp
+rsq	軟色情
+#rsr
+#rss
+#rst
+#rsu
+#rsv
+#rsw
+#rsx
+#rsy
+#rsz
+#rta
+#rtb
+#rtc
+#rtd
+#rte
+#rtf
+#rtg
+#rth
+#rtj
+#rti
+#rtk
+#rtl
+#rtm
+#rtn
+#rto
+#rtp
+#rtq
+#rtr
+#rts
+#rtt
+#rtu
+#rtv
+#rtw
+#rtx
+#rty
+#rtz
+#rua
+#rub
+#ruc
+#rud
+#rue
+#ruf
+#rug
+#ruh
+#ruj
+#rui
+#ruk
+#rul
+#rum
+run	如
+#ruo
+#rup
+#ruq
+#rur
+#rus
+#rut
+#ruu
+#ruv
+#ruw
+#rux
+#ruy
+#ruz
+#rva
+#rvb
+#rvc
+#rvd
+#rve
+#rvf
+#rvg
+#rvh
+#rvj
+#rvi
+#rvk
+#rvl
+#rvm
+#rvn
+#rvo
+#rvp
+#rvq
+#rvr
+#rvs
+#rvt
+#rvu
+#rvv
+#rvw
+#rvx
+#rvy
+#rvz
+#rwa
+#rwb
+#rwc
+#rwd
+#rwe
+#rwf
+#rwg
+#rwh
+#rwj
+#rwi
+#rwk
+#rwl
+#rwm
+#rwn
+#rwo
+#rwp
+#rwq
+#rwr
+#rws
+#rwt
+#rwu
+#rwv
+#rww
+#rwx
+#rwy
+#rwz
+#rxa
+#rxb
+#rxc
+#rxd
+#rxe
+#rxf
+#rxg
+#rxh
+#rxj
+#rxi
+#rxk
+#rxl
+#rxm
+#rxn
+#rxo
+#rxp
+#rxq
+#rxr
+#rxs
+#rxt
+#rxu
+#rxv
+#rxw
+#rxx
+#rxy
+#rxz
+#rya
+#ryb
+#ryc
+#ryd
+#rye
+#ryf
+#ryg
+#ryh
+#ryj
+#ryi
+#ryk
+#ryl
+#rym
+#ryn
+#ryo
+#ryp
+#ryq
+#ryr
+#rys
+#ryt
+#ryu
+#ryv
+#ryw
+#ryx
+#ryy
+#ryz
+#rza
+#rzb
+#rzc
+#rzd
+#rze
+#rzf
+#rzg
+#rzh
+#rzj
+#rzi
+#rzk
+#rzl
+#rzm
+#rzn
+#rzo
+#rzp
+#rzq
+#rzr
+#rzs
+#rzt
+#rzu
+#rzv
+#rzw
+#rzx
+#rzy
+#rzz
+#saa
+#sab
+#sac
+#sad
+#sae
+#saf
+#sag
+#sah
+#saj
+#sai
+#sak
+#sal
+#sam
+#san
+#sao
+#sap
+#saq
+#sar
+#sas
+#sat
+#sau
+#sav
+#saw
+#sax
+#say
+#saz
+#sba
+#sbb
+#sbc
+#sbd
+#sbe
+#sbf
+#sbg
+#sbh
+#sbj
+#sbi
+#sbk
+#sbl
+#sbm
+#sbn
+#sbo
+#sbp
+#sbq
+#sbr
+#sbs
+#sbt
+#sbu
+#sbv
+#sbw
+#sbx
+#sby
+#sbz
+#sca
+#scb
+#scc
+#scd
+#sce
+#scf
+#scg
+#sch
+#scj
+#sci
+#sck
+#scl
+#scm
+#scn
+#sco
+#scp
+#scq
+#scr
+#scs
+#sct
+#scu
+#scv
+#scw
+#scx
+#scy
+#scz
+#sda
+#sdb
+#sdc
+#sdd
+#sde
+#sdf
+#sdg
+#sdh
+#sdj
+#sdi
+#sdk
+#sdl
+#sdm
+#sdn
+#sdo
+#sdp
+#sdq
+#sdr
+#sds
+#sdt
+#sdu
+#sdv
+#sdw
+#sdx
+#sdy
+#sdz
+#sea
+seb	塞
+#sec
+#sed
+#see
+#sef
+#seg
+#seh
+#sej
+#sei
+#sek
+#sel
+#sem
+#sen
+#seo
+#sep
+#seq
+#ser
+#ses
+#set
+#seu
+#sev
+#sew
+#sex
+#sey
+#sez
+#sfa
+#sfb
+#sfc
+#sfd
+#sfe
+#sff
+#sfg
+#sfh
+#sfj
+#sfi
+#sfk
+#sfl
+#sfm
+#sfn
+#sfo
+#sfp
+sfq	伺服器
+#sfr
+#sfs
+#sft
+#sfu
+#sfv
+#sfw
+#sfx
+#sfy
+#sfz
+#sga
+#sgb
+#sgc
+#sgd
+#sge
+#sgf
+#sgg
+#sgh
+#sgj
+#sgi
+#sgk
+#sgl
+#sgm
+#sgn
+#sgo
+#sgp
+#sgq
+#sgr
+#sgs
+#sgt
+#sgu
+#sgv
+#sgw
+#sgx
+#sgy
+#sgz
+#sha
+#shb
+#shc
+#shd
+#she
+#shf
+#shg
+#shh
+#shj
+#shi
+#shk
+#shl
+#shm
+#shn
+#sho
+#shp
+#shq
+#shr
+#shs
+#sht
+#shu
+#shv
+#shw
+#shx
+#shy
+#shz
+#sja
+#sjb
+#sjc
+#sjd
+#sje
+#sjf
+#sjg
+#sjh
+#sjj
+#sji
+#sjk
+#sjl
+#sjm
+#sjn
+#sjo
+#sjp
+#sjq
+#sjr
+#sjs
+#sjt
+#sju
+#sjv
+#sjw
+#sjx
+#sjy
+#sjz
+sia	巳
+sia	糸
+#sib
+#sic
+sid	死
+#sie
+#sif
+#sig
+sih	私
+sij	斯
+#sii
+#sik
+#sil
+#sim
+#sin
+#sio
+#sip
+#siq
+sir	似
+sis	絲
+#sit
+#siu
+#siv
+#siw
+#six
+#siy
+#siz
+#ska
+#skb
+#skc
+#skd
+#ske
+#skf
+#skg
+#skh
+#skj
+#ski
+#skk
+#skl
+#skm
+#skn
+#sko
+#skp
+#skq
+#skr
+#sks
+#skt
+#sku
+#skv
+#skw
+#skx
+#sky
+#skz
+#sla
+#slb
+#slc
+#sld
+#sle
+#slf
+#slg
+#slh
+#slj
+#sli
+#slk
+#sll
+#slm
+#sln
+#slo
+#slp
+#slq
+#slr
+#sls
+#slt
+#slu
+#slv
+#slw
+#slx
+#sly
+#slz
+sma	什麼啊
+#smb
+#smc
+smd	什麼的
+#sme
+#smf
+smg	什麼鬼
+#smh
+#smj
+#smi
+#smk
+#sml
+#smm
+#smn
+#smo
+#smp
+#smq
+#smr
+#sms
+#smt
+smu	什麼是
+smui	什麼事
+#smv
+#smw
+#smx
+smy	什麼樣
+smyd	什麼樣的
+smys	什麼意思
+#smz
+#sna
+#snb
+#snc
+#snd
+#sne
+#snf
+#sng
+#snh
+#snj
+#sni
+#snk
+#snl
+#snm
+#snn
+#sno
+#snp
+#snq
+#snr
+#sns
+#snt
+#snu
+#snv
+#snw
+#snx
+#sny
+#snz
+#soa
+#sob
+#soc
+#sod
+#soe
+#sof
+#sog
+#soh
+#soj
+#soi
+#sok
+#sol
+#som
+#son
+#soo
+#sop
+#soq
+#sor
+#sos
+#sot
+#sou
+#sov
+#sow
+#sox
+#soy
+#soz
+#spa
+#spb
+#spc
+#spd
+#spe
+#spf
+#spg
+#sph
+#spj
+#spi
+#spk
+#spl
+#spm
+#spn
+#spo
+#spp
+#spq
+#spr
+#sps
+#spt
+#spu
+#spv
+#spw
+#spx
+#spy
+spz	孫
+#sqa
+#sqb
+#sqc
+#sqd
+#sqe
+#sqf
+#sqg
+#sqh
+#sqj
+#sqi
+#sqk
+#sql
+#sqm
+#sqn
+#sqo
+#sqp
+#sqq
+#sqr
+#sqs
+#sqt
+#squ
+#sqv
+#sqw
+#sqx
+#sqy
+#sqz
+#sra
+#srb
+#src
+#srd
+#sre
+#srf
+#srg
+#srh
+#srj
+#sri
+#srk
+#srl
+#srm
+#srn
+#sro
+#srp
+#srq
+#srr
+#srs
+#srt
+#sru
+#srv
+#srw
+#srx
+#sry
+#srz
+#ssa
+#ssb
+#ssc
+#ssd
+#sse
+#ssf
+#ssg
+#ssh
+#ssj
+#ssi
+#ssk
+#ssl
+#ssm
+#ssn
+#sso
+#ssp
+#ssq
+#ssr
+#sss
+#sst
+#ssu
+#ssv
+#ssw
+#ssx
+#ssy
+#ssz
+#sta
+#stb
+#stc
+#std
+#ste
+#stf
+#stg
+#sth
+#stj
+#sti
+#stk
+#stl
+#stm
+#stn
+#sto
+#stp
+#stq
+#str
+#sts
+#stt
+#stu
+#stv
+#stw
+#stx
+#sty
+#stz
+#sua
+#sub
+#suc
+#sud
+#sue
+#suf
+#sug
+#suh
+#suj
+#sui
+#suk
+#sul
+#sum
+#sun
+#suo
+#sup
+#suq
+#sur
+#sus
+#sut
+#suu
+#suv
+#suw
+#sux
+#suy
+#suz
+#sva
+#svb
+svbt	死豬不怕開水燙
+svbp	死豬不怕開水燙
+#svc
+#svd
+#sve
+#svf
+#svg
+#svh
+#svj
+#svi
+#svk
+#svl
+#svm
+#svn
+#svo
+#svp
+#svq
+#svr
+#svs
+#svt
+svu	碎
+svv	歲
+#svw
+#svx
+#svy
+#svz
+#swa
+#swb
+#swc
+#swd
+#swe
+#swf
+#swg
+#swh
+#swj
+#swi
+#swk
+#swl
+#swm
+#swn
+#swo
+#swp
+#swq
+#swr
+#sws
+#swt
+#swu
+#swv
+#sww
+#swx
+#swy
+#swz
+#sxa
+#sxb
+#sxc
+#sxd
+#sxe
+#sxf
+#sxg
+#sxh
+#sxj
+#sxi
+#sxk
+#sxl
+#sxm
+#sxn
+#sxo
+#sxp
+#sxq
+#sxr
+#sxs
+sxsy	隨心所欲
+#sxt
+#sxu
+#sxv
+#sxw
+#sxx
+#sxy
+#sxz
+#sya
+syb	所有
+#syc
+syd	所有的
+#sye
+syea	隨遇而安
+#syf
+#syg
+#syh
+#syj
+#syi
+#syk
+#syl
+#sym
+#syn
+#syo
+#syp
+#syq
+syr	所有人
+sys	啥意思
+#syt
+#syu
+#syv
+syw	私以爲
+#syx
+#syy
+#syz
+#sza
+#szb
+#szc
+#szd
+#sze
+#szf
+#szg
+#szh
+#szj
+#szi
+#szk
+#szl
+#szm
+#szn
+#szo
+#szp
+#szq
+#szr
+#szs
+#szt
+#szu
+#szv
+#szw
+#szx
+#szy
+#szz
+#taa
+tab	它
+#tac
+#tad
+#tae
+#taf
+#tag
+#tah
+#taj
+#tai
+#tak
+#tal
+#tam
+#tan
+#tao
+#tap
+#taq
+#tar
+#tas
+#tat
+#tau
+#tav
+#taw
+#tax
+#tay
+#taz
+#tba
+#tbb
+#tbc
+#tbd
+#tbe
+#tbf
+#tbg
+#tbh
+#tbj
+#tbi
+#tbk
+#tbl
+#tbm
+#tbn
+#tbo
+#tbp
+#tbq
+#tbr
+#tbs
+#tbt
+#tbu
+#tbv
+#tbw
+#tbx
+#tby
+#tbz
+#tca
+#tcb
+#tcc
+#tcd
+#tce
+#tcf
+#tcg
+#tch
+#tcj
+#tci
+#tck
+#tcl
+#tcm
+#tcn
+#tco
+#tcp
+#tcq
+#tcr
+#tcs
+#tct
+#tcu
+#tcv
+#tcw
+#tcx
+#tcy
+#tcz
+#tda
+#tdb
+#tdc
+#tdd
+#tde
+#tdf
+#tdg
+#tdh
+#tdj
+#tdi
+#tdk
+#tdl
+#tdm
+#tdn
+#tdo
+#tdp
+#tdq
+#tdr
+#tds
+#tdt
+#tdu
+#tdv
+#tdw
+#tdx
+#tdy
+#tdz
+#tea
+#teb
+#tec
+#ted
+#tee
+#tef
+#teg
+#teh
+#tej
+#tei
+#tek
+#tel
+#tem
+#ten
+#teo
+#tep
+#teq
+#ter
+#tes
+#tet
+#teu
+#tev
+#tew
+#tex
+#tey
+#tez
+#tfa
+#tfb
+#tfc
+#tfd
+#tfe
+#tff
+#tfg
+#tfh
+#tfj
+#tfi
+#tfk
+#tfl
+#tfm
+#tfn
+#tfo
+#tfp
+#tfq
+#tfr
+#tfs
+#tft
+#tfu
+#tfv
+#tfw
+#tfx
+#tfy
+#tfz
+#tga
+#tgb
+#tgc
+#tgd
+#tge
+#tgf
+#tgg
+#tgh
+#tgj
+#tgi
+#tgk
+#tgl
+#tgm
+#tgn
+#tgo
+#tgp
+#tgq
+#tgr
+#tgs
+#tgt
+#tgu
+#tgv
+#tgw
+#tgx
+#tgy
+#tgz
+#tha
+#thb
+#thc
+#thd
+#the
+#thf
+#thg
+#thh
+#thj
+#thi
+#thk
+#thl
+#thm
+#thn
+#tho
+#thp
+#thq
+#thr
+#ths
+#tht
+#thu
+#thv
+#thw
+#thx
+#thy
+#thz
+#tja
+#tjb
+#tjc
+#tjd
+#tje
+#tjf
+#tjg
+#tjh
+#tjj
+#tji
+#tjk
+#tjl
+#tjm
+#tjn
+#tjo
+#tjp
+#tjq
+#tjr
+#tjs
+#tjt
+#tju
+#tjv
+#tjw
+#tjx
+#tjy
+#tjz
+#tia
+#tib
+#tic
+#tid
+#tie
+#tif
+tig	體
+#tih
+#tij
+#tii
+#tik
+#til
+#tim
+#tin
+#tio
+#tip
+#tiq
+tir	体
+#tis
+#tit
+tiu	題
+#tiv
+#tiw
+#tix
+tiy	醍
+#tiz
+#tka
+#tkb
+#tkc
+#tkd
+#tke
+#tkf
+#tkg
+#tkh
+#tkj
+#tki
+#tkk
+#tkl
+#tkm
+#tkn
+#tko
+#tkp
+#tkq
+#tkr
+#tks
+#tkt
+#tku
+#tkv
+#tkw
+#tkx
+#tky
+#tkz
+#tla
+#tlb
+#tlc
+#tld
+#tle
+#tlf
+#tlg
+#tlh
+#tlj
+#tli
+#tlk
+#tll
+#tlm
+#tln
+#tlo
+#tlp
+#tlq
+#tlr
+#tls
+#tlt
+#tlu
+#tlv
+#tlw
+tlwb	圖靈完備
+#tlx
+#tly
+#tlz
+#tma
+#tmb
+#tmc
+#tmd
+#tme
+#tmf
+#tmg
+#tmh
+#tmj
+#tmi
+#tmk
+#tml
+#tmm
+#tmn
+#tmo
+#tmp
+#tmq
+#tmr
+#tms
+#tmt
+#tmu
+#tmv
+#tmw
+#tmx
+#tmy
+#tmz
+#tna
+#tnb
+#tnc
+#tnd
+#tne
+#tnf
+#tng
+#tnh
+#tnj
+#tni
+#tnk
+tnl	太難了
+tnl	太牛了
+tnl	聽膩了
+#tnm
+#tnn
+#tno
+#tnp
+#tnq
+#tnr
+#tns
+#tnt
+#tnu
+#tnv
+#tnw
+#tnx
+#tny
+#tnz
+#toa
+#tob
+#toc
+#tod
+#toe
+tof	托
+#tog
+#toh
+#toj
+#toi
+#tok
+#tol
+#tom
+#ton
+#too
+#top
+#toq
+#tor
+#tos
+#tot
+#tou
+#tov
+#tow
+#tox
+#toy
+#toz
+#tpa
+#tpb
+#tpc
+#tpd
+#tpe
+#tpf
+#tpg
+#tph
+#tpj
+#tpi
+#tpk
+#tpl
+#tpm
+#tpn
+#tpo
+#tpp
+#tpq
+#tpr
+#tps
+#tpt
+#tpu
+#tpv
+#tpw
+#tpx
+#tpy
+#tpz
+#tqa
+#tqb
+#tqc
+#tqd
+#tqe
+#tqf
+#tqg
+#tqh
+#tqj
+#tqi
+#tqk
+tql	太强了
+tql	钛镪钌
+tql	汰漒𣱾
+#tqm
+#tqn
+#tqo
+#tqp
+#tqq
+#tqr
+#tqs
+#tqt
+#tqu
+#tqv
+#tqw
+#tqx
+#tqy
+#tqz
+#tra
+#trb
+#trc
+#trd
+#tre
+#trf
+#trg
+#trh
+#trj
+#tri
+#trk
+#trl
+#trm
+#trn
+#tro
+#trp
+#trq
+#trr
+#trs
+#trt
+#tru
+#trv
+trw	他認爲
+trw	她認爲
+#trx
+#try
+#trz
+#tsa
+#tsb
+#tsc
+#tsd
+#tse
+#tsf
+#tsg
+#tsh
+#tsj
+#tsi
+#tsk
+#tsl
+#tsm
+#tsn
+#tso
+#tsp
+#tsq
+#tsr
+#tss
+#tst
+#tsu
+#tsv
+#tsw
+#tsx
+#tsy
+#tsz
+#tta
+#ttb
+#ttc
+#ttd
+#tte
+#ttf
+#ttg
+#tth
+#ttj
+#tti
+#ttk
+#ttl
+#ttm
+#ttn
+#tto
+#ttp
+#ttq
+#ttr
+#tts
+#ttt
+#ttu
+#ttv
+#ttw
+#ttx
+#tty
+#ttz
+tua	凸
+tuc	荼
+tud	涂
+#tudd	兔
+#tue
+#tuf
+#tug
+tuh	禿
+tuj	釷
+#tui
+tuk	吐
+#tul
+#tum
+#tun
+tuo	腯
+tup	兎
+tuq	調試器
+tur	徒
+#tus
+#tut
+#tuu
+#tuv
+#tuw
+tux	突
+tux	徒
+#tuy
+#tuz
+#tva
+#tvb
+#tvc
+#tvd
+#tve
+tvf	推
+#tvg
+#tvh
+#tvj
+#tvi
+#tvk
+#tvl
+#tvm
+#tvn
+tvo	腿
+#tvp
+#tvq
+#tvr
+#tvs
+#tvt
+#tvu
+#tvv
+#tvw
+#tvx
+#tvy
+#tvz
+#twa
+#twb
+#twc
+#twd
+#twe
+#twf
+#twg
+#twh
+#twj
+#twi
+#twk
+#twl
+#twm
+#twn
+#two
+#twp
+#twq
+#twr
+#tws
+#twt
+#twu
+#twv
+#tww
+#twx
+#twy
+#twz
+#txa
+#txb
+#txc
+#txd
+#txe
+#txf
+#txg
+#txh
+txj	帖
+#txi
+#txk
+#txl
+#txm
+#txn
+#txo
+#txp
+#txq
+#txr
+#txs
+#txt
+#txu
+#txv
+#txw
+#txx
+#txy
+#txz
+#tya
+#tyb
+#tyc
+#tyd
+#tye
+#tyf
+#tyg
+#tyh
+#tyj
+#tyi
+tyk	听
+tyk	咡
+#tyl
+#tym
+#tyn
+#tyo
+#typ
+#tyq
+#tyr
+#tys
+#tyt
+#tyu
+#tyv
+#tyw
+#tyx
+#tyy
+#tyz
+#tza
+#tzb
+#tzc
+#tzd
+#tze
+#tzf
+#tzg
+#tzh
+#tzj
+#tzi
+#tzk
+#tzl
+#tzm
+#tzn
+#tzo
+#tzp
+#tzq
+#tzr
+#tzs
+#tzt
+#tzu
+#tzv
+#tzw
+#tzx
+#tzy
+#tzz
+#uaa
+#uab
+#uac
+#uad
+#uae
+#uaf
+#uag
+#uah
+#uaj
+uai	厦
+#uak
+#ual
+#uam
+#uan
+#uao
+#uap
+#uaq
+#uar
+#uas
+#uat
+uau	殺
+#uav
+#uaw
+#uax
+#uay
+#uaz
+#uba
+#ubb
+#ubc
+#ubd
+#ube
+#ubf
+#ubg
+#ubh
+#ubj
+#ubi
+#ubk
+#ubl
+#ubm
+#ubn
+#ubo
+#ubp
+#ubq
+#ubr
+#ubs
+#ubt
+ubu	是不是
+ubu	壽
+#ubv
+#ubw
+#ubx
+#uby
+#ubz
+#uca
+#ucb
+#ucc
+#ucd
+#uce
+#ucf
+#ucg
+#uch
+#ucj
+#uci
+#uck
+#ucl
+#ucm
+#ucn
+#uco
+#ucp
+#ucq
+#ucr
+#ucs
+#uct
+#ucu
+#ucv
+#ucw
+#ucx
+#ucy
+#ucz
+#uda
+#udb
+#udc
+#udd
+#ude
+#udf
+#udg
+#udh
+#udj
+#udi
+#udk
+#udl
+#udm
+#udn
+#udo
+#udp
+#udq
+#udr
+#uds
+#udt
+#udu
+#udv
+#udw
+#udx
+#udy
+#udz
+#uea
+#ueb
+#uec
+#ued
+#uee
+#uef
+#ueg
+#ueh
+#uej
+#uei
+#uek
+#uel
+#uem
+#uen
+#ueo
+#uep
+#ueq
+#uer
+#ues
+#uet
+ueu	社
+#uev
+#uew
+#uex
+uey	設
+#uez
+#ufa
+#ufb
+#ufc
+ufd	瀋
+ufd	沈
+#ufe
+#uff
+#ufg
+#ufh
+#ufj
+#ufi
+#ufk
+#ufl
+#ufm
+#ufn
+#ufo
+#ufp
+#ufq
+#ufr
+#ufs
+#uft
+#ufu
+#ufv
+#ufw
+#ufx
+#ufy
+#ufz
+#uga
+#ugb
+#ugc
+#ugd
+#uge
+#ugf
+#ugg
+#ugh
+#ugj
+#ugi
+#ugk
+#ugl
+#ugm
+#ugn
+ugo	勝
+#ugp
+#ugq
+#ugr
+#ugs
+#ugt
+#ugu
+#ugv
+#ugw
+#ugx
+#ugy
+#ugz
+#uha
+#uhb
+#uhc
+#uhd
+#uhe
+#uhf
+#uhg
+#uhh
+#uhj
+#uhi
+#uhk
+#uhl
+#uhm
+#uhn
+#uho
+#uhp
+#uhq
+#uhr
+#uhs
+#uht
+#uhu
+#uhv
+#uhw
+#uhx
+#uhy
+#uhz
+#uja
+#ujb
+#ujc
+#ujd
+#uje
+#ujf
+#ujg
+#ujh
+#ujj
+ujjg	數據結構
+uji
+ujio	時間戳
+ujk	數據庫
+#ujl
+#ujm
+#ujn
+#ujo
+#ujp
+#ujq
+#ujr
+#ujs
+#ujt
+#uju
+#ujv
+#ujw
+#ujx
+#ujy
+#ujz
+uia	十
+uiak	石
+uiap	尸
+uib	實
+uibv	室
+uic	世
+uid	溼
+uie	示
+uif	拾
+uify	施
+uig	式
+#uih
+uij	視
+uii	弒
+uik	史
+uil	勢
+#uim
+uin	始
+uio	時
+uip	失
+uipt	矢
+uiq	獅
+uir	使
+uirl	食
+uird	矢
+uiry	似
+#uis
+#uit
+uiu	士
+uiuj	飾
+uius	屍
+uium	屎
+uiv	師
+uiw	市
+#uix
+uiy	試
+uiz	適
+#uka
+#ukb
+#ukc
+#ukd
+#uke
+#ukf
+#ukg
+ukh	烧
+#ukj
+#uki
+#ukk
+#ukl
+#ukm
+#ukn
+#uko
+#ukp
+#ukq
+#ukr
+#uks
+#ukt
+#uku
+#ukv
+#ukw
+#ukx
+#uky
+#ukz
+#ula
+#ulb
+#ulc
+#uld
+#ule
+#ulf
+#ulg
+#ulh
+ulj	十六進制
+#uli
+#ulk
+#ull
+#ulm
+#uln
+#ulo
+#ulp
+#ulq
+#ulr
+#uls
+#ult
+#ulu
+#ulv
+#ulw
+#ulx
+#uly
+#ulz
+#uma
+#umb
+#umc
+#umd
+#ume
+#umf
+#umg
+#umh
+#umj
+#umi
+#umk
+#uml
+#umm
+#umn
+#umo
+#ump
+#umq
+#umr
+#ums
+#umt
+#umu
+#umv
+#umw
+#umx
+#umy
+#umz
+#una
+#unb
+#unc
+#und
+#une
+#unf
+#ung
+#unh
+#unj
+#uni
+#unk
+#unl
+#unm
+#unn
+#uno
+#unp
+#unq
+#unr
+#uns
+#unt
+#unu
+#unv
+#unw
+#unx
+#uny
+#unz
+#uoa
+#uob
+#uoc
+#uod
+#uoe
+#uof
+#uog
+#uoh
+#uoj
+#uoi
+#uok
+#uol
+#uom
+#uon
+#uoo
+#uop
+#uoq
+#uor
+#uos
+#uot
+#uou
+#uov
+#uow
+#uox
+#uoy
+#uoz
+#upa
+#upb
+#upc
+#upd
+#upe
+#upf
+#upg
+#uph
+#upj
+#upi
+#upk
+#upl
+#upm
+#upn
+#upo
+#upp
+#upq
+#upr
+#ups
+#upt
+#upu
+#upv
+#upw
+#upx
+#upy
+#upz
+#uqa
+#uqb
+#uqc
+#uqd
+#uqe
+#uqf
+#uqg
+#uqh
+#uqj
+#uqi
+#uqk
+uql	說起來
+#uqm
+#uqn
+#uqo
+#uqp
+#uqq
+#uqr
+#uqs
+#uqt
+#uqu
+#uqv
+#uqw
+#uqx
+#uqy
+#uqz
+uqzr	順其自然
+#ura
+#urb
+#urc
+urd	涮
+#ure
+urf	輸入法
+#urg
+#urh
+#urj
+#uri
+#urk
+#url
+urm	栓
+urm	閂
+#urn
+#uro
+#urp
+#urq
+#urr
+urs	絟
+#urt
+uru	輸入輸出
+#urv
+#urw
+#urx
+#ury
+#urz
+#usa
+#usb
+#usc
+#usd
+#use
+#usf
+#usg
+#ush
+#usj
+#usi
+#usk
+#usl
+usm	是什麼
+#usn
+#uso
+#usp
+#usq
+#usr
+#uss
+#ust
+#usu
+#usv
+#usw
+#usx
+#usy
+#usz
+#uta
+#utb
+#utc
+#utd
+#ute
+#utf
+#utg
+#uth
+#utj
+#uti
+#utk
+#utl
+#utm
+#utn
+#uto
+#utp
+#utq
+#utr
+#uts
+#utt
+#utu
+#utv
+#utw
+#utx
+#uty
+#utz
+#uua
+#uub
+#uuc
+#uud
+#uue
+#uuf
+#uug
+#uuh
+uuj	鼠
+#uui
+#uuk
+#uul
+#uum
+#uun
+#uuo
+#uup
+#uuq
+#uur
+#uus
+#uut
+#uuu
+#uuv
+uuw	數
+#uux
+#uuy
+#uuz
+#uva
+#uvb
+#uvc
+#uvd
+#uve
+#uvf
+#uvg
+#uvh
+#uvj
+#uvi
+#uvk
+#uvl
+#uvm
+#uvn
+#uvo
+#uvp
+#uvq
+#uvr
+#uvs
+#uvt
+#uvu
+#uvv
+#uvw
+#uvx
+#uvy
+#uvz
+#uwa
+#uwb
+#uwc
+#uwd
+#uwe
+#uwf
+#uwg
+#uwh
+#uwj
+#uwi
+#uwk
+#uwl
+#uwm
+uwn	耍
+#uwo
+#uwp
+#uwq
+#uwr
+#uws
+#uwt
+#uwu
+#uwv
+#uww
+#uwx
+#uwy
+#uwz
+#uxa
+#uxb
+#uxc
+#uxd
+#uxe
+#uxf
+uxg	鼠鬚管
+#uxh
+#uxj
+#uxi
+#uxk
+#uxl
+#uxm
+#uxn
+#uxo
+#uxp
+#uxq
+#uxr
+#uxs
+#uxt
+#uxu
+#uxv
+uxw	上下文
+#uxx
+#uxy
+#uxz
+#uya
+#uyb
+#uyc
+#uyd
+#uye
+#uyf
+#uyg
+#uyh
+#uyj
+#uyi
+#uyk
+#uyl
+#uym
+#uyn
+#uyo
+#uyp
+#uyq
+#uyr
+#uys
+#uyt
+#uyu
+#uyv
+#uyw
+#uyx
+#uyy
+#uyz
+#uza
+#uzb
+#uzc
+#uzd
+#uze
+#uzf
+#uzg
+#uzh
+#uzj
+#uzi
+#uzk
+#uzl
+#uzm
+#uzn
+#uzo
+#uzp
+#uzq
+#uzr
+#uzs
+#uzt
+#uzu
+#uzv
+#uzw
+#uzx
+#uzy
+#uzz
+#vaa
+#vab
+#vac
+#vad
+#vae
+#vaf
+#vag
+#vah
+#vaj
+#vai
+#vak
+#val
+#vam
+#van
+#vao
+#vap
+#vaq
+#var
+#vas
+#vat
+#vau
+#vav
+#vaw
+#vax
+#vay
+#vaz
+#vba
+#vbb
+#vbc
+#vbd
+#vbe
+#vbf
+#vbg
+#vbh
+#vbj
+#vbi
+vbk	咒
+#vbl
+#vbm
+#vbn
+#vbo
+#vbp
+#vbq
+#vbr
+#vbs
+#vbt
+#vbu
+#vbv
+#vbw
+#vbx
+#vby
+#vbz
+#vca
+#vcb
+#vcc
+#vcd
+#vce
+#vcf
+#vcg
+#vch
+#vcj
+#vci
+#vck
+#vcl
+#vcm
+#vcn
+#vco
+#vcp
+#vcq
+#vcr
+#vcs
+#vct
+#vcu
+#vcv
+#vcw
+#vcx
+#vcy
+#vcz
+#vda
+#vdb
+#vdc
+#vdd
+#vde
+#vdf
+#vdg
+#vdh
+#vdj
+#vdi
+#vdk
+#vdl
+#vdm
+#vdn
+#vdo
+#vdp
+#vdq
+#vdr
+#vds
+#vdt
+#vdu
+#vdv
+#vdw
+#vdx
+#vdy
+#vdz
+#vea
+#veb
+#vec
+#ved
+#vee
+#vef
+veg	這個
+#veh
+#vej
+#vei
+#vek
+#vel
+#vem
+#ven
+#veo
+#vep
+#veq
+ver	這兒
+#ves
+#vet
+#veu
+veui	這是
+veuio	這時
+#vev
+#vew
+#vex
+#vey
+#vez
+#vfa
+vfb	支付寶
+#vfc
+#vfd
+#vfe
+#vff
+#vfg
+#vfh
+#vfj
+#vfi
+#vfk
+#vfl
+#vfm
+#vfn
+#vfo
+#vfp
+#vfq
+#vfr
+#vfs
+#vft
+#vfu
+#vfv
+#vfw
+#vfx
+#vfy
+#vfz
+vga	正
+#vgb
+#vgc
+#vgd
+#vge
+#vgf
+#vgg
+#vgh
+#vgj
+#vgi
+#vgk
+#vgl
+#vgm
+#vgn
+#vgo
+#vgp
+#vgq
+#vgr
+#vgs
+#vgt
+#vgu
+#vgv
+#vgw
+#vgx
+#vgy
+#vgz
+#vha
+#vhb
+#vhc
+#vhd
+#vhe
+#vhf
+#vhg
+#vhh
+#vhj
+#vhi
+#vhk
+#vhl
+#vhm
+#vhn
+#vho
+#vhp
+#vhq
+#vhr
+vhrm	中華人民
+vhrmg	中華人民共和國
+#vhs
+#vht
+#vhu
+#vhv
+#vhw
+#vhx
+#vhy
+#vhz
+#vja
+#vjb
+vjbd	中間表達
+vjbdx	中間表達形式
+vjbdxu	中間表達形式
+#vjc
+#vjd
+#vje
+#vjf
+#vjg
+#vjh
+#vjj
+#vji
+#vjk
+#vjl
+vjm	棧
+vjmv	粘
+#vjn
+#vjo
+#vjp
+#vjq
+#vjr
+#vjs
+#vjt
+#vju
+#vjv
+#vjw
+#vjx
+#vjy
+#vjz
+#via
+#vib
+#vic
+vid	之
+#vie
+#vif
+#vig
+vih	秩
+#vij
+#vii
+vik	只
+#vil
+#vim
+#vin
+#ving	智能	# 只能 -> vn, 频繁打错，干脆删了
+#vio
+#vip
+#viq
+vir	值
+#vis
+vit	至
+viu	知
+#viv
+#viw
+#vix
+viy	製
+viyv	誌
+#viz
+#vka
+#vkb
+#vkc
+#vkd
+#vke
+#vkf
+#vkg
+#vkh
+#vkj
+#vki
+#vkk
+#vkl
+#vkm
+#vkn
+#vko
+#vkp
+#vkq
+#vkr
+#vks
+#vkt
+#vku
+#vkv
+#vkw
+#vkx
+#vky
+#vkz
+#vla
+vlb	宅
+#vlc
+#vld
+#vle
+#vlf
+#vlg
+#vlh
+#vlj
+#vli
+#vlk
+#vll
+vlm	寨
+#vln
+#vlo
+#vlp
+#vlq
+#vlr
+#vls
+#vlt
+#vlu
+#vlv
+#vlw
+#vlx
+#vly
+#vlz
+#vma
+#vmb
+#vmc
+#vmd
+#vme
+#vmf
+#vmg
+#vmh
+#vmj
+#vmi
+#vmk
+#vml
+#vmm
+#vmn
+#vmo
+#vmp
+#vmq
+#vmr
+#vms
+#vmt
+#vmu
+#vmv
+#vmw
+#vmx
+#vmy
+#vmz
+#vna
+#vnb
+#vnc
+#vnd
+#vne
+#vnf
+#vng
+#vnh
+#vnj
+#vni
+#vnk
+#vnl
+#vnm
+#vnn
+#vno
+#vnp
+#vnq
+#vnr
+#vns
+#vnt
+vnu	只能說
+#vnv
+#vnw
+#vnx
+#vny
+#vnz
+#voa
+#vob
+#voc
+#vod
+#voe
+#vof
+#vog
+#voh
+#voj
+#voi
+#vok
+#vol
+#vom
+#von
+#voo
+#vop
+#voq
+#vor
+#vos
+#vot
+#vou
+#vov
+#vow
+#vox
+#voy
+#voz
+#vpa
+#vpb
+#vpc
+#vpd
+#vpe
+#vpf
+#vpg
+#vph
+#vpj
+#vpi
+#vpk
+#vpl
+#vpm
+#vpn
+#vpo
+#vpp
+#vpq
+#vpr
+#vps
+#vpt
+#vpu
+#vpv
+#vpw
+#vpx
+#vpy
+#vpz
+#vqa
+#vqb
+#vqc
+#vqd
+#vqe
+#vqf
+#vqg
+#vqh
+#vqj
+#vqi
+#vqk
+#vql
+#vqm
+#vqn
+#vqo
+#vqp
+#vqq
+#vqr
+#vqs
+#vqt
+#vqu
+#vqv
+#vqw
+#vqx
+vqyu	終其一生
+#vqz
+#vra
+vrb	賺
+#vrc
+#vrd
+#vre
+#vrf
+#vrg
+#vrh
+#vrj
+#vri
+#vrk
+#vrl
+#vrm
+#vrn
+#vro
+#vrp
+#vrq
+#vrr
+#vrs
+#vrt
+#vru
+#vrv
+#vrw
+#vrx
+#vry
+#vrz
+#vsa
+#vsb
+#vsc
+#vsd
+#vse
+#vsf
+#vsg
+vsh	種
+#vsj
+#vsi
+#vsk
+#vsl
+#vsm
+#vsn
+#vso
+#vsp
+#vsq
+#vsr
+vss	終
+#vst
+#vsu
+#vsv
+#vsw
+#vsx
+#vsy
+#vsz
+#vta
+#vtb
+#vtc
+#vtd
+#vte
+#vtf
+#vtg
+#vth
+#vtj
+#vti
+#vtk
+#vtl
+#vtm
+#vtn
+#vto
+#vtp
+#vtq
+#vtr
+#vts
+#vtt
+#vtu
+#vtv
+#vtw
+#vtx
+#vty
+#vtz
+#vua
+#vub
+#vuc
+vud	主
+#vue
+#vuf
+#vug	竹
+#vuh
+#vuj
+#vui
+#vuk
+#vul
+#vum
+#vun
+#vuo
+#vup	朱
+vuq	助
+vur	住
+vusm	這是什麼
+#vut
+vuu	豬
+#vuv
+#vuw
+#vux
+#vuy
+#vuz
+#vva
+#vvb
+#vvc
+vvd	真正的
+#vve
+#vvf
+#vvg
+#vvh
+#vvj
+#vvi
+#vvk
+#vvl
+#vvm
+#vvn
+#vvo
+#vvp
+#vvq
+#vvr
+#vvs
+#vvt
+#vvu
+#vvv
+#vvw
+#vvx
+#vvy
+#vvz
+#vwa
+#vwb
+#vwc
+#vwd
+#vwe
+#vwf
+#vwg
+#vwh
+#vwj
+#vwi
+#vwk
+#vwl
+#vwm
+#vwn
+#vwo
+#vwp
+#vwq
+#vwr
+#vws
+#vwt
+#vwu
+#vwv
+#vww
+#vwx
+#vwy
+#vwz
+#vxa
+#vxb
+#vxc
+#vxd
+#vxe
+#vxf
+#vxg
+#vxh
+#vxj
+#vxi
+#vxk
+#vxl
+#vxm
+#vxn
+#vxo
+#vxp
+#vxq
+#vxr
+#vxs
+#vxt
+#vxu
+#vxv
+#vxw
+#vxx
+#vxy
+#vxz
+#vya
+#vyb
+#vyc
+vyd	這樣的
+#vye
+#vyf
+#vyg
+#vyh
+#vyj
+#vyi
+#vyk
+#vyl
+#vym
+#vyn
+#vyo
+#vyp
+#vyq
+#vyr
+#vys
+#vyt
+#vyu
+#vyv
+#vyw
+#vyx
+#vyy
+#vyz
+#vza
+#vzb
+#vzc
+#vzd
+#vze
+#vzf
+#vzg
+#vzh
+#vzj
+#vzi
+#vzk
+#vzl
+#vzm
+#vzn
+#vzo
+#vzp
+#vzq
+#vzr
+#vzs
+#vzt
+#vzu
+#vzv
+#vzw
+#vzx
+#vzy
+#vzz
+#waa
+#wab
+#wac
+#wad
+#wae
+#waf
+#wag
+#wah
+#waj
+#wai
+#wak
+#wal
+#wam
+#wan
+#wao
+#wap
+#waq
+#war
+#was
+#wat
+#wau
+#wav
+#waw
+#wax
+#way
+#waz
+#wba
+#wbb
+#wbc
+#wbd
+#wbe
+#wbf
+#wbg
+#wbh
+#wbj
+#wbi
+#wbk
+#wbl
+#wbm
+#wbn
+#wbo
+#wbp
+#wbq
+#wbr
+#wbs
+#wbt
+#wbu
+#wbv
+wbw	文本文件
+wbwj	文本文件
+#wbx
+#wby
+#wbz
+#wca
+#wcb
+#wcc
+#wcd
+#wce
+#wcf
+#wcg
+#wch
+#wcj
+#wci
+#wck
+#wcl
+#wcm
+#wcn
+#wco
+#wcp
+#wcq
+#wcr
+#wcs
+#wct
+#wcu
+#wcv
+#wcw
+#wcx
+#wcy
+#wcz
+#wda
+#wdb
+#wdc
+#wdd
+#wde
+#wdf
+#wdg
+#wdh
+#wdj
+#wdi
+#wdk
+#wdl
+#wdm
+#wdn
+#wdo
+#wdp
+#wdq
+#wdr
+#wds
+wdt	我的天
+wdty	我的天呀
+wdta	我的天啊
+#wdu
+#wdv
+#wdw
+#wdx
+#wdy
+#wdz
+#wea
+#web
+#wec
+#wed
+#wee
+#wef
+#weg
+#weh
+#wej
+#wei
+#wek
+#wel
+#wem
+#wen
+#weo
+#wep
+#weq
+#wer
+#wes
+#wet
+#weu
+#wev
+#wew
+#wex
+#wey
+#wez
+#wfa
+#wfb
+#wfc
+#wfd
+#wfe
+#wff
+#wfg
+#wfh
+#wfj
+#wfi
+#wfk
+#wfl
+wfm	聞
+#wfn
+#wfo
+#wfp
+#wfq
+#wfr
+#wfs
+#wft
+#wfu
+#wfv
+#wfw
+#wfx
+#wfy
+#wfz
+#wga
+#wgb
+#wgc
+#wgd
+#wge
+#wgf
+#wgg
+#wgh
+#wgj
+#wgi
+wgk	嗡
+#wgl
+#wgm
+#wgn
+#wgo
+#wgp
+#wgq
+#wgr
+#wgs
+#wgt
+#wgu
+#wgv
+#wgw
+#wgx
+#wgy
+#wgz
+wha	王
+#whb
+#whc
+#whd
+#whe
+#whf
+#whg
+#whh
+#whj
+#whi
+#whk
+#whl
+#whm
+#whn
+#who
+#whp
+#whq
+#whr
+#whs
+#wht
+#whu
+#whv
+#whw
+#whx
+#why
+#whz
+#wja
+#wjb
+#wjc
+#wjd
+#wje
+#wjf
+#wjg
+#wjh
+#wjj
+#wji
+#wjk
+#wjl
+#wjm
+#wjn
+#wjo
+#wjp
+#wjq
+#wjr
+#wjs
+#wjt
+#wju
+#wjv
+#wjw
+#wjx
+#wjy
+#wjz
+#wia
+#wib
+#wic
+#wid
+#wie
+#wif
+#wig
+#wih
+#wij
+#wii
+#wik
+#wil
+#wim
+#win
+#wio
+#wip
+#wiq
+#wir
+#wis
+#wit
+#wiu
+#wiv
+#wiw
+#wix
+#wiy
+#wiz
+#wka
+#wkb
+#wkc
+#wkd
+#wke
+#wkf
+#wkg
+#wkh
+#wkj
+#wki
+#wkk
+wkl	烏克蘭
+#wkm
+#wkn
+#wko
+#wkp
+#wkq
+#wkr
+#wks
+#wkt
+#wku
+#wkv
+#wkw
+#wkx
+#wky
+#wkz
+#wla
+#wlb
+#wlc
+#wld
+#wle
+#wlf
+#wlg
+#wlh
+#wlj
+#wli
+#wlk
+#wll
+#wlm
+#wln
+#wlo
+#wlp
+#wlq
+#wlr
+#wls
+#wlt
+#wlu
+#wlv
+#wlw
+#wlx
+#wly
+#wlz
+#wma
+#wmb
+#wmc
+wmd	我們的
+#wme
+#wmf
+#wmg
+#wmh
+#wmj
+#wmi
+#wmk
+#wml
+#wmm
+#wmn
+#wmo
+#wmp
+#wmq
+#wmr
+#wms
+#wmt
+#wmu
+#wmv
+#wmw
+#wmx
+#wmy
+#wmz
+#wna
+#wnb
+#wnc
+#wnd
+#wne
+#wnf
+#wng
+#wnh
+#wnj
+#wni
+#wnk
+#wnl
+#wnm
+#wnn
+#wno
+#wnp
+#wnq
+#wnr
+#wns
+#wnt
+#wnu
+#wnv
+#wnw
+#wnx
+#wny
+#wnz
+#woa
+wob	卧
+#woc
+#wod
+#woe
+#wof
+#wog
+#woh
+#woj
+#woi
+#wok
+#wol
+wom	我們
+#won
+#woo
+#wop
+#woq
+#wor
+#wos
+#wot
+#wou
+#wov
+#wow
+wox	窝
+#woy
+#woz
+#wpa
+#wpb
+#wpc
+#wpd
+#wpe
+#wpf
+#wpg
+#wph
+#wpj
+#wpi
+#wpk
+#wpl
+#wpm
+#wpn
+#wpo
+#wpp
+#wpq
+#wpr
+#wps
+#wpt
+#wpu
+#wpv
+#wpw
+#wpx
+#wpy
+#wpz
+#wqa
+#wqb
+#wqc
+#wqd
+#wqe
+#wqf
+#wqg
+#wqh
+#wqj
+#wqi
+#wqk
+#wql
+#wqm
+#wqn
+#wqo
+#wqp
+#wqq
+#wqr
+#wqs
+#wqt
+#wqu
+#wqv
+#wqw
+#wqx
+#wqy
+#wqz
+#wra
+#wrb
+#wrc
+#wrd
+#wre
+#wrf
+#wrg
+#wrh
+#wrj
+#wri
+#wrk
+#wrl
+#wrm
+#wrn
+#wro
+#wrp
+#wrq
+#wrr
+#wrs
+#wrt
+#wru
+#wrv
+wrw	我認爲
+#wrx
+#wry
+#wrz
+#wsa
+#wsb
+#wsc
+#wsd
+#wse
+#wsf
+#wsg
+#wsh
+#wsj
+#wsi
+#wsk
+#wsl
+wsm	爲什麼
+#wsn
+#wso
+#wsp
+#wsq
+#wsr
+#wss
+#wst
+#wsu
+#wsv
+#wsw
+#wsx
+#wsy
+#wsz
+#wta
+#wtb
+#wtc
+#wtd
+#wte
+#wtf
+#wtg
+#wth
+#wtj
+#wti
+#wtk
+#wtl
+#wtm
+#wtn
+#wto
+#wtp
+#wtq
+#wtr
+#wts
+#wtt
+wtu	問題是
+#wtv
+#wtw
+#wtx
+#wty
+#wtz
+#wua
+#wub
+#wuc
+#wud
+#wue
+#wuf
+#wug
+#wuh
+#wuj
+#wui
+wuk	吳
+wuk	嗚
+wuk	唔
+#wul
+wum	務
+wumw	梧
+wun	物
+#wuo
+#wup
+#wuq
+#wur
+#wus
+#wut
+#wuu
+#wuv
+wuw	吾
+wux	悟
+#wuy
+#wuz
+#wva
+#wvb
+#wvc
+#wvd
+#wve
+#wvf
+#wvg
+#wvh
+#wvj
+#wvi
+#wvk
+#wvl
+#wvm
+#wvn
+#wvo
+#wvp
+#wvq
+#wvr
+#wvs
+#wvt
+#wvu
+#wvv
+#wvw
+#wvx
+#wvy
+#wvz
+#wwa
+#wwb
+#wwc
+#wwd
+#wwe
+#wwf
+#wwg
+#wwh
+#wwj
+#wwi
+#wwk
+#wwl
+#wwm
+#wwn
+#wwo
+#wwp
+#wwq
+#wwr
+#wws
+#wwt
+#wwu
+#wwv
+#www
+#wwx
+#wwy
+#wwz
+#wxa
+#wxb
+#wxc
+#wxd
+#wxe
+#wxf
+#wxg
+#wxh
+#wxj
+#wxi
+#wxk
+#wxl
+#wxm
+#wxn
+#wxo
+#wxp
+#wxq
+#wxr
+#wxs
+#wxt
+#wxu
+#wxv
+#wxw
+#wxx
+#wxy
+#wxz
+#wya
+#wyb
+#wyc
+#wyd
+#wye
+#wyf
+#wyg
+#wyh
+#wyj
+#wyi
+#wyk
+#wyl
+#wym
+#wyn
+#wyo
+#wyp
+#wyq
+#wyr
+#wys
+#wyt
+#wyu
+#wyv
+#wyw
+#wyx
+#wyy
+#wyz
+#wza
+#wzb
+#wzc
+wzd	危
+#wze
+#wzf
+#wzg
+#wzh
+#wzj
+#wzi
+#wzk
+#wzl
+#wzm
+#wzn
+#wzo
+#wzp
+#wzq
+#wzr	位  #已经是一简了
+wzr	僞
+wzr	偉
+wzrw	偉
+#wzs
+#wzt
+#wzu
+#wzv
+#wzw
+wzx	微
+wzx	惟
+wzx	衛
+wzxv	惟
+#wzy
+#wzz
+#xaa
+#xab
+#xac
+#xad
+#xae
+#xaf
+#xag
+#xah
+#xaj
+#xai
+#xak
+#xal
+#xam
+#xan
+#xao
+#xap
+#xaq
+#xar
+#xas
+#xat
+#xau
+#xav
+#xaw
+#xax
+#xay
+#xaz
+#xba
+#xbb
+#xbc
+#xbd
+#xbe
+#xbf
+#xbg
+#xbh
+#xbj
+#xbi
+#xbk
+#xbl
+#xbm
+#xbn
+#xbo
+#xbp
+xbq	新標籤
+#xbr
+#xbs
+#xbt
+#xbu
+#xbv
+#xbw
+#xbx
+#xby
+#xbz
+#xca
+#xcb
+#xcc
+xcd	消
+xcd	淆
+xce	郩
+#xcf
+xcg	魈
+#xch
+xcj	銷
+#xci
+xck	嘯
+xck	囂
+xcl	孝
+xcm	校
+xcn	鴞
+xcn	梟
+xco	晓
+xcp	斅
+#xcq
+#xcr
+#xcs
+#xct
+#xcu
+#xcv
+#xcw
+xcx	肖
+#xcy
+#xcz
+#xda
+#xdb
+#xdc
+#xdd
+#xde
+#xdf
+#xdg
+#xdh
+#xdj
+#xdi
+#xdk
+#xdl
+#xdm
+#xdn
+#xdo
+#xdp
+#xdq
+#xdr
+#xds
+#xdt
+#xdu
+#xdv
+#xdw
+#xdx
+#xdy
+#xdz
+#xea
+#xeb
+#xec
+#xed
+#xee
+#xef
+#xeg
+#xeh
+#xej
+#xei
+#xek
+#xel
+#xem
+#xen
+#xeo
+#xep
+#xeq
+#xer
+#xes
+#xet
+#xeu
+#xev
+#xew
+#xex
+#xey
+#xez
+#xfa
+#xfb
+#xfc
+#xfd
+#xfe
+#xff
+#xfg
+#xfh
+#xfj
+#xfi
+#xfk
+#xfl
+#xfm
+#xfn
+#xfo
+#xfp
+#xfq
+#xfr
+#xfs
+#xft
+#xfu
+#xfv
+#xfw
+#xfx
+#xfy
+#xfz
+#xga
+#xgb
+#xgc
+#xgd
+#xge
+#xgf
+#xgg
+#xgh
+#xgj
+#xgi
+#xgk
+#xgl
+#xgm
+#xgn
+#xgo
+#xgp
+#xgq
+#xgr
+#xgs
+#xgt
+#xgu
+#xgv
+#xgw
+#xgx
+#xgy
+#xgz
+#xha
+#xhb
+#xhc
+#xhd
+#xhe
+#xhf
+#xhg
+#xhh
+#xhj
+#xhi
+#xhk
+#xhl
+#xhm
+#xhn
+#xho
+#xhp
+#xhq
+#xhr
+#xhs
+#xht
+xhu	小紅書
+xhup	小鶴雙拼
+#xhv
+#xhw
+#xhx
+xhy	歇後語
+xhyx	小鶴音形
+#xhz
+#xja
+#xjb
+#xjc
+#xjd
+#xje
+#xjf
+#xjg
+#xjh
+#xjj
+#xji
+#xjk
+#xjl
+#xjm
+#xjn
+#xjo
+#xjp
+#xjq
+#xjr
+#xjs
+#xjt
+#xju
+#xjv
+#xjw
+#xjx
+#xjy
+#xjz
+#xia
+#xib
+#xic
+#xid
+#xie
+#xif
+#xig
+#xih
+#xij
+#xii
+#xik
+#xil
+#xim
+#xin
+#xio
+#xip
+#xiq
+#xir
+#xis
+#xit
+#xiu
+#xiv
+#xiw
+#xix
+#xiy
+#xiz
+#xka
+#xkb
+#xkc
+#xkd
+#xke
+#xkf
+#xkg
+#xkh
+#xkj
+#xki
+#xkk
+xkl	辛苦了
+#xkm
+#xkn
+#xko
+#xkp
+#xkq
+#xkr
+#xks
+#xkt
+#xku
+#xkv
+#xkw
+#xkx
+#xky
+#xkz
+#xla
+#xlb
+#xlc
+#xld
+#xle
+#xlf
+#xlg
+xlh	小狼毫
+#xlj
+#xli
+#xlk
+#xll
+#xlm
+#xln
+#xlo
+#xlp
+#xlq
+#xlr
+#xls
+#xlt
+#xlu
+#xlv
+#xlw
+xlx	心理學
+xlxj	心理學家
+#xly
+#xlz
+#xma
+#xmb
+#xmc
+#xmd
+xme	限
+#xmf
+#xmg
+#xmh
+#xmj
+#xmi
+#xmk
+#xml
+#xmm
+#xmn
+#xmo
+#xmp
+#xmq
+#xmr
+#xms
+#xmt
+#xmu
+#xmv
+xmw	現
+#xmx
+#xmy
+#xmz
+#xna
+#xnb
+#xnc
+#xnd
+#xne
+#xnf
+#xng
+#xnh
+#xnj
+#xni
+#xnk
+#xnl
+#xnm
+#xnn
+#xno
+#xnp
+#xnq
+#xnr
+#xns
+#xnt
+#xnu
+#xnv
+#xnw
+#xnx
+#xny
+#xnz
+#xoa
+#xob
+#xoc
+#xod
+#xoe
+#xof
+#xog
+#xoh
+#xoj
+#xoi
+#xok
+#xol
+#xom
+#xon
+#xoo
+#xop
+#xoq
+#xor
+#xos
+#xot
+#xou
+#xov
+#xow
+#xox
+#xoy
+#xoz
+#xpa
+#xpb
+#xpc
+#xpd
+#xpe
+#xpf
+#xpg
+#xph
+#xpj
+#xpi
+#xpk
+#xpl
+#xpm
+#xpn
+#xpo
+#xpp
+#xpq
+#xpr
+#xps
+#xpt
+#xpu
+#xpv
+#xpw
+#xpx
+#xpy
+#xpz
+#xqa
+#xqb
+#xqc
+#xqd
+#xqe
+#xqf
+#xqg
+#xqh
+#xqj
+#xqi
+#xqk
+#xql
+#xqm
+#xqn
+#xqo
+#xqp
+#xqq
+#xqr
+#xqs
+#xqt
+#xqu
+#xqv
+#xqw
+#xqx
+#xqy
+#xqz
+#xra
+#xrb
+#xrc
+#xrd
+#xre
+#xrf
+#xrg
+#xrh
+#xrj
+#xri
+#xrk
+#xrl
+#xrm
+#xrn
+#xro
+#xrp
+#xrq
+#xrr
+#xrs
+#xrt
+#xru
+#xrv
+xrw	玄
+#xrx
+#xry
+#xrz
+#xsa
+#xsb
+#xsc
+#xsd
+#xse
+#xsf
+#xsg
+xsh	熊
+#xsj
+#xsi
+#xsk
+#xsl
+#xsm
+#xsn
+#xso
+#xsp
+#xsq
+#xsr
+#xss
+#xst
+#xsu
+#xsv
+#xsw
+#xsx
+#xsy
+#xsz
+#xta
+#xtb
+#xtc
+xtd	削
+#xte
+#xtf
+#xtg
+#xth
+#xtj
+#xti
+#xtk
+#xtl
+#xtm
+#xtn
+#xto
+#xtp
+#xtq
+#xtr
+#xts
+#xtt
+#xtu
+#xtv
+#xtw
+#xtx
+#xty
+#xtz
+#xua
+#xub
+#xuc
+#xud
+#xue
+#xuf
+#xug
+#xuh
+#xuj
+#xui
+#xuk
+#xul
+#xum
+#xun
+#xuo
+#xup
+#xuq
+#xur
+#xus
+#xut
+#xuu
+#xuv
+#xuw
+#xux
+#xuy
+#xuz
+#xva
+#xvb
+#xvc
+#xvd
+#xve
+#xvf
+#xvg
+#xvh
+#xvj
+#xvi
+#xvk
+#xvl
+#xvm
+#xvn
+#xvo
+#xvp
+#xvq
+#xvr
+#xvs
+#xvt
+#xvu
+#xvv
+#xvw
+#xvx
+#xvy
+#xvz
+#xwa
+#xwb
+#xwc
+#xwd
+#xwe
+#xwf
+#xwg
+#xwh
+#xwj
+#xwi
+#xwk
+#xwl
+#xwm
+#xwn
+#xwo
+#xwp
+#xwq
+#xwr
+#xws
+#xwt
+#xwu
+#xwv
+#xww
+#xwx
+#xwy
+#xwz
+#xxa
+#xxb
+#xxc
+#xxd
+#xxe
+#xxf
+#xxg
+#xxh
+#xxj
+#xxi
+#xxk
+#xxl
+#xxm
+#xxn
+#xxo
+#xxp
+#xxq
+#xxr
+#xxs
+#xxt
+#xxu
+#xxv
+#xxw
+#xxx
+#xxy
+#xxz
+#xya
+#xyb
+#xyc
+#xyd
+#xye
+#xyf
+#xyg
+#xyh
+#xyj
+#xyi
+#xyk
+#xyl
+#xym
+#xyn
+#xyo
+#xyp
+#xyq
+#xyr
+#xys
+xyt	型
+#xyu
+#xyv
+#xyw
+#xyx
+#xyy
+#xyz
+#xza
+#xzb
+#xzc
+#xzd
+#xze
+#xzf
+#xzg
+#xzh
+#xzj
+#xzi
+#xzk
+#xzl
+#xzm
+#xzn
+#xzo
+#xzp
+#xzq
+#xzr
+#xzs
+#xzt
+#xzu
+#xzv
+#xzw
+#xzx
+#xzy
+#xzz
+yaa	牙
+yab	丫
+yac	芽
+yad	涯
+yae	聐
+yaf	押
+#yag
+yah	亞
+#yaj
+yai	軋
+yak	啞
+yal	劜
+yam	椏
+yan	鴨
+yan	鴉
+yao	睚
+yaq	氬
+yar	伢
+yat	壓
+yau	崖
+yav	雅
+yaw	琊
+yax	衙
+yay	訝
+#yaz
+yba	由
+yba	酉
+yba	尤
+ybb	宥
+ybb	釉
+ybb	宥
+ybc	莠
+ybd	油
+ybd	游
+ybe	郵
+ybf	揂
+ybf	斿
+ybg	庮
+ybh	尤
+ybj	鈾
+#ybi
+ybk	右
+ybl	幼
+ybm	柚
+#ybn
+#ybo
+ybp	牖
+ybq	猶
+ybr	優
+ybr	佑
+ybs	纋
+#ybt
+ybu	右
+ybv	又
+#ybw
+ybx	憂
+yby	友
+ybz	遊
+#yca
+#ycb
+#ycc
+#ycd
+#yce
+#ycf
+#ycg
+#ych
+#ycj
+#yci
+#yck
+#ycl
+#ycm
+#ycn
+#yco
+#ycp
+#ycq
+#ycr
+#ycs
+#yct
+#ycu
+#ycv
+#ycw
+#ycx
+#ycy
+#ycz
+#yda
+#ydb
+#ydc
+ydd	一點點
+#yde
+#ydf
+#ydg
+#ydh
+#ydj
+#ydi
+#ydk
+#ydl
+#ydm
+#ydn
+#ydo
+#ydp
+#ydq
+#ydr
+#yds
+#ydt
+#ydu
+yduh	有的時候
+#ydv
+#ydw
+#ydx
+#ydy
+#ydz
+#yea
+#yeb
+#yec
+#yed
+#yee
+#yef
+#yeg
+yeh	頁
+#yej
+#yei
+#yek
+#yel
+#yem
+#yen
+#yeo
+#yep
+#yeq
+#yer
+#yes
+#yet
+#yeu
+#yev
+#yew
+#yex
+#yey
+#yez
+#yfa
+#yfb
+#yfc
+#yfd
+#yfe
+#yff
+#yfg
+#yfh
+#yfj
+#yfi
+#yfk
+#yfl
+yfm	一方面
+#yfn
+#yfo
+#yfp
+#yfq
+#yfr
+#yfs
+#yft
+yfu	語法樹
+#yfv
+#yfw
+#yfx
+#yfy
+#yfz
+#yga
+#ygb
+#ygc
+#ygd
+#yge
+#ygf
+#ygg
+#ygh
+#ygj
+#ygi
+#ygk
+ygl	應該
+#ygm
+#ygn
+#ygo
+#ygp
+#ygq
+ygr	一個人
+#ygs
+#ygt
+ygu	應該是
+#ygv
+#ygw
+ygx	有關係
+#ygy
+#ygz
+yha	央
+yhb	癢
+#yhc
+yhd	洋
+yhdd	羊
+yhe	陽
+yhf	揚
+yhg	鞅
+yhh	秧
+yhh	煬
+#yhj
+#yhi
+yhk	央
+#yhl
+yhm	楊
+yhm	樣
+yhn	鴦
+yho	暘
+#yhp
+yhq	氧
+yhr	仰
+#yhs
+#yht
+#yhu
+#yhv
+#yhw
+yhx	恙
+yhy	養
+#yhz
+yja	严
+yjb	宴
+yjc	菸
+yjd	演
+yjd	淹
+#yje
+yjf	掩
+yjg	魘
+yjh	煙
+yjj	眼鏡
+yjjy	眼睛
+yjjy	眼鏡
+yji	厭
+yjk	嚴
+#yjl
+#yjm
+#yjn
+yjo	眼
+#yjp
+#yjq
+yjr	衍
+yjs	艷
+yjt	堰
+yju	研
+yjv	焉
+yjw	彥
+yjx	衍
+yjy	顏
+yjyy	諺
+yjz	延
+yia	乙
+yib	疑
+yic	藝
+yic	弈
+yicy	弈
+yicy	羿
+yid	衣
+#yie
+yif	抑
+#yig
+yih	熠
+yij	銥
+yii	蟻
+yik	咦
+yik	噫
+yik	邑
+yik	囈
+yil	意
+yim	益
+yim	驛
+yim	椅
+yin	姨
+yio	易
+yio	胰
+yip	乂
+yiq	猗
+yir	依
+yir	億
+yir	伊
+yir	儀
+yir	倚
+yir	佚
+yirq	倚
+yiry	億
+yiry	儀
+yis	矣
+yis	縊
+yis	繹
+yis	繄
+yisi	意思
+yit	異
+yiu	毅
+yiv	已
+yiw	亦
+yix	意
+yiy	議
+yiy	義
+yiz	遺
+yka	幺
+#ykb
+ykc	藥
+#ykd
+#yke
+#ykf
+#ykg
+#ykh
+#ykj
+#yki
+#ykk
+#ykl
+#ykm
+#ykn
+#yko
+#ykp
+#ykq
+#ykr
+#yks
+#ykt
+#yku
+#ykv
+#ykw
+ykx	窑
+yky	謠
+#ykz
+#yla
+#ylb
+#ylc
+#yld
+#yle
+#ylf
+#ylg
+#ylh
+#ylj
+#yli
+#ylk
+#yll
+#ylm
+#yln
+#ylo
+#ylp
+#ylq
+#ylr
+#yls
+#ylt
+#ylu
+#ylv
+#ylw
+#ylx
+yly	越來越
+yly	愈來愈
+#ylz
+#yma
+#ymb
+#ymc
+#ymd
+#yme
+#ymf
+#ymg
+#ymh
+#ymj
+#ymi
+#ymk
+#yml
+#ymm
+#ymn
+#ymo
+#ymp
+#ymq
+#ymr
+#yms
+#ymt
+#ymu
+#ymv
+#ymw
+#ymx
+ymy	有沒有
+#ymz
+#yna
+#ynb
+#ync
+#ynd
+#yne
+#ynf
+#yng
+#ynh
+#ynj
+#yni
+#ynk
+#ynl
+#ynm
+#ynn
+#yno
+#ynp
+#ynq
+#ynr
+#yns
+#ynt
+#ynu
+#ynv
+#ynw
+#ynx
+#yny
+#ynz
+#yoa
+#yob
+#yoc
+#yod
+#yoe
+#yof
+#yog
+#yoh
+#yoj
+#yoi
+#yok
+#yol
+#yom
+#yon
+#yoo
+#yop
+#yoq
+#yor
+#yos
+#yot
+#you
+#yov
+#yow
+#yox
+#yoy
+#yoz
+#ypa
+#ypb
+#ypc
+#ypd
+ype	云
+#ypf
+#ypg
+#yph
+#ypj
+#ypi
+#ypk
+#ypl
+#ypm
+#ypn
+ypo	暈
+#ypp
+#ypq
+#ypr
+#yps
+#ypt
+#ypu
+#ypv
+#ypw
+#ypx
+#ypy
+#ypz
+#yqa
+#yqb
+#yqc
+#yqd
+#yqe
+#yqf
+#yqg
+#yqh
+#yqj
+#yqi
+#yqk
+#yql
+#yqm
+#yqn
+#yqo
+#yqp
+#yqq
+#yqr
+#yqs
+#yqt
+#yqu
+#yqv
+#yqw
+#yqx
+#yqy
+#yqz
+#yra
+#yrb
+#yrc
+yrd	源
+yrd	淵
+#yre
+#yrf
+#yrg
+#yrh
+#yrj
+#yri
+#yrk
+#yrl
+#yrm
+#yrn
+#yro
+#yrp
+#yrq
+#yrr
+#yrs
+#yrt
+#yru
+#yrv
+#yrw
+#yrx
+#yry
+#yrz
+#ysa
+#ysb
+#ysc
+#ysd
+#yse
+#ysf
+#ysg
+#ysh
+#ysj
+#ysi
+#ysk
+#ysl
+#ysm
+#ysn
+#yso
+#ysp
+#ysq
+#ysr
+#yss
+#yst
+#ysu
+#ysv
+#ysw
+#ysx
+#ysy
+#ysz
+yta	曰
+#ytb
+#ytc
+#ytd
+#yte
+#ytf
+#ytg
+#yth
+#ytj
+#yti
+#ytk
+#ytl
+#ytm
+#ytn
+#yto
+#ytp
+#ytq
+#ytr
+#yts
+#ytt
+#ytu
+#ytv
+#ytw
+#ytx
+#yty
+#ytz
+yua	于
+yuad	雨
+yub	宇
+#yuc
+yud	魚
+#yue
+#yuf
+yug	欲
+#yuh
+#yuj
+yui	御
+#yuk
+#yul
+#yum
+#yun
+#yuo
+#yup
+yuq	獄
+yur	余
+#yus
+#yut
+#yuu
+#yuv
+yuw	玉
+yux	羽
+yuxxo	御
+yuy	語
+yuy	預
+#yuz
+#yva
+#yvb
+#yvc
+#yvd
+#yve
+#yvf
+#yvg
+#yvh
+#yvj
+#yvi
+#yvk
+#yvl
+#yvm
+#yvn
+#yvo
+#yvp
+#yvq
+#yvr
+#yvs
+#yvt
+#yvu
+#yvv
+#yvw
+yvx	一致性
+#yvy
+#yvz
+#ywa
+#ywb
+#ywc
+ywd	英偉達
+#ywe
+#ywf
+#ywg
+#ywh
+#ywj
+#ywi
+#ywk
+#ywl
+#ywm
+#ywn
+#ywo
+#ywp
+#ywq
+#ywr
+#yws
+#ywt
+#ywu
+#ywv
+yww	以爲
+#ywx
+#ywy
+#ywz
+#yxa
+#yxb
+#yxc
+#yxd
+#yxe
+#yxf
+#yxg
+#yxh
+#yxj
+#yxi
+#yxk
+#yxl
+#yxm
+#yxn
+#yxo
+#yxp
+#yxq
+#yxr
+#yxs
+#yxt
+#yxu
+#yxv
+#yxw
+#yxx
+yxy	一心一意
+yxyy	一心一意
+#yxz
+#yya
+#yyb
+#yyc
+#yyd
+#yye
+#yyf
+#yyg
+#yyh
+#yyj
+yyi	蠅
+yyix	應用程序
+#yyk
+#yyl
+#yym
+yyn	鷹
+yynb	嬰
+yyo	映
+yyp	影
+#yyq
+#yyr
+yys	縈
+yyt	塋
+yyu	硬
+#yyv
+#yyw
+#yyx
+#yyy
+yyz	迎
+#yza
+#yzb
+#yzc
+#yzd
+#yze
+#yzf
+#yzg
+#yzh
+#yzj
+#yzi
+#yzk
+#yzl
+#yzm
+#yzn
+#yzo
+#yzp
+#yzq
+#yzr
+#yzs
+#yzt
+#yzu
+#yzv
+#yzw
+#yzx
+#yzy
+#yzz
+#zaa
+#zab
+#zac
+#zad
+#zae
+#zaf
+#zag
+#zah
+#zaj
+#zai
+zak	咱
+#zal
+#zam
+#zan
+#zao
+#zap
+#zaq
+#zar
+#zas
+#zat
+#zau
+#zav
+#zaw
+#zax
+#zay
+#zaz
+#zba
+#zbb
+#zbc
+#zbd
+#zbe
+#zbf
+#zbg
+#zbh
+#zbj
+#zbi
+#zbk
+#zbl
+#zbm
+#zbn
+#zbo
+#zbp
+#zbq
+#zbr
+#zbs
+#zbt
+#zbu
+#zbv
+#zbw
+#zbx
+#zby
+#zbz
+#zca
+#zcb
+#zcc
+#zcd
+#zce
+#zcf
+#zcg
+#zch
+#zcj
+#zci
+#zck
+#zcl
+#zcm
+#zcn
+#zco
+#zcp
+#zcq
+#zcr
+#zcs
+#zct
+#zcu
+#zcv
+#zcw
+#zcx
+#zcy
+#zcz
+#zda
+#zdb
+#zdc
+#zdd
+#zde
+#zdf
+#zdg
+#zdh
+#zdj
+#zdi
+#zdk
+#zdl
+#zdm
+#zdn
+#zdo
+#zdp
+#zdq
+#zdr
+#zds
+#zdt
+#zdu
+#zdv
+#zdw
+#zdx
+zdy	自定義
+#zdz
+#zea
+#zeb
+#zec
+#zed
+#zee
+#zef
+#zeg
+#zeh
+#zej
+#zei
+#zek
+#zel
+#zem
+#zen
+#zeo
+#zep
+#zeq
+#zer
+#zes
+#zet
+#zeu
+#zev
+#zew
+#zex
+#zey
+#zez
+#zfa
+#zfb
+#zfc
+#zfd
+#zfe
+#zff
+#zfg
+#zfh
+#zfj
+#zfi
+#zfk
+#zfl
+#zfm
+#zfn
+#zfo
+#zfp
+#zfq
+#zfr
+#zfs
+#zft
+#zfu
+#zfv
+#zfw
+#zfx
+#zfy
+#zfz
+#zga
+#zgb
+#zgc
+#zgd
+#zge
+#zgf
+#zgg
+#zgh
+#zgj
+#zgi
+#zgk
+#zgl
+#zgm
+#zgn
+#zgo
+#zgp
+#zgq
+#zgr
+#zgs
+#zgt
+#zgu
+#zgv
+#zgw
+#zgx
+#zgy
+#zgz
+#zha
+#zhb
+#zhc
+#zhd
+#zhe
+#zhf
+#zhg
+#zhh
+#zhj
+#zhi
+#zhk
+#zhl
+#zhm
+#zhn
+#zho
+#zhp
+#zhq
+#zhr
+#zhs
+#zht
+#zhu
+#zhv
+#zhw
+#zhx
+#zhy
+#zhz
+#zja
+#zjb
+#zjc
+#zjd
+#zje
+#zjf
+#zjg
+#zjh
+#zjj
+#zji
+#zjk
+#zjl
+#zjm
+#zjn
+zjo	暫
+#zjp
+#zjq
+#zjr
+#zjs
+#zjt
+#zju
+#zjv
+#zjw
+#zjx
+#zjy
+#zjz
+zia	子
+zib	資
+#zic
+#zid
+#zie
+#zif
+#zig
+#zih
+#zij
+ziji	自己
+#zii
+#zik
+#zil
+#zim
+#zin
+#zio
+#zip
+#ziq
+#zir
+#zis
+#zit
+#ziu
+#ziv
+#ziw
+#zix
+#ziy
+#ziz
+#zka
+#zkb
+#zkc
+#zkd
+#zke
+#zkf
+#zkg
+#zkh
+zkj	鑿
+#zki
+#zkk
+#zkl
+#zkm
+#zkn
+#zko
+#zkp
+#zkq
+#zkr
+#zks
+#zkt
+#zku
+#zkv
+#zkw
+#zkx
+zky	凿
+#zkz
+#zla
+#zlb
+#zlc
+#zld
+#zle
+#zlf
+#zlg
+#zlh
+#zlj
+#zli
+#zlk
+#zll
+#zlm
+#zln
+#zlo
+#zlp
+#zlq
+#zlr
+#zls
+#zlt
+#zlu
+#zlv
+#zlw
+#zlx
+#zly
+#zlz
+#zma
+zmb	怎麼辦
+zmba	怎麼辦啊
+zmc	怎麼才
+#zmd
+#zme
+#zmf
+#zmg
+#zmh
+zmj	怎麼講
+#zmi
+#zmk
+zml	怎麼了
+zmla	怎么啦
+zmlak	怎么啦
+#zmm
+#zmn
+#zmo
+#zmp
+#zmq
+#zmr
+#zms
+#zmt
+zmu	怎麼說
+#zmv
+zmvm	怎麼這麼
+#zmw
+zmx	怎麼行
+zmy	怎麼樣
+zmz	怎麼做
+#zna
+#znb
+#znc
+#znd
+#zne
+#znf
+#zng
+#znh
+#znj
+#zni
+#znk
+#znl
+#znm
+#znn
+#zno
+#znp
+#znq
+#znr
+#zns
+#znt
+#znu
+#znv
+#znw
+#znx
+#zny
+#znz
+#zoa
+#zob
+#zoc
+#zod
+#zoe
+#zof
+#zog
+#zoh
+#zoj
+#zoi
+#zok
+#zol
+#zom
+#zon
+#zoo
+#zop
+#zoq
+zor	作
+#zos
+zot	坐
+zou	左
+#zov
+#zow
+#zox
+#zoy
+#zoz
+#zpa
+#zpb
+#zpc
+#zpd
+#zpe
+#zpf
+#zpg
+#zph
+#zpj
+#zpi
+#zpk
+#zpl
+#zpm
+#zpn
+#zpo
+#zpp
+#zpq
+#zpr
+#zps
+#zpt
+#zpu
+#zpv
+#zpw
+#zpx
+#zpy
+#zpz
+#zqa
+#zqb
+#zqc
+#zqd
+#zqe
+#zqf
+#zqg
+#zqh
+#zqj
+#zqi
+#zqk
+#zql
+#zqm
+#zqn
+#zqo
+#zqp
+#zqq
+#zqr
+#zqs
+#zqt
+#zqu
+#zqv
+#zqw
+#zqx
+#zqy
+#zqz
+#zra
+#zrb
+#zrc
+#zrd
+#zre
+#zrf
+#zrg
+#zrh
+#zrj
+#zri
+#zrk
+#zrl
+zrm	自然碼
+zrmup	自然碼雙拼
+#zrn
+#zro
+#zrp
+#zrq
+#zrr
+#zrs
+#zrt
+#zru
+#zrv
+#zrw
+#zrx
+#zry
+#zrz
+#zsa
+#zsb
+#zsc
+#zsd
+#zse
+#zsf
+#zsg
+#zsh
+#zsj
+#zsi
+#zsk
+#zsl
+#zsm
+#zsn
+#zso
+#zsp
+#zsq
+#zsr
+#zss
+zssm	這是什麼
+#zst
+#zsu
+#zsv
+#zsw
+#zsx
+#zsy
+#zsz
+#zta
+#ztb
+#ztc
+#ztd
+#zte
+#ztf
+#ztg
+#zth
+#ztj
+#zti
+#ztk
+#ztl
+#ztm
+#ztn
+#zto
+#ztp
+#ztq
+#ztr
+#zts
+#ztt
+#ztu
+#ztv
+#ztw
+#ztx
+#zty
+#ztz
+#zua
+#zub
+#zuc
+#zud
+#zue
+#zuf
+#zug
+#zuh
+#zuj
+#zui
+#zuk
+#zul
+#zum
+#zun
+#zuo
+#zup
+#zuq
+#zur
+#zus
+#zut
+#zuu
+#zuv
+zuvv	自始至終
+#zuw
+#zux
+#zuy
+#zuz
+#zva
+#zvb
+#zvc
+#zvd
+#zve
+#zvf
+#zvg
+#zvh
+#zvj
+#zvi
+#zvk
+#zvl
+#zvm
+#zvn
+#zvo
+#zvp
+#zvq
+#zvr
+#zvs
+#zvt
+#zvu
+#zvv
+#zvw
+#zvx
+#zvy
+#zvz
+#zwa
+#zwb
+#zwc
+#zwd
+#zwe
+#zwf
+#zwg
+#zwh
+#zwj
+#zwi
+#zwk
+#zwl
+#zwm
+#zwn
+#zwo
+#zwp
+#zwq
+#zwr
+#zws
+#zwt
+#zwu
+#zwv
+#zww
+#zwx
+#zwy
+#zwz
+#zxa
+#zxb
+#zxc
+#zxd
+#zxe
+#zxf
+#zxg
+#zxh
+#zxj
+zxi	自行車
+#zxk
+#zxl
+#zxm
+#zxn
+#zxo
+#zxp
+#zxq
+#zxr
+#zxs
+#zxt
+#zxu
+#zxv
+#zxw
+#zxx
+#zxy
+#zxz
+#zya
+#zyb
+#zyc
+zyd	怎樣的
+#zye
+#zyf
+#zyg
+#zyh
+#zyj
+#zyi
+#zyk
+#zyl
+#zym
+#zyn
+#zyo
+#zyp
+#zyq
+#zyr
+#zys
+#zyt
+#zyu
+#zyv
+#zyw
+#zyx
+zyy	作用域
+#zyz
+#zza
+#zzb
+#zzc
+#zzd
+#zze
+#zzf
+#zzg
+#zzh
+#zzj
+#zzi
+#zzk
+#zzl
+#zzm
+#zzn
+#zzo
+#zzp
+#zzq
+#zzr
+#zzs
+#zzt
+#zzu
+#zzv
+#zzw
+#zzx
+#zzy
+#zzz
+
