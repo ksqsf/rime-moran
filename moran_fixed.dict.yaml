@@ -213,7 +213,7 @@ ha	哈
 hb	後
 hc	緩存
 hd	黃
-he	合
+he	何
 hf	很
 hg	哼
 hh	行
@@ -554,7 +554,7 @@ ux	實現
 uy	帅
 uz	誰
 va	渣
-vb	粥
+vb	周
 vc	至此
 vd	裝
 ve	着
@@ -562,7 +562,7 @@ vf	真
 vg	這個
 vh	章
 vj	站
-vi	之
+vi	只
 vk	找
 vl	摘
 vm	這麼
@@ -701,6 +701,7 @@ ahg	骯
 ahm	盎
 aho	昂
 ahu	岇
+ahv	愛好者
 ahy	醠
 aib	癌
 aic	艾
@@ -1171,6 +1172,7 @@ bvf	辯證法
 bvj	B站
 bvj	Bilibili
 bvi	標準差
+bvii	不支持
 bvl	備註欄
 bvp	標誌牌
 bvq	保質期
@@ -1188,8 +1190,8 @@ bwl	備忘錄
 bwp	保溫瓶
 bwq	不完全
 bxa	不行啊
-bxb	癟
-bxd	別
+#bxb	癟
+#bxd	別
 bxf	保險費
 bxg	龞
 bxg	彆
@@ -4826,7 +4828,7 @@ hen	鶴
 heo	曷
 #hep
 #heq
-her	何
+her	合
 #hes
 #het
 #heu
@@ -5492,8 +5494,7 @@ jdd	江
 #jdw
 #jdx
 jdy	講
-jdyj	醬
-
+jdy	醬
 #jdz
 #jea
 #jeb
@@ -5635,14 +5636,15 @@ jia	己
 #jid
 #jie
 jif	擊
-#jig
+jig	即
 #jih
-#jij
+jij	既
 #jii
 #jik
 #jil
 jim	機
 jim	極
+jimq	極
 jin	鷄
 #jio
 jip	几
@@ -5885,7 +5887,7 @@ jsjkxj	計算機科學家
 #jsn
 #jso
 #jsp
-#jsq
+jsq	計算器
 #jsr
 #jss
 #jst
@@ -5923,7 +5925,7 @@ jsjkxj	計算機科學家
 #jtz
 #jua
 #jub
-#juc
+juc	菊
 #jud
 #jue
 #juf
@@ -11085,8 +11087,8 @@ qih	其
 #qii
 qik	器
 #qil
-qim	棋
 qim	騎
+qimq	棋
 #qin
 qio	期
 qip	气
@@ -11886,7 +11888,7 @@ rgvn	人工智能
 #rnz
 #roa
 #rob
-#roc
+roc	蒻
 #rod
 #roe
 #rof
@@ -14294,7 +14296,7 @@ uxw	上下文
 #vbh
 #vbj
 #vbi
-vbk	周
+vbk	咒
 #vbl
 #vbm
 #vbn
@@ -14460,7 +14462,8 @@ vga	正
 #vhp
 #vhq
 #vhr
-vhrm	中華人民共和國
+vhrm	中華人民
+vhrmg	中華人民共和國
 #vhs
 #vht
 #vhu
@@ -14502,14 +14505,14 @@ vjmv	粘
 #via
 #vib
 #vic
-vid	制
+vid	之
 #vie
 #vif
 #vig
 vih	秩
 #vij
 #vii
-#vik
+vik	只
 #vil
 #vim
 #vin
@@ -16948,7 +16951,7 @@ ywd	英偉達
 #ywt
 #ywu
 #ywv
-#yww
+yww	以爲
 #ywx
 #ywy
 #ywz
