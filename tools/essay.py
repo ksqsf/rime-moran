@@ -10,10 +10,14 @@ text2\tweight2
 from pypinyin import lazy_pinyin
 from zrmify import zrmify1
 from zrmstd import zrmstd
+import opencc
+
+
+conv = opencc.OpenCC()
 
 
 def get_code(text):
-    pys = lazy_pinyin(text)
+    pys = lazy_pinyin(conv.convert(text))
     zrms = [zrmify1(py) for py in pys]
     stds = [zrmstd(c) for c in text]
     res = []
@@ -22,10 +26,10 @@ def get_code(text):
     return ' '.join(res)
 
 
-if __name__ == '__main__':
+def main():
     with open('input.txt', 'r') as f:
         for l in f:
-            [text, weight] = l.strip().split('\t')
+            [text, _code, weight] = l.strip().split('\t')
             weight = float(weight)
             if len(text) > 1:
                 try:
@@ -35,3 +39,7 @@ if __name__ == '__main__':
                     print(f'{text}\t\t{weight:g}')
             else:
                 print(f'{text}\t\t{weight:g}')
+
+
+if __name__ == '__main__':
+    main()

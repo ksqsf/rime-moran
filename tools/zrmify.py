@@ -43,7 +43,7 @@ def 聲母轉換(pinyin: str) -> str:
             if pinyin in 'bpmfdtnlgkhjqxrzcsyw':
                 return pinyin
             else:
-                return ValueError('無效拼音聲母序列: ' + pinyin)
+                raise ValueError('無效拼音聲母序列: ' + pinyin)
 
 def 韻母轉換(pinyin: str) -> str:
     映射表 = {
