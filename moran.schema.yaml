@@ -9,8 +9,8 @@ schema:
   dependencies:
     - tiger
     - moran_fixed
-    - moran.english
-    - moran.japanese
+    - moran_english
+    - moran_japanese
 
 switches:
   - name: ascii_mode
@@ -91,10 +91,10 @@ translator:    # 整句輸入模式設置，在 top_translator 中被調用
 
 fixed:         # 固頂輸入模式設置，在 top_translator 中被調用
   initial_quality: 10
-  enable_user_dict: false
   dictionary: moran_fixed
   enable_completion: false
   enable_sentence: false
+  enable_user_dict: false
   enable_encoder: false
   encode_commit_history: false
   contextual_suggestions: true
@@ -110,16 +110,22 @@ custom_phrase: # 自定義短語
   initial_quality: 15
 
 english:
-  dictionary: moran.english
+  dictionary: moran_english
   enable_completion: true
   enable_sentence: false
-  initial_quality: 0
+  enable_user_dict: true
+  initial_quality: 1
+  enable_encoder: false
+  encode_commit_history: false
 
 japanese:
-  dictionary: moran.japanese
+  dictionary: moran_japanese
   enable_completion: false
   enable_sentence: false
-  initial_quality: 1
+  enable_user_dict: true
+  initial_quality: 0
+  enable_encoder: false
+  encode_commit_history: false
 
 emoji:
   opencc_config: emoji.json
