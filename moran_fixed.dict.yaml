@@ -827,10 +827,10 @@ bbrw	並不認爲
 bbry	並不容易
 bbth	棒棒糖
 bbtt	蹦蹦跳跳
-bbu	不变式
+bbu	並不是
 bbub	擺擺手
 bbuh	比不上
-bbui	並不是
+bbui	不變式
 bbum	幫不上忙
 bbuu	並不是說
 bbvb	八寶粥
@@ -5780,7 +5780,7 @@ dagu	打鼓
 dagw	大褂
 dagy	打怪
 dagz	打給
-dah	大
+daa	大
 dah	炟
 dahb	大吼
 dahe	大河
@@ -6149,8 +6149,8 @@ dbz	逗
 dbzb	帶不走
 dbzg	陡增
 dbzi	豆子
-dbzl	蹬鼻子上臉
 dbzl	都在
+dbzl	蹬鼻子上臉
 dbzo	代表作
 dbzv	單兵作戰
 dbzv	鬥嘴
@@ -18625,6 +18625,7 @@ igdj	承擔
 igdk	稱道
 igdk	長歌當哭
 igds	城東
+igdu	程度
 igdu	成都
 igdv	成對
 igdw	澂
@@ -21324,8 +21325,8 @@ jidy	既定
 jidy	敧
 jidz	洎
 jidz	泲
-jie	際
 jie	即
+jie	際
 jiee	飢餓
 jieq	絕塵而去
 jieq	隮
@@ -44222,7 +44223,7 @@ ueii	奢侈
 ueil	十二重樓
 ueiu	射出
 uejc	社交
-ueji	涉及
+uej	涉及
 ueji	設計
 uejm	射箭
 uejn	射進
@@ -44822,6 +44823,7 @@ uhhh	商行
 uhhj	傷寒
 uhhk	上好
 uhhl	上海
+uhhl	傷害
 uhho	上火
 uhhu	商戶
 uhhv	上回
@@ -45274,7 +45276,7 @@ uixu	徥
 uixu	忯
 uixw	試下
 uixy	實行
-uiy	式
+uig	式
 uiy	識
 uiya	施壓
 uiyb	石油
@@ -52109,7 +52111,7 @@ wzjw	幃
 wzjw	覣
 wzjx	未接
 wzjy	未經
-wzk	圍
+wzk	喂
 wzkb	胃口
 wzke	未可
 wzkh	違抗
@@ -52119,8 +52121,8 @@ wzkr	尾款
 wzks	唯恐
 wzks	唯恐
 wzkv	唯
+wzkw	圍
 wzkw	味
-wzkw	喂
 wzla	微辣
 wzlb	危樓
 wzld	微量
@@ -52850,8 +52852,8 @@ xdwy	襄
 xdwz	香味
 xdx	嚮
 xdxc	想笑
-xdxd	先到先得
 xdxd	想象
+xdxd	先到先得
 xdxg	衖
 xdxi	詳細
 xdxm	象限
@@ -55974,8 +55976,6 @@ yazo	雅座
 yazy	孲
 yb	有
 yba	由
-yba	尤
-yba	又
 ybaa	酉
 ybad	尤
 ybai	友愛
@@ -56231,6 +56231,7 @@ ybuw	也不失爲
 ybuy	幽
 ybuy	祐
 ybuy	鼬
+ybv	又
 ybva	油炸
 ybvb	以暴制暴
 ybvd	也不知道
@@ -62542,4 +62543,3 @@ zzxn	賊心
 zzyj	賊眼
 zzzh	賊贓
 zzzi	賊子
-uhhl	傷害
