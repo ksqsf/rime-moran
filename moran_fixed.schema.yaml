@@ -42,6 +42,7 @@ engine:
   translators:
     - punct_translator
     - reverse_lookup_translator
+    - table_translator@custom_phrase       # 自定義短語
     - table_translator
   filters:
     - simplifier
@@ -65,8 +66,15 @@ translator:
   enable_sentence: false
   enable_completion: false
   enable_user_dict: false
-  disable_user_dict_for_patterns:
-    - "^z.*$"
+
+custom_phrase: # 自定義短語
+  dictionary: ""
+  user_dict: moran.custom
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 10
+
 
 punctuator:
   import_preset: symbols
