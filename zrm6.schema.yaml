@@ -1,0 +1,72 @@
+schema:
+  schema_id: zrm6
+  name: 自然码6.0码表
+  version: "0.1"
+  author:
+    - 发明人：周志农
+    - 方案制作：ksqsf
+  description: |
+    不包含自然码正式版中的各种基本功能、辅助功能和扩充词库等，仅仅只有LINUX中的简单输入功能。因为受到码表总条数64K的限制，其中单字不支持4码，并且词组数量也只有5万多。
+
+    ※ 该方案对原码表没有任何修改，任何错讹都是码表自带的。
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - reverse_lookup_translator
+    - table_translator
+  filters:
+    - uniquifier
+
+speller:
+  alphabet: "abcdefghijklmnopqrstuvwxyz'"
+  delimiter: " "
+  max_code_length: 4
+  auto_select: true
+  auto_select_pattern: ^;.$|^\w{4}$
+  auto_clear: max_length # manual | auto | max_length
+
+ascii_composer:
+  switch_key:
+    Shift_L: commit_code
+
+translator:
+  dictionary: zrm6
+  enable_charset_filter: false
+  enable_sentence: false
+  enable_completion: false
+  enable_user_dict: false
+  disable_user_dict_for_patterns:
+    - "^z.*$"
+
+punctuator:
+  import_preset: symbols
+
+key_binder:
+  import_preset: default
+  bindings:
+    - {when: has_menu, accept: semicolon, send: "2"}

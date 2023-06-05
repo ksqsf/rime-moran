@@ -1,6 +1,6 @@
 patch:
   schema_list:
     - {schema: moran}
-    - {schema: tiger}
+    - {schema: zrm6}
     - {schema: luna_pinyin}
     - {schema: njerchet}
