@@ -27,20 +27,38 @@ end
 
 function top.func(input, seg, env)
    local input_len = utf8.len(input)
-   -- 禁止輸出詞語
-   if (input_len < 4 and env.engine.context.input == input) then
-      local fixed_res = env.fixed:query(input, seg)
+   local fixed_triggered = false
+   -- 當輸入長度大於等於4時，禁止輸出詞語
+   if (input_len ~= 4 and env.engine.context.input == input) then
+      fixed_triggered = true
       local input_len = utf8.len(input)
-      for cand in fixed_res:iter() do
-         local cand_len = utf8.len(cand.text)
-         cand.comment = "⚡"
-         yield(cand)
+      local fixed_res = env.fixed:query(input, seg)
+      if fixed_res ~= nil then
+         for cand in fixed_res:iter() do
+            local cand_len = utf8.len(cand.text)
+            cand.comment = "⚡"
+            yield(cand)
+         end
       end
    end
 
    local smart_res = env.smart:query(input, seg)
-   for cand in smart_res:iter() do
-      yield(cand)
+   if smart_res ~= nil then
+      for cand in smart_res:iter() do
+         yield(cand)
+      end
+   end
+
+   -- 如果 smart 輸出爲空，並且 fixed 之前沒有調用過，此時再嘗試調用一下
+   if smart_res == nil and not fixed_triggered then
+      local fixed_res = env.fixed:query(input, seg)
+      if fixed_res ~= nil then
+         for cand in fixed_res:iter() do
+            local cand_len = utf8.len(cand.text)
+            cand.comment = "⚡"
+            yield(cand)
+         end
+      end
    end
 end
 
