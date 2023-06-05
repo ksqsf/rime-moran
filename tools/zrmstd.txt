@@ -4531,8 +4531,8 @@
 彴=xu
 彵=xy
 彶=xj
-彷=rf
 彷=xf
+彷=rf
 彸=xg
 役=xu
 彺=xw
@@ -4564,8 +4564,8 @@
 徔=xv
 徕=xl
 徖=xz
-得=rc
 得=xc
+得=rc
 徘=xf
 徙=xb
 徚=xj
@@ -5265,7 +5265,6 @@
 扐=fl
 扑=fb
 扒=fb
-扒=tb
 打=fd
 扔=fn
 払=fs
@@ -5388,7 +5387,6 @@
 拊=ff
 拋=fl
 拌=fb
-拌=tb
 拍=fb
 拎=fl
 拏=un
@@ -5400,7 +5398,6 @@
 拕=ft
 拖=fy
 拗=fy
-拗=ty
 拘=fj
 拙=fi
 拚=fb
@@ -5622,15 +5619,12 @@
 掲=fb
 掳=fl
 掴=fg
-掴=tg
 掵=fm
 掶=fg
 掷=fv
 掸=fd
-掸=td
 掹=fm
 掺=fc
-掺=tc
 掻=fi
 掼=fg
 掽=fb
@@ -5659,7 +5653,6 @@
 揔=fc
 揕=fu
 揖=fe
-揖=te
 揗=fd
 揘=fh
 揙=fb
@@ -5673,7 +5666,6 @@
 握=fw
 揢=fk
 揣=fe
-揣=te
 揤=fj
 揥=fd
 揦=fd
@@ -5689,7 +5681,6 @@
 揰=fv
 揱=ux
 揲=fm
-揲=tm
 揳=fq
 援=fy
 揵=fj
@@ -5878,7 +5869,6 @@
 撬=fm
 播=ff
 撮=fz
-撮=tz
 撯=fv
 撰=fg
 撱=fs
@@ -6397,7 +6387,6 @@
 暲=ov
 暳=oh
 暴=ou
-暴=ru
 暵=oh
 暶=ox
 暷=ov
@@ -6801,7 +6790,7 @@
 桅=mw
 框=mk
 桇=mr
-案=bm
+案=ma
 桉=ma
 桊=jm
 桋=my
@@ -8911,7 +8900,6 @@
 炃=hf
 炄=hi
 炅=oh
-炅=rh
 炆=hw
 炇=hw
 炈=hu
@@ -13140,7 +13128,6 @@
 脇=ox
 脈=op
 脉=oy
-脉=yy
 脊=od
 脋=od
 脌=on
@@ -13158,7 +13145,6 @@
 脘=ow
 脙=oq
 脚=oq
-脚=yq
 脛=og
 脜=oo
 脝=oh
@@ -13180,7 +13166,6 @@
 脭=oi
 脮=ot
 脯=of
-脯=yf
 脰=od
 脱=od
 脲=on
@@ -13208,7 +13193,6 @@
 腈=oq
 腉=oe
 腊=ox
-腊=yx
 腋=oy
 腌=od
 腍=on
@@ -13263,7 +13247,6 @@
 腾=om
 腿=ot
 膀=op
-膀=yp
 膁=oj
 膂=ol
 膃=oy
@@ -21011,3 +20994,6 @@
 﨩=ed
 賊=br
 䴉=nh
+𰻞=zx
+㨃=dx
+蠈=iz

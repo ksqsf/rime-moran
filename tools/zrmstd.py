@@ -7,12 +7,13 @@ from collections import defaultdict
 
 codes = dict()
 udpns = defaultdict(list)
-
+bad = []
 
 with open('zrmstd.txt', 'r') as f:
     for l in f:
         [text, code] = l.strip().split('=')
-        codes[text] = code
+        if code not in codes:
+            codes[text] = code
 
 
 with open('zrmup.txt', 'r') as f:
