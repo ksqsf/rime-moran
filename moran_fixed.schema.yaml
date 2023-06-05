@@ -74,4 +74,10 @@ punctuator:
 key_binder:
   import_preset: default
   bindings:
+    - {when: has_menu, accept: "Control+s", toggle: simplification}
+    - {when: has_menu, accept: "Control+u", toggle: unicode_comment}
+    - {when: has_menu, accept: "Control+b", toggle: emoji}  # b 表示 表情, 让出 Ctrl+e
+    - {when: has_menu, accept: "Control+d", toggle: dzing}
     - {when: has_menu, accept: semicolon, send: "2"}
+    - {when: has_menu, accept: "Tab", send: "Control+Right"}
+    - {when: composing, accept: "Tab", send: "Control+Right"}

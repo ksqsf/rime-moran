@@ -1,0 +1,146 @@
+schema:
+  schema_id: moran_sentence
+  name: 魔然·整句
+  version: "0.1"
+  author:
+    - ksqsf
+  description: |
+    魔改自然碼（魔然）整句輸入模式
+  dependencies:
+    - tiger
+    - moran.english
+    - moran.japanese
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    reset: 1
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+  - name: emoji
+    reset: 1
+    states: [ 🈚, 🈶 ]
+  - name: unicode_comment
+    reset: 0
+    states: [ U開, U關 ]
+  - name: dzing
+    reset: 0
+    states: [ 通, 寍 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - lua_processor@*moran_launcher     # 輸入 omorj 或 ogrwh 後回車打開魔然官網
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - reverse_lookup_translator
+    - table_translator@custom_phrase       # 自定義短語
+    #- table_translator@english             # 英語混輸
+    #- table_translator@japanese            # 日語混輸
+    - script_translator
+    - lua_translator@*moran_shijian        # 日期orq 節氣ojq 星期oxq 時間osj
+    - lua_translator@*moran_number         # 數字轉大寫
+  filters:
+    - simplifier
+    - simplifier@emoji
+    - simplifier@dzing
+    - lua_filter@*moran_charset_comment_filter  # Unicode 區位提示
+    - lua_filter@*moran_unicode_display_filter  # Unicode 編碼提示
+    - uniquifier
+
+speller:
+  alphabet: abcdefghijklmnopqrstuvwxyz
+  delimiter: " '"
+  algebra:
+    - derive/^(\w*);(\w)(\w)$/$1$2$3o/ # 全碼 YYXXo
+    - abbrev/^(\w*);(\w)(\w)$/$1$2$3/  # 全碼 YYXX，優先級更低
+    - derive/^(\w*);(\w)(\w)$/$1$2/    # 構詞可以用 YYX
+    - derive/^(\w*);(\w)(\w)$/$1/      # 構詞可以用 YY
+    #- abbrev/^([a-z]).+$/$1/           # 首字母簡拼（※ 嚴重影響出字速度，在簡詞完善後可能關閉）
+
+ascii_composer:
+  switch_key:
+    Shift_L: commit_code
+
+translator:    # 整句輸入模式設置，在 top_translator 中被調用
+  dictionary: moran.extended
+  prism: moran
+  initial_quality: 0
+
+custom_phrase: # 自定義短語
+  dictionary: ""
+  user_dict: moran.custom
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 10
+
+english:
+  dictionary: moran.english
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+japanese:
+  dictionary: moran.japanese
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+emoji:
+  opencc_config: emoji.json
+  option_name: emoji
+  tips: all
+
+dzing:
+  opencc_config: dzing.json
+  option_name: dzing
+  tips: all
+
+reverse_lookup:
+  dictionary: tiger
+  enable_completion: true
+  prefix: "`"
+  suffix: "'"
+  tips: 〔虎碼〕
+
+punctuator:
+  import_preset: symbols
+
+key_binder:
+  import_preset: default
+  bindings:
+    - {when: has_menu, accept: "Control+s", toggle: simplification}
+    - {when: has_menu, accept: "Control+u", toggle: unicode_comment}
+    - {when: has_menu, accept: "Control+b", toggle: emoji}  # b 表示 表情, 让出 Ctrl+e
+    - {when: has_menu, accept: "Control+d", toggle: dzing}
+    - {when: has_menu, accept: semicolon, send: "2"}
+    - {when: has_menu, accept: "Tab", send: "Control+Right"}
+    - {when: composing, accept: "Tab", send: "Control+Right"}
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "^`[a-z]*'?$"
+    punct: '^/([0-9]0?|[A-Za-z]+)$'
+
+__patch:
+  - moran.custom.yaml:/patch?
