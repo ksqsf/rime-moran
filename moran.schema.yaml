@@ -121,7 +121,7 @@ english:
 japanese:
   dictionary: moran_japanese
   enable_completion: false
-  enable_sentence: false
+  enable_sentence: true
   enable_user_dict: true
   initial_quality: 0
   enable_encoder: false
