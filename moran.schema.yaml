@@ -60,8 +60,8 @@ engine:
     - lua_translator@*moran_shijian        # 日期orq 節氣ojq 星期oxq 時間osj
     - lua_translator@*moran_number         # 數字轉大寫
   filters:
-    - simplifier
     - simplifier@emoji
+    - simplifier
     - simplifier@dzing
     - lua_filter@*moran_charset_comment_filter  # Unicode 區位提示
     - lua_filter@*moran_unicode_display_filter  # Unicode 編碼提示
