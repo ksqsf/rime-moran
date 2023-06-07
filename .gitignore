@@ -4,3 +4,5 @@ trash/
 *.userdb/
 installation.yaml
 user.yaml
+input.txt
+output.txt

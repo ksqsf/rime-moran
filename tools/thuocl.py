@@ -105,6 +105,9 @@ use_preset_vocabulary: false
             word = row['trad_word']
             pinyin = row['pinyin'].strip()
             freq = row['freq']
+            # thuocl 的最大可能 freq 值为： 741215634
+            # essay 「的」 权重            4822928
+            freq = int(freq / 741215634 * 4822928)
             if freq < 50: continue
             try:
                 codes = code_all(word, pinyin)
