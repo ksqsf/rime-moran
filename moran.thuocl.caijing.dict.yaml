@@ -9,16 +9,22 @@ use_preset_vocabulary: false
 ...
 
 發展	fa;du vj;uy	1934814
+發展	fa;zd vj;uy	1934814
+發展	fa;gy vj;uy	1934814
 部門	bu;ek mf;aa	1709250
 政府	vg;wv fu;gf	1617499
+經濟	jy;sj ji;dq	1396619
 經濟	jy;sg ji;dq	1396619
 服務	fu;oy wu;mw	1386428
+服務	fu;yy wu;mw	1386428
 公司	gs;sb si;gk	1321922
 實現	ui;bg xm;wj	1062326
+市場	ui;dj ih;ty	1053266
 市場	ui;wj ih;ty	1053266
 評論	py;yp lp;yl	928410
 支持	vi;uy ii;fs	894755
 機構	ji;mj gb;mg	813966
+機構	ji;mj gb;mr	813966
 能力	ng;sb li;gp	804674
 資源	zi;bc yr;dy	801625
 計劃	ji;yu hw;dh	800718
@@ -29,39 +35,71 @@ use_preset_vocabulary: false
 提升	ti;fu ug;pc	641506
 報告	bk;ex gk;kn	611089
 產業	ij;wu ye;yl	581292
+產業	ij;wu ye;yw	581292
 執行	vi;wx xy;xd	549104
 行業	hh;xd ye;yl	535867
 需求	xu;ye qq;ad	519652
+需求	xu;ye qq;hd	519652
 調整	tc;yv vg;vi	513431
-方案	fh;wd an;bm	500356
+調整	tc;yv vg;vw	513431
+方案	fh;wd an;ma	500356
 委員會	wz;hn yr;kb hv;ro	499583
+委員會	wz;hn yr;kb hv;rr	499583
+集團	ji;mv tr;kv	494981
 集團	ji;vm tr;kv	494981
+利益	li;hd yi;mb	494930
 利益	li;dh yi;mb	494930
+主席	vu;dw xi;jc	478947
 主席	vu;dw xi;gj	478947
+經營	jy;sj yy;lb	477651
+經營	jy;sj yy;hl	477651
+經營	jy;sg yy;lb	477651
 經營	jy;sg yy;hl	477651
 統計	ts;si ji;yu	474538
 時代	ui;os dl;ry	459135
+時代	ui;rs dl;ry	459135
 力度	li;gp du;gy	458479
+收入	ub;jw ru;pd	454330
 收入	ub;wj ru;pd	454330
 生態	ug;na tl;xn	454142
+生態	ug;nh tl;xn	454142
+購買	gb;br ml;sb	444238
+購買	gb;br ml;bs	444238
+購買	gb;bg ml;sb	444238
 購買	gb;bg ml;bs	444238
 機會	ji;mj hv;ro	441735
+機會	ji;mj hv;rr	441735
 近年來	jn;zj nm;ra ll;ad	426768
+推出	tv;fv iu;ck	421029
 推出	tv;fv iu;uu	421029
+規範	gv;jf fj;ve	417118
 規範	gv;fj fj;ve	417118
 價值	jw;rj vi;rv	414827
 國務院	go;kh wu;mw yr;ew	401496
 有限公司	yb;ou xm;eg gs;sb si;gk	391133
 金融	jn;ra rs;ig	387290
+金融	jn;ph rs;ig	387290
+金融	jn;pa rs;ig	387290
+金融	jn;rh rs;ig	387290
+出臺	iu;ck tl;uv	385053
 出臺	iu;uu tl;uv	385053
 數量	uu;wl ld;ol	381076
+數量	uu;wl ld;rl	381076
+銀行	yn;jg hh;xi	379949
+銀行	yn;jg hh;rd	379949
 銀行	yn;jg hh;xd	379949
+銀行	yn;jg hh;ri	379949
 民生	mn;ag ug;na	370864
 費用	fz;bf ys;kf	356236
+近期	jn;zj qi;qy	352723
+近期	jn;zj qi;yq	352723
 近期	jn;zj qi;oq	352723
+近期	jn;zj qi;qo	352723
 風險	fg;ji xm;eq	349681
 設立	ue;yu li;da	342330
+設立	ue;yu li;dh	342330
 通道	ts;zy dk;zu	330021
+協議	xx;ux yi;yy	327937
 協議	xx;ul yi;yy	327937
 創造	id;dc zk;zg	327349
 強化	qd;gi hw;rb	324692
@@ -74,636 +112,1201 @@ use_preset_vocabulary: false
 美元	mz;dy yr;ee	309822
 損失	sp;fy ui;pf	306594
 律師	lv;xy ui;bv	306161
+律師	lv;xy ui;vb	306161
+律師	lv;ry ui;bv	306161
+律師	lv;ry ui;vb	306161
+優惠	yb;rw hv;hx	299489
 優惠	yb;rw hv;xh	299489
+推薦	tv;fv jm;cv	294602
 推薦	tv;fv jm;cd	294602
+推薦	tv;fv jm;ch	294602
 突破	tu;bq po;up	293449
+突破	tu;xq po;up	293449
 年度	nm;ra du;gy	284721
+年度	nm;ru du;gy	284721
+年度	nm;pa du;gy	284721
+年度	nm;pu du;gy	284721
 治理	vi;dt li;wl	284407
+註冊	vu;yv ce;sh	279362
+註冊	vu;yv ce;uh	279362
 註冊	vu;yv ce;aa	279362
 標籤	bc;mp qm;vg	274313
+標籤	bc;mp qm;vx	274313
 批准	pi;fb vp;dv	272761
 開通	kl;mk ts;zy	270250
+上升	uh;bh ug;pc	268597
+上升	uh;uh ug;pc	268597
+上升	uh;ba ug;pc	268597
 上升	uh;aa ug;pc	268597
 渠道	qu;mj dk;zu	265759
 查詢	ia;md xp;yx	264946
 交易	jc;wf yi;ow	258370
 支付	vi;uy fu;rc	257507
+達成	da;zy ig;wg	253153
 達成	da;zy ig;gg	253153
 承諾	ig;ad no;yr	250046
+承諾	ig;vd no;yr	250046
+承諾	ig;zd no;yr	250046
+淘寶	tk;dt bk;bb	243835
 淘寶	tk;df bk;bb	243835
 環保	hr;wh bk;rd	243716
+環保	hr;wy bk;rd	243716
 登記	dg;dd ji;yj	242799
 博客	bo;uc ke;bg	239679
+博客	bo;uf ke;bg	239679
 趨勢	qu;zc ui;lv	235572
+趨勢	qu;zi ui;lv	235572
 配置	pz;yj vi;sv	232905
 論壇	lp;yl tj;td	230780
+違規	wz;zw gv;jf	219598
 違規	wz;zw gv;fj	219598
 金額	jn;ra ee;yk	217979
+金額	jn;ph ee;yk	217979
+金額	jn;pa ee;yk	217979
+金額	jn;rh ee;yk	217979
 調研	dc;yv yj;uk	214890
 機場	ji;mj ih;ty	213710
 低於	di;rd yu;fd	213321
+商品	uh;dk pn;kk	211512
+商品	uh;lk pn;kk	211512
 商品	uh;wk pn;kk	211512
+貿易	mk;bl yi;rw	209462
+貿易	mk;bl yi;ow	209462
+貿易	mk;bd yi;rw	209462
 貿易	mk;bd yi;ow	209462
+工資	gs;hh zi;bc	206254
 工資	gs;aa zi;bc	206254
 能源	ng;sb yr;dy	204053
 指標	vi;fv bc;mp	202623
 評估	py;yp gu;rg	196520
 保險	bk;rd xm;eq	191092
+出口	iu;ck kb;uh	189527
+出口	iu;ck kb;aa	189527
+出口	iu;uu kb;uh	189527
 出口	iu;uu kb;aa	189527
+退出	tv;zg iu;ck	188537
 退出	tv;zg iu;uu	188537
 財產	cl;bc ij;wu	188180
 專題	vr;ac ti;uy	187620
+總經理	zs;sc jy;sj li;wl	186634
 總經理	zs;sc jy;sg li;wl	186634
+總經理	zs;sx jy;sj li;wl	186634
+總經理	zs;sx jy;sg li;wl	186634
 環球	hr;wh qq;wq	186290
+環球	hr;wy qq;wq	186290
 合同	he;rk ts;kk	185744
 研發	yj;uk fa;du	182626
+研發	yj;uk fa;zd	182626
+研發	yj;uk fa;gy	182626
+財經	cl;bc jy;sj	181639
 財經	cl;bc jy;sg	181639
+上漲	uh;bh vh;dv	180105
+上漲	uh;uh vh;dv	180105
+上漲	uh;ba vh;dv	180105
 上漲	uh;aa vh;dv	180105
 超標	ik;zv bc;mp	173842
+董事長	ds;cv ui;hu vh;ad	173750
+董事長	ds;cv ui;hu vh;hd	173750
 董事長	ds;cv ui;aa vh;ad	173750
+董事長	ds;cv ui;aa vh;hd	173750
+考覈	kk;lk he;xw	168674
 考覈	kk;lk he;xj	168674
 補貼	bu;yf tx;bv	167303
 計算	ji;yu sr;vc	167280
 現金	xm;wj jn;ra	166097
+現金	xm;wj jn;ph	166097
+現金	xm;wj jn;pa	166097
+現金	xm;wj jn;rh	166097
 房地產	fh;hf di;ty ij;wu	165034
 上市	uh;aa ui;wj	164509
+資本	zi;bc bf;hh	164069
+資本	zi;bc bf;ma	164069
 資本	zi;bc bf;aa	164069
+資本	zi;bc bf;mh	164069
 貸款	dl;bd kr;qu	157760
 資產	zi;bc ij;wu	152477
+行情	hh;xi qy;xq	151568
+行情	hh;rd qy;xq	151568
 行情	hh;xd qy;xq	151568
+行情	hh;ri qy;xq	151568
 分配	ff;db pz;yj	150441
+分配	ff;bd pz;yj	150441
 理財	li;wl cl;bc	149719
 投訴	tb;fu su;yi	149228
+預期	yu;yy qi;qy	148653
+預期	yu;yy qi;yq	148653
 預期	yu;yy qi;oq	148653
+預期	yu;yy qi;qo	148653
 信號	xn;ry hk;hh	148613
 委託	wz;hn to;yq	145542
+委託	wz;hn to;yt	145542
 紅包	hs;sg bk;gs	144047
+紅包	hs;sg bk;bs	144047
 鑑定	jm;jj dy;bp	141081
 當事人	dh;tk ui;aa rf;pd	138850
+經理	jy;sj li;wl	138005
 經理	jy;sg li;wl	138005
 案例	an;bm li;rl	137595
+案例	an;ma li;rl	137595
 預算	yu;yy sr;vc	136927
 起訴	qi;zj su;yi	136753
 客服	ke;bg fu;oy	136711
+客服	ke;bg fu;yy	136711
 特權	te;ns qr;mv	135674
 預測	yu;yy ce;dz	134893
 差距	ia;yg ju;zj	133647
 態勢	tl;xn ui;lv	133384
+高層	gk;dk cg;uc	127007
 高層	gk;wk cg;uc	127007
+進口	jn;zv kb;uh	126374
 進口	jn;zv kb;aa	126374
 浮動	fu;df ds;lv	126231
+前景	qm;qd jy;rj	125542
+前景	qm;qd jy;oj	125542
+前景	qm;bd jy;rj	125542
 前景	qm;bd jy;oj	125542
 微軟	wz;xw rr;iq	125352
+微軟	wz;rw rr;iq	125352
 總額	zs;sc ee;yk	124821
+總額	zs;sx ee;yk	124821
 披露	pi;fp lu;yl	124277
 座談會	zo;gz tj;yy hv;ro	123984
+座談會	zo;gz tj;yy hv;rr	123984
+利潤	li;hd rp;dr	123856
 利潤	li;dh rp;dr	123856
 競價	jy;jj jw;rj	122529
+競價	jy;lx jw;rj	122529
+支出	vi;uy iu;ck	122388
 支出	vi;uy iu;uu	122388
+競爭力	jy;jj vg;vu li;gp	121982
 競爭力	jy;jj vg;va li;gp	121982
+競爭力	jy;lx vg;vu li;gp	121982
+競爭力	jy;lx vg;va li;gp	121982
 融資	rs;ig zi;bc	121957
 繁榮	fj;sm rs;hm	121844
+繁榮	fj;sm rs;mb	121844
+審覈	uf;bf he;xw	119170
 審覈	uf;bf he;xj	119170
+股份	gu;yu ff;rf	118020
 股份	gu;ou ff;rf	118020
+收取	ub;jw qu;ye	117667
+收取	ub;jw qu;ey	117667
+收取	ub;wj qu;ye	117667
 收取	ub;wj qu;ey	117667
 初始	iu;yd ui;nt	117023
 指數	vi;fv uu;wl	117017
 效應	xc;wj yy;gx	116080
+效應	xc;wj yy;xv	116080
+福利	fu;ut li;hd	116074
+福利	fu;ut li;dh	116074
+福利	fu;uf li;hd	116074
 福利	fu;uf li;dh	116074
 補償	bu;yf ih;ru	114081
 潛力	qm;do li;gp	113012
+潛力	qm;dq li;gp	113012
+潛力	qm;dr li;gp	113012
+短期	dr;ud qi;qy	110737
+短期	dr;ud qi;yq	110737
 短期	dr;ud qi;oq	110737
+短期	dr;ud qi;qo	110737
 季度	ji;hz du;gy	110195
 品種	pn;kk vs;hv	108775
+級別	ji;sj bx;dl	106729
 級別	ji;sj bx;dd	106729
 幅度	fu;jf du;gy	106332
+幅度	fu;jt du;gy	106332
+出售	iu;ck ub;vk	104773
+出售	iu;ck ub;kv	104773
+出售	iu;uu ub;vk	104773
 出售	iu;uu ub;kv	104773
 黃金	hd;cb jn;ra	104145
+黃金	hd;cb jn;ph	104145
+黃金	hd;cb jn;pa	104145
+黃金	hd;cb jn;rh	104145
 產權	ij;wu qr;mv	103763
+期限	qi;qy xm;eg	102498
+期限	qi;yq xm;eg	102498
 期限	qi;oq xm;eg	102498
+期限	qi;qo xm;eg	102498
+收益	ub;jw yi;mb	102220
 收益	ub;wj yi;mb	102220
+營銷	yy;lb xc;jx	102134
 營銷	yy;hl xc;jx	102134
+商務	uh;dk wu;mw	101967
+商務	uh;lk wu;mw	101967
 商務	uh;wk wu;mw	101967
 財富	cl;bc fu;bf	99593
+財富	cl;bc fu;bt	99593
 顧客	gu;yg ke;bg	99546
 發行	fa;du xy;xd	99502
 財務	cl;bc wu;mw	98448
 賬戶	vh;bi hu;pk	98305
 投資者	tb;fu zi;bc ve;ol	98139
+投資者	tb;fu zi;bc ve;lr	98139
+投資者	tb;fu zi;bc ve;rl	98139
+投資者	tb;fu zi;bc ve;lo	98139
+受損	ub;yb sp;fy	97533
 受損	ub;vy sp;fy	97533
 繳納	jc;sj na;sn	96884
+繳納	jc;sw na;sn	96884
+稅收	uv;hd ub;jw	96632
 稅收	uv;hd ub;wj	96632
 主管部門	vu;dw gr;vg bu;ek mf;aa	95437
+貨幣	ho;bh bi;jw	94665
 貨幣	ho;bh bi;jb	94665
+研究員	yj;uk jq;xj yr;kb	93228
 研究員	yj;uk jq;bj yr;kb	93228
 基金會	ji;tq jn;ra hv;ro	92440
 百分點	bl;ab ff;db dm;hv	92342
 物業	wu;nw ye;yl	91610
+物業	wu;nw ye;yw	91610
 特區	te;ns qu;kp	91388
 等級	dg;vs ji;sj	90805
 日期	ri;aa qi;oq	90222
 企業家	qi;rv ye;yl jw;bu	85988
+企業家	qi;rv ye;yw jw;bu	85988
 債務	vl;rz wu;mw	85458
 比重	bi;bb vs;pa	84379
+比重	bi;bb vs;ph	84379
+比重	bi;bb vs;ql	84379
 崛起	jt;uq qi;zj	84150
 代理	dl;ry li;wl	83939
 調控	tc;yv ks;fk	82856
+協同	xx;ux ts;kk	82491
 協同	xx;ul ts;kk	82491
 業績	ye;yl ji;sz	81889
+業績	ye;yw ji;sz	81889
 本土	bf;aa tu;aa	81012
 農產品	ns;qi ij;wu pn;kk	80792
 數額	uu;wl ee;yk	80330
+收購	ub;jw gb;br	80160
+收購	ub;jw gb;bg	80160
+收購	ub;wj gb;br	80160
 收購	ub;wj gb;bg	80160
 租賃	zu;hq ln;br	80068
 儲備	iu;rv bz;ry	79268
+查獲	ia;md ho;qy	78697
 查獲	ia;md ho;qh	78697
 組合	zu;sq he;rk	78688
+週期	vb;zv qi;qy	77769
+週期	vb;zv qi;yq	77769
 週期	vb;zv qi;oq	77769
+週期	vb;zv qi;qo	77769
 着手	vo;ym ub;pa	77456
+通訊	ts;zy xp;yx	77199
 通訊	ts;zy xp;yu	77199
+證券	vg;yd qr;jd	76141
 證券	vg;yd qr;df	76141
 惡化	ee;xy hw;rb	75850
 友誼	yb;yu yi;yy	75401
+友誼	yb;uy yi;yy	75401
 責任人	ze;bf rf;rr rf;pd	75331
+責任人	ze;fb rf;rr rf;pd	75331
+正規	vg;hv gv;jf	75018
+正規	vg;hv gv;fj	75018
+正規	vg;av gv;jf	75018
 正規	vg;av gv;fj	75018
 國際化	go;kh ji;ej hw;rb	74559
 流通	lq;di ts;zy	74519
 獎金	jd;qj jn;ra	74326
+獎金	jd;qj jn;ph	74326
+獎金	jd;qj jn;pa	74326
+獎金	jd;qj jn;rh	74326
 供給	gs;rg ji;sh	74310
 財政部	cl;bc vg;wv bu;ek	74243
+財政部	cl;bc vg;wv bu;ep	74243
 信用	xn;ry ys;kf	74087
 備案	bz;ry an;bm	73378
+備案	bz;ry an;ma	73378
 捐款	jr;fo kr;qu	72000
 掛牌	gw;fg pl;pb	70411
 籌備	ib;vu bz;ry	70317
+下滑	xw;ad hw;dg	70070
 下滑	xw;ab hw;dg	70070
+下滑	xw;hd hw;dg	70070
+下滑	xw;hb hw;dg	70070
 上月	uh;aa yt;pa	69522
 開發區	kl;mk fa;du qu;kp	68969
+開發區	kl;mk fa;zd qu;kp	68969
+開發區	kl;mk fa;gy qu;kp	68969
 賺錢	vr;bj qm;jj	67360
+個體	ge;rg ti;gl	66861
 個體	ge;rg ti;gd	66861
+市場化	ui;dj ih;ty hw;rb	66692
 市場化	ui;wj ih;ty hw;rb	66692
 板塊	bj;mf ky;tg	66615
 成交	ig;gg jc;wf	66600
 中介	vs;aa jx;ra	66552
+下跌	xw;ad dx;zu	66515
 下跌	xw;ab dx;zu	66515
+下跌	xw;hd dx;zu	66515
+下跌	xw;hb dx;zu	66515
 漲幅	vh;dv fu;jf	66023
+漲幅	vh;dv fu;jt	66023
 太平洋	tl;dd py;aa yh;dy	65735
+太平洋	tl;dd py;hu yh;dy	65735
+太平洋	tl;dd py;gb yh;dy	65735
+受賄	ub;yb hv;by	65518
 受賄	ub;vy hv;by	65518
+初期	iu;yd qi;qy	64890
+初期	iu;yd qi;yq	64890
 初期	iu;yd qi;oq	64890
+初期	iu;yd qi;qo	64890
 中小企業	vs;aa xc;ad qi;rv ye;yl	62836
 達標	da;zy bc;mp	62409
 產量	ij;wu ld;ol	62095
+產量	ij;wu ld;rl	62095
 訂單	dy;yd dj;kd	61502
+均衡	jp;ty hg;xi	61422
 均衡	jp;ty hg;xd	61422
+均衡	jp;ty hg;ri	61422
+存款	cp;uz kr;qu	61000
 存款	cp;za kr;qu	61000
+存款	cp;zu kr;qu	61000
 經營者	jy;sg yy;hl ve;ol	60137
 波動	bo;dp ds;lv	59311
+招商	vk;fv uh;dk	58645
+招商	vk;fv uh;lk	58645
 招商	vk;fv uh;wk	58645
 華僑	hw;ca qc;rq	58607
+華僑	hw;ch qc;rq	58607
 審計	uf;bf ji;yu	57923
 電子商務	dm;yd zi;aa uh;wk wu;mw	57188
+股票	gu;yu pc;xu	57149
 股票	gu;ou pc;xu	57149
 份額	ff;rf ee;yk	56823
 遺產	yi;zg ij;wu	56020
 結算	jx;sj sr;vc	55679
 隔離	ge;eg li;vl	55292
 業界	ye;yl jx;tj	54352
+業界	ye;yw jx;tj	54352
 國企	go;kh qi;rv	54248
 促銷	cu;rz xc;jx	54072
 簽字	qm;vq zi;bz	53592
+壟斷	ls;tl dr;jv	53492
+壟斷	ls;tl dr;jy	53492
 壟斷	ls;tl dr;ja	53492
+利率	li;hd lv;du	53477
+利率	li;hd lv;wu	53477
+利率	li;dh lv;du	53477
 利率	li;dh lv;wu	53477
 社保	ue;ut bk;rd	53175
+社保	ue;tu bk;rd	53175
 招標	vk;fv bc;mp	52855
 額度	ee;yk du;gy	52404
+月薪	yt;oy xn;cx	52357
+月薪	yt;ph xn;cx	52357
 月薪	yt;pa xn;cx	52357
+月薪	yt;yt xn;cx	52357
 租金	zu;hq jn;ra	52160
+租金	zu;hq jn;ph	52160
+租金	zu;hq jn;pa	52160
+租金	zu;hq jn;rh	52160
 合併	he;rk by;rb	52121
 定價	dy;bp jw;rj	52095
 低價	di;rd jw;rj	51915
+進出口	jn;zv iu;ck kb;uh	51867
+進出口	jn;zv iu;ck kb;aa	51867
+進出口	jn;zv iu;uu kb;uh	51867
 進出口	jn;zv iu;uu kb;aa	51867
 發改委	fa;du gl;wj wz;hn	51662
 反彈	fj;py dj;gd	51645
+歐元	ou;qq yr;hw	51614
 歐元	ou;qq yr;ee	51614
+歐元	ou;qq yr;aw	51614
+控股	ks;fk gu;yu	51444
 控股	ks;fk gu;ou	51444
 轉讓	vr;iv rh;yx	51273
+擔保	dj;fy bk;rd	51072
 擔保	dj;fv bk;rd	51072
 外資	wl;xb zi;bc	51027
 僞造	wz;rw zk;zg	50938
 指引	vi;fv yn;ga	50911
+指引	vi;fv yn;gu	50911
+瓶頸	py;wb jy;yj	50829
 瓶頸	py;wb jy;yg	50829
 定點	dy;bp dm;hv	50653
+開辦	kl;mk bj;xx	50588
 開辦	kl;mk bj;lx	50588
 股東	gu;ou ds;ad	50247
+上游	uh;bh yb;dz	49875
+上游	uh;uh yb;dz	49875
+上游	uh;ba yb;dz	49875
 上游	uh;aa yb;dz	49875
 法人	fa;dq rf;pd	49467
 專利	vr;ac li;dh	48971
+收回	ub;jw hv;kk	48925
 收回	ub;wj hv;kk	48925
 央行	yh;ad hh;xd	48921
 形態	xy;pk tl;xn	48636
+籌集	ib;vu ji;mv	48582
 籌集	ib;vu ji;vm	48582
 轉換	vr;iv hr;fh	48300
 信貸	xn;ry dl;bd	48283
 銀行卡	yn;jg hh;xd ka;ub	48277
+被盜	bz;yp dk;mq	48115
 被盜	bz;yp dk;mc	48115
 網點	wh;sw dm;hv	48076
 走勢	zb;tv ui;lv	47762
 攀升	pj;ud ug;pc	47323
+攀升	pj;mu ug;pc	47323
+攀升	pj;uf ug;pc	47323
 倉庫	ch;rk ku;gi	46589
 工商局	gs;aa uh;wk ju;uk	46251
 廠房	ih;gi fh;hf	46103
+廠房	ih;gw fh;hf	46103
 結構性	jx;sj gb;mg xy;xu	45943
+結構性	jx;sj gb;mr xy;xu	45943
 繳費	jc;sj fz;bf	45688
+繳費	jc;sw fz;bf	45688
+到期	dk;dv qi;qy	44970
+到期	dk;dv qi;yq	44970
 到期	dk;dv qi;oq	44970
+到期	dk;dv qi;qo	44970
 混合	hp;dk he;rk	44652
 招商引資	vk;fv uh;wk yn;ga zi;bc	44644
 步驟	bu;vx vb;mj	43778
 區間	qu;kp jm;mo	43612
+區間	qu;kp jm;om	43612
+區間	qu;kp jm;mr	43612
 參與者	cj;sp yu;ba ve;ol	43237
 商會	uh;wk hv;ro	43102
+缺口	qt;fd kb;uh	42908
 缺口	qt;fd kb;aa	42908
+缺口	qt;fg kb;uh	42908
+缺口	qt;fg kb;aa	42908
+國際上	go;kh ji;ej uh;bh	42843
+國際上	go;kh ji;ej uh;uh	42843
+國際上	go;kh ji;ej uh;ba	42843
 國際上	go;kh ji;ej uh;aa	42843
 產值	ij;wu vi;rv	42791
 宣告	xr;bg gk;kn	42487
+宣告	xr;bg gk;nk	42487
+下調	xw;ad dc;yv	42398
 下調	xw;ab dc;yv	42398
+下調	xw;hd dc;yv	42398
+下調	xw;hb dc;yv	42398
+款項	kr;qu xd;yg	42305
 款項	kr;qu xd;gy	42305
+利息	li;hd xi;xz	42302
+利息	li;hd xi;zx	42302
 利息	li;dh xi;xz	42302
+利息	li;dh xi;zx	42302
 國民經濟	go;kh mn;ag jy;sg ji;dq	42025
+獲利	ho;qy li;hd	41787
+獲利	ho;qy li;dh	41787
+獲利	ho;qh li;hd	41787
 獲利	ho;qh li;dh	41787
 安全性	an;bn qr;rw xy;xu	41309
+虧損	kv;kh sp;fy	41100
 虧損	kv;hk sp;fy	41100
+虧損	kv;kv sp;fy	41100
 存放	cp;za fh;wf	41015
 低迷	di;rd mi;zm	40781
 巨頭	ju;aa tb;dy	40710
+庫存	ku;gi cp;uz	40686
 庫存	ku;gi cp;za	40686
+庫存	ku;gi cp;zu	40686
 吸納	xi;kj na;sn	40606
 恐慌	ks;xg hd;xh	40553
 電網	dm;yd wh;sw	40270
+電網	dm;yg wh;sw	40270
+上調	uh;bh dc;yv	40231
+上調	uh;uh dc;yv	40231
+上調	uh;ba dc;yv	40231
 上調	uh;aa dc;yv	40231
+類別	lz;yq bx;dl	39956
+類別	lz;yq bx;dd	39956
+類別	lz;yl bx;dl	39956
 類別	lz;yl bx;dd	39956
 原告	yr;ix gk;kn	39937
+原告	yr;ix gk;nk	39937
 篩選	ul;vu xr;zg	39771
 華商	hw;ca uh;wk	39629
 四大	si;ke da;hd	38734
+亞太	ya;hh tl;dd	38572
 亞太	ya;aa tl;dd	38572
 多樣化	do;xx yh;my hw;rb	38285
 合作社	he;rk zo;rv ue;ut	38076
+合作社	he;rk zo;rv ue;tu	38076
 考量	kk;lk ld;ol	37447
+考量	kk;lk ld;rl	37447
+報酬	bk;xy ib;yv	37389
+報酬	bk;ty ib;yv	37389
 報酬	bk;ex ib;yv	37389
 增值	zg;tc vi;rv	37316
 歸還	gv;vj hr;zh	37293
 流動性	lq;di ds;lv xy;xu	37000
+索賠	so;us pz;bk	36942
+索賠	so;us pz;bp	36942
 索賠	so;sb pz;bk	36942
+索賠	so;sb pz;bp	36942
 財力	cl;bc li;gp	36705
 測量	ce;dz ld;ol	36689
+測量	ce;dz ld;rl	36689
 標註	bc;mp vu;yv	36587
 餘額	yu;uy ee;yk	36288
+紅利	hs;sg li;hd	36173
 紅利	hs;sg li;dh	36173
 經銷商	jy;sg xc;jx uh;wk	36080
 賭博	du;bv bo;uc	35876
+賭博	du;bv bo;uf	35876
+構築	gb;mg vu;mv	35520
 構築	gb;mg vu;vm	35520
+構築	gb;mr vu;mv	35520
+構築	gb;mr vu;vm	35520
 模型	mo;mm xy;tx	35416
 納稅人	na;sn uv;hd rf;pd	35289
 兼職	jm;bd vi;eg	35102
 撥款	bo;ff kr;qu	35062
 扣除	kb;fk iu;ey	34907
+返還	fj;zf hr;zy	34831
 返還	fj;zf hr;zh	34831
 首創	ub;qz id;dc	34603
 付款	fu;rc kr;qu	34574
+償還	ih;ru hr;zy	34550
 償還	ih;ru hr;zh	34550
+集會	ji;mv hv;ro	34354
+集會	ji;mv hv;rr	34354
 集會	ji;vm hv;ro	34354
+集會	ji;vm hv;rr	34354
 內需	nz;kr xu;ye	34334
 議案	yi;yy an;bm	34258
+議案	yi;yy an;ma	34258
 挪用	no;fn ys;kf	34233
 慣例	gr;xg li;rl	33866
+突破口	tu;bq po;up kb;uh	33771
 突破口	tu;bq po;up kb;aa	33771
+突破口	tu;xq po;up kb;uh	33771
+突破口	tu;xq po;up kb;aa	33771
 年會	nm;ra hv;ro	33686
+副主席	fu;dt vu;dw xi;jc	33608
+副主席	fu;dt vu;dw xi;gj	33608
+副主席	fu;df vu;dw xi;jc	33608
 副主席	fu;df vu;dw xi;gj	33608
 密度	mi;bu du;gy	33557
+密度	mi;ub du;gy	33557
 均價	jp;ty jw;rj	33447
 閒置	xm;mo vi;sv	33392
+閒置	xm;my vi;sv	33392
 區域性	qu;kp yu;th xy;xu	33169
 凍結	ds;dd jx;sj	33061
+數據庫	uu;wl ju;fu ku;gi	33029
 數據庫	uu;wl ju;fj ku;gi	33029
 行長	xy;xd vh;ad	32913
+覈准	he;xw vp;dv	32880
 覈准	he;xj vp;dv	32880
+一季度	yi;hh ji;hz du;gy	32755
 一季度	yi;aa ji;hz du;gy	32755
 樓盤	lb;ml pj;mb	32718
+債券	vl;rz qr;jd	32695
 債券	vl;rz qr;df	32695
 觀測	gr;jv ce;dz	32649
+董事	ds;cv ui;hu	32637
 董事	ds;cv ui;aa	32637
 憑證	py;xf vg;yd	32214
 拖欠	to;fy qm;dr	32167
 編號	bm;sb hk;hh	32129
+團購	tr;kv gb;br	32005
 團購	tr;kv gb;bg	32005
 欺騙	qi;qq pm;mb	31687
+增長率	zg;tc vh;ad lv;du	31624
 增長率	zg;tc vh;ad lv;wu	31624
+增長率	zg;tc vh;hd lv;du	31624
+增長率	zg;tc vh;hd lv;wu	31624
 博弈	bo;uc yi;cy	31567
+利好	li;hd hk;nz	31520
 利好	li;dh hk;nz	31520
 泡沫	pk;db mo;dm	31382
 世博	ui;ca bo;uc	31335
 實戰	ui;bg vj;gd	31122
 全國性	qr;rw go;kh xy;xu	30984
 賣出	ml;bs iu;uu	30936
+募集	mu;cl ji;mv	30698
+募集	mu;cl ji;vm	30698
+募集	mu;lm ji;mv	30698
 募集	mu;lm ji;vm	30698
 透明度	tb;zx my;oo du;gy	30687
+透明度	tb;zx my;ry du;gy	30687
+匯率	hv;kh lv;du	30539
 匯率	hv;kh lv;wu	30539
 穩健	wf;hj jm;rj	30480
+穩健	wf;hx jm;rj	30480
 購房者	gb;bg fh;hf ve;ol	30393
+信用卡	xn;ry ys;kf ka;bx	30305
 信用卡	xn;ry ys;kf ka;ub	30305
 彩票	cl;pc pc;xu	30037
 薪酬	xn;cx ib;yv	29991
 社會保險	ue;ut hv;ro bk;rd xm;eq	29946
+社會保險	ue;ut hv;rr bk;rd xm;eq	29946
+社會保險	ue;tu hv;ro bk;rd xm;eq	29946
+社會保險	ue;tu hv;rr bk;rd xm;eq	29946
 折扣	ve;fj kb;fk	29929
 英鎊	yy;cy bh;jp	29915
 投標	tb;fu bc;mp	29607
 進場	jn;zv ih;ty	29412
+落下	la;cl xw;ad	29102
 落下	la;cl xw;ab	29102
+落下	la;cl xw;hd	29102
+落下	la;cl xw;hb	29102
 成交量	ig;gg jc;wf ld;ol	28913
 日元	ri;aa yr;ee	28792
 交易所	jc;wf yi;ow so;jh	28424
+集合	ji;mv he;rk	28110
 集合	ji;vm he;rk	28110
+覈定	he;xw dy;bp	28020
 覈定	he;xj dy;bp	28020
+基準	ji;tq vp;uv	27905
 基準	ji;tq vp;uh	27905
+基準	ji;qt vp;uv	27905
+基準	ji;qt vp;uh	27905
 參保	cj;sp bk;rd	27630
+總收入	zs;sc ub;jw ru;pd	27520
 總收入	zs;sc ub;wj ru;pd	27520
+總收入	zs;sx ub;jw ru;pd	27520
+總收入	zs;sx ub;wj ru;pd	27520
 破產	po;up ij;wu	27380
 穩定性	wf;hj dy;bp xy;xu	27169
+穩定性	wf;hx dy;bp xy;xu	27169
+規章	gv;jf vh;lz	27150
 規章	gv;fj vh;lz	27150
+修正	xq;rp vg;hv	26799
 修正	xq;rp vg;av	26799
 津貼	jn;dy tx;bv	26795
 飆升	bc;fb ug;pc	26668
+飆升	bc;fq ug;pc	26668
+免職	mm;dm vi;ev	26657
+免職	mm;dm vi;eg	26657
+免職	mm;de vi;ev	26657
 免職	mm;de vi;eg	26657
 油價	yb;dy jw;rj	26512
 查封	ia;md fg;cg	26363
 輪胎	lp;il tl;ot	26259
+輪胎	lp;il tl;yt	26259
 開盤	kl;mk pj;mb	26185
 走私	zb;tv si;hs	26041
 外匯	wl;xb hv;kh	26022
+免除	mm;dm iu;ey	25840
 免除	mm;de iu;ey	25840
+報價	bk;xy jw;rj	25794
+報價	bk;ty jw;rj	25794
 報價	bk;ex jw;rj	25794
+失業率	ui;pf ye;yl lv;du	25782
 失業率	ui;pf ye;yl lv;wu	25782
+失業率	ui;pf ye;yw lv;du	25782
+失業率	ui;pf ye;yw lv;wu	25782
 打折	da;fd ve;fj	25755
 轉賬	vr;iv vh;bi	25736
 崩潰	bg;up kv;dg	25695
 保險公司	bk;rd xm;eq gs;sb si;gk	25683
 宏觀調控	hs;bh gr;jv tc;yv ks;fk	25619
+宏觀調控	hs;bs gr;jv tc;yv ks;fk	25619
 代理人	dl;ry li;wl rf;pd	25320
 弊端	bi;cb dr;le	25291
+弊端	bi;cw dr;le	25291
+信譽	xn;ry yu;yy	25264
 信譽	xn;ry yu;jy	25264
 升值	ug;pc vi;rv	25183
 黑名單	hz;ha my;xk dj;kd	25159
 有效期	yb;ou xc;wj qi;oq	25134
+石化	ui;pk hw;rb	25046
+石化	ui;hh hw;rb	25046
+石化	ui;aa hw;rb	25046
+石化	ui;ak hw;rb	25046
 石化	ui;kp hw;rb	25046
+預留	yu;yy lq;lt	24510
+預留	yu;yy lq;tl	24510
 預留	yu;yy lq;td	24510
 操縱	ck;fz zs;sc	24398
+操縱	ck;fz zs;sv	24398
 長城	ih;ad ig;ti	24250
+長城	ih;hd ig;ti	24250
+股價	gu;yu jw;rj	24109
 股價	gu;ou jw;rj	24109
 華夏	hw;ca xw;wz	24047
 新京報	xn;jq jy;wx bk;ex	23999
 天價	tm;ad jw;rj	23875
+天價	tm;hd jw;rj	23875
 違約	wz;zw yt;su	23854
 持續性	ii;fs xu;sm xy;xu	23816
 環球時報	hr;wh qq;wq ui;os bk;ex	23795
 基調	ji;tq dc;yv	23792
+基調	ji;qt dc;yv	23792
+附加	fu;ef jw;lk	23639
 附加	fu;ef jw;kl	23639
+仲裁	vs;rv cl;yg	23429
 仲裁	vs;rv cl;gy	23429
 珠江	vu;wv jd;dg	23312
+寫字樓	xx;bh zi;bz lb;ml	23282
 寫字樓	xx;bd zi;bz lb;ml	23282
+董事會	ds;cv ui;hu hv;ro	23269
+董事會	ds;cv ui;hu hv;rr	23269
 董事會	ds;cv ui;aa hv;ro	23269
+董事會	ds;cv ui;aa hv;rr	23269
+激增	ji;dw zg;tc	23221
 激增	ji;dj zg;tc	23221
 槓桿	gh;mg gj;mh	23033
 投資人	tb;fu zi;bc rf;pd	22882
 撥付	bo;ff fu;rc	22839
 分割	ff;db ge;dh	22770
+分割	ff;bd ge;dh	22770
 跌幅	dx;zu fu;jf	22669
+跌幅	dx;zu fu;jt	22669
+席位	xi;jc wz;rl	22541
 席位	xi;gj wz;rl	22541
+延期	yj;zv qi;qy	22535
+延期	yj;zv qi;yq	22535
 延期	yj;zv qi;oq	22535
+延期	yj;zv qi;qo	22535
+央企	yh;kd qi;rv	22450
 央企	yh;ad qi;rv	22450
+央企	yh;ud qi;rv	22450
 證監會	vg;yd jm;mv hv;ro	22393
+證監會	vg;yd jm;mv hv;rr	22393
 興業	xy;ba ye;yl	22382
 匱乏	kv;kg fa;pv	21961
 震盪	vf;yi dh;mt	21868
 總價	zs;sc jw;rj	21811
+總價	zs;sx jw;rj	21811
+買單	ml;sb dj;kd	21807
 買單	ml;bs dj;kd	21807
 增值稅	zg;tc vi;rv uv;hd	21772
 所有權	so;jh yb;ou qr;mv	21649
+票據	pc;xu ju;fu	21637
 票據	pc;xu ju;fj	21637
+期貨	qi;qy ho;bh	21635
+期貨	qi;yq ho;bh	21635
 期貨	qi;oq ho;bh	21635
+期貨	qi;qo ho;bh	21635
 子公司	zi;aa gs;sb si;gk	21631
 金融業	jn;ra rs;ig ye;yl	21554
 匯款	hv;kh kr;qu	21545
 投資額	tb;fu zi;bc ee;yk	21541
+多媒體	do;xx mz;nm ti;gl	21299
 多媒體	do;xx mz;nm ti;gd	21299
 保證金	bk;rd vg;yd jn;ra	21289
+保證金	bk;rd vg;yd jn;ph	21289
+保證金	bk;rd vg;yd jn;pa	21289
+保證金	bk;rd vg;yd jn;rh	21289
 價位	jw;rj wz;rl	20766
+知情人	vi;ku qy;xq rf;pd	20671
 知情人	vi;uk qy;xq rf;pd	20671
 籌資	ib;vu zi;bc	20509
 按計劃	an;fa ji;yu hw;dh	20372
+集裝箱	ji;mv vd;yv xd;vx	20140
 集裝箱	ji;vm vd;yv xd;vx	20140
 機電	ji;mj dm;yd	20086
+機電	ji;mj dm;yg	20086
+拋出	pk;fl iu;ck	20035
 拋出	pk;fl iu;uu	20035
+產出	ij;wu iu;ck	19942
 產出	ij;wu iu;uu	19942
 貶值	bm;bf vi;rv	19771
 分化	ff;db hw;rb	19642
+分化	ff;bd hw;rb	19642
+中標	vs;ka bc;mp	19586
+中標	vs;ku bc;mp	19586
+中標	vs;uu bc;mp	19586
 中標	vs;aa bc;mp	19586
 差價	ia;yg jw;rj	19584
 同級	ts;kk ji;sj	19538
 投機	tb;fu ji;mj	19492
 合夥	he;rk ho;gd	19459
+收盤	ub;jw pj;mb	19418
 收盤	ub;wj pj;mb	19418
 抽獎	ib;fy jd;qj	19408
 飽和	bk;ub he;hk	19332
 阿里巴巴	aa;ek li;aa ba;ag ba;ag	19329
 解散	jx;jn sj;wo	19241
+解散	jx;jn sj;wy	19241
+獲准	ho;qy vp;dv	18948
 獲准	ho;qh vp;dv	18948
+經濟危機	jy;sj ji;dq wz;de ji;mj	18947
 經濟危機	jy;sg ji;dq wz;de ji;mj	18947
+下落	xw;ad lo;cl	18945
 下落	xw;ab lo;cl	18945
+下落	xw;hd lo;cl	18945
+下落	xw;hb lo;cl	18945
+停職	ty;rt vi;ev	18907
 停職	ty;rt vi;eg	18907
+賺取	vr;bj qu;ye	18873
 賺取	vr;bj qu;ey	18873
 審慎	uf;bf uf;xv	18749
 生產能力	ug;na ij;wu ng;sb li;gp	18622
+生產能力	ug;nh ij;wu ng;sb li;gp	18622
+波音	bo;dp yn;lr	18537
 波音	bo;dp yn;lo	18537
+關稅	gr;mu uv;hd	18505
 關稅	gr;ma uv;hd	18505
 手續費	ub;pa xu;sm fz;bf	18417
+手續費	ub;ub xu;sm fz;bf	18417
+手續費	ub;pu xu;sm fz;bf	18417
 充斥	is;wy ii;jd	18362
 封頂	fg;cg dy;yd	18288
+封頂	fg;cg dy;dy	18288
+儲蓄	iu;rv xu;cx	18268
 儲蓄	iu;rv xu;ci	18268
+複覈	fu;yf he;xw	18216
 複覈	fu;yf he;xj	18216
+監護人	jm;mv hu;yy rf;pd	18131
 監護人	jm;mv hu;yh rf;pd	18131
 暴漲	bk;ru vh;dv	17882
+暴漲	bk;ou vh;dv	17882
 分紅	ff;db hs;sg	17834
+分紅	ff;bd hs;sg	17834
 盤活	pj;mb ho;du	17816
 理賠	li;wl pz;bk	17793
+理賠	li;wl pz;bp	17793
 社會團體	ue;ut hv;ro tr;kv ti;gd	17771
 逆轉	ni;zn vr;iv	17728
 華爾街日報	hw;ca er;ay jx;xg ri;aa bk;ex	17719
+市值	ui;dj vi;rv	17693
 市值	ui;wj vi;rv	17693
+港元	gh;dx yr;hw	17665
 港元	gh;dx yr;ee	17665
+港元	gh;dx yr;aw	17665
 管理層	gr;vg li;wl cg;uc	17641
 停滯	ty;rt vi;dd	17542
 萬達	wj;cy da;zy	17519
 評級	py;yp ji;sj	17423
 供不應求	gs;rg bu;ad yy;gx qq;ad	17422
 負債	fu;db vl;rz	17374
+扣留	kb;fk lq;lt	17278
+扣留	kb;fk lq;tl	17278
 扣留	kb;fk lq;td	17278
+大盤	da;ad pj;mb	17275
 大盤	da;hd pj;mb	17275
 赤字	ii;tb zi;bz	17182
+赤字	ii;ty zi;bz	17182
 深層次	uf;dm cg;uc ci;dq	17148
+歐元區	ou;qq yr;hw qu;kp	17021
 歐元區	ou;qq yr;ee qu;kp	17021
+歐元區	ou;qq yr;aw qu;kp	17021
+薪水	xn;cx uv;ud	17017
+薪水	xn;cx uv;uv	17017
 薪水	xn;cx uv;ad	17017
+中信	vs;ka xn;ry	16949
+中信	vs;ku xn;ry	16949
+中信	vs;uu xn;ry	16949
 中信	vs;aa xn;ry	16949
 明珠	my;oo vu;wv	16902
+明珠	my;ry vu;wv	16902
 手勢	ub;pa ui;lv	16841
+手勢	ub;ub ui;lv	16841
+手勢	ub;pu ui;lv	16841
 不動產	bu;ad ds;lv ij;wu	16757
+不動產	bu;hd ds;lv ij;wu	16757
+不動產	bu;hx ds;lv ij;wu	16757
+不動產	bu;ax ds;lv ij;wu	16757
+網購	wh;sw gb;br	16602
 網購	wh;sw gb;bg	16602
 國債	go;kh vl;rz	16480
 託管	to;yq gr;vg	16403
+託管	to;yt gr;vg	16403
 不定期	bu;ad dy;bp qi;oq	16361
 清算	qy;dq sr;vc	16346
 主業	vu;dw ye;yl	16344
+主業	vu;dw ye;yw	16344
 中國銀行	vs;aa go;kh yn;jg hh;xd	16207
 遠東	yr;zy ds;ad	16062
+遠東	yr;zy ds;hd	16062
+遠東	yr;zy ds;mo	16062
+遠東	yr;zy ds;mr	16062
 欠款	qm;dr kr;qu	15988
 協議書	xx;ul yi;yy uu;oy	15967
 偏離	pm;rb li;vl	15962
+港幣	gh;dx bi;jw	15915
 港幣	gh;dx bi;jb	15915
+白銀	bl;ph yn;jg	15807
+白銀	bl;pr yn;jg	15807
 白銀	bl;pa yn;jg	15807
+白銀	bl;po yn;jg	15807
 黃海	hd;cb hl;dm	15792
 年薪	nm;ra xn;cx	15758
+年薪	nm;ru xn;cx	15758
+年薪	nm;pa xn;cx	15758
+年薪	nm;pu xn;cx	15758
+暴利	bk;ru li;hd	15641
 暴利	bk;ru li;dh	15641
+暴利	bk;ou li;hd	15641
+暴利	bk;ou li;dh	15641
 撤回	ie;fw hv;kk	15621
+經紀人	jy;sj ji;sj rf;pd	15500
 經紀人	jy;sg ji;sj rf;pd	15500
+收益率	ub;jw yi;mb lv;du	15458
+收益率	ub;jw yi;mb lv;wu	15458
+收益率	ub;wj yi;mb lv;du	15458
 收益率	ub;wj yi;mb lv;wu	15458
 房地產業	fh;hf di;ty ij;wu ye;yl	15425
+房地產業	fh;hf di;ty ij;wu ye;yw	15425
 寬帶	kr;bd dl;jb	15375
+寬帶	kr;bj dl;jb	15375
+購進	gb;br jn;zv	15372
 購進	gb;bg jn;zv	15372
 境內外	jy;tj nz;kr wl;xb	15333
 計量	ji;yu ld;ol	15273
+計量	ji;yu ld;rl	15273
 化驗	hw;rb yj;mq	15255
+國際貿易	go;kh ji;ej mk;bl yi;rw	15110
+國際貿易	go;kh ji;ej mk;bl yi;ow	15110
+國際貿易	go;kh ji;ej mk;bd yi;rw	15110
 國際貿易	go;kh ji;ej mk;bd yi;ow	15110
+廢止	fz;gf vi;uh	15026
 廢止	fz;gf vi;aa	15026
+聖地	ug;wk di;ty	14926
 聖地	ug;ew di;ty	14926
+聯誼	lm;eu yi;yy	14843
 聯誼	lm;ea yi;yy	14843
 賭場	du;bv ih;ty	14781
 透支	tb;zx vi;uy	14740
 發起人	fa;du qi;zj rf;pd	14733
+發起人	fa;zd qi;zj rf;pd	14733
+發起人	fa;gy qi;zj rf;pd	14733
 保費	bk;rd fz;bf	14396
 上行	uh;aa xy;xd	14376
 保值	bk;rd vi;rv	14345
+股份制	gu;yu ff;rf vi;dv	14260
+股份制	gu;yu ff;rf vi;dg	14260
+股份制	gu;ou ff;rf vi;dv	14260
 股份制	gu;ou ff;rf vi;dg	14260
 中石化	vs;aa ui;kp hw;rb	14159
 發貨	fa;du ho;bh	14090
+發貨	fa;zd ho;bh	14090
+發貨	fa;gy ho;bh	14090
+南航	nj;uy hh;vk	14022
+南航	nj;uu hh;vk	14022
 南航	nj;ua hh;vk	14022
 中關村	vs;aa gr;ma cp;mc	13998
 交易額	jc;wf yi;ow ee;yk	13941
+補辦	bu;yf bj;xx	13873
 補辦	bu;yf bj;lx	13873
 差額	ia;yg ee;yk	13800
+福彩	fu;ut cl;pc	13694
 福彩	fu;uf cl;pc	13694
+受惠	ub;yb hv;hx	13678
+受惠	ub;yb hv;xh	13678
+受惠	ub;vy hv;hx	13678
 受惠	ub;vy hv;xh	13678
 中小型	vs;aa xc;ad xy;tx	13671
 暴跌	bk;ru dx;zu	13647
+暴跌	bk;ou dx;zu	13647
 信託	xn;ry to;yq	13621
+信託	xn;ry to;yt	13621
 知情者	vi;uk qy;xq ve;ol	13441
 對外貿易	dv;ct wl;xb mk;bd yi;ow	13419
 會計師	ky;ro ji;yu ui;bv	13391
+會計師	ky;ro ji;yu ui;vb	13391
+會計師	ky;rr ji;yu ui;bv	13391
+會計師	ky;rr ji;yu ui;vb	13391
+井噴	jy;hu pf;kb	13378
 井噴	jy;aa pf;kb	13378
+井噴	jy;ep pf;kb	13378
 本金	bf;aa jn;ra	13362
+中歐	vs;ka ou;qq	13273
+中歐	vs;ku ou;qq	13273
+中歐	vs;uu ou;qq	13273
 中歐	vs;aa ou;qq	13273
+成因	ig;wg yn;kd	13254
 成因	ig;gg yn;kd	13254
+淨利潤	jy;dv li;hd rp;dr	13024
 淨利潤	jy;dv li;dh rp;dr	13024
 精密	jy;mq mi;bu	12946
+精密	jy;mq mi;ub	12946
+通貨膨脹	ts;zy ho;bh pg;op vh;yi	12930
 通貨膨脹	ts;zy ho;bh pg;op vh;oi	12930
+通貨膨脹	ts;zy ho;bh pg;yp vh;yi	12930
+通貨膨脹	ts;zy ho;bh pg;yp vh;oi	12930
 貼息	tx;bv xi;xz	12926
+貼息	tx;bv xi;zx	12926
+萬里	wj;cy li;uh	12909
+萬里	wj;cy li;tt	12909
 萬里	wj;cy li;aa	12909
 交易量	jc;wf yi;ow ld;ol	12802
 券商	qr;df uh;wk	12714
 交易日	jc;wf yi;ow ri;aa	12689
 跨國公司	kw;zk go;kh gs;sb si;gk	12631
 銀監會	yn;jg jm;mv hv;ro	12620
+銀監會	yn;jg jm;mv hv;rr	12620
+下單	xw;ad dj;kd	12360
 下單	xw;ab dj;kd	12360
+下單	xw;hd dj;kd	12360
+下單	xw;hb dj;kd	12360
+大西洋	da;ad xi;hh yh;dy	12338
+大西洋	da;ad xi;aa yh;dy	12338
+大西洋	da;hd xi;hh yh;dy	12338
 大西洋	da;hd xi;aa yh;dy	12338
+套取	tk;di qu;ye	12310
 套取	tk;di qu;ey	12310
 特許	te;ns xu;yw	12200
 金融時報	jn;ra rs;ig ui;os bk;ex	12191
 債權	vl;rz qr;mv	12069
 開戶	kl;mk hu;pk	12004
 洗錢	xi;dx qm;jj	11930
+代理商	dl;ry li;wl uh;dk	11918
+代理商	dl;ry li;wl uh;lk	11918
 代理商	dl;ry li;wl uh;wk	11918
+中海	vs;ka hl;dm	11843
+中海	vs;ku hl;dm	11843
+中海	vs;uu hl;dm	11843
 中海	vs;aa hl;dm	11843
+購買力	gb;br ml;sb li;gp	11841
+購買力	gb;br ml;bs li;gp	11841
+購買力	gb;bg ml;sb li;gp	11841
 購買力	gb;bg ml;bs li;gp	11841
 籌碼	ib;vu ma;um	11840
 財長	cl;bc vh;ad	11763
+財長	cl;bc vh;hd	11763
+經濟圈	jy;sj ji;dq qr;kj	11698
 經濟圈	jy;sg ji;dq qr;kj	11698
 資本市場	zi;bc bf;aa ui;wj ih;ty	11655
 股民	gu;ou mn;ag	11641
+孵化器	fu;lf hw;rb qi;qk	11622
 孵化器	fu;lf hw;rb qi;kk	11622
 定金	dy;bp jn;ra	11460
+定金	dy;bp jn;ph	11460
+定金	dy;bp jn;pa	11460
+定金	dy;bp jn;rh	11460
+單據	dj;kd ju;fu	11455
 單據	dj;kd ju;fj	11455
 回扣	hv;kk kb;fk	11375
+罷工	ba;sn gs;hh	11325
 罷工	ba;sn gs;aa	11325
 年報	nm;ra bk;ex	11267
+盤中	pj;mb vs;ka	11263
+盤中	pj;mb vs;ku	11263
+盤中	pj;mb vs;uu	11263
 盤中	pj;mb vs;aa	11263
 平價	py;aa jw;rj	11161
+平價	py;hu jw;rj	11161
+平價	py;gb jw;rj	11161
 華爾街	hw;ca er;ay jx;xg	11115
+報表	bk;xy bc;fy	11086
+報表	bk;ty bc;fy	11086
 報表	bk;ex bc;fy	11086
+上浮	uh;bh fu;df	11036
+上浮	uh;uh fu;df	11036
+上浮	uh;ba fu;df	11036
 上浮	uh;aa fu;df	11036
+賣點	ml;um dm;hv	11021
+賣點	ml;ub dm;hv	11021
 賣點	ml;bs dm;hv	11021
 變數	bm;ws uu;wl	10918
+變數	bm;yw uu;wl	10918
 房貸	fh;hf dl;bd	10830
 專款	vr;ac kr;qu	10774
+專款	vr;cd kr;qu	10774
+專款	vr;hc kr;qu	10774
+建築業	jm;zy vu;mv ye;yl	10756
+建築業	jm;zy vu;mv ye;yw	10756
 建築業	jm;zy vu;vm ye;yl	10756
+建築業	jm;zy vu;vm ye;yw	10756
 中西	vs;aa xi;aa	10690
+互換	hu;hh hr;fh	10687
+互換	hu;ev hr;fh	10687
 互換	hu;aa hr;fh	10687
+互換	hu;ea hr;fh	10687
 變賣	bm;ws ml;bs	10619
+股指	gu;yu vi;fv	10546
 股指	gu;ou vi;fv	10546
+硅谷	gv;ug gu;bk	10499
 硅谷	gv;ug gu;kr	10499
+技術改造	ji;fv uu;xi gl;jw zk;zg	10484
 技術改造	ji;fv uu;xi gl;wj zk;zg	10484
+技術改造	ji;fv uu;xu gl;jw zk;zg	10484
+技術改造	ji;fv uu;xu gl;wj zk;zg	10484
 連雲港	lm;zi yp;yy gh;dx	10472
 雜誌社	za;vm vi;yv ue;ut	10438
+雜誌社	za;vm vi;yv ue;tu	10438
+擠出	ji;fq iu;ck	10378
 擠出	ji;fq iu;uu	10378
 採樣	cl;fc yh;my	10336
 債權人	vl;rz qr;mv rf;pd	10329
+加息	jw;lk xi;xz	10293
+加息	jw;lk xi;zx	10293
 加息	jw;kl xi;xz	10293
+加息	jw;kl xi;zx	10293
 保稅	bk;rd uv;hd	10191
+盜取	dk;mq qu;ye	10182
+盜取	dk;mq qu;ey	10182
+盜取	dk;mc qu;ye	10182
 盜取	dk;mc qu;ey	10182
 消費稅	xc;dx fz;bf uv;hd	10177
 完整性	wj;by vg;vi xy;xu	10109
+完整性	wj;by vg;vw xy;xu	10109
 沃爾瑪	wo;dy er;ay ma;wm	10087
+沃爾瑪	wo;dy er;hd ma;wm	10087
+沃爾瑪	wo;dy er;hy ma;wm	10087
 萬科	wj;cy ke;hd	10065
+市場部	ui;dj ih;ty bu;ek	10052
+市場部	ui;dj ih;ty bu;ep	10052
 市場部	ui;wj ih;ty bu;ek	10052
+市場部	ui;wj ih;ty bu;ep	10052
 介於	jx;ra yu;fd	10051
+介於	jx;ru yu;fd	10051
+介於	jx;rp yu;fd	10051
+美聯儲	mz;yd lm;eu iu;rv	10023
+美聯儲	mz;yd lm;ea iu;rv	10023
+美聯儲	mz;dy lm;eu iu;rv	10023
 美聯儲	mz;dy lm;ea iu;rv	10023
 暢遊	ih;uy yb;zy	9972
+暢遊	ih;uy yb;zz	9972
 契約	qi;dd yt;su	9929
+放貸	fh;fw dl;bd	9925
 放貸	fh;wf dl;bd	9925
 麥當勞	ml;lx dh;tk lk;lb	9918
+面值	mm;hh vi;rv	9784
+面值	mm;ah vi;rv	9784
+面值	mm;ph vi;rv	9784
 面值	mm;aa vi;rv	9784
 稅務局	uv;hd wu;mw ju;uk	9780
 賠錢	pz;bk qm;jj	9749
+賠錢	pz;bp qm;jj	9749
+福特	fu;ut te;ns	9586
 福特	fu;uf te;ns	9586
 共產主義	gs;bc ij;wu vu;dw yi;yw	9522
-按揭	an;fa jx;th	9486
+共產主義	gs;cb ij;wu vu;dw yi;yw	9522
+按揭	an;fa jx;fh	9486
+持卡	ii;fs ka;bx	9478
 持卡	ii;fs ka;ub	9478
+遠期	yr;zy qi;qy	9471
+遠期	yr;zy qi;yq	9471
 遠期	yr;zy qi;oq	9471
+遠期	yr;zy qi;qo	9471
 基點	ji;tq dm;hv	9396
+基點	ji;qt dm;hv	9396
+按月	an;fa yt;oy	9328
+按月	an;fa yt;ph	9328
 按月	an;fa yt;pa	9328
+按月	an;fa yt;yt	9328
+炒股	ik;hu gu;yu	9244
 炒股	ik;hu gu;ou	9244
 工行	gs;aa hh;xd	9241
 競標	jy;jj bc;mp	9225
+競標	jy;lx bc;mp	9225
 違約金	wz;zw yt;su jn;ra	9209
+違約金	wz;zw yt;su jn;ph	9209
+違約金	wz;zw yt;su jn;pa	9209
+違約金	wz;zw yt;su jn;rh	9209
+出局	iu;ck ju;uk	9195
 出局	iu;uu ju;uk	9195
 中興	vs;aa xy;ba	9165
 首席執行官	ub;qz xi;gj vi;wx xy;xd gr;bg	9153
+獨資	du;qu zi;bc	9143
 獨資	du;qi zi;bc	9143
 鐵道	tx;jg dk;zu	9124
+硬幣	yy;ug bi;jw	9071
 硬幣	yy;ug bi;jb	9071
 跌破	dx;zu po;up	9005
 插隊	ia;fi dv;eu	8951
+插隊	ia;fj dv;eu	8951
+高利貸	gk;dk li;hd dl;bd	8945
+高利貸	gk;dk li;dh dl;bd	8945
+高利貸	gk;wk li;hd dl;bd	8945
 高利貸	gk;wk li;dh dl;bd	8945
 專營	vr;ac yy;hl	8914
 估價	gu;rg jw;rj	8912
 益處	yi;mb iu;hi	8912
+工錢	gs;hh qm;jj	8895
 工錢	gs;aa qm;jj	8895
 推介會	tv;fv jx;ra hv;ro	8813
 回調	hv;kk dc;yv	8741
@@ -714,89 +1317,166 @@ use_preset_vocabulary: false
 黑手	hz;ha ub;pa	8695
 短線	dr;ud xm;sq	8670
 蕭條	xc;cs tc;rt	8655
+出逃	iu;ck tk;zv	8642
 出逃	iu;uu tk;zv	8642
+經理人	jy;sj li;wl rf;pd	8628
 經理人	jy;sg li;wl rf;pd	8628
+出貨	iu;ck ho;bh	8617
 出貨	iu;uu ho;bh	8617
 佣金	ys;ry jn;ra	8580
+佣金	ys;ry jn;ph	8580
+佣金	ys;ry jn;pa	8580
+佣金	ys;ry jn;rh	8580
+體彩	ti;gl cl;pc	8569
 體彩	ti;gd cl;pc	8569
 市場佔有率	ui;wj ih;ty vj;rv yb;ou lv;wu	8560
 海爾	hl;dm er;ay	8513
+海爾	hl;dm er;hd	8513
+海爾	hl;dm er;hy	8513
 東航	ds;ad hh;vk	8346
+東航	ds;hd hh;vk	8346
+東航	ds;mo hh;vk	8346
+東航	ds;mr hh;vk	8346
 壓低	ya;ty di;rd	8340
 損耗	sp;fy hk;lm	8307
 圖形	tu;kh xy;pk	8293
+圖形	tu;kt xy;pk	8293
 儀表	yi;ry bc;fy	8288
+後市	hb;xw ui;dj	8226
 後市	hb;xw ui;wj	8226
+後市	hb;rw ui;dj	8226
+後市	hb;rw ui;wj	8226
 房款	fh;hf kr;qu	8218
+上證	uh;bh vg;yd	8200
+上證	uh;uh vg;yd	8200
+上證	uh;ba vg;yd	8200
 上證	uh;aa vg;yd	8200
 支票	vi;uy pc;xu	8199
 增資	zg;tc zi;bc	8197
 準備金率	vp;uh bz;ry jn;ra lv;wu	8181
 頂峯	dy;yd fg;uf	8079
+頂峯	dy;dy fg;uf	8079
 發行量	fa;du xy;xd ld;ol	7920
+淡出	dj;dy iu;ck	7909
 淡出	dj;dy iu;uu	7909
+收款	ub;jw kr;qu	7889
 收款	ub;wj kr;qu	7889
+開門紅	kl;mk mf;xu hs;sg	7867
+開門紅	kl;mk mf;vh hs;sg	7867
 開門紅	kl;mk mf;aa hs;sg	7867
+開門紅	kl;mk mf;xa hs;sg	7867
+開門紅	kl;mk mf;zh hs;sg	7867
+盜用	dk;mq ys;kf	7823
 盜用	dk;mc ys;kf	7823
+攜程	xx;fk ig;hi	7769
 攜程	xx;fj ig;hi	7769
 圖表	tu;kh bc;fy	7757
+圖表	tu;kt bc;fy	7757
 古董	gu;uk ds;cv	7668
 買方	ml;bs fh;wd	7663
 搖擺	yk;ff bl;fb	7662
+搖擺	yk;ff bl;fn	7662
 資本金	zi;bc bf;aa jn;ra	7651
 申購	uf;aa gb;bg	7645
 接洽	jx;fq qw;dh	7584
+大連港	da;ad lm;zi gh;dx	7559
 大連港	da;hd lm;zi gh;dx	7559
+新世界	xn;jq ui;cv jx;tj	7488
 新世界	xn;jq ui;ca jx;tj	7488
+新世界	xn;jq ui;hv jx;tj	7488
+新世界	xn;jq ui;aa jx;tj	7488
+主營業務	vu;dw yy;lb ye;yl wu;mw	7444
+主營業務	vu;dw yy;lb ye;yw wu;mw	7444
 主營業務	vu;dw yy;hl ye;yl wu;mw	7444
+主營業務	vu;dw yy;hl ye;yw wu;mw	7444
 現貨	xm;wj ho;bh	7434
 回報率	hv;kk bk;ex lv;wu	7401
+澳元	ao;da yr;hw	7393
 澳元	ao;da yr;ee	7393
+澳元	ao;da yr;aw	7393
+資本主義	zi;bc bf;hh vu;dw yi;yw	7324
+資本主義	zi;bc bf;ma vu;dw yi;yw	7324
 資本主義	zi;bc bf;aa vu;dw yi;yw	7324
+資本主義	zi;bc bf;mh vu;dw yi;yw	7324
+國有化	go;kh yb;uo hw;rb	7308
+國有化	go;kh yb;yu hw;rb	7308
 國有化	go;kh yb;ou hw;rb	7308
+國有化	go;kh yb;uy hw;rb	7308
 批發商	pi;fb fa;du uh;wk	7289
 漲跌	vh;dv dx;zu	7284
 主板	vu;dw bj;mf	7277
 預熱	yu;yy re;hv	7265
+預熱	yu;yy re;dv	7265
 補助金	bu;yf vu;lq jn;ra	7244
 順差	up;yi ia;yg	7235
+諾基亞	no;yr ji;tq ya;hh	7197
 諾基亞	no;yr ji;tq ya;aa	7197
+諾基亞	no;yr ji;qt ya;hh	7197
+諾基亞	no;yr ji;qt ya;aa	7197
 可信度	ke;dk xn;ry du;gy	7163
 租借	zu;hq jx;rx	7143
+搜狐	sb;fy hu;qg	7138
 搜狐	sb;fs hu;qg	7138
+錦江	jn;jj jd;dg	7128
 錦江	jn;jb jd;dg	7128
 母公司	mu;ad gs;sb si;gk	7083
+週期性	vb;zv qi;qy xy;xu	7071
+週期性	vb;zv qi;yq xy;xu	7071
 週期性	vb;zv qi;oq xy;xu	7071
+週期性	vb;zv qi;qo xy;xu	7071
 新臺階	xn;jq tl;uv jx;ej	7023
 外債	wl;xb vl;rz	6993
+最高點	zv;oq gk;dk dm;hv	6937
 最高點	zv;oq gk;wk dm;hv	6937
+最高點	zv;rq gk;dk dm;hv	6937
+最高點	zv;rq gk;wk dm;hv	6937
 公用事業	gs;sb ys;kf ui;aa ye;yl	6814
+充值	is;dy vi;rv	6772
+充值	is;es vi;rv	6772
 充值	is;wy vi;rv	6772
 網銀	wh;sw yn;jg	6770
 王府井	wh;aa fu;gf jy;aa	6731
+拋售	pk;fl ub;vk	6718
 拋售	pk;fl ub;kv	6718
 薪金	xn;cx jn;ra	6700
+薪金	xn;cx jn;ph	6700
+薪金	xn;cx jn;pa	6700
+薪金	xn;cx jn;rh	6700
 亞馬遜	ya;aa ma;ad xp;zs	6672
+卡號	ka;bx hk;hh	6650
 卡號	ka;ub hk;hh	6650
 保險業	bk;rd xm;eq ye;yl	6639
+保險業	bk;rd xm;eq ye;yw	6639
 質押	vi;bj ya;fj	6628
 套現	tk;di xm;wj	6617
 溢價	yi;dy jw;rj	6559
 補足	bu;yf zu;kv	6522
+收儲	ub;jw iu;rv	6519
 收儲	ub;wj iu;rv	6519
 陸家嘴	lu;et jw;bu zv;kj	6513
+陸家嘴	lu;et jw;bu zv;kz	6513
+可口可樂	ke;dk kb;uh ke;dk le;bm	6505
+可口可樂	ke;dk kb;uh ke;dk le;my	6505
 可口可樂	ke;dk kb;aa ke;dk le;bm	6505
+可口可樂	ke;dk kb;aa ke;dk le;my	6505
+九州	jq;py vb;da	6481
+九州	jq;py vb;du	6481
 九州	jq;py vb;id	6481
 徐家彙	xu;xy jw;bu hv;gb	6457
 私企	si;hs qi;rv	6429
 年金	nm;ra jn;ra	6405
+過熱	go;zk re;hv	6399
+過熱	go;zk re;dv	6399
 過熱	go;zg re;hv	6399
+過熱	go;zg re;dv	6399
 喫緊	ii;kq jn;sy	6367
 本息	bf;aa xi;xz	6362
 滙豐	hv;dv fg;ud	6356
+滙豐	hv;dv fg;df	6356
 傾銷	qy;rq xc;jx	6322
 淨值	jy;dv vi;rv	6319
 遺囑	yi;zg vu;ku	6271
+遙遙領先	yk;zf yk;zf ly;yl xm;ne	6261
 遙遙領先	yk;zf yk;zf ly;yl xm;en	6261
 不容樂觀	bu;ad rs;bg le;bm gr;jv	6243
 入主	ru;pd vu;dw	6228
@@ -805,186 +1485,359 @@ use_preset_vocabulary: false
 逆勢	ni;zn ui;lv	6174
 金牛	jn;ra nq;pa	6143
 批文	pi;fb wf;dd	6125
+谷底	gu;bk di;gd	6125
 谷底	gu;kr di;gd	6125
+附加費	fu;ef jw;lk fz;bf	6064
 附加費	fu;ef jw;kl fz;bf	6064
 增發	zg;tc fa;du	6057
+增發	zg;tc fa;zd	6057
+增發	zg;tc fa;gy	6057
+拒收	ju;fj ub;jw	6043
 拒收	ju;fj ub;wj	6043
 鄂爾多斯	ee;ee er;ay do;xx si;jq	6015
 國安	go;kh an;bn	6008
 稅金	uv;hd jn;ra	5989
+稅金	uv;hd jn;ph	5989
+稅金	uv;hd jn;pa	5989
+稅金	uv;hd jn;rh	5989
+南洋	nj;uy yh;dy	5976
+南洋	nj;uu yh;dy	5976
 南洋	nj;ua yh;dy	5976
 總行	zs;sc xy;xd	5952
+斬獲	vj;ji ho;qy	5951
+斬獲	vj;ji ho;qh	5951
+斬獲	vj;ij ho;qy	5951
 斬獲	vj;ij ho;qh	5951
 財政赤字	cl;bc vg;wv ii;tb zi;bz	5934
+財政赤字	cl;bc vg;wv ii;ty zi;bz	5934
 背書	bz;ob uu;oy	5914
 貴金屬	gv;bg jn;ra uu;ui	5896
+市場體系	ui;dj ih;ty ti;gl xi;ps	5891
+市場體系	ui;dj ih;ty ti;gd xi;ps	5891
+市場體系	ui;wj ih;ty ti;gl xi;ps	5891
 市場體系	ui;wj ih;ty ti;gd xi;ps	5891
 暴富	bk;ru fu;bf	5868
+暴富	bk;ru fu;bt	5868
+暴富	bk;ou fu;bf	5868
+暴富	bk;ou fu;bt	5868
 委託書	wz;hn to;yq uu;oy	5849
+牛市	nq;pa ui;dj	5832
 牛市	nq;pa ui;wj	5832
+牛市	nq;pu ui;dj	5832
+牛市	nq;pu ui;wj	5832
 第一財經日報	di;vp yi;aa cl;bc jy;sg ri;aa bk;ex	5814
 散戶	sj;wo hu;pk	5810
+散戶	sj;wy hu;pk	5810
+聯通	lm;eu ts;zy	5809
 聯通	lm;ea ts;zy	5809
 停牌	ty;rt pl;pb	5807
 海航	hl;dm hh;vk	5797
 翻一番	fj;yf yi;aa fj;tb	5767
 中行	vs;aa hh;xd	5766
+救市	jq;wq ui;dj	5743
 救市	jq;wq ui;wj	5743
 股本	gu;ou bf;aa	5730
+白雲機場	bl;ph yp;yy ji;mj ih;ty	5701
+白雲機場	bl;pr yp;yy ji;mj ih;ty	5701
 白雲機場	bl;pa yp;yy ji;mj ih;ty	5701
+白雲機場	bl;po yp;yy ji;mj ih;ty	5701
+存貨	cp;uz ho;bh	5688
 存貨	cp;za ho;bh	5688
+存貨	cp;zu ho;bh	5688
 時效性	ui;os xc;wj xy;xu	5682
+時效性	ui;rs xc;wj xy;xu	5682
 逃稅	tk;zv uv;hd	5659
+靜止	jy;qv vi;uh	5653
 靜止	jy;qv vi;aa	5653
+網下	wh;sw xw;ad	5614
 網下	wh;sw xw;ab	5614
+網下	wh;sw xw;hd	5614
+網下	wh;sw xw;hb	5614
+外幣	wl;xb bi;jw	5614
 外幣	wl;xb bi;jb	5614
 金礦	jn;ra kd;ug	5600
+金礦	jn;ph kd;ug	5600
+金礦	jn;pa kd;ug	5600
+金礦	jn;rh kd;ug	5600
 外銷	wl;xb xc;jx	5565
 金條	jn;ra tc;rt	5532
+金條	jn;ph tc;rt	5532
+金條	jn;pa tc;rt	5532
+金條	jn;rh tc;rt	5532
 保監會	bk;rd jm;mv hv;ro	5443
+保監會	bk;rd jm;mv hv;rr	5443
 流動資金	lq;di ds;lv zi;bc jn;ra	5429
+流動資金	lq;di ds;lv zi;bc jn;ph	5429
+流動資金	lq;di ds;lv zi;bc jn;pa	5429
+流動資金	lq;di ds;lv zi;bc jn;rh	5429
 盈餘	yy;my yu;uy	5413
 比價	bi;bb jw;rj	5359
 有價證券	yb;ou jw;rj vg;yd qr;df	5338
 天津港	tm;ad jn;dy gh;dx	5318
+天津港	tm;hd jn;dy gh;dx	5318
 保單	bk;rd dj;kd	5317
 結清	jx;sj qy;dq	5315
 首付款	ub;qz fu;rc kr;qu	5312
+展期	vj;uy qi;qy	5288
+展期	vj;uy qi;yq	5288
 展期	vj;uy qi;oq	5288
+展期	vj;uy qi;qo	5288
 國民收入	go;kh mn;ag ub;wj ru;pd	5272
 古玩	gu;uk wj;wy	5264
 反轉	fj;py vr;iv	5234
+聯辦	lm;eu bj;xx	5171
+聯辦	lm;eu bj;lx	5171
+聯辦	lm;ea bj;xx	5171
 聯辦	lm;ea bj;lx	5171
+監事會	jm;mv ui;hu hv;ro	5151
+監事會	jm;mv ui;hu hv;rr	5151
 監事會	jm;mv ui;aa hv;ro	5151
+監事會	jm;mv ui;aa hv;rr	5151
+回購	hv;kk gb;br	5126
 回購	hv;kk gb;bg	5126
 一年期	yi;aa nm;ra qi;oq	5122
 意向書	yi;xy xd;pk uu;oy	5108
 中小板	vs;aa xc;ad bj;mf	5101
+面額	mm;hh ee;yk	5098
+面額	mm;ah ee;yk	5098
+面額	mm;ph ee;yk	5098
 面額	mm;aa ee;yk	5098
+銀聯	yn;jg lm;eu	5097
 銀聯	yn;jg lm;ea	5097
 國網	go;kh wh;sw	5086
+看漲	kj;uo vh;dv	5084
 看漲	kj;ou vh;dv	5084
 經濟參考報	jy;sg ji;dq cj;sp kk;lk bk;ex	5070
 借款人	jx;rx kr;qu rf;pd	5065
 廣發	gd;gh fa;du	5053
+廣發	gd;gh fa;zd	5053
+廣發	gd;gh fa;gy	5053
 承租人	ig;ad zu;hq rf;pd	5010
+承租人	ig;vd zu;hq rf;pd	5010
+承租人	ig;zd zu;hq rf;pd	5010
+百花	bl;bh hw;ch	5000
 百花	bl;ab hw;ch	5000
+百花	bl;hb hw;ch	5000
 融通	rs;ig ts;zy	4999
+放量	fh;fw ld;ol	4959
+放量	fh;fw ld;rl	4959
 放量	fh;wf ld;ol	4959
+放量	fh;wf ld;rl	4959
+出納	iu;ck na;sn	4916
 出納	iu;uu na;sn	4916
 白雲山	bl;pa yp;yy uj;aa	4907
 準備金	vp;uh bz;ry jn;ra	4892
+臨界	ln;ip jx;tj	4891
 臨界	ln;ik jx;tj	4891
 逆差	ni;zn ia;yg	4847
 償債	ih;ru vl;rz	4838
 非公經濟	fz;aa gs;sb jy;sg ji;dq	4838
 退場	tv;zg ih;ty	4834
+日內	ri;uh nz;kr	4760
+日內	ri;or nz;kr	4760
 日內	ri;aa nz;kr	4760
+日內	ri;ri nz;kr	4760
 頹勢	tv;ye ui;lv	4753
+頹勢	tv;yt ui;lv	4753
 投票權	tb;fu pc;xu qr;mv	4738
 測驗	ce;dz yj;mq	4724
 贖回	uu;bm hv;kk	4705
+豁免	ho;gh mm;dm	4680
 豁免	ho;gh mm;de	4680
 金融界	jn;ra rs;ig jx;tj	4669
+金融界	jn;ph rs;ig jx;tj	4669
+金融界	jn;pa rs;ig jx;tj	4669
+金融界	jn;rh rs;ig jx;tj	4669
+雙開	ud;yv kl;mk	4666
 雙開	ud;vy kl;mk	4666
 深交所	uf;dm jc;wf so;jh	4662
 通盤	ts;zy pj;mb	4637
 金融街	jn;ra rs;ig jx;xg	4625
 清償	qy;dq ih;ru	4621
 打轉	da;fd vr;iv	4586
+錢幣	qm;jj bi;jw	4584
 錢幣	qm;jj bi;jb	4584
+高盛	gk;dk ug;mi	4520
 高盛	gk;wk ug;mi	4520
 淨資產	jy;dv zi;bc ij;wu	4518
+新經濟	xn;jq jy;sj ji;dq	4493
 新經濟	xn;jq jy;sg ji;dq	4493
 經濟技術開發區	jy;sg ji;dq ji;fv uu;xi kl;mk fa;du qu;kp	4469
 合金	he;rk jn;ra	4466
+合金	he;rk jn;ph	4466
+合金	he;rk jn;pa	4466
+合金	he;rk jn;rh	4466
 炒房	ik;hu fh;hf	4461
 衍生品	yj;xd ug;na pn;kk	4393
 波浪	bo;dp lh;dl	4387
 日照	ri;aa vk;hv	4376
 寶鋼	bk;bb gh;jg	4340
+監事	jm;mv ui;hu	4340
 監事	jm;mv ui;aa	4340
 一觸即發	yi;aa iu;ji ji;eg fa;du	4336
 金融辦	jn;ra rs;ig bj;lx	4334
+中遠	vs;ka yr;zy	4321
+中遠	vs;ku yr;zy	4321
+中遠	vs;uu yr;zy	4321
 中遠	vs;aa yr;zy	4321
 永安	ys;dd an;bn	4278
+軟着陸	rr;iq vo;yo lu;et	4275
 軟着陸	rr;iq vo;ym lu;et	4275
+利空	li;hd ks;bg	4262
+利空	li;hd ks;xg	4262
 利空	li;dh ks;bg	4262
+利空	li;dh ks;xg	4262
 板材	bj;mf cl;mc	4260
 金橋	jn;ra qc;mq	4254
+金橋	jn;ph qc;mq	4254
+金橋	jn;pa qc;mq	4254
+金橋	jn;rh qc;mq	4254
+電訊	dm;yd xp;yx	4223
 電訊	dm;yd xp;yu	4223
+電訊	dm;yg xp;yx	4223
+電訊	dm;yg xp;yu	4223
 綜述	zs;sz uu;zu	4213
 摩根	mo;mu gf;mg	4208
+摩根	mo;um gf;mg	4208
 動因	ds;lv yn;kd	4180
 年審	nm;ra uf;bf	4175
+年審	nm;ru uf;bf	4175
+年審	nm;pa uf;bf	4175
+年審	nm;pu uf;bf	4175
+雅虎	ya;yv hu;hj	4155
 雅虎	ya;vy hu;hj	4155
+退市	tv;zg ui;dj	4140
 退市	tv;zg ui;wj	4140
 人壽保險	rf;pd ub;uc bk;rd xm;eq	4136
+人壽保險	rf;pd ub;hd bk;rd xm;eq	4136
 中南財經政法大學	vs;aa nj;ua cl;bc jy;sg vg;wv fa;dq da;hd xt;jz	4108
+三角形	sj;hh jc;dy xy;pk	4092
 三角形	sj;aa jc;dy xy;pk	4092
 托盤	to;fq pj;mb	4088
+托盤	to;ft pj;mb	4088
+據傳	ju;fu ir;rv	4009
 據傳	ju;fj ir;rv	4009
+盎司	ah;my si;kh	4005
+盎司	ah;my si;ka	4005
 盎司	ah;my si;gk	4005
+出資人	iu;ck zi;bc rf;pd	3993
 出資人	iu;uu zi;bc rf;pd	3993
 中國銀監會	vs;aa go;kh yn;jg jm;mv hv;ro	3981
 信貸資金	xn;ry dl;bd zi;bc jn;ra	3972
+信貸資金	xn;ry dl;bd zi;bc jn;ph	3972
+信貸資金	xn;ry dl;bd zi;bc jn;pa	3972
+信貸資金	xn;ry dl;bd zi;bc jn;rh	3972
 花旗	hw;ch qi;fq	3971
+政府採購	vg;wv fu;gf cl;fc gb;br	3961
 政府採購	vg;wv fu;gf cl;fc gb;bg	3961
 假定	jw;rj dy;bp	3955
+假定	jw;ry dy;bp	3955
 富國	fu;bf go;kh	3944
+富國	fu;bt go;kh	3944
 勝算	ug;ol sr;vc	3944
+勝算	ug;yl sr;vc	3944
 抵押物	di;fd ya;fj wu;nw	3941
+國泰	go;kh tl;fu	3940
 國泰	go;kh tl;uf	3940
 特困戶	te;ns kp;km hu;pk	3938
+通脹率	ts;zy vh;yi lv;du	3934
+通脹率	ts;zy vh;yi lv;wu	3934
+通脹率	ts;zy vh;oi lv;du	3934
 通脹率	ts;zy vh;oi lv;wu	3934
+銀行家	yn;jg hh;xi jw;bu	3924
+銀行家	yn;jg hh;rd jw;bu	3924
 銀行家	yn;jg hh;xd jw;bu	3924
+銀行家	yn;jg hh;ri jw;bu	3924
+上汽	uh;bh qi;dq	3919
+上汽	uh;uh qi;dq	3919
+上汽	uh;ba qi;dq	3919
 上汽	uh;aa qi;dq	3919
 避風港	bi;zb fg;ji gh;dx	3891
+避風港	bi;zx fg;ji gh;dx	3891
+證券化	vg;yd qr;jd hw;rb	3877
 證券化	vg;yd qr;df hw;rb	3877
 變量	bm;ws ld;ol	3873
+變量	bm;ws ld;rl	3873
+變量	bm;yw ld;ol	3873
+變量	bm;yw ld;rl	3873
+配售	pz;yj ub;vk	3869
 配售	pz;yj ub;kv	3869
 折舊	ve;fj jq;cj	3866
+新紀元	xn;jq ji;sj yr;hw	3844
 新紀元	xn;jq ji;sj yr;ee	3844
+新紀元	xn;jq ji;sj yr;aw	3844
+買進	ml;sb jn;zv	3837
 買進	ml;bs jn;zv	3837
+伊利	yi;ry li;hd	3823
 伊利	yi;ry li;dh	3823
 經濟日報	jy;sg ji;dq ri;aa bk;ex	3797
 低點	di;rd dm;hv	3793
 浦發	pu;df fa;du	3782
+浦發	pu;df fa;zd	3782
+浦發	pu;df fa;gy	3782
 償付	ih;ru fu;rc	3780
 探底	tj;fm di;gd	3766
+探底	tj;fu di;gd	3766
 折價	ve;fj jw;rj	3759
 烽火	fg;hf ho;dd	3757
 崩盤	bg;up pj;mb	3741
 滬指	hu;db vi;fv	3724
+滬指	hu;dh vi;fv	3724
+銀山	yn;jg uj;uu	3722
 銀山	yn;jg uj;aa	3722
 壽險	ub;uc xm;eq	3680
+壽險	ub;hd xm;eq	3680
 上交所	uh;aa jc;wf so;jh	3667
 保額	bk;rd ee;yk	3666
+藍籌股	lj;cj ib;vu gu;yu	3658
 藍籌股	lj;cj ib;vu gu;ou	3658
 珠峯	vu;wv fg;uf	3655
 硬指標	yy;ug vi;fv bc;mp	3644
 金盃	jn;ra bz;bm	3638
 熱炒	re;hv ik;hu	3625
+熱炒	re;dv ik;hu	3625
 惠普	hv;xh pu;ob	3609
 白金	bl;pa jn;ra	3574
 天安	tm;ad an;bn	3573
+天安	tm;hd an;bn	3573
 雷聲	lz;yt ug;eq	3541
+雷聲	lz;yt ug;eu	3541
+招商局	vk;fv uh;dk ju;uk	3522
+招商局	vk;fv uh;lk ju;uk	3522
 招商局	vk;fv uh;wk ju;uk	3522
+交割	jc;li ge;dh	3492
+交割	jc;df ge;dh	3492
+交割	jc;lw ge;dh	3492
 交割	jc;wf ge;dh	3492
 買斷	ml;bs dr;ja	3462
 分期付款	ff;db qi;oq fu;rc kr;qu	3460
+招行	vk;fv hh;xi	3442
+招行	vk;fv hh;rd	3442
 招行	vk;fv hh;xd	3442
+招行	vk;fv hh;ri	3442
 武鋼	wu;yv gh;jg	3432
+武鋼	wu;vy gh;jg	3432
 避稅	bi;zb uv;hd	3400
+避稅	bi;zx uv;hd	3400
 趨同	qu;zc ts;kk	3366
+趨同	qu;zi ts;kk	3366
 英特爾	yy;cy te;ns er;ay	3339
+英特爾	yy;cy te;ns er;hd	3339
+英特爾	yy;cy te;ns er;hy	3339
+期權	qi;qy qr;mv	3338
+期權	qi;yq qr;mv	3338
 期權	qi;oq qr;mv	3338
+期權	qi;qo qr;mv	3338
 評語	py;yp yu;yw	3321
 債務人	vl;rz wu;mw rf;pd	3314
 無形資產	wu;ha xy;pk zi;bc ij;wu	3299
+開拓進取	kl;mk to;fu jn;zv qu;ye	3298
 開拓進取	kl;mk to;fu jn;zv qu;ey	3298
+貨幣化	ho;bh bi;jw hw;rb	3295
 貨幣化	ho;bh bi;jb hw;rb	3295
 強生	qd;gi ug;na	3271
+強生	qd;gi ug;nh	3271
+獲批	ho;qy pi;fb	3259
 獲批	ho;qh pi;fb	3259
 星巴克	xy;ou ba;ag ke;ux	3253
 中國人民銀行	vs;aa go;kh rf;pd mn;ag yn;jg hh;xd	3229
@@ -992,73 +1845,140 @@ use_preset_vocabulary: false
 異動	yi;tg ds;lv	3226
 進口商	jn;zv kb;aa uh;wk	3222
 預付款	yu;yy fu;rc kr;qu	3214
+比索	bi;bb so;us	3212
 比索	bi;bb so;sb	3212
+盜刷	dk;mq uw;dj	3197
 盜刷	dk;mc uw;dj	3197
+次月	ci;dq yt;oy	3190
+次月	ci;dq yt;ph	3190
 次月	ci;dq yt;pa	3190
+次月	ci;dq yt;yt	3190
 財險	cl;bc xm;eq	3183
-金鷹	jn;ra yy;gn	3173
+金鷹	jn;ra yy;nv	3173
 銷售一空	xc;jx ub;kv yi;aa ks;bg	3168
 國家外匯管理局	go;kh jw;bu wl;xb hv;kh gr;vg li;wl ju;uk	3167
+港股	gh;dx gu;yu	3140
 港股	gh;dx gu;ou	3140
+參保率	cj;sp bk;rd lv;du	3118
 參保率	cj;sp bk;rd lv;wu	3118
+中銀	vs;ka yn;jg	3117
+中銀	vs;ku yn;jg	3117
+中銀	vs;uu yn;jg	3117
 中銀	vs;aa yn;jg	3117
 遊資	yb;zy zi;bc	3116
+遊資	yb;zz zi;bc	3116
+投資方	tb;fu zi;bc fh;dw	3115
 投資方	tb;fu zi;bc fh;wd	3115
+投資方	tb;fu zi;bc fh;dg	3115
+投資方	tb;fu zi;bc fh;dp	3115
+投資方	tb;fu zi;bc fh;dd	3115
+三聯	sj;hh lm;eu	3113
+三聯	sj;hh lm;ea	3113
+三聯	sj;aa lm;eu	3113
 三聯	sj;aa lm;ea	3113
 印花稅	yn;ey hw;ch uv;hd	3100
+印花稅	yn;pe hw;ch uv;hd	3100
 交行	jc;wf hh;xd	3092
+存貸款	cp;uz dl;bd kr;qu	3081
 存貸款	cp;za dl;bd kr;qu	3081
+存貸款	cp;zu dl;bd kr;qu	3081
 金城	jn;ra ig;ti	3080
+金城	jn;ph ig;ti	3080
+金城	jn;pa ig;ti	3080
+金城	jn;rh ig;ti	3080
 中國經濟週刊	vs;aa go;kh jy;sg ji;dq vb;zv kj;dg	3079
 物價指數	wu;nw jw;rj vi;fv uu;wl	3076
+擔保人	dj;fy bk;rd rf;pd	3049
 擔保人	dj;fv bk;rd rf;pd	3049
 光華	gd;xw hw;ca	3042
+國泰君安	go;kh tl;fu jp;ky an;bn	3024
 國泰君安	go;kh tl;uf jp;ky an;bn	3024
 黑錢	hz;ha qm;jj	2989
 出口商	iu;uu kb;aa uh;wk	2985
 風控	fg;ji ks;fk	2981
 倉位	ch;rk wz;rl	2953
 國電	go;kh dm;yd	2941
+國電	go;kh dm;yg	2941
+跨行	kw;zk xy;xi	2937
+跨行	kw;zk xy;rd	2937
 跨行	kw;zk xy;xd	2937
+跨行	kw;zk xy;ri	2937
+存單	cp;uz dj;kd	2936
 存單	cp;za dj;kd	2936
+存單	cp;zu dj;kd	2936
 紀念章	ji;sj nm;xj vh;lz	2880
 拒付	ju;fj fu;rc	2850
+統計學	ts;si ji;yu xt;zb	2848
 統計學	ts;si ji;yu xt;jz	2848
+京西	jy;wx xi;hh	2844
 京西	jy;wx xi;aa	2844
+京西	jy;dx xi;hh	2844
+京西	jy;dx xi;aa	2844
+郵政儲蓄	yb;ei vg;wv iu;rv xu;cx	2840
 郵政儲蓄	yb;ei vg;wv iu;rv xu;ci	2840
 調回	dc;yv hv;kk	2817
 扭虧爲盈	nq;fi kv;hk wz;pd yy;my	2816
 臥龍	wo;ir ls;dg	2772
+臥龍	wo;ir ls;lg	2772
+臥龍	wo;ri ls;dg	2772
+臥龍	wo;ri ls;lg	2772
 財務部	cl;bc wu;mw bu;ek	2751
+財務部	cl;bc wu;mw bu;ep	2751
 發行價	fa;du xy;xd jw;rj	2751
+消費類	xc;dx fz;bf lz;yq	2741
 消費類	xc;dx fz;bf lz;yl	2741
 大中型企業	da;hd vs;aa xy;tx qi;rv ye;yl	2741
+阿波羅	aa;ek bo;dp lo;sw	2718
 阿波羅	aa;ek bo;dp lo;sv	2718
 還本付息	hr;zh bf;aa fu;rc xi;xz	2706
 發行人	fa;du xy;xd rf;pd	2702
 壞賬	hy;th vh;bi	2687
+壞賬	hy;ty vh;bi	2687
 中間商	vs;aa jm;mo uh;wk	2667
 國藥	go;kh yk;cl	2666
+國藥	go;kh yk;cy	2666
 價差	jw;rj ia;yg	2651
+賣價	ml;um jw;rj	2647
+賣價	ml;ub jw;rj	2647
 賣價	ml;bs jw;rj	2647
+中文網	vs;ka wf;dd wh;sw	2643
+中文網	vs;ku wf;dd wh;sw	2643
+中文網	vs;uu wf;dd wh;sw	2643
 中文網	vs;aa wf;dd wh;sw	2643
 商品市場	uh;wk pn;kk ui;wj ih;ty	2638
+商品化	uh;dk pn;kk hw;rb	2627
+商品化	uh;lk pn;kk hw;rb	2627
 商品化	uh;wk pn;kk hw;rb	2627
+雙匯	ud;yv hv;kh	2619
 雙匯	ud;vy hv;kh	2619
+優先權	yb;rw xm;ne qr;mv	2589
 優先權	yb;rw xm;en qr;mv	2589
+大人物	da;ad rf;pd wu;nw	2573
 大人物	da;hd rf;pd wu;nw	2573
 總需求	zs;sc xu;ye qq;ad	2572
+總需求	zs;sc xu;ye qq;hd	2572
+總需求	zs;sx xu;ye qq;ad	2572
+總需求	zs;sx xu;ye qq;hd	2572
 下陷	xw;ab xm;ej	2570
 戴爾	dl;gg er;ay	2551
 代銷	dl;ry xc;jx	2543
 摘牌	vl;fd pl;pb	2536
+摘牌	vl;fg pl;pb	2536
 跌至	dx;zu vi;tv	2531
+跌至	dx;zu vi;vt	2531
 賭球	du;bv qq;wq	2523
 資產負債表	zi;bc ij;wu fu;db vl;rz bc;fy	2516
+利差	li;hd ia;yg	2494
 利差	li;dh ia;yg	2494
+灰色收入	hv;hu se;db ub;jw ru;pd	2473
 灰色收入	hv;hu se;db ub;wj ru;pd	2473
+灰色收入	hv;uh se;db ub;jw ru;pd	2473
+灰色收入	hv;uh se;db ub;wj ru;pd	2473
 匯票	hv;kh pc;xu	2464
 金庫	jn;ra ku;gi	2457
+金庫	jn;ph ku;gi	2457
+金庫	jn;pa ku;gi	2457
+金庫	jn;rh ku;gi	2457
 金卡	jn;ra ka;ub	2453
 淨賺	jy;dv vr;bj	2435
 月報	yt;pa bk;ex	2432
@@ -1066,6 +1986,9 @@ use_preset_vocabulary: false
 風險投資	fg;ji xm;eq tb;fu zi;bc	2402
 跌勢	dx;zu ui;lv	2398
 投機者	tb;fu ji;mj ve;ol	2398
+投機者	tb;fu ji;mj ve;lr	2398
+投機者	tb;fu ji;mj ve;rl	2398
+投機者	tb;fu ji;mj ve;lo	2398
 公平交易	gs;sb py;aa jc;wf yi;ow	2390
 承兌	ig;ad dv;bx	2384
 動產	ds;lv ij;wu	2378
@@ -1073,226 +1996,423 @@ use_preset_vocabulary: false
 到賬	dk;dv vh;bi	2373
 當期	dh;tk qi;oq	2351
 閒錢	xm;mo qm;jj	2346
+閒錢	xm;my qm;jj	2346
 每日經濟新聞	mz;rm ri;aa jy;sg ji;dq xn;jq wf;em	2345
 清倉	qy;dq ch;rk	2323
+聯華	lm;eu hw;ca	2318
+聯華	lm;eu hw;ch	2318
 聯華	lm;ea hw;ca	2318
+聯華	lm;ea hw;ch	2318
+紀念幣	ji;sj nm;xj bi;jw	2315
 紀念幣	ji;sj nm;xj bi;jb	2315
+報稅	bk;xy uv;hd	2305
+報稅	bk;ty uv;hd	2305
 報稅	bk;ex uv;hd	2305
+股票市場	gu;yu pc;xu ui;dj ih;ty	2293
+股票市場	gu;yu pc;xu ui;wj ih;ty	2293
+股票市場	gu;ou pc;xu ui;dj ih;ty	2293
 股票市場	gu;ou pc;xu ui;wj ih;ty	2293
 創投	id;dc tb;fu	2287
+滾雪球	gp;dy xt;yx qq;wq	2277
 滾雪球	gp;dg xt;yx qq;wq	2277
+按日	an;fa ri;uh	2277
+按日	an;fa ri;or	2277
 按日	an;fa ri;aa	2277
+按日	an;fa ri;ri	2277
 壓價	ya;ty jw;rj	2261
+外高橋	wl;xb gk;dk qc;mq	2257
 外高橋	wl;xb gk;wk qc;mq	2257
 牌價	pl;pb jw;rj	2244
+熊市	xs;hn ui;dj	2243
 熊市	xs;hn ui;wj	2243
+熊市	xs;dn ui;dj	2243
+熊市	xs;dn ui;wj	2243
 長陽	vh;ad yh;ey	2243
+長陽	vh;hd yh;ey	2243
 假鈔	jw;rj ik;ju	2240
+假鈔	jw;ry ik;ju	2240
 領票	ly;yl pc;xu	2238
+匯出	hv;kh iu;ck	2230
 匯出	hv;kh iu;uu	2230
 另行通知	ly;kl xy;xd ts;zy vi;uk	2227
 張裕	vh;gi yu;yg	2216
+蓄勢	xu;cx ui;lv	2181
 蓄勢	xu;ci ui;lv	2181
 繳款	jc;sj kr;qu	2178
+繳款	jc;sw kr;qu	2178
+亞信	ya;hh xn;ry	2172
 亞信	ya;aa xn;ry	2172
 國信	go;kh xn;ry	2164
+空頭	ks;bg tb;yd	2160
 空頭	ks;bg tb;dy	2160
+空頭	ks;xg tb;yd	2160
+空頭	ks;xg tb;dy	2160
 投資性	tb;fu zi;bc xy;xu	2135
 營業執照	yy;hl ye;yl vi;wx vk;hv	2131
+核戰爭	he;mh vj;gd vg;vu	2130
 核戰爭	he;mh vj;gd vg;va	2130
+四季度	si;uh ji;hz du;gy	2125
 四季度	si;ke ji;hz du;gy	2125
+四季度	si;aa ji;hz du;gy	2125
+匯市	hv;kh ui;dj	2107
 匯市	hv;kh ui;wj	2107
 合資企業	he;rk zi;bc qi;rv ye;yl	2102
+合資企業	he;rk zi;bc qi;rv ye;yw	2102
+催收	cv;rc ub;jw	2095
 催收	cv;rc ub;wj	2095
 廣廈	gd;gh ua;gx	2081
+費率	fz;bf lv;du	2074
 費率	fz;bf lv;wu	2074
 貸款人	dl;bd kr;qu rf;pd	2059
+普漲	pu;rb vh;dv	2051
+普漲	pu;br vh;dv	2051
 普漲	pu;ob vh;dv	2051
+普漲	pu;bo vh;dv	2051
 金融城	jn;ra rs;ig ig;ti	2048
+金融城	jn;ph rs;ig ig;ti	2048
+金融城	jn;pa rs;ig ig;ti	2048
+金融城	jn;rh rs;ig ig;ti	2048
+科學城	ke;hd xt;zb ig;ti	2047
 科學城	ke;hd xt;jz ig;ti	2047
+儲蓄卡	iu;rv xu;cx ka;bx	2041
+儲蓄卡	iu;rv xu;cx ka;ub	2041
+儲蓄卡	iu;rv xu;ci ka;bx	2041
 儲蓄卡	iu;rv xu;ci ka;ub	2041
+股息	gu;yu xi;xz	2040
+股息	gu;yu xi;zx	2040
 股息	gu;ou xi;xz	2040
+股息	gu;ou xi;zx	2040
+收市	ub;jw ui;dj	2037
+收市	ub;jw ui;wj	2037
+收市	ub;wj ui;dj	2037
 收市	ub;wj ui;wj	2037
 戰略家	vj;gd lt;tg jw;bu	2037
+負債率	fu;db vl;rz lv;du	2030
 負債率	fu;db vl;rz lv;wu	2030
 匯兌	hv;kh dv;bx	2001
+匯兌	hv;kh dv;ek	2001
+幣值	bi;jw vi;rv	1979
 幣值	bi;jb vi;rv	1979
 賬簿	vh;bi bu;vc	1964
+賬簿	vh;bi bu;vf	1964
 套牢	tk;di lk;bn	1953
 康佳	kh;gl jw;rg	1922
 盲目性	mh;ow mu;aa xy;xu	1914
 中華網	vs;aa hw;ca wh;sw	1905
+出租人	iu;ck zu;hq rf;pd	1892
 出租人	iu;uu zu;hq rf;pd	1892
 點數	dm;hv uu;wl	1887
+債市	vl;rz ui;dj	1886
 債市	vl;rz ui;wj	1886
 停板	ty;rt bj;mf	1873
 交易區	jc;wf yi;ow qu;kp	1871
 克拉	ke;ux la;fl	1860
+克拉	ke;eg la;fl	1860
 黑金	hz;ha jn;ra	1854
+買通	ml;sb ts;zy	1840
 買通	ml;bs ts;zy	1840
 承銷	ig;ad xc;jx	1839
+承銷	ig;vd xc;jx	1839
+承銷	ig;zd xc;jx	1839
 華安	hw;ca an;bn	1831
+華安	hw;ch an;bn	1831
 操作員	ck;fz zo;rv yr;kb	1825
 典當行	dm;ba dh;tk xy;xd	1816
+早盤	zk;ru pj;mb	1815
 早盤	zk;ou pj;mb	1815
 炎黃	yj;hh hd;cb	1815
+網商	wh;sw uh;dk	1808
+網商	wh;sw uh;lk	1808
 網商	wh;sw uh;wk	1808
+持卡人	ii;fs ka;bx rf;pd	1805
 持卡人	ii;fs ka;ub rf;pd	1805
 寶潔	bk;bb jx;dj	1790
+寶潔	bk;bb jx;ds	1790
 信託公司	xn;ry to;yq gs;sb si;gk	1788
+取現	qu;ye xm;wj	1780
 取現	qu;ey xm;wj	1780
 放高利貸	fh;wf gk;wk li;dh dl;bd	1776
+凌雲	ly;dw yp;yy	1736
 凌雲	ly;dl yp;yy	1736
 純金	ip;st jn;ra	1733
+純金	ip;st jn;ph	1733
+純金	ip;st jn;pa	1733
+純金	ip;st jn;rh	1733
+祁連山	qi;ue lm;zi uj;uu	1727
+祁連山	qi;ue lm;zi uj;aa	1727
+祁連山	qi;eu lm;zi uj;uu	1727
 祁連山	qi;eu lm;zi uj;aa	1727
 公債	gs;sb vl;rz	1727
+公債	gs;bs vl;rz	1727
 變現	bm;ws xm;wj	1714
+變現	bm;yw xm;wj	1714
 付息	fu;rc xi;xz	1710
+付息	fu;rc xi;zx	1710
 度量	du;gy ld;ol	1709
+度量	du;gy ld;rl	1709
 外匯管理	wl;xb hv;kh gr;vg li;wl	1707
 分銷商	ff;db xc;jx uh;wk	1705
 遺產稅	yi;zg ij;wu uv;hd	1699
+監事長	jm;mv ui;hu vh;ad	1687
+監事長	jm;mv ui;hu vh;hd	1687
 監事長	jm;mv ui;aa vh;ad	1687
+監事長	jm;mv ui;aa vh;hd	1687
 融資額	rs;ig zi;bc ee;yk	1680
 兼營	jm;bd yy;hl	1679
 金融市場	jn;ra rs;ig ui;wj ih;ty	1678
+最高價	zv;oq gk;dk jw;rj	1673
 最高價	zv;oq gk;wk jw;rj	1673
+最高價	zv;rq gk;dk jw;rj	1673
+最高價	zv;rq gk;wk jw;rj	1673
 貼現	tx;bv xm;wj	1672
 美國銀行	mz;dy go;kh yn;jg hh;xd	1668
 上海財經大學	uh;aa hl;dm cl;bc jy;sg da;hd xt;jz	1649
 鞍鋼	an;ga gh;jg	1645
 撤資	ie;fw zi;bc	1632
 接盤	jx;fq pj;mb	1629
+救世主	jq;wq ui;cv vu;dw	1626
 救世主	jq;wq ui;ca vu;dw	1626
+救世主	jq;wq ui;hv vu;dw	1626
+救世主	jq;wq ui;aa vu;dw	1626
+開卡	kl;mk ka;bx	1613
 開卡	kl;mk ka;ub	1613
 後撤	hb;xw ie;fw	1605
+後撤	hb;rw ie;fw	1605
 阿膠	ee;ek jc;ol	1602
+阿膠	ee;ek jc;yl	1602
+阿膠	ee;ek jc;op	1602
+阿膠	ee;ek jc;yp	1602
 金融股	jn;ra rs;ig gu;ou	1598
 結匯	jx;sj hv;kh	1583
 無息貸款	wu;ha xi;xz dl;bd kr;qu	1582
+營銷部	yy;lb xc;jx bu;ek	1579
+營銷部	yy;lb xc;jx bu;ep	1579
 營銷部	yy;hl xc;jx bu;ek	1579
+營銷部	yy;hl xc;jx bu;ep	1579
 稅基	uv;hd ji;tq	1579
+稅基	uv;hd ji;qt	1579
 對沖	dv;ct is;dv	1566
+對沖	dv;cw is;dv	1566
 海龍	hl;dm ls;dg	1565
+海龍	hl;dm ls;lg	1565
 安信	an;bn xn;ry	1564
 螢火蟲	yy;hi ho;dd is;ii	1548
+螢火蟲	yy;ib ho;dd is;ii	1548
+通聯	ts;zy lm;eu	1530
 通聯	ts;zy lm;ea	1530
+步步高	bu;vx bu;vx gk;dk	1526
 步步高	bu;vx bu;vx gk;wk	1526
+規劃委	gv;jf hw;dh wz;hn	1524
 規劃委	gv;fj hw;dh wz;hn	1524
 中籤	vs;aa qm;vg	1507
+收盤價	ub;jw pj;mb jw;rj	1500
 收盤價	ub;wj pj;mb jw;rj	1500
+國際大廈	go;kh ji;ej da;ad ua;gx	1499
 國際大廈	go;kh ji;ej da;hd ua;gx	1499
+機制性	ji;mj vi;dv xy;xu	1493
 機制性	ji;mj vi;dg xy;xu	1493
 擠兌	ji;fq dv;bx	1490
+擠兌	ji;fq dv;ek	1490
 比特	bi;bb te;ns	1475
 開盤價	kl;mk pj;mb jw;rj	1471
+六合彩	lq;db he;rk cl;pc	1448
+六合彩	lq;dd he;rk cl;pc	1448
 六合彩	lq;wb he;rk cl;pc	1448
+存款人	cp;uz kr;qu rf;pd	1446
 存款人	cp;za kr;qu rf;pd	1446
+存款人	cp;zu kr;qu rf;pd	1446
 平倉	py;aa ch;rk	1439
+平倉	py;hu ch;rk	1439
+平倉	py;gb ch;rk	1439
 全聚德	qr;rw ju;qd de;xx	1434
+公募	gs;sb mu;cl	1429
 公募	gs;sb mu;lm	1429
+公募	gs;bs mu;cl	1429
+公募	gs;bs mu;lm	1429
 全面發力	qr;rw mm;aa fa;du li;gp	1429
 韻達	yp;yy da;zy	1422
 鼎立	dy;oa li;da	1419
 銀監局	yn;jg jm;mv ju;uk	1408
 中國聯通	vs;aa go;kh lm;ea ts;zy	1404
 樂視網	le;bm ui;ju wh;sw	1402
+樂視網	le;bm ui;uj wh;sw	1402
+樂視網	le;my ui;ju wh;sw	1402
+樂視網	le;my ui;uj wh;sw	1402
 中國經營報	vs;aa go;kh jy;sg yy;hl bk;ex	1398
+滿堂紅	mj;dr th;dt hs;sg	1394
 滿堂紅	mj;dr th;tk hs;sg	1394
+滿堂紅	mj;dr th;xt hs;sg	1394
 國投	go;kh tb;fu	1392
 選擇權	xr;zg ze;fx qr;mv	1389
 金馬	jn;ra ma;ad	1387
+出資額	iu;ck zi;bc ee;yk	1375
 出資額	iu;uu zi;bc ee;yk	1375
 承銷商	ig;ad xc;jx uh;wk	1365
+新卡	xn;jq ka;bx	1353
 新卡	xn;jq ka;ub	1353
 熱錢	re;hv qm;jj	1349
+熱錢	re;dv qm;jj	1349
 經濟基本面	jy;sg ji;dq ji;tq bf;aa mm;aa	1343
 通貨緊縮	ts;zy ho;bh jn;sy so;ss	1341
+特別關注	te;ns bx;dl gr;mu vu;dv	1339
+特別關注	te;ns bx;dl gr;ma vu;dv	1339
+特別關注	te;ns bx;dd gr;mu vu;dv	1339
 特別關注	te;ns bx;dd gr;ma vu;dv	1339
+幣種	bi;jw vs;hv	1329
 幣種	bi;jb vs;hv	1329
+銀元	yn;jg yr;hw	1328
 銀元	yn;jg yr;ee	1328
+銀元	yn;jg yr;aw	1328
 通貨	ts;zy ho;bh	1326
 殺跌	ua;uu dx;zu	1320
 股份有限公司	gu;ou ff;rf yb;ou xm;eg gs;sb si;gk	1314
 自由競爭	zi;pa yb;aa jy;jj vg;va	1312
+新大陸	xn;jq da;ad lu;et	1306
 新大陸	xn;jq da;hd lu;et	1306
+資產負債率	zi;bc ij;wu fu;db vl;rz lv;du	1301
 資產負債率	zi;bc ij;wu fu;db vl;rz lv;wu	1301
 暫行辦法	zj;ov xy;xd bj;lx fa;dq	1296
 分理處	ff;db li;wl iu;hi	1292
+分理處	ff;bd li;wl iu;hi	1292
 漲跌幅	vh;dv dx;zu fu;jf	1289
+漲跌幅	vh;dv dx;zu fu;jt	1289
 截止日	jx;gv vi;aa ri;aa	1287
 所有權證	so;jh yb;ou qr;mv vg;yd	1287
+收進	ub;jw jn;zv	1280
 收進	ub;wj jn;zv	1280
 債權國	vl;rz qr;mv go;kh	1266
 華新	hw;ca xn;jq	1247
+華新	hw;ch xn;jq	1247
 天龍	tm;ad ls;dg	1238
+天龍	tm;ad ls;lg	1238
+天龍	tm;hd ls;dg	1238
+天龍	tm;hd ls;lg	1238
 百事可樂	bl;ab ui;aa ke;dk le;bm	1238
 農林牧漁	ns;qi ln;mm mu;nw yu;dy	1223
+私募	si;hs mu;cl	1214
 私募	si;hs mu;lm	1214
+華西村	hw;ca xi;hh cp;mc	1210
 華西村	hw;ca xi;aa cp;mc	1210
+華西村	hw;ch xi;hh cp;mc	1210
+華西村	hw;ch xi;aa cp;mc	1210
 商譽	uh;wk yu;jy	1210
 奇虎	qi;dk hu;hj	1209
+銀幣	yn;jg bi;jw	1202
 銀幣	yn;jg bi;jb	1202
 抄底	ik;fu di;gd	1191
 實施細則	ui;bg ui;fy xi;st ze;db	1188
+經濟學界	jy;sj ji;dq xt;zb jx;tj	1181
+經濟學界	jy;sj ji;dq xt;jz jx;tj	1181
+經濟學界	jy;sg ji;dq xt;zb jx;tj	1181
 經濟學界	jy;sg ji;dq xt;jz jx;tj	1181
 減倉	jm;dx ch;rk	1175
 信用證	xn;ry ys;kf vg;yd	1162
+購回	gb;br hv;kk	1157
 購回	gb;bg hv;kk	1157
+賣主	ml;um vu;dw	1155
+賣主	ml;ub vu;dw	1155
 賣主	ml;bs vu;dw	1155
+管理辦法	gr;vg li;wl bj;xx fa;dq	1151
 管理辦法	gr;vg li;wl bj;lx fa;dq	1151
+萬事達	wj;cy ui;hu da;zy	1150
 萬事達	wj;cy ui;aa da;zy	1150
 交易商	jc;wf yi;ow uh;wk	1140
+行話	hh;xi hw;yu	1139
+行話	hh;rd hw;yu	1139
 行話	hh;xd hw;yu	1139
+行話	hh;ri hw;yu	1139
 隨行就市	sv;es hh;xd jq;yj ui;wj	1135
 領跌	ly;yl dx;zu	1125
 國華	go;kh hw;ca	1119
+國華	go;kh hw;ch	1119
 投資家	tb;fu zi;bc jw;bu	1115
 包鋼	bk;gs gh;jg	1113
+包鋼	bk;bs gh;jg	1113
 信貸資產	xn;ry dl;bd zi;bc ij;wu	1105
 匯源	hv;kh yr;dy	1102
 中長線	vs;aa ih;ad xm;sq	1094
 包銷	bk;gs xc;jx	1094
+包銷	bk;bs xc;jx	1094
 方興	fh;wd xy;ba	1093
 公司制	gs;sb si;gk vi;dg	1071
+水仙	uv;ud xm;ru	1069
+水仙	uv;uv xm;ru	1069
 水仙	uv;ad xm;ru	1069
 長嶺	vh;ad ly;ul	1067
+長嶺	vh;hd ly;ul	1067
 嘉實	jw;uj ui;bg	1067
+證券法	vg;yd qr;jd fa;dq	1062
 證券法	vg;yd qr;df fa;dq	1062
+新城市	xn;jq ig;ti ui;dj	1060
 新城市	xn;jq ig;ti ui;wj	1060
+五環	wu;hh hr;wh	1058
+五環	wu;hh hr;wy	1058
 五環	wu;aa hr;wh	1058
+五環	wu;aa hr;wy	1058
 尾盤	wz;um pj;mb	1058
+三農	sj;hh ns;qi	1057
 三農	sj;aa ns;qi	1057
 佈告	bu;rb gk;kn	1052
+佈告	bu;rb gk;nk	1052
+中農	vs;ka ns;qi	1047
+中農	vs;ku ns;qi	1047
+中農	vs;uu ns;qi	1047
 中農	vs;aa ns;qi	1047
 組選	zu;sq xr;zg	1041
 城投	ig;ti tb;fu	1031
 跨年度	kw;zk nm;ra du;gy	1027
+跨年度	kw;zk nm;ru du;gy	1027
+跨年度	kw;zk nm;pa du;gy	1027
+跨年度	kw;zk nm;pu du;gy	1027
+五道口	wu;hh dk;zu kb;uh	1024
+五道口	wu;hh dk;zu kb;aa	1024
+五道口	wu;aa dk;zu kb;uh	1024
 五道口	wu;aa dk;zu kb;aa	1024
 文峯	wf;dd fg;uf	1023
 翻兩番	fj;yf ld;ar fj;tb	1022
 信貸員	xn;ry dl;bd yr;kb	1019
 還本	hr;zh bf;aa	1015
 均線	jp;ty xm;sq	1015
+保護價	bk;rd hu;yy jw;rj	1013
 保護價	bk;rd hu;yh jw;rj	1013
+中國國航	vs;ka go;kh go;kh hh;vk	1010
+中國國航	vs;ku go;kh go;kh hh;vk	1010
+中國國航	vs;uu go;kh go;kh hh;vk	1010
 中國國航	vs;aa go;kh go;kh hh;vk	1010
 大東海	da;hd ds;ad hl;dm	1009
+大盤股	da;ad pj;mb gu;yu	1007
+大盤股	da;ad pj;mb gu;ou	1007
+大盤股	da;hd pj;mb gu;yu	1007
 大盤股	da;hd pj;mb gu;ou	1007
 商社	uh;wk ue;ut	1002
 北大荒	bz;ap da;hd hd;ci	1001
 信達	xn;ry da;zy	993
 總賬	zs;sc vh;bi	986
+總賬	zs;sx vh;bi	986
+杜邦	du;mt bh;fe	982
 杜邦	du;mt bh;ef	982
 重倉	vs;pa ch;rk	979
+重倉	vs;ph ch;rk	979
+重倉	vs;ql ch;rk	979
 丹江	dj;pd jd;dg	978
 普通股	pu;ob ts;zy gu;ou	971
+香梨	xd;hr li;ml	968
 香梨	xd;ho li;ml	968
 聚酯	ju;qd vi;yv	966
+聚酯	ju;ed vi;yv	966
+聚酯	ju;yq vi;yv	966
+聚酯	ju;ey vi;yv	966
 分散化	ff;db sj;wo hw;rb	966
+分散化	ff;db sj;wy hw;rb	966
+分散化	ff;bd sj;wo hw;rb	966
+分散化	ff;bd sj;wy hw;rb	966
 匯通	hv;kh ts;zy	961
+老鳳祥	lk;lb fg;jn xd;uy	958
 老鳳祥	lk;bl fg;jn xd;uy	958
 資產評估	zi;bc ij;wu py;yp gu;rg	954
+磁卡	ci;uz ka;bx	950
 磁卡	ci;uz ka;ub	950
+個股	ge;rg gu;yu	947
 個股	ge;rg gu;ou	947
 百大	bl;ab da;hd	941
 投資界	tb;fu zi;bc jx;tj	938
@@ -1302,174 +2422,338 @@ use_preset_vocabulary: false
 氣勢如虹	qi;qm ui;lv ru;nk hs;ig	926
 中石油	vs;aa ui;kp yb;dy	925
 扣款	kb;fk kr;qu	921
+上證綜指	uh;bh vg;yd zs;sz vi;fv	918
+上證綜指	uh;uh vg;yd zs;sz vi;fv	918
+上證綜指	uh;ba vg;yd zs;sz vi;fv	918
 上證綜指	uh;aa vg;yd zs;sz vi;fv	918
 仁和	rf;re he;hk	913
+原始積累	yr;ix ui;nt ji;hz lz;ts	911
 原始積累	yr;ix ui;nt ji;hz lz;st	911
+摩根大通	mo;mu gf;mg da;ad ts;zy	911
 摩根大通	mo;mu gf;mg da;hd ts;zy	911
+摩根大通	mo;um gf;mg da;ad ts;zy	911
+摩根大通	mo;um gf;mg da;hd ts;zy	911
 驗鈔機	yj;mq ik;ju ji;mj	911
+銀行界	yn;jg hh;xi jx;tj	906
+銀行界	yn;jg hh;rd jx;tj	906
 銀行界	yn;jg hh;xd jx;tj	906
+銀行界	yn;jg hh;ri jx;tj	906
 金融資產	jn;ra rs;ig zi;bc ij;wu	904
+金融資產	jn;ph rs;ig zi;bc ij;wu	904
+金融資產	jn;pa rs;ig zi;bc ij;wu	904
+金融資產	jn;rh rs;ig zi;bc ij;wu	904
 審計師	uf;bf ji;yu ui;bv	903
+審計師	uf;bf ji;yu ui;vb	903
 廣深鐵路	gd;gh uf;dm tx;jg lu;zg	902
 追漲	vv;zv vh;dv	897
+儲蓄率	iu;rv xu;cx lv;du	889
+儲蓄率	iu;rv xu;cx lv;wu	889
+儲蓄率	iu;rv xu;ci lv;du	889
 儲蓄率	iu;rv xu;ci lv;wu	889
 波幅	bo;dp fu;jf	889
+波幅	bo;dp fu;jt	889
 流標	lq;di bc;mp	886
 黑豹	hz;ha bk;vu	876
 日經指數	ri;aa jy;sg vi;fv uu;wl	873
+加倉	jw;lk ch;rk	869
 加倉	jw;kl ch;rk	869
+寄放	ji;bq fh;fw	865
 寄放	ji;bq fh;wf	865
+中化	vs;ka hw;rb	865
+中化	vs;ku hw;rb	865
+中化	vs;uu hw;rb	865
 中化	vs;aa hw;rb	865
+南網	nj;uy wh;sw	864
+南網	nj;uu wh;sw	864
 南網	nj;ua wh;sw	864
 寬限期	kr;bd xm;eg qi;oq	863
 貴賓廳	gv;bg bn;bb ty;gt	858
+貴賓廳	gv;bg bn;bb ty;gx	858
 估值	gu;rg vi;rv	852
+合股	he;rk gu;yu	846
 合股	he;rk gu;ou	846
 商業週刊	uh;wk ye;yl vb;zv kj;dg	843
+售樓部	ub;vk lb;ml bu;ek	840
+售樓部	ub;vk lb;ml bu;ep	840
 售樓部	ub;kv lb;ml bu;ek	840
+售樓部	ub;kv lb;ml bu;ep	840
 金鼎	jn;ra dy;oa	837
 龍虎榜	ls;dg hu;hj bh;mp	835
+龍虎榜	ls;lg hu;hj bh;mp	835
 評估師	py;yp gu;rg ui;bv	831
+評估師	py;yp gu;rg ui;vb	831
 浦發銀行	pu;df fa;du yn;jg hh;xd	831
 投資型	tb;fu zi;bc xy;tx	830
 詭計	gv;yw ji;yu	830
 天保	tm;ad bk;rd	827
+天保	tm;hd bk;rd	827
 萬華	wj;cy hw;ca	827
+萬華	wj;cy hw;ch	827
 蘇泊爾	su;ch po;db er;ay	817
 超跌	ik;zv dx;zu	814
 銀質	yn;jg vi;bj	811
 勢態	ui;lv tl;xn	807
+當鋪	dh;dt pu;jf	805
 當鋪	dh;tk pu;jf	805
+當鋪	dh;xt pu;jf	805
 淨額	jy;dv ee;yk	805
 安永	an;bn ys;dd	802
 天弘	tm;ad hs;gs	800
+天弘	tm;hd hs;gs	800
 中國證券報	vs;aa go;kh vg;yd qr;df bk;ex	798
+古錢幣	gu;uk qm;jj bi;jw	798
 古錢幣	gu;uk qm;jj bi;jb	798
+配股	pz;yj gu;yu	794
 配股	pz;yj gu;ou	794
+愛立信	ai;xw li;da xn;ry	793
+愛立信	ai;xw li;dh xn;ry	793
 愛立信	ai;vw li;da xn;ry	793
+愛立信	ai;vw li;dh xn;ry	793
+急升	ji;xx ug;pc	793
 急升	ji;xi ug;pc	793
 金泰	jn;ra tl;uf	787
 狂跌	kd;qw dx;zu	786
+滯脹	vi;dd vh;yi	784
 滯脹	vi;dd vh;oi	784
 搶單	qd;fc dj;kd	781
+複利	fu;yf li;hd	781
 複利	fu;yf li;dh	781
 權證	qr;mv vg;yd	780
 信用度	xn;ry ys;kf du;gy	780
 白金卡	bl;pa jn;ra ka;ub	779
 重估	vs;pa gu;rg	774
+重估	vs;ph gu;rg	774
+重估	vs;ql gu;rg	774
 流轉稅	lq;di vr;iv uv;hd	774
 長運	vh;ad yp;zj	771
+長運	vh;hd yp;zj	771
 硬通貨	yy;ug ts;zy ho;bh	771
 華信	hw;ca xn;ry	769
+華信	hw;ch xn;ry	769
+吳中	wu;kd vs;ka	763
+吳中	wu;kd vs;ku	763
+吳中	wu;kd vs;uu	763
 吳中	wu;kd vs;aa	763
 華源	hw;ca yr;dy	762
+華源	hw;ch yr;dy	762
 中鐵二局	vs;aa tx;jg er;aa ju;uk	760
 耐克	nl;ce ke;ux	760
+耐克	nl;ce ke;eg	760
+產成品	ij;wu ig;wg pn;kk	758
 產成品	ij;wu ig;gg pn;kk	758
 踏空	ta;zt ks;bg	752
+踏空	ta;zt ks;xg	752
 中集	vs;aa ji;vm	749
+新鴻基	xn;jq hs;nj ji;tq	747
+新鴻基	xn;jq hs;nj ji;qt	747
 新鴻基	xn;jq hs;dn ji;tq	747
+新鴻基	xn;jq hs;dn ji;qt	747
+中科	vs;ka ke;hd	747
+中科	vs;ku ke;hd	747
+中科	vs;uu ke;hd	747
 中科	vs;aa ke;hd	747
+選股	xr;zg gu;yu	741
 選股	xr;zg gu;ou	741
+擔保費	dj;fy bk;rd fz;bf	735
 擔保費	dj;fv bk;rd fz;bf	735
 雅戈爾	ya;vy ge;ad er;ay	729
 羣聚	qp;yj ju;qd	728
+羣聚	qp;yj ju;ed	728
+羣聚	qp;yj ju;yq	728
+羣聚	qp;yj ju;ey	728
 同城	ts;kk ig;ti	725
 開倉	kl;mk ch;rk	722
+出清	iu;ck qy;dq	721
 出清	iu;uu qy;dq	721
+高點	gk;dk dm;hv	717
 高點	gk;wk dm;hv	717
 中信集團	vs;aa xn;ry ji;vm tr;kv	711
 波峯	bo;dp fg;uf	709
 風險係數	fg;ji xm;eq xi;rx uu;wl	709
+交銀	jc;li yn;jg	707
+交銀	jc;df yn;jg	707
+交銀	jc;lw yn;jg	707
 交銀	jc;wf yn;jg	707
+優先股	yb;rw xm;ne gu;yu	690
+優先股	yb;rw xm;ne gu;ou	690
+優先股	yb;rw xm;en gu;yu	690
 優先股	yb;rw xm;en gu;ou	690
 網通	wh;sw ts;zy	688
+創智	id;dc vi;rv	681
 創智	id;dc vi;ov	681
+新機制	xn;jq ji;mj vi;dv	679
 新機制	xn;jq ji;mj vi;dg	679
 基本點	ji;tq bf;aa dm;hv	673
 換匯	hr;fh hv;kh	672
 中標者	vs;aa bc;mp ve;ol	669
+財智	cl;bc vi;rv	669
 財智	cl;bc vi;ov	669
 資助金	zi;bc vu;lq jn;ra	667
+實體經濟	ui;bg ti;gl jy;sj ji;dq	667
+實體經濟	ui;bg ti;gl jy;sg ji;dq	667
+實體經濟	ui;bg ti;gd jy;sj ji;dq	667
 實體經濟	ui;bg ti;gd jy;sg ji;dq	667
 偏轉	pm;rb vr;iv	655
+購匯	gb;br hv;kh	653
 購匯	gb;bg hv;kh	653
+白貓	bl;ph mk;vm	652
+白貓	bl;pr mk;vm	652
 白貓	bl;pa mk;vm	652
+白貓	bl;po mk;vm	652
 鳳凰衛視	fg;jn hd;jh wz;xi ui;ju	646
+鳳凰衛視	fg;jn hd;jh wz;xi ui;uj	646
+鳳凰衛視	fg;jn hd;jh wz;xw ui;ju	646
+鳳凰衛視	fg;jn hd;jh wz;xw ui;uj	646
 遞延	di;zh yj;zv	645
 康達	kh;gl da;zy	643
 證券日報	vg;yd qr;df ri;aa bk;ex	643
 實得	ui;bg de;xc	638
+實得	ui;bg de;rc	638
 上海證券報	uh;aa hl;dm vg;yd qr;df bk;ex	635
+三立	sj;hh li;da	631
+三立	sj;hh li;dh	631
 三立	sj;aa li;da	631
+三立	sj;aa li;dh	631
+老千	lk;lb qm;pa	628
+老千	lk;lb qm;pu	628
 老千	lk;bl qm;pa	628
+老千	lk;bl qm;pu	628
 控股有限公司	ks;fk gu;ou yb;ou xm;eg gs;sb si;gk	626
+本票	bf;hh pc;xu	626
+本票	bf;ma pc;xu	626
 本票	bf;aa pc;xu	626
+本票	bf;mh pc;xu	626
 基民	ji;tq mn;ag	626
 跳空	tc;zv ks;bg	625
+跳空	tc;zv ks;xg	625
 分界點	ff;db jx;tj dm;hv	623
+分界點	ff;bd jx;tj dm;hv	623
 引開	yn;ga kl;mk	623
+引開	yn;gu kl;mk	623
 大牛市	da;hd nq;pa ui;wj	617
+收藏品	ub;jw ch;cg pn;kk	616
+收藏品	ub;jw ch;ci pn;kk	616
 收藏品	ub;wj ch;cg pn;kk	616
+收藏品	ub;wj ch;ci pn;kk	616
 投標者	tb;fu bc;mp ve;ol	610
+投標者	tb;fu bc;mp ve;lr	610
+投標者	tb;fu bc;mp ve;rl	610
+投標者	tb;fu bc;mp ve;lo	610
 民豐	mn;ag fg;ud	604
 持倉	ii;fs ch;rk	601
+四通	si;uh ts;zy	599
 四通	si;ke ts;zy	599
+四通	si;aa ts;zy	599
 昌河	ih;oo he;dk	593
+昌河	ih;rr he;dk	593
 虧損面	kv;hk sp;fy mm;aa	593
+晨星	if;oi xy;ru	591
 晨星	if;oi xy;ou	591
+晨星	if;ri xy;ru	591
+晨星	if;ri xy;ou	591
 基價	ji;tq jw;rj	590
+基價	ji;qt jw;rj	590
+代理制	dl;ry li;wl vi;dv	590
 代理制	dl;ry li;wl vi;dg	590
 電匯	dm;yd hv;kh	590
+電匯	dm;yg hv;kh	590
 中小盤股	vs;aa xc;ad pj;mb gu;ou	589
 資本密集型	zi;bc bf;aa mi;bu ji;vm xy;tx	588
 虹橋機場	hs;ig qc;mq ji;mj ih;ty	588
 中投公司	vs;aa tb;fu gs;sb si;gk	586
+有償轉讓	yb;uo ih;ru vr;iv rh;yx	581
+有償轉讓	yb;yu ih;ru vr;iv rh;yx	581
 有償轉讓	yb;ou ih;ru vr;iv rh;yx	581
+有償轉讓	yb;uy ih;ru vr;iv rh;yx	581
 滿倉	mj;dr ch;rk	580
 回收期	hv;kk ub;wj qi;oq	579
 縮量	so;ss ld;ol	578
+縮量	so;ss ld;rl	578
 評估費	py;yp gu;rg fz;bf	577
 備付金	bz;ry fu;rc jn;ra	576
+備付金	bz;ry fu;rc jn;ph	576
+備付金	bz;ry fu;rc jn;pa	576
+備付金	bz;ry fu;rc jn;rh	576
 混業	hp;dk ye;yl	572
+混業	hp;dk ye;yw	572
 財付通	cl;bc fu;rc ts;zy	570
 銀華	yn;jg hw;ca	566
+銀華	yn;jg hw;ch	566
 三元	sj;aa yr;ee	565
 華光	hw;ca gd;xw	565
 萬家樂	wj;cy jw;bu le;bm	562
+萬家樂	wj;cy jw;bu le;my	562
 優酷網	yb;rw ku;yg wh;sw	555
+外匯管制	wl;xb hv;kh gr;vg vi;dv	551
 外匯管制	wl;xb hv;kh gr;vg vi;dg	551
 外匯資金	wl;xb hv;kh zi;bc jn;ra	551
+外匯資金	wl;xb hv;kh zi;bc jn;ph	551
+外匯資金	wl;xb hv;kh zi;bc jn;pa	551
+外匯資金	wl;xb hv;kh zi;bc jn;rh	551
 空倉	ks;bg ch;rk	550
+空倉	ks;xg ch;rk	550
+貨幣流通	ho;bh bi;jw lq;di ts;zy	549
 貨幣流通	ho;bh bi;jb lq;di ts;zy	549
 紙鈔	vi;su ik;ju	549
 流動資產	lq;di ds;lv zi;bc ij;wu	545
 外管局	wl;xb gr;vg ju;uk	542
 橫盤	hg;mh pj;mb	538
 興發	xy;ba fa;du	537
+止損	vi;uh sp;fy	535
 止損	vi;aa sp;fy	535
 藝龍	yi;cy ls;dg	534
+藝龍	yi;cy ls;lg	534
+九龍山	jq;py ls;dg uj;uu	534
 九龍山	jq;py ls;dg uj;aa	534
+九龍山	jq;py ls;lg uj;uu	534
+九龍山	jq;py ls;lg uj;aa	534
 基期	ji;tq qi;oq	530
+中房	vs;ka fh;hf	528
+中房	vs;ku fh;hf	528
+中房	vs;uu fh;hf	528
 中房	vs;aa fh;hf	528
+瑞士法郎	rv;we ui;hh fa;dq lh;el	525
+瑞士法郎	rv;we ui;ua fa;dq lh;el	525
 瑞士法郎	rv;we ui;aa fa;dq lh;el	525
 晨鳴	if;oi my;kn	524
+晨鳴	if;oi my;nk	524
+晨鳴	if;ri my;kn	524
+晨鳴	if;ri my;nk	524
 建信	jm;zy xn;ry	520
+商網	uh;dk wh;sw	516
+商網	uh;lk wh;sw	516
 商網	uh;wk wh;sw	516
 做空	zo;rg ks;bg	516
+做空	zo;rg ks;xg	516
 長盛	vh;ad ug;mi	515
+長盛	vh;hd ug;mi	515
+鴻基	hs;nj ji;tq	509
+鴻基	hs;nj ji;qt	509
 鴻基	hs;dn ji;tq	509
+鴻基	hs;dn ji;qt	509
 建倉	jm;zy ch;rk	509
 外盤	wl;xb pj;mb	508
 純銀	ip;st yn;jg	507
+持幣	ii;fs bi;jw	503
 持幣	ii;fs bi;jb	503
+山航	uj;uu hh;vk	503
 山航	uj;aa hh;vk	503
+註冊費	vu;yv ce;sh fz;bf	503
+註冊費	vu;yv ce;uh fz;bf	503
 註冊費	vu;yv ce;aa fz;bf	503
 實盤	ui;bg pj;mb	497
+辦稅廳	bj;xx uv;hd ty;gt	497
+辦稅廳	bj;xx uv;hd ty;gx	497
 辦稅廳	bj;lx uv;hd ty;gt	497
+辦稅廳	bj;lx uv;hd ty;gx	497
+體制性	ti;gl vi;dv xy;xu	491
+體制性	ti;gl vi;dg xy;xu	491
+體制性	ti;gd vi;dv xy;xu	491
 體制性	ti;gd vi;dg xy;xu	491
 海納	hl;dm na;sn	487
+大化	da;ad hw;rb	487
 大化	da;hd hw;rb	487
+安聯	an;bn lm;eu	486
 安聯	an;bn lm;ea	486
 黑卡	hz;ha ka;ub	485
 金陵飯店	jn;ra ly;el fj;uf dm;gv	485
@@ -1479,12 +2763,25 @@ use_preset_vocabulary: false
 天士力	tm;ad ui;aa li;gp	480
 拋盤	pk;fl pj;mb	480
 證券時報	vg;yd qr;df ui;os bk;ex	479
+綠景	lv;su jy;rj	479
+綠景	lv;su jy;oj	479
+綠景	lv;sl jy;rj	479
 綠景	lv;sl jy;oj	479
 東阿阿膠	ds;ad ee;ek ee;ek jc;ol	478
+龍卡	ls;dg ka;bx	476
 龍卡	ls;dg ka;ub	476
+龍卡	ls;lg ka;bx	476
+龍卡	ls;lg ka;ub	476
+耀華	yk;gv hw;ca	476
+耀華	yk;gv hw;ch	476
 耀華	yk;gd hw;ca	476
+耀華	yk;gd hw;ch	476
 補倉	bu;yf ch;rk	475
+績優股	ji;sz yb;rw gu;yu	474
 績優股	ji;sz yb;rw gu;ou	474
+股利	gu;yu li;hd	474
+股利	gu;yu li;dh	474
+股利	gu;ou li;hd	474
 股利	gu;ou li;dh	474
 市場報	ui;wj ih;ty bk;ex	470
 提單	ti;fu dj;kd	470
@@ -1493,123 +2790,259 @@ use_preset_vocabulary: false
 創投公司	id;dc tb;fu gs;sb si;gk	465
 匯款人	hv;kh kr;qu rf;pd	464
 繳足	jc;sj zu;kv	464
+繳足	jc;sw zu;kv	464
+售匯	ub;vk hv;kh	461
 售匯	ub;kv hv;kh	461
 分析師	ff;db xi;mj ui;bv	457
+分析師	ff;db xi;mj ui;vb	457
+分析師	ff;bd xi;mj ui;bv	457
+分析師	ff;bd xi;mj ui;vb	457
+控股權	ks;fk gu;yu qr;mv	456
 控股權	ks;fk gu;ou qr;mv	456
 沖銷	is;dv xc;jx	455
 精算師	jy;mq sr;vc ui;bv	454
+精算師	jy;mq sr;vc ui;vb	454
+等價交換	dg;vs jw;rj jc;li hr;fh	453
+等價交換	dg;vs jw;rj jc;df hr;fh	453
+等價交換	dg;vs jw;rj jc;lw hr;fh	453
 等價交換	dg;vs jw;rj jc;wf hr;fh	453
 質押物	vi;bj ya;fj wu;nw	451
 祥龍	xd;uy ls;dg	447
+祥龍	xd;uy ls;lg	447
 賽迪	sl;bb di;zy	446
+華訊	hw;ca xp;yx	444
 華訊	hw;ca xp;yu	444
+華訊	hw;ch xp;yx	444
+華訊	hw;ch xp;yu	444
+市盈率	ui;dj yy;my lv;du	443
+市盈率	ui;dj yy;my lv;wu	443
+市盈率	ui;wj yy;my lv;du	443
 市盈率	ui;wj yy;my lv;wu	443
+里拉	li;uh la;fl	441
+里拉	li;tt la;fl	441
 里拉	li;aa la;fl	441
 領軍者	ly;yl jp;bi ve;ol	438
+領軍者	ly;yl jp;bi ve;lr	438
+領軍者	ly;yl jp;bi ve;rl	438
+領軍者	ly;yl jp;bi ve;lo	438
 寧波港	ny;bd bo;dp gh;dx	436
+交強險	jc;li qd;gi xm;eq	435
+交強險	jc;df qd;gi xm;eq	435
+交強險	jc;lw qd;gi xm;eq	435
 交強險	jc;wf qd;gi xm;eq	435
 邵氏	uk;ev ui;pg	435
+普跌	pu;rb dx;zu	428
+普跌	pu;br dx;zu	428
 普跌	pu;ob dx;zu	428
+普跌	pu;bo dx;zu	428
+國際銀行	go;kh ji;ej yn;jg hh;xi	426
+國際銀行	go;kh ji;ej yn;jg hh;rd	426
 國際銀行	go;kh ji;ej yn;jg hh;xd	426
+國際銀行	go;kh ji;ej yn;jg hh;ri	426
 北京銀行	bz;ap jy;wx yn;jg hh;xd	425
 定投	dy;bp tb;fu	424
 銀行部	yn;jg hh;xd bu;ek	424
+中紡	vs;ka fh;sf	422
+中紡	vs;ku fh;sf	422
+中紡	vs;uu fh;sf	422
 中紡	vs;aa fh;sf	422
 波音公司	bo;dp yn;lo gs;sb si;gk	421
 萊鋼	ll;cl gh;jg	419
+獅頭	ui;qu tb;yd	415
 獅頭	ui;qu tb;dy	415
+出超	iu;ck ik;zv	414
 出超	iu;uu ik;zv	414
+星美	xy;ru mz;yd	413
+星美	xy;ru mz;dy	413
+星美	xy;ou mz;yd	413
 星美	xy;ou mz;dy	413
 華鼎	hw;ca dy;oa	413
 豐華	fg;ud hw;ca	412
+豐華	fg;ud hw;ch	412
+豐華	fg;df hw;ca	412
+豐華	fg;df hw;ch	412
 對賭	dv;ct du;bv	412
+對賭	dv;cw du;bv	412
+易寶	yi;rw bk;bb	411
 易寶	yi;ow bk;bb	411
 日照港	ri;aa vk;hv gh;dx	410
 宏觀經濟學	hs;bh gr;jv jy;sg ji;dq xt;jz	409
+持有人	ii;fs yb;uo rf;pd	406
+持有人	ii;fs yb;yu rf;pd	406
 持有人	ii;fs yb;ou rf;pd	406
+持有人	ii;fs yb;uy rf;pd	406
 扛住	kh;fg vu;rv	405
+尾市	wz;um ui;dj	403
 尾市	wz;um ui;wj	403
 科達	ke;hd da;zy	402
 東盛	ds;ad ug;mi	401
+東盛	ds;hd ug;mi	401
+東盛	ds;mo ug;mi	401
+東盛	ds;mr ug;mi	401
 法律部	fa;dq lv;xy bu;ek	400
+法律部	fa;dq lv;xy bu;ep	400
+法律部	fa;dq lv;ry bu;ek	400
+法律部	fa;dq lv;ry bu;ep	400
+具結	ju;bh jx;sj	400
+具結	ju;bq jx;sj	400
 具結	ju;ba jx;sj	400
+具結	ju;qb jx;sj	400
 東信	ds;ad xn;ry	396
+東信	ds;hd xn;ry	396
+東信	ds;mo xn;ry	396
+東信	ds;mr xn;ry	396
 宏業	hs;bh ye;yl	391
+宏業	hs;bh ye;yw	391
+宏業	hs;bs ye;yl	391
+宏業	hs;bs ye;yw	391
 金銀幣	jn;ra yn;jg bi;jb	390
 單選	dj;kd xr;zg	388
 武昌魚	wu;yv ih;oo yu;dd	387
+二季度	er;hh ji;hz du;gy	386
 二季度	er;aa ji;hz du;gy	386
+集資款	ji;mv zi;bc kr;qu	386
 集資款	ji;vm zi;bc kr;qu	386
 天海	tm;ad hl;dm	384
+天海	tm;hd hl;dm	384
+擔保法	dj;fy bk;rd fa;dq	382
 擔保法	dj;fv bk;rd fa;dq	382
+股改	gu;yu gl;jw	380
+股改	gu;yu gl;wj	380
+股改	gu;ou gl;jw	380
 股改	gu;ou gl;wj	380
+收匯	ub;jw hv;kh	380
 收匯	ub;wj hv;kh	380
+財經網	cl;bc jy;sj wh;sw	380
 財經網	cl;bc jy;sg wh;sw	380
+波谷	bo;dp gu;bk	379
 波谷	bo;dp gu;kr	379
 發行額	fa;du xy;xd ee;yk	378
 英達	yy;cy da;zy	378
 氯鹼	lv;ql jm;lq	377
 汽油機	qi;dq yb;dy ji;mj	376
 擔保金	dj;fv bk;rd jn;ra	374
+小陽	xc;ud yh;ey	370
 小陽	xc;ad yh;ey	370
+泰格	tl;fu ge;mg	370
 泰格	tl;uf ge;mg	370
 安全度	an;bn qr;rw du;gy	366
 雷伊	lz;yt yi;ry	363
 賒銷	ue;bu xc;jx	362
+湖山	hu;dh uj;uu	362
 湖山	hu;dh uj;aa	362
 金融部	jn;ra rs;ig bu;ek	360
+受益人	ub;yb yi;mb rf;pd	359
 受益人	ub;vy yi;mb rf;pd	359
 花雕	hw;ch dc;vv	359
+入市	ru;pd ui;dj	356
 入市	ru;pd ui;wj	356
 健民	jm;rj mn;ag	355
+健民	jm;rj mn;vg	355
+健民	jm;rj mn;kq	355
 交易稅	jc;wf yi;ow uv;hd	354
 金瑞	jn;ra rv;we	354
+金瑞	jn;ph rv;we	354
+金瑞	jn;pa rv;we	354
+金瑞	jn;rh rv;we	354
 開戶費	kl;mk hu;pk fz;bf	352
 國民銀行	go;kh mn;ag yn;jg hh;xd	352
 倉單	ch;rk dj;kd	351
+南化	nj;uy hw;rb	351
+南化	nj;uu hw;rb	351
 南化	nj;ua hw;rb	351
-工作方案	gs;aa zo;rv fh;wd an;bm	348
+工作方案	gs;aa zo;rv fh;wd an;ma	348
 僞鈔	wz;rw ik;ju	347
 外匯資產	wl;xb hv;kh zi;bc ij;wu	345
 華富	hw;ca fu;bf	345
+華富	hw;ca fu;bt	345
+華富	hw;ch fu;bf	345
+華富	hw;ch fu;bt	345
 大元	da;hd yr;ee	345
+淡馬錫	dj;dy ma;hh xi;jy	344
 淡馬錫	dj;dy ma;ad xi;jy	344
+淡馬錫	dj;dy ma;hd xi;jy	344
+淡馬錫	dj;dy ma;ah xi;jy	344
+中證	vs;ka vg;yd	344
+中證	vs;ku vg;yd	344
+中證	vs;uu vg;yd	344
 中證	vs;aa vg;yd	344
+攜程網	xx;fk ig;hi wh;sw	340
 攜程網	xx;fj ig;hi wh;sw	340
+古幣	gu;uk bi;jw	339
 古幣	gu;uk bi;jb	339
+壞賬率	hy;th vh;bi lv;du	338
 壞賬率	hy;th vh;bi lv;wu	338
+壞賬率	hy;ty vh;bi lv;du	338
+壞賬率	hy;ty vh;bi lv;wu	338
+黃頁	hd;cb ye;bh	338
 黃頁	hd;cb ye;ab	338
+黃頁	hd;cb ye;hb	338
+天鴻	tm;ad hs;nj	337
 天鴻	tm;ad hs;dn	337
+天鴻	tm;hd hs;nj	337
+天鴻	tm;hd hs;dn	337
+三力	sj;hh li;gp	336
 三力	sj;aa li;gp	336
 諾安	no;yr an;bn	331
 正常性	vg;av ih;xd xy;xu	326
 港鐵公司	gh;dx tx;jg gs;sb si;gk	326
 抬轎	tl;ft jc;iq	324
 僑匯	qc;rq hv;kh	323
+新高點	xn;jq gk;dk dm;hv	323
 新高點	xn;jq gk;wk dm;hv	323
 商業銀行法	uh;wk ye;yl yn;jg hh;xd fa;dq	322
+熱點話題	re;hv dm;hv hw;yu ti;yu	320
 熱點話題	re;hv dm;hv hw;yu ti;uy	320
+熱點話題	re;dv dm;hv hw;yu ti;yu	320
+熱點話題	re;dv dm;hv hw;yu ti;uy	320
+中國太保	vs;ka go;kh tl;dd bk;rd	320
+中國太保	vs;ku go;kh tl;dd bk;rd	320
+中國太保	vs;uu go;kh tl;dd bk;rd	320
 中國太保	vs;aa go;kh tl;dd bk;rd	320
+租購	zu;hq gb;br	319
 租購	zu;hq gb;bg	319
 黃金儲備	hd;cb jn;ra iu;rv bz;ry	317
+黃金儲備	hd;cb jn;ph iu;rv bz;ry	317
+黃金儲備	hd;cb jn;pa iu;rv bz;ry	317
+黃金儲備	hd;cb jn;rh iu;rv bz;ry	317
 百事	bl;ab ui;aa	316
+大摩	da;ad mo;mu	316
+大摩	da;ad mo;um	316
 大摩	da;hd mo;mu	316
+大摩	da;hd mo;um	316
 記錄員	ji;yj lu;jl yr;kb	316
 紀念鈔	ji;sj nm;xj ik;ju	311
 研究報告	yj;uk jq;bj bk;ex gk;kn	307
+衝高	is;xi gk;dk	305
 衝高	is;xi gk;wk	305
+衝高	is;xv gk;dk	305
+衝高	is;xv gk;wk	305
 國際金融報	go;kh ji;ej jn;ra rs;ig bk;ex	305
 出口業	iu;uu kb;aa ye;yl	304
 卡特爾	ka;ub te;ns er;ay	304
+郵幣卡	yb;ei bi;jw ka;bx	303
+郵幣卡	yb;ei bi;jw ka;ub	303
+郵幣卡	yb;ei bi;jb ka;bx	303
 郵幣卡	yb;ei bi;jb ka;ub	303
 新天	xn;jq tm;ad	303
+新天	xn;jq tm;hd	303
 秋林	qq;hh ln;mm	302
+追收	vv;zv ub;jw	302
 追收	vv;zv ub;wj	302
 地量	di;ty ld;ol	302
+地量	di;ty ld;rl	302
 金果	jn;ra go;ad	302
+亞星	ya;hh xy;ru	302
+亞星	ya;hh xy;ou	302
+亞星	ya;aa xy;ru	302
 亞星	ya;aa xy;ou	302
+至高點	vi;tv gk;dk dm;hv	301
 至高點	vi;tv gk;wk dm;hv	301
+至高點	vi;vt gk;dk dm;hv	301
+至高點	vi;vt gk;wk dm;hv	301
+復權	fu;rf qr;mv	300
 復權	fu;xf qr;mv	300
+國庫券	go;kh ku;gi qr;jd	298
 國庫券	go;kh ku;gi qr;df	298
 金融史	jn;ra rs;ig ui;ki	297
 總成交量	zs;sc ig;gg jc;wf ld;ol	297
@@ -1617,179 +3050,363 @@ use_preset_vocabulary: false
 富國銀行	fu;bf go;kh yn;jg hh;xd	293
 摩根斯坦利	mo;mu gf;mg si;jq tj;td li;dh	290
 發行期	fa;du xy;xd qi;oq	290
+天香	tm;ad xd;hr	289
 天香	tm;ad xd;ho	289
+天香	tm;hd xd;hr	289
+天香	tm;hd xd;ho	289
 廈華	ua;gx hw;ca	288
+廈華	ua;gx hw;ch	288
 煤氣化	mz;hm qi;qm hw;rb	287
 國資局	go;kh zi;bc ju;uk	286
 探路者	tj;fm lu;zg ve;ol	285
 對價	dv;ct jw;rj	284
+對價	dv;cw jw;rj	284
 抗跌	kh;fk dx;zu	283
+卡包	ka;bx bk;gs	282
+卡包	ka;bx bk;bs	282
 卡包	ka;ub bk;gs	282
+卡包	ka;ub bk;bs	282
 金帝	jn;ra di;wj	282
 平均利潤	py;aa jp;ty li;dh rp;dr	281
 中恆	vs;aa hg;xa	281
 自然人	zi;pa rj;hq rf;pd	280
 天方	tm;ad fh;wd	280
+法人股	fa;dq rf;pd gu;yu	279
 法人股	fa;dq rf;pd gu;ou	279
 簿冊	bu;vc ce;aa	275
 點位	dm;hv wz;rl	275
 中國經濟時報	vs;aa go;kh jy;sg ji;dq ui;os bk;ex	273
+看跌	kj;uo dx;zu	272
 看跌	kj;ou dx;zu	272
 國通	go;kh ts;zy	272
+斷點	dr;jv dm;hv	266
+斷點	dr;jy dm;hv	266
 斷點	dr;ja dm;hv	266
+法幣	fa;dq bi;jw	264
 法幣	fa;dq bi;jb	264
 普天	pu;ob tm;ad	263
 達標者	da;zy bc;mp ve;ol	263
+達標者	da;zy bc;mp ve;lr	263
+達標者	da;zy bc;mp ve;rl	263
+達標者	da;zy bc;mp ve;lo	263
+中潤	vs;ka rp;dr	261
+中潤	vs;ku rp;dr	261
+中潤	vs;uu rp;dr	261
 中潤	vs;aa rp;dr	261
 銀泰百貨	yn;jg tl;uf bl;ab ho;bh	261
 投資業	tb;fu zi;bc ye;yl	261
+投資業	tb;fu zi;bc ye;yw	261
 律師事務所	lv;xy ui;bv ui;aa wu;mw so;jh	261
 金交所	jn;ra jc;wf so;jh	261
+大降	da;ad jd;ej	260
+大降	da;ad jd;ef	260
+大降	da;hd jd;ej	260
 大降	da;hd jd;ef	260
+概念股	gl;mj nm;xj gu;yu	259
 概念股	gl;mj nm;xj gu;ou	259
 滙豐銀行	hv;dv fg;ud yn;jg hh;xd	259
+套利	tk;di li;hd	256
 套利	tk;di li;dh	256
 中國企業家	vs;aa go;kh qi;rv ye;yl jw;bu	255
 中聯重科	vs;aa lm;ea vs;pa ke;hd	255
+貨幣戰爭	ho;bh bi;jw vj;gd vg;vu	254
+貨幣戰爭	ho;bh bi;jw vj;gd vg;va	254
+貨幣戰爭	ho;bh bi;jb vj;gd vg;vu	254
 貨幣戰爭	ho;bh bi;jb vj;gd vg;va	254
+物物交換	wu;nw wu;nw jc;li hr;fh	254
+物物交換	wu;nw wu;nw jc;df hr;fh	254
+物物交換	wu;nw wu;nw jc;lw hr;fh	254
 物物交換	wu;nw wu;nw jc;wf hr;fh	254
 中恆集團	vs;aa hg;xa ji;vm tr;kv	254
 東軟集團	ds;ad rr;iq ji;vm tr;kv	253
 削價	xt;dx jw;rj	252
 國富論	go;kh fu;bf lp;yl	249
+國富論	go;kh fu;bt lp;yl	249
+新大洲	xn;jq da;ad vb;dv	249
 新大洲	xn;jq da;hd vb;dv	249
+景順長城	jy;rj up;yi ih;ad ig;ti	247
+景順長城	jy;rj up;yi ih;hd ig;ti	247
 景順長城	jy;oj up;yi ih;ad ig;ti	247
+景順長城	jy;oj up;yi ih;hd ig;ti	247
+申贖	uf;ru uu;bm	246
+申贖	uf;uu uu;bm	246
+申贖	uf;oa uu;bm	246
 申贖	uf;aa uu;bm	246
 申報率	uf;aa bk;ex lv;wu	245
 普卡	pu;ob ka;ub	245
+集資額	ji;mv zi;bc ee;yk	244
 集資額	ji;vm zi;bc ee;yk	244
+管理學家	gr;vg li;wl xt;zb jw;bu	240
 管理學家	gr;vg li;wl xt;jz jw;bu	240
 即期	ji;eg qi;oq	239
 目標公司	mu;aa bc;mp gs;sb si;gk	239
 零存整取	ly;yl cp;za vg;vi qu;ey	239
 中華工商時報	vs;aa hw;ca gs;aa uh;wk ui;os bk;ex	237
 重倉股	vs;pa ch;rk gu;ou	235
+百花村	bl;bh hw;ch cp;mc	233
 百花村	bl;ab hw;ch cp;mc	233
+百花村	bl;hb hw;ch cp;mc	233
+合作協議	he;rk zo;rv xx;ux yi;yy	232
 合作協議	he;rk zo;rv xx;ul yi;yy	232
 金盤	jn;ra pj;mb	230
+金盤	jn;ph pj;mb	230
+金盤	jn;pa pj;mb	230
+金盤	jn;rh pj;mb	230
 金嶺	jn;ra ly;ul	230
+金嶺	jn;ph ly;ul	230
+金嶺	jn;pa ly;ul	230
+金嶺	jn;rh ly;ul	230
+海泰	hl;dm tl;fu	229
 海泰	hl;dm tl;uf	229
 加拿大元	jw;kl na;uh da;hd yr;ee	229
 中小散戶	vs;aa xc;ad sj;wo hu;pk	228
+建設銀行	jm;zy ue;yu yn;jg hh;xi	226
+建設銀行	jm;zy ue;yu yn;jg hh;rd	226
 建設銀行	jm;zy ue;yu yn;jg hh;xd	226
+建設銀行	jm;zy ue;yu yn;jg hh;ri	226
 南京港	nj;ua jy;wx gh;dx	225
+營口港	yy;lb kb;uh gh;dx	225
+營口港	yy;lb kb;aa gh;dx	225
+營口港	yy;hl kb;uh gh;dx	225
 營口港	yy;hl kb;aa gh;dx	225
 融資性	rs;ig zi;bc xy;xu	224
+折舊率	ve;fj jq;cj lv;du	222
 折舊率	ve;fj jq;cj lv;wu	222
+日線	ri;uh xm;sq	221
+日線	ri;or xm;sq	221
 日線	ri;aa xm;sq	221
+日線	ri;ri xm;sq	221
 中青寶	vs;aa qy;of bk;bb	221
 存定期	cp;za dy;bp qi;oq	221
 華南城	hw;ca nj;ua ig;ti	221
 宏盛	hs;bh ug;mi	219
+宏盛	hs;bs ug;mi	219
 雅虎公司	ya;vy hu;hj gs;sb si;gk	218
+聯電	lm;eu dm;yd	217
+聯電	lm;eu dm;yg	217
 聯電	lm;ea dm;yd	217
+聯電	lm;ea dm;yg	217
 貝塔	bz;ad ta;td	217
+展訊	vj;uy xp;yx	216
 展訊	vj;uy xp;yu	216
 封盤	fg;cg pj;mb	215
 承銷團	ig;ad xc;jx tr;kv	215
+承銷團	ig;vd xc;jx tr;kv	215
+承銷團	ig;zd xc;jx tr;kv	215
+保函	bk;rd hj;lk	213
 保函	bk;rd hj;ku	213
 信諾	xn;ry no;yr	213
+託收	to;yq ub;jw	213
 託收	to;yq ub;wj	213
+託收	to;yt ub;jw	213
+託收	to;yt ub;wj	213
 全局觀	qr;rw ju;uk gr;jv	211
 七樂彩	qi;ag le;bm cl;pc	211
+七樂彩	qi;ag le;my cl;pc	211
+七樂彩	qi;hg le;bm cl;pc	211
+七樂彩	qi;hg le;my cl;pc	211
 雲天化	yp;yy tm;ad hw;rb	209
+雲天化	yp;yy tm;hd hw;rb	209
+人頭稅	rf;pd tb;yd uv;hd	209
 人頭稅	rf;pd tb;dy uv;hd	209
+銷卡	xc;jx ka;bx	208
 銷卡	xc;jx ka;ub	208
 微觀經濟學	wz;xw gr;jv jy;sg ji;dq xt;jz	208
+瑞銀集團	rv;we yn;jg ji;mv tr;kv	208
 瑞銀集團	rv;we yn;jg ji;vm tr;kv	208
 正興	vg;av xy;ba	208
+上海機場	uh;bh hl;dm ji;mj ih;ty	207
+上海機場	uh;uh hl;dm ji;mj ih;ty	207
+上海機場	uh;ba hl;dm ji;mj ih;ty	207
 上海機場	uh;aa hl;dm ji;mj ih;ty	207
+垃圾股	la;tl ji;tj gu;yu	207
 垃圾股	la;tl ji;tj gu;ou	207
+伊泰	yi;ry tl;fu	207
 伊泰	yi;ry tl;uf	207
+惠天	hv;hx tm;ad	207
+惠天	hv;hx tm;hd	207
 惠天	hv;xh tm;ad	207
+惠天	hv;xh tm;hd	207
 補充協議	bu;yf is;wy xx;ul yi;yy	206
+君子協定	jp;ky zi;vh xx;ux dy;bp	206
+君子協定	jp;ky zi;vh xx;ul dy;bp	206
+君子協定	jp;ky zi;aa xx;ux dy;bp	206
 君子協定	jp;ky zi;aa xx;ul dy;bp	206
 定稅	dy;bp uv;hd	205
+掉期	dc;fv qi;qy	204
+掉期	dc;fv qi;yq	204
 掉期	dc;fv qi;oq	204
+掉期	dc;fv qi;qo	204
 國瓷	go;kh ci;wc	204
 海富通	hl;dm fu;bf ts;zy	204
+海富通	hl;dm fu;bt ts;zy	204
+小盤股	xc;ud pj;mb gu;yu	201
+小盤股	xc;ud pj;mb gu;ou	201
+小盤股	xc;ad pj;mb gu;yu	201
 小盤股	xc;ad pj;mb gu;ou	201
 大通銀行	da;hd ts;zy yn;jg hh;xd	201
 宜華	yi;bq hw;ca	201
+宜華	yi;bq hw;ch	201
+海普瑞	hl;dm pu;rb rv;we	200
+海普瑞	hl;dm pu;br rv;we	200
 海普瑞	hl;dm pu;ob rv;we	200
+海普瑞	hl;dm pu;bo rv;we	200
 交易廳	jc;wf yi;ow ty;gt	200
 首局	ub;qz ju;uk	199
 國美電器	go;kh mz;dy dm;yd qi;kk	199
+淨收入	jy;dv ub;jw ru;pd	199
 淨收入	jy;dv ub;wj ru;pd	199
+卡種	ka;bx vs;hv	198
 卡種	ka;ub vs;hv	198
 投資量	tb;fu zi;bc ld;ol	197
+投資量	tb;fu zi;bc ld;rl	197
 萬通地產	wj;cy ts;zy di;ty ij;wu	192
 新黃浦	xn;jq hd;cb pu;df	192
 最低值	zv;oq di;rd vi;rv	191
+最低值	zv;rq di;rd vi;rv	191
+唐山港	th;gk uj;uu gh;dx	189
 唐山港	th;gk uj;aa gh;dx	189
+六渡橋	lq;db du;dd qc;mq	189
+六渡橋	lq;dd du;dd qc;mq	189
 六渡橋	lq;wb du;dd qc;mq	189
 雙馬	ud;vy ma;ad	188
 黃金寶	hd;cb jn;ra bk;bb	188
+黃金寶	hd;cb jn;ph bk;bb	188
+黃金寶	hd;cb jn;pa bk;bb	188
+黃金寶	hd;cb jn;rh bk;bb	188
 國發	go;kh fa;du	188
+國發	go;kh fa;zd	188
+國發	go;kh fa;gy	188
+威達	wz;ng da;zy	188
+威達	wz;wn da;zy	188
 威達	wz;gn da;zy	188
+中僑	vs;ka qc;rq	187
+中僑	vs;ku qc;rq	187
+中僑	vs;uu qc;rq	187
 中僑	vs;aa qc;rq	187
+泡沫經濟	pk;db mo;dm jy;sj ji;dq	186
 泡沫經濟	pk;db mo;dm jy;sg ji;dq	186
 小肥羊	xc;ad fz;ob yh;da	185
 南方公司	nj;ua fh;wd gs;sb si;gk	185
+限售股	xm;eg ub;vk gu;yu	184
+限售股	xm;eg ub;vk gu;ou	184
+限售股	xm;eg ub;kv gu;yu	184
 限售股	xm;eg ub;kv gu;ou	184
+同慶	ts;kk qy;lw	183
 同慶	ts;kk qy;gw	183
+羅萊家紡	lo;sw ll;cl jw;bu fh;sf	181
 羅萊家紡	lo;sv ll;cl jw;bu fh;sf	181
 匯劃	hv;kh hw;dh	178
 超標者	ik;zv bc;mp ve;ol	177
+超標者	ik;zv bc;mp ve;lr	177
+超標者	ik;zv bc;mp ve;rl	177
+超標者	ik;zv bc;mp ve;lo	177
+賭馬	du;bv ma;hh	174
 賭馬	du;bv ma;ad	174
+賭馬	du;bv ma;hd	174
+賭馬	du;bv ma;ah	174
 瑞龍	rv;we ls;dg	174
+瑞龍	rv;we ls;lg	174
+協調部	xx;ux tc;yv bu;ek	174
+協調部	xx;ux tc;yv bu;ep	174
 協調部	xx;ul tc;yv bu;ek	174
+協調部	xx;ul tc;yv bu;ep	174
+跨國銀行	kw;zk go;kh yn;jg hh;xi	174
+跨國銀行	kw;zk go;kh yn;jg hh;rd	174
 跨國銀行	kw;zk go;kh yn;jg hh;xd	174
+跨國銀行	kw;zk go;kh yn;jg hh;ri	174
+公股	gs;sb gu;yu	174
 公股	gs;sb gu;ou	174
+公股	gs;bs gu;yu	174
+公股	gs;bs gu;ou	174
+張江高科	vh;gi jd;dg gk;dk ke;hd	174
 張江高科	vh;gi jd;dg gk;wk ke;hd	174
 重慶銀行	is;pa qy;gw yn;jg hh;xd	172
+禁止令	jn;ul vi;uh ly;rs	172
 禁止令	jn;ul vi;aa ly;rs	172
 天富	tm;ad fu;bf	172
+天富	tm;ad fu;bt	172
+天富	tm;hd fu;bf	172
+天富	tm;hd fu;bt	172
 產業資本	ij;wu ye;yl zi;bc bf;aa	172
+九州通	jq;py vb;da ts;zy	171
+九州通	jq;py vb;du ts;zy	171
 九州通	jq;py vb;id ts;zy	171
+思達	si;tx da;zy	170
 思達	si;xt da;zy	170
 攬存	lj;fj cp;za	170
+股權轉讓協議	gu;yu qr;mv vr;iv rh;yx xx;ux yi;yy	169
+股權轉讓協議	gu;yu qr;mv vr;iv rh;yx xx;ul yi;yy	169
+股權轉讓協議	gu;ou qr;mv vr;iv rh;yx xx;ux yi;yy	169
 股權轉讓協議	gu;ou qr;mv vr;iv rh;yx xx;ul yi;yy	169
+南控	nj;uy ks;fk	169
+南控	nj;uu ks;fk	169
 南控	nj;ua ks;fk	169
+新鴻基地產	xn;jq hs;nj ji;tq di;ty ij;wu	169
+新鴻基地產	xn;jq hs;nj ji;qt di;ty ij;wu	169
 新鴻基地產	xn;jq hs;dn ji;tq di;ty ij;wu	169
+新鴻基地產	xn;jq hs;dn ji;qt di;ty ij;wu	169
 江鑽	jd;dg zr;jz	168
+麥考林	ml;xl kk;lk ln;mm	168
 麥考林	ml;lx kk;lk ln;mm	168
+固定資本	gu;kg dy;bp zi;bc bf;hh	166
+固定資本	gu;kg dy;bp zi;bc bf;ma	166
 固定資本	gu;kg dy;bp zi;bc bf;aa	166
+固定資本	gu;kg dy;bp zi;bc bf;mh	166
 賣空	ml;bs ks;bg	165
 補進	bu;yf jn;zv	165
 巴克萊銀行	ba;ag ke;ux ll;cl yn;jg hh;xd	165
 三普	sj;aa pu;ob	165
+雙幣	ud;yv bi;jw	164
+雙幣	ud;yv bi;jb	164
+雙幣	ud;vy bi;jw	164
 雙幣	ud;vy bi;jb	164
 光明乳業	gd;xw my;oo ru;gf ye;yl	162
 經手費	jy;sg ub;pa fz;bf	162
 投資品	tb;fu zi;bc pn;kk	161
 建通	jm;zy ts;zy	161
 浦銀安盛	pu;df yn;jg an;bn ug;mi	161
+古越龍山	gu;uk yt;zy ls;dg uj;uu	161
 古越龍山	gu;uk yt;zy ls;dg uj;aa	161
+古越龍山	gu;uk yt;zy ls;lg uj;uu	161
+古越龍山	gu;uk yt;zy ls;lg uj;aa	161
 中國建設銀行	vs;aa go;kh jm;zy ue;yu yn;jg hh;xd	161
+築底	vu;mv di;gd	161
 築底	vu;vm di;gd	161
+理財週報	li;wl cl;bc vb;zv bk;xy	161
+理財週報	li;wl cl;bc vb;zv bk;ty	161
 理財週報	li;wl cl;bc vb;zv bk;ex	161
+煤炭股	mz;hm tj;uh gu;yu	160
 煤炭股	mz;hm tj;uh gu;ou	160
+證券市場週刊	vg;yd qr;jd ui;dj ih;ty vb;zv kj;dg	159
+證券市場週刊	vg;yd qr;jd ui;wj ih;ty vb;zv kj;dg	159
+證券市場週刊	vg;yd qr;df ui;dj ih;ty vb;zv kj;dg	159
 證券市場週刊	vg;yd qr;df ui;wj ih;ty vb;zv kj;dg	159
+抵押率	di;fd ya;fj lv;du	159
 抵押率	di;fd ya;fj lv;wu	159
 稅點	uv;hd dm;hv	158
 農化	ns;qi hw;rb	158
 漲停板	vh;dv ty;rt bj;mf	158
+美股	mz;yd gu;yu	157
+美股	mz;yd gu;ou	157
+美股	mz;dy gu;yu	157
 美股	mz;dy gu;ou	157
 零首付	ly;yl ub;qz fu;rc	156
+買價	ml;sb jw;rj	155
 買價	ml;bs jw;rj	155
 中國石化	vs;aa go;kh ui;kp hw;rb	153
 中資銀行	vs;aa zi;bc yn;jg hh;xd	153
 套匯	tk;di hv;kh	152
 飈升	bc;fy ug;pc	152
 利息率	li;dh xi;xz lv;wu	152
+滙豐集團	hv;dv fg;ud ji;mv tr;kv	152
 滙豐集團	hv;dv fg;ud ji;vm tr;kv	152
+滙豐集團	hv;dv fg;df ji;mv tr;kv	152
+滙豐集團	hv;dv fg;df ji;vm tr;kv	152
+企業集團	qi;rv ye;yl ji;mv tr;kv	150
 企業集團	qi;rv ye;yl ji;vm tr;kv	150
+企業集團	qi;rv ye;yw ji;mv tr;kv	150
+企業集團	qi;rv ye;yw ji;vm tr;kv	150
 蒙牛乳業	mg;cm nq;pa ru;gf ye;yl	150
 銀建	yn;jg jm;zy	147
 轉押	vr;iv ya;fj	145
@@ -1799,13 +3416,21 @@ use_preset_vocabulary: false
 光亞	gd;xw ya;aa	144
 寶盈	bk;bb yy;my	144
 北新路橋	bz;ap xn;jq lu;zg qc;mq	144
+北新路橋	bz;hp xn;jq lu;zg qc;mq	144
+北新路橋	bz;bj xn;jq lu;zg qc;mq	144
 組織機構代碼證	zu;sq vi;sg ji;mj gb;mg dl;ry ma;um vg;yd	144
+組織機構代碼證	zu;sq vi;sg ji;mj gb;mr dl;ry ma;um vg;yd	144
+組織機構代碼證	zu;sq vi;sv ji;mj gb;mg dl;ry ma;um vg;yd	144
+組織機構代碼證	zu;sq vi;sv ji;mj gb;mr dl;ry ma;um vg;yd	144
 桐君閣	ts;mt jp;ky ge;mg	143
 金地集團	jn;ra di;ty ji;vm tr;kv	143
 海欣	hl;dm xn;qj	143
+海欣	hl;dm xn;jq	143
 國有股	go;kh yb;ou gu;ou	141
+頸圈	jy;yj qr;kj	139
 頸圈	jy;yg qr;kj	139
 中國商報	vs;aa go;kh uh;wk bk;ex	139
+護盤	hu;yy pj;mb	139
 護盤	hu;yh pj;mb	139
 銅城	ts;jt ig;ti	139
 旭光	xu;oj gd;xw	138
@@ -1813,197 +3438,386 @@ use_preset_vocabulary: false
 芝加哥商品交易所	vi;cv jw;kl ge;kd uh;wk pn;kk jc;wf yi;ow so;jh	135
 發票管理辦法	fa;du pc;xu gr;vg li;wl bj;lx fa;dq	135
 動力源	ds;lv li;gp yr;dy	133
+換股	hr;fh gu;yu	132
 換股	hr;fh gu;ou	132
 高息攬存	gk;wk xi;xz lj;fj cp;za	132
+南順	nj;uy up;yi	132
+南順	nj;uu up;yi	132
 南順	nj;ua up;yi	132
+袁大頭	yr;ty da;ad tb;yd	132
+袁大頭	yr;ty da;ad tb;dy	132
+袁大頭	yr;ty da;hd tb;yd	132
 袁大頭	yr;ty da;hd tb;dy	132
 公司章程	gs;sb si;gk vh;lz ig;hi	131
 三聯商社	sj;aa lm;ea uh;wk ue;ut	131
 浦銀	pu;df yn;jg	130
 瑞士銀行	rv;we ui;aa yn;jg hh;xd	130
+投資學	tb;fu zi;bc xt;zb	129
 投資學	tb;fu zi;bc xt;jz	129
 華天酒店	hw;ca tm;ad jq;dy dm;gv	129
+華天酒店	hw;ca tm;hd jq;dy dm;gv	129
+華天酒店	hw;ch tm;ad jq;dy dm;gv	129
+華天酒店	hw;ch tm;hd jq;dy dm;gv	129
+永大	ys;dd da;ad	129
 永大	ys;dd da;hd	129
 附單	fu;ef dj;kd	129
+華潤集團	hw;ca rp;dr ji;mv tr;kv	128
 華潤集團	hw;ca rp;dr ji;vm tr;kv	128
+華潤集團	hw;ch rp;dr ji;mv tr;kv	128
+華潤集團	hw;ch rp;dr ji;vm tr;kv	128
+波段性	bo;dp dr;ud xy;xu	128
+波段性	bo;dp dr;du xy;xu	128
 波段性	bo;dp dr;pu xy;xu	128
 上海金融學院	uh;aa hl;dm jn;ra rs;ig xt;jz yr;ew	128
 中國人民保險公司	vs;aa go;kh rf;pd mn;ag bk;rd xm;eq gs;sb si;gk	127
+成都路橋	ig;wg du;ev lu;zg qc;mq	127
 成都路橋	ig;gg du;ev lu;zg qc;mq	127
 博通	bo;uc ts;zy	127
+博通	bo;uf ts;zy	127
 新財富	xn;jq cl;bc fu;bf	127
+新財富	xn;jq cl;bc fu;bt	127
 川大智勝	ir;pa da;hd vi;ov ug;ol	127
 滙豐晉信	hv;dv fg;ud jn;ao xn;ry	126
 盤後	pj;mb hb;xw	126
+盤後	pj;mb hb;rw	126
+魯泰	lu;yo tl;fu	126
 魯泰	lu;yo tl;uf	126
+魯泰	lu;yr tl;fu	126
+魯泰	lu;yr tl;uf	126
 平郵	py;aa yb;ei	125
+平郵	py;hu yb;ei	125
+平郵	py;gb yb;ei	125
 江蘇舜天	jd;dg su;ch up;vf tm;ad	125
+江蘇舜天	jd;dg su;ch up;vf tm;hd	125
+江蘇舜天	jd;dg su;cs up;vf tm;ad	125
+江蘇舜天	jd;dg su;cs up;vf tm;hd	125
 清華紫光	qy;dq hw;ca zi;sc gd;xw	124
 金健米業	jn;ra jm;rj mi;dd ye;yl	124
 恆立	hg;xa li;da	124
 天宏	tm;ad hs;bh	123
+天宏	tm;ad hs;bs	123
+天宏	tm;hd hs;bh	123
+天宏	tm;hd hs;bs	123
 南京銀行	nj;ua jy;wx yn;jg hh;xd	123
+國中	go;kh vs;ka	123
+國中	go;kh vs;ku	123
+國中	go;kh vs;uu	123
 國中	go;kh vs;aa	123
+物貿	wu;nw mk;bl	123
 物貿	wu;nw mk;bd	123
 拆夥	il;fi ho;gd	121
+愛建	ai;xw jm;zy	121
 愛建	ai;vw jm;zy	121
 寶信	bk;bb xn;ry	120
+多倫股份	do;xx lp;rl gu;yu ff;rf	120
 多倫股份	do;xx lp;rl gu;ou ff;rf	120
 期貨交易管理條例	qi;oq ho;bh jc;wf yi;ow gr;vg li;wl tc;rt li;rl	120
 承諾費	ig;ad no;yr fz;bf	120
+承諾費	ig;vd no;yr fz;bf	120
+承諾費	ig;zd no;yr fz;bf	120
+維加	wz;sv jw;lk	118
 維加	wz;sv jw;kl	118
 空開	ks;bg kl;mk	118
+空開	ks;xg kl;mk	118
+收購人	ub;jw gb;br rf;pd	118
+收購人	ub;jw gb;bg rf;pd	118
+收購人	ub;wj gb;br rf;pd	118
 收購人	ub;wj gb;bg rf;pd	118
 記賬員	ji;yj vh;bi yr;kb	117
+市淨率	ui;dj jy;dv lv;du	117
+市淨率	ui;dj jy;dv lv;wu	117
+市淨率	ui;wj jy;dv lv;du	117
 市淨率	ui;wj jy;dv lv;wu	117
+國聯安	go;kh lm;eu an;bn	117
 國聯安	go;kh lm;ea an;bn	117
+違約率	wz;zw yt;su lv;du	117
 違約率	wz;zw yt;su lv;wu	117
 福日	fu;uf ri;aa	117
 金普	jn;ra pu;ob	117
+浮動匯率制	fu;df ds;lv hv;kh lv;du vi;dv	116
+浮動匯率制	fu;df ds;lv hv;kh lv;du vi;dg	116
+浮動匯率制	fu;df ds;lv hv;kh lv;wu vi;dv	116
 浮動匯率制	fu;df ds;lv hv;kh lv;wu vi;dg	116
 驗舊	yj;mq jq;cj	116
+斯達康	si;qj da;zy kh;gl	113
 斯達康	si;jq da;zy kh;gl	113
 提貨單	ti;fu ho;bh dj;kd	112
+銀率網	yn;jg lv;du wh;sw	111
 銀率網	yn;jg lv;wu wh;sw	111
 蘇寧環球	su;ch ny;bd hr;wh qq;wq	111
+蘇寧環球	su;ch ny;bd hr;wy qq;wq	111
+蘇寧環球	su;cs ny;bd hr;wh qq;wq	111
+蘇寧環球	su;cs ny;bd hr;wy qq;wq	111
 浪莎	lh;dl ua;cu	111
 潮宏基	ik;di hs;bh ji;tq	110
+潮宏基	ik;di hs;bh ji;qt	110
+潮宏基	ik;di hs;bs ji;tq	110
+潮宏基	ik;di hs;bs ji;qt	110
 瀘州老窖股份有限公司	lu;dl vb;id lk;bl jc;bg gu;ou ff;rf yb;ou xm;eg gs;sb si;gk	108
 到期日	dk;dv qi;oq ri;aa	107
 寶光	bk;bb gd;xw	107
+寶光	bk;bb gd;eh	107
+寶光	bk;bb gd;ea	107
 羅克韋爾	lo;sv ke;ux wz;aa er;ay	107
 雪萊特	xt;yx ll;cl te;ns	107
+中國寶安	vs;ka go;kh bk;bb an;bn	106
+中國寶安	vs;ku go;kh bk;bb an;bn	106
+中國寶安	vs;uu go;kh bk;bb an;bn	106
 中國寶安	vs;aa go;kh bk;bb an;bn	106
+成長性	ig;wg vh;ad xy;xu	106
+成長性	ig;wg vh;hd xy;xu	106
 成長性	ig;gg vh;ad xy;xu	106
+成長性	ig;gg vh;hd xy;xu	106
 保增長	bk;rd zg;tc vh;ad	104
+保增長	bk;rd zg;tc vh;hd	104
 中國信達資產管理公司	vs;aa go;kh xn;ry da;zy zi;bc ij;wu gr;vg li;wl gs;sb si;gk	104
 融資款	rs;ig zi;bc kr;qu	104
 大華銀行	da;hd hw;ca yn;jg hh;xd	104
 聖方	ug;ew fh;wd	104
 質押品	vi;bj ya;fj pn;kk	103
 保網	bk;rd wh;sw	103
-資本利得稅	zi;bc bf;aa li;dh de;xc uv;hd	103
+資本利得稅	zi;bc bf;aa li;dh de;rc uv;hd	103
 創業網	id;dc ye;yl wh;sw	102
-企業所得稅法	qi;rv ye;yl so;jh de;xc uv;hd fa;dq	102
+創業網	id;dc ye;yw wh;sw	102
+企業所得稅法	qi;rv ye;yl so;jh de;rc uv;hd fa;dq	102
 申購款	uf;aa gb;bg kr;qu	101
 互聯網週刊	hu;aa lm;ea wh;sw vb;zv kj;dg	101
-試點方案	ui;yu dm;hv fh;wd an;bm	100
+試點方案	ui;yu dm;hv fh;wd an;ma	100
 精倫	jy;mq lp;rl	100
 完稅證	wj;by uv;hd vg;yd	100
 方大特鋼	fh;wd da;hd te;ns gh;jg	100
 借記	jx;rx ji;yj	99
+下軌	xw;ad gv;ij	99
 下軌	xw;ab gv;ij	99
+下軌	xw;hd gv;ij	99
+下軌	xw;hb gv;ij	99
 假賬	jw;rj vh;bi	98
+假賬	jw;ry vh;bi	98
 債務國	vl;rz wu;mw go;kh	98
 統計系	ts;si ji;yu xi;ps	98
 計量經濟學	ji;yu ld;ol jy;sg ji;dq xt;jz	97
 朝華	ik;ou hw;ca	97
 國家統計局	go;kh jw;bu ts;si ji;yu ju;uk	96
 業務線	ye;yl wu;mw xm;sq	96
+業務線	ye;yw wu;mw xm;sq	96
 衍生產品	yj;xd ug;na ij;wu pn;kk	96
 增資額	zg;tc zi;bc ee;yk	96
 補價	bu;yf jw;rj	96
+中國網通	vs;ka go;kh wh;sw ts;zy	95
+中國網通	vs;ku go;kh wh;sw ts;zy	95
+中國網通	vs;uu go;kh wh;sw ts;zy	95
 中國網通	vs;aa go;kh wh;sw ts;zy	95
 康達爾	kh;gl da;zy er;ay	95
+康達爾	kh;gl da;zy er;hd	95
+康達爾	kh;gl da;zy er;hy	95
+劃斷	hw;dh dr;jv	95
+劃斷	hw;dh dr;jy	95
 劃斷	hw;dh dr;ja	95
+萬邦達	wj;cy bh;fe da;zy	95
 萬邦達	wj;cy bh;ef da;zy	95
 洗盤	xi;dx pj;mb	95
+同濟堂	ts;kk ji;dq th;dt	95
 同濟堂	ts;kk ji;dq th;tk	95
+同濟堂	ts;kk ji;dq th;xt	95
+廣聯達	gd;gh lm;eu da;zy	94
 廣聯達	gd;gh lm;ea da;zy	94
+九龍倉集團	jq;py ls;dg ch;rk ji;mv tr;kv	94
 九龍倉集團	jq;py ls;dg ch;rk ji;vm tr;kv	94
+九龍倉集團	jq;py ls;lg ch;rk ji;mv tr;kv	94
+九龍倉集團	jq;py ls;lg ch;rk ji;vm tr;kv	94
 收購者	ub;wj gb;bg ve;ol	94
 華聯商廈	hw;ca lm;ea uh;wk ua;gx	94
 獎勵金	jd;qj li;ll jn;ra	94
+信立泰	xn;ry li;da tl;fu	94
 信立泰	xn;ry li;da tl;uf	94
+信立泰	xn;ry li;dh tl;fu	94
+信立泰	xn;ry li;dh tl;uf	94
+超跌股	ik;zv dx;zu gu;yu	93
 超跌股	ik;zv dx;zu gu;ou	93
 經貿大學	jy;sg mk;bd da;hd xt;jz	93
+借出	jx;rx iu;ck	93
 借出	jx;rx iu;uu	93
+萬利達	wj;cy li;hd da;zy	93
 萬利達	wj;cy li;dh da;zy	93
 澳優	ao;da yb;rw	93
 暴升	bk;ru ug;pc	93
+暴升	bk;ou ug;pc	93
+累進稅	lz;ts jn;zv uv;hd	93
 累進稅	lz;st jn;zv uv;hd	93
+合肥三洋	he;rk fz;yb sj;hh yh;dy	93
+合肥三洋	he;rk fz;yb sj;aa yh;dy	93
+合肥三洋	he;rk fz;ob sj;hh yh;dy	93
 合肥三洋	he;rk fz;ob sj;aa yh;dy	93
 殘餘價值	cj;dj yu;uy jw;rj vi;rv	93
 匯麗	hv;kh li;ll	91
+新錦江	xn;jq jn;jj jd;dg	91
 新錦江	xn;jq jn;jb jd;dg	91
 方大集團	fh;wd da;hd ji;vm tr;kv	90
+港股通	gh;dx gu;yu ts;zy	90
 港股通	gh;dx gu;ou ts;zy	90
 寶姿	bk;bb zi;nc	89
 新東方	xn;jq ds;ad fh;wd	88
 昌源	ih;oo yr;dy	88
+昌源	ih;rr yr;dy	88
 鋅業	xn;jx ye;yl	88
+鋅業	xn;jx ye;yw	88
 拓爾思	to;fu er;ay si;xt	88
 公用科技	gs;sb ys;kf ke;hd ji;fv	88
+公用科技	gs;bs ys;kf ke;hd ji;fv	88
 銀行學	yn;jg hh;xd xt;jz	87
 大北農	da;hd bz;ap ns;qi	86
+口令卡	kb;uh ly;rs ka;bx	86
+口令卡	kb;uh ly;rs ka;ub	86
+口令卡	kb;aa ly;rs ka;bx	86
 口令卡	kb;aa ly;rs ka;ub	86
+封閉期	fg;cg bi;mc qi;qy	86
+封閉期	fg;cg bi;mc qi;yq	86
 封閉期	fg;cg bi;mc qi;oq	86
+封閉期	fg;cg bi;mc qi;qo	86
+信聯	xn;ry lm;eu	86
 信聯	xn;ry lm;ea	86
 前手	qm;bd ub;pa	85
 存放處	cp;za fh;wf iu;hi	85
 雙幣卡	ud;vy bi;jb ka;ub	85
 南玻集團	nj;ua bo;wp ji;vm tr;kv	85
 提額	ti;fu ee;yk	84
+領購簿	ly;yl gb;br bu;vc	84
+領購簿	ly;yl gb;br bu;vf	84
 領購簿	ly;yl gb;bg bu;vc	84
+領購簿	ly;yl gb;bg bu;vf	84
+出千	iu;ck qm;pa	83
+出千	iu;ck qm;pu	83
 出千	iu;uu qm;pa	83
+出千	iu;uu qm;pu	83
 共保	gs;bc bk;rd	83
+共保	gs;cb bk;rd	83
 除淨	iu;ey jy;dv	83
 新秀麗	xn;jq xq;hn li;ll	83
+中彩網	vs;ka cl;pc wh;sw	82
+中彩網	vs;ku cl;pc wh;sw	82
+中彩網	vs;uu cl;pc wh;sw	82
 中彩網	vs;aa cl;pc wh;sw	82
+第一財經	di;vp yi;hh cl;bc jy;sj	82
+第一財經	di;vp yi;hh cl;bc jy;sg	82
+第一財經	di;vp yi;aa cl;bc jy;sj	82
 第一財經	di;vp yi;aa cl;bc jy;sg	82
+和訊	he;hk xp;yx	82
 和訊	he;hk xp;yu	82
 信達資產	xn;ry da;zy zi;bc ij;wu	81
 泰達宏利基金	tl;uf da;zy hs;bh li;dh ji;tq jn;ra	81
+輪換制	lp;il hr;fh vi;dv	81
 輪換制	lp;il hr;fh vi;dg	81
+資本品	zi;bc bf;hh pn;kk	81
+資本品	zi;bc bf;ma pn;kk	81
 資本品	zi;bc bf;aa pn;kk	81
+資本品	zi;bc bf;mh pn;kk	81
 理財金	li;wl cl;bc jn;ra	81
+理財金	li;wl cl;bc jn;ph	81
+理財金	li;wl cl;bc jn;pa	81
+理財金	li;wl cl;bc jn;rh	81
 轉換費	vr;iv hr;fh fz;bf	80
+股分	gu;yu ff;db	80
+股分	gu;yu ff;bd	80
 股分	gu;ou ff;db	80
+股分	gu;ou ff;bd	80
 中國工商銀行	vs;aa go;kh gs;aa uh;wk yn;jg hh;xd	80
+巨潮	ju;hv ik;di	80
+巨潮	ju;kk ik;di	80
 巨潮	ju;aa ik;di	80
 回檔	hv;kk dh;md	79
 蕪湖港	wu;cw hu;dh gh;dx	79
 除息	iu;ey xi;xz	79
+除息	iu;ey xi;zx	79
 嘉瑞	jw;uj rv;we	78
+方源	fh;dw yr;dy	78
 方源	fh;wd yr;dy	78
+方源	fh;dg yr;dy	78
+方源	fh;dp yr;dy	78
+方源	fh;dd yr;dy	78
+斬倉	vj;ji ch;rk	78
 斬倉	vj;ij ch;rk	78
 金元寶	jn;ra yr;ee bk;bb	78
 萬年薪	wj;cy nm;ra xn;cx	78
+萬年薪	wj;cy nm;ru xn;cx	78
+萬年薪	wj;cy nm;pa xn;cx	78
+萬年薪	wj;cy nm;pu xn;cx	78
 中服	vs;aa fu;oy	77
+美雅	mz;yd ya;yv	77
+美雅	mz;yd ya;vy	77
+美雅	mz;dy ya;yv	77
 美雅	mz;dy ya;vy	77
 快公司	ky;xd gs;sb si;gk	77
 驗審	yj;mq uf;bf	77
 換手率	hr;fh ub;pa lv;wu	76
+貼現率	tx;bv xm;wj lv;du	74
 貼現率	tx;bv xm;wj lv;wu	74
+冷卻期	lg;dl qt;eg qi;qy	74
+冷卻期	lg;dl qt;eg qi;yq	74
 冷卻期	lg;dl qt;eg qi;oq	74
+冷卻期	lg;dl qt;eg qi;qo	74
 香港交易所	xd;ho gh;dx jc;wf yi;ow so;jh	74
 銀廣夏	yn;jg gd;gh xw;wz	74
+銀廣夏	yn;jg gd;gh xw;aw	74
+銀廣夏	yn;jg gd;gh xw;pw	74
 廣發銀行	gd;gh fa;du yn;jg hh;xd	74
 貝因美	bz;ad yn;kd mz;dy	73
 聚友	ju;qd yb;yu	73
 華昌達	hw;ca ih;oo da;zy	73
+華昌達	hw;ca ih;rr da;zy	73
+華昌達	hw;ch ih;oo da;zy	73
+華昌達	hw;ch ih;rr da;zy	73
 龍建	ls;dg jm;zy	73
+龍建	ls;lg jm;zy	73
+新股	xn;jq gu;yu	72
 新股	xn;jq gu;ou	72
 屯積	tp;ag ji;hz	72
+屯積	tp;hg ji;hz	72
 生意寶	ug;na yi;xy bk;bb	72
+生意寶	ug;na yi;lx bk;bb	72
+生意寶	ug;nh yi;xy bk;bb	72
+生意寶	ug;nh yi;lx bk;bb	72
 儀化	yi;ry hw;rb	72
 皇臺	hd;bw tl;uv	72
 買空賣空	ml;bs ks;bg ml;bs ks;bg	72
+獎勵費	jd;qj li;lw fz;bf	71
 獎勵費	jd;qj li;ll fz;bf	71
 國祥	go;kh xd;uy	71
+運營部	yp;zj yy;lb bu;ek	71
+運營部	yp;zj yy;lb bu;ep	71
 運營部	yp;zj yy;hl bu;ek	71
+運營部	yp;zj yy;hl bu;ep	71
+豪盛	hk;du ug;mi	71
+豪盛	hk;ub ug;mi	71
 豪盛	hk;wu ug;mi	71
+下破	xw;ad po;up	71
 下破	xw;ab po;up	71
+下破	xw;hd po;up	71
+下破	xw;hb po;up	71
 招行卡	vk;fv hh;xd ka;ub	71
 拒批	ju;fj pi;fb	70
+康卡斯特	kh;gl ka;bx si;qj te;ns	70
+康卡斯特	kh;gl ka;bx si;jq te;ns	70
+康卡斯特	kh;gl ka;ub si;qj te;ns	70
 康卡斯特	kh;gl ka;ub si;jq te;ns	70
+小盤	xc;ud pj;mb	70
 小盤	xc;ad pj;mb	70
 總水平	zs;sc uv;ad py;aa	70
+指標體系	vi;fv bc;mp ti;gl xi;ps	70
 指標體系	vi;fv bc;mp ti;gd xi;ps	70
+甘化	gj;hh hw;rb	70
 甘化	gj;ca hw;rb	70
+甘化	gj;ch hw;rb	70
+甘化	gj;aa hw;rb	70
+流通股	lq;di ts;zy gu;yu	70
 流通股	lq;di ts;zy gu;ou	70
+負利率	fu;db li;hd lv;du	70
+負利率	fu;db li;hd lv;wu	70
+負利率	fu;db li;dh lv;du	70
 負利率	fu;db li;dh lv;wu	70
 環球企業家	hr;wh qq;wq qi;rv ye;yl jw;bu	70
+環球企業家	hr;wh qq;wq qi;rv ye;yw jw;bu	70
+環球企業家	hr;wy qq;wq qi;rv ye;yl jw;bu	70
+環球企業家	hr;wy qq;wq qi;rv ye;yw jw;bu	70
 德豪潤達	de;xx hk;wu rp;dr da;zy	70
 非現金	fz;aa xm;wj jn;ra	69
 寶誠	bk;bb ig;yi	69
@@ -2011,64 +3825,121 @@ use_preset_vocabulary: false
 關聯公司	gr;ma lm;ea gs;sb si;gk	69
 商通卡	uh;wk ts;zy ka;ub	69
 源發	yr;dy fa;du	69
+源發	yr;dy fa;zd	69
+源發	yr;dy fa;gy	69
 合會	he;rk hv;ro	68
+合會	he;rk hv;rr	68
+先施	xm;ne ui;fy	68
 先施	xm;en ui;fy	68
+雙底	ud;yv di;gd	68
 雙底	ud;vy di;gd	68
 楔形	xx;mq xy;pk	68
 新韓銀行	xn;jq hj;uw yn;jg hh;xd	68
+哈藥集團	ha;kh yk;cl ji;mv tr;kv	67
 哈藥集團	ha;kh yk;cl ji;vm tr;kv	67
+哈藥集團	ha;kh yk;cy ji;mv tr;kv	67
+哈藥集團	ha;kh yk;cy ji;vm tr;kv	67
 通威股份	ts;zy wz;gn gu;ou ff;rf	67
 發展規劃	fa;du vj;uy gv;fj hw;dh	67
+艾迪西	ai;cw di;zy xi;hh	67
+艾迪西	ai;cw di;zy xi;aa	67
+艾迪西	ai;ci di;zy xi;hh	67
 艾迪西	ai;ci di;zy xi;aa	67
+歐洲貨幣	ou;qq vb;dv ho;bh bi;jw	67
 歐洲貨幣	ou;qq vb;dv ho;bh bi;jb	67
 濟柴	ji;dq il;mc	67
 反洗錢法	fj;py xi;dx qm;jj fa;dq	66
 北海港	bz;ap hl;dm gh;dx	66
+北海港	bz;hp hl;dm gh;dx	66
+北海港	bz;bj hl;dm gh;dx	66
 金融體制	jn;ra rs;ig ti;gd vi;dg	66
 上市規則	uh;aa ui;wj gv;fj ze;db	65
 中小板指	vs;aa xc;ad bj;mf vi;fv	65
+五礦證券	wu;hh kd;ug vg;yd qr;jd	65
+五礦證券	wu;hh kd;ug vg;yd qr;df	65
+五礦證券	wu;aa kd;ug vg;yd qr;jd	65
 五礦證券	wu;aa kd;ug vg;yd qr;df	65
+租方	zu;hq fh;dw	65
 租方	zu;hq fh;wd	65
+租方	zu;hq fh;dg	65
+租方	zu;hq fh;dp	65
+租方	zu;hq fh;dd	65
 聯邦存款保險公司	lm;ea bh;ef cp;za kr;qu bk;rd xm;eq gs;sb si;gk	64
 掛價	gw;fg jw;rj	64
 寰島	hr;bh dk;nu	64
+寰島	hr;bh dk;un	64
+寰島	hr;by dk;nu	64
+寰島	hr;by dk;un	64
+投資協議	tb;fu zi;bc xx;ux yi;yy	64
 投資協議	tb;fu zi;bc xx;ul yi;yy	64
 熱門股	re;hv mf;aa gu;ou	63
 國海富蘭克林	go;kh hl;dm fu;bf lj;cj ke;ux ln;mm	63
 天津海運	tm;ad jn;dy hl;dm yp;zj	63
+天津海運	tm;hd jn;dy hl;dm yp;zj	63
 哈爾斯	ha;kh er;ay si;jq	63
 東方龍	ds;ad fh;wd ls;dg	63
 國能	go;kh ng;sb	63
 海立	hl;dm li;da	63
+海立	hl;dm li;dh	63
 四川雙馬	si;ke ir;pa ud;vy ma;ad	62
 安信信託	an;bn xn;ry xn;ry to;yq	62
+安信信託	an;bn xn;ry xn;ry to;yt	62
+低價股	di;rd jw;rj gu;yu	62
 低價股	di;rd jw;rj gu;ou	62
+博訊	bo;uc xp;yx	61
 博訊	bo;uc xp;yu	61
+博訊	bo;uf xp;yx	61
+博訊	bo;uf xp;yu	61
 解盤	jx;jn pj;mb	61
 押匯	ya;fj hv;kh	61
+投資期	tb;fu zi;bc qi;qy	61
+投資期	tb;fu zi;bc qi;yq	61
 投資期	tb;fu zi;bc qi;oq	61
+投資期	tb;fu zi;bc qi;qo	61
 家得寶	jw;bu de;xc bk;bb	61
+家得寶	jw;bu de;rc bk;bb	61
+輔幣	fu;if bi;jw	61
 輔幣	fu;if bi;jb	61
 泰達宏利	tl;uf da;zy hs;bh li;dh	61
 正泰電器	vg;av tl;uf dm;yd qi;kk	61
+貨幣主義	ho;bh bi;jw vu;dw yi;yw	61
 貨幣主義	ho;bh bi;jb vu;dw yi;yw	61
 東方國信	ds;ad fh;wd go;kh xn;ry	60
 上海萊士	uh;aa hl;dm ll;cl ui;aa	60
+用卡	ys;kf ka;bx	60
 用卡	ys;kf ka;ub	60
+新華錦	xn;jq hw;ca jn;jj	60
 新華錦	xn;jq hw;ca jn;jb	60
+新華錦	xn;jq hw;ch jn;jj	60
+新華錦	xn;jq hw;ch jn;jb	60
+錢經	qm;jj jy;sj	60
 錢經	qm;jj jy;sg	60
 新華百貨	xn;jq hw;ca bl;ab ho;bh	59
+聯益	lm;eu yi;mb	59
 聯益	lm;ea yi;mb	59
 勞埃德銀行	lk;lb ai;tu de;xx yn;jg hh;xd	58
 高新興	gk;wk xn;jq xy;ba	58
 海蘭信	hl;dm lj;cj xn;ry	58
+海蘭信	hl;dm lj;cl xn;ry	58
+美麗華酒店	mz;yd li;ll hw;ca jq;dy dm;gv	58
+美麗華酒店	mz;yd li;ll hw;ch jq;dy dm;gv	58
 美麗華酒店	mz;dy li;ll hw;ca jq;dy dm;gv	58
+美麗華酒店	mz;dy li;ll hw;ch jq;dy dm;gv	58
 易貨貿易	yi;ow ho;bh mk;bd yi;ow	58
+哈藥股份	ha;kh yk;cl gu;yu ff;rf	58
 哈藥股份	ha;kh yk;cl gu;ou ff;rf	58
+哈藥股份	ha;kh yk;cy gu;yu ff;rf	58
+哈藥股份	ha;kh yk;cy gu;ou ff;rf	58
 審計報告	uf;bf ji;yu bk;ex gk;kn	57
+安泰集團	an;bn tl;fu ji;mv tr;kv	57
+安泰集團	an;bn tl;fu ji;vm tr;kv	57
+安泰集團	an;bn tl;uf ji;mv tr;kv	57
 安泰集團	an;bn tl;uf ji;vm tr;kv	57
 華塑	hw;ca su;to	56
+廣州浪奇	gd;gh vb;da lh;dl qi;dk	56
+廣州浪奇	gd;gh vb;du lh;dl qi;dk	56
 廣州浪奇	gd;gh vb;id lh;dl qi;dk	56
+售樓處	ub;vk lb;ml iu;hi	55
 售樓處	ub;kv lb;ml iu;hi	55
 新中基	xn;jq vs;aa ji;tq	55
 大有期貨	da;hd yb;ou qi;oq ho;bh	54
@@ -2076,29 +3947,57 @@ use_preset_vocabulary: false
 中科三環	vs;aa ke;hd sj;aa hr;wh	54
 填權	tm;tv qr;mv	54
 誘空	yb;yx ks;bg	53
+誘空	yb;yx ks;xg	53
 安達信	an;bn da;zy xn;ry	53
 東方雨虹	ds;ad fh;wd yu;ad hs;ig	53
+中海油	vs;ka hl;dm yb;dy	53
+中海油	vs;ku hl;dm yb;dy	53
+中海油	vs;uu hl;dm yb;dy	53
 中海油	vs;aa hl;dm yb;dy	53
 收購方	ub;wj gb;bg fh;wd	53
+聯名卡	lm;eu my;xk ka;bx	53
+聯名卡	lm;eu my;xk ka;ub	53
+聯名卡	lm;ea my;xk ka;bx	53
 聯名卡	lm;ea my;xk ka;ub	53
 魯銀	lu;yo yn;jg	53
+魯銀	lu;yr yn;jg	53
 半年期	bj;bf nm;ra qi;oq	53
 歐比特	ou;qq bi;bb te;ns	53
 東華軟件	ds;ad hw;ca rr;iq jm;rn	53
 龍科	ls;dg ke;hd	53
+龍科	ls;lg ke;hd	53
 科華恆盛	ke;hd hw;ca hg;xa ug;mi	53
 盛潤	ug;mi rp;dr	52
 零息	ly;yl xi;xz	52
+零息	ly;yl xi;zx	52
+環球財經	hr;wh qq;wq cl;bc jy;sj	52
 環球財經	hr;wh qq;wq cl;bc jy;sg	52
+環球財經	hr;wy qq;wq cl;bc jy;sj	52
+環球財經	hr;wy qq;wq cl;bc jy;sg	52
 金化	jn;ra hw;rb	52
+金化	jn;ph hw;rb	52
+金化	jn;pa hw;rb	52
+金化	jn;rh hw;rb	52
+鈦白	tl;jt bl;ph	51
+鈦白	tl;jt bl;pr	51
 鈦白	tl;jt bl;pa	51
+鈦白	tl;jt bl;po	51
 金葵花	jn;ra kv;cg hw;ch	51
 寶麗華	bk;bb li;ll hw;ca	51
+寶麗華	bk;bb li;ll hw;ch	51
 莫高股份	mo;cd gk;wk gu;ou ff;rf	51
 寶萊特	bk;bb ll;cl te;ns	51
+經辦員	jy;sj bj;xx yr;kb	50
+經辦員	jy;sj bj;lx yr;kb	50
+經辦員	jy;sg bj;xx yr;kb	50
 經辦員	jy;sg bj;lx yr;kb	50
 博信	bo;uc xn;ry	50
+博信	bo;uf xn;ry	50
 中糧屯河	vs;aa ld;ml tp;ag he;dk	50
 吉恩鎳業	ji;ku en;xy nx;jn ye;yl	50
+吉恩鎳業	ji;ku en;xy nx;jn ye;yw	50
+吉恩鎳業	ji;uk en;xy nx;jn ye;yl	50
+吉恩鎳業	ji;uk en;xy nx;jn ye;yw	50
 青島海信	qy;of dk;nu hl;dm xn;ry	50
+利記	li;hd ji;yj	50
 利記	li;dh ji;yj	50

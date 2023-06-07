@@ -11,247 +11,471 @@ use_preset_vocabulary: false
 信鴿	xn;ry ge;nh	220963
 黃蜂	hd;cb fg;if	118861
 水母	uv;ad mu;ad	78147
+野貓	ye;ly mk;vm	62065
 野貓	ye;yl mk;vm	62065
 寵物狗	is;bl wu;nw gb;qj	56875
 母狗	mu;ad gb;qj	56087
+母狗	mu;vd gb;qj	56087
 毛毛蟲	mk;pg mk;pg is;ii	48631
 獵豹	lx;ql bk;vu	48451
 犀牛	xi;nu nq;pa	46120
+犀牛	xi;nu nq;pu	46120
+犀牛	xi;un nq;pa	46120
+犀牛	xi;un nq;pu	46120
+薩摩	sa;cs mo;mu	44748
+薩摩	sa;cs mo;um	44748
 薩摩	sa;ci mo;mu	44748
+薩摩	sa;ci mo;um	44748
 狼狗	lh;ql gb;qj	40979
 喜鵲	xi;uk qt;nx	40321
+梅花鹿	mz;mm hw;ch lu;lb	37159
 梅花鹿	mz;mm hw;ch lu;gb	37159
 牡蠣	mu;nt li;il	34448
+牡蠣	mu;nt li;iw	34448
 毛驢	mk;pg lv;ml	32969
 母牛	mu;ad nq;pa	31741
+母牛	mu;ad nq;pu	31741
+母牛	mu;vd nq;pa	31741
+母牛	mu;vd nq;pu	31741
+野牛	ye;ly nq;pa	27896
+野牛	ye;ly nq;pu	27896
 野牛	ye;yl nq;pa	27896
+野牛	ye;yl nq;pu	27896
+多寶魚	do;xx bk;bb yu;dh	23907
 多寶魚	do;xx bk;bb yu;dd	23907
+小蜜蜂	xc;ud mi;bi fg;if	22680
+小蜜蜂	xc;ud mi;ib fg;if	22680
+小蜜蜂	xc;ad mi;bi fg;if	22680
 小蜜蜂	xc;ad mi;ib fg;if	22680
 猿人	yr;qy rf;pd	21112
 獵狗	lx;ql gb;qj	20562
+小尾寒羊	xc;ud wz;um hj;bd yh;da	18980
+小尾寒羊	xc;ud wz;um hj;bd yh;du	18980
 小尾寒羊	xc;ad wz;um hj;bd yh;da	18980
+小尾寒羊	xc;ad wz;um hj;bd yh;du	18980
 金槍魚	jn;ra qd;mc yu;dd	18892
+大黃蜂	dl;ad hd;cb fg;if	18504
 大黃蜂	dl;hd hd;cb fg;if	18504
+墨魚	mo;th yu;dh	17270
 墨魚	mo;th yu;dd	17270
+墨魚	mo;ht yu;dh	17270
+墨魚	mo;ht yu;dd	17270
 扇貝	uj;hy bz;ad	16676
+毛滴蟲	mk;pg di;dg is;ii	16392
 毛滴蟲	mk;pg di;dd is;ii	16392
 鴒	ly;nl	14603
+小雀	xc;ud qt;xv	13089
+小雀	xc;ud qt;vx	13089
+小雀	xc;ad qt;xv	13089
 小雀	xc;ad qt;vx	13089
 蘇眉	su;ch mz;om	12152
+狼犬	lh;ql qr;ad	11704
+狼犬	lh;ql qr;hd	11704
 狼犬	lh;ql qr;dd	11704
 黃粉蟲	hd;cb ff;mf is;ii	11209
+野菊花	ye;ly ju;cj hw;ch	11043
+野菊花	ye;ly ju;cm hw;ch	11043
 野菊花	ye;yl ju;cj hw;ch	11043
-夜鷹	ye;wd yy;gn	10533
+野菊花	ye;yl ju;cm hw;ch	11043
+夜鷹	ye;wd yy;nv	10533
 導盲犬	dk;cd mh;ow qr;dd	10113
 貓科動物	mk;vm ke;hd ds;lv wu;nw	9462
 利木贊牛	li;dh mu;ad zj;bx nq;pa	9371
 目魚	mu;aa yu;dd	9329
 文金	wf;dd jn;ra	9087
+文金	wf;dd jn;ph	9087
+文金	wf;dd jn;pa	9087
+文金	wf;dd jn;rh	9087
+越前龍	yt;zy qm;qd ls;dg	8739
+越前龍	yt;zy qm;qd ls;lg	8739
 越前龍	yt;zy qm;bd ls;dg	8739
+越前龍	yt;zy qm;bd ls;lg	8739
+野驢	ye;ly lv;ml	8582
 野驢	ye;yl lv;ml	8582
 瓢蟲	pc;gp is;ii	8236
 九間	jq;py jm;mo	7969
+九間	jq;py jm;om	7969
+九間	jq;py jm;mr	7969
+軟體動物	rr;iq ti;gl ds;lv wu;nw	7579
 軟體動物	rr;iq ti;gd ds;lv wu;nw	7579
 鶺鴒	ji;nj ly;nl	7500
+蠅蛆	yy;sh qu;iq	6580
 蠅蛆	yy;im qu;iq	6580
 家雞	jw;bu ji;vx	6433
 河蚌	he;dk bh;if	6090
 全蠍	qr;rw xx;ix	6068
 刺蔘	ci;dc cj;cc	5577
 靈長類動物	ly;wl vh;ad lz;yl ds;lv wu;nw	5575
-䴉	hr;nh	5069
 囊蟲	nh;ay is;ii	4996
+囊蟲	nh;hy is;ii	4996
+囊蟲	nh;ky is;ii	4996
+囊蟲	nh;hd is;ii	4996
+杜泊綿羊	du;mt po;db mm;sj yh;da	4587
+杜泊綿羊	du;mt po;db mm;sj yh;du	4587
 杜泊綿羊	du;mt po;db mm;sb yh;da	4587
+杜泊綿羊	du;mt po;db mm;sb yh;du	4587
+小鯉	xc;ud li;yl	4440
 小鯉	xc;ad li;yl	4440
 毛蟹	mk;pg xx;ij	4343
 鷯哥	lc;nl ge;kd	4205
 噴毒眼鏡蛇	pf;kb du;fm yj;og jy;jj ue;it	4150
+噴毒眼鏡蛇	pf;kb du;fm yj;mg jy;jj ue;it	4150
 文蛤	wf;dd ge;ih	3950
 鬥牛犬	db;aa nq;pa qr;dd	3940
 野犛牛	ye;yl mk;ni nq;pa	3938
 鴞	xc;nh	3886
 寄居蟹	ji;bq ju;ug xx;ij	3675
+鸚哥	yy;ny ge;dk	3500
 鸚哥	yy;ny ge;kd	3500
+鸚哥	yy;ny ge;kk	3500
 畫眉鳥	hw;ya mz;om nc;pd	3483
 蘇格蘭牧羊犬	su;ch ge;mg lj;cj mu;nw yh;da qr;dd	3261
 臺鴿	tl;uv ge;nh	3222
+獅子狗	ui;qu zi;vh gb;qj	3184
 獅子狗	ui;qu zi;aa gb;qj	3184
+抹香鯨	mo;fm xd;hr jy;yj	3138
 抹香鯨	mo;fm xd;ho jy;yj	3138
 桃花水母	tk;mv hw;ch uv;ad mu;ad	3114
+小鷗	xc;ud ou;nq	2963
 小鷗	xc;ad ou;nq	2963
+小野豬	xc;ud ye;ly vu;uv	2901
+小野豬	xc;ud ye;yl vu;uv	2901
+小野豬	xc;ad ye;ly vu;uv	2901
 小野豬	xc;ad ye;yl vu;uv	2901
+五步蛇	wu;hh bu;vx ue;it	2888
 五步蛇	wu;aa bu;vx ue;it	2888
 花寨	hw;ch vl;bm	2819
+花寨	hw;ch vl;mb	2819
 瘧原蟲	nt;bn yr;ix is;ii	2736
+瀕危野生動物	bn;dp wz;de ye;ly ug;na ds;lv wu;nw	2726
+瀕危野生動物	bn;dp wz;de ye;ly ug;nh ds;lv wu;nw	2726
 瀕危野生動物	bn;dp wz;de ye;yl ug;na ds;lv wu;nw	2726
+瀕危野生動物	bn;dp wz;de ye;yl ug;nh ds;lv wu;nw	2726
 野生大熊貓	ye;yl ug;na da;hd xs;hn mk;vm	2660
+青波	qy;fy bo;dp	2656
+青波	qy;fo bo;dp	2656
+青波	qy;yf bo;dp	2656
 青波	qy;of bo;dp	2656
 克隆牛	ke;ux ls;eu nq;pa	2647
+克隆牛	ke;ux ls;eu nq;pu	2647
+克隆牛	ke;eg ls;eu nq;pa	2647
+克隆牛	ke;eg ls;eu nq;pu	2647
 珠雞	vu;wv ji;vx	2641
+貓魚	mk;vm yu;dh	2595
 貓魚	mk;vm yu;dd	2595
 木回	mu;ad hv;kk	2595
+木回	mu;hd hv;kk	2595
 魚膽	yu;dd dj;ov	2549
 種公豬	vs;hv gs;sb vu;uv	2508
+種公豬	vs;hv gs;bs vu;uv	2508
 灰鶴	hv;hu he;nv	2354
+灰鶴	hv;uh he;nv	2354
 雄蜂	xs;vh fg;if	2307
+雄蜂	xs;vs fg;if	2307
+杜賓犬	du;mt bn;bb qr;ad	2297
+杜賓犬	du;mt bn;bb qr;hd	2297
 杜賓犬	du;mt bn;bb qr;dd	2297
 純種波爾山羊	ip;st vs;hv bo;dp er;ay uj;aa yh;da	2223
 中白鷺	vs;aa bl;pa lu;nl	2210
 卷尾	jr;je wz;um	2152
+卷尾	jr;ef wz;um	2152
+陰道毛滴蟲	yn;ey dk;zu mk;pg di;dg is;ii	2134
 陰道毛滴蟲	yn;ey dk;zu mk;pg di;dd is;ii	2134
+紫貝	zi;sc bz;ud	2005
 紫貝	zi;sc bz;ad	2005
+紫貝	zi;sc bz;ob	2005
+紫貝	zi;sc bz;mb	2005
+鮰魚	hv;yh yu;dh	1976
 鮰魚	hv;yh yu;dd	1976
 薩摩耶犬	sa;ci mo;mu ye;ee qr;dd	1970
 杜泊羊	du;mt po;db yh;da	1859
+杜泊羊	du;mt po;db yh;du	1859
 灘羊	tj;dn yh;da	1794
+灘羊	tj;dn yh;du	1794
 錢鼠	qm;jj uu;ju	1734
 浮游動物	fu;df yb;dz ds;lv wu;nw	1699
 輪蟲	lp;il is;ii	1679
+元謀人	yr;hw mb;ym rf;pd	1673
 元謀人	yr;ee mb;ym rf;pd	1673
+元謀人	yr;aw mb;ym rf;pd	1673
 生牡蠣	ug;na mu;nt li;il	1631
+生牡蠣	ug;na mu;nt li;iw	1631
+生牡蠣	ug;nh mu;nt li;il	1631
+生牡蠣	ug;nh mu;nt li;iw	1631
+折耳貓	ve;fj er;hh mk;vm	1597
 折耳貓	ve;fj er;aa mk;vm	1597
 南非波爾山羊	nj;ua fz;aa bo;dp er;ay uj;aa yh;da	1430
 林雕	ln;mm dc;vv	1413
 角鯨	jc;dy jy;yj	1386
 象拔蚌	xd;du ba;fb bh;if	1384
 魟	hs;yg	1378
+犬科動物	qr;ad ke;hd ds;lv wu;nw	1334
+犬科動物	qr;hd ke;hd ds;lv wu;nw	1334
 犬科動物	qr;dd ke;hd ds;lv wu;nw	1334
 薩摩犬	sa;ci mo;mu qr;dd	1314
 地鱉	di;ty bx;yb	1310
+地鱉	di;ty bx;yw	1310
 犀鳥	xi;nu nc;pd	1303
+犀鳥	xi;nu nc;ph	1303
+犀鳥	xi;un nc;pd	1303
+犀鳥	xi;un nc;ph	1303
+前翅	qm;qd ii;yv	1227
+前翅	qm;qd ii;vy	1227
 前翅	qm;bd ii;yv	1227
+前翅	qm;bd ii;vy	1227
 斑點叉尾鮰	bj;ww dm;hv ia;yd wz;um hv;yh	1226
+斑點叉尾鮰	bj;ww dm;hv ia;dy wz;um hv;yh	1226
+鷹科	yy;nv ke;hd	1224
 鷹科	yy;gn ke;hd	1224
+亞綱	ya;hh gh;sg	1201
 亞綱	ya;aa gh;sg	1201
 嘉好	jw;uj hk;nz	1172
 瑪瑙紅	ma;wm nk;wi hs;sg	1164
+瑪瑙紅	ma;wm nk;wx hs;sg	1164
+朱文錦	vu;pw wf;dd jn;jj	1144
 朱文錦	vu;pw wf;dd jn;jb	1144
 白緣	bl;pa yr;st	1142
 乳寶	ru;gf bk;bb	1127
+乳寶	ru;fg bk;bb	1127
+德國小蠊	de;rx go;kh xc;ud lm;il	1123
+德國小蠊	de;rx go;kh xc;ad lm;il	1123
+德國小蠊	de;xx go;kh xc;ud lm;il	1123
 德國小蠊	de;xx go;kh xc;ad lm;il	1123
+人工魚礁	rf;pd gs;hh yu;dh jc;uj	1106
+人工魚礁	rf;pd gs;hh yu;dd jc;uj	1106
+人工魚礁	rf;pd gs;aa yu;dh jc;uj	1106
 人工魚礁	rf;pd gs;aa yu;dd jc;uj	1106
 中國鳥	vs;aa go;kh nc;pd	1100
+韭菜子	jq;fh cl;cc zi;vh	1046
+韭菜子	jq;fh cl;cc zi;aa	1046
+韭菜子	jq;fa cl;cc zi;vh	1046
 韭菜子	jq;fa cl;cc zi;aa	1046
 藥用動物	yk;cl ys;kf ds;lv wu;nw	1045
+藥用動物	yk;cy ys;kf ds;lv wu;nw	1045
 牛頭犬	nq;pa tb;dy qr;dd	1044
 奇蹟龍	qi;dk ji;zz ls;dg	1030
+奇蹟龍	qi;dk ji;zz ls;lg	1030
 牛目	nq;pa mu;aa	1018
 灰鵝	hv;hu ee;nw	1014
+灰鵝	hv;uh ee;nw	1014
 滷蟲	lu;dl is;ii	1005
 夏過	xw;wz go;zg	986
 膜管	mo;om gr;vg	954
+膜管	mo;ym gr;vg	954
 柯基犬	ke;mk ji;tq qr;dd	952
 纈草	xx;sj ck;cz	946
 昆蟲及	kp;ob is;ii ji;pd	923
+昆蟲及	kp;ob is;ii ji;nd	923
+昆蟲及	kp;rb is;ii ji;pd	923
+昆蟲及	kp;rb is;ii ji;nd	923
 爛草黃	lj;hj ck;cz hd;cb	917
+爛草黃	lj;hl ck;cz hd;cb	917
 小鹿犬	xc;ad lu;gb qr;dd	916
 紅蟹	hs;sg xx;ij	915
 皁角刺	zk;bu jc;dy ci;dc	915
 油葫蘆	yb;dy hu;ch lu;cl	907
+志賀氏菌	vi;ux he;bj ui;pg jp;cq	899
+志賀氏菌	vi;ux he;bj ui;pg jp;ch	899
+志賀氏菌	vi;xu he;bj ui;pg jp;cq	899
 志賀氏菌	vi;xu he;bj ui;pg jp;ch	899
+魚狗	yu;dh gb;qj	899
 魚狗	yu;dd gb;qj	899
 點眼叢	dm;hv yj;og cs;yq	898
+黃蝶	hd;cb dx;iy	891
 黃蝶	hd;cb dx;im	891
+五指毛桃	wu;hh vi;fv mk;pg tk;mv	889
 五指毛桃	wu;aa vi;fv mk;pg tk;mv	889
 利木贊肉牛	li;dh mu;ad zj;bx rb;ad nq;pa	884
+鷹身女妖	yy;nv uf;pp nv;vh yk;ny	879
+鷹身女妖	yy;nv uf;pp nv;aa yk;ny	879
+鷹身女妖	yy;gn uf;pp nv;vh yk;ny	879
 鷹身女妖	yy;gn uf;pp nv;aa yk;ny	879
 萵筍葉	wo;cg sp;vx ye;cm	873
+萵筍葉	wo;ck sp;vx ye;cm	873
 蠟膜	la;il mo;om	872
+蠟膜	la;il mo;ym	872
 秦川牛	qn;hf ir;pa nq;pa	871
+蟲媒傳染	is;ii mz;nm ir;rv rj;mj	863
 蟲媒傳染	is;ii mz;nm ir;rv rj;mg	863
 靈長目動物	ly;wl vh;ad mu;aa ds;lv wu;nw	862
 蚿	xm;ix	862
 黃佔	hd;cb vj;rv	850
 赤眼蜂	ii;tb yj;og fg;if	839
+赤眼蜂	ii;tb yj;mg fg;if	839
+赤眼蜂	ii;ty yj;og fg;if	839
+赤眼蜂	ii;ty yj;mg fg;if	839
+營養性疾病	yy;lb yh;yl xy;xu ji;bu by;bb	837
+營養性疾病	yy;lb yh;yu xy;xu ji;bu by;bb	837
 營養性疾病	yy;hl yh;yl xy;xu ji;bu by;bb	837
+營養性疾病	yy;hl yh;yu xy;xu ji;bu by;bb	837
 鮀	to;yt	836
 兀龍	wu;ae ls;dg	834
 回聲定位	hv;kk ug;eq dy;bp wz;rl	833
+回聲定位	hv;kk ug;eu dy;bp wz;rl	833
 紫印	zi;sc yn;ey	826
+紫印	zi;sc yn;pe	826
 叫姑姑	jc;kj gu;ng gu;ng	825
 閉殼龜	bi;mc ke;uj gv;pa	824
+閉殼龜	bi;mc ke;uj gv;ph	824
+中猴	vs;ka hb;qh	818
+中猴	vs;ku hb;qh	818
+中猴	vs;uu hb;qh	818
 中猴	vs;aa hb;qh	818
+櫻桃谷鴨	yy;my tk;mv gu;bk ya;nj	816
 櫻桃谷鴨	yy;my tk;mv gu;kr ya;nj	816
+魚漿	yu;dh jd;dj	814
 魚漿	yu;dd jd;dj	814
+迎燕	yy;ze yj;cd	812
+迎燕	yy;ze yj;db	812
+迎燕	yy;ze yj;ch	812
 迎燕	yy;ze yj;hb	812
+漏蘆	lb;dy lu;cl	811
 漏蘆	lb;dl lu;cl	811
+星蟲	xy;ru is;ii	806
 星蟲	xy;ou is;ii	806
+泉龍	qr;bu ls;dg	804
+泉龍	qr;bu ls;lg	804
 泉龍	qr;ub ls;dg	804
+泉龍	qr;ub ls;lg	804
 毛黴	mk;pg mz;xw	803
+毛黴	mk;pg mz;rw	803
 喜樂蒂牧羊犬	xi;uk le;bm di;cd mu;nw yh;da qr;dd	798
 植龍	vi;mv ls;dg	797
+植龍	vi;mv ls;lg	797
 菌體蛋白	jp;ch ti;gd dj;ip bl;pa	796
 牽牛子	qm;dn nq;pa zi;aa	792
+四值	si;uh vi;rv	791
 四值	si;ke vi;rv	791
+四值	si;aa vi;rv	791
 燈蛾	dg;hd ee;iw	787
 雜骨	za;vm gu;ob	781
 黑漂	hz;ha pc;dp	765
+朗德鵝	lh;ol de;rx ee;nw	761
 朗德鵝	lh;ol de;xx ee;nw	761
+朗德鵝	lh;yl de;rx ee;nw	761
+朗德鵝	lh;yl de;xx ee;nw	761
 裂殖	lx;yl vi;dv	757
 遠程鴿	yr;zy ig;hi ge;nh	747
+肉驢	rb;ud lv;ml	745
 肉驢	rb;ad lv;ml	745
+肉驢	rb;kr lv;ml	745
+臺灣牛	tl;uv wj;dw nq;pa	741
+臺灣牛	tl;uv wj;dw nq;pu	741
 臺灣牛	tl;uv wj;dg nq;pa	741
+臺灣牛	tl;uv wj;dg nq;pu	741
 長毛貓	ih;ad mk;pg mk;vm	735
+長毛貓	ih;hd mk;pg mk;vm	735
+角甲	jc;dy jw;ru	733
+角甲	jc;dy jw;uu	733
+角甲	jc;dy jw;oa	733
 角甲	jc;dy jw;aa	733
+獵狐犬	lx;ql hu;qg qr;ad	731
+獵狐犬	lx;ql hu;qg qr;hd	731
 獵狐犬	lx;ql hu;qg qr;dd	731
 硬鱗	yy;ug ln;yl	729
+獅子滾繡球	ui;qu zi;vh gp;dy xq;ss qq;wq	727
+獅子滾繡球	ui;qu zi;vh gp;dg xq;ss qq;wq	727
+獅子滾繡球	ui;qu zi;aa gp;dy xq;ss qq;wq	727
 獅子滾繡球	ui;qu zi;aa gp;dg xq;ss qq;wq	727
+沙苑子	ua;du yr;ce zi;vh	726
 沙苑子	ua;du yr;ce zi;aa	726
+沙苑子	ua;du yr;cy zi;vh	726
+沙苑子	ua;du yr;cy zi;aa	726
 魚膠原蛋白	yu;dd jc;ol yr;ix dj;ip bl;pa	725
 錢串子	qm;jj ir;aa zi;aa	725
 威爾士柯基	wz;gn er;ay ui;aa ke;mk ji;tq	721
 動物克隆	ds;lv wu;nw ke;ux ls;eu	706
+動物克隆	ds;lv wu;nw ke;eg ls;eu	706
 轉節	vr;iv jx;vj	703
 外套膜	wl;xb tk;di mo;om	702
+外套膜	wl;xb tk;di mo;ym	702
+毛冠鹿	mk;pg gr;bc lu;lb	701
 毛冠鹿	mk;pg gr;bc lu;gb	701
+冠毛犬	gr;bc mk;pg qr;ad	694
+冠毛犬	gr;bc mk;pg qr;hd	694
 冠毛犬	gr;bc mk;pg qr;dd	694
 印隨	yn;ey sv;es	693
+印隨	yn;pe sv;es	693
 夜行性動物	ye;wd xy;xd xy;xu ds;lv wu;nw	692
 偶蹄動物	ou;ry ti;zd ds;lv wu;nw	688
 乾泰	qm;qu tl;uf	680
 珍菊降壓片	vf;wp ju;cj jd;ef ya;ty pm;pa	673
 新疆虎	xn;jq jd;gj hu;hj	668
+南猿	nj;uy yr;qy	665
+南猿	nj;uu yr;qy	665
 南猿	nj;ua yr;qy	665
 恐龍足跡	ks;xg ls;dg zu;kv ji;zy	659
+恐龍足跡	ks;xg ls;lg zu;kv ji;zy	659
+牡鹿	mu;nt lu;lb	659
 牡鹿	mu;nt lu;gb	659
+巖鴿	yj;uy ge;nh	656
 巖鴿	yj;ug ge;nh	656
+蒙古草原狼	mg;cu gu;uk ck;cz yr;ix lh;ql	653
 蒙古草原狼	mg;cm gu;uk ck;cz yr;ix lh;ql	653
 英國古代牧羊犬	yy;cy go;kh gu;uk dl;ry mu;nw yh;da qr;dd	647
 灰鯨	hv;hu jy;yj	644
+灰鯨	hv;uh jy;yj	644
 蘇格蘭摺耳貓	su;ch ge;mg lj;cj ve;fb er;aa mk;vm	644
 玳玳花	dl;wd dl;wd hw;ch	644
 莽牯朱蛤	mh;cc gu;ng vu;pw ha;ih	641
+滑子蘑	hw;dg zi;vh mo;cm	637
 滑子蘑	hw;dg zi;aa mo;cm	637
 空腸彎曲菌	ks;bg ih;oy wj;gs qu;aa jp;ch	635
+小瓜蟲	xc;ud gw;pd is;ii	633
 小瓜蟲	xc;ad gw;pd is;ii	633
+雜食性動物	za;vm ui;pd xy;xu ds;lv wu;nw	633
 雜食性動物	za;vm ui;rl xy;xu ds;lv wu;nw	633
+鹿科動物	lu;lb ke;hd ds;lv wu;nw	629
 鹿科動物	lu;gb ke;hd ds;lv wu;nw	629
+魔蜥	mo;gm xi;ix	628
 魔蜥	mo;mg xi;ix	628
+蚦	rj;ih	628
+蚦	rj;ir	628
 蚦	rj;ia	628
 毛翅	mk;pg ii;yv	628
+毛翅	mk;pg ii;vy	628
+椰心葉甲	ye;my xn;dd ye;cm jw;ru	625
+椰心葉甲	ye;my xn;dd ye;cm jw;uu	625
+椰心葉甲	ye;my xn;dd ye;cm jw;oa	625
 椰心葉甲	ye;my xn;dd ye;cm jw;aa	625
 黑犀牛	hz;ha xi;nu nq;pa	623
 檞寄生	jx;mj ji;bq ug;na	621
+檞寄生	jx;mj ji;bq ug;nh	621
 喹乙醇	kv;kk yi;aa ip;yx	616
+喹乙醇	kv;kk yi;yy ip;yx	616
+喹乙醇	kv;kk yi;vv ip;yx	616
 披毛犀	pi;fp mk;pg xi;nu	615
+披毛犀	pi;fp mk;pg xi;un	615
 分蜂	ff;db fg;if	614
+分蜂	ff;bd fg;if	614
 根黴	gf;mg mz;xw	613
+根黴	gf;mg mz;rw	613
 兩棲爬行動物	ld;ar qi;mq pa;vb xy;xd ds;lv wu;nw	609
 釣魚島列島	dc;ju yu;dd dk;nu lx;dd dk;nu	605
+食蟲植物	ui;pd is;ii vi;mv wu;nw	592
 食蟲植物	ui;rl is;ii vi;mv wu;nw	592
 嗜鹽菌	ui;ko yj;ml jp;ch	590
 印支虎	yn;ey vi;uy hu;hj	580
+印支虎	yn;pe vi;uy hu;hj	580
 紐芬蘭犬	nq;si ff;cf lj;cj qr;dd	579
+亞單位疫苗	ya;hh dj;kd wz;rl yi;bu mc;ct	577
 亞單位疫苗	ya;aa dj;kd wz;rl yi;bu mc;ct	577
 腔棘魚	qd;ok ji;cc yu;dd	575
 臺灣石	tl;uv wj;dg ui;kp	567
+幽蝶	yb;uy dx;iy	565
 幽蝶	yb;uy dx;im	565
 有袋類	yb;ou dl;yd lz;yl	565
 威爾士柯基犬	wz;gn er;ay ui;aa ke;mk ji;tq qr;dd	563
+幾維	ji;yd wz;sv	559
+幾維	ji;yu wz;sv	559
 幾維	ji;yg wz;sv	559
+幾維	ji;zd wz;sv	559
 貓爪草	mk;vm vk;pd ck;cz	555
 鉛丹	qm;jk dj;pd	554
 赤潮生物	ii;tb ik;di ug;na wu;nw	553
+赤潮生物	ii;tb ik;di ug;nh wu;nw	553
+赤潮生物	ii;ty ik;di ug;na wu;nw	553
+赤潮生物	ii;ty ik;di ug;nh wu;nw	553
 榛雞	vf;mq ji;vx	550
 恐龍腳印	ks;xg ls;dg jc;oq yn;ey	550
 水墨黑	uv;ad mo;th hz;ha	550
@@ -260,87 +484,167 @@ use_preset_vocabulary: false
 腦脊髓液	nk;oi ji;od sv;gs ye;dy	541
 鮟鱇	an;ya kh;yk	541
 布偶貓	bu;ju ou;ry mk;vm	539
+布偶貓	bu;uj ou;ry mk;vm	539
+偶蹄類	ou;ry ti;zd lz;yq	537
 偶蹄類	ou;ry ti;zd lz;yl	537
+車輪蟲	ie;hh lp;il is;ii	531
 車輪蟲	ie;aa lp;il is;ii	531
+露脊鯨	lu;yl ji;yu jy;yj	530
+露脊鯨	lu;yl ji;yr jy;yj	530
 露脊鯨	lu;yl ji;od jy;yj	530
+露脊鯨	lu;yl ji;yd jy;yj	530
+露脊鯨	lu;yl ji;or jy;yj	530
+石葦	ui;pk wz;cw	528
+石葦	ui;hh wz;cw	528
+石葦	ui;aa wz;cw	528
+石葦	ui;ak wz;cw	528
 石葦	ui;kp wz;cw	528
 施計謀	ui;fy ji;yu mb;ym	526
 美利奴羊	mz;dy li;dh nu;ny yh;da	520
 犬瘟熱病毒	qr;dd wf;bm re;hv by;bb du;fm	518
 三葉蟲化石	sj;aa ye;cm is;ii hw;rb ui;kp	516
 胃毒作用	wz;ot du;fm zo;rv ys;kf	506
+胃毒作用	wz;yt du;fm zo;rv ys;kf	506
+胃毒作用	wz;ty du;fm zo;rv ys;kf	506
+胃毒作用	wz;to du;fm zo;rv ys;kf	506
 英國鬥牛犬	yy;cy go;kh db;aa nq;pa qr;dd	505
 雄蠶蛾	xs;vh cj;io ee;iw	504
 海刺蔘	hl;dm ci;dc cj;cc	503
+茺蔚子	is;ci wz;cw zi;vh	502
 茺蔚子	is;ci wz;cw zi;aa	502
 俞君英	yu;rd jp;ky yy;cy	499
+俞君英	yu;ry jp;ky yy;cy	499
+小杜鵑	xc;ud du;mt jr;no	493
+小杜鵑	xc;ud du;mt jr;ny	493
 小杜鵑	xc;ad du;mt jr;no	493
+小杜鵑	xc;ad du;mt jr;ny	493
 山東省海洋與漁業廳	uj;aa ds;ad ug;ou hl;dm yh;dy yu;ba yu;dy ye;yl ty;gt	487
 喹烯酮	kv;kk xi;hx ts;yt	483
 獨角犀牛	du;qi jc;dy xi;nu nq;pa	482
+野牛草	ye;ly nq;pa ck;cz	479
+野牛草	ye;ly nq;pu ck;cz	479
 野牛草	ye;yl nq;pa ck;cz	479
+野牛草	ye;yl nq;pu ck;cz	479
+魚醫	yu;dh yi;yy	478
+魚醫	yu;dh yi;yu	478
+魚醫	yu;dd yi;yy	478
 魚醫	yu;dd yi;yu	478
+灰蝶	hv;hu dx;iy	478
 灰蝶	hv;hu dx;im	478
+灰蝶	hv;uh dx;iy	478
+灰蝶	hv;uh dx;im	478
 大骨雞	da;hd gu;ob ji;vx	475
 小薩摩	xc;ad sa;ci mo;mu	470
 閒角	xm;mo jc;dy	468
+閒角	xm;my jc;dy	468
 新城疫病毒	xn;jq ig;ti yi;bu by;bb du;fm	468
 冠鶴	gr;bc he;nv	464
 瘧蚊	nt;bn wf;iw	464
+腳圈	jc;yq qr;kj	456
 腳圈	jc;oq qr;kj	456
 中國小鯢	vs;aa go;kh xc;ad ni;ye	453
+槍獵犬	qd;mc lx;ql qr;ad	451
+槍獵犬	qd;mc lx;ql qr;hd	451
 槍獵犬	qd;mc lx;ql qr;dd	451
 自貢恐龍博物館	zi;pa gs;bg ks;xg ls;dg bo;uc wu;nw gr;ug	449
+孢子蟲病	bk;zb zi;vh is;ii by;bb	444
 孢子蟲病	bk;zb zi;aa is;ii by;bb	444
+商品鵝	uh;dk pn;kk ee;nw	442
+商品鵝	uh;lk pn;kk ee;nw	442
 商品鵝	uh;wk pn;kk ee;nw	442
 鹿銜草	lu;gb xm;xi ck;cz	442
 眼蟲	yj;og is;ii	440
+眼蟲	yj;mg is;ii	440
 搖蚊	yk;ff wf;iw	439
 保潔淨	bk;rd jx;dj jy;dv	426
+保潔淨	bk;rd jx;ds jy;dv	426
+閉殼肌	bi;mc ke;uj ji;yj	419
 閉殼肌	bi;mc ke;uj ji;oj	419
+偶蹄目	ou;ry ti;zd mu;mu	419
+偶蹄目	ou;ry ti;zd mu;om	419
+偶蹄目	ou;ry ti;zd mu;uh	419
 偶蹄目	ou;ry ti;zd mu;aa	419
 窄譜	vl;bv pu;yp	417
+窄譜	vl;xv pu;yp	417
 晶體敵百蟲	jy;oo ti;gd di;wd bl;ab is;ii	415
+牛蠅	nq;pa yy;sh	413
 牛蠅	nq;pa yy;im	413
+牛蠅	nq;pu yy;sh	413
+牛蠅	nq;pu yy;im	413
 潛葉蠅	qm;do ye;cm yy;im	408
 崗梅	gh;ug mz;mm	408
 迷你杜賓	mi;zm ni;re du;mt bn;bb	405
 防止虐待動物協會	fh;ef vi;aa nt;ha dl;xs ds;lv wu;nw xx;ul hv;ro	404
+中國貓	vs;ka go;kh mk;vm	403
+中國貓	vs;ku go;kh mk;vm	403
+中國貓	vs;uu go;kh mk;vm	403
 中國貓	vs;aa go;kh mk;vm	403
 法國鬥牛犬	fa;dq go;kh db;aa nq;pa qr;dd	398
 蘇格蘭梗	su;ch ge;mg lj;cj gg;mg	398
+蘇格蘭梗	su;ch ge;mg lj;cl gg;mg	398
+蘇格蘭梗	su;cs ge;mg lj;cj gg;mg	398
+蘇格蘭梗	su;cs ge;mg lj;cl gg;mg	398
+梅花鹿之鄉	mz;mm hw;ch lu;lb vi;dd xd;xl	398
+梅花鹿之鄉	mz;mm hw;ch lu;lb vi;dd xd;el	398
+梅花鹿之鄉	mz;mm hw;ch lu;gb vi;dd xd;xl	398
 梅花鹿之鄉	mz;mm hw;ch lu;gb vi;dd xd;el	398
 中華對角羚	vs;aa hw;ca dv;ct jc;dy ly;yl	398
 長江水產研究所	ih;ad jd;dg uv;ad ij;wu yj;uk jq;bj so;jh	396
 貝希摩斯	bz;ad xi;ju mo;mu si;jq	396
+椰子蟹	ye;my zi;vh xx;ij	395
 椰子蟹	ye;my zi;aa xx;ij	395
 鹽酸金剛烷胺	yj;ml sr;yj jn;ra gh;dg wj;hw an;oa	394
+山地大猩猩	uj;uu di;ty da;ad xy;qx xy;qx	393
+山地大猩猩	uj;uu di;ty da;hd xy;qx xy;qx	393
+山地大猩猩	uj;aa di;ty da;ad xy;qx xy;qx	393
 山地大猩猩	uj;aa di;ty da;hd xy;qx xy;qx	393
 小尾寒羊養殖	xc;ad wz;um hj;bd yh;da yh;yl vi;dv	393
 犛牛毛	mk;ni nq;pa mk;pg	391
 賈第蟲	jw;xb di;vp is;ii	387
 蘇柏羊齒	su;ch bl;mb yh;da ii;vk	384
+蘇柏羊齒	su;ch bl;mb yh;du ii;vk	384
+蘇柏羊齒	su;cs bl;mb yh;da ii;vk	384
+蘇柏羊齒	su;cs bl;mb yh;du ii;vk	384
+清江魚	qy;dq jd;dg yu;dh	384
 清江魚	qy;dq jd;dg yu;dd	384
+山羌	uj;uu qd;yg	380
 山羌	uj;aa qd;yg	380
 鮠	wz;yw	379
 中國冠毛犬	vs;aa go;kh gr;bc mk;pg qr;dd	374
+感覺管	gj;xx jt;jj gr;vg	374
 感覺管	gj;xx jt;jb gr;vg	374
 牛鯊	nq;pa ua;yu	373
+牛鯊	nq;pu ua;yu	373
+靈樞經	ly;wl uu;mq jy;sj	373
 靈樞經	ly;wl uu;mq jy;sg	373
+靈樞經	ly;yw uu;mq jy;sj	373
+靈樞經	ly;yw uu;mq jy;sg	373
 鴴	hg;nx	370
 全蝦	qr;rw xw;ij	366
+高效氯氰菊酯	gk;dk xc;wj lv;ql qy;qq ju;cj vi;yv	365
+高效氯氰菊酯	gk;dk xc;wj lv;ql qy;qq ju;cm vi;yv	365
 高效氯氰菊酯	gk;wk xc;wj lv;ql qy;qq ju;cj vi;yv	365
+高效氯氰菊酯	gk;wk xc;wj lv;ql qy;qq ju;cm vi;yv	365
+拳參	qr;ju cj;sp	364
 拳參	qr;uf cj;sp	364
 佔有面積	vj;rv yb;ou mm;aa ji;hz	364
+小膜	xc;ud mo;om	361
+小膜	xc;ud mo;ym	361
 小膜	xc;ad mo;om	361
+小膜	xc;ad mo;ym	361
 蠪侄	ls;il vi;rv	357
 超遠程鴿	ik;zv yr;zy ig;hi ge;nh	355
 養魚經	yh;yl yu;dd jy;sg	354
 陸生脊椎動物	lu;et ug;na ji;od vv;mv ds;lv wu;nw	352
 蠵	xi;ij	351
+蠵	xi;ik	351
 指狗	vi;fv gb;qj	350
 昆蟲病毒	kp;ob is;ii by;bb du;fm	350
+昆蟲病毒	kp;rb is;ii by;bb du;fm	350
 全息胚	qr;rw xi;xz pz;op	349
+全息胚	qr;rw xi;xz pz;yp	349
+全息胚	qr;rw xi;zx pz;op	349
+全息胚	qr;rw xi;zx pz;yp	349
 澳大利亞更	ao;da da;hd li;dh ya;aa gg;ad	347
 櫛孔扇貝	vi;mj ks;zg uj;hy bz;ad	345
 舟蛾	vb;pd ee;iw	342
@@ -349,59 +653,99 @@ use_preset_vocabulary: false
 竊蛋龍	qx;bs dj;ip ls;dg	333
 短尾猿	dr;ud wz;um yr;qy	325
 遲髮型變態反應	ii;zn fa;bb xy;tx bm;ws tl;xn fj;py yy;gx	323
+眼蝶	yj;og dx;iy	323
 眼蝶	yj;og dx;im	323
+眼蝶	yj;mg dx;iy	323
+眼蝶	yj;mg dx;im	323
 轉基因豬	vr;iv ji;tq yn;kd vu;uv	322
+轉基因豬	vr;iv ji;qt yn;kd vu;uv	322
+野木瓜	ye;ly mu;ad gw;pd	322
+野木瓜	ye;ly mu;hd gw;pd	322
 野木瓜	ye;yl mu;ad gw;pd	322
+野木瓜	ye;yl mu;hd gw;pd	322
 恐龍足跡化石	ks;xg ls;dg zu;kv ji;zy hw;rb ui;kp	321
 洋杜鵑	yh;dy du;mt jr;no	319
+洋杜鵑	yh;dy du;mt jr;ny	319
 恐怖蟲	ks;xg bu;xb is;ii	318
 世界動物日	ui;ca jx;tj ds;lv wu;nw ri;aa	317
 前胸背板	qm;bd xs;ox bz;ob bj;mf	315
 水稻病蟲害防治	uv;ad dk;hj by;bb is;ii hl;bk fh;ef vi;dt	311
 牛科動物	nq;pa ke;hd ds;lv wu;nw	308
+牛科動物	nq;pu ke;hd ds;lv wu;nw	308
 瓣胃	bj;gx wz;ot	300
 蠵龜	xi;ij gv;pa	299
+蠵龜	xi;ij gv;ph	299
+蠵龜	xi;ik gv;pa	299
+蠵龜	xi;ik gv;ph	299
+高位獎	gk;dk wz;rl jd;qj	299
 高位獎	gk;wk wz;rl jd;qj	299
 白頰長臂猿	bl;pa jw;yj ih;ad bi;ob yr;qy	299
 孤雌生殖	gu;zg ci;vc ug;na vi;dv	296
+孤雌生殖	gu;zg ci;vc ug;nh vi;dv	296
 新灰	xn;jq hv;hu	293
-鷹眼睛	yy;gn yj;og jy;oq	290
+新灰	xn;jq hv;uh	293
+鷹眼睛	yy;nv yj;og jy;oq	290
 國家重點保護野生動物名錄	go;kh jw;bu vs;pa dm;hv bk;rd hu;yh ye;yl ug;na ds;lv wu;nw my;xk lu;jl	290
 英國可卡犬	yy;cy go;kh ke;dk ka;ub qr;dd	289
+新加坡動物園	xn;jq jw;lk po;tp ds;lv wu;nw yr;ky	287
 新加坡動物園	xn;jq jw;kl po;tp ds;lv wu;nw yr;ky	287
 東北梅花鹿	ds;ad bz;ap mz;mm hw;ch lu;gb	286
+生態效率	ug;na tl;xn xc;wj lv;du	285
 生態效率	ug;na tl;xn xc;wj lv;wu	285
+生態效率	ug;nh tl;xn xc;wj lv;du	285
+生態效率	ug;nh tl;xn xc;wj lv;wu	285
 輻射對稱	fu;if ue;cu dv;ct if;hr	282
+三角帆蚌	sj;hh jc;dy fj;jf bh;if	280
 三角帆蚌	sj;aa jc;dy fj;jf bh;if	280
 喫貓鼠	ii;kq mk;vm uu;ju	279
 黑白魔	hz;ha bl;pa mo;mg	279
 紅詹森	hs;sg vj;yb sf;ml	277
+紅詹森	hs;sg vj;dy sf;ml	277
 複方磺胺甲噁唑	fu;yf fh;wd hd;uh an;oa jw;aa ee;ke zo;kz	277
+渦蟲	wo;dk is;ii	275
 渦蟲	wo;dg is;ii	275
 西部高地白梗	xi;aa bu;ek gk;wk di;ty bl;pa gg;mg	272
 彩虹精靈	cl;pc hs;ig jy;mq ly;wl	272
+彩虹精靈	cl;pc hs;ig jy;mq ly;yw	272
 蟻蠶	yi;iy cj;io	270
+蟻蠶	yi;iy cj;iq	270
+蟻蠶	yi;iy cj;ir	270
+食用鴿	ui;pd ys;kf ge;nh	269
 食用鴿	ui;rl ys;kf ge;nh	269
+獨居動物	du;qu ju;ug ds;lv wu;nw	269
 獨居動物	du;qi ju;ug ds;lv wu;nw	269
 寵物飾品	is;bl wu;nw ui;uj pn;kk	268
 皇家極地海洋世界	hd;bw jw;bu ji;ma di;ty hl;dm yh;dy ui;ca jx;tj	267
 模式動物	mo;mm ui;yg ds;lv wu;nw	264
+模式動物	mo;mm ui;gy ds;lv wu;nw	264
 直翅目	vi;aa ii;yv mu;aa	263
 中華蜜蜂	vs;aa hw;ca mi;ib fg;if	263
 臘瑪古猿	la;ol ma;wm gu;uk yr;qy	261
+臘瑪古猿	la;yl ma;wm gu;uk yr;qy	261
 鮋	yb;yy	261
 委陵菜	wz;hn ly;el cl;cc	261
+委陵菜	wz;hn ly;ew cl;cc	261
 列文虎克	lx;dd wf;dd hu;hj ke;ux	259
+列文虎克	lx;dd wf;dd hu;hj ke;eg	259
+寵物健康護理員	is;bl wu;nw jm;rj kh;gl hu;yy li;wl yr;kb	258
 寵物健康護理員	is;bl wu;nw jm;rj kh;gl hu;yh li;wl yr;kb	258
 溪蟹	xi;dx xx;ij	256
 葦鶯	wz;cw yy;hn	256
+葦鶯	wz;cw yy;nb	256
 鳥類棲息地	nc;pd lz;yl qi;mq xi;xz di;ty	254
 魯西牛	lu;yo xi;aa nq;pa	253
 河源龍	he;dk yr;dy ls;dg	251
+河源龍	he;dk yr;dy ls;lg	251
 鸊鷉	pi;nb ti;nh	250
+鸊鷉	pi;nx ti;nh	250
+脛節	jy;yj jx;vj	249
+脛節	jy;oj jx;vj	249
+脛節	jy;yg jx;vj	249
 脛節	jy;og jx;vj	249
+梅魚	mz;mm yu;dh	248
 梅魚	mz;mm yu;dd	248
 鶲	wg;nw	246
+盆景貓	pf;mf jy;rj mk;vm	242
 盆景貓	pf;mf jy;oj mk;vm	242
 象鼻蚌	xd;du bi;zb bh;if	242
 石金錢	ui;kp jn;ra qm;jj	239
@@ -409,80 +753,138 @@ use_preset_vocabulary: false
 非洲野貓	fz;aa vb;dv ye;yl mk;vm	239
 蒙托克怪獸	mg;cm to;fq ke;ux gy;xu ub;qu	238
 嬰猴	yy;nb hb;qh	236
+蒙古紅	mg;cu gu;uk hs;sg	235
 蒙古紅	mg;cm gu;uk hs;sg	235
 毒獴	du;fm mg;qm	234
 水陸兩棲動物	uv;ad lu;et ld;ar qi;mq ds;lv wu;nw	232
 蚖	yr;iy	231
+海綿動物	hl;dm mm;sj ds;lv wu;nw	231
 海綿動物	hl;dm mm;sb ds;lv wu;nw	231
+小瓜蟲病	xc;ud gw;pd is;ii by;bb	230
 小瓜蟲病	xc;ad gw;pd is;ii by;bb	230
 九孔鮑	jq;py ks;zg bk;yb	229
+黃緣盒龜	hd;cb yr;su he;mh gv;pa	229
+黃緣盒龜	hd;cb yr;su he;mh gv;ph	229
 黃緣盒龜	hd;cb yr;st he;mh gv;pa	229
+黃緣盒龜	hd;cb yr;st he;mh gv;ph	229
+對轉子	dv;ct vr;iv zi;vh	229
 對轉子	dv;ct vr;iv zi;aa	229
+對轉子	dv;cw vr;iv zi;vh	229
+對轉子	dv;cw vr;iv zi;aa	229
 貓眼草	mk;vm yj;og ck;cz	228
+貓眼草	mk;vm yj;mg ck;cz	228
 惡性瘧原蟲	ee;xy xy;xu nt;bn yr;ix is;ii	227
 蛙戰	wa;ig vj;gd	222
 硬珊瑚	yy;ug uj;wc hu;wh	218
 約克夏梗	yt;su ke;ux xw;wz gg;mg	218
+歐洲野牛	ou;qq vb;dv ye;ly nq;pa	217
+歐洲野牛	ou;qq vb;dv ye;ly nq;pu	217
 歐洲野牛	ou;qq vb;dv ye;yl nq;pa	217
+歐洲野牛	ou;qq vb;dv ye;yl nq;pu	217
 豨薟草	xi;ux xm;cq ck;cz	214
 舊院黑雞	jq;cj yr;ew hz;ha ji;vx	214
 員工幸福	yr;kb gs;aa xy;tu fu;uf	212
+藥物耐受性	yk;cl wu;nw nl;ce ub;yb xy;xu	211
 藥物耐受性	yk;cl wu;nw nl;ce ub;vy xy;xu	211
+藥物耐受性	yk;cy wu;nw nl;ce ub;yb xy;xu	211
+藥物耐受性	yk;cy wu;nw nl;ce ub;vy xy;xu	211
 液體蛋氨酸	ye;dy ti;gd dj;ip an;qa sr;yj	211
+蘆淞市場	lu;cl ss;ds ui;dj ih;ty	211
 蘆淞市場	lu;cl ss;ds ui;wj ih;ty	211
 白眉長臂猿	bl;pa mz;om ih;ad bi;ob yr;qy	211
 狗搖尾巴	gb;qj yk;ff wz;um ba;ag	210
+狗搖尾巴	gb;qj yk;ff wz;um ba;vg	210
+狗搖尾巴	gb;qj yk;ff wz;um ba;kg	210
 狸奴	li;ql nu;ny	209
 松鼠尾	ss;mg uu;ju wz;um	209
 德保矮馬	de;xx bk;rd ai;uw ma;ad	207
 轉基因牛	vr;iv ji;tq yn;kd nq;pa	206
+轉基因牛	vr;iv ji;tq yn;kd nq;pu	206
+轉基因牛	vr;iv ji;qt yn;kd nq;pa	206
+轉基因牛	vr;iv ji;qt yn;kd nq;pu	206
+亞河豚	ya;hh he;dk tp;ou	206
+亞河豚	ya;hh he;dk tp;yu	206
 亞河豚	ya;aa he;dk tp;ou	206
+亞河豚	ya;aa he;dk tp;yu	206
+海洋軟體動物	hl;dm yh;dy rr;iq ti;gl ds;lv wu;nw	205
 海洋軟體動物	hl;dm yh;dy rr;iq ti;gd ds;lv wu;nw	205
 日本犬	ri;aa bf;aa qr;dd	204
 有袋類動物	yb;ou dl;yd lz;yl ds;lv wu;nw	204
 聚維酮碘溶液	ju;qd wz;sv ts;yt dm;ud rs;dr ye;dy	204
+聚維酮碘溶液	ju;ed wz;sv ts;yt dm;ud rs;dr ye;dy	204
+聚維酮碘溶液	ju;yq wz;sv ts;yt dm;ud rs;dr ye;dy	204
+聚維酮碘溶液	ju;ey wz;sv ts;yt dm;ud rs;dr ye;dy	204
 臺烏藥	tl;uv wu;pd yk;cl	204
+臺烏藥	tl;uv wu;pd yk;cy	204
+臺烏藥	tl;uv wu;ph yk;cl	204
+臺烏藥	tl;uv wu;ph yk;cy	204
 旅鴿	lv;fp ge;nh	203
+寵物公墓	is;bl wu;nw gs;sb mu;ct	203
 寵物公墓	is;bl wu;nw gs;sb mu;tm	203
+寵物公墓	is;bl wu;nw gs;bs mu;ct	203
+寵物公墓	is;bl wu;nw gs;bs mu;tm	203
 武安山羊	wu;yv an;bn uj;aa yh;da	202
 祿豐龍	lu;ul fg;ud ls;dg	202
 黑胸大蠊	hz;ha xs;ox da;hd lm;il	202
 純種德國牧羊犬	ip;st vs;hv de;xx go;kh mu;nw yh;da qr;dd	201
+舞毒蛾	wu;pa du;fm ee;iw	200
 舞毒蛾	wu;rf du;fm ee;iw	200
+舞毒蛾	wu;xf du;fm ee;iw	200
+舞毒蛾	wu;pu du;fm ee;iw	200
+仙蝶	xm;ru dx;iy	200
 仙蝶	xm;ru dx;im	200
 搖蚊幼蟲	yk;ff wf;iw yb;ly is;ii	200
+搖蚊幼蟲	yk;ff wf;iw yb;yl is;ii	200
 照夜玉獅子	vk;hv ye;wd yu;wd ui;qu zi;aa	200
 毒餌站	du;fm er;ue vj;lv	197
+二溴海因	er;hh xq;di hl;dm yn;kd	196
 二溴海因	er;aa xq;di hl;dm yn;kd	196
+一角鯨	yi;hh jc;dy jy;yj	195
 一角鯨	yi;aa jc;dy jy;yj	195
 中杜鵑	vs;aa du;mt jr;no	194
 古蟲	gu;uk is;ii	193
 替卡西林	ti;of ka;ub xi;aa ln;mm	193
 指示犬	vi;fv ui;ex qr;dd	191
 箱水母	xd;vx uv;ad mu;ad	190
+虐龍	nt;hh ls;dg	190
+虐龍	nt;hh ls;lg	190
 虐龍	nt;ha ls;dg	190
+虐龍	nt;ha ls;lg	190
 顯著性影響	xm;ys vu;cv xy;xu yy;pj xd;yx	190
 防禦行爲	fh;ef yu;ue xy;xd wz;pd	188
 凹甲陸龜	ao;uh jw;aa lu;et gv;pa	187
 幾維鳥	ji;yg wz;sv nc;pd	187
 粉塵蟎	ff;mf if;lt mj;ir	186
+粉塵蟎	ff;mf if;tl mj;ir	186
 指示獵犬	vi;fv ui;ex lx;ql qr;dd	186
 喜馬拉雅貓	xi;uk ma;ad la;fl ya;vy mk;vm	183
 科爾沁牛	ke;hd er;ay qn;dx nq;pa	179
+切葉蟻	qx;qd ye;cm yi;iy	179
 切葉蟻	qx;dq ye;cm yi;iy	179
 森林古猿	sf;ml ln;mm gu;uk yr;qy	179
+心要正	xn;dd yk;xn vg;hv	179
 心要正	xn;dd yk;xn vg;av	179
 螠	yi;iy	177
 遺歐	yi;zg ou;qq	176
 地中海實蠅	di;ty vs;aa hl;dm ui;bg yy;im	176
+車輪蟲病	ie;hh lp;il is;ii by;bb	175
 車輪蟲病	ie;aa lp;il is;ii by;bb	175
 借腹懷胎	jx;rx fu;of hy;xh tl;ot	173
 潛鳥	qm;do nc;pd	173
+特異性免疫應答	te;ns yi;tg xy;xu mm;dm yi;bu yy;gx da;vh	173
+特異性免疫應答	te;ns yi;tg xy;xu mm;dm yi;bu yy;xv da;vh	173
 特異性免疫應答	te;ns yi;tg xy;xu mm;de yi;bu yy;gx da;vh	173
+特異性免疫應答	te;ns yi;tg xy;xu mm;de yi;bu yy;xv da;vh	173
 氯化烯	lv;ql hw;rb xi;hx	173
 藍舌病病毒	lj;cj ue;qk by;bb by;bb du;fm	172
+梨小食心蟲	li;ml xc;ud ui;pd xn;dd is;ii	172
+梨小食心蟲	li;ml xc;ud ui;rl xn;dd is;ii	172
+梨小食心蟲	li;ml xc;ad ui;pd xn;dd is;ii	172
 梨小食心蟲	li;ml xc;ad ui;rl xn;dd is;ii	172
+小鸊鷉	xc;ud pi;nb ti;nh	172
+小鸊鷉	xc;ud pi;nx ti;nh	172
 小鸊鷉	xc;ad pi;nb ti;nh	172
+小鸊鷉	xc;ad pi;nx ti;nh	172
 石金錢龜	ui;kp jn;ra qm;jj gv;pa	172
 塔里木馬鹿	ta;td li;aa mu;ad ma;ad lu;gb	171
 緬陸	mm;sm lu;et	171
@@ -493,47 +895,90 @@ use_preset_vocabulary: false
 鮊	ba;yb	168
 蝜蝂	fu;if bj;ib	168
 硬殼蟲	yy;ug ke;uj is;ii	167
+赤頸	ii;tb jy;yj	167
 赤頸	ii;tb jy;yg	167
+赤頸	ii;ty jy;yj	167
+赤頸	ii;ty jy;yg	167
+古盜鳥	gu;uk dk;mq nc;pd	166
+古盜鳥	gu;uk dk;mq nc;ph	166
 古盜鳥	gu;uk dk;mc nc;pd	166
+古盜鳥	gu;uk dk;mc nc;ph	166
 牡丹蝦	mu;nt dj;pd xw;ij	166
 尾芽	wz;um ya;cy	166
+習魚	xi;by yu;dh	164
 習魚	xi;by yu;dd	164
+習魚	xi;yb yu;dh	164
+習魚	xi;yb yu;dd	164
 鬐甲	qi;bo jw;aa	163
 淡水漁業研究中心	dj;dy uv;ad yu;dy ye;yl yj;uk jq;bj vs;aa xn;dd	163
+海膽	hl;dm dj;oy	163
+海膽	hl;dm dj;yv	163
+海膽	hl;dm dj;yy	163
 海膽	hl;dm dj;ov	163
 昆蟲蛋白	kp;ob is;ii dj;ip bl;pa	163
 金毛羚牛	jn;ra mk;pg ly;yl nq;pa	161
+玄牡	xr;dy mu;nt	161
 玄牡	xr;wy mu;nt	161
 泥雞	ni;dn ji;vx	160
 安全濃度	an;bn qr;rw ns;dn du;gy	159
+四角蛤	si;uh jc;dy ha;ih	159
 四角蛤	si;ke jc;dy ha;ih	159
+四角蛤	si;aa jc;dy ha;ih	159
 實驗動物房	ui;bg yj;mq ds;lv wu;nw fh;hf	159
 北極燕鷗	bz;ap ji;ma yj;hb ou;nq	158
 毛細線蟲病	mk;pg xi;st xm;sq is;ii by;bb	158
 鱗翅目幼蟲	ln;yl ii;yv mu;aa yb;ly is;ii	158
 蛋氨酸鋅	dj;ip an;qa sr;yj xn;jx	157
+蛋氨酸鋅	dj;ip an;qa sr;yw xn;jx	157
+蛋氨酸鋅	dj;pi an;qa sr;yj xn;jx	157
+蛋氨酸鋅	dj;pi an;qa sr;yw xn;jx	157
+赴臺大熊貓	fu;zb tl;uv da;ad xs;hn mk;vm	157
+赴臺大熊貓	fu;zb tl;uv da;ad xs;dn mk;vm	157
 赴臺大熊貓	fu;zb tl;uv da;hd xs;hn mk;vm	157
+赴臺大熊貓	fu;zb tl;uv da;hd xs;dn mk;vm	157
 香豆精類	xd;ho db;aa jy;mq lz;yl	157
+施一公	ui;fy yi;hh gs;sb	156
+施一公	ui;fy yi;hh gs;bs	156
 施一公	ui;fy yi;aa gs;sb	156
+施一公	ui;fy yi;aa gs;bs	156
 爪蛙	vk;pd wa;ig	154
+鴨病毒性肝炎	ya;nj by;bb du;fm xy;xu gj;yg yj;hh	153
 鴨病毒性肝炎	ya;nj by;bb du;fm xy;xu gj;og yj;hh	153
+魔鬼蛙	mo;gm gv;pd wa;ig	153
+魔鬼蛙	mo;gm gv;ps wa;ig	153
 魔鬼蛙	mo;mg gv;pd wa;ig	153
+魔鬼蛙	mo;mg gv;ps wa;ig	153
 鮣	yn;yy	153
+蒙山全蠍	mg;cu uj;uu qr;rw xx;ix	152
+蒙山全蠍	mg;cu uj;aa qr;rw xx;ix	152
+蒙山全蠍	mg;cm uj;uu qr;rw xx;ix	152
 蒙山全蠍	mg;cm uj;aa qr;rw xx;ix	152
 星鼻鼴	xy;ou bi;zb yj;un	152
 植物羊	vi;mv wu;nw yh;da	151
+植物羊	vi;mv wu;nw yh;du	151
 沙錢	ua;du qm;jj	151
 漂浮植物	pc;dp fu;df vi;mv wu;nw	151
+鹿娃	lu;lb wa;ng	151
 鹿娃	lu;gb wa;ng	151
+鍬甲	qc;jq jw;ru	150
+鍬甲	qc;jq jw;uu	150
+鍬甲	qc;jq jw;oa	150
 鍬甲	qc;jq jw;aa	150
 巴釐虎	ba;ag li;lw hu;hj	150
+巴釐虎	ba;vg li;lw hu;hj	150
+巴釐虎	ba;kg li;lw hu;hj	150
+薩摩狗	sa;cs mo;mu gb;qj	149
+薩摩狗	sa;cs mo;um gb;qj	149
 薩摩狗	sa;ci mo;mu gb;qj	149
+薩摩狗	sa;ci mo;um gb;qj	149
 暖水蝦	nr;oy uv;ad xw;ij	149
+灕江啤酒魚	li;dl jd;dg pi;kb jq;dy yu;dh	148
 灕江啤酒魚	li;dl jd;dg pi;kb jq;dy yu;dd	148
 印度星龜	yn;ey du;gy xy;ou gv;pa	148
 美國養犬俱樂部	mz;dy go;kh yh;yl qr;dd ju;rj le;bm bu;ek	147
 醫學節肢動物	yi;yu xt;jz jx;vj vi;ov ds;lv wu;nw	146
 鱸科	lu;yl ke;hd	146
+鞋樹	xx;gg uu;mu	145
 鞋樹	xx;gg uu;mc	145
 中國荷斯坦奶牛	vs;aa go;kh he;ch si;jq tj;td nl;nn nq;pa	145
 蜇蟲	ve;iv is;ii	144
@@ -544,116 +989,210 @@ use_preset_vocabulary: false
 淇河鯽	qi;dq he;dk ji;yj	142
 大野牛	da;hd ye;yl nq;pa	141
 炔蟎特	gv;hd mj;ir te;ns	141
+炔蟎特	gv;hg mj;ir te;ns	141
 安達盧西亞馬	an;bn da;zy lu;hm xi;aa ya;aa ma;ad	140
+迷你杜賓犬	mi;zm ni;re du;mt bn;bb qr;ad	140
+迷你杜賓犬	mi;zm ni;re du;mt bn;bb qr;hd	140
 迷你杜賓犬	mi;zm ni;re du;mt bn;bb qr;dd	140
 鶹	lq;nl	140
+偶鰭	ou;ry qi;yq	140
 偶鰭	ou;ry qi;yo	140
+偶鰭	ou;ry qi;yr	140
 藏狐	ch;cg hu;qg	140
+藏狐	ch;ci hu;qg	140
+郎德鵝	lh;el de;rx ee;nw	139
 郎德鵝	lh;el de;xx ee;nw	139
 珠海龍	vu;wv hl;dm ls;dg	139
+珠海龍	vu;wv hl;dm ls;lg	139
 皇家狗糧	hd;bw jw;bu gb;qj ld;ml	139
 油炸螞蚱	yb;dy va;hv ma;im va;iv	139
 滅蟲公司	mx;dh is;ii gs;sb si;gk	139
 醫生魚	yi;yu ug;na yu;dd	137
 黃沙水產交易市場	hd;cb ua;du uv;ad ij;wu jc;wf yi;ow ui;wj ih;ty	136
 泉水魚	qr;ub uv;ad yu;dd	135
+鰕虎魚	xw;yj hu;hj yu;dh	134
 鰕虎魚	xw;yj hu;hj yu;dd	134
 鼠文化	uu;ju wf;dd hw;rb	133
 機械昆蟲	ji;mj xx;mj kp;ob is;ii	133
+機械昆蟲	ji;mj xx;mj kp;rb is;ii	133
+叢猴	cs;sd hb;qh	133
+叢猴	cs;yy hb;qh	133
 叢猴	cs;yq hb;qh	133
+濾出液	lv;dl iu;ck ye;dy	132
 濾出液	lv;dl iu;uu ye;dy	132
 壽光雞	ub;uc gd;xw ji;vx	131
 效應階段	xc;wj yy;gx jx;ej dr;pu	131
 鐵莧菜	tx;jg xm;cj cl;cc	131
 箭毛	jm;vq mk;pg	129
 米格魯獵犬	mi;dd ge;mg lu;yo lx;ql qr;dd	129
+正虹集團	vg;hv hs;ig ji;mv tr;kv	129
+正虹集團	vg;hv hs;ig ji;vm tr;kv	129
+正虹集團	vg;av hs;ig ji;mv tr;kv	129
 正虹集團	vg;av hs;ig ji;vm tr;kv	129
+醫學蠕蟲	yi;yy xt;zb ru;ix is;ii	128
+醫學蠕蟲	yi;yy xt;jz ru;ix is;ii	128
+醫學蠕蟲	yi;yu xt;zb ru;ix is;ii	128
 醫學蠕蟲	yi;yu xt;jz ru;ix is;ii	128
 葎草	lv;cl ck;cz	128
 圍欄養殖	wz;kw lj;mj yh;yl vi;dv	128
+圍欄養殖	wz;kw lj;mj yh;yu vi;dv	128
+圍欄養殖	wz;kw lj;ml yh;yl vi;dv	128
+圍欄養殖	wz;kw lj;ml yh;yu vi;dv	128
 笑翠鳥	xc;vy cv;yz nc;pd	127
+笑翠鳥	xc;vy cv;yz nc;ph	127
 鸚鵡科	yy;ny wu;nw ke;hd	127
 品控員	pn;kk ks;fk yr;kb	127
 夏蠟梅	xw;wz la;il mz;mm	126
+夏蠟梅	xw;aw la;il mz;mm	126
+夏蠟梅	xw;pw la;il mz;mm	126
 豌豆蛋白粉	wj;dw db;aa dj;ip bl;pa ff;mf	126
+地邦	di;ty bh;fe	126
 地邦	di;ty bh;ef	126
 加拿大無毛貓	jw;kl na;uh da;hd wu;ha mk;pg mk;vm	125
 農業昆蟲學	ns;qi ye;yl kp;ob is;ii xt;jz	125
 藥用昆蟲	yk;cl ys;kf kp;ob is;ii	124
+藥用昆蟲	yk;cl ys;kf kp;rb is;ii	124
+藥用昆蟲	yk;cy ys;kf kp;ob is;ii	124
+藥用昆蟲	yk;cy ys;kf kp;rb is;ii	124
 東坡墨魚	ds;ad po;tp mo;th yu;dd	123
 捲毛尋回犬	jr;fj mk;pg xp;ck hv;kk qr;dd	123
 中國犀	vs;aa go;kh xi;nu	123
+鵂鶹	xq;rn lq;nl	122
 鵂鶹	xq;nx lq;nl	122
+信蝶	xn;ry dx;iy	122
 信蝶	xn;ry dx;im	122
 林龜	ln;mm gv;pa	121
+林龜	ln;mm gv;ph	121
+淇河鯽魚	qi;dq he;dk ji;yj yu;dh	121
 淇河鯽魚	qi;dq he;dk ji;yj yu;dd	121
 印度犀	yn;ey du;gy xi;nu	120
+印度犀	yn;ey du;gy xi;un	120
+印度犀	yn;pe du;gy xi;nu	120
+印度犀	yn;pe du;gy xi;un	120
 柯赫	ke;mk he;ii	120
+灘頭魚	tj;dn tb;yd yu;dh	120
+灘頭魚	tj;dn tb;yd yu;dd	120
+灘頭魚	tj;dn tb;dy yu;dh	120
 灘頭魚	tj;dn tb;dy yu;dd	120
 藪貓	sb;cu mk;vm	120
 直接發育	vi;aa jx;fq fa;du yu;os	120
+粘孢子蟲	vj;mv bk;zb zi;vh is;ii	120
 粘孢子蟲	vj;mv bk;zb zi;aa is;ii	120
 荒漠貓	hd;ci mo;dm mk;vm	119
 直立猿	vi;aa li;da yr;qy	119
+海蠍子	hl;dm xx;ix zi;vh	118
 海蠍子	hl;dm xx;ix zi;aa	118
+蜜蜂科	mi;bi fg;if ke;hd	118
 蜜蜂科	mi;ib fg;if ke;hd	118
 蜂虎	fg;if hu;hj	118
+僞狂犬病病毒	wz;rw kd;qw qr;ad by;bb by;bb du;fm	118
+僞狂犬病病毒	wz;rw kd;qw qr;hd by;bb by;bb du;fm	118
 僞狂犬病病毒	wz;rw kd;qw qr;dd by;bb by;bb du;fm	118
 敵草隆	di;wd ck;cz ls;eu	117
 蘇俄牧羊犬	su;ch ee;rw mu;nw yh;da qr;dd	117
+反虐待動物法	fj;py nt;hh dl;rs ds;lv wu;nw fa;dq	116
+反虐待動物法	fj;py nt;hh dl;xs ds;lv wu;nw fa;dq	116
+反虐待動物法	fj;py nt;ha dl;rs ds;lv wu;nw fa;dq	116
 反虐待動物法	fj;py nt;ha dl;xs ds;lv wu;nw fa;dq	116
+沙漠魚	ua;du mo;dm yu;dh	116
 沙漠魚	ua;du mo;dm yu;dd	116
 浦東雞	pu;df ds;ad ji;vx	116
+浦東雞	pu;df ds;hd ji;vx	116
+浦東雞	pu;df ds;mo ji;vx	116
+浦東雞	pu;df ds;mr ji;vx	116
 細胞介導免疫	xi;st bk;ob jx;ra dk;cd mm;de yi;bu	116
 藕節炭	ou;co jx;vj tj;uh	116
 有毒魚類	yb;ou du;fm yu;dd lz;yl	115
 圓鼻巨蜥	yr;ky bi;zb ju;aa xi;ix	115
 印度牛	yn;ey du;gy nq;pa	115
+印度牛	yn;ey du;gy nq;pu	115
+印度牛	yn;pe du;gy nq;pa	115
+印度牛	yn;pe du;gy nq;pu	115
 蟹奴	xx;ij nu;ny	114
 克羅馬農人	ke;ux lo;sv ma;ad ns;qi rf;pd	113
 牛角蜂	nq;pa jc;dy fg;if	111
+牛角蜂	nq;pu jc;dy fg;if	111
 日本秋田犬	ri;aa bf;aa qq;hh tm;aa qr;dd	110
 奧登堡馬	ao;db dg;dd bk;tb ma;ad	110
+胖嬰魚	ph;yb yy;nb yu;dh	110
+胖嬰魚	ph;yb yy;nb yu;dd	110
+胖嬰魚	ph;ob yy;nb yu;dh	110
 胖嬰魚	ph;ob yy;nb yu;dd	110
 袖珍狗	xq;yy vf;wp gb;qj	110
+花媳婦	hw;ch xi;nx fu;nv	110
 花媳婦	hw;ch xi;nx fu;nj	110
 隕石喜樂蒂	yp;ey ui;kp xi;uk le;bm di;cd	110
 蝳	du;id	110
 極顯著性差異	ji;ma xm;ys vu;cv xy;xu ia;yg yi;tg	109
+極顯著性差異	ji;mj xm;ys vu;cv xy;xu ia;yg yi;tg	109
+極顯著性差異	ji;mh xm;ys vu;cv xy;xu ia;yg yi;tg	109
 微體化石	wz;xw ti;gd hw;rb ui;kp	108
 蟅蟲	ve;iu is;ii	108
+大鵟	da;ad kd;nk	107
 大鵟	da;hd kd;nk	107
+小抹香鯨	xc;ud mo;fm xd;hr jy;yj	107
+小抹香鯨	xc;ud mo;fm xd;ho jy;yj	107
+小抹香鯨	xc;ad mo;fm xd;hr jy;yj	107
 小抹香鯨	xc;ad mo;fm xd;ho jy;yj	107
+河刀魚	he;dk dk;pg yu;dh	107
+河刀魚	he;dk dk;pg yu;dd	107
+河刀魚	he;dk dk;gp yu;dh	107
 河刀魚	he;dk dk;gp yu;dd	107
 陸禽	lu;et qn;rl	106
 扁顱蝠	bm;hc lu;yl fu;if	106
+扁顱蝠	bm;hc lu;yl fu;it	106
+緣吊	yr;su dc;kj	105
 緣吊	yr;st dc;kj	105
+兩側對稱動物	ld;hr ce;rz dv;ct if;hr ds;lv wu;nw	105
+兩側對稱動物	ld;hr ce;rz dv;cw if;hr ds;lv wu;nw	105
 兩側對稱動物	ld;ar ce;rz dv;ct if;hr ds;lv wu;nw	105
+兩側對稱動物	ld;ar ce;rz dv;cw if;hr ds;lv wu;nw	105
 犬隻飼養	qr;dd vi;vy si;us yh;yl	104
 鰓腔	sl;ys qd;ok	104
+鰓腔	sl;ys qd;yk	104
+馬岡鵝	ma;hh gh;ku ee;nw	104
 馬岡鵝	ma;ad gh;ku ee;nw	104
+馬岡鵝	ma;hd gh;ku ee;nw	104
+馬岡鵝	ma;ah gh;ku ee;nw	104
 白尾鹿	bl;pa wz;um lu;gb	103
 珍珠雞苗	vf;wp vu;wv ji;vx mc;ct	103
 煅龍牡	dr;hd ls;dg mu;nt	102
+煅龍牡	dr;hd ls;lg mu;nt	102
+蠍子養殖	xx;ix zi;vh yh;yl vi;dv	102
+蠍子養殖	xx;ix zi;vh yh;yu vi;dv	102
 蠍子養殖	xx;ix zi;aa yh;yl vi;dv	102
+蠍子養殖	xx;ix zi;aa yh;yu vi;dv	102
 爪哇犀	vk;pd wa;kg xi;nu	102
+爪哇犀	vk;pd wa;kg xi;un	102
 母性行爲	mu;ad xy;xu xy;xd wz;pd	102
 柏布馬	bl;mb bu;ju ma;ad	101
 高等靈長類	gk;wk dg;vs ly;wl vh;ad lz;yl	101
+泥丁	ni;dn dy;hu	101
 泥丁	ni;dn dy;aa	101
+蠍目	xx;ix mu;mu	101
+蠍目	xx;ix mu;om	101
+蠍目	xx;ix mu;uh	101
 蠍目	xx;ix mu;aa	101
 美國愛斯基摩犬	mz;dy go;kh ai;vw si;jq ji;tq mo;mu qr;dd	101
 嚴重分割	yj;kg vs;pa ff;db ge;dh	101
 亞成體大熊貓	ya;aa ig;gg ti;gd da;hd xs;hn mk;vm	100
+打造綠色食品	da;fd zk;zg lv;su se;db ui;pd pn;kk	100
+打造綠色食品	da;fd zk;zg lv;su se;db ui;rl pn;kk	100
+打造綠色食品	da;fd zk;zg lv;sl se;db ui;pd pn;kk	100
 打造綠色食品	da;fd zk;zg lv;sl se;db ui;rl pn;kk	100
+三角恐龍	sj;hh jc;dy ks;xg ls;dg	100
+三角恐龍	sj;hh jc;dy ks;xg ls;lg	100
 三角恐龍	sj;aa jc;dy ks;xg ls;dg	100
+三角恐龍	sj;aa jc;dy ks;xg ls;lg	100
 日本柴犬	ri;aa bf;aa il;mc qr;dd	99
 澳大利亞牧羊犬	ao;da da;hd li;dh ya;aa mu;nw yh;da qr;dd	99
 動物乳腺生物反應器	ds;lv wu;nw ru;gf xm;oq ug;na wu;nw fj;py yy;gx qi;kk	99
 東部黑冠長臂猿	ds;ad bu;ek hz;ha gr;bc ih;ad bi;ob yr;qy	99
+雲斑裸頰蝦虎魚	yp;yy bj;ww lo;yg jw;yj xw;ij hu;hj yu;dh	99
 雲斑裸頰蝦虎魚	yp;yy bj;ww lo;yg jw;yj xw;ij hu;hj yu;dd	99
 犀牛鳥	xi;nu nq;pa nc;pd	97
 僧帽水母	sg;rc mk;jm uv;ad mu;ad	97
+釣魚城之戰	dc;ju yu;dh ig;ti vi;dd vj;gd	97
 釣魚城之戰	dc;ju yu;dd ig;ti vi;dd vj;gd	97
 植物害蟲	vi;mv wu;nw hl;bk is;ii	97
 北京動物園熊貓館	bz;ap jy;wx ds;lv wu;nw yr;ky xs;hn mk;vm gr;ug	97
@@ -662,220 +1201,403 @@ use_preset_vocabulary: false
 鬥牛獒犬	db;aa nq;pa ao;qa qr;dd	96
 持久性有機物	ii;fs jq;pd xy;xu yb;ou ji;mj wu;nw	96
 南日鮑	nj;ua ri;aa bk;yb	96
+驢頭狼	lv;ml tb;yd lh;ql	96
 驢頭狼	lv;ml tb;dy lh;ql	96
 炒黃柏	ik;hu hd;cb bl;mb	96
 浮葉植物	fu;df ye;cm vi;mv wu;nw	96
 德國犬	de;xx go;kh qr;dd	95
+油炸蠍子	yb;dy va;hv xx;ix zi;vh	95
 油炸蠍子	yb;dy va;hv xx;ix zi;aa	95
 北美野牛	bz;ap mz;dy ye;yl nq;pa	95
 戴笠鴿	dl;gg li;vl ge;nh	95
+戴笠鴿	dl;gy li;vl ge;nh	95
+非純種貓	fz;hh ip;st vs;hv mk;vm	94
+非純種貓	fz;ss ip;st vs;hv mk;vm	94
 非純種貓	fz;aa ip;st vs;hv mk;vm	94
 羅特韋爾犬	lo;sv te;ns wz;aa er;ay qr;dd	94
 中生代哺乳動物	vs;aa ug;na dl;ry bu;kf ru;gf ds;lv wu;nw	94
 熊貓犬	xs;hn mk;vm qr;dd	94
 營養生殖	yy;hl yh;yl ug;na vi;dv	94
+黃河刀魚	hd;cb he;dk dk;pg yu;dh	94
+黃河刀魚	hd;cb he;dk dk;pg yu;dd	94
+黃河刀魚	hd;cb he;dk dk;gp yu;dh	94
 黃河刀魚	hd;cb he;dk dk;gp yu;dd	94
 洮湖	tk;dv hu;dh	93
 尾羽龍	wz;um yu;xx ls;dg	93
+尾羽龍	wz;um yu;xx ls;lg	93
 紐蟲	nq;si is;ii	93
 半必需氨基酸	bj;bf bi;xp xu;ye an;qa ji;tq sr;yj	93
 救必應	jq;wq bi;xp yy;gx	93
+救必應	jq;wq bi;xp yy;xv	93
+救必應	jq;wq bi;dd yy;gx	93
+救必應	jq;wq bi;dd yy;xv	93
 軟炸蝦	rr;iq va;hv xw;ij	93
 笑鷗	xc;vy ou;nq	91
+頸缺	jy;yj qt;fd	90
+頸缺	jy;yj qt;fg	90
 頸缺	jy;yg qt;fd	90
+頸缺	jy;yg qt;fg	90
 牙形刺	ya;ap xy;pk ci;dc	90
+牙形刺	ya;hp xy;pk ci;dc	90
+天幕毛蟲	tm;ad mu;jm mk;pg is;ii	90
 天幕毛蟲	tm;ad mu;cj mk;pg is;ii	90
+天幕毛蟲	tm;hd mu;jm mk;pg is;ii	90
+天幕毛蟲	tm;hd mu;cj mk;pg is;ii	90
 偏牛	pm;rb nq;pa	89
+偏牛	pm;rb nq;pu	89
+諧魚	xx;yj yu;dh	89
 諧魚	xx;yj yu;dd	89
+收穫蟻	ub;jw ho;hh yi;iy	89
+收穫蟻	ub;jw ho;hy yi;iy	89
 收穫蟻	ub;wj ho;hh yi;iy	89
+收穫蟻	ub;wj ho;hy yi;iy	89
 西藏飛蝗	xi;aa zh;cg fz;ff hd;ih	88
 鮈	ju;yj	88
+大河蚌	da;ad he;dk bh;if	88
 大河蚌	da;hd he;dk bh;if	88
 紅尾蚺	hs;sg wz;um rj;ir	87
+鳳頭鷹	fg;jn tb;yd yy;nv	87
+鳳頭鷹	fg;jn tb;yd yy;gn	87
+鳳頭鷹	fg;jn tb;dy yy;nv	87
 鳳頭鷹	fg;jn tb;dy yy;gn	87
 新疆褐牛	xn;jq jd;gj he;yh nq;pa	87
+新疆褐牛	xn;jq jd;gj he;yh nq;pu	87
+固城湖大閘蟹	gu;kg ig;ti hu;dh da;ad va;mj xx;ij	87
 固城湖大閘蟹	gu;kg ig;ti hu;dh da;hd va;mj xx;ij	87
 牛帶絛蟲	nq;pa dl;jb tk;rs is;ii	86
+牛帶絛蟲	nq;pu dl;jb tk;rs is;ii	86
 蒙古百靈	mg;cm gu;uk bl;ab ly;wl	86
 導盲犬嬌娜	dk;cd mh;ow qr;dd jc;nq na;nn	86
 鹽黃柏	yj;ml hd;cb bl;mb	86
+大瓶螺	da;ad py;wb lo;il	86
 大瓶螺	da;hd py;wb lo;il	86
 血液寄生蟲	xt;pa ye;dy ji;bq ug;na is;ii	86
 膠牆	jc;ol qd;ph	85
 秦川肉牛	qn;hf ir;pa rb;ad nq;pa	85
 蠣蝗	li;il hd;ih	85
+蠣蝗	li;iw hd;ih	85
+四角蛤蜊	si;uh jc;dy ge;ih li;il	85
 四角蛤蜊	si;ke jc;dy ge;ih li;il	85
+四角蛤蜊	si;aa jc;dy ge;ih li;il	85
+黃緣閉殼龜	hd;cb yr;su bi;mc ke;uj gv;pa	85
+黃緣閉殼龜	hd;cb yr;su bi;mc ke;uj gv;ph	85
 黃緣閉殼龜	hd;cb yr;st bi;mc ke;uj gv;pa	85
+黃緣閉殼龜	hd;cb yr;st bi;mc ke;uj gv;ph	85
 謝羅便臣	xx;yu lo;sv bm;rg if;aa	85
 剛地弓形蟲	gh;dg di;ty gs;ag xy;pk is;ii	85
+剛地弓形蟲	gh;dg di;ty gs;vg xy;pk is;ii	85
 等翅目	dg;vs ii;yv mu;aa	83
 鍬形蟲	qc;jq xy;pk is;ii	83
 羅維納犬	lo;sv wz;sv na;sn qr;dd	83
 蚊科	wf;iw ke;hd	83
 奧達獵犬	ao;db da;zy lx;ql qr;dd	83
 克隆哺乳動物	ke;ux ls;eu bu;kf ru;gf ds;lv wu;nw	83
+克隆哺乳動物	ke;ux ls;eu bu;kf ru;fg ds;lv wu;nw	83
+克隆哺乳動物	ke;eg ls;eu bu;kf ru;gf ds;lv wu;nw	83
+克隆哺乳動物	ke;eg ls;eu bu;kf ru;fg ds;lv wu;nw	83
 羧肽酶	so;yj tl;ot mz;ym	82
+羧肽酶	so;yj tl;yt mz;ym	82
+羧肽酶	so;yw tl;ot mz;ym	82
+羧肽酶	so;yw tl;yt mz;ym	82
+二嗪農	er;hh qn;kq ns;qi	82
 二嗪農	er;aa qn;kq ns;qi	82
 非必須氨基酸	fz;aa bi;xp xu;yp an;qa ji;tq sr;yj	82
 牡蠣科	mu;nt li;il ke;hd	81
+牡蠣科	mu;nt li;iw ke;hd	81
+壹號土豬	yi;ud hk;hh tu;hh vu;uv	81
 壹號土豬	yi;ud hk;hh tu;aa vu;uv	81
 漂鳥	pc;dp nc;pd	80
+漂鳥	pc;dp nc;ph	80
 野生龍貓	ye;yl ug;na ls;dg mk;vm	80
 萌寵	mg;cm is;bl	79
 爪哇犀牛	vk;pd wa;kg xi;nu nq;pa	79
+爪哇犀牛	vk;pd wa;kg xi;nu nq;pu	79
+爪哇犀牛	vk;pd wa;kg xi;un nq;pa	79
+爪哇犀牛	vk;pd wa;kg xi;un nq;pu	79
+蒼蠅農場	ch;cc yy;sh ns;qi ih;ty	79
 蒼蠅農場	ch;cc yy;im ns;qi ih;ty	79
 酒吧侍應生	jq;dy ba;kb ui;rs yy;gx ug;na	79
+酒吧侍應生	jq;dy ba;kb ui;rs yy;gx ug;nh	79
+酒吧侍應生	jq;dy ba;kb ui;rs yy;xv ug;na	79
+酒吧侍應生	jq;dy ba;kb ui;rs yy;xv ug;nh	79
 巴西花梨木	ba;ag xi;aa hw;ch li;ml mu;ad	78
 爪哇猿人	vk;pd wa;kg yr;qy rf;pd	78
 日本醫蛭	ri;aa bf;aa yi;yu vi;iv	78
+植食性昆蟲	vi;mv ui;pd xy;xu kp;ob is;ii	78
+植食性昆蟲	vi;mv ui;pd xy;xu kp;rb is;ii	78
 植食性昆蟲	vi;mv ui;rl xy;xu kp;ob is;ii	78
+植食性昆蟲	vi;mv ui;rl xy;xu kp;rb is;ii	78
 漵浦鵝	xu;dw pu;df ee;nw	78
+漵浦鵝	xu;dx pu;df ee;nw	78
 磷源	ln;ul yr;dy	78
 爆炒地猴	bk;hb ik;hu di;ty hb;qh	78
 轉角牛羚	vr;iv jc;dy nq;pa ly;yl	78
+轉角牛羚	vr;iv jc;dy nq;pu ly;yl	78
 獵鹿犬	lx;ql lu;gb qr;dd	78
 史前爬行動物	ui;ki qm;bd pa;vb xy;xd ds;lv wu;nw	77
 效鳴	xc;wj my;kn	77
+效鳴	xc;wj my;nk	77
+獵槍犬	lx;ql qd;mc qr;ad	77
+獵槍犬	lx;ql qd;mc qr;hd	77
 獵槍犬	lx;ql qd;mc qr;dd	77
 蛋雞濃縮料	dj;ip ji;vx ns;dn so;ss lc;md	77
+蛋雞濃縮料	dj;pi ji;vx ns;dn so;ss lc;md	77
 奶牛貓	nl;nn nq;pa mk;vm	77
+奶牛貓	nl;nn nq;pu mk;vm	77
 新疆驢	xn;jq jd;gj lv;ml	77
 印度野牛	yn;ey du;gy ye;yl nq;pa	77
-白頭䴉鸛	bl;pa tb;dy hr;nh gr;ng	77
 扭螺	nq;fi lo;il	77
+毛滴蟲屬	mk;pg di;dg is;ii uu;ui	77
+毛滴蟲屬	mk;pg di;dg is;ii uu;uu	77
 毛滴蟲屬	mk;pg di;dd is;ii uu;ui	77
+毛滴蟲屬	mk;pg di;dd is;ii uu;uu	77
+麻花魚	ma;gl hw;ch yu;dh	76
 麻花魚	ma;gl hw;ch yu;dd	76
+贏魚	yy;bk yu;dh	76
 贏魚	yy;bk yu;dd	76
+贏魚	yy;wf yu;dh	76
+贏魚	yy;wf yu;dd	76
 卡託布萊帕斯	ka;ub to;yq bu;ju ll;cl pa;jb si;jq	76
+新加坡貓	xn;jq jw;lk po;tp mk;vm	76
 新加坡貓	xn;jq jw;kl po;tp mk;vm	76
-羅得西亞脊背犬	lo;sv de;xc xi;aa ya;aa ji;od bz;ob qr;dd	75
+羅得西亞脊背犬	lo;sv de;rc xi;aa ya;aa ji;od bz;ob qr;dd	75
 杜高犬	du;mt gk;wk qr;dd	75
+炸彈魚	va;hv dj;gd yu;dh	75
 炸彈魚	va;hv dj;gd yu;dd	75
 圓蛛	yr;ky vu;iv	75
 纓翅	yy;sy ii;yv	75
+纓翅	yy;sy ii;vy	75
 纓翅目	yy;sy ii;yv mu;aa	75
 中國美利奴羊	vs;aa go;kh mz;dy li;dh nu;ny yh;da	74
 熒光假單胞菌	yy;hb gd;xw jw;rj dj;kd bk;ob jp;ch	74
 安布閉殼龜	an;bn bu;ju bi;mc ke;uj gv;pa	74
+安布閉殼龜	an;bn bu;ju bi;mc ke;uj gv;ph	74
+安布閉殼龜	an;bn bu;uj bi;mc ke;uj gv;pa	74
+安布閉殼龜	an;bn bu;uj bi;mc ke;uj gv;ph	74
 海牛目	hl;dm nq;pa mu;aa	74
 白毛烏骨雞	bl;pa mk;pg wu;pd gu;ob ji;vx	74
 鹽酸金剛乙胺	yj;ml sr;yj jn;ra gh;dg yi;aa an;oa	74
 結構色	jx;sj gb;mg se;db	74
+結構色	jx;sj gb;mr se;db	74
 微笑鳥	wz;xw xc;vy nc;pd	74
+微笑鳥	wz;xw xc;vy nc;ph	74
+微笑鳥	wz;rw xc;vy nc;pd	74
+微笑鳥	wz;rw xc;vy nc;ph	74
+野兔毛	ye;ly tu;dd mk;pg	74
 野兔毛	ye;yl tu;dd mk;pg	74
+挪威森林貓	no;fn wz;ng sf;ml ln;mm mk;vm	74
+挪威森林貓	no;fn wz;wn sf;ml ln;mm mk;vm	74
 挪威森林貓	no;fn wz;gn sf;ml ln;mm mk;vm	74
 漁業信息化	yu;dy ye;yl xn;ry xi;xz hw;rb	74
+漁業信息化	yu;dy ye;yl xn;ry xi;zx hw;rb	74
+漁業信息化	yu;dy ye;yw xn;ry xi;xz hw;rb	74
+漁業信息化	yu;dy ye;yw xn;ry xi;zx hw;rb	74
 有袋目	yb;ou dl;yd mu;aa	74
 人工自動免疫	rf;pd gs;aa zi;pa ds;lv mm;de yi;bu	73
-鷹頭馬身有翼獸	yy;gn tb;dy ma;ad uf;pp yb;ou yi;yg ub;qu	73
+鷹頭馬身有翼獸	yy;nv tb;dy ma;ad uf;pp yb;ou yi;yg ub;qu	73
 純種博美犬	ip;st vs;hv bo;uc mz;dy qr;dd	73
 炸尾螺	va;hv wz;um lo;il	73
 約克郡犬	yt;su ke;ux jp;ej qr;dd	73
 金腳帶	jn;ra jc;oq dl;jb	72
 扎硬寨	va;fg yy;ug vl;bm	72
+扎硬寨	va;fg yy;ug vl;mb	72
+霍加狓	ho;yv jw;lk pi;qp	72
 霍加狓	ho;yv jw;kl pi;qp	72
 響導蝗蟲	xd;yx dk;cd hd;ih is;ii	72
 刺蔘科	ci;dc cj;cc ke;hd	72
 瑇瑁	dl;wd mk;wm	72
+大約克豬	da;ad yt;su ke;ux vu;uv	72
+大約克豬	da;ad yt;su ke;eg vu;uv	72
 大約克豬	da;hd yt;su ke;ux vu;uv	72
+大約克豬	da;hd yt;su ke;eg vu;uv	72
+寄蠅	ji;bq yy;sh	72
 寄蠅	ji;bq yy;im	72
 蔚藍追風鳥	wz;cw lj;cj vv;zv fg;ji nc;pd	72
+蔚藍追風鳥	wz;cw lj;cj vv;zv fg;ji nc;ph	72
 延邊牛	yj;zv bm;zf nq;pa	72
+延邊牛	yj;zv bm;zf nq;pu	72
 墨西哥無毛犬	mo;th xi;aa ge;kd wu;ha mk;pg qr;dd	71
 中國農業大學動物醫院	vs;aa go;kh ns;qi ye;yl da;hd xt;jz ds;lv wu;nw yi;yu yr;ew	71
+玫瑰魚	mz;ww gv;wg yu;dh	71
 玫瑰魚	mz;ww gv;wg yu;dd	71
 蘇門答臘犀牛	su;ch mf;aa da;vh la;ol xi;nu nq;pa	70
 饒蟲	rk;uy is;ii	70
+兩性動物	ld;hr xy;xu ds;lv wu;nw	69
 兩性動物	ld;ar xy;xu ds;lv wu;nw	69
 珍島犬	vf;wp dk;nu qr;dd	69
 小灰蝶	xc;ad hv;hu dx;im	69
 咬鵑	yk;kj jr;no	69
+咬鵑	yk;kj jr;ny	69
 新疆大頭魚	xn;jq jd;gj da;hd tb;dy yu;dd	69
 農盼	ns;qi pj;of	69
+農盼	ns;qi pj;mf	69
+古代爬行動物	gu;uk dl;ry pa;vb xy;xi ds;lv wu;nw	69
+古代爬行動物	gu;uk dl;ry pa;vb xy;rd ds;lv wu;nw	69
 古代爬行動物	gu;uk dl;ry pa;vb xy;xd ds;lv wu;nw	69
+古代爬行動物	gu;uk dl;ry pa;vb xy;ri ds;lv wu;nw	69
 大自然野生昆蟲館	da;hd zi;pa rj;hq ye;yl ug;na kp;ob is;ii gr;ug	69
 轉基因奶牛	vr;iv ji;tq yn;kd nl;nn nq;pa	68
+轉基因奶牛	vr;iv ji;tq yn;kd nl;nn nq;pu	68
+轉基因奶牛	vr;iv ji;qt yn;kd nl;nn nq;pa	68
+轉基因奶牛	vr;iv ji;qt yn;kd nl;nn nq;pu	68
+伽果	ga;rj go;ud	68
+伽果	ga;rj go;tm	68
 伽果	ga;rj go;ad	68
 中國鳥類野外手冊	vs;aa go;kh nc;pd lz;yl ye;yl wl;xb ub;pa ce;aa	67
 日本大黃蜂	ri;aa bf;aa dl;hd hd;cb fg;if	67
+淮南蟲	hy;dv nj;uy is;ii	67
+淮南蟲	hy;dv nj;uu is;ii	67
 淮南蟲	hy;dv nj;ua is;ii	67
+中國毛蝦	vs;ka go;kh mk;pg xw;ij	67
+中國毛蝦	vs;ku go;kh mk;pg xw;ij	67
+中國毛蝦	vs;uu go;kh mk;pg xw;ij	67
 中國毛蝦	vs;aa go;kh mk;pg xw;ij	67
 傳染性法氏囊炎	ir;rv rj;mg xy;xu fa;dq ui;pg nh;ay yj;hh	67
 矛尾魚	mk;ap wz;um yu;dd	67
 蛭綱	vi;iv gh;sg	67
+葉鹿	ye;cm lu;lb	66
 葉鹿	ye;cm lu;gb	66
 鯥	lu;yt	66
+新城雞瘟	xn;jq ig;ti ji;vx wf;bw	66
 新城雞瘟	xn;jq ig;ti ji;vx wf;bm	66
 後天性行爲	hb;xw tm;ad xy;xu xy;xd wz;pd	66
 武夷黑豬	wu;yv yi;ad hz;ha vu;uv	66
+巨齒槌鯨	ju;hv ii;vk iv;mv jy;yj	66
+巨齒槌鯨	ju;kk ii;vk iv;mv jy;yj	66
 巨齒槌鯨	ju;aa ii;vk iv;mv jy;yj	66
 鰏	bi;yf	66
+鰏	bi;yt	66
+杜伯文犬	du;mt bo;rb wf;dd qr;ad	66
+杜伯文犬	du;mt bo;rb wf;dd qr;hd	66
 杜伯文犬	du;mt bo;rb wf;dd qr;dd	66
 絨氈層	rs;sr vj;md cg;uc	66
 中華地鱉	vs;aa hw;ca di;ty bx;yb	66
+營底棲生活	yy;lb di;gd qi;mq ug;na ho;du	65
+營底棲生活	yy;lb di;gd qi;mq ug;nh ho;du	65
 營底棲生活	yy;hl di;gd qi;mq ug;na ho;du	65
+營底棲生活	yy;hl di;gd qi;mq ug;nh ho;du	65
 黃猄蟻	hd;cb jy;qj yi;iy	65
+美珏公棚	mz;yd jt;wy gs;sb pg;mp	65
+美珏公棚	mz;yd jt;wy gs;bs pg;mp	65
 美珏公棚	mz;dy jt;wy gs;sb pg;mp	65
+美珏公棚	mz;dy jt;wy gs;bs pg;mp	65
+溫帶臭蟲	wf;dw dl;jb ib;zq is;ii	65
 溫帶臭蟲	wf;dm dl;jb ib;zq is;ii	65
 牛鼻黃貂魚	nq;pa bi;zb hd;cb dc;vv yu;dd	64
 袖狗	xq;yy gb;qj	64
 駱駝黃	lo;mg to;mt hd;cb	64
+外星嬰兒	wl;xb xy;ru yy;nb er;je	64
+外星嬰兒	wl;xb xy;ru yy;nb er;ej	64
+外星嬰兒	wl;xb xy;ou yy;nb er;je	64
 外星嬰兒	wl;xb xy;ou yy;nb er;ej	64
 蔥薊馬	cs;cc ji;cd ma;ad	63
 真海豚	vf;uj hl;dm tp;ou	63
+真海豚	vf;uj hl;dm tp;yu	63
 巧克力中毒	qc;gk ke;ux li;gp vs;aa du;fm	63
+白底板病	bl;ph di;gd bj;mf by;bb	63
+白底板病	bl;pr di;gd bj;mf by;bb	63
 白底板病	bl;pa di;gd bj;mf by;bb	63
+白底板病	bl;po di;gd bj;mf by;bb	63
 迷惑龍	mi;zm ho;xh ls;dg	63
+迷惑龍	mi;zm ho;xh ls;lg	63
+江蘇大閘蟹	jd;dg su;ch da;ad va;mj xx;ij	62
 江蘇大閘蟹	jd;dg su;ch da;hd va;mj xx;ij	62
-大兀鷹	da;hd wu;ae yy;gn	62
+江蘇大閘蟹	jd;dg su;cs da;ad va;mj xx;ij	62
+江蘇大閘蟹	jd;dg su;cs da;hd va;mj xx;ij	62
+大兀鷹	da;hd wu;ae yy;nv	62
 藍氏賈第鞭毛蟲	lj;cj ui;pg jw;xb di;vp bm;gb mk;pg is;ii	62
+千腳蟲	qm;pa jc;yq is;ii	62
 千腳蟲	qm;pa jc;oq is;ii	62
+千腳蟲	qm;pu jc;yq is;ii	62
+千腳蟲	qm;pu jc;oq is;ii	62
+求偶炫耀	qq;ad ou;ry xr;hx yk;gv	61
 求偶炫耀	qq;ad ou;ry xr;hx yk;gd	61
+求偶炫耀	qq;hd ou;ry xr;hx yk;gv	61
+求偶炫耀	qq;hd ou;ry xr;hx yk;gd	61
+躄魚	bi;zb yu;dh	61
 躄魚	bi;zb yu;dd	61
+躄魚	bi;zx yu;dh	61
+躄魚	bi;zx yu;dd	61
 古代英國牧羊犬	gu;uk dl;ry yy;cy go;kh mu;nw yh;da qr;dd	61
 畫眉亞科	hw;ya mz;om ya;aa ke;hd	61
 暖水性魚類	nr;oy uv;ad xy;xu yu;dd lz;yl	61
+臀角	tp;yd jc;dy	60
+臀角	tp;yu jc;dy	60
+臀角	tp;ou jc;dy	60
 臀角	tp;od jc;dy	60
+寶應湖大閘蟹	bk;bb yy;gx hu;dh da;ad va;mj xx;ij	60
 寶應湖大閘蟹	bk;bb yy;gx hu;dh da;hd va;mj xx;ij	60
+寶應湖大閘蟹	bk;bb yy;xv hu;dh da;ad va;mj xx;ij	60
+寶應湖大閘蟹	bk;bb yy;xv hu;dh da;hd va;mj xx;ij	60
 喜馬拉雅旱獺	xi;uk ma;ad la;fl ya;vy hj;og ta;ql	60
 龜殼花蛇	gv;pa ke;uj hw;ch ue;it	60
+龜殼花蛇	gv;ph ke;uj hw;ch ue;it	60
+軍山湖大閘蟹	jp;bi uj;uu hu;dh da;ad va;mj xx;ij	59
+軍山湖大閘蟹	jp;bi uj;uu hu;dh da;hd va;mj xx;ij	59
+軍山湖大閘蟹	jp;bi uj;aa hu;dh da;ad va;mj xx;ij	59
 軍山湖大閘蟹	jp;bi uj;aa hu;dh da;hd va;mj xx;ij	59
+鷽	xt;nb	59
 鷽	xt;jn	59
+溶藻弧菌	rs;dr zk;cz hu;gg jp;cq	59
 溶藻弧菌	rs;dr zk;cz hu;gg jp;ch	59
 西部低地大猩猩	xi;aa bu;ek di;rd di;ty da;hd xy;qx xy;qx	59
+貝林登梗	bz;ud ln;mm dg;dd gg;mg	59
 貝林登梗	bz;ad ln;mm dg;dd gg;mg	59
+貝林登梗	bz;ob ln;mm dg;dd gg;mg	59
+貝林登梗	bz;mb ln;mm dg;dd gg;mg	59
 冬芒狸	ds;wd mh;cw li;ql	59
 腐草爲螢	fu;gr ck;cz wz;pd yy;hi	59
 貝靈頓梗	bz;ad ly;wl dp;yt gg;mg	59
 小燕尾	xc;ad yj;hb wz;um	59
+白簇	bl;ph cu;vz	58
+白簇	bl;pr cu;vz	58
 白簇	bl;pa cu;vz	58
+白簇	bl;po cu;vz	58
+扁擔鉤	bm;hc dj;fy gb;jj	58
 扁擔鉤	bm;hc dj;fv gb;jj	58
 小爪水獺	xc;ad vk;pd uv;ad ta;ql	58
 缺須	qt;fd xu;yp	58
+缺須	qt;fg xu;yp	58
+楊小舟蛾	yh;my xc;ud vb;pd ee;iw	58
 楊小舟蛾	yh;my xc;ad vb;pd ee;iw	58
 牛皮蠅	nq;pa pi;ya yy;im	58
 米格魯犬	mi;dd ge;mg lu;yo qr;dd	57
 裸腹鱘	lo;yg fu;of xp;yx	57
+裸腹鱘	lo;yg fu;yf xp;yx	57
 排蜂	pl;ff fg;if	57
-日本松雀鷹	ri;aa bf;aa ss;mg qt;vx yy;gn	57
+日本松雀鷹	ri;aa bf;aa ss;mg qt;vx yy;nv	57
 猿葉蟲	yr;qy ye;cm is;ii	57
 魾	pi;yp	566
 新荷蘭鼠	xn;jq he;ch lj;cj uu;ju	56
+新荷蘭鼠	xn;jq he;ch lj;cl uu;ju	56
+普通鵟	pu;rb ts;zy kd;nk	56
+普通鵟	pu;br ts;zy kd;nk	56
 普通鵟	pu;ob ts;zy kd;nk	56
+普通鵟	pu;bo ts;zy kd;nk	56
 古代長鬚牧羊犬	gu;uk dl;ry vh;ad xu;bx mu;nw yh;da qr;dd	56
 千葉龍	qm;pa ye;cm ls;dg	56
+千葉龍	qm;pa ye;cm ls;lg	56
+千葉龍	qm;pu ye;cm ls;dg	56
+千葉龍	qm;pu ye;cm ls;lg	56
 紅血藍眼鴿	hs;sg xt;pa lj;cj yj;og ge;nh	56
 晚期猿人	wj;om qi;oq yr;qy rf;pd	55
 彭布羅克威爾士柯基	pg;pd bu;ju lo;sv ke;ux wz;gn er;ay ui;aa ke;mk ji;tq	55
 參環毛蚓	cj;sp hr;wh mk;pg yn;iy	55
+參環毛蚓	cj;sp hr;wy mk;pg yn;iy	55
 樟腦磺酸鈉	vh;mv nk;oi hd;uh sr;yj na;jn	55
 角蟬	jc;dy ij;id	55
+牛尾魚	nq;pa wz;um yu;dh	55
 牛尾魚	nq;pa wz;um yu;dd	55
+牛尾魚	nq;pu wz;um yu;dh	55
+牛尾魚	nq;pu wz;um yu;dd	55
 黃斑星天牛	hd;cb bj;ww xy;ou tm;ad nq;pa	55
 摩拉水牛	mo;mu la;fl uv;ad nq;pa	54
 胃蠅	wz;ot yy;im	54
 八卦雞	ba;pd gw;bg ji;vx	54
+酃縣白鵝	ly;ek xm;xx bl;ph ee;nw	54
+酃縣白鵝	ly;ek xm;xx bl;pr ee;nw	54
 酃縣白鵝	ly;ek xm;xx bl;pa ee;nw	54
+酃縣白鵝	ly;ek xm;xx bl;po ee;nw	54
 河蟲	he;dk is;ii	53
 六月白	lq;wb yt;pa bl;pa	53
 紫菀花	zi;sc wj;cw hw;ch	53
@@ -883,28 +1605,51 @@ use_preset_vocabulary: false
 努爾哈赤翼龍	nu;ln er;ay ha;kh ii;tb yi;yg ls;dg	53
 越北腹露蝗	yt;zy bz;ap fu;of lu;yl hd;ih	53
 猿猴亞目	yr;qy hb;qh ya;aa mu;aa	52
+柯尼斯捲毛貓	ke;mk ni;ub si;qj jr;fj mk;pg mk;vm	52
 柯尼斯捲毛貓	ke;mk ni;ub si;jq jr;fj mk;pg mk;vm	52
+煤山雀	mz;hm uj;uu qt;xv	52
+煤山雀	mz;hm uj;uu qt;vx	52
+煤山雀	mz;hm uj;aa qt;xv	52
 煤山雀	mz;hm uj;aa qt;vx	52
 暮眼蝶	mu;co yj;og dx;im	52
+苯扎氯胺	bf;cb va;fg lv;ql an;ya	52
 苯扎氯胺	bf;cb va;fg lv;ql an;oa	52
+梨莖蜂	li;ml jy;cj fg;if	52
 梨莖蜂	li;ml jy;cg fg;if	52
 海螢	hl;dm yy;hi	52
+海螢	hl;dm yy;ib	52
 天祝白犛牛	tm;ad vu;ux bl;pa mk;ni nq;pa	52
+蟲動物門	is;ii ds;lv wu;nw mf;xu	52
+蟲動物門	is;ii ds;lv wu;nw mf;vh	52
 蟲動物門	is;ii ds;lv wu;nw mf;aa	52
+蟲動物門	is;ii ds;lv wu;nw mf;xa	52
+蟲動物門	is;ii ds;lv wu;nw mf;zh	52
 沒六魚	mz;du lq;wb yu;dd	52
 小鬥牛犬	xc;ad db;aa nq;pa qr;dd	51
 千里花	qm;pa li;aa hw;ch	51
 沫活	mo;dm ho;du	51
+集體捕獵	ji;mv ti;gl bu;ff lx;ql	51
+集體捕獵	ji;mv ti;gd bu;ff lx;ql	51
+集體捕獵	ji;vm ti;gl bu;ff lx;ql	51
 集體捕獵	ji;vm ti;gd bu;ff lx;ql	51
 狗仔鯨	gb;qj zl;rz jy;yj	51
 蘆葦鶯	lu;cl wz;cw yy;hn	51
+蘆葦鶯	lu;cl wz;cw yy;nb	51
 燈臺葉	dg;hd tl;uv ye;cm	51
 目夜蛾	mu;aa ye;wd ee;iw	51
 非人靈長類動物	fz;aa rf;pd ly;wl vh;ad lz;yl ds;lv wu;nw	51
+貧齒目	pn;bf ii;vk mu;mu	51
+貧齒目	pn;bf ii;vk mu;om	51
+貧齒目	pn;bf ii;vk mu;uh	51
 貧齒目	pn;bf ii;vk mu;aa	51
 棕頸犀鳥	zs;mz jy;yg xi;nu nc;pd	51
+黃殼魚	hd;cb ke;uj yu;dh	51
 黃殼魚	hd;cb ke;uj yu;dd	51
+蟌	cs;ix	51
 蟌	cs;ic	51
+遺傳工程小鼠	yi;zg ir;rv gs;hh ig;hi xc;ud uu;ju	50
+遺傳工程小鼠	yi;zg ir;rv gs;hh ig;hi xc;ad uu;ju	50
+遺傳工程小鼠	yi;zg ir;rv gs;aa ig;hi xc;ud uu;ju	50
 遺傳工程小鼠	yi;zg ir;rv gs;aa ig;hi xc;ad uu;ju	50
 戰蟻	vj;gd yi;iy	50
 失戀俱樂部	ui;pf lm;xs ju;rj le;bm bu;ek	50
@@ -914,4 +1659,7 @@ use_preset_vocabulary: false
 六角木	lq;wb jc;dy mu;ad	50
 臺灣犬	tl;uv wj;dg qr;dd	50
 英國馬士提夫	yy;cy go;kh ma;ad ui;aa ti;fu fu;ad	50
+口前葉	kb;uh qm;qd ye;cm	50
+口前葉	kb;uh qm;bd ye;cm	50
+口前葉	kb;aa qm;qd ye;cm	50
 口前葉	kb;aa qm;bd ye;cm	50

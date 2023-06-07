@@ -11,19 +11,49 @@ from pypinyin import lazy_pinyin
 from zrmify import zrmify1
 from zrmstd import zrmstd
 import opencc
+from collections import defaultdict
+import itertools
+
+
+双拼表 = defaultdict(set)  # 双拼
+辅码表 = defaultdict(set)  # 辅码
+
+started = False
+for line in open('../moran.main.dict.yaml'):
+    line = line.strip()
+    if not started:
+        if line == '#----------':
+            started = True
+        else:
+            continue
+    else:
+        if line == '#----------':
+            break
+        [字, 码, *_] = line.split()
+        [双拼, 辅码] = 码.split(';')
+        双拼表[字].add(双拼)
+        辅码表[字].add(辅码)
+
 
 
 conv = opencc.OpenCC()
 
 
-def get_code(text):
+def code_all(text):
     pys = lazy_pinyin(conv.convert(text))
-    zrms = [zrmify1(py) for py in pys]
-    stds = [zrmstd(c) for c in text]
-    res = []
-    for (zrm, std) in zip(zrms, stds):
-        res.append(zrm + ';' + std)
-    return ' '.join(res)
+    ups = [zrmify1(py) for py in pys]
+    iterables = []
+    for (up, char) in zip(ups, text):
+        codes = []
+        for f in 辅码表[char]:
+            codes.append(up + ';' + f)
+        iterables.append(iter(codes))
+    return [' '.join(code) for code in itertools.product(*iterables)]
+
+
+def code_std(text):
+    pys = lazy_pinyin(conv.convert(text))
+    return ' '.join(up + ';' + zrmstd(c) for (up, c) in zip(ups, text))
 
 
 def main():
@@ -33,8 +63,11 @@ def main():
             weight = float(weight)
             if len(text) > 1:
                 try:
-                    code = get_code(text)
-                    print(f'{text}\t{code}\t{weight:g}')
+                    all_codes = code_all(text)
+                    if len(all_codes) > 5:
+                        print(f'{text}\t{code_std(text)}\t{weight:g}')
+                    for code in code_all(text):
+                        print(f'{text}\t{code}\t{weight:g}')
                 except:
                     print(f'{text}\t\t{weight:g}')
             else:
