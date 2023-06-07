@@ -13,7 +13,7 @@ patch:
 
     # 默認界面設置 (會被具體主題覆寫)
     font_point: 16
-    font_face: "LXGW WenKai"
+    font_face: LXGW WenKai
     horizontal: false
 
   preset_color_schemes:

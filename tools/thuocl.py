@@ -107,8 +107,8 @@ use_preset_vocabulary: false
             freq = row['freq']
             # thuocl 的最大可能 freq 值为： 741215634
             # essay 「的」 权重            4822928
-            freq = int(freq / 741215634 * 4822928)
             if freq < 50: continue
+            freq = int(freq / 741215634 * 4822928)
             try:
                 codes = code_all(word, pinyin)
                 if len(codes) > 5:
