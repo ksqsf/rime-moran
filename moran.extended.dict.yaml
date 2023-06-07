@@ -11,14 +11,14 @@ import_tables:
   - moran.essay      # Rime 八股文詞庫
   - moran.thuocl.IT
   - moran.thuocl.animal
-  - moran.thuocl.caijing
-  - moran.thuocl.car
+# - moran.thuocl.caijing
+# - moran.thuocl.car
   - moran.thuocl.chengyu
   - moran.thuocl.diming
   - moran.thuocl.food
-  - moran.thuocl.law
+# - moran.thuocl.law
   - moran.thuocl.lishimingren
-  - moran.thuocl.medical
+# - moran.thuocl.medical
   - moran.thuocl.poem
 # - moran.sogou      # 搜狗詞庫 (默認禁用)
   - moran.computer   # 計算機術語
