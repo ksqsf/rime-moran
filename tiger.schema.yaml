@@ -74,6 +74,7 @@ translator:
   encode_commit_history: true
   max_phrase_length: 4
   enable_user_dict: false
+  enable_completion: false
 
 reverse_lookup:
   dictionary: pinyin_simp
