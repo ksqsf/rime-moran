@@ -7,14 +7,19 @@ patch:
     translucency: true      # 透明度總開關
 
     # 浅色主题
-    color_scheme: milan
+    color_scheme: win11light
     # 深色主题
-    color_scheme_dark: psionics
+    color_scheme_dark: win11dark
 
     # 默認界面設置 (會被具體主題覆寫)
     font_point: 16
     font_face: LXGW WenKai
     horizontal: false
+    corner_radius: 5
+    hilited_corner_radius: 5
+    line_spacing: 8
+    hilite_spacing: 6
+    spacing: 12
 
   preset_color_schemes:
     mac_light:
@@ -607,18 +612,25 @@ patch:
       name: Win11Dark
       shadow_color: 0x16000000
       text_color: 0xc9c9c9
+      corner_radius: 5
+      hilited_corner_radius: 5
+      line_spacing: 8
+      hilite_spacing: 6
+      spacing: 12
+
 
     win11light:
       back_color: 0xfff9f9f9
       border_color: 0x10f0f0f0
+      candidate_back_color: 0xfff9f9f9
       candidate_text_color: 0x000000
       comment_text_color: 0x666666
-      hilited_back_color: 0xffffff
+      hilited_back_color: 0xf0f0f0
       hilited_candidate_back_color: 0xf0f0f0
-      hilited_candidate_text_color: 0x1a1a1a
+      hilited_candidate_text_color: 0x0A0A0A
       hilited_comment_text_color: 0x1a1a1a
       hilited_label_color: 0x1a1a1a
-      hilited_mark_color: 0x1a1a1a
+      hilited_mark_color: 0x303030
       hilited_text_color: 0x1a1a1a
       label_color: 0x1a1a1a
       name: Win11Light
