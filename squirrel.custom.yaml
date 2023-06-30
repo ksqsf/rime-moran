@@ -652,12 +652,14 @@ patch:
     com.microsoft.VSCode:
       ascii_mode: true
       ascii_punct: true
-    org.gnu.Emacs:
-      ascii_mode: true
     com.apple.dt.Xcode:
       ascii_mode: true
     com.googlecode.iterm2:
       ascii_mode: true
+    org.gnu.Emacs:
+      ascii_mode: true
+      no_inline: true
+      vim_mode: true
 
     com.tencent.Lemon:
       ascii_mode: true
