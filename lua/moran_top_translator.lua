@@ -28,16 +28,29 @@ end
 function top.func(input, seg, env)
    local input_len = utf8.len(input)
    local fixed_triggered = false
-   -- 當輸入長度大於等於4時，禁止輸出詞語
-   if (input_len ~= 4 and env.engine.context.input == input) then
-      fixed_triggered = true
-      local input_len = utf8.len(input)
+   local flexible = env.engine.context:get_option("flexible")
+
+   -- 用戶尚未選過字時，調用碼表。
+   if (env.engine.context.input == input) then
       local fixed_res = env.fixed:query(input, seg)
-      if fixed_res ~= nil then
+      -- 如果輸入長度爲 4，只輸出 2 字詞。
+      -- 僅在 not flexible （固詞模式）時才產生這些輸出。
+      if (input_len == 4) then
+         if (not flexible) then
+            for cand in fixed_res:iter() do
+               local cand_len = utf8.len(cand.text)
+               if (cand_len == 2) then
+                  cand.comment = "⚡️"
+                  yield(cand)
+                  fixed_triggered = true
+               end
+            end
+         end
+      else
          for cand in fixed_res:iter() do
-            local cand_len = utf8.len(cand.text)
-            cand.comment = "⚡"
+            cand.comment = "⚡️"
             yield(cand)
+            fixed_triggered = true
          end
       end
    end

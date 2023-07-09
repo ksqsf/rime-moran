@@ -23,6 +23,13 @@ switches:
     states: [ 漢字, 汉字 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
+  - name: flexible
+    states: [ 固詞, 動詞 ]
+    reset: 1
+    # 「固詞」表示「固頂詞」。
+    # 默認情況下，輸入 4 碼時，會禁止碼表輸出（「動詞」模式）。
+    # 這是因爲碼表最大碼長爲 4，可能會產生較低頻的多字詞，覆蓋過用戶自造的常用詞語。
+    # 當固詞模式啓動後，輸入 4 碼時會優先輸出碼表中的二字詞，這些輸出帶有「⚡️」標記。
   - name: emoji
     reset: 1
     states: [ 🈚, 🈶 ]
@@ -152,7 +159,7 @@ key_binder:
   bindings:
     - {when: has_menu, accept: "Control+s", toggle: simplification}
     - {when: has_menu, accept: "Control+u", toggle: unicode_comment}
-    - {when: has_menu, accept: "Control+b", toggle: emoji}  # b 表示 表情, 让出 Ctrl+e
+    - {when: has_menu, accept: "Control+q", toggle: emoji}  # q 表示表情，讓出 Ctrl+e
     - {when: has_menu, accept: "Control+d", toggle: dzing}
     - {when: has_menu, accept: semicolon, send: "2"}
     - {when: has_menu, accept: "Tab", send: "Control+Right"}
