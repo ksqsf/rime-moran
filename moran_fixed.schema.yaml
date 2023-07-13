@@ -75,6 +75,15 @@ custom_phrase: # 自定義短語
   enable_sentence: false
   initial_quality: 10
 
+reverse_lookup:
+  dictionary: moran_fixed
+  tips: 〔通配〕
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "^(``[a-z][a-z]?|[a-z][a-z]`[a-z`]?|[a-z][a-z][a-z`]?`)$"
+
 
 punctuator:
   import_preset: symbols
