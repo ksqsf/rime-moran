@@ -76,7 +76,7 @@ custom_phrase: # 自定義短語
   initial_quality: 10
 
 reverse_lookup:
-  dictionary: moran_fixed
+  dictionary: moran.main
   tips: 〔通配〕
 
 recognizer:
