@@ -5,3 +5,4 @@ patch:
     - {schema: moran_fixed}
     - {schema: luna_pinyin}
     - {schema: njerchet}
+    - {schema: tiger}
