@@ -21,8 +21,9 @@
   - `moran.custom.txt`
 + 簡繁快速切換
   - Ctrl+S (S 意爲 simplified)
-+ 虎碼反查
-  - 用 `` ` `` 引導
++ 反查
+  - `` ` `` 爲萬能通配鍵
+  - 虎碼反查用 `` ` `` 引導
 + 繪文字（Emoji）支持
   - 用 Ctrl+E 開關
 + Unicode 編碼和區位顯示
