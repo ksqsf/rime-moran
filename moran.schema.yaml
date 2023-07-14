@@ -194,4 +194,4 @@ __patch:
 grammar:
   language: zh-hant-t-essay-bgw
   collocation_max_length: 6
-  collocation_min_length: 2
+  collocation_min_length: 4
