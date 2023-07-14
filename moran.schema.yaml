@@ -103,7 +103,7 @@ fixed:         # 固頂輸入模式設置，在 top_translator 中被調用
   dictionary: moran_fixed
   enable_completion: false
   enable_sentence: false
-  enable_user_dict: true
+  enable_user_dict: false
   enable_encoder: false
   encode_commit_history: true
   contextual_suggestions: true
