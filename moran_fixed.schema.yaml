@@ -36,6 +36,7 @@ engine:
   segmentors:
     - ascii_segmentor
     - matcher
+    - affix_segmentor@zkci
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
@@ -44,13 +45,15 @@ engine:
     - reverse_lookup_translator
     - table_translator@custom_phrase       # 自定義短語
     - table_translator
+    - table_translator@fixed
+    - table_translator@zkci
   filters:
     - simplifier
     - uniquifier
 
 speller:
   alphabet: "abcdefghijklmnopqrstuvwxyz'"
-  delimiter: " "
+  delimiter: "'"
   max_code_length: 4
   auto_select: true
   auto_select_pattern: ^;.$|^\w{4}$
@@ -62,10 +65,22 @@ ascii_composer:
 
 translator:
   dictionary: moran_fixed
+  db_class: tabledb
   enable_charset_filter: false
   enable_sentence: false
   enable_completion: false
   enable_user_dict: false
+  initial_quality: 100000
+
+fixed:
+  dictionary: moran_fixed
+  db_class: tabledb
+  enable_charset_filter: false
+  enable_sentence: false
+  enable_completion: false
+  enable_user_dict: true
+  enable_encoder: true
+  initial_quality: 1000
 
 custom_phrase: # 自定義短語
   dictionary: ""
@@ -73,6 +88,20 @@ custom_phrase: # 自定義短語
   db_class: stabledb
   enable_completion: false
   enable_sentence: false
+  initial_quality: 10
+
+zkci:           # 造詞
+  tag: zkci
+  db_class: tabledb
+  dictionary: moran_fixed
+  enable_user_dict: false
+  enable_charset_filter: false
+  enable_completion: false
+  enable_sentence: true
+  enable_encoder: false
+  max_phrase_length: 4
+  prefix: "'"
+  tips: 〔造詞〕
   initial_quality: 10
 
 reverse_lookup:
@@ -83,6 +112,7 @@ recognizer:
   import_preset: default
   patterns:
     reverse_lookup: "(^(`[a-z`]+))|(^([a-z]{2}(`[a-z`]?|[a-z`]`)))"
+    zkci: "^[a-z]*'[a-z']*$"
 
 
 punctuator:

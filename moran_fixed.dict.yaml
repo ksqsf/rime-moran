@@ -8,6 +8,14 @@ sort: original
 columns:
   - code
   - text
+encoder:
+  rules:
+    - length_equal: 2
+      formula: "AaAbBaBb"
+    - length_equal: 3
+      formula: "AaBaCaCb"
+    - length_equal: [4, 32]
+      formula: "AaBaCaZa"
 ...
 
 a	啊
