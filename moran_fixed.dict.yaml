@@ -8,6 +8,7 @@ sort: original
 columns:
   - code
   - text
+  - weight
 encoder:
   rules:
     - length_equal: 2
@@ -5733,7 +5734,7 @@ czqj	廁足其間
 cztl	慘遭屠戮
 cztl	操作檯
 czxt	操作系統
-d	的
+d	的	10000
 d	道
 da	打
 daa	大
@@ -17329,6 +17330,7 @@ hvfg	滙豐
 hvfh	回訪
 hvfj	回返
 hvfu	恢復
+hvfu	回覆
 hvfw	撝
 hvfz	會費
 hvg	輝
@@ -28698,6 +28700,7 @@ ludr	路段
 ludv	勞師動衆
 ludx	雷聲大，雨點小
 ludz	量身定做
+lue	陸
 luf	擄
 lufh	錄放
 lufl	摝
@@ -53989,6 +53992,7 @@ xnj	鑫
 xnjd	新疆
 xnji	心機
 xnjm	新建
+xnjm	信件
 xnjn	新進
 xnjq	新舊
 xnjq	舋
@@ -55921,7 +55925,7 @@ xzye	寫作業
 xzyf	雄姿英發
 xzym	仙姿玉貌
 xzzq	西藏自治區
-y	一
+y	一	100
 y	又
 ya	呀
 yaa	牙
@@ -57491,6 +57495,7 @@ yiw	亦
 yiwf	疑問
 yiwg	腰纏萬貫
 yiwh	以往
+yiwh	遺忘
 yiwj	一萬
 yiwl	意外
 yiwn	遺臭萬年
@@ -59895,6 +59900,7 @@ yuyn	益壽延年
 yuyq	醧
 yuys	御用
 yuyt	預約
+yuyt	愉悅
 yuyu	一生一世
 yuyv	有始有終
 yuyw	遠勝於我
