@@ -106,8 +106,6 @@ fixed:         # 固頂輸入模式設置，在 top_translator 中被調用
   enable_user_dict: false
   enable_encoder: false
   encode_commit_history: true
-  contextual_suggestions: true
-  max_homographs: 7
 
 custom_phrase: # 自定義短語
   dictionary: ""
@@ -187,11 +185,13 @@ __patch:
   - moran.custom.yaml:/patch?
 
 # 字模型
-grammar:
-  language: zh-hant-t-essay-bgc
-  collocation_max_length: 2
-  collocation_min_length: 2
+# grammar:
+#   language: zh-hant-t-essay-bgc
+#   collocation_max_length: 5
+#   collocation_min_length: 4
 
 # 詞模型
-# grammar:
-#   language: zh-hant-t-essay-bgw
+grammar:
+  language: zh-hant-t-essay-bgw
+  collocation_max_length: 6
+  collocation_min_length: 2

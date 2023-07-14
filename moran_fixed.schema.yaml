@@ -128,3 +128,6 @@ key_binder:
     - {when: has_menu, accept: semicolon, send: "2"}
     - {when: has_menu, accept: "Tab", send: "Control+Right"}
     - {when: composing, accept: "Tab", send: "Control+Right"}
+
+__patch:
+  - moran_fixed.custom:/patch?
