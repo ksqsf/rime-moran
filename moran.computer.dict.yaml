@@ -2318,7 +2318,7 @@ columns:
 搭線竊聽	da;fd xm;sq qx;xs ty;ex
 搭線竊聽	da;fd xm;sq qx;bs ty;ex
 大型計算機	da;ad xy;tx ji;yu sr;vc ji;mj
-大型計算機	da;hd xy;tx ji;yu sr;vc ji;mj
+大型計算機	da;ad xy;tx ji;yu sr;vc ji;mj
 打印服務器		1000
 打印機	da;fd yn;pe ji;mj
 打印機	da;fd yn;ey ji;mj
@@ -2334,7 +2334,7 @@ columns:
 打印質量	da;fd yn;ey vi;bj ld;ol
 大於搜索		1000
 大語種	da;ad yu;yw vs;hv
-大語種	da;hd yu;yw vs;hv
+大語種	da;ad yu;yw vs;hv
 帶標號複用	dl;jb bc;mp hk;hh fu;yf ys;kf
 帶標號信道	dl;jb bc;mp hk;hh xn;ry dk;zu
 帶符號	dl;jb fu;vf hk;hh
@@ -12671,7 +12671,7 @@ columns:
 套件	tk;di jm;rn
 套具驅動器		1000
 特大型機	te;ns da;ad xy;tx ji;mj
-特大型機	te;ns da;hd xy;tx ji;mj
+特大型機	te;ns da;ad xy;tx ji;mj
 特定人言語識別		1000
 特定人語音識別		1000
 特定應用服務要素		1000
@@ -13874,8 +13874,8 @@ columns:
 文件存取		1000
 文件大小	wf;dd jm;rn da;ad xc;ad
 文件大小	wf;dd jm;rn da;ad xc;ud
-文件大小	wf;dd jm;rn da;hd xc;ad
-文件大小	wf;dd jm;rn da;hd xc;ud
+文件大小	wf;dd jm;rn da;ad xc;ad
+文件大小	wf;dd jm;rn da;ad xc;ud
 文件定義	wf;dd jm;rn dy;bp yi;yw
 文件分段		1000
 文件分配	wf;dd jm;rn ff;db pz;yj
@@ -16279,8 +16279,8 @@ columns:
 優化操作	yb;rw hw;rb ck;fz zo;rv
 優化大師	yb;rw hw;rb da;ad ui;vb
 優化大師	yb;rw hw;rb da;ad ui;bv
-優化大師	yb;rw hw;rb da;hd ui;vb
-優化大師	yb;rw hw;rb da;hd ui;bv
+優化大師	yb;rw hw;rb da;ad ui;vb
+優化大師	yb;rw hw;rb da;ad ui;bv
 右鍵	yb;uk jm;jj
 右鍵	yb;ku jm;jj
 郵件發送清單	yb;ei jm;rn fa;du ss;zg qy;dq dj;kd
@@ -18522,22 +18522,14 @@ columns:
 鑽取	zr;jz qu;ey
 鑽取	zr;jz qu;ye
 最大超調	zv;oq da;ad ik;zv dc;yv
-最大超調	zv;oq da;hd ik;zv dc;yv
-最大超調	zv;rq da;ad ik;zv dc;yv
-最大超調	zv;rq da;hd ik;zv dc;yv
 最大低閾值輸入電壓		1000
 最大開路線長度		1000
 最大線長		1000
 最大延遲路徑		1000
 最大允許偏差	zv;oq da;ad yp;se xu;yw pm;rb ia;yg
-最大允許偏差	zv;oq da;hd yp;se xu;yw pm;rb ia;yg
-最大允許偏差	zv;rq da;ad yp;se xu;yw pm;rb ia;yg
-最大允許偏差	zv;rq da;hd yp;se xu;yw pm;rb ia;yg
 最大最小測試		1000
 最低保護	zv;oq di;rd bk;rd hu;yh
 最低保護	zv;oq di;rd bk;rd hu;yy
-最低保護	zv;rq di;rd bk;rd hu;yh
-最低保護	zv;rq di;rd bk;rd hu;yy
 最短路徑		1000
 最短作業優先法		1000
 最高優先級		1000
@@ -18546,61 +18538,39 @@ columns:
 最高允許結溫		1000
 最廣合一子		1000
 最好用的	zv;oq hk;nz ys;kf de;bu
-最好用的	zv;rq hk;nz ys;kf de;bu
 最後優先級		1000
 最壞	zv;oq hy;ty
 最壞	zv;oq hy;th
-最壞	zv;rq hy;ty
-最壞	zv;rq hy;th
 最壞模式測試		1000
 最壞情況分析		1000
 最佳適配	zv;oq jw;rg ui;zd pz;yj
-最佳適配	zv;rq jw;rg ui;zd pz;yj
 最佳優先搜索		1000
 最近使用字詞先見		1000
 最近最少使用	zv;oq jn;zj zv;oq uk;xp ui;rl ys;kf
 最近最少使用	zv;oq jn;zj zv;rq uk;xp ui;rl ys;kf
-最近最少使用	zv;rq jn;zj zv;oq uk;xp ui;rl ys;kf
-最近最少使用	zv;rq jn;zj zv;rq uk;xp ui;rl ys;kf
 最小範圍	zv;oq xc;ad fj;ve wz;kw
 最小範圍	zv;oq xc;ud fj;ve wz;kw
-最小範圍	zv;rq xc;ad fj;ve wz;kw
-最小範圍	zv;rq xc;ud fj;ve wz;kw
 最小高閾值輸入電壓		1000
 最小回路	zv;oq xc;ad hv;kk lu;zg
 最小回路	zv;oq xc;ud hv;kk lu;zg
-最小回路	zv;rq xc;ad hv;kk lu;zg
-最小回路	zv;rq xc;ud hv;kk lu;zg
 最小平方逼近		1000
 最小生成樹		1000
 最小特權	zv;oq xc;ad te;ns qr;mv
 最小特權	zv;oq xc;ud te;ns qr;mv
-最小特權	zv;rq xc;ad te;ns qr;mv
-最小特權	zv;rq xc;ud te;ns qr;mv
 最小特權原則	zv;oq xc;ad te;ns qr;mv yr;ix ze;db
 最小特權原則	zv;oq xc;ud te;ns qr;mv yr;ix ze;db
-最小特權原則	zv;rq xc;ad te;ns qr;mv yr;ix ze;db
-最小特權原則	zv;rq xc;ud te;ns qr;mv yr;ix ze;db
 最優編碼	zv;oq yb;rw bm;sb ma;um
-最優編碼	zv;rq yb;rw bm;sb ma;um
 最優並行算法		1000
 最優估計	zv;oq yb;rw gu;rg ji;yu
-最優估計	zv;rq yb;rw gu;rg ji;yu
 最優歸併樹		1000
 最優控制	zv;oq yb;rw ks;fk vi;dv
 最優控制	zv;oq yb;rw ks;fk vi;dg
-最優控制	zv;rq yb;rw ks;fk vi;dv
-最優控制	zv;rq yb;rw ks;fk vi;dg
 最右派生		1000
 最優凸分解		1000
 最優性	zv;oq yb;rw xy;xu
-最優性	zv;rq yb;rw xy;xu
 最優圓弧插值	zv;oq yb;rw yr;ky hu;gg ia;fi vi;rv
 最優圓弧插值	zv;oq yb;rw yr;ky hu;gg ia;fj vi;rv
-最優圓弧插值	zv;rq yb;rw yr;ky hu;gg ia;fi vi;rv
-最優圓弧插值	zv;rq yb;rw yr;ky hu;gg ia;fj vi;rv
 最終用戶編程	zv;oq vs;sd ys;kf hu;pk bm;sb ig;hi
-最終用戶編程	zv;rq vs;sd ys;kf hu;pk bm;sb ig;hi
 最左派生		1000
 左匹配	zo;ug pi;ke pz;yj
 左匹配	zo;gu pi;ke pz;yj

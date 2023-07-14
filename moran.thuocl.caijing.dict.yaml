@@ -623,7 +623,7 @@ use_preset_vocabulary: false
 原告	yr;ix gk;nk	259
 篩選	ul;vu xr;zg	258
 華商	hw;ca uh;wk	257
-四大	si;ke da;hd	252
+四大	si;ke da;ad	252
 亞太	ya;aa tl;dd	250
 亞太	ya;hh tl;dd	250
 多樣化	do;xx yh;my hw;rb	249
@@ -975,7 +975,7 @@ use_preset_vocabulary: false
 扣留	kb;fk lq;lt	112
 扣留	kb;fk lq;tl	112
 大盤	da;ad pj;mb	112
-大盤	da;hd pj;mb	112
+大盤	da;ad pj;mb	112
 赤字	ii;ty zi;bz	111
 赤字	ii;tb zi;bz	111
 深層次	uf;dm cg;uc ci;dq	111
@@ -1133,8 +1133,8 @@ use_preset_vocabulary: false
 下單	xw;hb dj;kd	80
 大西洋	da;ad xi;aa yh;dy	80
 大西洋	da;ad xi;hh yh;dy	80
-大西洋	da;hd xi;aa yh;dy	80
-大西洋	da;hd xi;hh yh;dy	80
+大西洋	da;ad xi;aa yh;dy	80
+大西洋	da;ad xi;hh yh;dy	80
 套取	tk;di qu;ye	80
 套取	tk;di qu;ey	80
 特許	te;ns xu;yw	79
@@ -1380,7 +1380,7 @@ use_preset_vocabulary: false
 申購	uf;aa gb;bg	49
 接洽	jx;fq qw;dh	49
 大連港	da;ad lm;zi gh;dx	49
-大連港	da;hd lm;zi gh;dx	49
+大連港	da;ad lm;zi gh;dx	49
 新世界	xn;jq ui;aa jx;tj	48
 新世界	xn;jq ui;ca jx;tj	48
 新世界	xn;jq ui;hv jx;tj	48
@@ -1710,7 +1710,7 @@ use_preset_vocabulary: false
 退市	tv;zg ui;wj	26
 人壽保險	rf;pd ub;hd bk;rd xm;eq	26
 人壽保險	rf;pd ub;uc bk;rd xm;eq	26
-中南財經政法大學	vs;aa nj;ua cl;bc jy;sg vg;wv fa;dq da;hd xt;jz	26
+中南財經政法大學	vs;aa nj;ua cl;bc jy;sg vg;wv fa;dq da;ad xt;jz	26
 三角形	sj;aa jc;dy xy;pk	26
 三角形	sj;hh jc;dy xy;pk	26
 托盤	to;fq pj;mb	26
@@ -1927,7 +1927,7 @@ use_preset_vocabulary: false
 發行價	fa;du xy;xd jw;rj	17
 消費類	xc;dx fz;bf lz;yl	17
 消費類	xc;dx fz;bf lz;yq	17
-大中型企業	da;hd vs;aa xy;tx qi;rv ye;yl	17
+大中型企業	da;ad vs;aa xy;tx qi;rv ye;yl	17
 阿波羅	aa;ek bo;dp lo;sv	17
 阿波羅	aa;ek bo;dp lo;sw	17
 還本付息	hr;zh bf;aa fu;rc xi;xz	17
@@ -1954,7 +1954,7 @@ use_preset_vocabulary: false
 優先權	yb;rw xm;ne qr;mv	16
 優先權	yb;rw xm;en qr;mv	16
 大人物	da;ad rf;pd wu;nw	16
-大人物	da;hd rf;pd wu;nw	16
+大人物	da;ad rf;pd wu;nw	16
 總需求	zs;sc xu;ye qq;ad	16
 總需求	zs;sc xu;ye qq;hd	16
 總需求	zs;sx xu;ye qq;ad	16
@@ -2166,7 +2166,7 @@ use_preset_vocabulary: false
 最高價	zv;rq gk;wk jw;rj	10
 貼現	tx;bv xm;wj	10
 美國銀行	mz;dy go;kh yn;jg hh;xd	10
-上海財經大學	uh;aa hl;dm cl;bc jy;sg da;hd xt;jz	10
+上海財經大學	uh;aa hl;dm cl;bc jy;sg da;ad xt;jz	10
 鞍鋼	an;ga gh;jg	10
 撤資	ie;fw zi;bc	10
 接盤	jx;fq pj;mb	10
@@ -2208,7 +2208,7 @@ use_preset_vocabulary: false
 收盤價	ub;wj pj;mb jw;rj	9
 收盤價	ub;jw pj;mb jw;rj	9
 國際大廈	go;kh ji;ej da;ad ua;gx	9
-國際大廈	go;kh ji;ej da;hd ua;gx	9
+國際大廈	go;kh ji;ej da;ad ua;gx	9
 機制性	ji;mj vi;dv xy;xu	9
 機制性	ji;mj vi;dg xy;xu	9
 擠兌	ji;fq dv;bx	9
@@ -2268,7 +2268,7 @@ use_preset_vocabulary: false
 股份有限公司	gu;ou ff;rf yb;ou xm;eg gs;sb si;gk	8
 自由競爭	zi;pa yb;aa jy;jj vg;va	8
 新大陸	xn;jq da;ad lu;et	8
-新大陸	xn;jq da;hd lu;et	8
+新大陸	xn;jq da;ad lu;et	8
 資產負債率	zi;bc ij;wu fu;db vl;rz lv;wu	8
 資產負債率	zi;bc ij;wu fu;db vl;rz lv;du	8
 暫行辦法	zj;ov xy;xd bj;lx fa;dq	8
@@ -2379,13 +2379,13 @@ use_preset_vocabulary: false
 中國國航	vs;uu go;kh go;kh hh;vk	6
 中國國航	vs;ku go;kh go;kh hh;vk	6
 中國國航	vs;ka go;kh go;kh hh;vk	6
-大東海	da;hd ds;ad hl;dm	6
+大東海	da;ad ds;ad hl;dm	6
 大盤股	da;ad pj;mb gu;yu	6
 大盤股	da;ad pj;mb gu;ou	6
-大盤股	da;hd pj;mb gu;yu	6
-大盤股	da;hd pj;mb gu;ou	6
+大盤股	da;ad pj;mb gu;yu	6
+大盤股	da;ad pj;mb gu;ou	6
 商社	uh;wk ue;ut	6
-北大荒	bz;ap da;hd hd;ci	6
+北大荒	bz;ap da;ad hd;ci	6
 信達	xn;ry da;zy	6
 總賬	zs;sc vh;bi	6
 總賬	zs;sx vh;bi	6
@@ -2414,7 +2414,7 @@ use_preset_vocabulary: false
 磁卡	ci;uz ka;bx	6
 個股	ge;rg gu;yu	6
 個股	ge;rg gu;ou	6
-百大	bl;ab da;hd	6
+百大	bl;ab da;ad	6
 投資界	tb;fu zi;bc jx;tj	6
 低開	di;rd kl;mk	6
 中北	vs;aa bz;ap	6
@@ -2430,9 +2430,9 @@ use_preset_vocabulary: false
 原始積累	yr;ix ui;nt ji;hz lz;st	5
 原始積累	yr;ix ui;nt ji;hz lz;ts	5
 摩根大通	mo;um gf;mg da;ad ts;zy	5
-摩根大通	mo;um gf;mg da;hd ts;zy	5
+摩根大通	mo;um gf;mg da;ad ts;zy	5
 摩根大通	mo;mu gf;mg da;ad ts;zy	5
-摩根大通	mo;mu gf;mg da;hd ts;zy	5
+摩根大通	mo;mu gf;mg da;ad ts;zy	5
 驗鈔機	yj;mq ik;ju ji;mj	5
 銀行界	yn;jg hh;xi jx;tj	5
 銀行界	yn;jg hh;rd jx;tj	5
@@ -2630,7 +2630,7 @@ use_preset_vocabulary: false
 分界點	ff;db jx;tj dm;hv	4
 引開	yn;ga kl;mk	4
 引開	yn;gu kl;mk	4
-大牛市	da;hd nq;pa ui;wj	4
+大牛市	da;ad nq;pa ui;wj	4
 收藏品	ub;wj ch;ci pn;kk	4
 收藏品	ub;wj ch;cg pn;kk	4
 收藏品	ub;jw ch;ci pn;kk	4
@@ -2752,7 +2752,7 @@ use_preset_vocabulary: false
 體制性	ti;gl vi;dg xy;xu	3
 海納	hl;dm na;sn	3
 大化	da;ad hw;rb	3
-大化	da;hd hw;rb	3
+大化	da;ad hw;rb	3
 安聯	an;bn lm;eu	3
 安聯	an;bn lm;ea	3
 黑卡	hz;ha ka;ub	3
@@ -2957,7 +2957,7 @@ use_preset_vocabulary: false
 華富	hw;ch fu;bf	2
 華富	hw;ca fu;bt	2
 華富	hw;ca fu;bf	2
-大元	da;hd yr;ee	2
+大元	da;ad yr;ee	2
 淡馬錫	dj;dy ma;ad xi;jy	2
 淡馬錫	dj;dy ma;hh xi;jy	2
 淡馬錫	dj;dy ma;hd xi;jy	2
@@ -3008,8 +3008,8 @@ use_preset_vocabulary: false
 百事	bl;ab ui;aa	2
 大摩	da;ad mo;um	2
 大摩	da;ad mo;mu	2
-大摩	da;hd mo;um	2
-大摩	da;hd mo;mu	2
+大摩	da;ad mo;um	2
+大摩	da;ad mo;mu	2
 記錄員	ji;yj lu;jl yr;kb	2
 紀念鈔	ji;sj nm;xj ik;ju	2
 研究報告	yj;uk jq;bj bk;ex gk;kn	1
@@ -3100,8 +3100,8 @@ use_preset_vocabulary: false
 金交所	jn;ra jc;wf so;jh	1
 大降	da;ad jd;ef	1
 大降	da;ad jd;ej	1
-大降	da;hd jd;ef	1
-大降	da;hd jd;ej	1
+大降	da;ad jd;ef	1
+大降	da;ad jd;ej	1
 概念股	gl;mj nm;xj gu;yu	1
 概念股	gl;mj nm;xj gu;ou	1
 滙豐銀行	hv;dv fg;ud yn;jg hh;xd	1
@@ -3123,7 +3123,7 @@ use_preset_vocabulary: false
 國富論	go;kh fu;bt lp;yl	1
 國富論	go;kh fu;bf lp;yl	1
 新大洲	xn;jq da;ad vb;dv	1
-新大洲	xn;jq da;hd vb;dv	1
+新大洲	xn;jq da;ad vb;dv	1
 景順長城	jy;oj up;yi ih;ad ig;ti	1
 景順長城	jy;oj up;yi ih;hd ig;ti	1
 景順長城	jy;rj up;yi ih;ad ig;ti	1
@@ -3158,7 +3158,7 @@ use_preset_vocabulary: false
 金嶺	jn;ph ly;ul	1
 海泰	hl;dm tl;fu	1
 海泰	hl;dm tl;uf	1
-加拿大元	jw;kl na;uh da;hd yr;ee	1
+加拿大元	jw;kl na;uh da;ad yr;ee	1
 中小散戶	vs;aa xc;ad sj;wo hu;pk	1
 建設銀行	jm;zy ue;yu yn;jg hh;xi	1
 建設銀行	jm;zy ue;yu yn;jg hh;rd	1
@@ -3244,7 +3244,7 @@ use_preset_vocabulary: false
 小盤股	xc;ud pj;mb gu;ou	1
 小盤股	xc;ad pj;mb gu;yu	1
 小盤股	xc;ad pj;mb gu;ou	1
-大通銀行	da;hd ts;zy yn;jg hh;xd	1
+大通銀行	da;ad ts;zy yn;jg hh;xd	1
 宜華	yi;bq hw;ch	1
 宜華	yi;bq hw;ca	1
 海普瑞	hl;dm pu;rb rv;we	1
@@ -3446,8 +3446,8 @@ use_preset_vocabulary: false
 南順	nj;uy up;yi	0
 袁大頭	yr;ty da;ad tb;yd	0
 袁大頭	yr;ty da;ad tb;dy	0
-袁大頭	yr;ty da;hd tb;yd	0
-袁大頭	yr;ty da;hd tb;dy	0
+袁大頭	yr;ty da;ad tb;yd	0
+袁大頭	yr;ty da;ad tb;dy	0
 公司章程	gs;sb si;gk vh;lz ig;hi	0
 三聯商社	sj;aa lm;ea uh;wk ue;ut	0
 浦銀	pu;df yn;jg	0
@@ -3459,7 +3459,7 @@ use_preset_vocabulary: false
 華天酒店	hw;ca tm;ad jq;dy dm;gv	0
 華天酒店	hw;ca tm;hd jq;dy dm;gv	0
 永大	ys;dd da;ad	0
-永大	ys;dd da;hd	0
+永大	ys;dd da;ad	0
 附單	fu;ef dj;kd	0
 華潤集團	hw;ch rp;dr ji;mv tr;kv	0
 華潤集團	hw;ch rp;dr ji;vm tr;kv	0
@@ -3476,7 +3476,7 @@ use_preset_vocabulary: false
 博通	bo;uf ts;zy	0
 新財富	xn;jq cl;bc fu;bt	0
 新財富	xn;jq cl;bc fu;bf	0
-川大智勝	ir;pa da;hd vi;ov ug;ol	0
+川大智勝	ir;pa da;ad vi;ov ug;ol	0
 滙豐晉信	hv;dv fg;ud jn;ao xn;ry	0
 盤後	pj;mb hb;rw	0
 盤後	pj;mb hb;xw	0
@@ -3572,7 +3572,7 @@ use_preset_vocabulary: false
 保增長	bk;rd zg;tc vh;hd	0
 中國信達資產管理公司	vs;aa go;kh xn;ry da;zy zi;bc ij;wu gr;vg li;wl gs;sb si;gk	0
 融資款	rs;ig zi;bc kr;qu	0
-大華銀行	da;hd hw;ca yn;jg hh;xd	0
+大華銀行	da;ad hw;ca yn;jg hh;xd	0
 聖方	ug;ew fh;wd	0
 質押品	vi;bj ya;fj pn;kk	0
 保網	bk;rd wh;sw	0
@@ -3585,7 +3585,7 @@ use_preset_vocabulary: false
 試點方案	ui;yu dm;hv fh;wd an;ma	0
 精倫	jy;mq lp;rl	0
 完稅證	wj;by uv;hd vg;yd	0
-方大特鋼	fh;wd da;hd te;ns gh;jg	0
+方大特鋼	fh;wd da;ad te;ns gh;jg	0
 借記	jx;rx ji;yj	0
 下軌	xw;ad gv;ij	0
 下軌	xw;ab gv;ij	0
@@ -3634,7 +3634,7 @@ use_preset_vocabulary: false
 信立泰	xn;ry li;da tl;uf	0
 超跌股	ik;zv dx;zu gu;yu	0
 超跌股	ik;zv dx;zu gu;ou	0
-經貿大學	jy;sg mk;bd da;hd xt;jz	0
+經貿大學	jy;sg mk;bd da;ad xt;jz	0
 借出	jx;rx iu;uu	0
 借出	jx;rx iu;ck	0
 萬利達	wj;cy li;dh da;zy	0
@@ -3652,7 +3652,7 @@ use_preset_vocabulary: false
 匯麗	hv;kh li;ll	0
 新錦江	xn;jq jn;jj jd;dg	0
 新錦江	xn;jq jn;jb jd;dg	0
-方大集團	fh;wd da;hd ji;vm tr;kv	0
+方大集團	fh;wd da;ad ji;vm tr;kv	0
 港股通	gh;dx gu;yu ts;zy	0
 港股通	gh;dx gu;ou ts;zy	0
 寶姿	bk;bb zi;nc	0
@@ -3665,7 +3665,7 @@ use_preset_vocabulary: false
 公用科技	gs;bs ys;kf ke;hd ji;fv	0
 公用科技	gs;sb ys;kf ke;hd ji;fv	0
 銀行學	yn;jg hh;xd xt;jz	0
-大北農	da;hd bz;ap ns;qi	0
+大北農	da;ad bz;ap ns;qi	0
 口令卡	kb;aa ly;rs ka;ub	0
 口令卡	kb;aa ly;rs ka;bx	0
 口令卡	kb;uh ly;rs ka;ub	0
@@ -3942,7 +3942,7 @@ use_preset_vocabulary: false
 售樓處	ub;vk lb;ml iu;hi	0
 售樓處	ub;kv lb;ml iu;hi	0
 新中基	xn;jq vs;aa ji;tq	0
-大有期貨	da;hd yb;ou qi;oq ho;bh	0
+大有期貨	da;ad yb;ou qi;oq ho;bh	0
 金本位制	jn;ra bf;aa wz;rl vi;dg	0
 中科三環	vs;aa ke;hd sj;aa hr;wh	0
 填權	tm;tv qr;mv	0

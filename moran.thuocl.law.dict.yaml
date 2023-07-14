@@ -53,7 +53,7 @@ use_preset_vocabulary: false
 院長	yr;ew vh;ad	5518
 院長	yr;ew vh;hd	5518
 協商	xx;ul uh;wk	5448
-全國人大常委會	qr;rw go;kh rf;pd da;hd ih;xd wz;hn hv;ro	5175
+全國人大常委會	qr;rw go;kh rf;pd da;ad ih;xd wz;hn hv;ro	5175
 省委	ug;ou wz;hn	5018
 省委	ug;mu wz;hn	5018
 有限責任公司	yb;ou xm;eg ze;bf rf;rr gs;sb si;gk	4805
@@ -461,7 +461,7 @@ use_preset_vocabulary: false
 現代企業制度	xm;wj dl;ry qi;rv ye;yl vi;dv du;gy	363
 現代企業制度	xm;wj dl;ry qi;rv ye;yl vi;dg du;gy	363
 土地出讓金	tu;aa di;ty iu;uu rh;yx jn;ra	362
-中國政法大學	vs;aa go;kh vg;wv fa;dq da;hd xt;jz	361
+中國政法大學	vs;aa go;kh vg;wv fa;dq da;ad xt;jz	361
 中央黨校	vs;aa yh;ad dh;hk xc;mj	361
 安全局	an;bn qr;rw ju;uk	358
 前提條件	qm;bd ti;fu tc;rt jm;rn	348
@@ -724,7 +724,7 @@ use_preset_vocabulary: false
 漏稅	lb;dy uv;hd	168
 漏稅	lb;dl uv;hd	168
 承包經營權	ig;ad bk;gs jy;sg yy;hl qr;mv	168
-職工代表大會	vi;eg gs;aa dl;ry bc;fy da;hd hv;ro	167
+職工代表大會	vi;eg gs;aa dl;ry bc;fy da;ad hv;ro	167
 會計法	ky;rr ji;yu fa;dq	166
 會計法	ky;ro ji;yu fa;dq	166
 不稱職	bu;ad if;hr vi;eg	165
@@ -732,7 +732,7 @@ use_preset_vocabulary: false
 規劃許可證	gv;fj hw;dh xu;yw ke;dk vg;yd	164
 規劃許可證	gv;jf hw;dh xu;yw ke;dk vg;yd	164
 依法查處	yi;ry fa;dq ia;md iu;hi	164
-全國人民代表大會常務委員	qr;rw go;kh rf;pd mn;ag dl;ry bc;fy da;hd hv;ro ih;xd wu;mw wz;hn yr;kb	160
+全國人民代表大會常務委員	qr;rw go;kh rf;pd mn;ag dl;ry bc;fy da;ad hv;ro ih;xd wu;mw wz;hn yr;kb	160
 仲裁裁決	vs;rv cl;gy cl;gy jt;dd	158
 公務員錄用	gs;bs wu;mw yr;kb lu;jl ys;kf	158
 公務員錄用	gs;sb wu;mw yr;kb lu;jl ys;kf	158
@@ -965,12 +965,12 @@ use_preset_vocabulary: false
 案值	an;ma vi;rv	97
 農民集體	ns;qi mn;ag ji;vm ti;gd	97
 大陸法	da;ad lu;et fa;dq	97
-大陸法	da;hd lu;et fa;dq	97
+大陸法	da;ad lu;et fa;dq	97
 婦女權益	fu;nv nv;aa qr;mv yi;mb	97
 婦女權益	fu;nv nv;vh qr;mv yi;mb	97
 婦女權益	fu;nj nv;aa qr;mv yi;mb	97
 婦女權益	fu;nj nv;vh qr;mv yi;mb	97
-股東大會議事規則	gu;ou ds;ad da;hd hv;ro yi;yy ui;aa gv;fj ze;db	97
+股東大會議事規則	gu;ou ds;ad da;ad hv;ro yi;yy ui;aa gv;fj ze;db	97
 認證標誌	rf;yr vg;yd bc;mp vi;yv	97
 特別授權	te;ns bx;dd ub;fu qr;mv	97
 特別授權	te;ns bx;dl ub;fu qr;mv	97
@@ -1093,7 +1093,7 @@ use_preset_vocabulary: false
 規範行爲	gv;fj fj;ve xy;xd wz;pd	77
 專利侵權	vr;ac li;dh qn;ry qr;mv	76
 大陸法系	da;ad lu;et fa;dq xi;ps	76
-大陸法系	da;hd lu;et fa;dq xi;ps	76
+大陸法系	da;ad lu;et fa;dq xi;ps	76
 公費醫療	gs;sb fz;bf yi;yu lc;bl	76
 市場法	ui;dj ih;ty fa;dq	75
 市場法	ui;wj ih;ty fa;dq	75
@@ -1405,7 +1405,7 @@ use_preset_vocabulary: false
 事務性工作	ui;aa wu;mw xy;xu gs;hh zo;rv	46
 海事法院	hl;dm ui;hu fa;dq yr;ew	46
 海事法院	hl;dm ui;aa fa;dq yr;ew	46
-重大責任事故	vs;pa da;hd ze;bf rf;rr ui;aa gu;wg	46
+重大責任事故	vs;pa da;ad ze;bf rf;rr ui;aa gu;wg	46
 婦女權益保障法	fu;nv nv;aa qr;mv yi;mb bk;rd vh;ev fa;dq	46
 婦女權益保障法	fu;nv nv;vh qr;mv yi;mb bk;rd vh;ev fa;dq	46
 婦女權益保障法	fu;nj nv;aa qr;mv yi;mb bk;rd vh;ev fa;dq	46
@@ -1619,7 +1619,7 @@ use_preset_vocabulary: false
 調查部	dc;yv ia;md bu;ek	35
 兩全保險	ld;ar qr;rw bk;rd xm;eq	34
 兩全保險	ld;hr qr;rw bk;rd xm;eq	34
-案情重大	an;ma qy;xq vs;pa da;hd	34
+案情重大	an;ma qy;xq vs;pa da;ad	34
 外貿易經營者	wl;xb mk;bd yi;ow jy;sg yy;hl ve;ol	34
 履行地	lv;uf xy;xi di;ty	34
 履行地	lv;uf xy;rd di;ty	34
@@ -1938,7 +1938,7 @@ use_preset_vocabulary: false
 專利制度	vr;ac li;dh vi;dg du;gy	22
 鋼鐵產業發展	gh;jg tx;jg ij;wu ye;yl fa;du vj;uy	22
 假冒商品	jw;rj mk;om uh;wk pn;kk	22
-全國人大常委會法制工作委員	qr;rw go;kh rf;pd da;hd ih;xd wz;hn hv;ro fa;dq vi;dg gs;aa zo;rv wz;hn yr;kb	22
+全國人大常委會法制工作委員	qr;rw go;kh rf;pd da;ad ih;xd wz;hn hv;ro fa;dq vi;dg gs;aa zo;rv wz;hn yr;kb	22
 食品安全標準	ui;rl pn;kk an;bn qr;rw bc;mp vp;uv	22
 食品安全標準	ui;rl pn;kk an;bn qr;rw bc;mp vp;uh	22
 食品安全標準	ui;pd pn;kk an;bn qr;rw bc;mp vp;uv	22
@@ -1988,7 +1988,7 @@ use_preset_vocabulary: false
 中國食品工業協會	vs;aa go;kh ui;rl pn;kk gs;aa ye;yl xx;ul hv;ro	21
 執行監督	vi;wx xy;xd jm;mv du;ou	21
 醫療事故處理條例	yi;yu lc;bl ui;aa gu;wg iu;hi li;wl tc;rt li;rl	21
-重大責任事故罪	vs;pa da;hd ze;bf rf;rr ui;aa gu;wg zv;sf	21
+重大責任事故罪	vs;pa da;ad ze;bf rf;rr ui;aa gu;wg zv;sf	21
 職業安全衛生	vi;eg ye;yl an;bn qr;rw wz;xi ug;na	21
 申請回避	uf;aa qy;yq hv;kk bi;zb	21
 強制執行措施	qd;gi vi;dg vi;wx xy;xd co;fx ui;fy	21
@@ -2057,7 +2057,7 @@ use_preset_vocabulary: false
 價格承諾	jw;rj ge;mg ig;vd no;yr	20
 公司登記管理條例	gs;sb si;gk dg;dd ji;yj gr;vg li;wl tc;rt li;rl	20
 維權成本	wz;sv qr;mv ig;gg bf;aa	19
-重大誤解	vs;pa da;hd wu;yw jx;jn	19
+重大誤解	vs;pa da;ad wu;yw jx;jn	19
 經濟體制改革委員會	jy;sg ji;dq ti;gd vi;dg gl;wj ge;ca wz;hn yr;kb hv;ro	19
 技術轉讓合同	ji;fv uu;xi vr;iv rh;yx he;rk ts;kk	19
 技術轉讓合同	ji;fv uu;xu vr;iv rh;yx he;rk ts;kk	19
@@ -2085,7 +2085,7 @@ use_preset_vocabulary: false
 沉默權	if;dr mo;hq qr;mv	19
 沉默權	if;dj mo;hq qr;mv	19
 醫療器械註冊證	yi;yu lc;bl qi;kk xx;mj vu;yv ce;aa vg;yd	19
-業主大會議事規則	ye;yl vu;dw da;hd hv;ro yi;yy ui;aa gv;fj ze;db	19
+業主大會議事規則	ye;yl vu;dw da;ad hv;ro yi;yy ui;aa gv;fj ze;db	19
 流氓行爲	lq;di mh;wm xy;xd wz;pd	19
 野生動物保護法	ye;yl ug;na ds;lv wu;nw bk;rd hu;yh fa;dq	19
 不完全履行	bu;ad wj;by qr;rw lv;uf xy;xd	19
@@ -2136,7 +2136,7 @@ use_preset_vocabulary: false
 放火罪	fh;wf ho;dd zv;sf	18
 放火罪	fh;fw ho;dd zv;sf	18
 財團法人	cl;bc tr;kv fa;dq rf;pd	18
-首席大法官	ub;qz xi;gj da;hd fa;dq gr;bg	18
+首席大法官	ub;qz xi;gj da;ad fa;dq gr;bg	18
 正式談判	vg;av ui;yg tj;yy pj;db	18
 正式談判	vg;av ui;gy tj;yy pj;db	18
 正式談判	vg;hv ui;yg tj;yy pj;db	18
@@ -2239,8 +2239,8 @@ use_preset_vocabulary: false
 受讓股權	ub;vy rh;yx gu;ou qr;mv	16
 風險暴露	fg;ji xm;eq bk;ou lu;yl	16
 風險暴露	fg;ji xm;eq bk;ru lu;yl	16
-重大立功表現	vs;pa da;hd li;da gs;lg bc;fy xm;wj	16
-司法考試大綱	si;gk fa;dq kk;lk ui;yu da;hd gh;sg	16
+重大立功表現	vs;pa da;ad li;da gs;lg bc;fy xm;wj	16
+司法考試大綱	si;gk fa;dq kk;lk ui;yu da;ad gh;sg	16
 首席法律顧問	ub;qz xi;gj fa;dq lv;xy gu;yg wf;mw	16
 先天性缺陷	xm;en tm;ad xy;xu qt;fd xm;ej	16
 外資銀行管理條例	wl;xb zi;bc yn;jg hh;xi gr;vg li;wl tc;rt li;rl	16
@@ -2248,7 +2248,7 @@ use_preset_vocabulary: false
 外資銀行管理條例	wl;xb zi;bc yn;jg hh;ri gr;vg li;wl tc;rt li;rl	16
 外資銀行管理條例	wl;xb zi;bc yn;jg hh;xd gr;vg li;wl tc;rt li;rl	16
 非居民企業	fz;aa ju;ug mn;ag qi;rv ye;yl	16
-重大嫌疑人	vs;pa da;hd xm;nj yi;bp rf;pd	16
+重大嫌疑人	vs;pa da;ad xm;nj yi;bp rf;pd	16
 議付行	yi;yy fu;rc xy;xi	16
 議付行	yi;yy fu;rc xy;rd	16
 議付行	yi;yy fu;rc xy;ri	16
@@ -2303,7 +2303,7 @@ use_preset_vocabulary: false
 房屋產權登記	fh;hf wu;uv ij;wu qr;mv dg;dd ji;yj	15
 排除妨礙	pl;ff iu;ey fh;nf ai;uy	15
 中華人民共和國個人所得稅法	vs;aa hw;ca rf;pd mn;ag gs;bc he;hk go;kh ge;rg rf;pd so;jh de;rc uv;hd fa;dq	15
-特大刑事案件	te;ns da;hd xy;dk ui;aa an;ma jm;rn	15
+特大刑事案件	te;ns da;ad xy;dk ui;aa an;ma jm;rn	15
 一般保證	yi;aa bj;vu bk;rd vg;yd	15
 一般保證	yi;hh bj;vu bk;rd vg;yd	15
 借新還舊	jx;rx xn;jq hl;zy jq;cj	15
@@ -2463,7 +2463,7 @@ use_preset_vocabulary: false
 辯護權	bm;xx hu;yh qr;mv	13
 辯護權	bm;xx hu;yy qr;mv	13
 藥品經營質量管理規範	yk;cl pn;kk jy;sg yy;hl vi;bj ld;ol gr;vg li;wl gv;fj fj;ve	13
-清華大學法學院	qy;dq hw;ca da;hd xt;jz fa;dq xt;jz yr;ew	13
+清華大學法學院	qy;dq hw;ca da;ad xt;jz fa;dq xt;jz yr;ew	13
 一切必要措施	yi;aa qx;dq bi;xp yk;xn co;fx ui;fy	13
 承包金	ig;ad bk;gs jn;ra	13
 迴歸價值	hv;zh gv;vj jw;rj vi;rv	13
@@ -2486,7 +2486,7 @@ use_preset_vocabulary: false
 婚姻登記檔案	hp;nh yn;ny dg;dd ji;yj dh;md an;bm	13
 婚姻登記檔案	hp;nh yn;ny dg;dd ji;yj dh;md an;ma	13
 北京住房公積金管理	bz;ap jy;wx vu;rv fh;hf gs;sb ji;hz jn;ra gr;vg li;wl	13
-武漢大學法學院	wu;yv hj;dh da;hd xt;jz fa;dq xt;jz yr;ew	13
+武漢大學法學院	wu;yv hj;dh da;ad xt;jz fa;dq xt;jz yr;ew	13
 犯罪中止	fj;qe zv;sf vs;aa vi;aa	13
 私營獨資企業	si;hs yy;hl du;qi zi;bc qi;rv ye;yl	13
 外貿代理	wl;xb mk;bd dl;ry li;wl	13
@@ -2644,7 +2644,7 @@ use_preset_vocabulary: false
 權利範圍	qr;mv li;hd fj;ve wz;kw	11
 強制法	qd;gi vi;dv fa;dq	11
 強制法	qd;gi vi;dg fa;dq	11
-國家司法考試大綱	go;kh jw;bu si;gk fa;dq kk;lk ui;yu da;hd gh;sg	11
+國家司法考試大綱	go;kh jw;bu si;gk fa;dq kk;lk ui;yu da;ad gh;sg	11
 自己代理	zi;pa ji;ag dl;ry li;wl	11
 證券委員會	vg;yd qr;jd wz;hn yr;kb hv;rr	11
 證券委員會	vg;yd qr;jd wz;hn yr;kb hv;ro	11
@@ -2883,7 +2883,7 @@ use_preset_vocabulary: false
 利息金	li;dh xi;xz jn;ra	9
 典當物	dm;ba dh;tk wu;nw	9
 自費出版	zi;pa fz;bf iu;uu bj;pf	9
-加大結構調整力度	jw;kl da;hd jx;sj gb;mg tc;yv vg;vi li;gp du;gy	9
+加大結構調整力度	jw;kl da;ad jx;sj gb;mg tc;yv vg;vi li;gp du;gy	9
 火災保險	ho;dd zl;hi bk;rd xm;eq	9
 火災保險	ho;dd zl;ih bk;rd xm;eq	9
 超越代理權	ik;zv yt;zy dl;ry li;wl qr;mv	9
@@ -2999,7 +2999,7 @@ use_preset_vocabulary: false
 產供銷一體化	ij;wu gs;rg xc;jx yi;aa ti;gl hw;rb	8
 產供銷一體化	ij;wu gs;rg xc;jx yi;hh ti;gd hw;rb	8
 產供銷一體化	ij;wu gs;rg xc;jx yi;hh ti;gl hw;rb	8
-各級人民代表大會和地方各級人民政府組織法	ge;wk ji;sj rf;pd mn;ag dl;ry bc;fy da;hd hv;ro he;hk di;ty fh;wd ge;wk ji;sj rf;pd mn;ag vg;wv fu;gf zu;sq vi;sg fa;dq	8
+各級人民代表大會和地方各級人民政府組織法	ge;wk ji;sj rf;pd mn;ag dl;ry bc;fy da;ad hv;ro he;hk di;ty fh;wd ge;wk ji;sj rf;pd mn;ag vg;wv fu;gf zu;sq vi;sg fa;dq	8
 民用航空法	mn;ag ys;kf hh;vk ks;bg fa;dq	8
 掛失止付	gw;fg ui;pf vi;aa fu;rc	8
 掛失止付	gw;fg ui;pf vi;uh fu;rc	8
@@ -3142,8 +3142,8 @@ use_preset_vocabulary: false
 權利瑕疵	qr;mv li;hd xw;wy ci;bc	7
 人大代表議案	rf;pd da;ad dl;ry bc;fy yi;yy an;bm	7
 人大代表議案	rf;pd da;ad dl;ry bc;fy yi;yy an;ma	7
-人大代表議案	rf;pd da;hd dl;ry bc;fy yi;yy an;bm	7
-人大代表議案	rf;pd da;hd dl;ry bc;fy yi;yy an;ma	7
+人大代表議案	rf;pd da;ad dl;ry bc;fy yi;yy an;bm	7
+人大代表議案	rf;pd da;ad dl;ry bc;fy yi;yy an;ma	7
 機械工業局	ji;mj xx;mj gs;aa ye;yw ju;uk	7
 機械工業局	ji;mj xx;mj gs;aa ye;yl ju;uk	7
 機械工業局	ji;mj xx;mj gs;hh ye;yw ju;uk	7
@@ -3287,7 +3287,7 @@ use_preset_vocabulary: false
 土地產權制度	tu;hh di;ty ij;wu qr;mv vi;dg du;gy	6
 農藥殘留物	ns;qi yk;cl cj;dj lq;td wu;nw	6
 葉波	ye;cm bo;dp	6
-人民代表大會主席團	rf;pd mn;ag dl;ry bc;fy da;hd hv;ro vu;dw xi;gj tr;kv	6
+人民代表大會主席團	rf;pd mn;ag dl;ry bc;fy da;ad hv;ro vu;dw xi;gj tr;kv	6
 復員費	fu;xf yr;kb fz;bf	6
 復員費	fu;rf yr;kb fz;bf	6
 編輯權	bm;sb ji;iq qr;mv	6
@@ -3356,14 +3356,14 @@ use_preset_vocabulary: false
 中華法系	vs;aa hw;ca fa;dq xi;ps	6
 企業維持	qi;rv ye;yw wz;sv ii;fs	6
 企業維持	qi;rv ye;yl wz;sv ii;fs	6
-廈門大學法學院	xw;gx mf;aa da;hd xt;jz fa;dq xt;jz yr;ew	6
+廈門大學法學院	xw;gx mf;aa da;ad xt;jz fa;dq xt;jz yr;ew	6
 國家突發公共事件總體應急預案	go;kh jw;bu tu;bq fa;du gs;sb gs;bc ui;aa jm;rn zs;sc ti;gd yy;gx ji;xi yu;yy an;ma	6
 反貪污賄賂局	fj;py tj;bj wu;dk hv;by lu;bg ju;uk	6
 指定仲裁員	vi;fv dy;bp vs;rv cl;yg yr;kb	6
 指定仲裁員	vi;fv dy;bp vs;rv cl;gy yr;kb	6
 缺乏後勁	qt;fd fa;pv hb;xw jn;lg	6
 經濟技術合作協定	jy;sg ji;dq ji;fv uu;xi he;rk zo;rv xx;ul dy;bp	6
-中華人民共和國地方各級人民代表大會和地方各級人民政府組織法	vs;aa hw;ca rf;pd mn;ag gs;bc he;hk go;kh di;ty fh;wd ge;wk ji;sj rf;pd mn;ag dl;ry bc;fy da;hd hv;ro he;hk di;ty fh;wd ge;wk ji;sj rf;pd mn;ag vg;wv fu;gf zu;sq vi;sg fa;dq	6
+中華人民共和國地方各級人民代表大會和地方各級人民政府組織法	vs;aa hw;ca rf;pd mn;ag gs;bc he;hk go;kh di;ty fh;wd ge;wk ji;sj rf;pd mn;ag dl;ry bc;fy da;ad hv;ro he;hk di;ty fh;wd ge;wk ji;sj rf;pd mn;ag vg;wv fu;gf zu;sq vi;sg fa;dq	6
 無權佔有	wu;ha qr;mv vj;rv yb;ou	6
 詐僞	va;yv wz;rw	6
 彩票發行與銷售管理暫行規定	cl;pc pc;xu fa;du xy;xd yu;ba xc;jx ub;kv gr;vg li;wl zj;ov xy;xd gv;fj dy;bp	6
@@ -3590,7 +3590,7 @@ use_preset_vocabulary: false
 載貨清單	zl;gi ho;bh qy;dq dj;kd	4
 文化主權	wf;dd hw;rb vu;dw qr;mv	4
 中華人民共和國仲裁法	vs;aa hw;ca rf;pd mn;ag gs;bc he;hk go;kh vs;rv cl;gy fa;dq	4
-中華人民共和國大氣污染防治法	vs;aa hw;ca rf;pd mn;ag gs;bc he;hk go;kh da;hd qi;qm wu;dk rj;mg fh;ef vi;dt fa;dq	4
+中華人民共和國大氣污染防治法	vs;aa hw;ca rf;pd mn;ag gs;bc he;hk go;kh da;ad qi;qm wu;dk rj;mg fh;ef vi;dt fa;dq	4
 黎建飛	li;ur jm;zy fz;ff	4
 產品責任法	ij;wu pn;kk ze;fb rf;rr fa;dq	4
 產品責任法	ij;wu pn;kk ze;bf rf;rr fa;dq	4
@@ -3642,7 +3642,7 @@ use_preset_vocabulary: false
 海域使用管理法	hl;dm yu;th ui;rl ys;kf gr;vg li;wl fa;dq	4
 購房落戶	gb;bg fh;hf lo;cl hu;pk	4
 購房落戶	gb;br fh;hf lo;cl hu;pk	4
-加拿大法律	jw;kl na;uh da;hd fa;dq lv;xy	4
+加拿大法律	jw;kl na;uh da;ad fa;dq lv;xy	4
 股權轉讓糾紛	gu;yu qr;mv vr;iv rh;yx jq;sj ff;sf	4
 股權轉讓糾紛	gu;ou qr;mv vr;iv rh;yx jq;sj ff;sf	4
 收匯風險	ub;wj hv;kh fg;ji xm;eq	4
@@ -3740,7 +3740,7 @@ use_preset_vocabulary: false
 防僞專用品	fh;ef wz;rw vr;hc ys;kf pn;kk	4
 欠妥之處	qm;dr to;vn vi;dd iu;hi	4
 輿論監督權	yu;ib lp;yl jm;mv du;ou qr;mv	4
-重大動物疫情應急條例	vs;pa da;hd ds;lv wu;nw yi;bu qy;xq yy;gx ji;xi tc;rt li;rl	4
+重大動物疫情應急條例	vs;pa da;ad ds;lv wu;nw yi;bu qy;xq yy;gx ji;xi tc;rt li;rl	4
 國際習慣	go;kh ji;ej xi;yb gr;xg	4
 國際習慣	go;kh ji;ej xi;by gr;xg	4
 交通事故處理程序規定	jc;wf ts;zy ui;aa gu;wg iu;hi li;wl ig;hi xu;gy gv;fj dy;bp	4
@@ -3871,7 +3871,7 @@ use_preset_vocabulary: false
 保險案例	bk;rd xm;eq an;bm li;rl	4
 保險案例	bk;rd xm;eq an;ma li;rl	4
 證券發行上市保薦制度暫行辦法	vg;yd qr;df fa;du xy;xd uh;aa ui;wj bk;rd jm;cd vi;dg du;gy zj;ov xy;xd bj;lx fa;dq	4
-各級人民代表大會常務委員會監督法	ge;wk ji;sj rf;pd mn;ag dl;ry bc;fy da;hd hv;ro ih;xd wu;mw wz;hn yr;kb hv;ro jm;mv du;ou fa;dq	4
+各級人民代表大會常務委員會監督法	ge;wk ji;sj rf;pd mn;ag dl;ry bc;fy da;ad hv;ro ih;xd wu;mw wz;hn yr;kb hv;ro jm;mv du;ou fa;dq	4
 裝卸費用	vd;yv xx;eh fz;bf ys;kf	4
 裝卸費用	vd;yv xx;ev fz;bf ys;kf	4
 裝卸費用	vd;yv xx;ea fz;bf ys;kf	4
@@ -4143,7 +4143,7 @@ use_preset_vocabulary: false
 行政相對方	xy;xd vg;wv xd;mm dv;ct fh;wd	3
 文件透露	wf;dd jm;rn tb;zx lu;yl	3
 現貨合約	xm;wj ho;bh he;rk yt;su	3
-中國土地法大綱	vs;aa go;kh tu;aa di;ty fa;dq da;hd gh;sg	3
+中國土地法大綱	vs;aa go;kh tu;aa di;ty fa;dq da;ad gh;sg	3
 龐標	ph;gl bc;mp	3
 未決犯	wz;ex jt;dd fj;qe	3
 強制性能效標準	qd;gi vi;dv xy;xu ng;sb xc;wj bc;mp vp;uv	3
@@ -4306,7 +4306,7 @@ use_preset_vocabulary: false
 印刷業管理	yn;ey uw;dj ye;yl gr;vg li;wl	2
 市場規制法	ui;wj ih;ty gv;fj vi;dg fa;dq	2
 遺產範圍	yi;zg ij;wu fj;ve wz;kw	2
-全國人民代表大會和地方各級人民代表大會選舉法	qr;rw go;kh rf;pd mn;ag dl;ry bc;fy da;hd hv;ro he;hk di;ty fh;wd ge;wk ji;sj rf;pd mn;ag dl;ry bc;fy da;hd hv;ro xr;zg ju;fy fa;dq	2
+全國人民代表大會和地方各級人民代表大會選舉法	qr;rw go;kh rf;pd mn;ag dl;ry bc;fy da;ad hv;ro he;hk di;ty fh;wd ge;wk ji;sj rf;pd mn;ag dl;ry bc;fy da;ad hv;ro xr;zg ju;fy fa;dq	2
 土地登記規則	tu;aa di;ty dg;dd ji;yj gv;fj ze;db	2
 土地登記規則	tu;aa di;ty dg;dd ji;yj gv;jf ze;db	2
 土地登記規則	tu;hh di;ty dg;dd ji;yj gv;fj ze;db	2
@@ -4318,7 +4318,7 @@ use_preset_vocabulary: false
 情事變更原則	qy;xq ui;aa bm;ws gg;ad yr;ix ze;db	2
 性法學	xy;xu fa;dq xt;zb	2
 性法學	xy;xu fa;dq xt;jz	2
-加拿大最高法院	jw;kl na;uh da;hd zv;oq gk;wk fa;dq yr;ew	2
+加拿大最高法院	jw;kl na;uh da;ad zv;oq gk;wk fa;dq yr;ew	2
 轉股協議	vr;iv gu;yu xx;ux yi;yy	2
 轉股協議	vr;iv gu;yu xx;ul yi;yy	2
 轉股協議	vr;iv gu;ou xx;ux yi;yy	2
@@ -4366,8 +4366,8 @@ use_preset_vocabulary: false
 農村土地承包合同	ns;qi cp;mc tu;aa di;ty ig;ad bk;gs he;rk ts;kk	2
 大事紀	da;ad ui;hu ji;sj	2
 大事紀	da;ad ui;aa ji;sj	2
-大事紀	da;hd ui;hu ji;sj	2
-大事紀	da;hd ui;aa ji;sj	2
+大事紀	da;ad ui;hu ji;sj	2
+大事紀	da;ad ui;aa ji;sj	2
 地方行政機關	di;ty fh;wd xy;xd vg;wv ji;mj gr;ma	2
 忠誠協議	vs;xv ig;yi xx;ux yi;yy	2
 忠誠協議	vs;xv ig;yi xx;ul yi;yy	2
@@ -4640,13 +4640,13 @@ use_preset_vocabulary: false
 木樁刑	mu;ad vd;mj xy;dk	2
 木樁刑	mu;hd vd;mi xy;dk	2
 木樁刑	mu;hd vd;mj xy;dk	2
-清末四大奇案	qy;dq mo;ad si;ke da;hd qi;dk an;ma	2
+清末四大奇案	qy;dq mo;ad si;ke da;ad qi;dk an;ma	2
 血緣婚	xt;pa yr;st hp;nh	2
 跨類保護	kw;zk lz;yl bk;rd hu;yh	2
 跨類保護	kw;zk lz;yl bk;rd hu;yy	2
 跨類保護	kw;zk lz;yq bk;rd hu;yh	2
 跨類保護	kw;zk lz;yq bk;rd hu;yy	2
-重大環境污染事故罪	vs;pa da;hd hr;wh jy;tj wu;dk rj;mg ui;aa gu;wg zv;sf	2
+重大環境污染事故罪	vs;pa da;ad hr;wh jy;tj wu;dk rj;mg ui;aa gu;wg zv;sf	2
 一物一權	yi;aa wu;nw yi;aa qr;mv	2
 一物一權	yi;aa wu;nw yi;hh qr;mv	2
 一物一權	yi;hh wu;nw yi;aa qr;mv	2
@@ -4654,7 +4654,7 @@ use_preset_vocabulary: false
 制止價格壟斷行爲暫行規定	vi;dg vi;aa jw;rj ge;mg ls;tl dr;ja xy;xd wz;pd zj;ov xy;xd gv;fj dy;bp	2
 再保險分出人	zl;aa bk;rd xm;eq ff;db iu;uu rf;pd	2
 人類輔助生殖技術管理辦法	rf;pd lz;yl fu;if vu;lq ug;na vi;dv ji;fv uu;xi gr;vg li;wl bj;lx fa;dq	2
-大副收據	da;hd fu;df ub;wj ju;fj	2
+大副收據	da;ad fu;df ub;wj ju;fj	2
 二級謀殺罪	er;aa ji;sj mb;ym ua;uu zv;sf	2
 二級謀殺罪	er;hh ji;sj mb;ym ua;uu zv;sf	2
 一般擔保	yi;aa bj;vu dj;fy bk;rd	2
@@ -4867,7 +4867,7 @@ use_preset_vocabulary: false
 進口食品標籤	jn;zv kb;aa ui;rl pn;kk bc;mp qm;vg	2
 內部牽制制度	nz;kr bu;ek qm;dn vi;dg vi;dg du;gy	2
 企業工會工作條例	qi;rv ye;yl gs;aa hv;ro gs;aa zo;rv tc;rt li;rl	2
-大型羣衆性活動安全管理條例	da;hd xy;tx qp;yj vs;xd xy;xu ho;du ds;lv an;bn qr;rw gr;vg li;wl tc;rt li;rl	2
+大型羣衆性活動安全管理條例	da;ad xy;tx qp;yj vs;xd xy;xu ho;du ds;lv an;bn qr;rw gr;vg li;wl tc;rt li;rl	2
 獨家代理合同	du;qu jw;bu dl;ry li;wl he;rk ts;kk	2
 獨家代理合同	du;qi jw;bu dl;ry li;wl he;rk ts;kk	2
 煤礦工會	mz;hm kd;ug gs;aa hv;rr	2
@@ -4934,7 +4934,7 @@ use_preset_vocabulary: false
 市場主體法	ui;wj ih;ty vu;dw ti;gl fa;dq	1
 規範與法律	gv;fj fj;ve yu;ba fa;dq lv;xy	1
 持槍權	ii;fs qd;mc qr;mv	1
-業主大會規程	ye;yl vu;dw da;hd hv;ro gv;fj ig;hi	1
+業主大會規程	ye;yl vu;dw da;ad hv;ro gv;fj ig;hi	1
 信用卡惡意透支	xn;ry ys;kf ka;ub ee;xy yi;lx tb;zx vi;uy	1
 信用卡惡意透支	xn;ry ys;kf ka;ub ee;xy yi;xy tb;zx vi;uy	1
 信用卡惡意透支	xn;ry ys;kf ka;bx ee;xy yi;lx tb;zx vi;uy	1
@@ -5254,7 +5254,7 @@ use_preset_vocabulary: false
 食品安全管理制度	ui;pd pn;kk an;bn qr;rw gr;vg li;wl vi;dv du;gy	1
 食品安全管理制度	ui;pd pn;kk an;bn qr;rw gr;vg li;wl vi;dg du;gy	1
 謀大逆	mb;ym da;ad ni;zn	1
-謀大逆	mb;ym da;hd ni;zn	1
+謀大逆	mb;ym da;ad ni;zn	1
 債務爲由	vl;rz wu;mw wz;pd yb;aa	1
 付款委託	fu;rc kr;qu wz;hn to;yt	1
 付款委託	fu;rc kr;qu wz;hn to;yq	1
@@ -5426,7 +5426,7 @@ use_preset_vocabulary: false
 主要債務人	vu;dw yk;xn vl;rz wu;mw rf;pd	1
 規定行政措施	gv;fj dy;bp xy;xd vg;wv co;fx ui;fy	1
 母乳代用品銷售管理辦法	mu;ad ru;gf dl;ry ys;kf pn;kk xc;jx ub;kv gr;vg li;wl bj;lx fa;dq	1
-大日本帝國憲法	da;hd ri;aa bf;aa di;wj go;kh xm;bx fa;dq	1
+大日本帝國憲法	da;ad ri;aa bf;aa di;wj go;kh xm;bx fa;dq	1
 國家計量局	go;kh jw;bu ji;yu ld;rl ju;uk	1
 國家計量局	go;kh jw;bu ji;yu ld;ol ju;uk	1
 維斯比規則	wz;sv si;qj bi;bb gv;fj ze;db	1
@@ -5488,7 +5488,7 @@ use_preset_vocabulary: false
 危害人類罪	wz;de hl;bk rf;pd lz;yq zv;sf	1
 印花稅法	yn;pe hw;ch uv;hd fa;dq	1
 印花稅法	yn;ey hw;ch uv;hd fa;dq	1
-中國十大傑出檢察官	vs;aa go;kh ui;aa da;hd jx;rj iu;uu jm;mq ia;bj gr;bg	1
+中國十大傑出檢察官	vs;aa go;kh ui;aa da;ad jx;rj iu;uu jm;mq ia;bj gr;bg	1
 維持判決	wz;sv ii;fs pj;db jt;dd	1
 維持判決	wz;sv ii;fs pj;db jt;dg	1
 數字千年版權法	uu;wl zi;bz qm;pa nm;ra bj;pf qr;mv fa;dq	1
@@ -5509,7 +5509,7 @@ use_preset_vocabulary: false
 商業賄賂罪	uh;wk ye;yl hv;by lu;bg zv;sf	1
 中國執業藥師	vs;aa go;kh vi;wx ye;yl yk;cl ui;bv	1
 外大陸架	wl;xb da;ad lu;et jw;mj	1
-外大陸架	wl;xb da;hd lu;et jw;mj	1
+外大陸架	wl;xb da;ad lu;et jw;mj	1
 職位聘任	vi;ev wz;rl pn;ep rf;rr	1
 職位聘任	vi;ev wz;rl pn;ek rf;rr	1
 職位聘任	vi;eg wz;rl pn;ep rf;rr	1
@@ -5557,7 +5557,7 @@ use_preset_vocabulary: false
 毛澤東集	mk;pg ze;dx ds;ad ji;vm	1
 非訟案件	fz;aa ss;yg an;ma jm;rn	1
 中華人民共和國菸草專賣法實施條例	vs;aa hw;ca rf;pd mn;ag gs;bc he;hk go;kh yj;cy ck;cz vr;ac ml;bs fa;dq ui;bg ui;fy tc;rt li;rl	1
-出具證明文件重大失實罪	iu;uu ju;ba vg;yd my;oo wf;dd jm;rn vs;pa da;hd ui;pf ui;bg zv;sf	1
+出具證明文件重大失實罪	iu;uu ju;ba vg;yd my;oo wf;dd jm;rn vs;pa da;ad ui;pf ui;bg zv;sf	1
 農工商聯合企業	ns;qi gs;aa uh;wk lm;ea he;rk qi;rv ye;yl	1
 中華人民共和國食品安全法	vs;aa hw;ca rf;pd mn;ag gs;bc he;hk go;kh ui;rl pn;kk an;bn qr;rw fa;dq	1
 違法轉包	wz;zw fa;dq vr;iv bk;bs	1
@@ -5666,7 +5666,7 @@ use_preset_vocabulary: false
 保險代位權	bk;rd xm;eq dl;ry wz;rl qr;mv	1
 專利審查指南	vr;ac li;dh uf;bf ia;md vi;fv nj;ua	1
 要式法律行爲	yk;xn ui;yg fa;dq lv;xy xy;xd wz;pd	1
-全國人民代表大會組織法	qr;rw go;kh rf;pd mn;ag dl;ry bc;fy da;hd hv;ro zu;sq vi;sg fa;dq	1
+全國人民代表大會組織法	qr;rw go;kh rf;pd mn;ag dl;ry bc;fy da;ad hv;ro zu;sq vi;sg fa;dq	1
 債權保全	vl;rz qr;mv bk;rd qr;rw	1
 職權主義訴訟模式	vi;ev qr;mv vu;dw yi;yw su;yi ss;yg mo;mm ui;yg	1
 職權主義訴訟模式	vi;ev qr;mv vu;dw yi;yw su;yi ss;yg mo;mm ui;gy	1
@@ -5775,7 +5775,7 @@ use_preset_vocabulary: false
 品種保護權	pn;kk vs;hv bk;rd hu;yy qr;mv	1
 農業知識產權	ns;qi ye;yl vi;uk ui;yg ij;wu qr;mv	1
 挪用公款行爲	no;fn ys;kf gs;sb kr;qu xy;xd wz;pd	1
-重大疾病保險合同	vs;pa da;hd ji;bu by;bb bk;rd xm;eq he;rk ts;kk	1
+重大疾病保險合同	vs;pa da;ad ji;bu by;bb bk;rd xm;eq he;rk ts;kk	1
 巡視官	xp;zi ui;ju gr;bg	1
 巡視官	xp;zi ui;ju gr;bk	1
 巡視官	xp;zi ui;uj gr;bg	1
@@ -5818,9 +5818,9 @@ use_preset_vocabulary: false
 廣東省商品房預售管理條例	gd;gh ds;ad ug;ou uh;wk pn;kk fh;hf yu;yy ub;kv gr;vg li;wl tc;rt li;rl	1
 摩西律法	mo;mu xi;aa lv;xy fa;dq	1
 大賀茂	da;ad he;bj mk;cw	1
-大賀茂	da;hd he;bj mk;cw	1
+大賀茂	da;ad he;bj mk;cw	1
 不要式合同	bu;ad yk;xn ui;yg he;rk ts;kk	1
-大額可轉讓定期存單	da;hd ee;yk ke;dk vr;iv rh;yx dy;bp qi;oq cp;za dj;kd	1
+大額可轉讓定期存單	da;ad ee;yk ke;dk vr;iv rh;yx dy;bp qi;oq cp;za dj;kd	1
 無效經濟合同	wu;ha xc;wj jy;sg ji;dq he;rk ts;kk	1
 經濟指標體系	jy;sj ji;dq vi;fv bc;mp ti;gd xi;ps	1
 經濟指標體系	jy;sj ji;dq vi;fv bc;mp ti;gl xi;ps	1
@@ -5878,12 +5878,12 @@ use_preset_vocabulary: false
 泄密罪	xx;du mi;ub zv;sf	1
 非法經營同類營業罪	fz;aa fa;dq jy;sg yy;hl ts;kk lz;yl yy;hl ye;yl zv;sf	1
 達馬託法	da;zy ma;ad to;yq fa;dq	1
-特別重大事故調查程序暫行規定	te;ns bx;dd vs;pa da;hd ui;aa gu;wg dc;yv ia;md ig;hi xu;gy zj;ov xy;xd gv;fj dy;bp	1
+特別重大事故調查程序暫行規定	te;ns bx;dd vs;pa da;ad ui;aa gu;wg dc;yv ia;md ig;hi xu;gy zj;ov xy;xd gv;fj dy;bp	1
 物上代位性	wu;nw uh;aa dl;ry wz;rl xy;xu	1
 物上代位性	wu;nw uh;ba dl;ry wz;rl xy;xu	1
 物上代位性	wu;nw uh;uh dl;ry wz;rl xy;xu	1
 物上代位性	wu;nw uh;bh dl;ry wz;rl xy;xu	1
-大戶持倉報告制度	da;hd hu;pk ii;fs ch;rk bk;ex gk;kn vi;dg du;gy	1
+大戶持倉報告制度	da;ad hu;pk ii;fs ch;rk bk;ex gk;kn vi;dg du;gy	1
 發展及其影響	fa;du vj;uy ji;pd qi;ba yy;pj xd;yx	1
 珠海市人民檢察院	vu;wv hl;dm ui;wj rf;pd mn;ag jm;mq ia;bj yr;ew	1
 國家厲行節約	go;kh jw;bu li;iw xy;xi jx;vj yt;su	1
@@ -6043,7 +6043,7 @@ use_preset_vocabulary: false
 主任裁判官	vu;dw rf;rr cl;yg pj;db gr;bk	0
 主任裁判官	vu;dw rf;rr cl;gy pj;db gr;bg	0
 主任裁判官	vu;dw rf;rr cl;gy pj;db gr;bk	0
-牛津法律大辭典	nq;pa jn;dy fa;dq lv;xy da;hd ci;xy dm;ba	0
+牛津法律大辭典	nq;pa jn;dy fa;dq lv;xy da;ad ci;xy dm;ba	0
 影子定價法	yy;pj zi;aa dy;bp jw;rj fa;dq	0
 影子定價法	yy;pj zi;vh dy;bp jw;rj fa;dq	0
 維也納條約法公約	wz;sv ye;gg na;sn tc;rt yt;su fa;dq gs;bs yt;su	0
@@ -6208,7 +6208,7 @@ use_preset_vocabulary: false
 漏洞層出	lb;dl ds;dt cg;uc iu;ck	0
 法人章程	fa;dq rf;pd vh;lz ig;hi	0
 放射診療管理規定	fh;wf ue;cu vf;yp lc;bl gr;vg li;wl gv;fj dy;bp	0
-中華蘇維埃共和國憲法大綱	vs;aa hw;ca su;ch wz;sv ai;tu gs;bc he;hk go;kh xm;bx fa;dq da;hd gh;sg	0
+中華蘇維埃共和國憲法大綱	vs;aa hw;ca su;ch wz;sv ai;tu gs;bc he;hk go;kh xm;bx fa;dq da;ad gh;sg	0
 四級三審制	si;ke ji;sj sj;aa uf;bf vi;dg	0
 夫妻約定財產製	fu;ad qi;na yt;su dy;bp cl;bc ij;wu vi;yv	0
 娛樂場所治安管理辦法	yu;nw le;bm ih;ty so;jh vi;dt an;bn gr;vg li;wl bj;lx fa;dq	0
@@ -6501,7 +6501,7 @@ use_preset_vocabulary: false
 婚前婚後財產	hp;nh qm;qd hp;nh hb;rw cl;bc ij;wu	0
 婚前婚後財產	hp;nh qm;qd hp;nh hb;xw cl;bc ij;wu	0
 註冊建造師管理規定	vu;yv ce;aa jm;zy zk;zg ui;bv gr;vg li;wl gv;fj dy;bp	0
-大面額紙幣	da;hd mm;aa ee;yk vi;su bi;jb	0
+大面額紙幣	da;ad mm;aa ee;yk vi;su bi;jb	0
 職業銀行家	vi;eg ye;yl yn;jg hh;xd jw;bu	0
 要約文件	yk;xn yt;su wf;dd jm;rn	0
 社保公積金	ue;ut bk;rd gs;sb ji;hz jn;ra	0
@@ -6521,7 +6521,7 @@ use_preset_vocabulary: false
 債務合約	vl;rz wu;mw he;rk yt;su	0
 國際知識產權制度	go;kh ji;ej vi;uk ui;yg ij;wu qr;mv vi;dg du;gy	0
 限制民事行爲能力案件	xm;eg vi;dg mn;ag ui;aa xy;xd wz;pd ng;sb li;gp an;ma jm;rn	0
-水庫大壩安全管理條例	uv;ad ku;gi da;hd ba;tb an;bn qr;rw gr;vg li;wl tc;rt li;rl	0
+水庫大壩安全管理條例	uv;ad ku;gi da;ad ba;tb an;bn qr;rw gr;vg li;wl tc;rt li;rl	0
 中華民國約法	vs;aa hw;ca mn;ag go;kh yt;su fa;dq	0
 郵電工作人員	yb;ei dm;yg gs;aa zo;rv rf;pd yr;kb	0
 郵電工作人員	yb;ei dm;yg gs;hh zo;rv rf;pd yr;kb	0
@@ -6535,7 +6535,7 @@ use_preset_vocabulary: false
 廣東省預防未成年人犯罪條例	gd;gh ds;ad ug;ou yu;yy fh;ef wz;ex ig;gg nm;ra rf;pd fj;qe zv;sf tc;rt li;rl	0
 重複處理行爲	is;pa fu;yf iu;hi li;wl xy;xd wz;pd	0
 標籤和說明書管理規定	bc;mp qm;vg he;hk uo;yd my;oo uu;oy gr;vg li;wl gv;fj dy;bp	0
-重大刑事犯罪案件	vs;pa da;hd xy;dk ui;aa fj;qe zv;sf an;ma jm;rn	0
+重大刑事犯罪案件	vs;pa da;ad xy;dk ui;aa fj;qe zv;sf an;ma jm;rn	0
 歐洲比較侵權行爲法	ou;qq vb;dv bi;bb jc;ij qn;ry qr;mv xy;xd wz;pd fa;dq	0
 特別附加險	te;ns bx;dd fu;ef jw;lk xm;eq	0
 特別附加險	te;ns bx;dd fu;ef jw;kl xm;eq	0
@@ -6630,7 +6630,7 @@ use_preset_vocabulary: false
 新資源食品管理辦法	xn;jq zi;bc yr;dy ui;rl pn;kk gr;vg li;wl bj;xx fa;dq	0
 新資源食品管理辦法	xn;jq zi;bc yr;dy ui;pd pn;kk gr;vg li;wl bj;lx fa;dq	0
 新資源食品管理辦法	xn;jq zi;bc yr;dy ui;pd pn;kk gr;vg li;wl bj;xx fa;dq	0
-內蒙古大學法學院	nz;kr mg;cm gu;uk da;hd xt;jz fa;dq xt;jz yr;ew	0
+內蒙古大學法學院	nz;kr mg;cm gu;uk da;ad xt;jz fa;dq xt;jz yr;ew	0
 寄存保管	ji;bq cp;za bk;rd gr;vg	0
 寄存保管	ji;bq cp;zu bk;rd gr;vg	0
 寄存保管	ji;bq cp;uz bk;rd gr;vg	0
@@ -6639,7 +6639,7 @@ use_preset_vocabulary: false
 海事債權登記	hl;dm ui;hu vl;rz qr;mv dg;dd ji;yj	0
 海事債權登記	hl;dm ui;aa vl;rz qr;mv dg;dd ji;yj	0
 大陸法系刑法	da;ad lu;et fa;dq xi;ps xy;dk fa;dq	0
-大陸法系刑法	da;hd lu;et fa;dq xi;ps xy;dk fa;dq	0
+大陸法系刑法	da;ad lu;et fa;dq xi;ps xy;dk fa;dq	0
 機動車駕駛員考試辦法	ji;mj ds;lv ie;aa jw;mj ui;mu yr;kb kk;lk ui;yu bj;lx fa;dq	0
 機動車駕駛員考試辦法	ji;mj ds;lv ie;aa jw;mj ui;mu yr;kb kk;lk ui;yu bj;xx fa;dq	0
 機動車駕駛員考試辦法	ji;mj ds;lv ie;hh jw;mj ui;mu yr;kb kk;lk ui;yu bj;lx fa;dq	0
@@ -6710,8 +6710,8 @@ use_preset_vocabulary: false
 物業管理師制度暫行規定	wu;nw ye;yl gr;vg li;wl ui;bv vi;dg du;gy zj;ov xy;xd gv;fj dy;bp	0
 大陸架公約	da;ad lu;et jw;mj gs;bs yt;su	0
 大陸架公約	da;ad lu;et jw;mj gs;sb yt;su	0
-大陸架公約	da;hd lu;et jw;mj gs;bs yt;su	0
-大陸架公約	da;hd lu;et jw;mj gs;sb yt;su	0
+大陸架公約	da;ad lu;et jw;mj gs;bs yt;su	0
+大陸架公約	da;ad lu;et jw;mj gs;sb yt;su	0
 江蘇君遠律師事務所	jd;dg su;ch jp;ky yr;zy lv;xy ui;bv ui;aa wu;mw so;jh	0
 北京住房公積金繳存管理辦法	bz;ap jy;wx vu;rv fh;hf gs;sb ji;hz jn;ra jc;sj cp;za gr;vg li;wl bj;lx fa;dq	0
 環境信息公開制度	hr;wh jy;tj xn;ry xi;xz gs;sb kl;mk vi;dg du;gy	0
@@ -6729,7 +6729,7 @@ use_preset_vocabulary: false
 會計法律責任	ky;ro ji;yu fa;dq lv;xy ze;bf rf;rr	0
 旅遊景區質量等級評定管理辦法	lv;fp yb;zy jy;oj qu;kp vi;bj ld;ol dg;vs ji;sj py;yp dy;bp gr;vg li;wl bj;lx fa;dq	0
 無記名有價證券	wu;ha ji;yj my;xk yb;ou jw;rj vg;yd qr;df	0
-教育設施重大安全事故罪	jc;wx yu;os ue;yu ui;fy vs;pa da;hd an;bn qr;rw ui;aa gu;wg zv;sf	0
+教育設施重大安全事故罪	jc;wx yu;os ue;yu ui;fy vs;pa da;ad an;bn qr;rw ui;aa gu;wg zv;sf	0
 國家教育考試考務安全保密工作規定	go;kh jw;bu jc;wx yu;os kk;lk ui;yu kk;lk wu;mw an;bn qr;rw bk;rd mi;bu gs;aa zo;rv gv;fj dy;bp	0
 企業人事管理制度	qi;rv ye;yl rf;pd ui;aa gr;vg li;wl vi;dg du;gy	0
 新合夥企業法	xn;jq he;rk ho;gd qi;rv ye;yw fa;dq	0
@@ -6768,8 +6768,8 @@ use_preset_vocabulary: false
 宏觀財政政策	hs;bh gr;jv cl;bc vg;wv vg;wv ce;vc	0
 英國大憲章	yy;cy go;kh da;ad xm;xs vh;lz	0
 英國大憲章	yy;cy go;kh da;ad xm;bx vh;lz	0
-英國大憲章	yy;cy go;kh da;hd xm;xs vh;lz	0
-英國大憲章	yy;cy go;kh da;hd xm;bx vh;lz	0
+英國大憲章	yy;cy go;kh da;ad xm;xs vh;lz	0
+英國大憲章	yy;cy go;kh da;ad xm;bx vh;lz	0
 深圳經濟特區房地產登記條例	uf;dm vf;ti jy;sj ji;dq te;ns qu;kp fh;hf di;ty ij;wu dg;dd ji;yj tc;rt li;rl	0
 深圳經濟特區房地產登記條例	uf;dm vf;ti jy;sg ji;dq te;ns qu;kp fh;hf di;ty ij;wu dg;dd ji;yj tc;rt li;rl	0
 人權和公民權宣言	rf;pd qr;mv he;hk gs;sb mn;ag qr;mv xr;bg yj;wk	0
@@ -6846,7 +6846,7 @@ use_preset_vocabulary: false
 利息回收率	li;dh xi;xz hv;kk ub;wj lv;wu	0
 如何購買二手房	ru;nk he;rk gb;bg ml;bs er;aa ub;pa fh;hf	0
 中國人民解放軍院校招生工作條例	vs;aa go;kh rf;pd mn;ag jx;jn fh;wf jp;bi yr;ew xc;mj vk;fv ug;na gs;aa zo;rv tc;rt li;rl	0
-專屬經濟區和大陸架法	vr;ac uu;ui jy;sg ji;dq qu;kp he;hk da;hd lu;et jw;mj fa;dq	0
+專屬經濟區和大陸架法	vr;ac uu;ui jy;sg ji;dq qu;kp he;hk da;ad lu;et jw;mj fa;dq	0
 外商投資電影院暫行規定	wl;xb uh;wk tb;fu zi;bc dm;yd yy;pj yr;ew zj;ov xy;xd gv;fj dy;bp	0
 國務院辦公廳關於限制生產銷售使用塑料購物	go;kh wu;mw yr;ew bj;lx gs;sb ty;gt gr;ma yu;fd xm;eg vi;dg ug;na ij;wu xc;jx ub;kv ui;rl ys;kf su;to lc;md gb;bg wu;nw	0
 國事犯	go;kh ui;hu fj;qe	0
@@ -6892,7 +6892,7 @@ use_preset_vocabulary: false
 公務員監督	gs;sb wu;mw yr;kb jm;mv du;mu	0
 合同生效要件	he;rk ts;kk ug;nh xc;wj yk;xn jm;rn	0
 合同生效要件	he;rk ts;kk ug;na xc;wj yk;xn jm;rn	0
-忽裏臺大會	hu;xw li;dy tl;uv da;hd hv;ro	0
+忽裏臺大會	hu;xw li;dy tl;uv da;ad hv;ro	0
 訴訟承擔	su;yi ss;yg ig;ad dj;fv	0
 侵犯財產所有權	qn;ry fj;qe cl;bc ij;wu so;jh yb;ou qr;mv	0
 化性起僞	hw;rb xy;xu qi;zj wz;rw	0
@@ -6973,7 +6973,7 @@ use_preset_vocabulary: false
 中國刑事辯護網	vs;aa go;kh xy;dk ui;aa bm;xx hu;yh wh;sw	0
 開放登記	kl;mk fh;wf dg;dd ji;yj	0
 開放登記	kl;mk fh;fw dg;dd ji;yj	0
-全民所有制工業企業職工代表大會條例	qr;rw mn;ag so;jh yb;ou vi;dg gs;aa ye;yl qi;rv ye;yl vi;eg gs;aa dl;ry bc;fy da;hd hv;ro tc;rt li;rl	0
+全民所有制工業企業職工代表大會條例	qr;rw mn;ag so;jh yb;ou vi;dg gs;aa ye;yl qi;rv ye;yl vi;eg gs;aa dl;ry bc;fy da;ad hv;ro tc;rt li;rl	0
 容留婦女賣淫罪	rs;bg lq;td fu;nj nv;aa ml;bs yn;dr zv;sf	0
 聯合國貿易法委員會	lm;ea he;rk go;kh mk;bd yi;ow fa;dq wz;hn yr;kb hv;ro	0
 北約自由統一法案	bz;ap yt;su zi;pa yb;aa ts;si yi;aa fa;dq an;ma	0
@@ -6993,7 +6993,7 @@ use_preset_vocabulary: false
 前置許可證	qm;qd vi;sv xu;yw ke;dk vg;yd	0
 法院編制法	fa;dq yr;ew bm;sb vi;dv fa;dq	0
 法院編制法	fa;dq yr;ew bm;sb vi;dg fa;dq	0
-武漢大學國際法研究所	wu;yv hj;dh da;hd xt;jz go;kh ji;ej fa;dq yj;uk jq;bj so;jh	0
+武漢大學國際法研究所	wu;yv hj;dh da;ad xt;jz go;kh ji;ej fa;dq yj;uk jq;bj so;jh	0
 有限責任公司規範意見	yb;ou xm;eg ze;bf rf;rr gs;sb si;gk gv;fj fj;ve yi;xy jm;me	0
 工效掛鉤制	gs;aa xc;wj gw;fg gb;jj vi;dv	0
 工效掛鉤制	gs;aa xc;wj gw;fg gb;jj vi;dg	0
@@ -7061,7 +7061,7 @@ use_preset_vocabulary: false
 醫療器械管理條例	yi;yu lc;bl qi;kk xx;mj gr;vg li;wl tc;rt li;rl	0
 法律職業資格考試	fa;dq lv;xy vi;eg ye;yl zi;bc ge;mg kk;lk ui;yu	0
 代位清償	dl;ry wz;rl qy;dq ih;ru	0
-大陸居民赴臺灣地區旅遊領隊人員管理辦法	da;hd lu;et ju;ug mn;ag fu;zb tl;uv wj;dg di;ty qu;kp lv;fp yb;zy ly;yl dv;eu rf;pd yr;kb gr;vg li;wl bj;lx fa;dq	0
+大陸居民赴臺灣地區旅遊領隊人員管理辦法	da;ad lu;et ju;ug mn;ag fu;zb tl;uv wj;dg di;ty qu;kp lv;fp yb;zy ly;yl dv;eu rf;pd yr;kb gr;vg li;wl bj;lx fa;dq	0
 量刑規範化	ld;rl xy;dk gv;fj fj;ve hw;rb	0
 量刑規範化	ld;rl xy;dk gv;jf fj;ve hw;rb	0
 量刑規範化	ld;ol xy;dk gv;fj fj;ve hw;rb	0
@@ -7100,7 +7100,7 @@ use_preset_vocabulary: false
 中華人民共和國國家金庫條例	vs;aa hw;ca rf;pd mn;ag gs;bc he;hk go;kh go;kh jw;bu jn;ra ku;gi tc;rt li;rl	0
 中國金融期貨交易所會員管理辦法	vs;aa go;kh jn;ra rs;ig qi;oq ho;bh jc;wf yi;ow so;jh hv;ro yr;kb gr;vg li;wl bj;lx fa;dq	0
 煤炭經營監管辦法	mz;hm tj;uh jy;sg yy;hl jm;mv gr;vg bj;lx fa;dq	0
-大石音樂版權	da;hd ui;kp yn;lo yt;bm bj;pf qr;mv	0
+大石音樂版權	da;ad ui;kp yn;lo yt;bm bj;pf qr;mv	0
 梅慎實	mz;mm uf;xv ui;bg	0
 建設工程法規及相關知識複習題集	jm;zy ue;yu gs;aa ig;hi fa;dq gv;fj ji;pd xd;mm gr;ma vi;uk ui;yg fu;yf xi;by ti;uy ji;vm	0
 指紋破案	vi;fv wf;sw po;up an;bm	0
@@ -7283,7 +7283,7 @@ use_preset_vocabulary: false
 工程量清單計價法	gs;aa ig;hi ld;ol qy;dq dj;kd ji;yu jw;rj fa;dq	0
 工程量清單計價法	gs;hh ig;hi ld;rl qy;dq dj;kd ji;yu jw;rj fa;dq	0
 工程量清單計價法	gs;hh ig;hi ld;ol qy;dq dj;kd ji;yu jw;rj fa;dq	0
-青山大樂隊	qy;of uj;aa da;hd yt;bm dv;eu	0
+青山大樂隊	qy;of uj;aa da;ad yt;bm dv;eu	0
 向單位行賄罪	xd;pk dj;kd wz;rl xy;xi hv;by zv;sf	0
 向單位行賄罪	xd;pk dj;kd wz;rl xy;rd hv;by zv;sf	0
 向單位行賄罪	xd;pk dj;kd wz;rl xy;ri hv;by zv;sf	0
@@ -7344,7 +7344,7 @@ use_preset_vocabulary: false
 招標出讓土地使用權	vk;fv bc;mp iu;ck rh;yx tu;hh di;ty ui;rl ys;kf qr;mv	0
 新資源食品衛生管理辦法	xn;jq zi;bc yr;dy ui;rl pn;kk wz;xi ug;na gr;vg li;wl bj;lx fa;dq	0
 企業國有資產產權登記證	qi;rv ye;yl go;kh yb;ou zi;bc ij;wu ij;wu qr;mv dg;dd ji;yj vg;yd	0
-澳大利亞憲法	ao;da da;hd li;dh ya;aa xm;bx fa;dq	0
+澳大利亞憲法	ao;da da;ad li;dh ya;aa xm;bx fa;dq	0
 承諾轉質	ig;zd no;yr vr;iv vi;bj	0
 承諾轉質	ig;ad no;yr vr;iv vi;bj	0
 承諾轉質	ig;vd no;yr vr;iv vi;bj	0
@@ -7370,7 +7370,7 @@ use_preset_vocabulary: false
 經濟合作合同	jy;sj ji;dq he;rk zo;rv he;rk ts;kk	0
 經濟合作合同	jy;sg ji;dq he;rk zo;rv he;rk ts;kk	0
 農副產品收購合同	ns;qi fu;df ij;wu pn;kk ub;wj gb;bg he;rk ts;kk	0
-香港大律師公會	xd;ho gh;dx da;hd lv;xy ui;bv gs;sb hv;ro	0
+香港大律師公會	xd;ho gh;dx da;ad lv;xy ui;bv gs;sb hv;ro	0
 中國重要報紙全文數據庫	vs;aa go;kh vs;pa yk;xn bk;ex vi;su qr;rw wf;dd uu;wl ju;fj ku;gi	0
 中國僑聯法律顧問委員會	vs;aa go;kh qc;rq lm;ea fa;dq lv;xy gu;yg wf;mw wz;hn yr;kb hv;ro	0
 原產地規則協議	yr;ix ij;wu di;ty gv;fj ze;db xx;ux yi;yy	0
@@ -7443,7 +7443,7 @@ use_preset_vocabulary: false
 債權證書	vl;rz qr;mv vg;yd uu;oy	0
 債權證書	vl;rz qr;mv vg;yd uu;yr	0
 債權證書	vl;rz qr;mv vg;yd uu;ry	0
-中國大案偵破實錄	vs;aa go;kh da;hd an;ma vf;rv po;up ui;bg lu;jl	0
+中國大案偵破實錄	vs;aa go;kh da;ad an;ma vf;rv po;up ui;bg lu;jl	0
 木腿正義	mu;ad tv;ot vg;av yi;yw	0
 道德概論	dk;zu de;xx gl;mj lp;yl	0
 道德概論	dk;zu de;rx gl;mj lp;yl	0
@@ -7781,7 +7781,7 @@ use_preset_vocabulary: false
 上海市產權交易管理辦法	uh;aa hl;dm ui;wj ij;wu qr;mv jc;wf yi;ow gr;vg li;wl bj;lx fa;dq	0
 澳門特別行政區駐軍法	ao;da mf;aa te;ns bx;dd xy;xd vg;wv qu;kp vu;mv jp;bi fa;dq	0
 鐵路留用土地辦法	tx;jg lu;zg lq;td ys;kf tu;aa di;ty bj;lx fa;dq	0
-中介組織人員出具證明文件重大失實罪	vs;aa jx;ra zu;sq vi;sg rf;pd yr;kb iu;uu ju;ba vg;yd my;oo wf;dd jm;rn vs;pa da;hd ui;pf ui;bg zv;sf	0
+中介組織人員出具證明文件重大失實罪	vs;aa jx;ra zu;sq vi;sg rf;pd yr;kb iu;uu ju;ba vg;yd my;oo wf;dd jm;rn vs;pa da;ad ui;pf ui;bg zv;sf	0
 註冊會計師註冊辦法	vu;yv ce;aa ky;ro ji;yu ui;bv vu;yv ce;aa bj;lx fa;dq	0
 國際恐怖主義犯罪	go;kh ji;ej ks;xg bu;xb vu;dw yi;yw fj;qe zv;sf	0
 易製毒化學品進出口管理規定	yi;ow vi;yv du;fm hw;rb xt;jz pn;kk jn;zv iu;uu kb;aa gr;vg li;wl gv;fj dy;bp	0
@@ -7797,7 +7797,7 @@ use_preset_vocabulary: false
 應付標價法	yy;gx fu;rc bc;mp jw;rj fa;dq	0
 非法出售增值稅專用發票罪	fz;aa fa;dq iu;uu ub;kv zg;tc vi;rv uv;hd vr;ac ys;kf fa;du pc;xu zv;sf	0
 集體安全體制	ji;vm ti;gd an;bn qr;rw ti;gd vi;dg	0
-廣東省各級人民代表大會選舉實施細則	gd;gh ds;ad ug;ou ge;wk ji;sj rf;pd mn;ag dl;ry bc;fy da;hd hv;ro xr;zg ju;fy ui;bg ui;fy xi;st ze;db	0
+廣東省各級人民代表大會選舉實施細則	gd;gh ds;ad ug;ou ge;wk ji;sj rf;pd mn;ag dl;ry bc;fy da;ad hv;ro xr;zg ju;fy ui;bg ui;fy xi;st ze;db	0
 牛津規則	nq;pu jn;dy gv;fj ze;db	0
 牛津規則	nq;pu jn;dy gv;jf ze;db	0
 牛津規則	nq;pa jn;dy gv;fj ze;db	0
@@ -7841,7 +7841,7 @@ use_preset_vocabulary: false
 中國共產黨黨校工作暫行條例	vs;aa go;kh gs;bc ij;wu dh;hk dh;hk xc;mj gs;aa zo;rv zj;ov xy;xd tc;rt li;rl	0
 專利代理費	vr;ac li;dh dl;ry li;wl fz;bf	0
 養父母子女關係	yh;yl fu;bi mu;ad zi;aa nv;aa gr;ma xi;rx	0
-北京市人民代表大會代表視察辦法	bz;ap jy;wx ui;wj rf;pd mn;ag dl;ry bc;fy da;hd hv;ro dl;ry bc;fy ui;ju ia;bj bj;lx fa;dq	0
+北京市人民代表大會代表視察辦法	bz;ap jy;wx ui;wj rf;pd mn;ag dl;ry bc;fy da;ad hv;ro dl;ry bc;fy ui;ju ia;bj bj;lx fa;dq	0
 信息技術產品協議	xn;ry xi;xz ji;fv uu;xi ij;wu pn;kk xx;ul yi;yy	0
 終結罪惡	vs;sd jx;sj zv;sf ee;xy	0
 吞吐基礎貨幣	tp;kt tu;kt ji;qt iu;ui ho;bh bi;jb	0

@@ -106,12 +106,12 @@ use_preset_vocabulary: false
 但願人長久	dj;rd yr;yy rf;pd ih;ad jq;pd	2
 但願人長久	dj;rd yr;yy rf;pd ih;hd jq;dd	2
 但願人長久	dj;rd yr;yy rf;pd ih;hd jq;pd	2
-刑不上大夫	xy;dk bu;ad uh;aa dl;hd fu;ad	2
+刑不上大夫	xy;dk bu;ad uh;aa da;ad fu;ad	2
 任爾東西南北風	rf;rr er;ay ds;ad xi;aa nj;ua bz;ap fg;ji	2
 海上生明月	hl;dm uh;aa ug;na my;oo yt;pa	2
 安得廣廈千萬間	an;bn de;rc gd;gh ua;gx qm;pa wj;cy jm;mo	2
 不到長城非好漢	bu;ad dk;dv ih;ad ig;ti fz;aa hk;nz hj;dh	2
-大庇天下寒士俱歡顏	da;hd bi;gb tm;ad xw;ab hj;bd ui;aa ju;rj hr;qv yj;yy	2
+大庇天下寒士俱歡顏	da;ad bi;gb tm;ad xw;ab hj;bd ui;aa ju;rj hr;qv yj;yy	2
 問渠哪得清如許	wf;km qu;mj na;kn de;xc qy;dq ru;nk xu;yw	2
 問渠哪得清如許	wf;km qu;mj na;kn de;rc qy;dq ru;nk xu;yw	2
 問渠哪得清如許	wf;mk qu;mj na;kn de;xc qy;dq ru;nk xu;yw	2
@@ -242,10 +242,10 @@ use_preset_vocabulary: false
 假作真時真亦假	jw;rj zo;rv vf;uj ui;os vf;uj yi;wb jw;rj	1
 居廟堂之高	ju;ug mc;gi th;tk vi;dd gk;wk	1
 可望不可即	ke;dk wh;wo bu;ad ke;dk ji;eg	1
-天將降大任於斯人也	tm;ad jd;pc jd;ef da;hd rf;rr yu;fd si;jq rf;pd ye;gg	1
+天將降大任於斯人也	tm;ad jd;pc jd;ef da;ad rf;rr yu;fd si;jq rf;pd ye;gg	1
 不知其可也	bu;ad vi;uk qi;ba ke;dk ye;gg	1
 必先苦其心志	bi;xp xm;en ku;cg qi;ba xn;dd vi;xu	1
-少小離家老大回	uk;xp xc;ad li;vl jw;bu lk;bl da;hd hv;kk	1
+少小離家老大回	uk;xp xc;ad li;vl jw;bu lk;bl da;ad hv;kk	1
 位卑未敢忘憂國	wz;rl bz;pa wz;ex gj;we wh;xw yb;xw go;kh	1
 歷覽前賢國與家	li;iv lj;jl qm;bd xm;by go;kh yu;ba jw;bu	1
 人約黃昏後	rf;pd yt;su hd;cb hp;ou hb;rw	1
@@ -300,7 +300,7 @@ use_preset_vocabulary: false
 水至清則無魚	uv;ad vi;tv qy;dq ze;db wu;ha yu;dd	0
 貧賤夫妻百事哀	pn;bf jm;bj fu;ad qi;na bl;ab ui;aa ai;wy	0
 少壯不努力	uk;xp vd;pu bu;ad nu;ln li;gp	0
-大珠小珠落玉盤	da;hd vu;wv xc;ad vu;wv lo;cl yu;wd pj;mb	0
+大珠小珠落玉盤	da;ad vu;wv xc;ad vu;wv lo;cl yu;wd pj;mb	0
 人生若只如初見	rf;pd ug;nh ro;cy vi;kb ru;nk iu;yd jm;oe	0
 人生若只如初見	rf;pd ug;nh ro;cy vi;kb ru;nk iu;yd jm;me	0
 人生若只如初見	rf;pd ug;na ro;cy vi;kb ru;nk iu;yd jm;oe	0
@@ -363,7 +363,7 @@ use_preset_vocabulary: false
 人生不如意	rf;pd ug;na bu;ad ru;nk yi;xy	0
 良藥苦口利於病	ld;dg yk;cl ku;cg kb;aa li;dh yu;fd by;bb	0
 禍患常積於忽微	ho;ug hr;xi ih;xd ji;hz yu;fd hu;xw wz;xw	0
-大漠孤煙直	da;hd mo;dm gu;zg yj;ht vi;aa	0
+大漠孤煙直	da;ad mo;dm gu;zg yj;ht vi;aa	0
 不破樓蘭終不還	bu;ad po;up lb;ml lj;cj vs;sd bu;ad hl;zh	0
 木受繩則直	mu;ad ub;vy ug;sm ze;db vi;aa	0
 喚起工農千百萬	hr;kh qi;zj gs;aa ns;qi qm;pa bl;ab wj;cy	0
@@ -385,7 +385,7 @@ use_preset_vocabulary: false
 環球同此涼熱	hr;wy qq;wq ts;kk ci;vb ld;dj re;hv	0
 八千里路雲和月	ba;pd qm;pa li;aa lu;zg yp;yy he;hk yt;pa	0
 可下五洋捉鱉	ke;dk xw;ab wu;aa yh;dy vo;fz bx;yb	0
-百萬雄師過大江	bl;ab wj;cy xs;vh ui;bv go;zg da;hd jd;dg	0
+百萬雄師過大江	bl;ab wj;cy xs;vh ui;bv go;zg da;ad jd;dg	0
 以及人之幼	yi;rd ji;pd rf;pd vi;dd yb;ly	0
 老夫聊發少年狂	lk;bl fu;ad lc;em fa;du uk;xp nm;ra kd;qw	0
 人面桃花相映紅	rf;pd mm;aa tk;mv hw;ch xd;mm yy;oy hs;sg	0
@@ -394,7 +394,7 @@ use_preset_vocabulary: false
 下筆如有神	xw;ab bi;vy ru;nk yb;ou uf;uu	0
 萬紫千紅總是春	wj;cy zi;sc qm;pa hs;sg zs;sc ui;op ip;of	0
 壯觀天下無	vd;pu gr;jv tm;ad xw;ab wu;ha	0
-老大徒傷悲	lk;bl da;hd tu;xz uh;rw bz;xf	0
+老大徒傷悲	lk;bl da;ad tu;xz uh;rw bz;xf	0
 爲他人作嫁衣裳	wz;pd ta;ry rf;pd zo;rv jw;nj yi;dd uh;xy	0
 不如退而結網	bu;ad ru;nk tv;zg er;aa jx;sj wh;sw	0
 忠言逆耳利於行	vs;xv yj;wk ni;zn er;aa li;dh yu;fd xy;xd	0
@@ -483,15 +483,15 @@ use_preset_vocabulary: false
 荊軻刺秦王	jy;cx ke;ik ci;dc qn;fh wh;aa	0
 荊軻刺秦王	jy;cx ke;ik ci;dc qn;fh wh;hh	0
 問蒼茫大地	wf;km ch;cc mh;cw da;ad di;ty	0
-問蒼茫大地	wf;km ch;cc mh;cw da;hd di;ty	0
+問蒼茫大地	wf;km ch;cc mh;cw da;ad di;ty	0
 問蒼茫大地	wf;mk ch;cc mh;cw da;ad di;ty	0
-問蒼茫大地	wf;mk ch;cc mh;cw da;hd di;ty	0
+問蒼茫大地	wf;mk ch;cc mh;cw da;ad di;ty	0
 衆人皆醉我獨醒	vs;xd rf;pd jx;bb zv;yz wo;pd du;qi xy;yx	0
 鄉音無改鬢毛衰	xd;el yn;lo wu;ha gl;wj bn;bb mk;pg uy;wy	0
 來者猶可追	ll;ad ve;ol yb;qq ke;dk vv;zv	0
 水善利萬物而不爭	uv;ad uj;ka li;dh wj;cy wu;nw er;aa bu;ad vg;va	0
 弄潮兒向濤頭立	ns;cw ik;di er;ej xd;pk tk;du tb;dy li;da	0
-諸大夫皆曰可殺	vu;yv dl;hd fu;ad jx;bb yt;aa ke;dk ua;uu	0
+諸大夫皆曰可殺	vu;yv da;ad fu;ad jx;bb yt;aa ke;dk ua;uu	0
 民亦憂其憂	mn;ag yi;wb yb;xw qi;ba yb;xw	0
 左右皆曰可殺	zo;gu yb;ku jx;bb yt;aa ke;dk ua;uu	0
 門前冷落鞍馬稀	mf;aa qm;bd lg;dl lo;cl an;ga ma;ad xi;hx	0
@@ -542,8 +542,6 @@ use_preset_vocabulary: false
 坐看雲起時	zo;tc kj;ou yp;yy qi;zj ui;os	0
 蚍蜉撼大樹	pi;ib fu;if hj;fg da;ad uu;mc	0
 蚍蜉撼大樹	pi;ib fu;if hj;fg da;ad uu;mu	0
-蚍蜉撼大樹	pi;ib fu;if hj;fg da;hd uu;mc	0
-蚍蜉撼大樹	pi;ib fu;if hj;fg da;hd uu;mu	0
 不義而富且貴	bu;ad yi;yw er;aa fu;bf qx;aa gv;bg	0
 一歲一枯榮	yi;aa sv;vx yi;aa ku;mg rs;hm	0
 人生得意須盡歡	rf;pd ug;na de;rc yi;xy xu;yp jn;md hr;qv	0
@@ -584,7 +582,7 @@ use_preset_vocabulary: false
 對影成三人	dv;ct yy;pj ig;gg sj;aa rf;pd	0
 獨釣寒江雪	du;qu dc;ju hj;bd jd;dg xt;yx	0
 獨釣寒江雪	du;qi dc;ju hj;bd jd;dg xt;yx	0
-此之謂大丈夫	ci;vb vi;dd wz;yw da;hd vh;ad fu;ad	0
+此之謂大丈夫	ci;vb vi;dd wz;yw da;ad vh;ad fu;ad	0
 在天願作比翼鳥	zl;ta tm;ad yr;yy zo;rv bi;bb yi;yg nc;pd	0
 秋收萬顆子	qq;hh ub;wj wj;cy ke;yg zi;aa	0
 秋收萬顆子	qq;hh ub;wj wj;cy ke;yg zi;vh	0
@@ -603,7 +601,7 @@ use_preset_vocabulary: false
 千淘萬漉雖辛苦	qm;pu tk;df wj;cy lu;dl sv;vs xn;lu ku;cg	0
 千淘萬漉雖辛苦	qm;pa tk;dt wj;cy lu;dl sv;vs xn;lu ku;cg	0
 千淘萬漉雖辛苦	qm;pa tk;df wj;cy lu;dl sv;vs xn;lu ku;cg	0
-大風起兮雲飛揚	da;hd fg;ji qi;zj xi;bk yp;yy fz;ff yh;fy	0
+大風起兮雲飛揚	da;ad fg;ji qi;zj xi;bk yp;yy fz;ff yh;fy	0
 得來全不費功夫	de;rc ll;ad qr;rw bu;ad fz;bf gs;lg fu;ad	0
 各領風騷數百年	ge;wk ly;yl fg;ji sk;mz uu;wl bl;ab nm;ra	0
 春來江水綠如藍	ip;of ll;ad jd;dg uv;ad lv;sl ru;nk lj;cj	0
@@ -645,7 +643,7 @@ use_preset_vocabulary: false
 金猴奮起千鈞棒	jn;ra hb;qh ff;dt qi;zj qm;pa jp;jy bh;mf	0
 停車坐愛楓林晚	ty;rt ie;aa zo;tc ai;vw fg;mf ln;mm wj;om	0
 禍兮福所倚	ho;ug xi;bk fu;uf so;jh yi;rq	0
-大鵬一日同風起	da;hd pg;np yi;aa ri;aa ts;kk fg;ji qi;zj	0
+大鵬一日同風起	da;ad pg;np yi;aa ri;aa ts;kk fg;ji qi;zj	0
 或輕於鴻毛	ho;gk qy;ij yu;fd hs;nj mk;pg	0
 或輕於鴻毛	ho;gk qy;ij yu;fd hs;dn mk;pg	0
 或輕於鴻毛	ho;gk qy;ig yu;fd hs;nj mk;pg	0
@@ -700,7 +698,7 @@ use_preset_vocabulary: false
 萬類霜天競自由	wj;cy lz;yl ud;yx tm;ad jy;jj zi;pa yb;aa	0
 明年春色倍還人	my;oo nm;ra ip;of se;db bz;rk hl;zh rf;pd	0
 月到中秋分外明	yt;pa dk;dv vs;aa qq;hh ff;db wl;xb my;oo	0
-故能成其大	gu;wg ng;sb ig;gg qi;ba da;hd	0
+故能成其大	gu;wg ng;sb ig;gg qi;ba da;ad	0
 裝點此關山	vd;yv dm;hv ci;vb gr;ma uj;uu	0
 裝點此關山	vd;yv dm;hv ci;vb gr;ma uj;aa	0
 裝點此關山	vd;yv dm;hv ci;vb gr;mu uj;uu	0
@@ -747,7 +745,7 @@ use_preset_vocabulary: false
 千門萬戶曈曈日	qm;pa mf;aa wj;cy hu;pk ts;ot ts;ot ri;aa	0
 成如容易卻艱辛	ig;gg ru;nk rs;bg yi;ow qt;eg jm;cg xn;lu	0
 無邊落木蕭蕭下	wu;ha bm;zf lo;cl mu;ad xc;cs xc;cs xw;ab	0
-小不忍則亂大謀	xc;ad bu;ad rf;xr ze;db lr;gy da;hd mb;ym	0
+小不忍則亂大謀	xc;ad bu;ad rf;xr ze;db lr;gy da;ad mb;ym	0
 徒法不能以自行	tu;xz fa;dq bu;ad ng;sb yi;rd zi;pa xy;xd	0
 枯藤老樹昏鴉	ku;mg tg;ct lk;bl uu;mc hp;ou ya;ny	0
 共飲長江水	gs;bc yn;uq ih;ad jd;dg uv;ad	0
@@ -812,7 +810,7 @@ use_preset_vocabulary: false
 天地英雄氣	tm;hd di;ty yy;cy xs;vs qi;qm	0
 天地英雄氣	tm;hd di;ty yy;cy xs;vh qi;qm	0
 紅豆生南國	hs;sg db;aa ug;na nj;ua go;kh	0
-天地有大美而不言	tm;ad di;ty yb;ou da;hd mz;dy er;aa bu;ad yj;wk	0
+天地有大美而不言	tm;ad di;ty yb;ou da;ad mz;dy er;aa bu;ad yj;wk	0
 天聽自我民聽	tm;ad ty;ex zi;pa wo;pd mn;ag ty;ex	0
 民德歸厚矣	mn;ag de;xx gv;vj hb;iz yi;su	0
 水光瀲灩晴方好	uv;ad gd;xw lm;dl yj;dh qy;oq fh;wd hk;nz	0

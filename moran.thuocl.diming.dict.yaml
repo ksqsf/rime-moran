@@ -64,7 +64,7 @@ use_preset_vocabulary: false
 省政府	ug;ou vg;wv fu;gf	1037
 省政府	ug;mu vg;wv fu;gf	1037
 大陸	da;ad lu;et	946
-大陸	da;hd lu;et	946
+大陸	da;ad lu;et	946
 西方	xi;aa fh;wd	906
 路邊	lu;zg bm;zf	849
 車上	ie;aa uh;aa	825
@@ -120,14 +120,14 @@ use_preset_vocabulary: false
 幼兒園	yb;yl er;ej yr;ky	644
 大廳	da;ad ty;gx	629
 大廳	da;ad ty;gt	629
-大廳	da;hd ty;gx	629
-大廳	da;hd ty;gt	629
+大廳	da;ad ty;gx	629
+大廳	da;ad ty;gt	629
 東北	ds;ad bz;ap	622
 村裏	cp;mc li;yl	614
 村裏	cp;mc li;dy	614
 村裏	cp;mc li;wy	614
 大道	da;ad dk;zu	612
-大道	da;hd dk;zu	612
+大道	da;ad dk;zu	612
 海洋	hl;dm yh;dy	607
 源頭	yr;dy tb;yd	603
 源頭	yr;dy tb;dy	603
@@ -156,13 +156,13 @@ use_preset_vocabulary: false
 車道	ie;hh dk;zu	527
 四川省	si;ke ir;pa ug;ou	519
 大樓	da;ad lb;ml	518
-大樓	da;hd lb;ml	518
+大樓	da;ad lb;ml	518
 水庫	uv;ud ku;gi	516
 水庫	uv;uv ku;gi	516
 水庫	uv;ad ku;gi	516
 西南	xi;aa nj;ua	511
 大橋	da;ad qc;mq	507
-大橋	da;hd qc;mq	507
+大橋	da;ad qc;mq	507
 市政	ui;dj vg;wv	506
 市政	ui;wj vg;wv	506
 火車站	ho;dd ie;aa vj;lv	504
@@ -216,7 +216,7 @@ use_preset_vocabulary: false
 華南	hw;ca nj;ua	369
 港口	gh;dx kb;aa	368
 港口	gh;dx kb;uh	368
-大街	da;hd jx;xg	358
+大街	da;ad jx;xg	358
 人民醫院	rf;pd mn;ag yi;yu yr;ew	354
 阿富汗	aa;ek fu;bt hj;dg	352
 阿富汗	aa;ek fu;bf hj;dg	352
@@ -225,13 +225,13 @@ use_preset_vocabulary: false
 樓下	lb;ml xw;hd	352
 樓下	lb;ml xw;hb	352
 大洋	da;ad yh;dy	348
-大洋	da;hd yh;dy	348
-北京大學	bz;ap jy;wx da;hd xt;jz	345
+大洋	da;ad yh;dy	348
+北京大學	bz;ap jy;wx da;ad xt;jz	345
 俱樂部	ju;rj le;my bu;ep	344
 俱樂部	ju;rj le;my bu;ek	344
 俱樂部	ju;rj le;bm bu;ep	344
 俱樂部	ju;rj le;bm bu;ek	344
-大會堂	da;hd hv;ro th;tk	344
+大會堂	da;ad hv;ro th;tk	344
 華西	hw;ch xi;aa	343
 華西	hw;ch xi;hh	343
 華西	hw;ca xi;aa	343
@@ -255,11 +255,11 @@ use_preset_vocabulary: false
 海關	hl;dm gr;ma	326
 海關	hl;dm gr;mu	326
 大都	da;ad du;ev	326
-大都	da;hd du;ev	326
+大都	da;ad du;ev	326
 省人大	ug;ou rf;pd da;ad	324
-省人大	ug;ou rf;pd da;hd	324
+省人大	ug;ou rf;pd da;ad	324
 省人大	ug;mu rf;pd da;ad	324
-省人大	ug;mu rf;pd da;hd	324
+省人大	ug;mu rf;pd da;ad	324
 園林	yr;ky ln;mm	321
 三角	sj;aa jc;dy	319
 三角	sj;hh jc;dy	319
@@ -291,7 +291,7 @@ use_preset_vocabulary: false
 福建省	fu;uf jm;zy ug;mu	299
 海南省	hl;dm nj;ua ug;ou	298
 大廈	da;ad ua;gx	295
-大廈	da;hd ua;gx	295
+大廈	da;ad ua;gx	295
 新華	xn;jq hw;ch	293
 新華	xn;jq hw;ca	293
 山西省	uj;aa xi;aa ug;ou	291
@@ -322,7 +322,7 @@ use_preset_vocabulary: false
 西北部	xi;aa bz;ap bu;ek	255
 居委會	ju;ug wz;hn hv;rr	247
 居委會	ju;ug wz;hn hv;ro	247
-北大	bz;ap da;hd	245
+北大	bz;ap da;ad	245
 市公安局	ui;dj gs;bs an;bn ju;uk	241
 市公安局	ui;dj gs;sb an;bn ju;uk	241
 市公安局	ui;wj gs;bs an;bn ju;uk	241
@@ -352,7 +352,7 @@ use_preset_vocabulary: false
 上新	uh;uh xn;jq	231
 上新	uh;bh xn;jq	231
 甘肅省	gj;ca su;ya ug;ou	231
-交警大隊	jc;wf jy;yj da;hd dv;eu	230
+交警大隊	jc;wf jy;yj da;ad dv;eu	230
 遺址	yi;zg vi;tv	229
 直轄市	vi;aa xw;ih ui;wj	228
 鄭州市	vg;ed vb;id ui;wj	227
@@ -424,7 +424,7 @@ use_preset_vocabulary: false
 隸屬	li;hd uu;ui	180
 隸屬	li;lu uu;uu	180
 隸屬	li;lu uu;ui	180
-復旦大學	fu;xf dj;oa da;hd xt;jz	179
+復旦大學	fu;xf dj;oa da;ad xt;jz	179
 中都	vs;aa db;ev	179
 中都	vs;uu db;ev	179
 中都	vs;ku db;ev	179
@@ -466,7 +466,7 @@ use_preset_vocabulary: false
 萬家	wj;cy jw;bu	157
 蘭州市	lj;cj vb;id ui;wj	157
 湘潭	xd;dx tj;dt	153
-中山大學	vs;aa uj;aa da;hd xt;jz	153
+中山大學	vs;aa uj;aa da;ad xt;jz	153
 草坪	ck;cz py;tp	152
 安定	an;bn dy;bp	149
 內蒙古自治區	nz;kr mg;cm gu;uk zi;pa vi;dt qu;kp	148
@@ -541,9 +541,9 @@ use_preset_vocabulary: false
 管理學院	gr;vg li;wl xt;zb yr;ew	126
 管理學院	gr;vg li;wl xt;jz yr;ew	126
 大棚	da;ad pg;mp	125
-大棚	da;hd pg;mp	125
+大棚	da;ad pg;mp	125
 大河	da;ad he;dk	125
-大河	da;hd he;dk	125
+大河	da;ad he;dk	125
 廣西壯族自治區	gd;gh xi;aa vd;pu zu;fu zi;pa vi;dt qu;kp	122
 蘇寧	su;ch ny;bd	121
 蘇寧	su;cs ny;bd	121
@@ -581,8 +581,8 @@ use_preset_vocabulary: false
 氣象局	qi;qm xd;pd ju;uk	115
 大山	da;ad uj;uu	114
 大山	da;ad uj;aa	114
-大山	da;hd uj;uu	114
-大山	da;hd uj;aa	114
+大山	da;ad uj;uu	114
+大山	da;ad uj;aa	114
 劇院	ju;dj yr;ew	113
 劇院	ju;du yr;ew	113
 中心區	vs;aa xn;dd qu;kp	113
@@ -620,10 +620,10 @@ use_preset_vocabulary: false
 橋下	qc;mq xw;hd	106
 橋下	qc;mq xw;hb	106
 中國銀行	vs;aa go;kh yn;jg hh;xd	106
-農業大學	ns;qi ye;yl da;hd xt;jz	105
+農業大學	ns;qi ye;yl da;ad xt;jz	105
 沙漠	ua;du mo;dm	105
 大江	da;ad jd;dg	104
-大江	da;hd jd;dg	104
+大江	da;ad jd;dg	104
 汽車站	qi;dq ie;aa vj;lv	104
 汽車站	qi;dq ie;hh vj;lv	104
 礦產資源	kd;ug ij;wu zi;bc yr;dy	104
@@ -669,7 +669,7 @@ use_preset_vocabulary: false
 熱帶風暴	re;dv dl;jb fg;ji bk;ru	96
 熱帶風暴	re;hv dl;jb fg;ji bk;ou	96
 熱帶風暴	re;hv dl;jb fg;ji bk;ru	96
-醫科大學	yi;yu ke;hd da;hd xt;jz	96
+醫科大學	yi;yu ke;hd da;ad xt;jz	96
 安全局	an;bn qr;rw ju;uk	96
 電影院	dm;yg yy;pj yr;ew	96
 電影院	dm;yd yy;pj yr;ew	96
@@ -714,7 +714,7 @@ use_preset_vocabulary: false
 軍營	jp;bi yy;lb	92
 青山	qy;of uj;aa	91
 林地	ln;mm di;ty	91
-武漢大學	wu;yv hj;dh da;hd xt;jz	91
+武漢大學	wu;yv hj;dh da;ad xt;jz	91
 東湖	ds;ad hu;dh	91
 東湖	ds;hd hu;dh	91
 東湖	ds;mr hu;dh	91
@@ -729,7 +729,7 @@ use_preset_vocabulary: false
 西城	xi;hh ig;ti	90
 黃埔	hd;cb pu;tf	90
 西藏自治區	xi;aa zh;cg zi;pa vi;dt qu;kp	90
-師範大學	ui;bv fj;ve da;hd xt;jz	90
+師範大學	ui;bv fj;ve da;ad xt;jz	90
 中關村	vs;aa gr;ma cp;mc	90
 培訓中心	pz;tk xp;yi vs;aa xn;dd	90
 福利院	fu;ut li;dh yr;ew	89
@@ -740,7 +740,7 @@ use_preset_vocabulary: false
 電廠	dm;yg ih;gi	89
 電廠	dm;yd ih;gw	89
 電廠	dm;yd ih;gi	89
-大門口	da;hd mf;aa kb;aa	88
+大門口	da;ad mf;aa kb;aa	88
 豐臺	fg;ud tl;uv	88
 豐臺	fg;df tl;uv	88
 兒童醫院	er;je ts;ll yi;yu yr;ew	87
@@ -773,7 +773,7 @@ use_preset_vocabulary: false
 南疆	nj;ua jd;gj	82
 南疆	nj;uy jd;gj	82
 工商銀行	gs;aa uh;wk yn;jg hh;xd	82
-北京師範大學	bz;ap jy;wx ui;bv fj;ve da;hd xt;jz	81
+北京師範大學	bz;ap jy;wx ui;bv fj;ve da;ad xt;jz	81
 蘆山	lu;cl uj;uu	81
 蘆山	lu;cl uj;aa	81
 法學院	fa;dq xt;zb yr;ew	81
@@ -784,7 +784,7 @@ use_preset_vocabulary: false
 惠農	hv;xh ns;qi	80
 渤海	bo;db hl;dm	80
 大同	da;ad ts;kk	80
-大同	da;hd ts;kk	80
+大同	da;ad ts;kk	80
 首都機場	ub;qz du;ev ji;mj ih;ty	80
 珠海市	vu;wv hl;dm ui;dj	80
 珠海市	vu;wv hl;dm ui;wj	80
@@ -810,8 +810,8 @@ use_preset_vocabulary: false
 農業局	ns;qi ye;yw ju;uk	78
 農業局	ns;qi ye;yl ju;uk	78
 大壩	da;ad ba;tb	78
-大壩	da;hd ba;tb	78
-交通大學	jc;wf ts;zy da;hd xt;jz	77
+大壩	da;ad ba;tb	78
+交通大學	jc;wf ts;zy da;ad xt;jz	77
 城郊	ig;ti jc;ej	77
 教育考試院	jc;wx yu;wo kk;lk ui;yu yr;ew	77
 教育考試院	jc;wx yu;ys kk;lk ui;yu yr;ew	77
@@ -834,7 +834,7 @@ use_preset_vocabulary: false
 農林	ns;qi ln;mm	75
 寧波市	ny;bd bo;dp ui;dj	75
 寧波市	ny;bd bo;dp ui;wj	75
-南京大學	nj;ua jy;wx da;hd xt;jz	74
+南京大學	nj;ua jy;wx da;ad xt;jz	74
 醫學院	yi;yu xt;zb yr;ew	74
 醫學院	yi;yu xt;jz yr;ew	74
 醫學院	yi;yy xt;zb yr;ew	74
@@ -936,8 +936,8 @@ use_preset_vocabulary: false
 水電站	uv;ad dm;yd vj;lv	63
 大勝	da;ad ug;yl	63
 大勝	da;ad ug;ol	63
-大勝	da;hd ug;yl	63
-大勝	da;hd ug;ol	63
+大勝	da;ad ug;yl	63
+大勝	da;ad ug;ol	63
 江邊	jd;dg bm;zf	63
 房地產公司	fh;hf di;ty ij;wu gs;sb si;gk	63
 稅務局	uv;hd wu;mw ju;uk	63
@@ -1003,8 +1003,8 @@ use_preset_vocabulary: false
 沿河	yj;dk he;dk	58
 同濟大學	ts;kk ji;dq da;ad xt;zb	58
 同濟大學	ts;kk ji;dq da;ad xt;jz	58
-同濟大學	ts;kk ji;dq da;hd xt;zb	58
-同濟大學	ts;kk ji;dq da;hd xt;jz	58
+同濟大學	ts;kk ji;dq da;ad xt;zb	58
+同濟大學	ts;kk ji;dq da;ad xt;jz	58
 變電站	bm;yw dm;yg vj;lv	58
 變電站	bm;yw dm;yd vj;lv	58
 變電站	bm;ws dm;yg vj;lv	58
@@ -1085,13 +1085,13 @@ use_preset_vocabulary: false
 西太平洋	xi;aa tl;dd py;aa yh;dy	52
 站前	vj;lv qm;bd	52
 站前	vj;lv qm;qd	52
-華中科技大學	hw;ca vs;aa ke;hd ji;fv da;hd xt;jz	52
+華中科技大學	hw;ca vs;aa ke;hd ji;fv da;ad xt;jz	52
 市檢察院	ui;dj jm;mq ia;bj yr;ew	52
 市檢察院	ui;wj jm;mq ia;bj yr;ew	52
 大連市	da;ad lm;zi ui;dj	52
 大連市	da;ad lm;zi ui;wj	52
-大連市	da;hd lm;zi ui;dj	52
-大連市	da;hd lm;zi ui;wj	52
+大連市	da;ad lm;zi ui;dj	52
+大連市	da;ad lm;zi ui;wj	52
 地震局	di;ty vf;yi ju;uk	51
 外灘	wl;xb tj;dn	51
 特拉維夫	te;ns la;fl wz;sv fu;ad	51
@@ -1122,7 +1122,7 @@ use_preset_vocabulary: false
 牡丹	mu;nt dj;pd	50
 黑馬	hz;ha ma;ad	50
 湖邊	hu;dh bm;zf	50
-大水	da;hd uv;ad	50
+大水	da;ad uv;ad	50
 邵陽市	uk;ev yh;ey ui;dj	49
 邵陽市	uk;ev yh;ey ui;wj	49
 湖畔	hu;dh pj;tb	49
@@ -1139,7 +1139,7 @@ use_preset_vocabulary: false
 北岸	bz;hp an;ug	49
 北岸	bz;bj an;ug	49
 北岸	bz;ap an;ug	49
-中南大學	vs;aa nj;ua da;hd xt;jz	49
+中南大學	vs;aa nj;ua da;ad xt;jz	49
 舟山	vb;pd uj;uu	49
 舟山	vb;pd uj;aa	49
 郵政局	yb;ei vg;wv ju;uk	49
@@ -1175,11 +1175,11 @@ use_preset_vocabulary: false
 省轄市	ug;mu xw;ih ui;wj	48
 城西	ig;ti xi;aa	48
 城西	ig;ti xi;hh	48
-暨南大學	ji;dj nj;ua da;hd xt;jz	48
+暨南大學	ji;dj nj;ua da;ad xt;jz	48
 田裏	tm;aa li;dy	47
 老城	lk;bl ig;ti	47
 老城	lk;lb ig;ti	47
-南開大學	nj;ua kl;mk da;hd xt;jz	47
+南開大學	nj;ua kl;mk da;ad xt;jz	47
 樓裏	lb;ml li;yl	47
 樓裏	lb;ml li;dy	47
 樓裏	lb;ml li;wy	47
@@ -1235,7 +1235,7 @@ use_preset_vocabulary: false
 常州市	ih;xd vb;id ui;wj	45
 常德市	ih;xd de;xx ui;wj	45
 斜坡	xx;dy po;tp	45
-交大	jc;wf da;hd	45
+交大	jc;wf da;ad	45
 永州市	ys;dd vb;id ui;wj	45
 路橋	lu;zg qc;mq	44
 公館	gs;bs gr;ug	44
@@ -1293,7 +1293,7 @@ use_preset_vocabulary: false
 閔行	mn;mw xy;xd	42
 市人民政府	ui;wj rf;pd mn;ag vg;wv fu;gf	42
 大洲	da;ad vb;dv	42
-大洲	da;hd vb;dv	42
+大洲	da;ad vb;dv	42
 三環路	sj;aa hr;wh lu;zg	42
 三環路	sj;aa hr;wy lu;zg	42
 三環路	sj;hh hr;wh lu;zg	42
@@ -1320,7 +1320,7 @@ use_preset_vocabulary: false
 徐州市	xu;xy vb;id ui;wj	41
 樓前	lb;ml qm;bd	41
 樓前	lb;ml qm;qd	41
-人民大學	rf;pd mn;ag da;hd xt;jz	41
+人民大學	rf;pd mn;ag da;ad xt;jz	41
 南坪	nj;uu py;tp	41
 南坪	nj;ua py;tp	41
 南坪	nj;uy py;tp	41
@@ -1371,9 +1371,9 @@ use_preset_vocabulary: false
 榆林市	yu;my ln;mm ui;wj	39
 無錫市	wu;ha xi;jy ui;wj	39
 師大	ui;vb da;ad	39
-師大	ui;vb da;hd	39
+師大	ui;vb da;ad	39
 師大	ui;bv da;ad	39
-師大	ui;bv da;hd	39
+師大	ui;bv da;ad	39
 北京西站	bz;ap jy;wx xi;aa vj;lv	39
 浦口	pu;df kb;aa	39
 浦口	pu;df kb;uh	39
@@ -1382,11 +1382,11 @@ use_preset_vocabulary: false
 陵園	ly;el yr;ky	39
 國防大學	go;kh fh;ef da;ad xt;zb	39
 國防大學	go;kh fh;ef da;ad xt;jz	39
-國防大學	go;kh fh;ef da;hd xt;zb	39
-國防大學	go;kh fh;ef da;hd xt;jz	39
+國防大學	go;kh fh;ef da;ad xt;zb	39
+國防大學	go;kh fh;ef da;ad xt;jz	39
 技校	ji;fv xc;mj	39
 利比里亞	li;dh bi;bb li;aa ya;aa	38
-東南大學	ds;ad nj;ua da;hd xt;jz	38
+東南大學	ds;ad nj;ua da;ad xt;jz	38
 寧鄉	ny;bd xd;el	38
 寧鄉	ny;bd xd;xl	38
 寶雞市	bk;bb ji;vx ui;dj	38
@@ -1454,7 +1454,7 @@ use_preset_vocabulary: false
 浦東機場	pu;df ds;mr ji;mj ih;ty	36
 浦東機場	pu;df ds;mo ji;mj ih;ty	36
 展覽中心	vj;uy lj;jl vs;aa xn;dd	36
-北師大	bz;ap ui;bv da;hd	36
+北師大	bz;ap ui;bv da;ad	36
 涪陵	fu;dk ly;ew	36
 涪陵	fu;dk ly;el	36
 涪陵	fu;dp ly;ew	36
@@ -1468,7 +1468,7 @@ use_preset_vocabulary: false
 邊防支隊	bm;zf fh;ef vi;uy dv;eu	36
 綠城	lv;sl ig;ti	35
 綠城	lv;su ig;ti	35
-大禮堂	da;hd li;ud th;tk	35
+大禮堂	da;ad li;ud th;tk	35
 教育學院	jc;wx yu;os xt;jz yr;ew	35
 祠堂	ci;us th;dt	35
 祠堂	ci;us th;xt	35
@@ -1497,8 +1497,8 @@ use_preset_vocabulary: false
 和美	he;hk mz;dy	35
 深圳大學	uf;dm vf;ti da;ad xt;zb	35
 深圳大學	uf;dm vf;ti da;ad xt;jz	35
-深圳大學	uf;dm vf;ti da;hd xt;zb	35
-深圳大學	uf;dm vf;ti da;hd xt;jz	35
+深圳大學	uf;dm vf;ti da;ad xt;zb	35
+深圳大學	uf;dm vf;ti da;ad xt;jz	35
 華美	hw;ch mz;yd	34
 華美	hw;ch mz;dy	34
 華美	hw;ca mz;yd	34
@@ -1538,7 +1538,7 @@ use_preset_vocabulary: false
 第二醫院	di;vp er;hh yi;yy yr;ew	34
 音樂學院	yn;lo yt;bm xt;jz yr;ew	34
 大路	da;ad lu;zg	34
-大路	da;hd lu;zg	34
+大路	da;ad lu;zg	34
 草場	ck;cz ih;ty	34
 中醫醫院	vs;aa yi;yu yi;yu yr;ew	34
 增城市	zg;tc ig;ti ui;dj	34
@@ -1557,7 +1557,7 @@ use_preset_vocabulary: false
 東江	ds;mo jd;dg	33
 洪山	hs;dg uj;uu	33
 洪山	hs;dg uj;aa	33
-湖南大學	hu;dh nj;ua da;hd xt;jz	33
+湖南大學	hu;dh nj;ua da;ad xt;jz	33
 後應	hb;rw yy;xv	33
 後應	hb;rw yy;gx	33
 後應	hb;xw yy;xv	33
@@ -1731,7 +1731,7 @@ use_preset_vocabulary: false
 香山	xd;ho uj;uu	29
 香山	xd;ho uj;aa	29
 夫子廟	fu;ad zi;aa mc;gi	29
-北京航空航天大學	bz;ap jy;wx hh;vk ks;bg hh;vk tm;ad da;hd xt;jz	29
+北京航空航天大學	bz;ap jy;wx hh;vk ks;bg hh;vk tm;ad da;ad xt;jz	29
 南陽市	nj;ua yh;ey ui;wj	29
 揭陽市	jx;fh yh;ey ui;dj	29
 揭陽市	jx;fh yh;ey ui;wj	29
@@ -1785,9 +1785,9 @@ use_preset_vocabulary: false
 新鄉市	xn;jq xd;xl ui;dj	28
 新鄉市	xn;jq xd;xl ui;wj	28
 二大隊	er;aa da;ad dv;eu	28
-二大隊	er;aa da;hd dv;eu	28
+二大隊	er;aa da;ad dv;eu	28
 二大隊	er;hh da;ad dv;eu	28
-二大隊	er;hh da;hd dv;eu	28
+二大隊	er;hh da;ad dv;eu	28
 幾內亞	ji;yg nz;kr ya;aa	28
 江岸	jd;dg an;ug	27
 後所	hb;rw so;hj	27
@@ -1874,7 +1874,7 @@ use_preset_vocabulary: false
 巴士海峽	ba;ag ui;aa hl;dm xw;uj	26
 金牛	jn;ra nq;pa	26
 浙大	ve;dv da;ad	26
-浙大	ve;dv da;hd	26
+浙大	ve;dv da;ad	26
 小林	xc;ud ln;mm	26
 小林	xc;ad ln;mm	26
 水後	uv;ad hb;xw	26
@@ -1979,7 +1979,7 @@ use_preset_vocabulary: false
 長治市	vh;hd vi;dt ui;dj	25
 長治市	vh;hd vi;dt ui;wj	25
 大義	da;ad yi;yw	25
-大義	da;hd yi;yw	25
+大義	da;ad yi;yw	25
 通化	ts;zy hw;rb	25
 六安市	lu;wb an;bn ui;wj	25
 淮南市	hy;dv nj;ua ui;wj	25
@@ -2076,7 +2076,7 @@ use_preset_vocabulary: false
 甘孜州	gj;ca zi;wz vb;id	23
 雨花	yu;ad hw;ch	23
 雨花	yu;hd hw;ch	23
-南京師範大學	nj;ua jy;wx ui;bv fj;ve da;hd xt;jz	23
+南京師範大學	nj;ua jy;wx ui;bv fj;ve da;ad xt;jz	23
 鄂爾多斯市	ee;ee er;ay do;xx si;jq ui;wj	23
 北街	bz;ap jx;xg	23
 嘉興市	jw;uj xy;ba ui;wj	23
@@ -2113,10 +2113,10 @@ use_preset_vocabulary: false
 民族風情	mn;ag zu;fu fg;ji qy;xq	23
 民族風情	mn;vg zu;fu fg;ji qy;xq	23
 農大	ns;qi da;ad	23
-農大	ns;qi da;hd	23
+農大	ns;qi da;ad	23
 華盛頓州	hw;ca ug;mi dp;yt vb;id	23
 大漠	da;ad mo;dm	23
-大漠	da;hd mo;dm	23
+大漠	da;ad mo;dm	23
 開源	kl;mk yr;dy	23
 第一中學	di;vp yi;aa vs;aa xt;jz	23
 春光	ip;of gd;xw	23
@@ -2157,9 +2157,9 @@ use_preset_vocabulary: false
 計生局	ji;yu ug;nh ju;uk	23
 計生局	ji;yu ug;na ju;uk	23
 三大隊	sj;aa da;ad dv;eu	23
-三大隊	sj;aa da;hd dv;eu	23
+三大隊	sj;aa da;ad dv;eu	23
 三大隊	sj;hh da;ad dv;eu	23
-三大隊	sj;hh da;hd dv;eu	23
+三大隊	sj;hh da;ad dv;eu	23
 泰州市	tl;uf vb;id ui;wj	22
 安陽市	an;bn yh;ey ui;dj	22
 安陽市	an;bn yh;ey ui;wj	22
@@ -2202,7 +2202,7 @@ use_preset_vocabulary: false
 圓明園	yr;ky my;ry yr;ky	22
 圓明園	yr;ky my;oo yr;ky	22
 大觀園	da;ad gr;jv yr;ky	22
-大觀園	da;hd gr;jv yr;ky	22
+大觀園	da;ad gr;jv yr;ky	22
 浦發銀行	pu;df fa;du yn;jg hh;xd	22
 閘北	va;mj bz;hp	22
 閘北	va;mj bz;bj	22
@@ -2246,7 +2246,7 @@ use_preset_vocabulary: false
 深坑	uf;dm kg;tk	21
 金龍	jn;ra ls;dg	21
 油庫	yb;dy ku;gi	21
-電子科技大學	dm;yd zi;aa ke;hd ji;fv da;hd xt;jz	21
+電子科技大學	dm;yd zi;aa ke;hd ji;fv da;ad xt;jz	21
 下邊	xw;ad bm;zf	21
 下邊	xw;ab bm;zf	21
 下邊	xw;hd bm;zf	21
@@ -2258,8 +2258,8 @@ use_preset_vocabulary: false
 高和	gk;wk he;hk	21
 大同市	da;ad ts;kk ui;dj	21
 大同市	da;ad ts;kk ui;wj	21
-大同市	da;hd ts;kk ui;dj	21
-大同市	da;hd ts;kk ui;wj	21
+大同市	da;ad ts;kk ui;dj	21
+大同市	da;ad ts;kk ui;wj	21
 高橋	gk;dk qc;mq	21
 高橋	gk;wk qc;mq	21
 上家	uh;aa jw;bu	21
@@ -2339,7 +2339,7 @@ use_preset_vocabulary: false
 長江路	ih;hd jd;dg lu;zg	20
 連雲港市	lm;zi yp;yy gh;dx ui;dj	20
 連雲港市	lm;zi yp;yy gh;dx ui;wj	20
-湖南師範大學	hu;dh nj;ua ui;bv fj;ve da;hd xt;jz	20
+湖南師範大學	hu;dh nj;ua ui;bv fj;ve da;ad xt;jz	20
 向陽	xd;pk yh;ey	20
 天和	tm;ad he;hk	20
 天和	tm;hd he;hk	20
@@ -2359,7 +2359,7 @@ use_preset_vocabulary: false
 下都	xw;ab db;ev	20
 下都	xw;hd db;ev	20
 下都	xw;hb db;ev	20
-上海大學	uh;aa hl;dm da;hd xt;jz	20
+上海大學	uh;aa hl;dm da;ad xt;jz	20
 防護林	fh;ef hu;yh ln;mm	20
 防護林	fh;ef hu;yy ln;mm	20
 上鋪	uh;aa pu;jf	20
@@ -2377,7 +2377,7 @@ use_preset_vocabulary: false
 省新	ug;ou xn;jq	20
 省新	ug;mu xn;jq	20
 巡警大隊	xp;zi jy;yj da;ad dv;eu	20
-巡警大隊	xp;zi jy;yj da;hd dv;eu	20
+巡警大隊	xp;zi jy;yj da;ad dv;eu	20
 神木	uf;uu mu;ad	20
 神木	uf;uu mu;hd	20
 檳榔	by;mb lh;ml	20
@@ -2399,7 +2399,7 @@ use_preset_vocabulary: false
 剛果	gh;dg go;ad	20
 剛果	gh;dg go;ud	20
 剛果	gh;dg go;tm	20
-大亞灣	da;hd ya;aa wj;dg	20
+大亞灣	da;ad ya;aa wj;dg	20
 小山村	xc;ud uj;uu cp;mc	20
 小山村	xc;ud uj;aa cp;mc	20
 小山村	xc;ad uj;uu cp;mc	20
@@ -2419,7 +2419,7 @@ use_preset_vocabulary: false
 都江堰市	du;ev jd;dg yj;tn ui;dj	20
 都江堰市	du;ev jd;dg yj;tn ui;wj	20
 電信公司	dm;yd xn;ry gs;sb si;gk	20
-天津大學	tm;ad jn;dy da;hd xt;jz	20
+天津大學	tm;ad jn;dy da;ad xt;jz	20
 東二環	ds;ad er;aa hr;wh	20
 澎湖	pg;dp hu;dh	20
 吉首市	ji;ku ub;qz ui;dj	20
@@ -2518,7 +2518,7 @@ use_preset_vocabulary: false
 江東	jd;dg ds;hd	19
 江東	jd;dg ds;mr	19
 江東	jd;dg ds;mo	19
-西北大學	xi;aa bz;ap da;hd xt;jz	19
+西北大學	xi;aa bz;ap da;ad xt;jz	19
 師範學校	ui;vb fj;ve xt;zb xc;mj	19
 師範學校	ui;vb fj;ve xt;jz xc;mj	19
 師範學校	ui;bv fj;ve xt;zb xc;mj	19
@@ -2527,12 +2527,12 @@ use_preset_vocabulary: false
 南街	nj;ua jx;xg	19
 荊門市	jy;cx mf;aa ui;wj	19
 大湖	da;ad hu;dh	19
-大湖	da;hd hu;dh	19
+大湖	da;ad hu;dh	19
 名古屋	my;xk gu;uk wu;uv	19
 市中級人民法院	ui;wj vs;aa ji;sj rf;pd mn;ag fa;dq yr;ew	19
 鹿城	lu;gb ig;ti	19
 鹿城	lu;lb ig;ti	19
-北京交通大學	bz;ap jy;wx jc;wf ts;zy da;hd xt;jz	19
+北京交通大學	bz;ap jy;wx jc;wf ts;zy da;ad xt;jz	19
 白花	bl;pr hw;ch	19
 白花	bl;ph hw;ch	19
 白花	bl;pa hw;ch	19
@@ -2552,10 +2552,10 @@ use_preset_vocabulary: false
 西柏坡	xi;hh bl;mb po;tp	19
 八家	ba;pd jw;bu	19
 大坪	da;ad py;tp	19
-大坪	da;hd py;tp	19
+大坪	da;ad py;tp	19
 忻州市	xn;xj vb;id ui;wj	19
 交警中隊	jc;wf jy;yj vs;aa dv;eu	19
-南大門	nj;ua da;hd mf;aa	19
+南大門	nj;ua da;ad mf;aa	19
 機場路	ji;mj ih;ty lu;zg	19
 威海市	wz;gn hl;dm ui;wj	19
 臺灣省	tl;uv wj;dw ug;ou	19
@@ -2596,15 +2596,15 @@ use_preset_vocabulary: false
 諸暨	vu;yv ji;dj	18
 大樂	da;ad le;my	18
 大樂	da;ad le;bm	18
-大樂	da;hd le;my	18
-大樂	da;hd le;bm	18
+大樂	da;ad le;my	18
+大樂	da;ad le;bm	18
 路西	lu;zg xi;aa	18
 路西	lu;zg xi;hh	18
 芳村	fh;cf cp;mc	18
 駐馬店市	vu;mv ma;ad dm;gv ui;wj	18
 條子	tc;rt zi;aa	18
 條子	tc;rt zi;vh	18
-東大街	ds;ad da;hd jx;xg	18
+東大街	ds;ad da;ad jx;xg	18
 格林	ge;mg ln;mm	18
 伊利諾伊州	yi;ry li;dh no;yr yi;ry vb;id	18
 二橋	er;aa qc;mq	18
@@ -2614,12 +2614,12 @@ use_preset_vocabulary: false
 九江市	jq;py jd;dg ui;wj	18
 璧山	bi;yb uj;aa	18
 朝陽醫院	vk;ou yh;ey yi;yu yr;ew	18
-西大街	xi;aa da;hd jx;xg	18
+西大街	xi;aa da;ad jx;xg	18
 高速路口	gk;dk su;zu lu;zg kb;aa	18
 高速路口	gk;dk su;zu lu;zg kb;uh	18
 高速路口	gk;wk su;zu lu;zg kb;aa	18
 高速路口	gk;wk su;zu lu;zg kb;uh	18
-大馬路	da;hd ma;ad lu;zg	18
+大馬路	da;ad ma;ad lu;zg	18
 磚廠	vr;uv ih;gw	18
 磚廠	vr;uv ih;gi	18
 平頭	py;aa tb;dy	18
@@ -2716,7 +2716,7 @@ use_preset_vocabulary: false
 田頭	tm;uh tb;yd	18
 田頭	tm;uh tb;dy	18
 大港	da;ad gh;dx	18
-大港	da;hd gh;dx	18
+大港	da;ad gh;dx	18
 棗莊市	zk;hd vd;cv ui;dj	18
 棗莊市	zk;hd vd;cv ui;wj	18
 棗莊市	zk;cc vd;cv ui;dj	18
@@ -2765,7 +2765,7 @@ use_preset_vocabulary: false
 石巖	ui;kp yj;ug	17
 前邊	qm;bd bm;zf	17
 前邊	qm;qd bm;zf	17
-中山大道	vs;aa uj;aa da;hd dk;zu	17
+中山大道	vs;aa uj;aa da;ad dk;zu	17
 旺角	wh;rw jc;dy	17
 旺角	wh;ow jc;dy	17
 水上樂園	uv;ad uh;aa le;bm yr;ky	17
@@ -2817,18 +2817,18 @@ use_preset_vocabulary: false
 德陽市	de;rx yh;ey ui;dj	17
 德陽市	de;rx yh;ey ui;wj	17
 溫室大棚	wf;dm ui;bv da;ad pg;mp	17
-溫室大棚	wf;dm ui;bv da;hd pg;mp	17
+溫室大棚	wf;dm ui;bv da;ad pg;mp	17
 溫室大棚	wf;dw ui;bv da;ad pg;mp	17
-溫室大棚	wf;dw ui;bv da;hd pg;mp	17
+溫室大棚	wf;dw ui;bv da;ad pg;mp	17
 古絲綢之路	gu;uk si;ss ib;sv vi;dd lu;zg	17
 南通市	nj;ua ts;zy ui;wj	17
 名都	my;xk db;ev	17
 大新	da;ad xn;jq	17
-大新	da;hd xn;jq	17
+大新	da;ad xn;jq	17
 桃花源	tk;mv hw;ch yr;dy	17
 秦淮河	qn;hf hy;dv he;dk	17
 秦淮河	qn;fh hy;dv he;dk	17
-北大街	bz;ap da;hd jx;xg	17
+北大街	bz;ap da;ad jx;xg	17
 文學院	wf;dd xt;zb yr;ew	17
 文學院	wf;dd xt;jz yr;ew	17
 山腰	uj;uu yk;oy	17
@@ -2857,13 +2857,13 @@ use_preset_vocabulary: false
 西街	xi;aa jx;xg	17
 電視塔	dm;yd ui;ju ta;td	17
 華強北	hw;ca qd;gi bz;ap	17
-武漢理工大學	wu;yv hj;dh li;wl gs;aa da;hd xt;jz	17
+武漢理工大學	wu;yv hj;dh li;wl gs;aa da;ad xt;jz	17
 北京南	bz;ap jy;wx nj;ua	17
 市殘聯	ui;dj cj;dj lm;eu	17
 市殘聯	ui;dj cj;dj lm;ea	17
 市殘聯	ui;wj cj;dj lm;eu	17
 市殘聯	ui;wj cj;dj lm;ea	17
-師大附中	ui;bv da;hd fu;ef vs;aa	16
+師大附中	ui;bv da;ad fu;ef vs;aa	16
 秀山	xq;hn uj;uu	16
 秀山	xq;hn uj;aa	16
 梅林	mz;mm ln;mm	16
@@ -2892,7 +2892,7 @@ use_preset_vocabulary: false
 布吉	bu;ju ji;uk	16
 布吉	bu;uj ji;ku	16
 布吉	bu;uj ji;uk	16
-大豐收	da;hd fg;ud ub;wj	16
+大豐收	da;ad fg;ud ub;wj	16
 五環路	wu;aa hr;wh lu;zg	16
 五環路	wu;aa hr;wy lu;zg	16
 五環路	wu;hh hr;wh lu;zg	16
@@ -2913,9 +2913,9 @@ use_preset_vocabulary: false
 北城	bz;ap ig;ti	16
 濱江路	bn;db jd;dg lu;zg	16
 華大	hw;ch da;ad	16
-華大	hw;ch da;hd	16
+華大	hw;ch da;ad	16
 華大	hw;ca da;ad	16
-華大	hw;ca da;hd	16
+華大	hw;ca da;ad	16
 過段	go;zg dr;pu	16
 朔州市	uo;on vb;id ui;wj	16
 文體局	wf;dd ti;gd ju;uk	16
@@ -2963,7 +2963,7 @@ use_preset_vocabulary: false
 沙井	ua;du jy;hu	16
 沙井	ua;du jy;aa	16
 沙井	ua;du jy;ep	16
-大石	da;hd ui;kp	16
+大石	da;ad ui;kp	16
 二隊	er;aa dv;eu	16
 二隊	er;hh dv;eu	16
 總院	zs;sc yr;ew	16
@@ -3047,7 +3047,7 @@ use_preset_vocabulary: false
 大黃	dl;ad hd;cb	15
 大黃	dl;hd hd;cb	15
 膠州市	jc;ol vb;id ui;wj	15
-東大門	ds;ad da;hd mf;aa	15
+東大門	ds;ad da;ad mf;aa	15
 亞利桑那州	ya;aa li;dh sh;mr na;el vb;id	15
 古村	gu;uk cp;mc	15
 彭水	pg;pd uv;ad	15
@@ -3056,7 +3056,7 @@ use_preset_vocabulary: false
 即墨市	ji;eg mo;th ui;wj	15
 藍山	lj;cj uj;uu	15
 藍山	lj;cj uj;aa	15
-中央民族大學	vs;aa yh;ad mn;ag zu;fu da;hd xt;jz	15
+中央民族大學	vs;aa yh;ad mn;ag zu;fu da;ad xt;jz	15
 松柏	ss;mg bl;mb	15
 武警醫院	wu;yv jy;yj yi;yu yr;ew	15
 武警醫院	wu;yv jy;yj yi;yy yr;ew	15
@@ -3099,8 +3099,8 @@ use_preset_vocabulary: false
 密歇根州	mi;bu xx;qh gf;mg vb;id	15
 大宅	da;ad vl;bt	15
 大宅	da;ad vl;bq	15
-大宅	da;hd vl;bt	15
-大宅	da;hd vl;bq	15
+大宅	da;ad vl;bt	15
+大宅	da;ad vl;bq	15
 宿州市	su;bb vb;id ui;wj	15
 七中	qi;ag vs;aa	15
 煎餅	jm;hq by;ub	15
@@ -3167,7 +3167,7 @@ use_preset_vocabulary: false
 客運段	ke;bg yp;zj dr;ud	14
 客運段	ke;bg yp;zj dr;pu	14
 客運段	ke;bg yp;zj dr;du	14
-四大隊	si;ke da;hd dv;eu	14
+四大隊	si;ke da;ad dv;eu	14
 桐廬	ts;mt lu;gl	14
 潼南	ts;dt nj;uu	14
 潼南	ts;dt nj;ua	14
@@ -3182,7 +3182,7 @@ use_preset_vocabulary: false
 張丹	vh;gi dj;pd	14
 科羅拉多州	ke;hd lo;sv la;fl do;xx vb;id	14
 膠東	jc;ol ds;ad	14
-華中農業大學	hw;ca vs;aa ns;qi ye;yl da;hd xt;jz	14
+華中農業大學	hw;ca vs;aa ns;qi ye;yl da;ad xt;jz	14
 平順	py;hu up;yi	14
 平順	py;aa up;yi	14
 平順	py;gb up;yi	14
@@ -3200,7 +3200,7 @@ use_preset_vocabulary: false
 路東	lu;zg ds;hd	14
 路東	lu;zg ds;mr	14
 路東	lu;zg ds;mo	14
-大潤發	da;hd rp;dr fa;du	14
+大潤發	da;ad rp;dr fa;du	14
 後海	hb;rw hl;dm	14
 後海	hb;xw hl;dm	14
 八中	ba;pd vs;aa	14
@@ -3297,7 +3297,7 @@ use_preset_vocabulary: false
 西固	xi;aa gu;kg	14
 西固	xi;hh gu;kg	14
 轉運站	vr;iv yp;zj vj;lv	14
-南大街	nj;ua da;hd jx;xg	14
+南大街	nj;ua da;ad jx;xg	14
 膠南市	jc;ol nj;ua ui;wj	14
 長豐	vh;ad fg;ud	14
 長豐	vh;ad fg;df	14
@@ -3361,11 +3361,11 @@ use_preset_vocabulary: false
 汽車總站	qi;dq ie;aa zs;sx vj;lv	14
 汽車總站	qi;dq ie;hh zs;sc vj;lv	14
 汽車總站	qi;dq ie;hh zs;sx vj;lv	14
-東大	ds;ad da;hd	14
+東大	ds;ad da;ad	14
 大廣高速	da;ad gd;gh gk;dk su;zu	13
 大廣高速	da;ad gd;gh gk;wk su;zu	13
-大廣高速	da;hd gd;gh gk;dk su;zu	13
-大廣高速	da;hd gd;gh gk;wk su;zu	13
+大廣高速	da;ad gd;gh gk;dk su;zu	13
+大廣高速	da;ad gd;gh gk;wk su;zu	13
 三院	sj;aa yr;ew	13
 三院	sj;hh yr;ew	13
 市民廣場	ui;wj mn;ag gd;gh ih;ty	13
@@ -3476,7 +3476,7 @@ use_preset_vocabulary: false
 三公里	sj;aa gs;sb li;aa	13
 海鹽	hl;dm yj;ml	13
 迎賓大道	yy;ze bn;bb da;ad dk;zu	13
-迎賓大道	yy;ze bn;bb da;hd dk;zu	13
+迎賓大道	yy;ze bn;bb da;ad dk;zu	13
 祖廟	zu;uq mc;gi	13
 紅牛	hs;sg nq;pu	13
 紅牛	hs;sg nq;pa	13
@@ -3552,12 +3552,12 @@ use_preset_vocabulary: false
 三明市	sj;aa my;oo ui;wj	12
 榕樹	rs;mr uu;mc	12
 榕樹	rs;mr uu;mu	12
-交警二大隊	jc;wf jy;yj er;aa da;hd dv;eu	12
+交警二大隊	jc;wf jy;yj er;aa da;ad dv;eu	12
 聖城	ug;ew ig;ti	12
 聖城	ug;wk ig;ti	12
 邛崍市	qs;eg ll;ul ui;dj	12
 邛崍市	qs;eg ll;ul ui;wj	12
-航空航天大學	hh;vk ks;bg hh;vk tm;ad da;hd xt;jz	12
+航空航天大學	hh;vk ks;bg hh;vk tm;ad da;ad xt;jz	12
 橫崗	hg;mh gh;ug	12
 寧海	ny;bd hl;dm	12
 靶場	ba;gb ih;ty	12
@@ -3604,7 +3604,7 @@ use_preset_vocabulary: false
 省博物館	ug;mu bo;uf wu;nw gr;ug	12
 蒲江	pu;cp jd;dg	12
 大邑	da;ad yi;kb	12
-大邑	da;hd yi;kb	12
+大邑	da;ad yi;kb	12
 俄勒岡州	ee;rw lz;lg gh;ku vb;id	12
 經管學院	jy;sj gr;vg xt;zb yr;ew	12
 經管學院	jy;sj gr;vg xt;jz yr;ew	12
@@ -3621,10 +3621,10 @@ use_preset_vocabulary: false
 信用聯社	xn;ry ys;kf lm;ea ue;ut	12
 信用聯社	xn;ry ys;kf lm;ea ue;tu	12
 白銀市	bl;pa yn;jg ui;wj	12
-山西大學	uj;aa xi;aa da;hd xt;jz	12
+山西大學	uj;aa xi;aa da;ad xt;jz	12
 玉林市	yu;wd ln;mm ui;wj	12
 大良	da;ad ld;dg	12
-大良	da;hd ld;dg	12
+大良	da;ad ld;dg	12
 喀什市	ka;kk ui;ru ui;dj	12
 喀什市	ka;kk ui;ru ui;wj	12
 迎賓館	yy;ze bn;bb gr;ug	12
@@ -3649,11 +3649,11 @@ use_preset_vocabulary: false
 臨河	ln;ik he;dk	12
 臨河	ln;ip he;dk	12
 國際大酒店	go;kh ji;ej da;ad jq;dy dm;gv	12
-國際大酒店	go;kh ji;ej da;hd jq;dy dm;gv	12
+國際大酒店	go;kh ji;ej da;ad jq;dy dm;gv	12
 德宏州	de;xx hs;bh vb;id	12
 棧橋	vj;mj qc;mq	12
 新造	xn;jq zk;zg	12
-湖北大學	hu;dh bz;ap da;hd xt;jz	12
+湖北大學	hu;dh bz;ap da;ad xt;jz	12
 五所	wu;aa so;hj	12
 五所	wu;aa so;jh	12
 五所	wu;hh so;hj	12
@@ -3665,7 +3665,7 @@ use_preset_vocabulary: false
 市南	ui;wj nj;ua	12
 傣族	dl;rt zu;fu	12
 省立醫院	ug;ou li;da yi;yu yr;ew	12
-對外經貿大學	dv;ct wl;xb jy;sg mk;bd da;hd xt;jz	12
+對外經貿大學	dv;ct wl;xb jy;sg mk;bd da;ad xt;jz	12
 什剎海	uf;ru ua;du hl;dm	12
 四連	si;aa lm;zi	12
 四連	si;ke lm;zi	12
@@ -3718,8 +3718,8 @@ use_preset_vocabulary: false
 馬王堆	ma;ad wh;aa dv;tv	11
 大德	da;ad de;xx	11
 大德	da;ad de;rx	11
-大德	da;hd de;xx	11
-大德	da;hd de;rx	11
+大德	da;ad de;xx	11
+大德	da;ad de;rx	11
 孝感市	xc;zl gj;xx ui;dj	11
 孝感市	xc;zl gj;xx ui;wj	11
 孝感市	xc;lz gj;xx ui;dj	11
@@ -3743,7 +3743,7 @@ use_preset_vocabulary: false
 建國門	jm;zy go;kh mf;aa	11
 建國門	jm;zy go;kh mf;zh	11
 大排	da;ad pl;ff	11
-大排	da;hd pl;ff	11
+大排	da;ad pl;ff	11
 王樂泉	wh;aa le;bm qr;ub	11
 廣西自治區	gd;gh xi;aa zi;pa vi;dt qu;kp	11
 芙蓉路	fu;cf rs;cr lu;zg	11
@@ -3795,7 +3795,7 @@ use_preset_vocabulary: false
 撫順市	fu;fw up;yi ui;wj	11
 魚池	yu;dh ii;dy	11
 魚池	yu;dd ii;dy	11
-北京林業大學	bz;ap jy;wx ln;mm ye;yl da;hd xt;jz	11
+北京林業大學	bz;ap jy;wx ln;mm ye;yl da;ad xt;jz	11
 榆中	yu;my vs;aa	11
 榆中	yu;my vs;uu	11
 榆中	yu;my vs;ku	11
@@ -3806,7 +3806,7 @@ use_preset_vocabulary: false
 樂業	le;bm ye;yw	11
 樂業	le;bm ye;yl	11
 滄州市	ch;dc vb;id ui;wj	11
-世紀大道	ui;ca ji;sj da;hd dk;zu	11
+世紀大道	ui;ca ji;sj da;ad dk;zu	11
 安民	an;bn mn;kq	11
 安民	an;bn mn;ag	11
 安民	an;bn mn;vg	11
@@ -3824,7 +3824,7 @@ use_preset_vocabulary: false
 南嶺	nj;uy ly;ul	11
 濟源市	ji;dq yr;dy ui;dj	11
 濟源市	ji;dq yr;dy ui;wj	11
-百貨大樓	bl;ab ho;bh da;hd lb;ml	11
+百貨大樓	bl;ab ho;bh da;ad lb;ml	11
 平涼市	py;aa ld;dj ui;wj	11
 五一路	wu;aa yi;aa lu;zg	11
 五一路	wu;aa yi;hh lu;zg	11
@@ -3849,7 +3849,7 @@ use_preset_vocabulary: false
 中沙	vs;ka ua;du	11
 麗江市	li;ll jd;dg ui;dj	11
 麗江市	li;ll jd;dg ui;wj	11
-華僑大學	hw;ca qc;rq da;hd xt;jz	11
+華僑大學	hw;ca qc;rq da;ad xt;jz	11
 新中	xn;jq vs;aa	11
 新中	xn;jq vs;uu	11
 新中	xn;jq vs;ku	11
@@ -3894,7 +3894,7 @@ use_preset_vocabulary: false
 製藥廠	vi;yv yk;cl ih;gi	11
 燎原	lc;hl yr;ix	11
 燎原	lc;hx yr;ix	11
-武漢科技大學	wu;yv hj;dh ke;hd ji;fv da;hd xt;jz	11
+武漢科技大學	wu;yv hj;dh ke;hd ji;fv da;ad xt;jz	11
 容桂	rs;bg gv;mg	11
 瀘溪	lu;dl xi;dx	11
 齊齊哈爾市	qi;we qi;we ha;kh er;ay ui;wj	11
@@ -3959,7 +3959,7 @@ use_preset_vocabulary: false
 北侖	bz;hp lp;rc	11
 北侖	bz;bj lp;rc	11
 北侖	bz;ap lp;rc	11
-北京工業大學	bz;ap jy;wx gs;aa ye;yl da;hd xt;jz	11
+北京工業大學	bz;ap jy;wx gs;aa ye;yl da;ad xt;jz	11
 崇文	is;uz wf;dd	11
 未央	wz;ex yh;ad	11
 武侯祠	wu;yv hb;ru ci;us	10
@@ -3977,7 +3977,7 @@ use_preset_vocabulary: false
 峨眉	ee;uw mz;uo	10
 峨眉	ee;uw mz;mo	10
 峨眉	ee;uw mz;um	10
-深南大道	uf;dm nj;ua da;hd dk;zu	10
+深南大道	uf;dm nj;ua da;ad dk;zu	10
 東吳	ds;ad wu;kd	10
 東吳	ds;hd wu;kd	10
 東吳	ds;mr wu;kd	10
@@ -3998,8 +3998,8 @@ use_preset_vocabulary: false
 雙塔	ud;vy ta;td	10
 雙塔	ud;vy ta;th	10
 新罕布什爾州	xn;jq hj;bg bu;ju uf;ru er;ay vb;id	10
-中國石油大學	vs;aa go;kh ui;kp yb;dy da;hd xt;jz	10
-大理州	da;hd li;wl vb;id	10
+中國石油大學	vs;aa go;kh ui;kp yb;dy da;ad xt;jz	10
+大理州	da;ad li;wl vb;id	10
 服裝市場	fu;oy vd;yv ui;dj ih;ty	10
 服裝市場	fu;oy vd;yv ui;wj ih;ty	10
 服裝市場	fu;yy vd;yv ui;dj ih;ty	10
@@ -4026,9 +4026,9 @@ use_preset_vocabulary: false
 江上	jd;dg uh;uh	10
 江上	jd;dg uh;bh	10
 亞歐大陸橋	ya;aa ou;qq da;ad lu;et qc;mq	10
-亞歐大陸橋	ya;aa ou;qq da;hd lu;et qc;mq	10
+亞歐大陸橋	ya;aa ou;qq da;ad lu;et qc;mq	10
 亞歐大陸橋	ya;hh ou;qq da;ad lu;et qc;mq	10
-亞歐大陸橋	ya;hh ou;qq da;hd lu;et qc;mq	10
+亞歐大陸橋	ya;hh ou;qq da;ad lu;et qc;mq	10
 公交分局	gs;sb jc;wf ff;db ju;uk	10
 浮橋	fu;df qc;mq	10
 水產市場	uv;ad ij;wu ui;wj ih;ty	10
@@ -4123,7 +4123,7 @@ use_preset_vocabulary: false
 開福	kl;mk fu;uf	10
 石嘴山市	ui;kp zv;kj uj;aa ui;wj	10
 新大陸	xn;jq da;ad lu;et	10
-新大陸	xn;jq da;hd lu;et	10
+新大陸	xn;jq da;ad lu;et	10
 莊子	vd;cv zi;aa	10
 莊子	vd;cv zi;vh	10
 朝陽公園	vk;ou yh;ey gs;sb yr;ky	10
@@ -4139,17 +4139,17 @@ use_preset_vocabulary: false
 兒童公園	er;ej ts;ll gs;sb yr;ky	10
 三招	sj;aa vk;fv	10
 三招	sj;hh vk;fv	10
-大慶市	da;hd qy;gw ui;wj	10
+大慶市	da;ad qy;gw ui;wj	10
 銅仁市	ts;jt rf;re ui;dj	10
 銅仁市	ts;jt rf;re ui;wj	10
 友誼路	yb;yu yi;yy lu;zg	10
 友誼路	yb;uy yi;yy lu;zg	10
 橫路	hg;mh lu;zg	10
-南京農業大學	nj;ua jy;wx ns;qi ye;yl da;hd xt;jz	10
+南京農業大學	nj;ua jy;wx ns;qi ye;yl da;ad xt;jz	10
 大嶺山	da;ad ly;ul uj;uu	10
 大嶺山	da;ad ly;ul uj;aa	10
-大嶺山	da;hd ly;ul uj;uu	10
-大嶺山	da;hd ly;ul uj;aa	10
+大嶺山	da;ad ly;ul uj;uu	10
+大嶺山	da;ad ly;ul uj;aa	10
 紡織廠	fh;sf vi;sv ih;gw	10
 紡織廠	fh;sf vi;sv ih;gi	10
 紡織廠	fh;sf vi;sg ih;gw	10
@@ -4173,14 +4173,14 @@ use_preset_vocabulary: false
 東崗	ds;hd gh;ug	10
 東崗	ds;mr gh;ug	10
 東崗	ds;mo gh;ug	10
-華東師大	hw;ca ds;ad ui;bv da;hd	10
+華東師大	hw;ca ds;ad ui;bv da;ad	10
 江橋	jd;dg qc;mq	10
 臺兒莊	tl;uv er;je vd;cv	10
 臺兒莊	tl;uv er;ej vd;cv	10
 電大	dm;yg da;ad	10
-電大	dm;yg da;hd	10
+電大	dm;yg da;ad	10
 電大	dm;yd da;ad	10
-電大	dm;yd da;hd	10
+電大	dm;yd da;ad	10
 阿拉山口	aa;ek la;fl uj;uu kb;aa	10
 阿拉山口	aa;ek la;fl uj;uu kb;uh	10
 阿拉山口	aa;ek la;fl uj;aa kb;aa	10
@@ -4208,8 +4208,8 @@ use_preset_vocabulary: false
 歷城	li;vh ig;ti	10
 大雁塔	da;ad yj;iv ta;td	10
 大雁塔	da;ad yj;iv ta;th	10
-大雁塔	da;hd yj;iv ta;td	10
-大雁塔	da;hd yj;iv ta;th	10
+大雁塔	da;ad yj;iv ta;td	10
+大雁塔	da;ad yj;iv ta;th	10
 新華醫院	xn;jq hw;ch yi;yu yr;ew	10
 新華醫院	xn;jq hw;ch yi;yy yr;ew	10
 新華醫院	xn;jq hw;ca yi;yu yr;ew	10
@@ -4240,11 +4240,11 @@ use_preset_vocabulary: false
 勞動路	lk;hl ds;lv lu;zg	10
 勞動路	lk;lb ds;lv lu;zg	10
 大屋	da;ad wu;uv	10
-大屋	da;hd wu;uv	10
+大屋	da;ad wu;uv	10
 大寨	da;ad vl;mb	10
 大寨	da;ad vl;bm	10
-大寨	da;hd vl;mb	10
-大寨	da;hd vl;bm	10
+大寨	da;ad vl;mb	10
+大寨	da;ad vl;bm	10
 連州市	lm;zi vb;id ui;wj	10
 海水浴場	hl;dm uv;ud yu;dg ih;ty	10
 海水浴場	hl;dm uv;uv yu;dg ih;ty	10
@@ -4338,9 +4338,9 @@ use_preset_vocabulary: false
 屯昌	tp;ag ih;oo	9
 南灣	nj;ua wj;dg	9
 大房	da;ad fh;hf	9
-大房	da;hd fh;hf	9
+大房	da;ad fh;hf	9
 博州	bo;uc vb;id	9
-大樹下	da;hd uu;mc xw;ab	9
+大樹下	da;ad uu;mc xw;ab	9
 楚雄州	iu;mp xs;vh vb;id	9
 新鄭市	xn;jq vg;ed ui;dj	9
 新鄭市	xn;jq vg;ed ui;wj	9
@@ -4350,8 +4350,8 @@ use_preset_vocabulary: false
 金雞	jn;ph ji;vx	9
 新疆大學	xn;jq jd;gj da;ad xt;zb	9
 新疆大學	xn;jq jd;gj da;ad xt;jz	9
-新疆大學	xn;jq jd;gj da;hd xt;zb	9
-新疆大學	xn;jq jd;gj da;hd xt;jz	9
+新疆大學	xn;jq jd;gj da;ad xt;zb	9
+新疆大學	xn;jq jd;gj da;ad xt;jz	9
 江都	jd;dg du;ev	9
 海龍	hl;dm ls;lg	9
 海龍	hl;dm ls;dg	9
@@ -4368,7 +4368,7 @@ use_preset_vocabulary: false
 李莊	li;mz vd;cv	9
 威斯康星州	wz;gn si;jq kh;gl xy;ou vb;id	9
 陳國	if;ed go;kh	9
-大紅門	da;hd hs;sg mf;aa	9
+大紅門	da;ad hs;sg mf;aa	9
 新市	xn;jq ui;dj	9
 新市	xn;jq ui;wj	9
 黃村	hd;cb cp;mc	9
@@ -4403,7 +4403,7 @@ use_preset_vocabulary: false
 東洋	ds;mr yh;dy	9
 東洋	ds;mo yh;dy	9
 中南路	vs;aa nj;ua lu;zg	9
-南京工業大學	nj;ua jy;wx gs;aa ye;yl da;hd xt;jz	9
+南京工業大學	nj;ua jy;wx gs;aa ye;yl da;ad xt;jz	9
 美林	mz;yd ln;mm	9
 美林	mz;dy ln;mm	9
 黔西南州	qm;hj xi;aa nj;ua vb;id	9
@@ -4417,13 +4417,13 @@ use_preset_vocabulary: false
 省消防總隊	ug;ou xc;dx fh;ef zs;sx dv;eu	9
 省消防總隊	ug;mu xc;dx fh;ef zs;sc dv;eu	9
 省消防總隊	ug;mu xc;dx fh;ef zs;sx dv;eu	9
-六大隊	lq;wb da;hd dv;eu	9
+六大隊	lq;wb da;ad dv;eu	9
 菜園壩	cl;cc yr;ky ba;tb	9
 龍頭寺	ls;dg tb;dy si;ct	9
 大明	da;ad my;ry	9
 大明	da;ad my;oo	9
-大明	da;hd my;ry	9
-大明	da;hd my;oo	9
+大明	da;ad my;ry	9
+大明	da;ad my;oo	9
 中國農業科學院	vs;aa go;kh ns;qi ye;yl ke;hd xt;jz yr;ew	9
 多米尼加	do;xx mi;dd ni;ub jw;lk	9
 多米尼加	do;xx mi;dd ni;ub jw;kl	9
@@ -4464,8 +4464,8 @@ use_preset_vocabulary: false
 宜興市	yi;bq xy;ba ui;wj	9
 大冶市	da;ad ye;dt ui;dj	9
 大冶市	da;ad ye;dt ui;wj	9
-大冶市	da;hd ye;dt ui;dj	9
-大冶市	da;hd ye;dt ui;wj	9
+大冶市	da;ad ye;dt ui;dj	9
+大冶市	da;ad ye;dt ui;wj	9
 上饒市	uh;aa rk;uy ui;wj	9
 雷達站	lz;yt da;zy vj;lv	9
 世紀公園	ui;ca ji;sj gs;sb yr;ky	9
@@ -4479,7 +4479,7 @@ use_preset_vocabulary: false
 邵東	uk;ev ds;mo	9
 汽配城	qi;dq pz;yj ig;ti	9
 肥東	fz;ob ds;ad	9
-華師大	hw;ca ui;bv da;hd	9
+華師大	hw;ca ui;bv da;ad	9
 高州市	gk;wk vb;id ui;wj	9
 青城	qy;yf ig;ti	9
 青城	qy;fo ig;ti	9
@@ -4527,8 +4527,8 @@ use_preset_vocabulary: false
 香河	xd;ho he;dk	9
 大好河山	da;ad hk;nz he;dk uj;uu	9
 大好河山	da;ad hk;nz he;dk uj;aa	9
-大好河山	da;hd hk;nz he;dk uj;uu	9
-大好河山	da;hd hk;nz he;dk uj;aa	9
+大好河山	da;ad hk;nz he;dk uj;uu	9
+大好河山	da;ad hk;nz he;dk uj;aa	9
 紅梅	hs;sg mz;mm	9
 集美	ji;mv mz;yd	9
 集美	ji;mv mz;dy	9
@@ -4577,7 +4577,7 @@ use_preset_vocabulary: false
 石室	ui;ak ui;bv	8
 寧夏自治區	ny;bd xw;wz zi;pa vi;dt qu;kp	8
 街道口	jx;xg dk;zu kb;aa	8
-華東理工大學	hw;ca ds;ad li;wl gs;aa da;hd xt;jz	8
+華東理工大學	hw;ca ds;ad li;wl gs;aa da;ad xt;jz	8
 和諧家園	he;hk xx;yj jw;bu yr;ky	8
 外環路	wl;xb hr;wh lu;zg	8
 外環路	wl;xb hr;wy lu;zg	8
@@ -4613,7 +4613,7 @@ use_preset_vocabulary: false
 傢俱市場	jw;rj ju;rj ui;wj ih;ty	8
 文山州	wf;dd uj;aa vb;id	8
 和合	he;hk he;rk	8
-西南交大	xi;aa nj;ua jc;wf da;hd	8
+西南交大	xi;aa nj;ua jc;wf da;ad	8
 獅山	ui;qu uj;uu	8
 獅山	ui;qu uj;aa	8
 華髮	hw;ch fa;bb	8
@@ -4635,7 +4635,7 @@ use_preset_vocabulary: false
 舊貨市場	jq;cj ho;bh ui;wj ih;ty	8
 石井	ui;kp jy;aa	8
 沿江大道	yj;dk jd;dg da;ad dk;zu	8
-沿江大道	yj;dk jd;dg da;hd dk;zu	8
+沿江大道	yj;dk jd;dg da;ad dk;zu	8
 小西湖	xc;ud xi;aa hu;dh	8
 小西湖	xc;ud xi;hh hu;dh	8
 小西湖	xc;ad xi;aa hu;dh	8
@@ -4647,7 +4647,7 @@ use_preset_vocabulary: false
 市婦幼保健院	ui;wj fu;nj yb;ly bk;rd jm;rj yr;ew	8
 楓林	fg;mf ln;mm	8
 大塘	da;ad th;tt	8
-大塘	da;hd th;tt	8
+大塘	da;ad th;tt	8
 江陰市	jd;dg yn;ey ui;dj	8
 江陰市	jd;dg yn;ey ui;wj	8
 省新聞出版局	ug;ou xn;jq wf;em iu;uu bj;pf ju;uk	8
@@ -4786,7 +4786,7 @@ use_preset_vocabulary: false
 德勝	de;xx ug;ol	8
 德勝	de;rx ug;yl	8
 德勝	de;rx ug;ol	8
-北京語言大學	bz;ap jy;wx yu;yw yj;wk da;hd xt;jz	8
+北京語言大學	bz;ap jy;wx yu;yw yj;wk da;ad xt;jz	8
 遼陽市	lc;zl yh;ey ui;dj	8
 遼陽市	lc;zl yh;ey ui;wj	8
 遼陽市	lc;zx yh;ey ui;dj	8
@@ -4824,11 +4824,11 @@ use_preset_vocabulary: false
 方莊	fh;dp vd;cv	8
 方莊	fh;dg vd;cv	8
 綏寧	sv;st ny;bd	8
-南京林業大學	nj;ua jy;wx ln;mm ye;yl da;hd xt;jz	8
+南京林業大學	nj;ua jy;wx ln;mm ye;yl da;ad xt;jz	8
 北京動物園	bz;ap jy;wx ds;lv wu;nw yr;ky	8
 嘉陵	jw;uj ly;ew	8
 嘉陵	jw;uj ly;el	8
-香格里拉大酒店	xd;ho ge;mg li;aa la;fl da;hd jq;dy dm;gv	8
+香格里拉大酒店	xd;ho ge;mg li;aa la;fl da;ad jq;dy dm;gv	8
 花橋	hw;ch qc;mq	8
 密西西比州	mi;bu xi;aa xi;aa bi;bb vb;id	8
 洋山	yh;dy uj;uu	8
@@ -4837,8 +4837,8 @@ use_preset_vocabulary: false
 錦州市	jn;jb vb;id ui;wj	8
 大華	da;ad hw;ch	8
 大華	da;ad hw;ca	8
-大華	da;hd hw;ch	8
-大華	da;hd hw;ca	8
+大華	da;ad hw;ch	8
+大華	da;ad hw;ca	8
 如皋市	ru;nk gk;bu ui;dj	8
 如皋市	ru;nk gk;bu ui;wj	8
 後張	hb;rw vh;gi	8
@@ -4885,8 +4885,8 @@ use_preset_vocabulary: false
 假日酒店	jw;rj ri;aa jq;dy dm;gv	8
 河海大學	he;dk hl;dm da;ad xt;zb	8
 河海大學	he;dk hl;dm da;ad xt;jz	8
-河海大學	he;dk hl;dm da;hd xt;zb	8
-河海大學	he;dk hl;dm da;hd xt;jz	8
+河海大學	he;dk hl;dm da;ad xt;zb	8
+河海大學	he;dk hl;dm da;ad xt;jz	8
 五等	wu;aa dg;vs	8
 五等	wu;hh dg;vs	8
 東壩	ds;ad ba;tb	8
@@ -4956,8 +4956,8 @@ use_preset_vocabulary: false
 上地	uh;bh di;ty	7
 韶山路	uk;yv uj;uu lu;zg	7
 韶山路	uk;yv uj;aa lu;zg	7
-北京體育大學	bz;ap jy;wx ti;gd yu;os da;hd xt;jz	7
-五一大道	wu;aa yi;aa da;hd dk;zu	7
+北京體育大學	bz;ap jy;wx ti;gd yu;os da;ad xt;jz	7
+五一大道	wu;aa yi;aa da;ad dk;zu	7
 東河	ds;ad he;dk	7
 東河	ds;hd he;dk	7
 東河	ds;mr he;dk	7
@@ -4980,7 +4980,7 @@ use_preset_vocabulary: false
 樓蘭	lb;ml lj;cj	7
 樓蘭	lb;ml lj;cl	7
 沿江路	yj;dk jd;dg lu;zg	7
-礦業大學	kd;ug ye;yl da;hd xt;jz	7
+礦業大學	kd;ug ye;yl da;ad xt;jz	7
 連山	lm;zi uj;uu	7
 連山	lm;zi uj;aa	7
 沙溪	ua;du xi;dx	7
@@ -5102,23 +5102,23 @@ use_preset_vocabulary: false
 酉陽縣	yb;aa yh;ey xm;xx	7
 酉陽縣	yb;hh yh;ey xm;xx	7
 濱江大道	bn;db jd;dg da;ad dk;zu	7
-濱江大道	bn;db jd;dg da;hd dk;zu	7
+濱江大道	bn;db jd;dg da;ad dk;zu	7
 中醫學院	vs;aa yi;yu xt;jz yr;ew	7
-工業大	gs;aa ye;yl da;hd	7
+工業大	gs;aa ye;yl da;ad	7
 蘭新	lj;cj xn;jq	7
 蘭新	lj;cl xn;jq	7
 萊蕪市	ll;cl wu;cw ui;dj	7
 萊蕪市	ll;cl wu;cw ui;wj	7
 山東路	uj;aa ds;ad lu;zg	7
-交警三大隊	jc;wf jy;yj sj;aa da;hd dv;eu	7
+交警三大隊	jc;wf jy;yj sj;aa da;ad dv;eu	7
 凱里市	kl;jd li;aa ui;wj	7
 大柵欄	da;ad va;mc lj;ml	7
 大柵欄	da;ad va;mc lj;mj	7
-大柵欄	da;hd va;mc lj;ml	7
-大柵欄	da;hd va;mc lj;mj	7
+大柵欄	da;ad va;mc lj;ml	7
+大柵欄	da;ad va;mc lj;mj	7
 陽新	yh;ey xn;jq	7
 北京西路	bz;ap jy;wx xi;aa lu;zg	7
-工業大道	gs;aa ye;yl da;hd dk;zu	7
+工業大道	gs;aa ye;yl da;ad dk;zu	7
 漢中門	hj;dh vs;aa mf;aa	7
 嘉峪關市	jw;uj yu;ug gr;ma ui;dj	7
 嘉峪關市	jw;uj yu;ug gr;ma ui;wj	7
@@ -5154,7 +5154,7 @@ use_preset_vocabulary: false
 望江	wh;wy jd;dg	7
 會寧	hv;rr ny;bd	7
 會寧	hv;ro ny;bd	7
-人民大街	rf;pd mn;ag da;hd jx;xg	7
+人民大街	rf;pd mn;ag da;ad jx;xg	7
 潮陽	ik;di yh;ey	7
 景洪市	jy;oj hs;dg ui;dj	7
 景洪市	jy;oj hs;dg ui;wj	7
@@ -5261,7 +5261,7 @@ use_preset_vocabulary: false
 開平市	kl;mk py;aa ui;wj	7
 交通中心	jc;wf ts;zy vs;aa xn;dd	7
 烈士公園	lx;hl ui;aa gs;sb yr;ky	7
-平安大街	py;aa an;bn da;hd jx;xg	7
+平安大街	py;aa an;bn da;ad jx;xg	7
 鄧州市	dg;ed vb;id ui;wj	7
 滎陽市	xy;hu yh;ey ui;dj	7
 滎陽市	xy;hu yh;ey ui;wj	7
@@ -5319,7 +5319,7 @@ use_preset_vocabulary: false
 宣武醫院	xr;bg wu;yv yi;yy yr;ew	7
 宣武醫院	xr;bg wu;vy yi;yu yr;ew	7
 宣武醫院	xr;bg wu;vy yi;yy yr;ew	7
-大潤發超市	da;hd rp;dr fa;du ik;zv ui;wj	7
+大潤發超市	da;ad rp;dr fa;du ik;zv ui;wj	7
 塔里木盆地	ta;td li;aa mu;ad pf;mf di;ty	7
 沙坑	ua;du kg;tk	7
 裏水	li;dy uv;ad	7
@@ -5350,7 +5350,7 @@ use_preset_vocabulary: false
 清水塘	qy;dq uv;uv th;tt	7
 清水塘	qy;dq uv;ad th;tt	7
 大悟	da;ad wu;xw	7
-大悟	da;hd wu;xw	7
+大悟	da;ad wu;xw	7
 永清	ys;dd qy;dq	7
 管局	gr;vg ju;uk	7
 城建集團	ig;ti jm;zy ji;mv tr;kv	7
@@ -5362,7 +5362,7 @@ use_preset_vocabulary: false
 泗洪	si;ds hs;dg	7
 寶龍	bk;bb ls;lg	7
 寶龍	bk;bb ls;dg	7
-成都大學	ig;gg du;ev da;hd xt;jz	7
+成都大學	ig;gg du;ev da;ad xt;jz	7
 天津站	tm;ad jn;dy vj;lv	7
 天津站	tm;hd jn;dy vj;lv	7
 通城	ts;zy ig;ti	7
@@ -5498,8 +5498,8 @@ use_preset_vocabulary: false
 中河	vs;ka he;dk	6
 大理市	da;ad li;wl ui;dj	6
 大理市	da;ad li;wl ui;wj	6
-大理市	da;hd li;wl ui;dj	6
-大理市	da;hd li;wl ui;wj	6
+大理市	da;ad li;wl ui;dj	6
+大理市	da;ad li;wl ui;wj	6
 百色市	bl;ab se;db ui;wj	6
 古塔	gu;uk ta;td	6
 古塔	gu;uk ta;th	6
@@ -5608,7 +5608,7 @@ use_preset_vocabulary: false
 廣安門	gd;gh an;bn mf;vh	6
 廣安門	gd;gh an;bn mf;aa	6
 廣安門	gd;gh an;bn mf;zh	6
-長安大學	ih;ad an;bn da;hd xt;jz	6
+長安大學	ih;ad an;bn da;ad xt;jz	6
 朝天宮	ik;ou tm;ad gs;bl	6
 三公司	sj;aa gs;sb si;gk	6
 新昌	xn;jq ih;rr	6
@@ -5686,7 +5686,7 @@ use_preset_vocabulary: false
 滿洲里市	mj;dr vb;dv li;aa ui;wj	6
 彈子石	dj;gd zi;aa ui;kp	6
 大花園	da;ad hw;ch yr;ky	6
-大花園	da;hd hw;ch yr;ky	6
+大花園	da;ad hw;ch yr;ky	6
 經七路	jy;sj qi;hg lu;zg	6
 經七路	jy;sj qi;ag lu;zg	6
 經七路	jy;sg qi;hg lu;zg	6
@@ -5802,7 +5802,7 @@ use_preset_vocabulary: false
 簡陽市	jm;vj yh;ey ui;dj	6
 簡陽市	jm;vj yh;ey ui;wj	6
 嘉園	jw;uj yr;ky	6
-林業大學	ln;mm ye;yl da;hd xt;jz	6
+林業大學	ln;mm ye;yl da;ad xt;jz	6
 桐柏路	ts;mt bl;mb lu;zg	6
 竹園	vu;gg yr;ky	6
 客運中心站	ke;bg yp;zj vs;aa xn;dd vj;lv	6
@@ -5815,8 +5815,8 @@ use_preset_vocabulary: false
 彭山	pg;pd uj;aa	6
 大雄寶殿	da;ad xs;vs bk;bb dm;ug	6
 大雄寶殿	da;ad xs;vh bk;bb dm;ug	6
-大雄寶殿	da;hd xs;vs bk;bb dm;ug	6
-大雄寶殿	da;hd xs;vh bk;bb dm;ug	6
+大雄寶殿	da;ad xs;vs bk;bb dm;ug	6
+大雄寶殿	da;ad xs;vh bk;bb dm;ug	6
 南城區	nj;uu ig;ti qu;kp	6
 南城區	nj;ua ig;ti qu;kp	6
 南城區	nj;uy ig;ti qu;kp	6
@@ -5870,7 +5870,7 @@ use_preset_vocabulary: false
 望城縣	wh;wo ig;ti xm;xx	6
 望城縣	wh;wy ig;ti xm;xx	6
 宋家莊	ss;bm jw;bu vd;cv	6
-發展大道	fa;du vj;uy da;hd dk;zu	6
+發展大道	fa;du vj;uy da;ad dk;zu	6
 和平村	he;hk py;hu cp;mc	6
 和平村	he;hk py;aa cp;mc	6
 和平村	he;hk py;gb cp;mc	6
@@ -5903,10 +5903,10 @@ use_preset_vocabulary: false
 網絡中心	wh;sw lo;sg vs;ka xn;dd	6
 遂昌	sv;zu ih;rr	6
 遂昌	sv;zu ih;oo	6
-江南大學	jd;dg nj;ua da;hd xt;jz	6
-南京財經大學	nj;ua jy;wx cl;bc jy;sg da;hd xt;jz	6
+江南大學	jd;dg nj;ua da;ad xt;jz	6
+南京財經大學	nj;ua jy;wx cl;bc jy;sg da;ad xt;jz	6
 燕子磯	yj;hb zi;aa ji;uj	6
-北環大道	bz;ap hr;wh da;hd dk;zu	6
+北環大道	bz;ap hr;wh da;ad dk;zu	6
 亞拉巴馬州	ya;aa la;fl ba;ag ma;ad vb;id	6
 倉山	ch;rk uj;uu	6
 倉山	ch;rk uj;aa	6
@@ -5918,7 +5918,7 @@ use_preset_vocabulary: false
 永春	ys;dd ip;of	6
 永春	ys;dd ip;rf	6
 商州	uh;wk vb;id	6
-浙江工業大學	ve;dv jd;dg gs;aa ye;yl da;hd xt;jz	6
+浙江工業大學	ve;dv jd;dg gs;aa ye;yl da;ad xt;jz	6
 南小島	nj;ua xc;ad dk;nu	6
 雙新	ud;yv xn;jq	6
 雙新	ud;vy xn;jq	6
@@ -5970,7 +5970,7 @@ use_preset_vocabulary: false
 平邑	py;hu yi;kb	6
 平邑	py;aa yi;kb	6
 平邑	py;gb yi;kb	6
-商業大廈	uh;wk ye;yl da;hd ua;gx	6
+商業大廈	uh;wk ye;yl da;ad ua;gx	6
 廉江市	lm;gj jd;dg ui;dj	5
 廉江市	lm;gj jd;dg ui;wj	5
 公園路	gs;bs yr;ky lu;zg	5
@@ -5984,12 +5984,12 @@ use_preset_vocabulary: false
 太倉市	tl;dd ch;rk ui;dj	5
 太倉市	tl;dd ch;rk ui;wj	5
 大廟	da;ad mc;gi	5
-大廟	da;hd mc;gi	5
+大廟	da;ad mc;gi	5
 西環路	xi;aa hr;wh lu;zg	5
 西環路	xi;aa hr;wy lu;zg	5
 西環路	xi;hh hr;wh lu;zg	5
 西環路	xi;hh hr;wy lu;zg	5
-樂山大佛	le;bm uj;aa da;hd fu;rf	5
+樂山大佛	le;bm uj;aa da;ad fu;rf	5
 解放南路	jx;jn fh;wf nj;ua lu;zg	5
 文峯	wf;dd fg;uf	5
 旅遊委員會	lv;fp yb;zy wz;hn yr;kb hv;rr	5
@@ -6001,7 +6001,7 @@ use_preset_vocabulary: false
 月湖	yt;oy hu;dh	5
 月湖	yt;ph hu;dh	5
 寶安機場	bk;bb an;bn ji;mj ih;ty	5
-縣交警大隊	xm;xx jc;wf jy;yj da;hd dv;eu	5
+縣交警大隊	xm;xx jc;wf jy;yj da;ad dv;eu	5
 山西省長治市	uj;aa xi;aa ug;ou vh;ad vi;dt ui;wj	5
 西寶	xi;aa bk;bb	5
 西寶	xi;hh bk;bb	5
@@ -6029,8 +6029,8 @@ use_preset_vocabulary: false
 天保	tm;hd bk;rd	5
 大佛寺	da;ad fo;rf si;tc	5
 大佛寺	da;ad fo;rf si;ct	5
-大佛寺	da;hd fo;rf si;tc	5
-大佛寺	da;hd fo;rf si;ct	5
+大佛寺	da;ad fo;rf si;tc	5
+大佛寺	da;ad fo;rf si;ct	5
 武安市	wu;yv an;bn ui;dj	5
 武安市	wu;yv an;bn ui;wj	5
 武安市	wu;vy an;bn ui;dj	5
@@ -6076,7 +6076,7 @@ use_preset_vocabulary: false
 體育路	ti;gd yu;os lu;zg	5
 洗車場	xi;dx ie;aa ih;ty	5
 洗車場	xi;dx ie;hh ih;ty	5
-金茂大廈	jn;ra mk;cw da;hd ua;gx	5
+金茂大廈	jn;ra mk;cw da;ad ua;gx	5
 東二	ds;ad er;aa	5
 仁濟醫院	rf;re ji;dq yi;yu yr;ew	5
 仁濟醫院	rf;re ji;dq yi;yy yr;ew	5
@@ -6133,12 +6133,12 @@ use_preset_vocabulary: false
 山東省德州市	uj;aa ds;ad ug;ou de;xx vb;id ui;wj	5
 杏壇	xy;km tj;td	5
 杏壇	xy;mk tj;td	5
-徽州大道	hv;xw vb;id da;hd dk;zu	5
+徽州大道	hv;xw vb;id da;ad dk;zu	5
 八里莊	ba;pd li;tt vd;cv	5
 八里莊	ba;pd li;aa vd;cv	5
 八里莊	ba;pd li;uh vd;cv	5
 濱河大道	bn;db he;dk da;ad dk;zu	5
-濱河大道	bn;db he;dk da;hd dk;zu	5
+濱河大道	bn;db he;dk da;ad dk;zu	5
 月壇	yt;yt tj;td	5
 月壇	yt;pa tj;td	5
 月壇	yt;oy tj;td	5
@@ -6147,7 +6147,7 @@ use_preset_vocabulary: false
 東關	ds;ad gr;ma	5
 菖蒲	ih;ci pu;cp	5
 玉淵潭	yu;wd yr;da tj;dt	5
-浙江工商大學	ve;dv jd;dg gs;aa uh;wk da;hd xt;jz	5
+浙江工商大學	ve;dv jd;dg gs;aa uh;wk da;ad xt;jz	5
 書院路	uu;yo yr;ew lu;zg	5
 書院路	uu;oy yr;ew lu;zg	5
 書院路	uu;yr yr;ew lu;zg	5
@@ -6193,8 +6193,8 @@ use_preset_vocabulary: false
 偏門	pm;rb mf;zh	5
 大慶路	da;ad qy;gw lu;zg	5
 大慶路	da;ad qy;lw lu;zg	5
-大慶路	da;hd qy;gw lu;zg	5
-大慶路	da;hd qy;lw lu;zg	5
+大慶路	da;ad qy;gw lu;zg	5
+大慶路	da;ad qy;lw lu;zg	5
 潘家園	pj;df jw;bu yr;ky	5
 薩摩亞	sa;ci mo;mu ya;aa	5
 東湖路	ds;ad hu;dh lu;zg	5
@@ -6208,7 +6208,7 @@ use_preset_vocabulary: false
 吉隆	ji;ku ls;eu	5
 吉隆	ji;uk ls;eu	5
 大英	da;ad yy;cy	5
-大英	da;hd yy;cy	5
+大英	da;ad yy;cy	5
 如東	ru;nk ds;ad	5
 如東	ru;nk ds;hd	5
 如東	ru;nk ds;mr	5
@@ -6242,9 +6242,9 @@ use_preset_vocabulary: false
 中創	vs;ka id;dc	5
 科技路	ke;hd ji;fv lu;zg	5
 市政府大樓	ui;dj vg;wv fu;gf da;ad lb;ml	5
-市政府大樓	ui;dj vg;wv fu;gf da;hd lb;ml	5
+市政府大樓	ui;dj vg;wv fu;gf da;ad lb;ml	5
 市政府大樓	ui;wj vg;wv fu;gf da;ad lb;ml	5
-市政府大樓	ui;wj vg;wv fu;gf da;hd lb;ml	5
+市政府大樓	ui;wj vg;wv fu;gf da;ad lb;ml	5
 東涌	ds;ad ys;dy	5
 東涌	ds;hd ys;dy	5
 東涌	ds;mr ys;dy	5
@@ -6260,9 +6260,9 @@ use_preset_vocabulary: false
 西樵山	xi;hh qc;mj uj;uu	5
 西樵山	xi;hh qc;mj uj;aa	5
 理工大	li;wl gs;aa da;ad	5
-理工大	li;wl gs;aa da;hd	5
+理工大	li;wl gs;aa da;ad	5
 理工大	li;wl gs;hh da;ad	5
-理工大	li;wl gs;hh da;hd	5
+理工大	li;wl gs;hh da;ad	5
 杏花村	xy;km hw;ch cp;mc	5
 杏花村	xy;mk hw;ch cp;mc	5
 唐都醫院	th;gk db;ev yi;yu yr;ew	5
@@ -6299,11 +6299,11 @@ use_preset_vocabulary: false
 靖江市	jy;lq jd;dg ui;dj	5
 靖江市	jy;lq jd;dg ui;wj	5
 大唐芙蓉園	da;ad th;gk fu;cf rs;cr yr;ky	5
-大唐芙蓉園	da;hd th;gk fu;cf rs;cr yr;ky	5
+大唐芙蓉園	da;ad th;gk fu;cf rs;cr yr;ky	5
 西門口	xi;aa mf;aa kb;aa	5
 縉雲	jn;sj yp;yy	5
 祁東	qi;eu ds;ad	5
-溫州大學	wf;dm vb;id da;hd xt;jz	5
+溫州大學	wf;dm vb;id da;ad xt;jz	5
 三岔路口	sj;aa ia;uf lu;zg kb;aa	5
 三岔路口	sj;aa ia;uf lu;zg kb;uh	5
 三岔路口	sj;hh ia;uf lu;zg kb;aa	5
@@ -6329,12 +6329,12 @@ use_preset_vocabulary: false
 曙光路	uu;ou gd;xw lu;zg	5
 敘永	xu;wy ys;dd	5
 塔中	ta;td vs;aa	5
-廣西師範大學	gd;gh xi;aa ui;bv fj;ve da;hd xt;jz	5
+廣西師範大學	gd;gh xi;aa ui;bv fj;ve da;ad xt;jz	5
 碭山	dh;uy uj;uu	5
 碭山	dh;uy uj;aa	5
 神山	uf;uu uj;uu	5
 神山	uf;uu uj;aa	5
-建設大街	jm;zy ue;yu da;hd jx;xg	5
+建設大街	jm;zy ue;yu da;ad jx;xg	5
 金鼎	jn;ra dy;oa	5
 武義	wu;yv yi;yw	5
 武義	wu;vy yi;yw	5
@@ -6342,7 +6342,7 @@ use_preset_vocabulary: false
 欒城	lr;ms ig;ti	5
 欒城	lr;sm ig;ti	5
 泗陽	si;ds yh;ey	5
-體育大街	ti;gd yu;os da;hd jx;xg	5
+體育大街	ti;gd yu;os da;ad jx;xg	5
 民和	mn;kq he;hk	5
 民和	mn;ag he;hk	5
 民和	mn;vg he;hk	5
@@ -6373,9 +6373,9 @@ use_preset_vocabulary: false
 饒平	rk;uy py;aa	5
 饒平	rk;uy py;gb	5
 吉大	ji;ku da;ad	5
-吉大	ji;ku da;hd	5
+吉大	ji;ku da;ad	5
 吉大	ji;uk da;ad	5
-吉大	ji;uk da;hd	5
+吉大	ji;uk da;ad	5
 襄樊市	xd;wy fj;dm ui;wj	5
 龍崗區政府	ls;lg gh;ug qu;kp vg;wv fu;gf	5
 龍崗區政府	ls;dg gh;ug qu;kp vg;wv fu;gf	5
@@ -6384,7 +6384,7 @@ use_preset_vocabulary: false
 對達	dv;ct da;zy	5
 對達	dv;cw da;zy	5
 川北	ir;pa bz;ap	5
-南浦大橋	nj;ua pu;df da;hd qc;mq	5
+南浦大橋	nj;ua pu;df da;ad qc;mq	5
 禮泉	li;ud qr;bu	5
 禮泉	li;ud qr;ub	5
 禮泉	li;ul qr;bu	5
@@ -6411,7 +6411,7 @@ use_preset_vocabulary: false
 軍區總醫院	jp;bi qu;kp zs;sx yi;yy yr;ew	5
 達縣	da;zy xm;xx	5
 南市	nj;ua ui;wj	5
-蒙大拿州	mg;cm da;hd na;uh vb;id	5
+蒙大拿州	mg;cm da;ad na;uh vb;id	5
 西塔	xi;aa ta;td	5
 西塔	xi;aa ta;th	5
 西塔	xi;hh ta;td	5
@@ -6439,7 +6439,7 @@ use_preset_vocabulary: false
 蓮花池	lm;cl hw;ch ii;dy	5
 車站路	ie;aa vj;lv lu;zg	5
 車站路	ie;hh vj;lv lu;zg	5
-大東門	da;hd ds;ad mf;aa	5
+大東門	da;ad ds;ad mf;aa	5
 封開	fg;cg kl;mk	5
 葉城	ye;cm ig;ti	5
 興義市	xy;ba yi;yw ui;wj	5
@@ -6565,7 +6565,7 @@ use_preset_vocabulary: false
 南河	nj;uu he;dk	5
 南河	nj;ua he;dk	5
 南河	nj;uy he;dk	5
-創業大街	id;dc ye;yl da;hd jx;xg	5
+創業大街	id;dc ye;yl da;ad jx;xg	5
 黑河市	hz;ha he;dk ui;wj	5
 陶瓷廠	tk;et ci;wc ih;gw	5
 陶瓷廠	tk;et ci;wc ih;gi	5
@@ -6677,7 +6677,7 @@ use_preset_vocabulary: false
 北濱路	bz;bj bn;db lu;zg	4
 北濱路	bz;ap bn;db lu;zg	4
 大溪	da;ad xi;dx	4
-大溪	da;hd xi;dx	4
+大溪	da;ad xi;dx	4
 緯一路	wz;sw yi;aa lu;zg	4
 緯一路	wz;sw yi;hh lu;zg	4
 金都	jn;pa db;ev	4
@@ -6702,7 +6702,7 @@ use_preset_vocabulary: false
 塔高	ta;th gk;dk	4
 塔高	ta;th gk;wk	4
 古藺	gu;uk ln;cv	4
-華中科大	hw;ca vs;aa ke;hd da;hd	4
+華中科大	hw;ca vs;aa ke;hd da;ad	4
 華源	hw;ch yr;dy	4
 華源	hw;ca yr;dy	4
 平川	py;aa ir;pa	4
@@ -6907,9 +6907,9 @@ use_preset_vocabulary: false
 健康路	jm;rj kh;gl lu;zg	4
 農牧局	ns;qi mu;nw ju;uk	4
 嶽麓大道	yt;uq lu;ll da;ad dk;zu	4
-嶽麓大道	yt;uq lu;ll da;hd dk;zu	4
+嶽麓大道	yt;uq lu;ll da;ad dk;zu	4
 嶽麓大道	yt;uy lu;ll da;ad dk;zu	4
-嶽麓大道	yt;uy lu;ll da;hd dk;zu	4
+嶽麓大道	yt;uy lu;ll da;ad dk;zu	4
 墨脫	mo;th to;od	4
 墨脫	mo;th to;yd	4
 墨脫	mo;ht to;od	4
@@ -6981,7 +6981,7 @@ use_preset_vocabulary: false
 市車管所	ui;wj ie;aa gr;vg so;jh	4
 杏花嶺	xy;km hw;ch ly;ul	4
 杏花嶺	xy;mk hw;ch ly;ul	4
-三峽大學	sj;aa xw;uj da;hd xt;jz	4
+三峽大學	sj;aa xw;uj da;ad xt;jz	4
 華科	hw;ch ke;hd	4
 華科	hw;ca ke;hd	4
 桐城市	ts;mt ig;ti ui;dj	4
@@ -7008,7 +7008,7 @@ use_preset_vocabulary: false
 農業展覽館	ns;qi ye;yw vj;uy lj;js gr;ug	4
 農業展覽館	ns;qi ye;yl vj;uy lj;jl gr;ug	4
 農業展覽館	ns;qi ye;yl vj;uy lj;js gr;ug	4
-新疆師範大學	xn;jq jd;gj ui;bv fj;ve da;hd xt;jz	4
+新疆師範大學	xn;jq jd;gj ui;bv fj;ve da;ad xt;jz	4
 工業學校	gs;aa ye;yl xt;jz xc;mj	4
 漢源	hj;dh yr;dy	4
 萬源市	wj;cy yr;dy ui;dj	4
@@ -7041,7 +7041,7 @@ use_preset_vocabulary: false
 集寧	ji;vm ny;bd	4
 解放橋	jx;jn fh;wf qc;mq	4
 解放橋	jx;jn fh;fw qc;mq	4
-西安建築科技大學	xi;aa an;bn jm;zy vu;vm ke;hd ji;fv da;hd xt;jz	4
+西安建築科技大學	xi;aa an;bn jm;zy vu;vm ke;hd ji;fv da;ad xt;jz	4
 馬王	ma;ad wh;aa	4
 九龍湖	jq;py ls;lg hu;dh	4
 九龍湖	jq;py ls;dg hu;dh	4
@@ -7093,8 +7093,8 @@ use_preset_vocabulary: false
 火車西站	ho;dd ie;hh xi;hh vj;lv	4
 華寶	hw;ch bk;bb	4
 華寶	hw;ca bk;bb	4
-西工大	xi;aa gs;aa da;hd	4
-橘子洲大橋	ju;mk zi;aa vb;dv da;hd qc;mq	4
+西工大	xi;aa gs;aa da;ad	4
+橘子洲大橋	ju;mk zi;aa vb;dv da;ad qc;mq	4
 木浦	mu;ad pu;df	4
 木浦	mu;hd pu;df	4
 三醫院	sj;aa yi;yu yr;ew	4
@@ -7128,9 +7128,9 @@ use_preset_vocabulary: false
 壽陽	ub;hd yh;ey	4
 壽陽	ub;uc yh;ey	4
 蘇通大橋	su;ch ts;zy da;ad qc;mq	4
-蘇通大橋	su;ch ts;zy da;hd qc;mq	4
+蘇通大橋	su;ch ts;zy da;ad qc;mq	4
 蘇通大橋	su;cs ts;zy da;ad qc;mq	4
-蘇通大橋	su;cs ts;zy da;hd qc;mq	4
+蘇通大橋	su;cs ts;zy da;ad qc;mq	4
 蘇家屯	su;ch jw;bu tp;hg	4
 蘇家屯	su;ch jw;bu tp;ag	4
 蘇家屯	su;cs jw;bu tp;hg	4
@@ -7142,7 +7142,7 @@ use_preset_vocabulary: false
 枝江市	vi;mv jd;dg ui;dj	4
 枝江市	vi;mv jd;dg ui;wj	4
 永安路	ys;dd an;bn lu;zg	4
-大行宮	da;hd xy;xd gs;bl	4
+大行宮	da;ad xy;xd gs;bl	4
 南漳	nj;uu vh;dv	4
 南漳	nj;ua vh;dv	4
 南漳	nj;uy vh;dv	4
@@ -7182,7 +7182,7 @@ use_preset_vocabulary: false
 松滋市	ss;mg zi;dz ui;dj	4
 松滋市	ss;mg zi;dz ui;wj	4
 桐柏	ts;mt bl;mb	4
-石河子大學	ui;kp he;dk zi;aa da;hd xt;jz	4
+石河子大學	ui;kp he;dk zi;aa da;ad xt;jz	4
 阿爾山	aa;ek er;ay uj;aa	4
 龍勝	ls;lg ug;yl	4
 龍勝	ls;lg ug;ol	4
@@ -7234,7 +7234,7 @@ use_preset_vocabulary: false
 建設南路	jm;zy ue;yu nj;uy lu;zg	4
 錦繡路	jn;jj xq;ss lu;zg	4
 錦繡路	jn;jb xq;ss lu;zg	4
-西華大學	xi;aa hw;ca da;hd xt;jz	4
+西華大學	xi;aa hw;ca da;ad xt;jz	4
 培德	pz;tp de;xx	4
 培德	pz;tp de;rx	4
 培德	pz;tk de;xx	4
@@ -7256,11 +7256,11 @@ use_preset_vocabulary: false
 霍邱	ho;yv qq;eq	4
 大灣	da;ad wj;dw	4
 大灣	da;ad wj;dg	4
-大灣	da;hd wj;dw	4
-大灣	da;hd wj;dg	4
+大灣	da;ad wj;dw	4
+大灣	da;ad wj;dg	4
 溪口	xi;dx kb;aa	4
 溪口	xi;dx kb;uh	4
-大豐市	da;hd fg;ud ui;wj	4
+大豐市	da;ad fg;ud ui;wj	4
 長橋	vh;ad qc;mq	4
 長橋	vh;hd qc;mq	4
 銀盆嶺	yn;jg pf;mf ly;ul	4
@@ -7307,8 +7307,8 @@ use_preset_vocabulary: false
 高支隊	gk;wk vi;uy dv;eu	4
 大路口	da;ad lu;zg kb;aa	4
 大路口	da;ad lu;zg kb;uh	4
-大路口	da;hd lu;zg kb;aa	4
-大路口	da;hd lu;zg kb;uh	4
+大路口	da;ad lu;zg kb;aa	4
+大路口	da;ad lu;zg kb;uh	4
 尋甸	xp;ck dm;gt	4
 石首市	ui;kp ub;qz ui;wj	4
 舊宮	jq;cj gs;bl	4
@@ -7324,10 +7324,10 @@ use_preset_vocabulary: false
 高欄	gk;wk lj;ml	4
 高欄	gk;wk lj;mj	4
 長江東路	ih;ad jd;dg ds;ad lu;zg	4
-猴子石大橋	hb;qh zi;aa ui;kp da;hd qc;mq	4
+猴子石大橋	hb;qh zi;aa ui;kp da;ad qc;mq	4
 秀山縣	xq;hn uj;uu xm;xx	4
 秀山縣	xq;hn uj;aa xm;xx	4
-廣州大道北	gd;gh vb;id da;hd dk;zu bz;ap	4
+廣州大道北	gd;gh vb;id da;ad dk;zu bz;ap	4
 紅廟	hs;sg mc;gi	4
 農副產品市場	ns;qi fu;dt ij;wu pn;kk ui;dj ih;ty	4
 農副產品市場	ns;qi fu;dt ij;wu pn;kk ui;wj ih;ty	4
@@ -7335,8 +7335,8 @@ use_preset_vocabulary: false
 農副產品市場	ns;qi fu;df ij;wu pn;kk ui;wj ih;ty	4
 寧波大學	ny;bd bo;dp da;ad xt;zb	4
 寧波大學	ny;bd bo;dp da;ad xt;jz	4
-寧波大學	ny;bd bo;dp da;hd xt;zb	4
-寧波大學	ny;bd bo;dp da;hd xt;jz	4
+寧波大學	ny;bd bo;dp da;ad xt;zb	4
+寧波大學	ny;bd bo;dp da;ad xt;jz	4
 京九鐵路	jy;wx jq;py tx;jg lu;zg	4
 京九鐵路	jy;dx jq;py tx;jg lu;zg	4
 招遠市	vk;fv yr;zy ui;dj	4
@@ -7369,9 +7369,9 @@ use_preset_vocabulary: false
 農科所	ns;qi ke;hd so;hj	4
 農科所	ns;qi ke;hd so;jh	4
 哈醫大	ha;kh yi;yu da;ad	4
-哈醫大	ha;kh yi;yu da;hd	4
+哈醫大	ha;kh yi;yu da;ad	4
 哈醫大	ha;kh yi;yy da;ad	4
-哈醫大	ha;kh yi;yy da;hd	4
+哈醫大	ha;kh yi;yy da;ad	4
 萬福	wj;cy fu;ut	4
 萬福	wj;cy fu;uf	4
 鳳凰嶺	fg;jn hd;jh ly;ul	4
@@ -7381,8 +7381,8 @@ use_preset_vocabulary: false
 清華附中	qy;dq hw;ca fu;ef vs;aa	4
 大圍山	da;ad wz;kw uj;uu	4
 大圍山	da;ad wz;kw uj;aa	4
-大圍山	da;hd wz;kw uj;uu	4
-大圍山	da;hd wz;kw uj;aa	4
+大圍山	da;ad wz;kw uj;uu	4
+大圍山	da;ad wz;kw uj;aa	4
 開元路	kl;mk yr;hw lu;zg	4
 開元路	kl;mk yr;ee lu;zg	4
 開元路	kl;mk yr;aw lu;zg	4
@@ -7439,7 +7439,7 @@ use_preset_vocabulary: false
 阿拉爾市	aa;ek la;fl er;ay ui;wj	4
 建寧路	jm;zy ny;bd lu;zg	4
 特拉華州	te;ns la;fl hw;ca vb;id	4
-東北財經大學	ds;ad bz;ap cl;bc jy;sg da;hd xt;jz	4
+東北財經大學	ds;ad bz;ap cl;bc jy;sg da;ad xt;jz	4
 團校	tr;kv xc;mj	4
 四平路	si;ke py;aa lu;zg	4
 揭西	jx;fh xi;aa	4
@@ -7448,7 +7448,7 @@ use_preset_vocabulary: false
 三解	sj;aa jx;jn	4
 三解	sj;hh jx;jn	4
 大沙	da;ad ua;du	4
-大沙	da;hd ua;du	4
+大沙	da;ad ua;du	4
 雞鳴	ji;vx my;kn	4
 雞鳴	ji;vx my;nk	4
 撫遠	fu;fw yr;zy	4
@@ -7548,8 +7548,8 @@ use_preset_vocabulary: false
 雙城市	ud;vy ig;ti ui;wj	4
 大營	da;ad yy;hl	4
 大營	da;ad yy;lb	4
-大營	da;hd yy;hl	4
-大營	da;hd yy;lb	4
+大營	da;ad yy;hl	4
+大營	da;ad yy;lb	4
 博湖	bo;uc hu;dh	4
 博湖	bo;uf hu;dh	4
 模範馬路	mo;mm fj;ve ma;ad lu;zg	4
@@ -7572,9 +7572,9 @@ use_preset_vocabulary: false
 長潭	vh;ad tj;dt	4
 長潭	vh;hd tj;dt	4
 大同路	da;ad ts;kk lu;zg	4
-大同路	da;hd ts;kk lu;zg	4
+大同路	da;ad ts;kk lu;zg	4
 遠大路	yr;zy da;ad lu;zg	4
-遠大路	yr;zy da;hd lu;zg	4
+遠大路	yr;zy da;ad lu;zg	4
 臺城	tl;uv ig;ti	4
 太華路	tl;dd hw;ch lu;zg	4
 太華路	tl;dd hw;ca lu;zg	4
@@ -7669,7 +7669,7 @@ use_preset_vocabulary: false
 建設路口	jm;zy ue;yu lu;zg kb;aa	3
 建設路口	jm;zy ue;yu lu;zg kb;uh	3
 九如	jq;py ru;nk	3
-大興法院	da;hd xy;ba fa;dq yr;ew	3
+大興法院	da;ad xy;ba fa;dq yr;ew	3
 沙俄	ua;du ee;rw	3
 張家灣	vh;gi jw;bu wj;dw	3
 張家灣	vh;gi jw;bu wj;dg	3
@@ -7679,7 +7679,7 @@ use_preset_vocabulary: false
 東園	ds;mo yr;ky	3
 昌江縣	ih;rr jd;dg xm;xx	3
 昌江縣	ih;oo jd;dg xm;xx	3
-勝利大街	ug;ol li;dh da;hd jx;xg	3
+勝利大街	ug;ol li;dh da;ad jx;xg	3
 珠海機場	vu;wv hl;dm ji;mj ih;ty	3
 錦湖	jn;jj hu;dh	3
 錦湖	jn;jb hu;dh	3
@@ -7689,7 +7689,7 @@ use_preset_vocabulary: false
 橫溪	hg;mh xi;dx	3
 射洪	ue;uc hs;dg	3
 射洪	ue;cu hs;dg	3
-百慕大	bl;ab mu;cx da;hd	3
+百慕大	bl;ab mu;cx da;ad	3
 校醫院	xc;mj yi;yu yr;ew	3
 校醫院	xc;mj yi;yy yr;ew	3
 公主嶺市	gs;bs vu;dw ly;ul ui;dj	3
@@ -7738,9 +7738,9 @@ use_preset_vocabulary: false
 穿山	ir;xy uj;uu	3
 穿山	ir;xy uj;aa	3
 新聞大廈	xn;jq wf;em da;ad ua;gx	3
-新聞大廈	xn;jq wf;em da;hd ua;gx	3
+新聞大廈	xn;jq wf;em da;ad ua;gx	3
 新聞大廈	xn;jq wf;me da;ad ua;gx	3
-新聞大廈	xn;jq wf;me da;hd ua;gx	3
+新聞大廈	xn;jq wf;me da;ad ua;gx	3
 長安醫院	ih;ad an;bn yi;yu yr;ew	3
 長安醫院	ih;ad an;bn yi;yy yr;ew	3
 長安醫院	ih;hd an;bn yi;yu yr;ew	3
@@ -7795,7 +7795,7 @@ use_preset_vocabulary: false
 禮嘉	li;ud jw;uj	3
 禮嘉	li;ul jw;uj	3
 國家體育館	go;kh jw;bu ti;gd yu;os gr;ug	3
-新疆農業大學	xn;jq jd;gj ns;qi ye;yl da;hd xt;jz	3
+新疆農業大學	xn;jq jd;gj ns;qi ye;yl da;ad xt;jz	3
 牛首山	nq;pu ub;qz uj;uu	3
 牛首山	nq;pu ub;qz uj;aa	3
 牛首山	nq;pa ub;qz uj;uu	3
@@ -7911,9 +7911,9 @@ use_preset_vocabulary: false
 興村	xy;bh cp;mc	3
 洛河	lo;dg he;dk	3
 繁華大道	fj;sm hw;ch da;ad dk;zu	3
-繁華大道	fj;sm hw;ch da;hd dk;zu	3
+繁華大道	fj;sm hw;ch da;ad dk;zu	3
 繁華大道	fj;sm hw;ca da;ad dk;zu	3
-繁華大道	fj;sm hw;ca da;hd dk;zu	3
+繁華大道	fj;sm hw;ca da;ad dk;zu	3
 鄭家	vg;ed jw;bu	3
 鶴崗市	he;nv gh;ug ui;dj	3
 鶴崗市	he;nv gh;ug ui;wj	3
@@ -7953,7 +7953,7 @@ use_preset_vocabulary: false
 杭州路	hh;mk vb;du lu;zg	3
 豐溪	fg;ud xi;dx	3
 豐溪	fg;df xi;dx	3
-大熊貓棲息地	da;hd xs;hn mk;vm qi;mq xi;xz di;ty	3
+大熊貓棲息地	da;ad xs;hn mk;vm qi;mq xi;xz di;ty	3
 臨江門	ln;ik jd;dg mf;aa	3
 市少年宮	ui;wj uk;xp nm;ra gs;bl	3
 四方坪	si;ke fh;wd py;tp	3
@@ -8025,7 +8025,7 @@ use_preset_vocabulary: false
 九里	jq;py li;aa	3
 九里	jq;py li;uh	3
 管莊	gr;vg vd;cv	3
-亞泰大街	ya;aa tl;uf da;hd jx;xg	3
+亞泰大街	ya;aa tl;uf da;ad jx;xg	3
 高城	gk;dk ig;ti	3
 高城	gk;wk ig;ti	3
 鹿邑	lu;gb yi;kb	3
@@ -8092,9 +8092,9 @@ use_preset_vocabulary: false
 蘇仙	su;ch xm;ru	3
 蘇仙	su;cs xm;ru	3
 國貿大廈	go;kh mk;bd da;ad ua;gx	3
-國貿大廈	go;kh mk;bd da;hd ua;gx	3
+國貿大廈	go;kh mk;bd da;ad ua;gx	3
 國貿大廈	go;kh mk;bl da;ad ua;gx	3
-國貿大廈	go;kh mk;bl da;hd ua;gx	3
+國貿大廈	go;kh mk;bl da;ad ua;gx	3
 中山一路	vs;aa uj;aa yi;aa lu;zg	3
 東亭	ds;ad ty;wd	3
 回龍觀醫院	hv;kk ls;lg gr;jv yi;yu yr;ew	3
@@ -8126,9 +8126,9 @@ use_preset_vocabulary: false
 肥城市	fz;yb ig;ti ui;dj	3
 肥城市	fz;yb ig;ti ui;wj	3
 華科大	hw;ch ke;hd da;ad	3
-華科大	hw;ch ke;hd da;hd	3
+華科大	hw;ch ke;hd da;ad	3
 華科大	hw;ca ke;hd da;ad	3
-華科大	hw;ca ke;hd da;hd	3
+華科大	hw;ca ke;hd da;ad	3
 閬中市	lh;ml vs;aa ui;wj	3
 獨龍族	du;qu ls;lg zu;fu	3
 獨龍族	du;qu ls;dg zu;fu	3
@@ -8155,7 +8155,7 @@ use_preset_vocabulary: false
 老火車站	lk;lb ho;dd ie;hh vj;lv	3
 龍口市	ls;dg kb;aa ui;wj	3
 新大	xn;jq da;ad	3
-新大	xn;jq da;hd	3
+新大	xn;jq da;ad	3
 高安市	gk;dk an;bn ui;dj	3
 高安市	gk;dk an;bn ui;wj	3
 高安市	gk;wk an;bn ui;dj	3
@@ -8206,7 +8206,7 @@ use_preset_vocabulary: false
 新江灣城	xn;jq jd;dg wj;dg ig;ti	3
 道孚	dk;zu fu;vz	3
 道孚	dk;zu fu;zv	3
-廣州大道中	gd;gh vb;id da;hd dk;zu vs;aa	3
+廣州大道中	gd;gh vb;id da;ad dk;zu vs;aa	3
 贛榆	gj;vg yu;my	3
 吳山廣場	wu;kd uj;uu gd;gh ih;ty	3
 吳山廣場	wu;kd uj;aa gd;gh ih;ty	3
@@ -8239,16 +8239,16 @@ use_preset_vocabulary: false
 三角城	sj;hh jc;dy ig;ti	3
 湖濱路	hu;dh bn;db lu;zg	3
 寶崗大道	bk;bb gh;ug da;ad dk;zu	3
-寶崗大道	bk;bb gh;ug da;hd dk;zu	3
+寶崗大道	bk;bb gh;ug da;ad dk;zu	3
 河北路	he;dk bz;hp lu;zg	3
 河北路	he;dk bz;bj lu;zg	3
 河北路	he;dk bz;ap lu;zg	3
-體育大學	ti;gd yu;os da;hd xt;jz	3
+體育大學	ti;gd yu;os da;ad xt;jz	3
 新民市	xn;jq mn;ag ui;wj	3
 三里河	sj;aa li;aa he;dk	3
 琉璃河	lq;wi li;wl he;dk	3
 大連路	da;ad lm;zi lu;zg	3
-大連路	da;hd lm;zi lu;zg	3
+大連路	da;ad lm;zi lu;zg	3
 楓林路	fg;mf ln;mm lu;zg	3
 陳建民	if;ed jm;zy mn;kq	3
 陳建民	if;ed jm;zy mn;ag	3
@@ -8258,7 +8258,7 @@ use_preset_vocabulary: false
 樅陽	zs;mv yh;ey	3
 蘆溪	lu;cl xi;dx	3
 大宇	da;ad yu;by	3
-大宇	da;hd yu;by	3
+大宇	da;ad yu;by	3
 牛山	nq;pu uj;uu	3
 牛山	nq;pu uj;aa	3
 牛山	nq;pa uj;uu	3
@@ -8275,8 +8275,8 @@ use_preset_vocabulary: false
 柞水	va;mv uv;ad	3
 大溝	da;ad gb;dr	3
 大溝	da;ad gb;dg	3
-大溝	da;hd gb;dr	3
-大溝	da;hd gb;dg	3
+大溝	da;ad gb;dr	3
+大溝	da;ad gb;dg	3
 北控	bz;hp ks;fk	3
 北控	bz;bj ks;fk	3
 北控	bz;ap ks;fk	3
@@ -8287,7 +8287,7 @@ use_preset_vocabulary: false
 黃橋	hd;cb qc;mq	3
 宣威市	xr;bg wz;gn ui;wj	3
 乳山市	ru;gf uj;aa ui;wj	3
-大報恩寺	da;hd bk;ex en;xy si;ct	3
+大報恩寺	da;ad bk;ex en;xy si;ct	3
 徐徵	xu;xy vg;rw	3
 徐徵	xu;xy vg;xw	3
 徐徵	xu;ry vg;rw	3
@@ -8325,7 +8325,7 @@ use_preset_vocabulary: false
 托克遜	to;ft ke;eg xp;zs	3
 托克遜	to;ft ke;ux xp;zs	3
 焉耆縣	yj;vd qi;ol xm;xx	3
-高橋大市場	gk;wk qc;mq da;hd ui;wj ih;ty	3
+高橋大市場	gk;wk qc;mq da;ad ui;wj ih;ty	3
 三陽路	sj;aa yh;ey lu;zg	3
 三陽路	sj;hh yh;ey lu;zg	3
 華盛	hw;ch ug;mi	3
@@ -8465,8 +8465,8 @@ use_preset_vocabulary: false
 宋家	ss;bm jw;bu	3
 大旺	da;ad wh;rw	3
 大旺	da;ad wh;ow	3
-大旺	da;hd wh;rw	3
-大旺	da;hd wh;ow	3
+大旺	da;ad wh;rw	3
+大旺	da;ad wh;ow	3
 芳村客運站	fh;cf cp;mc ke;bg yp;zj vj;lv	3
 南洲	nj;uu vb;dv	3
 南洲	nj;ua vb;dv	3
@@ -8486,15 +8486,15 @@ use_preset_vocabulary: false
 鎮巴	vf;jv ba;ag	3
 鎮巴	vf;jv ba;vg	3
 大灘	da;ad tj;dn	3
-大灘	da;hd tj;dn	3
-山西省大同市	uj;aa xi;aa ug;ou da;hd ts;kk ui;wj	3
+大灘	da;ad tj;dn	3
+山西省大同市	uj;aa xi;aa ug;ou da;ad ts;kk ui;wj	3
 秦安	qn;hf an;bn	3
 秦安	qn;fh an;bn	3
 新水	xn;jq uv;ud	3
 新水	xn;jq uv;uv	3
 新水	xn;jq uv;ad	3
 黃花園大橋	hd;cb hw;ch yr;ky da;ad qc;mq	3
-黃花園大橋	hd;cb hw;ch yr;ky da;hd qc;mq	3
+黃花園大橋	hd;cb hw;ch yr;ky da;ad qc;mq	3
 仁懷市	rf;re hy;xy ui;dj	3
 仁懷市	rf;re hy;xy ui;wj	3
 仁懷市	rf;re hy;xh ui;dj	3
@@ -8502,9 +8502,9 @@ use_preset_vocabulary: false
 陽西	yh;ey xi;aa	3
 陽西	yh;ey xi;hh	3
 大臺	da;ad tl;uv	3
-大臺	da;hd tl;uv	3
+大臺	da;ad tl;uv	3
 登峯	dg;dd fg;uf	3
-南通大學	nj;ua ts;zy da;hd xt;jz	3
+南通大學	nj;ua ts;zy da;ad xt;jz	3
 宜陽	yi;bq yh;ey	3
 供水總公司	gs;rg uv;ad zs;sc gs;sb si;gk	3
 駟馬橋	si;ms ma;ad qc;mq	3
@@ -8568,7 +8568,7 @@ use_preset_vocabulary: false
 天宮院	tm;hd gs;bl yr;ew	3
 遠安	yr;zy an;bn	3
 大足縣	da;ad zu;kv xm;xx	3
-大足縣	da;hd zu;kv xm;xx	3
+大足縣	da;ad zu;kv xm;xx	3
 漕寶路	ck;dc bk;bb lu;zg	3
 薛家島	xt;cx jw;bu dk;un	3
 薛家島	xt;cx jw;bu dk;nu	3
@@ -8600,9 +8600,9 @@ use_preset_vocabulary: false
 上坊	uh;bh fh;tf	3
 閱江樓	yt;md jd;dg lb;ml	3
 白馬寺	bl;pa ma;ad si;ct	3
-石油大學	ui;kp yb;dy da;hd xt;jz	3
+石油大學	ui;kp yb;dy da;ad xt;jz	3
 黑龍江省佳木斯市	hz;ha ls;dg jd;dg ug;ou jw;rg mu;ad si;jq ui;wj	3
-武漢工程大學	wu;yv hj;dh gs;aa ig;hi da;hd xt;jz	3
+武漢工程大學	wu;yv hj;dh gs;aa ig;hi da;ad xt;jz	3
 南郊公園	nj;ua jc;ej gs;sb yr;ky	3
 奧林匹克花園	ao;db ln;mm pi;ke ke;eg hw;ch yr;ky	3
 奧林匹克花園	ao;db ln;mm pi;ke ke;ux hw;ch yr;ky	3
@@ -8615,7 +8615,7 @@ use_preset_vocabulary: false
 育英	yu;ys yy;cy	3
 育英	yu;dy yy;cy	3
 育英	yu;os yy;cy	3
-電視大學	dm;yd ui;ju da;hd xt;jz	3
+電視大學	dm;yd ui;ju da;ad xt;jz	3
 雙河	ud;yv he;dk	3
 雙河	ud;vy he;dk	3
 金中	jn;ra vs;aa	3
@@ -8630,8 +8630,8 @@ use_preset_vocabulary: false
 富順	fu;bf up;yi	3
 大前	da;ad qm;bd	3
 大前	da;ad qm;qd	3
-大前	da;hd qm;bd	3
-大前	da;hd qm;qd	3
+大前	da;ad qm;bd	3
+大前	da;ad qm;qd	3
 茂業百貨	mk;cw ye;yl bl;ab ho;bh	3
 天湖	tm;ad hu;dh	3
 天湖	tm;hd hu;dh	3
@@ -8643,9 +8643,9 @@ use_preset_vocabulary: false
 東明路	ds;ad my;oo lu;zg	3
 深圳路	uf;dm vf;ti lu;zg	3
 嘉華大橋	jw;uj hw;ch da;ad qc;mq	3
-嘉華大橋	jw;uj hw;ch da;hd qc;mq	3
+嘉華大橋	jw;uj hw;ch da;ad qc;mq	3
 嘉華大橋	jw;uj hw;ca da;ad qc;mq	3
-嘉華大橋	jw;uj hw;ca da;hd qc;mq	3
+嘉華大橋	jw;uj hw;ca da;ad qc;mq	3
 和布克賽爾縣	he;hk bu;ju ke;ux sl;bb er;ay xm;xx	3
 岳家嘴	yt;uq jw;bu zv;kj	3
 岳家嘴	yt;uq jw;bu zv;kz	3
@@ -8655,9 +8655,9 @@ use_preset_vocabulary: false
 華清	hw;ch qy;dq	3
 華清	hw;ca qy;dq	3
 嘉陵江大橋	jw;uj ly;ew jd;dg da;ad qc;mq	3
-嘉陵江大橋	jw;uj ly;ew jd;dg da;hd qc;mq	3
+嘉陵江大橋	jw;uj ly;ew jd;dg da;ad qc;mq	3
 嘉陵江大橋	jw;uj ly;el jd;dg da;ad qc;mq	3
-嘉陵江大橋	jw;uj ly;el jd;dg da;hd qc;mq	3
+嘉陵江大橋	jw;uj ly;el jd;dg da;ad qc;mq	3
 馬紹爾羣島	ma;ad uk;sv er;ay qp;yj dk;nu	3
 白廟	bl;pr mc;gi	3
 白廟	bl;ph mc;gi	3
@@ -8700,7 +8700,7 @@ use_preset_vocabulary: false
 天山路	tm;hd uj;aa lu;zg	3
 翠屏	cv;yz py;ub	3
 大源	da;ad yr;dy	3
-大源	da;hd yr;dy	3
+大源	da;ad yr;dy	3
 蓮花橋	lm;cl hw;ch qc;mq	3
 望城坡	wh;wo ig;ti po;tp	3
 望城坡	wh;wy ig;ti po;tp	3
@@ -8772,7 +8772,7 @@ use_preset_vocabulary: false
 昆明路	kp;rb my;oo lu;zg	3
 昆明路	kp;ob my;ry lu;zg	3
 昆明路	kp;ob my;oo lu;zg	3
-交大路	jc;wf da;hd lu;zg	3
+交大路	jc;wf da;ad lu;zg	3
 官莊	gr;bg vd;cv	3
 官莊	gr;bk vd;cv	3
 五里牌	wu;aa li;aa pl;pb	3
@@ -8890,8 +8890,8 @@ use_preset_vocabulary: false
 格薩爾	ge;mg sa;ci er;ay	3
 大屯	da;ad tp;hg	3
 大屯	da;ad tp;ag	3
-大屯	da;hd tp;hg	3
-大屯	da;hd tp;ag	3
+大屯	da;ad tp;hg	3
+大屯	da;ad tp;ag	3
 紅專	hs;sg vr;ac	3
 紅專	hs;sg vr;cd	3
 紅專	hs;sg vr;hc	3
@@ -8960,12 +8960,12 @@ use_preset_vocabulary: false
 樂亭	le;bm ty;wd	3
 休寧	xq;rm ny;bd	3
 東陵區	ds;ad ly;el qu;kp	3
-大南門	da;hd nj;ua mf;aa	3
+大南門	da;ad nj;ua mf;aa	3
 中山公園站	vs;aa uj;aa gs;sb yr;ky vj;lv	3
 沈大	uf;dy da;ad	3
-沈大	uf;dy da;hd	3
+沈大	uf;dy da;ad	3
 沈大	uf;dg da;ad	3
-沈大	uf;dg da;hd	3
+沈大	uf;dg da;ad	3
 華鎣市	hw;ch yy;hj ui;dj	3
 華鎣市	hw;ch yy;hj ui;wj	3
 華鎣市	hw;ca yy;hj ui;dj	3
@@ -9122,7 +9122,7 @@ use_preset_vocabulary: false
 吳川市	wu;kd ir;pa ui;dj	3
 吳川市	wu;kd ir;pa ui;wj	3
 鄭大	vg;ed da;ad	3
-鄭大	vg;ed da;hd	3
+鄭大	vg;ed da;ad	3
 灤河	lr;dm he;dk	3
 灤河	lr;dl he;dk	3
 湖山	hu;dh uj;uu	3
@@ -9149,9 +9149,9 @@ use_preset_vocabulary: false
 老軍營	lk;lb jp;bi yy;hl	3
 老軍營	lk;lb jp;bi yy;lb	3
 人才大廈	rf;pd cl;ap da;ad ua;gx	3
-人才大廈	rf;pd cl;ap da;hd ua;gx	3
+人才大廈	rf;pd cl;ap da;ad ua;gx	3
 人才大廈	rf;pd cl;hp da;ad ua;gx	3
-人才大廈	rf;pd cl;hp da;hd ua;gx	3
+人才大廈	rf;pd cl;hp da;ad ua;gx	3
 鑫源	xn;jj yr;dy	3
 向華	xd;pk hw;ch	3
 向華	xd;pk hw;ca	3
@@ -9194,7 +9194,7 @@ use_preset_vocabulary: false
 雲臺花園	yp;yy tl;uv hw;ch yr;ky	2
 石島	ui;kp dk;nu	2
 大坦沙	da;ad tj;td ua;du	2
-大坦沙	da;hd tj;td ua;du	2
+大坦沙	da;ad tj;td ua;du	2
 北新橋	bz;hp xn;jq qc;mq	2
 北新橋	bz;bj xn;jq qc;mq	2
 北新橋	bz;ap xn;jq qc;mq	2
@@ -9221,7 +9221,7 @@ use_preset_vocabulary: false
 宜川	yi;bq ir;pa	2
 十八中	ui;aa ba;pd vs;aa	2
 金塔	jn;ra ta;td	2
-成華大道	ig;gg hw;ca da;hd dk;zu	2
+成華大道	ig;gg hw;ca da;ad dk;zu	2
 六廠	lq;wb ih;gi	2
 寶峯	bk;bb fg;uf	2
 高莊	gk;dk vd;cv	2
@@ -9230,9 +9230,9 @@ use_preset_vocabulary: false
 輕紡城	qy;ig fh;sf ig;ti	2
 湞江	vf;dv jd;dg	2
 包河大道	bk;bs he;dk da;ad dk;zu	2
-包河大道	bk;bs he;dk da;hd dk;zu	2
+包河大道	bk;bs he;dk da;ad dk;zu	2
 包河大道	bk;gs he;dk da;ad dk;zu	2
-包河大道	bk;gs he;dk da;hd dk;zu	2
+包河大道	bk;gs he;dk da;ad dk;zu	2
 百丈	bl;ab vh;ad	2
 河北省滄州市	he;dk bz;ap ug;ou ch;dc vb;id ui;wj	2
 海珠客運站	hl;dm vu;wv ke;bg yp;zj vj;lv	2
@@ -9296,9 +9296,9 @@ use_preset_vocabulary: false
 離石	li;vl ui;hh	2
 離石	li;vl ui;ak	2
 西湖大道	xi;aa hu;dh da;ad dk;zu	2
-西湖大道	xi;aa hu;dh da;hd dk;zu	2
+西湖大道	xi;aa hu;dh da;ad dk;zu	2
 西湖大道	xi;hh hu;dh da;ad dk;zu	2
-西湖大道	xi;hh hu;dh da;hd dk;zu	2
+西湖大道	xi;hh hu;dh da;ad dk;zu	2
 新集	xn;jq ji;mv	2
 新集	xn;jq ji;vm	2
 徐莊	xu;xy vd;cv	2
@@ -9318,7 +9318,7 @@ use_preset_vocabulary: false
 紫竹院公園	zi;sc vu;gg yr;ew gs;bs yr;ky	2
 紫竹院公園	zi;sc vu;gg yr;ew gs;sb yr;ky	2
 大沖	da;ad is;dv	2
-大沖	da;hd is;dv	2
+大沖	da;ad is;dv	2
 華峯	hw;ch fg;uf	2
 華峯	hw;ca fg;uf	2
 東側路	ds;ad ce;rz lu;zg	2
@@ -9333,8 +9333,8 @@ use_preset_vocabulary: false
 龍潭湖	ls;dg tj;dt hu;dh	2
 大社	da;ad ue;ut	2
 大社	da;ad ue;tu	2
-大社	da;hd ue;ut	2
-大社	da;hd ue;tu	2
+大社	da;ad ue;ut	2
+大社	da;ad ue;tu	2
 紅巖村	hs;sg yj;ug cp;mc	2
 紅巖村	hs;sg yj;uy cp;mc	2
 寶山路	bk;bb uj;uu lu;zg	2
@@ -9343,7 +9343,7 @@ use_preset_vocabulary: false
 鐵路分局	tx;jg lu;zg ff;db ju;uk	2
 半島酒店	bj;bf dk;un jq;dy dm;gv	2
 半島酒店	bj;bf dk;nu jq;dy dm;gv	2
-大雁塔北廣場	da;hd yj;iv ta;td bz;ap gd;gh ih;ty	2
+大雁塔北廣場	da;ad yj;iv ta;td bz;ap gd;gh ih;ty	2
 洪山路	hs;dg uj;uu lu;zg	2
 洪山路	hs;dg uj;aa lu;zg	2
 尤溪	yb;ad xi;dx	2
@@ -9441,9 +9441,9 @@ use_preset_vocabulary: false
 丹徒	dj;pd tu;rz	2
 丹徒	dj;pd tu;xz	2
 龍翔大道	ls;lg xd;yy da;ad dk;zu	2
-龍翔大道	ls;lg xd;yy da;hd dk;zu	2
+龍翔大道	ls;lg xd;yy da;ad dk;zu	2
 龍翔大道	ls;dg xd;yy da;ad dk;zu	2
-龍翔大道	ls;dg xd;yy da;hd dk;zu	2
+龍翔大道	ls;dg xd;yy da;ad dk;zu	2
 南沙灣	nj;ua ua;du wj;dg	2
 貴定	gv;bg dy;bp	2
 東街口	ds;ad jx;xg kb;aa	2
@@ -9460,8 +9460,8 @@ use_preset_vocabulary: false
 凱賓斯基	kl;jd bn;bb si;jq ji;tq	2
 大碼頭	da;ad ma;um tb;yd	2
 大碼頭	da;ad ma;um tb;dy	2
-大碼頭	da;hd ma;um tb;yd	2
-大碼頭	da;hd ma;um tb;dy	2
+大碼頭	da;ad ma;um tb;yd	2
+大碼頭	da;ad ma;um tb;dy	2
 諸城市	vu;yv ig;ti ui;dj	2
 諸城市	vu;yv ig;ti ui;wj	2
 騾馬市	lo;ml ma;ad ui;wj	2
@@ -9481,9 +9481,9 @@ use_preset_vocabulary: false
 洪雅	hs;dg ya;vy	2
 五金城	wu;aa jn;ra ig;ti	2
 吐烏大	tu;kt wu;pd da;ad	2
-吐烏大	tu;kt wu;pd da;hd	2
+吐烏大	tu;kt wu;pd da;ad	2
 吐烏大	tu;kt wu;ph da;ad	2
-吐烏大	tu;kt wu;ph da;hd	2
+吐烏大	tu;kt wu;ph da;ad	2
 匯佳	hv;kh jw;rg	2
 平安村	py;hu an;bn cp;mc	2
 平安村	py;aa an;bn cp;mc	2
@@ -9502,9 +9502,9 @@ use_preset_vocabulary: false
 城固	ig;ti gu;kg	2
 潮安縣	ik;di an;bn xm;xx	2
 西大	xi;aa da;ad	2
-西大	xi;aa da;hd	2
+西大	xi;aa da;ad	2
 西大	xi;hh da;ad	2
-西大	xi;hh da;hd	2
+西大	xi;hh da;ad	2
 淨水廠	jy;dv uv;ad ih;gi	2
 城南新區	ig;ti nj;uu xn;jq qu;kp	2
 城南新區	ig;ti nj;ua xn;jq qu;kp	2
@@ -9572,9 +9572,9 @@ use_preset_vocabulary: false
 秣陵	mo;hm ly;ew	2
 秣陵	mo;hm ly;el	2
 徐州市泉山區	xu;xy vb;id ui;wj qr;ub uj;aa qu;kp	2
-大井	da;hd jy;aa	2
+大井	da;ad jy;aa	2
 十八里店	ui;aa ba;pd li;aa dm;gv	2
-新華大街	xn;jq hw;ca da;hd jx;xg	2
+新華大街	xn;jq hw;ca da;ad jx;xg	2
 安丘市	an;bn qq;pa ui;wj	2
 雙師	ud;yv ui;vb	2
 雙師	ud;yv ui;bv	2
@@ -9586,7 +9586,7 @@ use_preset_vocabulary: false
 潙山	wz;dw uj;uu	2
 潙山	wz;dw uj;aa	2
 科技大廈	ke;hd ji;fv da;ad ua;gx	2
-科技大廈	ke;hd ji;fv da;hd ua;gx	2
+科技大廈	ke;hd ji;fv da;ad ua;gx	2
 流沙河	lq;di ua;du he;dk	2
 五常市	wu;aa ih;xd ui;wj	2
 牙克石市	ya;ap ke;ux ui;kp ui;wj	2
@@ -9634,8 +9634,8 @@ use_preset_vocabulary: false
 國展中心	go;kh vj;uy vs;ka xn;dd	2
 大鐘寺	da;ad vs;jt si;tc	2
 大鐘寺	da;ad vs;jt si;ct	2
-大鐘寺	da;hd vs;jt si;tc	2
-大鐘寺	da;hd vs;jt si;ct	2
+大鐘寺	da;ad vs;jt si;tc	2
+大鐘寺	da;ad vs;jt si;ct	2
 海南省瓊海市	hl;dm nj;ua ug;ou qs;ww hl;dm ui;wj	2
 森林總隊	sf;ml ln;mm zs;sc dv;eu	2
 森林總隊	sf;ml ln;mm zs;sx dv;eu	2
@@ -9672,7 +9672,7 @@ use_preset_vocabulary: false
 昔陽	xi;co yh;ey	2
 昔陽	xi;oc yh;ey	2
 渭濱	wz;dw bn;db	2
-石門大橋	ui;kp mf;aa da;hd qc;mq	2
+石門大橋	ui;kp mf;aa da;ad qc;mq	2
 市體育中心	ui;wj ti;gd yu;os vs;aa xn;dd	2
 萬載	wj;cy zl;ig	2
 萬載	wj;cy zl;gi	2
@@ -9688,7 +9688,7 @@ use_preset_vocabulary: false
 臨朐	ln;ip qu;yj	2
 箇舊市	ge;vg jq;cj ui;dj	2
 箇舊市	ge;vg jq;cj ui;wj	2
-大洋百貨	da;hd yh;dy bl;ab ho;bh	2
+大洋百貨	da;ad yh;dy bl;ab ho;bh	2
 車路	ie;aa lu;zg	2
 車路	ie;hh lu;zg	2
 東來	ds;ad ll;ad	2
@@ -9707,9 +9707,9 @@ use_preset_vocabulary: false
 老廟	lk;bl mc;gi	2
 老廟	lk;lb mc;gi	2
 創業大廈	id;dc ye;yw da;ad ua;gx	2
-創業大廈	id;dc ye;yw da;hd ua;gx	2
+創業大廈	id;dc ye;yw da;ad ua;gx	2
 創業大廈	id;dc ye;yl da;ad ua;gx	2
-創業大廈	id;dc ye;yl da;hd ua;gx	2
+創業大廈	id;dc ye;yl da;ad ua;gx	2
 北京農學院	bz;ap jy;wx ns;qi xt;jz yr;ew	2
 吉木乃	ji;ku mu;ad nl;pg	2
 吳中路	wu;kd vs;aa lu;zg	2
@@ -9746,9 +9746,9 @@ use_preset_vocabulary: false
 翠苑	cv;yz yr;cy	2
 翠苑	cv;yz yr;ce	2
 解放大路	jx;jn fh;wf da;ad lu;zg	2
-解放大路	jx;jn fh;wf da;hd lu;zg	2
+解放大路	jx;jn fh;wf da;ad lu;zg	2
 解放大路	jx;jn fh;fw da;ad lu;zg	2
-解放大路	jx;jn fh;fw da;hd lu;zg	2
+解放大路	jx;jn fh;fw da;ad lu;zg	2
 五桂橋	wu;aa gv;mg qc;mq	2
 五桂橋	wu;hh gv;mg qc;mq	2
 衛輝市	wz;xi hv;gj ui;dj	2
@@ -9804,7 +9804,7 @@ use_preset_vocabulary: false
 花園口	hw;ch yr;ky kb;aa	2
 花園口	hw;ch yr;ky kb;uh	2
 楊浦大橋	yh;my pu;df da;ad qc;mq	2
-楊浦大橋	yh;my pu;df da;hd qc;mq	2
+楊浦大橋	yh;my pu;df da;ad qc;mq	2
 南海區政府	nj;uu hl;dm qu;kp vg;wv fu;gf	2
 南海區政府	nj;ua hl;dm qu;kp vg;wv fu;gf	2
 南海區政府	nj;uy hl;dm qu;kp vg;wv fu;gf	2
@@ -9828,7 +9828,7 @@ use_preset_vocabulary: false
 德意志聯邦共和國	de;xx yi;xy vi;xu lm;ea bh;ef gs;bc he;hk go;kh	2
 憑祥市	py;xf xd;uy ui;dj	2
 憑祥市	py;xf xd;uy ui;wj	2
-人才大市場	rf;pd cl;ap da;hd ui;wj ih;ty	2
+人才大市場	rf;pd cl;ap da;ad ui;wj ih;ty	2
 北望	bz;ap wh;wo	2
 阿爾泰山	aa;ek er;ay tl;uf uj;aa	2
 杉山	uj;mp uj;uu	2
@@ -9896,9 +9896,9 @@ use_preset_vocabulary: false
 團島	tr;kv dk;un	2
 團島	tr;kv dk;nu	2
 雷鋒大道	lz;yt fg;jf da;ad dk;zu	2
-雷鋒大道	lz;yt fg;jf da;hd dk;zu	2
+雷鋒大道	lz;yt fg;jf da;ad dk;zu	2
 大沽河	da;ad gu;dg he;dk	2
-大沽河	da;hd gu;dg he;dk	2
+大沽河	da;ad gu;dg he;dk	2
 東灣	ds;ad wj;dg	2
 北展	bz;hp vj;uy	2
 北展	bz;bj vj;uy	2
@@ -9985,8 +9985,8 @@ use_preset_vocabulary: false
 平橋	py;gb qc;mq	2
 大溪溝	da;ad xi;dx gb;dr	2
 大溪溝	da;ad xi;dx gb;dg	2
-大溪溝	da;hd xi;dx gb;dr	2
-大溪溝	da;hd xi;dx gb;dg	2
+大溪溝	da;ad xi;dx gb;dr	2
+大溪溝	da;ad xi;dx gb;dg	2
 聖湖	ug;ew hu;dh	2
 聖湖	ug;wk hu;dh	2
 漫水橋	mj;dm uv;ud qc;mq	2
@@ -9999,8 +9999,8 @@ use_preset_vocabulary: false
 南天門	nj;ua tm;ad mf;aa	2
 大溫	da;ad wf;dm	2
 大溫	da;ad wf;dw	2
-大溫	da;hd wf;dm	2
-大溫	da;hd wf;dw	2
+大溫	da;ad wf;dm	2
+大溫	da;ad wf;dw	2
 產業園管委會	ij;wu ye;yw yr;ky gr;vg wz;hn hv;rr	2
 產業園管委會	ij;wu ye;yw yr;ky gr;vg wz;hn hv;ro	2
 產業園管委會	ij;wu ye;yl yr;ky gr;vg wz;hn hv;rr	2
@@ -10030,7 +10030,7 @@ use_preset_vocabulary: false
 海陵	hl;dm ly;el	2
 漢陰	hj;dh yn;ey	2
 渭源	wz;dw yr;dy	2
-商業大樓	uh;wk ye;yl da;hd lb;ml	2
+商業大樓	uh;wk ye;yl da;ad lb;ml	2
 板倉	bj;mf ch;rk	2
 新車站	xn;jq ie;aa vj;lv	2
 新車站	xn;jq ie;hh vj;lv	2
@@ -10197,7 +10197,7 @@ use_preset_vocabulary: false
 鴻恩寺	hs;dn en;xy si;ct	2
 工人村	gs;aa rf;pd cp;mc	2
 工人村	gs;hh rf;pd cp;mc	2
-東大橋	ds;ad da;hd qc;mq	2
+東大橋	ds;ad da;ad qc;mq	2
 過境公路	go;zg jy;tj gs;bs lu;zg	2
 過境公路	go;zg jy;tj gs;sb lu;zg	2
 過境公路	go;zk jy;tj gs;bs lu;zg	2
@@ -10232,8 +10232,8 @@ use_preset_vocabulary: false
 園嶺	yr;ky ly;ul	2
 大慈寺	da;ad ci;xz si;tc	2
 大慈寺	da;ad ci;xz si;ct	2
-大慈寺	da;hd ci;xz si;tc	2
-大慈寺	da;hd ci;xz si;ct	2
+大慈寺	da;ad ci;xz si;tc	2
+大慈寺	da;ad ci;xz si;ct	2
 茂林	mk;cw ln;mm	2
 胡林	hu;yg ln;mm	2
 胡林	hu;og ln;mm	2
@@ -10319,7 +10319,7 @@ use_preset_vocabulary: false
 第三中學	di;vp sj;aa vs;aa xt;jz	2
 廣昌	gd;gh ih;rr	2
 廣昌	gd;gh ih;oo	2
-水西門大街	uv;ad xi;aa mf;aa da;hd jx;xg	2
+水西門大街	uv;ad xi;aa mf;aa da;ad jx;xg	2
 鯉城	li;yl ig;ti	2
 花明樓	hw;ch my;ry lb;ml	2
 花明樓	hw;ch my;oo lb;ml	2
@@ -10348,7 +10348,7 @@ use_preset_vocabulary: false
 楊家灣	yh;my jw;bu wj;dg	2
 萊陽市	ll;cl yh;ey ui;dj	2
 萊陽市	ll;cl yh;ey ui;wj	2
-杭州大廈	hh;mk vb;id da;hd ua;gx	2
+杭州大廈	hh;mk vb;id da;ad ua;gx	2
 桂溪	gv;mg xi;dx	2
 耀華路	yk;gd hw;ch lu;zg	2
 耀華路	yk;gd hw;ca lu;zg	2
@@ -10513,7 +10513,7 @@ use_preset_vocabulary: false
 白雲觀	bl;pa yp;yy gr;jv	2
 白雲觀	bl;po yp;yy gr;jv	2
 地質大隊	di;ty vi;bj da;ad dv;eu	2
-地質大隊	di;ty vi;bj da;hd dv;eu	2
+地質大隊	di;ty vi;bj da;ad dv;eu	2
 火車站北廣場	ho;dd ie;aa vj;lv bz;ap gd;gh ih;ty	2
 新絳	xn;jq jd;sj	2
 蓬萊市	pg;cf ll;cl ui;dj	2
@@ -10523,7 +10523,7 @@ use_preset_vocabulary: false
 上蔡	uh;uh cl;cj	2
 上蔡	uh;bh cl;cj	2
 農機站	ns;qi ji;mj vj;lv	2
-商業大	uh;wk ye;yl da;hd	2
+商業大	uh;wk ye;yl da;ad	2
 阜成門	fu;uk ig;gg mf;aa	2
 櫻桃園	yy;my tk;mv yr;ky	2
 糧店	ld;ml dm;gv	2
@@ -10611,7 +10611,7 @@ use_preset_vocabulary: false
 懷柔法院	hy;xy rb;mm fa;dq yr;ew	2
 懷柔法院	hy;xh rb;mm fa;dq yr;ew	2
 大嶺	da;ad ly;ul	2
-大嶺	da;hd ly;ul	2
+大嶺	da;ad ly;ul	2
 喬司	qc;yk si;gk	2
 光華門	gd;xw hw;ca mf;aa	2
 東直門外	ds;ad vi;aa mf;aa wl;xb	2
@@ -10648,7 +10648,7 @@ use_preset_vocabulary: false
 納溪	na;sn xi;dx	2
 東小口	ds;ad xc;ad kb;aa	2
 知本	vi;uk bf;aa	2
-自由大路	zi;pa yb;aa da;hd lu;zg	2
+自由大路	zi;pa yb;aa da;ad lu;zg	2
 右安門	yb;ku an;bn mf;aa	2
 城郊村	ig;ti jc;ej cp;mc	2
 上望	uh;aa wh;wo	2
@@ -10672,7 +10672,7 @@ use_preset_vocabulary: false
 金宇	jn;ra yu;by	2
 金宇	jn;ph yu;by	2
 大通路	da;ad ts;zy lu;zg	2
-大通路	da;hd ts;zy lu;zg	2
+大通路	da;ad ts;zy lu;zg	2
 紅石	hs;sg ui;kp	2
 紅石	hs;sg ui;pk	2
 紅石	hs;sg ui;aa	2
@@ -10735,7 +10735,7 @@ use_preset_vocabulary: false
 東宮	ds;hd gs;bl	2
 東宮	ds;mr gs;bl	2
 東宮	ds;mo gs;bl	2
-浦東大道	pu;df ds;ad da;hd dk;zu	2
+浦東大道	pu;df ds;ad da;ad dk;zu	2
 十三中	ui;aa sj;aa vs;aa	2
 機電市場	ji;mj dm;yg ui;dj ih;ty	2
 機電市場	ji;mj dm;yg ui;wj ih;ty	2
@@ -10745,7 +10745,7 @@ use_preset_vocabulary: false
 理塘	li;wl th;tt	2
 麻江	ma;gl jd;dg	2
 三馬路	sj;aa ma;ad lu;zg	2
-黃河大街	hd;cb he;dk da;hd jx;xg	2
+黃河大街	hd;cb he;dk da;ad jx;xg	2
 衛東	wz;xi ds;ad	2
 天鑰橋路	tm;ad yk;jy qc;mq lu;zg	2
 天鑰橋路	tm;ad yk;jc qc;mq lu;zg	2
@@ -10758,9 +10758,9 @@ use_preset_vocabulary: false
 養禽場	yh;yu qn;rl ih;ty	2
 養禽場	yh;yl qn;rl ih;ty	2
 休閒街	xq;rm xm;mo jx;xg	2
-北方工業大學	bz;ap fh;wd gs;aa ye;yl da;hd xt;jz	2
+北方工業大學	bz;ap fh;wd gs;aa ye;yl da;ad xt;jz	2
 渝澳大橋	yu;dy ao;da da;ad qc;mq	2
-渝澳大橋	yu;dy ao;da da;hd qc;mq	2
+渝澳大橋	yu;dy ao;da da;ad qc;mq	2
 古渡	gu;uk du;dd	2
 老年醫院	lk;bl nm;ra yi;yu yr;ew	2
 上下九步行街	uh;aa xw;ab jq;py bu;vx xy;xd jx;xg	2
@@ -10900,7 +10900,7 @@ use_preset_vocabulary: false
 林甸	ln;mm dm;gt	2
 林甸	ln;mm dm;bt	2
 紅廟坡	hs;sg mc;gi po;tp	2
-大西門	da;hd xi;aa mf;aa	2
+大西門	da;ad xi;aa mf;aa	2
 和政	he;hk vg;wv	2
 深滬	uf;dm hu;dh	2
 深滬	uf;dm hu;db	2
@@ -11144,8 +11144,8 @@ use_preset_vocabulary: false
 防城	fh;ef ig;ti	2
 深圳大劇院	uf;dm vf;ti da;ad ju;dj yr;ew	2
 深圳大劇院	uf;dm vf;ti da;ad ju;du yr;ew	2
-深圳大劇院	uf;dm vf;ti da;hd ju;dj yr;ew	2
-深圳大劇院	uf;dm vf;ti da;hd ju;du yr;ew	2
+深圳大劇院	uf;dm vf;ti da;ad ju;dj yr;ew	2
+深圳大劇院	uf;dm vf;ti da;ad ju;du yr;ew	2
 定西路	dy;bp xi;aa lu;zg	2
 定西路	dy;bp xi;hh lu;zg	2
 利津	li;dh jn;dy	2
@@ -11190,7 +11190,7 @@ use_preset_vocabulary: false
 斜土路	xx;dy tu;hh lu;zg	2
 舵落口	do;vt lo;cl kb;aa	2
 舵落口	do;vt lo;cl kb;uh	2
-大石橋市	da;hd ui;kp qc;mq ui;wj	2
+大石橋市	da;ad ui;kp qc;mq ui;wj	2
 高港	gk;dk gh;dx	2
 高港	gk;wk gh;dx	2
 益豐	yi;mb fg;ud	2
@@ -11249,8 +11249,8 @@ use_preset_vocabulary: false
 食品工業園	ui;rl pn;kk gs;aa ye;yl yr;ky	2
 八大處公園	ba;pd da;ad iu;hi gs;bs yr;ky	2
 八大處公園	ba;pd da;ad iu;hi gs;sb yr;ky	2
-八大處公園	ba;pd da;hd iu;hi gs;bs yr;ky	2
-八大處公園	ba;pd da;hd iu;hi gs;sb yr;ky	2
+八大處公園	ba;pd da;ad iu;hi gs;bs yr;ky	2
+八大處公園	ba;pd da;ad iu;hi gs;sb yr;ky	2
 耿馬縣	gg;eh ma;ad xm;xx	2
 耿馬縣	gg;eh ma;hh xm;xx	2
 耿馬縣	gg;eh ma;hd xm;xx	2
@@ -11319,7 +11319,7 @@ use_preset_vocabulary: false
 西康路	xi;aa kh;gl lu;zg	2
 西康路	xi;hh kh;gl lu;zg	2
 消防大	xc;dx fh;ef da;ad	2
-消防大	xc;dx fh;ef da;hd	2
+消防大	xc;dx fh;ef da;ad	2
 山姆會員店	uj;uu mu;nm hv;rr yr;kb dm;gv	2
 山姆會員店	uj;uu mu;nm hv;ro yr;kb dm;gv	2
 山姆會員店	uj;aa mu;nm hv;rr yr;kb dm;gv	2
@@ -11412,7 +11412,7 @@ use_preset_vocabulary: false
 川港	ir;pa gh;dx	2
 花卉世界	hw;ch hv;cu ui;ca jx;tj	2
 蓮花湖	lm;cl hw;ch hu;dh	2
-月亮灣大道	yt;pa ld;wj wj;dg da;hd dk;zu	2
+月亮灣大道	yt;pa ld;wj wj;dg da;ad dk;zu	2
 吉祥村	ji;ku xd;uy cp;mc	2
 吉祥村	ji;uk xd;uy cp;mc	2
 海西州	hl;dm xi;aa vb;id	2
@@ -11438,9 +11438,9 @@ use_preset_vocabulary: false
 區社區	qu;kp ue;ut qu;kp	2
 區社區	qu;kp ue;tu qu;kp	2
 正大廣場	vg;av da;ad gd;gh ih;ty	2
-正大廣場	vg;av da;hd gd;gh ih;ty	2
+正大廣場	vg;av da;ad gd;gh ih;ty	2
 正大廣場	vg;hv da;ad gd;gh ih;ty	2
-正大廣場	vg;hv da;hd gd;gh ih;ty	2
+正大廣場	vg;hv da;ad gd;gh ih;ty	2
 龍都	ls;lg db;ev	2
 龍都	ls;dg db;ev	2
 鄢陵	yj;ey ly;ew	2
@@ -11510,9 +11510,9 @@ use_preset_vocabulary: false
 七浦路	qi;ag pu;df lu;zg	2
 潭村	tj;dt cp;mc	2
 事故大隊	ui;hu gu;wg da;ad dv;eu	2
-事故大隊	ui;hu gu;wg da;hd dv;eu	2
+事故大隊	ui;hu gu;wg da;ad dv;eu	2
 事故大隊	ui;aa gu;wg da;ad dv;eu	2
-事故大隊	ui;aa gu;wg da;hd dv;eu	2
+事故大隊	ui;aa gu;wg da;ad dv;eu	2
 四醫院	si;ke yi;yu yr;ew	2
 新建小學	xn;jq jm;zy xc;ud xt;zb	2
 新建小學	xn;jq jm;zy xc;ud xt;jz	2
@@ -11520,8 +11520,8 @@ use_preset_vocabulary: false
 新建小學	xn;jq jm;zy xc;ad xt;jz	2
 大唐電信	da;ad th;gk dm;yg xn;ry	2
 大唐電信	da;ad th;gk dm;yd xn;ry	2
-大唐電信	da;hd th;gk dm;yg xn;ry	2
-大唐電信	da;hd th;gk dm;yd xn;ry	2
+大唐電信	da;ad th;gk dm;yg xn;ry	2
+大唐電信	da;ad th;gk dm;yd xn;ry	2
 開遠市	kl;mk yr;zy ui;dj	2
 開遠市	kl;mk yr;zy ui;wj	2
 禹城市	yu;pd ig;ti ui;dj	2
@@ -11551,9 +11551,9 @@ use_preset_vocabulary: false
 西崗	xi;aa gh;ug	2
 西崗	xi;hh gh;ug	2
 海關大樓	hl;dm gr;ma da;ad lb;ml	2
-海關大樓	hl;dm gr;ma da;hd lb;ml	2
+海關大樓	hl;dm gr;ma da;ad lb;ml	2
 海關大樓	hl;dm gr;mu da;ad lb;ml	2
-海關大樓	hl;dm gr;mu da;hd lb;ml	2
+海關大樓	hl;dm gr;mu da;ad lb;ml	2
 陶瓷博物館	tk;et ci;wc bo;uc wu;nw gr;ug	2
 陶瓷博物館	tk;et ci;wc bo;uf wu;nw gr;ug	2
 陶瓷博物館	tk;ef ci;wc bo;uc wu;nw gr;ug	2
@@ -11841,7 +11841,7 @@ use_preset_vocabulary: false
 隧道南	sv;es dk;zu nj;uu	1
 隧道南	sv;es dk;zu nj;ua	1
 隧道南	sv;es dk;zu nj;uy	1
-那達慕大會	na;el da;zy mu;cx da;hd hv;ro	1
+那達慕大會	na;el da;zy mu;cx da;ad hv;ro	1
 東田	ds;ad tm;aa	1
 塔什庫爾幹縣	ta;td uf;ru ku;gi er;ay gj;gu xm;xx	1
 二醫	er;aa yi;yu	1
@@ -11878,7 +11878,7 @@ use_preset_vocabulary: false
 富村	fu;bt cp;mc	1
 富村	fu;bf cp;mc	1
 福興	fu;uf xy;ba	1
-北陵大街	bz;ap ly;el da;hd jx;xg	1
+北陵大街	bz;ap ly;el da;ad jx;xg	1
 垣曲	yr;tg qu;aa	1
 垣曲	yr;tg qu;oa	1
 垣曲	yr;tg qu;uh	1
@@ -11893,22 +11893,22 @@ use_preset_vocabulary: false
 簇橋	cu;vz qc;mq	1
 串串香	ir;aa ir;aa xd;ho	1
 電信大樓	dm;yg xn;ry da;ad lb;ml	1
-電信大樓	dm;yg xn;ry da;hd lb;ml	1
+電信大樓	dm;yg xn;ry da;ad lb;ml	1
 電信大樓	dm;yd xn;ry da;ad lb;ml	1
-電信大樓	dm;yd xn;ry da;hd lb;ml	1
-大光路	da;hd gd;xw lu;zg	1
-塔克拉瑪干大沙漠	ta;td ke;ux la;fl ma;wm gj;aa da;hd ua;du mo;dm	1
+電信大樓	dm;yd xn;ry da;ad lb;ml	1
+大光路	da;ad gd;xw lu;zg	1
+塔克拉瑪干大沙漠	ta;td ke;ux la;fl ma;wm gj;aa da;ad ua;du mo;dm	1
 雅寶路	ya;yv bk;bb lu;zg	1
 雅寶路	ya;vy bk;bb lu;zg	1
 洪山體育館	hs;dg uj;aa ti;gd yu;os gr;ug	1
-幸福大街	xy;tu fu;uf da;hd jx;xg	1
+幸福大街	xy;tu fu;uf da;ad jx;xg	1
 機牀廠	ji;mj id;pm ih;gw	1
 機牀廠	ji;mj id;pm ih;gi	1
 東花市	ds;ad hw;ch ui;wj	1
 地王大廈	di;ty wh;aa da;ad ua;gx	1
-地王大廈	di;ty wh;aa da;hd ua;gx	1
+地王大廈	di;ty wh;aa da;ad ua;gx	1
 地王大廈	di;ty wh;hh da;ad ua;gx	1
-地王大廈	di;ty wh;hh da;hd ua;gx	1
+地王大廈	di;ty wh;hh da;ad ua;gx	1
 光復路	gd;xw fu;xf lu;zg	1
 菜園壩火車站	cl;cc yr;ky ba;tb ho;dd ie;aa vj;lv	1
 菜園壩火車站	cl;cc yr;ky ba;tb ho;dd ie;hh vj;lv	1
@@ -11933,7 +11933,7 @@ use_preset_vocabulary: false
 羅莊	lo;sw vd;cv	1
 向陽路	xd;pk yh;ey lu;zg	1
 大流	da;ad lq;di	1
-大流	da;hd lq;di	1
+大流	da;ad lq;di	1
 百通	bl;ab ts;zy	1
 百通	bl;hb ts;zy	1
 百通	bl;bh ts;zy	1
@@ -11944,7 +11944,7 @@ use_preset_vocabulary: false
 都市路	du;ev ui;dj lu;zg	1
 都市路	du;ev ui;wj lu;zg	1
 大通縣	da;ad ts;zy xm;xx	1
-大通縣	da;hd ts;zy xm;xx	1
+大通縣	da;ad ts;zy xm;xx	1
 鏡泊湖	jy;jj po;db hu;dh	1
 金盆	jn;pa pf;mf	1
 金盆	jn;rh pf;mf	1
@@ -11958,12 +11958,12 @@ use_preset_vocabulary: false
 天潤城	tm;hd rp;dr ig;ti	1
 蓬溪	pg;cf xi;dx	1
 特區報社	te;ns qu;kp bk;ex ue;ut	1
-南湖大路	nj;ua hu;dh da;hd lu;zg	1
+南湖大路	nj;ua hu;dh da;ad lu;zg	1
 英吉沙	yy;cy ji;ku ua;du	1
 英吉沙	yy;cy ji;uk ua;du	1
 龍州	ls;dg vb;id	1
 長沙世界之窗	ih;ad ua;du ui;ca jx;tj vi;dd id;bx	1
-北師大附中	bz;ap ui;bv da;hd fu;ef vs;aa	1
+北師大附中	bz;ap ui;bv da;ad fu;ef vs;aa	1
 邊家村	bm;zf jw;bu cp;mc	1
 新華公園	xn;jq hw;ch gs;bs yr;ky	1
 新華公園	xn;jq hw;ch gs;sb yr;ky	1
@@ -11973,7 +11973,7 @@ use_preset_vocabulary: false
 定陶	dy;bp tk;ef	1
 青龍場	qy;of ls;dg ih;ty	1
 發車地點	fa;du ie;aa di;ty dm;hv	1
-開發大道	kl;mk fa;du da;hd dk;zu	1
+開發大道	kl;mk fa;du da;ad dk;zu	1
 古田四路	gu;uk tm;aa si;ke lu;zg	1
 高升橋	gk;dk ug;pc qc;mq	1
 高升橋	gk;wk ug;pc qc;mq	1
@@ -11986,15 +11986,15 @@ use_preset_vocabulary: false
 石海	ui;hh hl;dm	1
 石海	ui;ak hl;dm	1
 回民中學	hv;kk mn;ag vs;aa xt;jz	1
-前進大街	qm;bd jn;zv da;hd jx;xg	1
+前進大街	qm;bd jn;zv da;ad jx;xg	1
 金星路	jn;ra xy;ou lu;zg	1
 鳳凰新村	fg;jn hd;jh xn;jq cp;mc	1
 沌口開發區	dp;dt kb;aa kl;mk fa;du qu;kp	1
 萬縣	wj;cy xm;xx	1
 廣電大廈	gd;gh dm;yg da;ad ua;gx	1
-廣電大廈	gd;gh dm;yg da;hd ua;gx	1
+廣電大廈	gd;gh dm;yg da;ad ua;gx	1
 廣電大廈	gd;gh dm;yd da;ad ua;gx	1
-廣電大廈	gd;gh dm;yd da;hd ua;gx	1
+廣電大廈	gd;gh dm;yd da;ad ua;gx	1
 蜀漢路	uu;si hj;dh lu;zg	1
 名山縣	my;xk uj;uu xm;xx	1
 名山縣	my;xk uj;aa xm;xx	1
@@ -12075,7 +12075,7 @@ use_preset_vocabulary: false
 柘榮	ve;mu rs;mb	1
 柘榮	ve;mu rs;hm	1
 前進街	qm;bd jn;zv jx;xg	1
-東大路	ds;ad da;hd lu;zg	1
+東大路	ds;ad da;ad lu;zg	1
 統管辦	ts;si gr;vg bj;lx	1
 統管辦	ts;si gr;vg bj;xx	1
 根河市	gf;mg he;dk ui;dj	1
@@ -12093,9 +12093,9 @@ use_preset_vocabulary: false
 新明	xn;jq my;ry	1
 新明	xn;jq my;oo	1
 五大道	wu;aa da;ad dk;zu	1
-五大道	wu;aa da;hd dk;zu	1
+五大道	wu;aa da;ad dk;zu	1
 五大道	wu;hh da;ad dk;zu	1
-五大道	wu;hh da;hd dk;zu	1
+五大道	wu;hh da;ad dk;zu	1
 埠頭	bu;tf tb;yd	1
 埠頭	bu;tf tb;dy	1
 埠頭	bu;tu tb;yd	1
@@ -12114,9 +12114,9 @@ use_preset_vocabulary: false
 王家莊	wh;aa jw;bu vd;cv	1
 王家莊	wh;hh jw;bu vd;cv	1
 錦繡大地	jn;jj xq;ss da;ad di;ty	1
-錦繡大地	jn;jj xq;ss da;hd di;ty	1
+錦繡大地	jn;jj xq;ss da;ad di;ty	1
 錦繡大地	jn;jb xq;ss da;ad di;ty	1
-錦繡大地	jn;jb xq;ss da;hd di;ty	1
+錦繡大地	jn;jb xq;ss da;ad di;ty	1
 涪城	fu;dk ig;ti	1
 涪城	fu;dp ig;ti	1
 巴縣	ba;kg xm;xx	1
@@ -12133,7 +12133,7 @@ use_preset_vocabulary: false
 石化路	ui;hh hw;rb lu;zg	1
 石化路	ui;ak hw;rb lu;zg	1
 大橋村	da;ad qc;mq cp;mc	1
-大橋村	da;hd qc;mq cp;mc	1
+大橋村	da;ad qc;mq cp;mc	1
 灃東	fg;dd ds;ad	1
 金星村	jn;ra xy;ou cp;mc	1
 蓮花北	lm;cl hw;ch bz;hp	1
@@ -12204,8 +12204,8 @@ use_preset_vocabulary: false
 集賢	ji;vm xm;by	1
 大環	da;ad hr;wh	1
 大環	da;ad hr;wy	1
-大環	da;hd hr;wh	1
-大環	da;hd hr;wy	1
+大環	da;ad hr;wh	1
+大環	da;ad hr;wy	1
 梅林一村	mz;mm ln;mm yi;aa cp;mc	1
 梅林一村	mz;mm ln;mm yi;hh cp;mc	1
 沾益	vj;dv yi;mb	1
@@ -12213,7 +12213,7 @@ use_preset_vocabulary: false
 米易	mi;dd yi;ow	1
 墾利	kf;tg li;dh	1
 墾利	kf;tg li;hd	1
-南農大	nj;ua ns;qi da;hd	1
+南農大	nj;ua ns;qi da;ad	1
 清水村	qy;dq uv;ud cp;mc	1
 清水村	qy;dq uv;uv cp;mc	1
 清水村	qy;dq uv;ad cp;mc	1
@@ -12301,7 +12301,7 @@ use_preset_vocabulary: false
 太陽昇	tl;dd yh;ey ug;ou	1
 太陽昇	tl;dd yh;ey ug;ru	1
 外河	wl;xb he;dk	1
-大南溝村	da;hd nj;ua gb;dg cp;mc	1
+大南溝村	da;ad nj;ua gb;dg cp;mc	1
 苜蓿園	mu;cm xu;cs yr;ky	1
 苜蓿園	mu;co xu;cs yr;ky	1
 香港西路	xd;hr gh;dx xi;aa lu;zg	1
@@ -12389,8 +12389,8 @@ use_preset_vocabulary: false
 石橋路	ui;ak qc;mq lu;zg	1
 大連灣	da;ad lm;zi wj;dw	1
 大連灣	da;ad lm;zi wj;dg	1
-大連灣	da;hd lm;zi wj;dw	1
-大連灣	da;hd lm;zi wj;dg	1
+大連灣	da;ad lm;zi wj;dw	1
+大連灣	da;ad lm;zi wj;dg	1
 晴隆	qy;oq ls;eu	1
 晴隆	qy;rq ls;eu	1
 武漢職業技術學院	wu;yv hj;dh vi;eg ye;yl ji;fv uu;xi xt;jz yr;ew	1
@@ -12399,7 +12399,7 @@ use_preset_vocabulary: false
 馬甸	ma;ad dm;gt	1
 壺關	hu;ua gr;ma	1
 人民商場	rf;pd mn;ag uh;wk ih;ty	1
-石化大道	ui;kp hw;rb da;hd dk;zu	1
+石化大道	ui;kp hw;rb da;ad dk;zu	1
 越城	yt;zy ig;ti	1
 延津	yj;zv jn;dy	1
 豐臺火車站	fg;ud tl;uv ho;dd ie;aa vj;lv	1
@@ -12435,15 +12435,15 @@ use_preset_vocabulary: false
 肛腸醫院	gh;og ih;oy yi;yu yr;ew	1
 勝利公園	ug;ol li;dh gs;sb yr;ky	1
 二水廠	er;aa uv;ad ih;gi	1
-大南路	da;hd nj;ua lu;zg	1
+大南路	da;ad nj;ua lu;zg	1
 楊梅坑	yh;my mz;mm kg;tk	1
 魏都	wz;gw db;ev	1
 河北省張家口	he;dk bz;ap ug;ou vh;gi jw;bu kb;aa	1
 水西	uv;ad xi;aa	1
 錦繡大道	jn;jj xq;ss da;ad dk;zu	1
-錦繡大道	jn;jj xq;ss da;hd dk;zu	1
+錦繡大道	jn;jj xq;ss da;ad dk;zu	1
 錦繡大道	jn;jb xq;ss da;ad dk;zu	1
-錦繡大道	jn;jb xq;ss da;hd dk;zu	1
+錦繡大道	jn;jb xq;ss da;ad dk;zu	1
 金帝	jn;ra di;wj	1
 蓮花池公園	lm;cl hw;ch ii;dy gs;bs yr;ky	1
 蓮花池公園	lm;cl hw;ch ii;dy gs;sb yr;ky	1
@@ -12451,7 +12451,7 @@ use_preset_vocabulary: false
 許昌市魏都區	xu;yw ih;rr ui;wj wz;gw db;ev qu;kp	1
 許昌市魏都區	xu;yw ih;oo ui;dj wz;gw db;ev qu;kp	1
 許昌市魏都區	xu;yw ih;oo ui;wj wz;gw db;ev qu;kp	1
-南大道	nj;ua da;hd dk;zu	1
+南大道	nj;ua da;ad dk;zu	1
 南禮士路	nj;ua li;ud ui;aa lu;zg	1
 鎮原	vf;jv yr;ix	1
 安義	an;bn yi;yw	1
@@ -12490,7 +12490,7 @@ use_preset_vocabulary: false
 虞城	yu;hw ig;ti	1
 深南中路	uf;dm nj;ua vs;aa lu;zg	1
 梅隴	mz;mm ls;el	1
-東風大街	ds;ad fg;ji da;hd jx;xg	1
+東風大街	ds;ad fg;ji da;ad jx;xg	1
 平西	py;aa xi;aa	1
 青雲譜	qy;yf yp;yy pu;yp	1
 青雲譜	qy;fo yp;yy pu;yp	1
@@ -12512,9 +12512,9 @@ use_preset_vocabulary: false
 車站南路	ie;aa vj;lv nj;ua lu;zg	1
 恆興	hg;xa xy;ba	1
 西安大路	xi;aa an;bn da;ad lu;zg	1
-西安大路	xi;aa an;bn da;hd lu;zg	1
+西安大路	xi;aa an;bn da;ad lu;zg	1
 西安大路	xi;hh an;bn da;ad lu;zg	1
-西安大路	xi;hh an;bn da;hd lu;zg	1
+西安大路	xi;hh an;bn da;ad lu;zg	1
 鄭州路	vg;ed vb;id lu;zg	1
 鄭州路	vg;ed vb;da lu;zg	1
 鄭州路	vg;ed vb;du lu;zg	1
@@ -12537,8 +12537,8 @@ use_preset_vocabulary: false
 廣州碧桂園	gd;gh vb;id bi;ub gv;mg yr;ky	1
 大學園區	da;ad xt;zb yr;ky qu;kp	1
 大學園區	da;ad xt;jz yr;ky qu;kp	1
-大學園區	da;hd xt;zb yr;ky qu;kp	1
-大學園區	da;hd xt;jz yr;ky qu;kp	1
+大學園區	da;ad xt;zb yr;ky qu;kp	1
+大學園區	da;ad xt;jz yr;ky qu;kp	1
 克明	ke;eg my;ry	1
 克明	ke;eg my;oo	1
 克明	ke;ux my;ry	1
@@ -12642,7 +12642,7 @@ use_preset_vocabulary: false
 南長街	nj;ua ih;ad jx;xg	1
 南磨房	nj;ua mo;mu fh;hf	1
 興隆街	xy;ba ls;eu jx;xg	1
-清華大學研究院	qy;dq hw;ca da;hd xt;jz yj;uk jq;bj yr;ew	1
+清華大學研究院	qy;dq hw;ca da;ad xt;jz yj;uk jq;bj yr;ew	1
 慈雲寺	ci;xz yp;yy si;tc	1
 慈雲寺	ci;xz yp;yy si;ct	1
 東新街	ds;ad xn;jq jx;xg	1
@@ -12677,7 +12677,7 @@ use_preset_vocabulary: false
 湖東	hu;dh ds;hd	1
 湖東	hu;dh ds;mr	1
 湖東	hu;dh ds;mo	1
-和平大街	he;hk py;aa da;hd jx;xg	1
+和平大街	he;hk py;aa da;ad jx;xg	1
 灰湯溫泉	hv;hu th;dy wf;dm qr;ub	1
 海興	hl;dm xy;jb	1
 海興	hl;dm xy;tb	1
@@ -12714,9 +12714,9 @@ use_preset_vocabulary: false
 磐石市	pj;ub ui;kp ui;wj	1
 靖安	jy;lq an;bn	1
 車站大道	ie;aa vj;lv da;ad dk;zu	1
-車站大道	ie;aa vj;lv da;hd dk;zu	1
+車站大道	ie;aa vj;lv da;ad dk;zu	1
 車站大道	ie;hh vj;lv da;ad dk;zu	1
-車站大道	ie;hh vj;lv da;hd dk;zu	1
+車站大道	ie;hh vj;lv da;ad dk;zu	1
 靖西	jy;lq xi;aa	1
 靖西	jy;lq xi;hh	1
 江陽	jd;dg yh;ey	1
@@ -12730,16 +12730,16 @@ use_preset_vocabulary: false
 明華	my;oo hw;ch	1
 明華	my;oo hw;ca	1
 三汊磯大橋	sj;aa ia;di ji;uj da;ad qc;mq	1
-三汊磯大橋	sj;aa ia;di ji;uj da;hd qc;mq	1
+三汊磯大橋	sj;aa ia;di ji;uj da;ad qc;mq	1
 三汊磯大橋	sj;hh ia;di ji;uj da;ad qc;mq	1
-三汊磯大橋	sj;hh ia;di ji;uj da;hd qc;mq	1
+三汊磯大橋	sj;hh ia;di ji;uj da;ad qc;mq	1
 幕府西路	mu;jm fu;gf xi;aa lu;zg	1
 幕府西路	mu;jm fu;gf xi;hh lu;zg	1
 幕府西路	mu;cj fu;gf xi;aa lu;zg	1
 幕府西路	mu;cj fu;gf xi;hh lu;zg	1
 文塔	wf;dd ta;td	1
 文塔	wf;dd ta;th	1
-大商集團	da;hd uh;wk ji;vm tr;kv	1
+大商集團	da;ad uh;wk ji;vm tr;kv	1
 北京物資學院	bz;ap jy;wx wu;nw zi;bc xt;jz yr;ew	1
 石家	ui;kp jw;bu	1
 石家	ui;pk jw;bu	1
@@ -12750,13 +12750,13 @@ use_preset_vocabulary: false
 郭茨口	go;ex ci;cc kb;aa	1
 郭茨口	go;ex ci;cc kb;uh	1
 大芬村	da;ad ff;cf cp;mc	1
-大芬村	da;hd ff;cf cp;mc	1
+大芬村	da;ad ff;cf cp;mc	1
 古厝	gu;uk co;ix	1
 漳平市	vh;dv py;aa ui;wj	1
 大安市	da;ad an;bn ui;dj	1
 大安市	da;ad an;bn ui;wj	1
-大安市	da;hd an;bn ui;dj	1
-大安市	da;hd an;bn ui;wj	1
+大安市	da;ad an;bn ui;dj	1
+大安市	da;ad an;bn ui;wj	1
 北嶺	bz;hp ly;ul	1
 北嶺	bz;bj ly;ul	1
 北嶺	bz;ap ly;ul	1
@@ -12882,7 +12882,7 @@ use_preset_vocabulary: false
 石阡	ui;aa qm;eq	1
 石阡	ui;hh qm;eq	1
 石阡	ui;ak qm;eq	1
-上海師大	uh;aa hl;dm ui;bv da;hd	1
+上海師大	uh;aa hl;dm ui;bv da;ad	1
 雲蒙山	yp;yy mg;cm uj;uu	1
 雲蒙山	yp;yy mg;cm uj;aa	1
 雲蒙山	yp;yy mg;cu uj;uu	1
@@ -12906,7 +12906,7 @@ use_preset_vocabulary: false
 雙合	ud;yv he;rk	1
 雙合	ud;vy he;rk	1
 霍州市	ho;yv vb;id ui;wj	1
-南大路	nj;ua da;hd lu;zg	1
+南大路	nj;ua da;ad lu;zg	1
 所屬地區	so;hj uu;uu di;ty qu;kp	1
 所屬地區	so;hj uu;ui di;ty qu;kp	1
 所屬地區	so;jh uu;uu di;ty qu;kp	1
@@ -12940,8 +12940,8 @@ use_preset_vocabulary: false
 仙橋	xm;ru qc;mq	1
 大沙頭	da;ad ua;du tb;yd	1
 大沙頭	da;ad ua;du tb;dy	1
-大沙頭	da;hd ua;du tb;yd	1
-大沙頭	da;hd ua;du tb;dy	1
+大沙頭	da;ad ua;du tb;yd	1
+大沙頭	da;ad ua;du tb;dy	1
 炸藥庫	va;hv yk;cy ku;gi	1
 炸藥庫	va;hv yk;cl ku;gi	1
 蓮湖路	lm;cl hu;dh lu;zg	1
@@ -13024,8 +13024,8 @@ use_preset_vocabulary: false
 白馬村	bl;pa ma;ad cp;mc	1
 大田村	da;ad tm;aa cp;mc	1
 大田村	da;ad tm;uh cp;mc	1
-大田村	da;hd tm;aa cp;mc	1
-大田村	da;hd tm;uh cp;mc	1
+大田村	da;ad tm;aa cp;mc	1
+大田村	da;ad tm;uh cp;mc	1
 錦園	jn;jj yr;ky	1
 錦園	jn;jb yr;ky	1
 泉山	qr;bu uj;uu	1
@@ -13087,7 +13087,7 @@ use_preset_vocabulary: false
 良口	ld;dg kb;aa	1
 良口	ld;dg kb;uh	1
 新大洲	xn;jq da;ad vb;dv	1
-新大洲	xn;jq da;hd vb;dv	1
+新大洲	xn;jq da;ad vb;dv	1
 新宅	xn;jq vl;bt	1
 新宅	xn;jq vl;bq	1
 雙河村	ud;yv he;dk cp;mc	1
@@ -13096,11 +13096,11 @@ use_preset_vocabulary: false
 太升南路	tl;dd ug;pc nj;ua lu;zg	1
 太升南路	tl;dd ug;pc nj;uy lu;zg	1
 南北主幹道	nj;ua bz;ap vu;dw gj;gu dk;zu	1
-中央大道	vs;aa yh;ad da;hd dk;zu	1
+中央大道	vs;aa yh;ad da;ad dk;zu	1
 西大橋	xi;aa da;ad qc;mq	1
-西大橋	xi;aa da;hd qc;mq	1
+西大橋	xi;aa da;ad qc;mq	1
 西大橋	xi;hh da;ad qc;mq	1
-西大橋	xi;hh da;hd qc;mq	1
+西大橋	xi;hh da;ad qc;mq	1
 馬家樓	ma;ad jw;bu lb;ml	1
 馬家樓	ma;hh jw;bu lb;ml	1
 馬家樓	ma;hd jw;bu lb;ml	1
@@ -13118,7 +13118,7 @@ use_preset_vocabulary: false
 石湖	ui;hh hu;dh	1
 石湖	ui;ak hu;dh	1
 源潭	yr;dy tj;dt	1
-山大二院	uj;aa da;hd er;aa yr;ew	1
+山大二院	uj;aa da;ad er;aa yr;ew	1
 新莊村	xn;jq vd;cv cp;mc	1
 等駕坡	dg;vs jw;mj po;tp	1
 陵川	ly;ew ir;pu	1
@@ -13143,14 +13143,14 @@ use_preset_vocabulary: false
 石花	ui;ak hw;ch	1
 大河口	da;ad he;dk kb;aa	1
 大河口	da;ad he;dk kb;uh	1
-大河口	da;hd he;dk kb;aa	1
-大河口	da;hd he;dk kb;uh	1
+大河口	da;ad he;dk kb;aa	1
+大河口	da;ad he;dk kb;uh	1
 景芝	jy;oj vi;cv	1
 景芝	jy;rj vi;cv	1
 育英中學	yu;os yy;cy vs;aa xt;jz	1
 怡園	yi;xt yr;ky	1
 大瑤	da;ad yk;wf	1
-大瑤	da;hd yk;wf	1
+大瑤	da;ad yk;wf	1
 石頭山	ui;kp tb;dy uj;aa	1
 合興	he;rk xy;jb	1
 合興	he;rk xy;tb	1
@@ -13166,7 +13166,7 @@ use_preset_vocabulary: false
 瞻園	vj;oy yr;ky	1
 瞻園	vj;mv yr;ky	1
 瞻園	vj;ov yr;ky	1
-大郊亭橋	da;hd jc;ej ty;wd qc;mq	1
+大郊亭橋	da;ad jc;ej ty;wd qc;mq	1
 鐵道學院	tx;jg dk;zu xt;zb yr;ew	1
 鐵道學院	tx;jg dk;zu xt;jz yr;ew	1
 倉房溝	ch;rk fh;hf gb;dr	1
@@ -13215,7 +13215,7 @@ use_preset_vocabulary: false
 財神廟	cl;bc uf;uu mc;gi	1
 新義	xn;jq yi;yw	1
 大峪	da;ad yu;ug	1
-大峪	da;hd yu;ug	1
+大峪	da;ad yu;ug	1
 新南站	xn;jq nj;uu vj;lv	1
 新南站	xn;jq nj;ua vj;lv	1
 新南站	xn;jq nj;uy vj;lv	1
@@ -13288,8 +13288,8 @@ use_preset_vocabulary: false
 肥田	fz;yb tm;uh	1
 大柳樹	da;ad lq;mm uu;mc	1
 大柳樹	da;ad lq;mm uu;mu	1
-大柳樹	da;hd lq;mm uu;mc	1
-大柳樹	da;hd lq;mm uu;mu	1
+大柳樹	da;ad lq;mm uu;mc	1
+大柳樹	da;ad lq;mm uu;mu	1
 赤坎	ii;ty kj;tq	1
 赤坎	ii;tb kj;tq	1
 白石橋	bl;pa ui;kp qc;mq	1
@@ -13390,8 +13390,8 @@ use_preset_vocabulary: false
 樟村	vh;mv cp;mc	1
 大德路	da;ad de;xx lu;zg	1
 大德路	da;ad de;rx lu;zg	1
-大德路	da;hd de;xx lu;zg	1
-大德路	da;hd de;rx lu;zg	1
+大德路	da;ad de;xx lu;zg	1
+大德路	da;ad de;rx lu;zg	1
 六二三路	lq;wb er;aa sj;aa lu;zg	1
 左安門	zo;gu an;bn mf;aa	1
 三江並流	sj;aa jd;dg by;qy lq;di	1
@@ -13419,14 +13419,14 @@ use_preset_vocabulary: false
 施秉	ui;fy by;pd	1
 核桃園	he;mh tk;mv yr;ky	1
 金碧路	jn;ra bi;ub lu;zg	1
-大學城南	da;hd xt;jz ig;ti nj;ua	1
+大學城南	da;ad xt;jz ig;ti nj;ua	1
 寶雞文理學院	bk;bb ji;vx wf;dd li;wl xt;zb yr;ew	1
 寶雞文理學院	bk;bb ji;vx wf;dd li;wl xt;jz yr;ew	1
 仰天湖	yh;ry tm;ad hu;dh	1
 仰天湖	yh;ry tm;hd hu;dh	1
 仰天湖	yh;re tm;ad hu;dh	1
 仰天湖	yh;re tm;hd hu;dh	1
-南山大道	nj;ua uj;aa da;hd dk;zu	1
+南山大道	nj;ua uj;aa da;ad dk;zu	1
 花木路	hw;ch mu;ad lu;zg	1
 花木路	hw;ch mu;hd lu;zg	1
 右江	yb;ku jd;dg	1
@@ -13448,8 +13448,8 @@ use_preset_vocabulary: false
 塔克拉瑪干	ta;td ke;ux la;fl ma;wm gj;aa	1
 大差市	da;ad ia;yg ui;dj	1
 大差市	da;ad ia;yg ui;wj	1
-大差市	da;hd ia;yg ui;dj	1
-大差市	da;hd ia;yg ui;wj	1
+大差市	da;ad ia;yg ui;dj	1
+大差市	da;ad ia;yg ui;wj	1
 美麗新世界	mz;dy li;ll xn;jq ui;ca jx;tj	1
 和平中	he;hk py;aa vs;aa	1
 泰康路	tl;fu kh;gl lu;zg	1
@@ -13474,7 +13474,7 @@ use_preset_vocabulary: false
 馬坊	ma;hh fh;tf	1
 馬坊	ma;hd fh;tf	1
 馬坊	ma;ah fh;tf	1
-大覺寺	da;hd jt;jb si;ct	1
+大覺寺	da;ad jt;jb si;ct	1
 礦機	kd;ug ji;mj	1
 花園新村	hw;ch yr;ky xn;jq cp;mc	1
 舊機動車交易市場	jq;cj ji;mj ds;lv ie;aa jc;wf yi;ow ui;wj ih;ty	1
@@ -13510,8 +13510,8 @@ use_preset_vocabulary: false
 青新	qy;of xn;jq	1
 羅城縣	lo;sv ig;ti xm;xx	1
 羅城縣	lo;sw ig;ti xm;xx	1
-工會大樓	gs;aa hv;ro da;hd lb;ml	1
-大望京	da;hd wh;wo jy;wx	1
+工會大樓	gs;aa hv;ro da;ad lb;ml	1
+大望京	da;ad wh;wo jy;wx	1
 茶林	ia;cm ln;mm	1
 康樂路	kh;gl le;my lu;zg	1
 康樂路	kh;gl le;bm lu;zg	1
@@ -13531,7 +13531,7 @@ use_preset_vocabulary: false
 上黃	uh;uh hd;cb	1
 上黃	uh;bh hd;cb	1
 金魚池	jn;ra yu;dd ii;dy	1
-廣安大街	gd;gh an;bn da;hd jx;xg	1
+廣安大街	gd;gh an;bn da;ad jx;xg	1
 陳山	if;ed uj;uu	1
 陳山	if;ed uj;aa	1
 新平縣	xn;jq py;hu xm;xx	1
@@ -13566,13 +13566,13 @@ use_preset_vocabulary: false
 順義公安分局	up;yi yi;yw gs;sb an;bn ff;bd ju;uk	1
 順義公安分局	up;yi yi;yw gs;sb an;bn ff;db ju;uk	1
 遼大	lc;zl da;ad	1
-遼大	lc;zl da;hd	1
+遼大	lc;zl da;ad	1
 遼大	lc;zx da;ad	1
-遼大	lc;zx da;hd	1
+遼大	lc;zx da;ad	1
 大汶口	da;ad wf;dw kb;aa	1
 大汶口	da;ad wf;dw kb;uh	1
-大汶口	da;hd wf;dw kb;aa	1
-大汶口	da;hd wf;dw kb;uh	1
+大汶口	da;ad wf;dw kb;aa	1
+大汶口	da;ad wf;dw kb;uh	1
 繁昌	fj;sm ih;rr	1
 繁昌	fj;sm ih;oo	1
 磨盤山	mo;um pj;mb uj;uu	1
@@ -13614,8 +13614,8 @@ use_preset_vocabulary: false
 雙林	ud;vy ln;mm	1
 大山村	da;ad uj;uu cp;mc	1
 大山村	da;ad uj;aa cp;mc	1
-大山村	da;hd uj;uu cp;mc	1
-大山村	da;hd uj;aa cp;mc	1
+大山村	da;ad uj;uu cp;mc	1
+大山村	da;ad uj;aa cp;mc	1
 紅照壁	hs;sg vk;dv bi;tb	1
 紅照壁	hs;sg vk;dv bi;tx	1
 紅照壁	hs;sg vk;hv bi;tb	1
@@ -13634,7 +13634,7 @@ use_preset_vocabulary: false
 陝西路	uj;ej xi;aa lu;zg	1
 陝西路	uj;ej xi;hh lu;zg	1
 鐵道大廈	tx;jg dk;zu da;ad ua;gx	1
-鐵道大廈	tx;jg dk;zu da;hd ua;gx	1
+鐵道大廈	tx;jg dk;zu da;ad ua;gx	1
 栗子坪	li;xm zi;aa py;tp	1
 栗子坪	li;xm zi;vh py;tp	1
 遵義市紅花崗區	zp;zz yi;yw ui;dj hs;sg hw;ch gh;ug qu;kp	1
@@ -13713,7 +13713,7 @@ use_preset_vocabulary: false
 江心島	jd;dg xn;dd dk;nu	1
 長亭	ih;ad ty;wd	1
 大盛	da;ad ug;mi	1
-大盛	da;hd ug;mi	1
+大盛	da;ad ug;mi	1
 通榆	ts;zy yu;my	1
 西道口	xi;aa dk;zu kb;aa	1
 西道口	xi;aa dk;zu kb;uh	1
@@ -13768,8 +13768,8 @@ use_preset_vocabulary: false
 市二宮	ui;wj er;hh gs;bl	1
 大智路	da;ad vi;ov lu;zg	1
 大智路	da;ad vi;rv lu;zg	1
-大智路	da;hd vi;ov lu;zg	1
-大智路	da;hd vi;rv lu;zg	1
+大智路	da;ad vi;ov lu;zg	1
+大智路	da;ad vi;rv lu;zg	1
 鳳台路	fg;jn tl;sk lu;zg	1
 南湖花園	nj;uu hu;dh hw;ch yr;ky	1
 南湖花園	nj;ua hu;dh hw;ch yr;ky	1
@@ -13779,8 +13779,8 @@ use_preset_vocabulary: false
 香坊	xd;ho fh;tf	1
 大寨路	da;ad vl;mb lu;zg	1
 大寨路	da;ad vl;bm lu;zg	1
-大寨路	da;hd vl;mb lu;zg	1
-大寨路	da;hd vl;bm lu;zg	1
+大寨路	da;ad vl;mb lu;zg	1
+大寨路	da;ad vl;bm lu;zg	1
 花石	hw;ch ui;kp	1
 花石	hw;ch ui;pk	1
 花石	hw;ch ui;aa	1
@@ -13796,7 +13796,7 @@ use_preset_vocabulary: false
 建設東路	jm;zy ue;yu ds;hd lu;zg	1
 建設東路	jm;zy ue;yu ds;mr lu;zg	1
 建設東路	jm;zy ue;yu ds;mo lu;zg	1
-南方大廈	nj;ua fh;wd da;hd ua;gx	1
+南方大廈	nj;ua fh;wd da;ad ua;gx	1
 金平縣	jn;ra py;aa xm;xx	1
 西新	xi;aa xn;jq	1
 西新	xi;hh xn;jq	1
@@ -13864,9 +13864,9 @@ use_preset_vocabulary: false
 茅家埠	mk;cm jw;bu bu;tf	1
 茅家埠	mk;cm jw;bu bu;tu	1
 徐浦大橋	xu;xy pu;df da;ad qc;mq	1
-徐浦大橋	xu;xy pu;df da;hd qc;mq	1
+徐浦大橋	xu;xy pu;df da;ad qc;mq	1
 徐浦大橋	xu;ry pu;df da;ad qc;mq	1
-徐浦大橋	xu;ry pu;df da;hd qc;mq	1
+徐浦大橋	xu;ry pu;df da;ad qc;mq	1
 泮溪酒家	pj;db xi;dx jq;dy jw;bu	1
 化纖廠	hw;rb xm;sg ih;gw	1
 化纖廠	hw;rb xm;sg ih;gi	1
@@ -13907,7 +13907,7 @@ use_preset_vocabulary: false
 銅山縣	ts;jt uj;uu xm;xx	1
 銅山縣	ts;jt uj;aa xm;xx	1
 大莊	da;ad vd;cv	1
-大莊	da;hd vd;cv	1
+大莊	da;ad vd;cv	1
 桃源路	tk;mv yr;dy lu;zg	1
 五廠	wu;aa ih;gw	1
 五廠	wu;aa ih;gi	1
@@ -13938,8 +13938,8 @@ use_preset_vocabulary: false
 白石路	bl;pa ui;kp lu;zg	1
 人大辦	rf;pd da;ad bj;lx	1
 人大辦	rf;pd da;ad bj;xx	1
-人大辦	rf;pd da;hd bj;lx	1
-人大辦	rf;pd da;hd bj;xx	1
+人大辦	rf;pd da;ad bj;lx	1
+人大辦	rf;pd da;ad bj;xx	1
 小碼頭	xc;ud ma;um tb;yd	1
 小碼頭	xc;ud ma;um tb;dy	1
 小碼頭	xc;ad ma;um tb;yd	1
@@ -13975,7 +13975,7 @@ use_preset_vocabulary: false
 文海	wf;dd hl;dm	1
 白馬河	bl;pa ma;ad he;dk	1
 定安路	dy;bp an;bn lu;zg	1
-西外大街	xi;aa wl;xb da;hd jx;xg	1
+西外大街	xi;aa wl;xb da;ad jx;xg	1
 郎溪路	lh;el xi;dx lu;zg	1
 揭東	jx;fh ds;ad	1
 揭東	jx;fh ds;hd	1
@@ -14022,7 +14022,7 @@ use_preset_vocabulary: false
 北蔡	bz;bj cl;cj	1
 北蔡	bz;ap cl;cj	1
 大坪村	da;ad py;tp cp;mc	1
-大坪村	da;hd py;tp cp;mc	1
+大坪村	da;ad py;tp cp;mc	1
 馬家河	ma;ad jw;bu he;dk	1
 馬家河	ma;hh jw;bu he;dk	1
 馬家河	ma;hd jw;bu he;dk	1
@@ -14038,7 +14038,7 @@ use_preset_vocabulary: false
 塗山	tu;tt uj;uu	1
 塗山	tu;tt uj;aa	1
 珠海港	vu;wv hl;dm gh;dx	1
-東風大橋	ds;ad fg;ji da;hd qc;mq	1
+東風大橋	ds;ad fg;ji da;ad qc;mq	1
 區中醫院	qu;kp vs;aa yi;yu yr;ew	1
 瓦屋山	wa;ad wu;uv uj;uu	1
 瓦屋山	wa;ad wu;uv uj;aa	1
@@ -14088,7 +14088,7 @@ use_preset_vocabulary: false
 仰義	yh;ry yi;yw	1
 仰義	yh;re yi;yw	1
 大源村	da;ad yr;dy cp;mc	1
-大源村	da;hd yr;dy cp;mc	1
+大源村	da;ad yr;dy cp;mc	1
 博愛家園	bo;uc ai;vw jw;bu yr;ky	1
 博愛家園	bo;uc ai;xw jw;bu yr;ky	1
 博愛家園	bo;uf ai;vw jw;bu yr;ky	1
@@ -14116,11 +14116,11 @@ use_preset_vocabulary: false
 開關廠	kl;mk gr;mu ih;gw	1
 開關廠	kl;mk gr;mu ih;gi	1
 大河村	da;ad he;dk cp;mc	1
-大河村	da;hd he;dk cp;mc	1
+大河村	da;ad he;dk cp;mc	1
 大鄉	da;ad xd;el	1
 大鄉	da;ad xd;xl	1
-大鄉	da;hd xd;el	1
-大鄉	da;hd xd;xl	1
+大鄉	da;ad xd;el	1
+大鄉	da;ad xd;xl	1
 次渠	ci;dq qu;mj	1
 烏恰	wu;pd qw;xh	1
 烏恰	wu;ph qw;xh	1
@@ -14151,7 +14151,7 @@ use_preset_vocabulary: false
 金新	jn;rh xn;jq	1
 金新	jn;ra xn;jq	1
 金新	jn;ph xn;jq	1
-北大地	bz;ap da;hd di;ty	1
+北大地	bz;ap da;ad di;ty	1
 新江	xn;jq jd;dg	1
 順峯	up;yi fg;uf	1
 石門坎	ui;kp mf;aa kj;tq	1
@@ -14200,8 +14200,8 @@ use_preset_vocabulary: false
 市場街	ui;wj ih;ty jx;xg	1
 農林大學	ns;qi ln;mm da;ad xt;zb	1
 農林大學	ns;qi ln;mm da;ad xt;jz	1
-農林大學	ns;qi ln;mm da;hd xt;zb	1
-農林大學	ns;qi ln;mm da;hd xt;jz	1
+農林大學	ns;qi ln;mm da;ad xt;zb	1
+農林大學	ns;qi ln;mm da;ad xt;jz	1
 西王母	xi;aa wh;aa mu;ad	1
 控江路	ks;fk jd;dg lu;zg	1
 供銷聯社	gs;rg xc;jx lm;eu ue;ut	1
@@ -14229,7 +14229,7 @@ use_preset_vocabulary: false
 盧龍	lu;hm ls;lg	1
 盧龍	lu;hm ls;dg	1
 五緣灣	wu;aa yr;st wj;dg	1
-日報大廈	ri;aa bk;ex da;hd ua;gx	1
+日報大廈	ri;aa bk;ex da;ad ua;gx	1
 西安中學	xi;aa an;bn vs;aa xt;jz	1
 安徽省利辛縣	an;bn hv;xw ug;ou li;dh xn;lu xm;xx	1
 幸福花園	xy;ty fu;ut hw;ch yr;ky	1
@@ -14288,7 +14288,7 @@ use_preset_vocabulary: false
 尚志市	uh;xk vi;xu ui;wj	1
 隆林	ls;eu ln;mm	1
 大同村	da;ad ts;kk cp;mc	1
-大同村	da;hd ts;kk cp;mc	1
+大同村	da;ad ts;kk cp;mc	1
 聯城	lm;eu ig;ti	1
 聯城	lm;ea ig;ti	1
 南海路	nj;uu hl;dm lu;zg	1
@@ -14305,12 +14305,12 @@ use_preset_vocabulary: false
 錦繡花園	jn;jj xq;ss hw;ch yr;ky	1
 錦繡花園	jn;jb xq;ss hw;ch yr;ky	1
 黔陽	qm;hj yh;ey	1
-工業大廈	gs;aa ye;yl da;hd ua;gx	1
+工業大廈	gs;aa ye;yl da;ad ua;gx	1
 北太平莊	bz;ap tl;dd py;aa vd;cv	1
 印度次大陸	yn;pe du;gy ci;dq da;ad lu;et	1
-印度次大陸	yn;pe du;gy ci;dq da;hd lu;et	1
+印度次大陸	yn;pe du;gy ci;dq da;ad lu;et	1
 印度次大陸	yn;ey du;gy ci;dq da;ad lu;et	1
-印度次大陸	yn;ey du;gy ci;dq da;hd lu;et	1
+印度次大陸	yn;ey du;gy ci;dq da;ad lu;et	1
 南門橋	nj;ua mf;aa qc;mq	1
 遼寧省阜新市	lc;zl ny;bd ug;ou fu;uk xn;jq ui;wj	1
 南皮	nj;ua pi;ya	1
@@ -14344,7 +14344,7 @@ use_preset_vocabulary: false
 水化	uv;ud hw;rb	1
 水化	uv;uv hw;rb	1
 水化	uv;ad hw;rb	1
-大興村	da;hd xy;ba cp;mc	1
+大興村	da;ad xy;ba cp;mc	1
 燕都	yj;ch db;ev	1
 燕都	yj;cd db;ev	1
 燕都	yj;db db;ev	1
@@ -14353,7 +14353,7 @@ use_preset_vocabulary: false
 豐禾路	fg;ud he;pm lu;zg	1
 豐禾路	fg;df he;pd lu;zg	1
 豐禾路	fg;df he;pm lu;zg	1
-北華大學	bz;ap hw;ca da;hd xt;jz	1
+北華大學	bz;ap hw;ca da;ad xt;jz	1
 沙坡	ua;du po;tp	1
 鯉魚池	li;yl yu;dh ii;dy	1
 鯉魚池	li;yl yu;dd ii;dy	1
@@ -14386,10 +14386,10 @@ use_preset_vocabulary: false
 北路口	bz;ap lu;zg kb;aa	1
 文莊	wf;dd vd;cv	1
 愛羣大廈	ai;vw qp;yj da;ad ua;gx	1
-愛羣大廈	ai;vw qp;yj da;hd ua;gx	1
+愛羣大廈	ai;vw qp;yj da;ad ua;gx	1
 愛羣大廈	ai;xw qp;yj da;ad ua;gx	1
-愛羣大廈	ai;xw qp;yj da;hd ua;gx	1
-南大橋	nj;ua da;hd qc;mq	1
+愛羣大廈	ai;xw qp;yj da;ad ua;gx	1
+南大橋	nj;ua da;ad qc;mq	1
 和豐	he;hk fg;ud	1
 和豐	he;hk fg;df	1
 水磨溝	uv;ad mo;mu gb;dg	1
@@ -14414,7 +14414,7 @@ use_preset_vocabulary: false
 龍山路	ls;dg uj;uu lu;zg	1
 龍山路	ls;dg uj;aa lu;zg	1
 石龍路	ui;kp ls;dg lu;zg	1
-大慶石油管理局	da;hd qy;gw ui;kp yb;dy gr;vg li;wl ju;uk	1
+大慶石油管理局	da;ad qy;gw ui;kp yb;dy gr;vg li;wl ju;uk	1
 三里亭	sj;aa li;aa ty;wd	1
 營城子	yy;hl ig;ti zi;aa	1
 營城子	yy;hl ig;ti zi;vh	1
@@ -14445,7 +14445,7 @@ use_preset_vocabulary: false
 開福寺路	kl;mk fu;ut si;ct lu;zg	1
 開福寺路	kl;mk fu;uf si;tc lu;zg	1
 開福寺路	kl;mk fu;uf si;ct lu;zg	1
-白雲大道北	bl;pa yp;yy da;hd dk;zu bz;ap	1
+白雲大道北	bl;pa yp;yy da;ad dk;zu bz;ap	1
 三義	sj;aa yi;yw	1
 三義	sj;hh yi;yw	1
 國際學術交流中心	go;kh ji;ej xt;jz uu;xi jc;wf lq;di vs;aa xn;dd	1
@@ -14508,7 +14508,7 @@ use_preset_vocabulary: false
 順峯山公園	up;yi fg;uf uj;uu gs;sb yr;ky	1
 順峯山公園	up;yi fg;uf uj;aa gs;bs yr;ky	1
 順峯山公園	up;yi fg;uf uj;aa gs;sb yr;ky	1
-中銀大廈	vs;aa yn;jg da;hd ua;gx	1
+中銀大廈	vs;aa yn;jg da;ad ua;gx	1
 龍華人民醫院	ls;dg hw;ca rf;pd mn;ag yi;yu yr;ew	1
 四惠東站	si;ke hv;xh ds;ad vj;lv	1
 房地產交易市場	fh;hf di;ty ij;wu jc;wf yi;ow ui;wj ih;ty	1
@@ -14583,7 +14583,7 @@ use_preset_vocabulary: false
 文家市	wf;dd jw;bu ui;wj	1
 小草湖	xc;ud ck;cz hu;dh	1
 小草湖	xc;ad ck;cz hu;dh	1
-南北大街	nj;ua bz;ap da;hd jx;xg	1
+南北大街	nj;ua bz;ap da;ad jx;xg	1
 麒麟門	qi;lq ln;ll mf;xa	1
 麒麟門	qi;lq ln;ll mf;xu	1
 麒麟門	qi;lq ln;ll mf;vh	1
@@ -14634,9 +14634,9 @@ use_preset_vocabulary: false
 澗西	jm;dj xi;hh	1
 都安縣	db;ev an;bn xm;xx	1
 工業品市場	gs;aa ye;yl pn;kk ui;wj ih;ty	1
-大庸	da;hd ys;ga	1
+大庸	da;ad ys;ga	1
 彩虹城	cl;pc hs;ig ig;ti	1
-東北大馬路	ds;ad bz;ap da;hd ma;ad lu;zg	1
+東北大馬路	ds;ad bz;ap da;ad ma;ad lu;zg	1
 豐益橋	fg;ud yi;mb qc;mq	1
 豐益橋	fg;df yi;mb qc;mq	1
 財經學校	cl;bc jy;sj xt;zb xc;mj	1
@@ -14661,7 +14661,7 @@ use_preset_vocabulary: false
 洋中	yh;dy vs;ku	1
 洋中	yh;dy vs;ka	1
 正覺寺	vg;av jt;jb si;ct	1
-中國公安大學	vs;aa go;kh gs;sb an;bn da;hd xt;jz	1
+中國公安大學	vs;aa go;kh gs;sb an;bn da;ad xt;jz	1
 北沙灘	bz;hp ua;du tj;dn	1
 北沙灘	bz;bj ua;du tj;dn	1
 北沙灘	bz;ap ua;du tj;dn	1
@@ -14708,10 +14708,10 @@ use_preset_vocabulary: false
 新建路口	xn;jq jm;zy lu;zg kb;aa	1
 新建路口	xn;jq jm;zy lu;zg kb;uh	1
 石碁	ui;kp qi;qu	1
-海事大學	hl;dm ui;aa da;hd xt;jz	1
+海事大學	hl;dm ui;aa da;ad xt;jz	1
 大池	da;ad ii;dy	1
-大池	da;hd ii;dy	1
-回龍觀東大街	hv;kk ls;dg gr;jv ds;ad da;hd jx;xg	1
+大池	da;ad ii;dy	1
+回龍觀東大街	hv;kk ls;dg gr;jv ds;ad da;ad jx;xg	1
 陸河	lu;et he;dk	1
 龍井市	ls;dg jy;aa ui;wj	1
 白雲賓館	bl;pr yp;yy bn;bb gr;ug	1
@@ -14751,7 +14751,7 @@ use_preset_vocabulary: false
 指揮學校	vi;fv hv;fj xt;zb xc;mj	1
 指揮學校	vi;fv hv;fj xt;jz xc;mj	1
 塘底	th;tt di;gd	1
-世界花卉大觀園	ui;ca jx;tj hw;ch hv;cu da;hd gr;jv yr;ky	1
+世界花卉大觀園	ui;ca jx;tj hw;ch hv;cu da;ad gr;jv yr;ky	1
 平海路	py;hu hl;dm lu;zg	1
 平海路	py;aa hl;dm lu;zg	1
 平海路	py;gb hl;dm lu;zg	1
@@ -14765,12 +14765,12 @@ use_preset_vocabulary: false
 龍潭路	ls;lg tj;dt lu;zg	1
 龍潭路	ls;dg tj;dt lu;zg	1
 同志街	ts;kk vi;xu jx;xg	1
-黃河北大街	hd;cb he;dk bz;ap da;hd jx;xg	1
+黃河北大街	hd;cb he;dk bz;ap da;ad jx;xg	1
 華樂街	hw;ca le;bm jx;xg	1
 羅沙路	lo;sv ua;du lu;zg	1
 羅沙路	lo;sw ua;du lu;zg	1
 五馬路	wu;aa ma;ad lu;zg	1
-大學城北	da;hd xt;jz ig;ti bz;ap	1
+大學城北	da;ad xt;jz ig;ti bz;ap	1
 河北省霸州市	he;dk bz;ap ug;ou ba;yo vb;id ui;wj	1
 中黃	vs;aa hd;cb	1
 中黃	vs;uu hd;cb	1
@@ -14836,8 +14836,8 @@ use_preset_vocabulary: false
 狼山	lh;ql uj;aa	1
 清河橋	qy;dq he;dk qc;mq	1
 李家莊	li;mz jw;bu vd;cv	1
-龍東大道	ls;dg ds;ad da;hd dk;zu	1
-塔里木大學	ta;td li;aa mu;ad da;hd xt;jz	1
+龍東大道	ls;dg ds;ad da;ad dk;zu	1
+塔里木大學	ta;td li;aa mu;ad da;ad xt;jz	1
 溫泉山莊	wf;dm qr;ub uj;aa vd;cv	1
 儀表廠	yi;ry bc;fy ih;gw	1
 儀表廠	yi;ry bc;fy ih;gi	1
@@ -14852,15 +14852,15 @@ use_preset_vocabulary: false
 沙頭角海關	ua;du tb;dy jc;dy hl;dm gr;mu	1
 北京野生動物園	bz;ap jy;wx ye;yl ug;na ds;lv wu;nw yr;ky	1
 北正街	bz;ap vg;av jx;xg	1
-大山子	da;hd uj;aa zi;aa	1
+大山子	da;ad uj;aa zi;aa	1
 永豐立交	ys;dd fg;ud li;da jc;wf	1
 三水廠	sj;aa uv;ad ih;gi	1
 鄒容路	zb;ec rs;bg lu;zg	1
 鄒容路	zb;ei rs;bg lu;zg	1
 大化縣	da;ad hw;rb xm;xx	1
-大化縣	da;hd hw;rb xm;xx	1
+大化縣	da;ad hw;rb xm;xx	1
 同心村	ts;kk xn;dd cp;mc	1
-大武口	da;hd wu;yv kb;aa	1
+大武口	da;ad wu;yv kb;aa	1
 青龍峽	qy;of ls;dg xw;uj	1
 二七新村	er;aa qi;hg xn;jq cp;mc	1
 二七新村	er;aa qi;ag xn;jq cp;mc	1
@@ -14875,8 +14875,8 @@ use_preset_vocabulary: false
 紫竹橋	zi;sc vu;gg qc;mq	1
 大成路	da;ad ig;wg lu;zg	1
 大成路	da;ad ig;gg lu;zg	1
-大成路	da;hd ig;wg lu;zg	1
-大成路	da;hd ig;gg lu;zg	1
+大成路	da;ad ig;wg lu;zg	1
+大成路	da;ad ig;gg lu;zg	1
 南山法院	nj;ua uj;aa fa;dq yr;ew	1
 化龍巷	hw;rb ls;lg xd;sg	1
 化龍巷	hw;rb ls;lg xd;gs	1
@@ -14904,7 +14904,7 @@ use_preset_vocabulary: false
 六村堡	lq;dd cp;mc bk;tb	1
 六村堡	lq;db cp;mc bk;tb	1
 全椒路	qr;rw jc;mu lu;zg	1
-北大橋	bz;ap da;hd qc;mq	1
+北大橋	bz;ap da;ad qc;mq	1
 麟遊	ln;ll yb;zy	1
 麟遊	ln;ll yb;zz	1
 平谷區政府	py;aa gu;kr qu;kp vg;wv fu;gf	1
@@ -14922,8 +14922,8 @@ use_preset_vocabulary: false
 湖北省黃梅縣	hu;dh bz;ap ug;ou hd;cb mz;mm xm;xx	1
 大鄉村	da;ad xd;el cp;mc	1
 大鄉村	da;ad xd;xl cp;mc	1
-大鄉村	da;hd xd;el cp;mc	1
-大鄉村	da;hd xd;xl cp;mc	1
+大鄉村	da;ad xd;el cp;mc	1
+大鄉村	da;ad xd;xl cp;mc	1
 機車廠	ji;mj ie;aa ih;gw	1
 機車廠	ji;mj ie;aa ih;gi	1
 機車廠	ji;mj ie;hh ih;gw	1
@@ -14962,7 +14962,7 @@ use_preset_vocabulary: false
 王家溝	wh;hh jw;bu gb;dr	1
 王家溝	wh;hh jw;bu gb;dg	1
 山東省寧津縣	uj;aa ds;ad ug;ou ny;bd jn;dy xm;xx	1
-西部大道	xi;aa bu;ek da;hd dk;zu	1
+西部大道	xi;aa bu;ek da;ad dk;zu	1
 禾豐	he;pd fg;ud	1
 禾豐	he;pd fg;df	1
 禾豐	he;pm fg;ud	1
@@ -15044,13 +15044,13 @@ use_preset_vocabulary: false
 白沙村	bl;po ua;du cp;mc	1
 武威路	wu;yv wz;gn lu;zg	1
 江灣大橋	jd;dg wj;dw da;ad qc;mq	1
-江灣大橋	jd;dg wj;dw da;hd qc;mq	1
+江灣大橋	jd;dg wj;dw da;ad qc;mq	1
 江灣大橋	jd;dg wj;dg da;ad qc;mq	1
-江灣大橋	jd;dg wj;dg da;hd qc;mq	1
+江灣大橋	jd;dg wj;dg da;ad qc;mq	1
 大陽溝	da;ad yh;ey gb;dr	1
 大陽溝	da;ad yh;ey gb;dg	1
-大陽溝	da;hd yh;ey gb;dr	1
-大陽溝	da;hd yh;ey gb;dg	1
+大陽溝	da;ad yh;ey gb;dr	1
+大陽溝	da;ad yh;ey gb;dg	1
 陽光廣場	yh;ey gd;eh gd;gh ih;ty	1
 陽光廣場	yh;ey gd;ea gd;gh ih;ty	1
 陽光廣場	yh;ey gd;xw gd;gh ih;ty	1
@@ -15093,9 +15093,9 @@ use_preset_vocabulary: false
 老爺廟	lk;lb ye;fy mc;gi	1
 月山	yt;pa uj;aa	1
 浙師大	ve;dv ui;vb da;ad	1
-浙師大	ve;dv ui;vb da;hd	1
+浙師大	ve;dv ui;vb da;ad	1
 浙師大	ve;dv ui;bv da;ad	1
-浙師大	ve;dv ui;bv da;hd	1
+浙師大	ve;dv ui;bv da;ad	1
 高安路	gk;dk an;bn lu;zg	1
 高安路	gk;wk an;bn lu;zg	1
 黃樓	hd;cb lb;ml	1
@@ -15114,7 +15114,7 @@ use_preset_vocabulary: false
 清暉園	qy;dq hv;oj yr;ky	1
 清暉園	qy;dq hv;rj yr;ky	1
 大沖村	da;ad is;dv cp;mc	1
-大沖村	da;hd is;dv cp;mc	1
+大沖村	da;ad is;dv cp;mc	1
 東昇村	ds;ad ug;ou cp;mc	1
 洮南市	tk;dv nj;ua ui;wj	1
 九華山莊	jq;py hw;ch uj;uu vd;cv	1
@@ -15133,9 +15133,9 @@ use_preset_vocabulary: false
 新光路	xn;jq gd;ea lu;zg	1
 新光路	xn;jq gd;xw lu;zg	1
 創業大道	id;dc ye;yw da;ad dk;zu	1
-創業大道	id;dc ye;yw da;hd dk;zu	1
+創業大道	id;dc ye;yw da;ad dk;zu	1
 創業大道	id;dc ye;yl da;ad dk;zu	1
-創業大道	id;dc ye;yl da;hd dk;zu	1
+創業大道	id;dc ye;yl da;ad dk;zu	1
 九華山路	jq;py hw;ch uj;uu lu;zg	1
 九華山路	jq;py hw;ch uj;aa lu;zg	1
 九華山路	jq;py hw;ca uj;uu lu;zg	1
@@ -15148,9 +15148,9 @@ use_preset_vocabulary: false
 魯巷廣場	lu;yr xd;gs gd;gh ih;ty	1
 濰城	wz;dw ig;ti	1
 電力大	dm;yg li;gp da;ad	1
-電力大	dm;yg li;gp da;hd	1
+電力大	dm;yg li;gp da;ad	1
 電力大	dm;yd li;gp da;ad	1
-電力大	dm;yd li;gp da;hd	1
+電力大	dm;yd li;gp da;ad	1
 石頭村	ui;kp tb;dy cp;mc	1
 金龍村	jn;ra ls;dg cp;mc	1
 廣安門內	gd;gh an;bn mf;xa nz;kr	1
@@ -15163,9 +15163,9 @@ use_preset_vocabulary: false
 梧田	wu;mw tm;aa	1
 梧田	wu;mw tm;uh	1
 解放大橋	jx;jn fh;wf da;ad qc;mq	1
-解放大橋	jx;jn fh;wf da;hd qc;mq	1
+解放大橋	jx;jn fh;wf da;ad qc;mq	1
 解放大橋	jx;jn fh;fw da;ad qc;mq	1
-解放大橋	jx;jn fh;fw da;hd qc;mq	1
+解放大橋	jx;jn fh;fw da;ad qc;mq	1
 五里村	wu;aa li;aa cp;mc	1
 觀沙嶺	gr;jv ua;du ly;ul	1
 景寧縣	jy;oj ny;bd xm;xx	1
@@ -15188,7 +15188,7 @@ use_preset_vocabulary: false
 中心客運站	vs;uu xn;dd ke;bg yp;zj vj;lv	1
 中心客運站	vs;ku xn;dd ke;bg yp;zj vj;lv	1
 中心客運站	vs;ka xn;dd ke;bg yp;zj vj;lv	1
-長沙大學	ih;ad ua;du da;hd xt;jz	1
+長沙大學	ih;ad ua;du da;ad xt;jz	1
 上林苑	uh;aa ln;mm yr;ce	1
 峽山	xw;uj uj;uu	1
 峽山	xw;uj uj;aa	1
@@ -15249,7 +15249,7 @@ use_preset_vocabulary: false
 三聯村	sj;aa lm;ea cp;mc	1
 三聯村	sj;hh lm;eu cp;mc	1
 三聯村	sj;hh lm;ea cp;mc	1
-大連大學	da;hd lm;zi da;hd xt;jz	1
+大連大學	da;ad lm;zi da;ad xt;jz	1
 伊吾	yi;ry wu;wk	1
 伊吾	yi;ry wu;kw	1
 毛家灣	mk;pg jw;bu wj;dw	1
@@ -15279,7 +15279,7 @@ use_preset_vocabulary: false
 親蘇	qn;jq su;ch	1
 親蘇	qn;jq su;cs	1
 九都路	jq;py db;ev lu;zg	1
-發展大廈	fa;du vj;uy da;hd ua;gx	1
+發展大廈	fa;du vj;uy da;ad ua;gx	1
 馬邊縣	ma;ad bm;zf xm;xx	1
 馬邊縣	ma;hh bm;zf xm;xx	1
 馬邊縣	ma;hd bm;zf xm;xx	1
@@ -15309,7 +15309,7 @@ use_preset_vocabulary: false
 吉華路	ji;ku hw;ca lu;zg	1
 吉華路	ji;uk hw;ch lu;zg	1
 吉華路	ji;uk hw;ca lu;zg	1
-朝陽大街	vk;ou yh;ey da;hd jx;xg	1
+朝陽大街	vk;ou yh;ey da;ad jx;xg	1
 東湖村	ds;ad hu;dh cp;mc	1
 東湖村	ds;hd hu;dh cp;mc	1
 東湖村	ds;mr hu;dh cp;mc	1
@@ -15320,12 +15320,12 @@ use_preset_vocabulary: false
 阜埠河路	fu;uk bu;tf he;dk lu;zg	1
 大孤山	da;ad gu;zg uj;uu	1
 大孤山	da;ad gu;zg uj;aa	1
-大孤山	da;hd gu;zg uj;uu	1
-大孤山	da;hd gu;zg uj;aa	1
+大孤山	da;ad gu;zg uj;uu	1
+大孤山	da;ad gu;zg uj;aa	1
 郵電大樓	yb;ei dm;yg da;ad lb;ml	1
-郵電大樓	yb;ei dm;yg da;hd lb;ml	1
+郵電大樓	yb;ei dm;yg da;ad lb;ml	1
 郵電大樓	yb;ei dm;yd da;ad lb;ml	1
-郵電大樓	yb;ei dm;yd da;hd lb;ml	1
+郵電大樓	yb;ei dm;yd da;ad lb;ml	1
 打浦橋	da;fd pu;df qc;mq	1
 七里廟	qi;ag li;aa mc;gi	1
 本溪縣	bf;aa xi;dx xm;xx	1
@@ -15386,8 +15386,8 @@ use_preset_vocabulary: false
 金山村	jn;ra uj;aa cp;mc	1
 大木橋路	da;ad mu;ad qc;mq lu;zg	1
 大木橋路	da;ad mu;hd qc;mq lu;zg	1
-大木橋路	da;hd mu;ad qc;mq lu;zg	1
-大木橋路	da;hd mu;hd qc;mq lu;zg	1
+大木橋路	da;ad mu;ad qc;mq lu;zg	1
+大木橋路	da;ad mu;hd qc;mq lu;zg	1
 林邊	ln;mm bm;zf	1
 陽光驛站	yh;ey gd;eh yi;mx vj;lv	1
 陽光驛站	yh;ey gd;ea yi;mx vj;lv	1
@@ -15397,8 +15397,8 @@ use_preset_vocabulary: false
 城市家園	ig;ti ui;wj jw;bu yr;ky	1
 大寮	da;ad lc;bx	1
 大寮	da;ad lc;bl	1
-大寮	da;hd lc;bx	1
-大寮	da;hd lc;bl	1
+大寮	da;ad lc;bx	1
+大寮	da;ad lc;bl	1
 連村	lm;zi cp;mc	1
 玉蜓橋	yu;ad ty;it qc;mq	1
 玉蜓橋	yu;hd ty;it qc;mq	1
@@ -15452,7 +15452,7 @@ use_preset_vocabulary: false
 南湖村	nj;ua hu;dh cp;mc	1
 南湖村	nj;uy hu;dh cp;mc	1
 大校場	da;ad xc;mj ih;ty	1
-大校場	da;hd xc;mj ih;ty	1
+大校場	da;ad xc;mj ih;ty	1
 邯鄲路	hj;eg dj;ed lu;zg	1
 紫荊路	zi;sc jy;cx lu;zg	1
 北海街	bz;ap hl;dm jx;xg	1
@@ -15462,12 +15462,12 @@ use_preset_vocabulary: false
 石廈	ui;hh ua;gx	1
 石廈	ui;ak ua;gx	1
 工人療養院	gs;aa rf;pd lc;bl yh;yl yr;ew	1
-大石河	da;hd ui;kp he;dk	1
+大石河	da;ad ui;kp he;dk	1
 銀湖汽車站	yn;jg hu;dh qi;dq ie;aa vj;lv	1
 銀湖汽車站	yn;jg hu;dh qi;dq ie;hh vj;lv	1
 西河沿	xi;aa he;dk yj;dk	1
 西河沿	xi;hh he;dk yj;dk	1
-大北窯	da;hd bz;ap yk;bg	1
+大北窯	da;ad bz;ap yk;bg	1
 嶺東	ly;ul ds;ad	1
 嶺東	ly;ul ds;hd	1
 嶺東	ly;ul ds;mr	1
@@ -15479,12 +15479,12 @@ use_preset_vocabulary: false
 玉帶橋	yu;wd dl;jb qc;mq	1
 東昇路	ds;ad ug;ou lu;zg	1
 市六院	ui;wj lq;wb yr;ew	1
-朝外大街	ik;ou wl;xb da;hd jx;xg	1
+朝外大街	ik;ou wl;xb da;ad jx;xg	1
 雙遼市	ud;vy lc;zl ui;wj	1
 大羊坊	da;ad yh;da fh;tf	1
 大羊坊	da;ad yh;du fh;tf	1
-大羊坊	da;hd yh;da fh;tf	1
-大羊坊	da;hd yh;du fh;tf	1
+大羊坊	da;ad yh;da fh;tf	1
+大羊坊	da;ad yh;du fh;tf	1
 龍發	ls;dg fa;du	1
 燕郊開發區	yj;hb jc;ej kl;mk fa;du qu;kp	1
 南苑小區	nj;ua yr;ce xc;ad qu;kp	1
@@ -15498,13 +15498,13 @@ use_preset_vocabulary: false
 浦北	pu;df bz;hp	1
 浦北	pu;df bz;bj	1
 浦北	pu;df bz;ap	1
-華中理工大學	hw;ca vs;aa li;wl gs;aa da;hd xt;jz	1
+華中理工大學	hw;ca vs;aa li;wl gs;aa da;ad xt;jz	1
 五星路	wu;aa xy;ou lu;zg	1
 五星路	wu;aa xy;ru lu;zg	1
 五星路	wu;hh xy;ou lu;zg	1
 五星路	wu;hh xy;ru lu;zg	1
 建設大廈	jm;zy ue;yu da;ad ua;gx	1
-建設大廈	jm;zy ue;yu da;hd ua;gx	1
+建設大廈	jm;zy ue;yu da;ad ua;gx	1
 灃西	fg;dd xi;aa	1
 灃西	fg;dd xi;hh	1
 灃西	fg;df xi;aa	1
@@ -15530,7 +15530,7 @@ use_preset_vocabulary: false
 紅陽	hs;sg yh;ey	1
 坤和	kp;tu he;hk	1
 來南	ll;ad nj;ua	1
-內蒙古工業大學	nz;kr mg;cm gu;uk gs;aa ye;yl da;hd xt;jz	1
+內蒙古工業大學	nz;kr mg;cm gu;uk gs;aa ye;yl da;ad xt;jz	1
 官後	gr;bg hb;rw	1
 官後	gr;bg hb;xw	1
 官後	gr;bk hb;rw	1
@@ -15539,7 +15539,7 @@ use_preset_vocabulary: false
 許前	xu;yw qm;qd	1
 新合	xn;jq he;rk	1
 雪松路	xt;yx ss;mg lu;zg	1
-桂林電子科技大學	gv;mg ln;mm dm;yd zi;aa ke;hd ji;fv da;hd xt;jz	1
+桂林電子科技大學	gv;mg ln;mm dm;yd zi;aa ke;hd ji;fv da;ad xt;jz	1
 株樹橋	vu;mv uu;mc qc;mq	1
 株樹橋	vu;mv uu;mu qc;mq	1
 楊家巷	yh;my jw;bu xd;sg	1
@@ -15604,7 +15604,7 @@ use_preset_vocabulary: false
 隆堯	ls;eu yk;tw	1
 隆堯	ls;eu yk;hz	1
 隆堯	ls;eu yk;wy	1
-大南街	da;hd nj;ua jx;xg	1
+大南街	da;ad nj;ua jx;xg	1
 密雲縣醫院	mi;bu yp;yy xm;xx yi;yu yr;ew	1
 密雲縣醫院	mi;bu yp;yy xm;xx yi;yy yr;ew	1
 密雲縣醫院	mi;ub yp;yy xm;xx yi;yu yr;ew	1
@@ -15615,7 +15615,7 @@ use_preset_vocabulary: false
 財稅學院	cl;bc uv;hd xt;jz yr;ew	1
 金世紀	jn;ra ui;ca ji;sj	1
 布吉農批市場	bu;ju ji;ku ns;qi pi;fb ui;wj ih;ty	1
-工業大道北	gs;aa ye;yl da;hd dk;zu bz;ap	1
+工業大道北	gs;aa ye;yl da;ad dk;zu bz;ap	1
 銀杏路	yn;jg xy;km lu;zg	1
 銀杏路	yn;jg xy;mk lu;zg	1
 綠春	lv;sl ip;of	1
@@ -15725,15 +15725,15 @@ use_preset_vocabulary: false
 東風小學	ds;ad fg;ji xc;ad xt;jz	1
 西藏北路	xi;aa zh;cg bz;ap lu;zg	1
 華僑大廈	hw;ch qc;rq da;ad ua;gx	1
-華僑大廈	hw;ch qc;rq da;hd ua;gx	1
+華僑大廈	hw;ch qc;rq da;ad ua;gx	1
 華僑大廈	hw;ca qc;rq da;ad ua;gx	1
-華僑大廈	hw;ca qc;rq da;hd ua;gx	1
+華僑大廈	hw;ca qc;rq da;ad ua;gx	1
 喬爾瑪	qc;yk er;ay ma;wm	1
 卓刀泉	vo;uo dk;gp qr;ub	1
 市府大樓	ui;dj fu;gf da;ad lb;ml	1
-市府大樓	ui;dj fu;gf da;hd lb;ml	1
+市府大樓	ui;dj fu;gf da;ad lb;ml	1
 市府大樓	ui;wj fu;gf da;ad lb;ml	1
-市府大樓	ui;wj fu;gf da;hd lb;ml	1
+市府大樓	ui;wj fu;gf da;ad lb;ml	1
 金園	jn;pa yr;ky	1
 金園	jn;rh yr;ky	1
 金園	jn;ra yr;ky	1
@@ -15799,7 +15799,7 @@ use_preset_vocabulary: false
 馬關	ma;ad gr;ma	1
 防洪渠	fh;ef hs;dg qu;mj	1
 大渡河路	da;ad du;dd he;dk lu;zg	1
-大渡河路	da;hd du;dd he;dk lu;zg	1
+大渡河路	da;ad du;dd he;dk lu;zg	1
 嶽普湖	yt;uq pu;ob hu;dh	1
 白鹼灘	bl;pr jm;lq tj;dn	1
 白鹼灘	bl;ph jm;lq tj;dn	1
@@ -15810,7 +15810,7 @@ use_preset_vocabulary: false
 後溝	hb;rw gb;dg	1
 後溝	hb;xw gb;dr	1
 後溝	hb;xw gb;dg	1
-大圍山國家森林公園	da;hd wz;kw uj;aa go;kh jw;bu sf;ml ln;mm gs;sb yr;ky	1
+大圍山國家森林公園	da;ad wz;kw uj;aa go;kh jw;bu sf;ml ln;mm gs;sb yr;ky	1
 芙蓉洞	fu;cf rs;cr ds;dt	1
 涼水井	ld;dj uv;ad jy;aa	1
 鹽邊	yj;ml bm;zf	1
@@ -15825,7 +15825,7 @@ use_preset_vocabulary: false
 蓋山	gl;cm uj;aa	1
 蓋山	gl;ch uj;uu	1
 蓋山	gl;ch uj;aa	1
-鼓樓東大街	gu;vd lb;ml ds;ad da;hd jx;xg	1
+鼓樓東大街	gu;vd lb;ml ds;ad da;ad jx;xg	1
 華嚴	hw;ch yj;kg	1
 華嚴	hw;ca yj;kg	1
 春風路	ip;fr fg;ji lu;zg	1
@@ -15840,8 +15840,8 @@ use_preset_vocabulary: false
 虎坊橋	hu;hj fh;tf qc;mq	1
 陝西理工學院	uj;ej xi;aa li;wl gs;aa xt;jz yr;ew	1
 創新大廈	id;dc xn;jq da;ad ua;gx	1
-創新大廈	id;dc xn;jq da;hd ua;gx	1
-紅星大市場	hs;sg xy;ou da;hd ui;wj ih;ty	1
+創新大廈	id;dc xn;jq da;ad ua;gx	1
+紅星大市場	hs;sg xy;ou da;ad ui;wj ih;ty	1
 固陽	gu;kg yh;ey	1
 恭城縣	gs;gx ig;ti xm;xx	1
 恭城縣	gs;xg ig;ti xm;xx	1
@@ -15850,7 +15850,7 @@ use_preset_vocabulary: false
 瓷廠	ci;wc ih;gi	1
 塔什庫爾幹	ta;td uf;ru ku;gi er;ay gj;gu	1
 進港大道	jn;zv gh;dx da;ad dk;zu	1
-進港大道	jn;zv gh;dx da;hd dk;zu	1
+進港大道	jn;zv gh;dx da;ad dk;zu	1
 楊樹浦路	yh;my uu;mc pu;df lu;zg	1
 楊樹浦路	yh;my uu;mu pu;df lu;zg	1
 東直門內	ds;ad vi;aa mf;aa nz;kr	1
@@ -15873,9 +15873,9 @@ use_preset_vocabulary: false
 虎頭山	hu;hj tb;dy uj;aa	1
 致和	vi;wv he;hk	1
 第七大道	di;vp qi;hg da;ad dk;zu	1
-第七大道	di;vp qi;hg da;hd dk;zu	1
+第七大道	di;vp qi;hg da;ad dk;zu	1
 第七大道	di;vp qi;ag da;ad dk;zu	1
-第七大道	di;vp qi;ag da;hd dk;zu	1
+第七大道	di;vp qi;ag da;ad dk;zu	1
 龍坪	ls;lg py;tp	1
 龍坪	ls;dg py;tp	1
 九家灣	jq;py jw;bu wj;dw	1
@@ -15910,7 +15910,7 @@ use_preset_vocabulary: false
 十一區	ui;hu yi;hh qu;kp	1
 十一區	ui;aa yi;aa qu;kp	1
 十一區	ui;aa yi;hh qu;kp	1
-東門大橋	ds;ad mf;aa da;hd qc;mq	1
+東門大橋	ds;ad mf;aa da;ad qc;mq	1
 朱辛莊	vu;pw xn;lu vd;cv	1
 海晏	hl;dm yj;oa	1
 海晏	hl;dm yj;ra	1
@@ -16091,7 +16091,7 @@ use_preset_vocabulary: false
 塬上	yr;ty uh;bh	1
 西濱	xi;aa bn;db	1
 西濱	xi;hh bn;db	1
-江南大道中	jd;dg nj;ua da;hd dk;zu vs;aa	1
+江南大道中	jd;dg nj;ua da;ad dk;zu vs;aa	1
 集新	ji;mv xn;jq	1
 集新	ji;vm xn;jq	1
 皁市	zk;bu ui;dj	1
@@ -16183,8 +16183,8 @@ use_preset_vocabulary: false
 鳳城三路	fg;jn ig;ti sj;hh lu;zg	1
 大營盤	da;ad yy;hl pj;mb	1
 大營盤	da;ad yy;lb pj;mb	1
-大營盤	da;hd yy;hl pj;mb	1
-大營盤	da;hd yy;lb pj;mb	1
+大營盤	da;ad yy;hl pj;mb	1
+大營盤	da;ad yy;lb pj;mb	1
 東高地	ds;ad gk;wk di;ty	1
 新港東	xn;jq gh;dx ds;ad	1
 新港東	xn;jq gh;dx ds;hd	1
@@ -16272,7 +16272,7 @@ use_preset_vocabulary: false
 寧夏區	ny;bd xw;aw qu;kp	0
 寧夏區	ny;bd xw;pw qu;kp	0
 龍東	ls;dg ds;ad	0
-大雁塔南廣場	da;hd yj;iv ta;td nj;ua gd;gh ih;ty	0
+大雁塔南廣場	da;ad yj;iv ta;td nj;ua gd;gh ih;ty	0
 東方商城	ds;ad fh;wd uh;wk ig;ti	0
 恆豐路	hg;xa fg;ud lu;zg	0
 信陽地區	xn;ry yh;ey di;ty qu;kp	0
@@ -16331,7 +16331,7 @@ use_preset_vocabulary: false
 二郎廟	er;hh lh;el mc;gi	0
 南后街	nj;ua hb;pk jx;xg	0
 新開路	xn;jq kl;mk lu;zg	0
-大東溝	da;hd ds;ad gb;dg	0
+大東溝	da;ad ds;ad gb;dg	0
 樊窪路	fj;dm wa;bg lu;zg	0
 樊窪路	fj;dm wa;bw lu;zg	0
 樊窪路	fj;dm wa;xg lu;zg	0
@@ -16342,7 +16342,7 @@ use_preset_vocabulary: false
 德令哈市	de;rx ly;rs ha;kh ui;wj	0
 袁家莊	yr;ty jw;bu vd;cv	0
 名都大酒店	my;xk db;ev da;ad jq;dy dm;gv	0
-名都大酒店	my;xk db;ev da;hd jq;dy dm;gv	0
+名都大酒店	my;xk db;ev da;ad jq;dy dm;gv	0
 康樂街	kh;gl le;bm jx;xg	0
 楊家埠	yh;my jw;bu bu;tf	0
 楊家埠	yh;my jw;bu bu;tu	0
@@ -16503,7 +16503,7 @@ use_preset_vocabulary: false
 建設二路	jm;zy ue;yu er;aa lu;zg	0
 建設二路	jm;zy ue;yu er;hh lu;zg	0
 大新路	da;ad xn;jq lu;zg	0
-大新路	da;hd xn;jq lu;zg	0
+大新路	da;ad xn;jq lu;zg	0
 三條巷	sj;aa tc;rt xd;sg	0
 三條巷	sj;aa tc;rt xd;gs	0
 三條巷	sj;hh tc;rt xd;sg	0
@@ -16668,8 +16668,8 @@ use_preset_vocabulary: false
 新峯	xn;jq fg;uf	0
 大修廠	da;ad xq;rp ih;gw	0
 大修廠	da;ad xq;rp ih;gi	0
-大修廠	da;hd xq;rp ih;gw	0
-大修廠	da;hd xq;rp ih;gi	0
+大修廠	da;ad xq;rp ih;gw	0
+大修廠	da;ad xq;rp ih;gi	0
 供銷公司	gs;rg xc;jx gs;sb si;gk	0
 虹梅路	hs;ig mz;mm lu;zg	0
 船營	ir;vk yy;hl	0
@@ -16720,7 +16720,7 @@ use_preset_vocabulary: false
 徐戎三村	xu;xy rs;gu sj;hh cp;mc	0
 徐戎三村	xu;ry rs;gu sj;aa cp;mc	0
 徐戎三村	xu;ry rs;gu sj;hh cp;mc	0
-大青	da;hd qy;of	0
+大青	da;ad qy;of	0
 嘉賓路	jw;uj bn;bb lu;zg	0
 肥鄉	fz;ob xd;el	0
 肥鄉	fz;ob xd;xl	0
@@ -16748,7 +16748,7 @@ use_preset_vocabulary: false
 劉行	lq;dj xy;ri	0
 劉行	lq;dj xy;xd	0
 永平街	ys;dd py;aa jx;xg	0
-大慶石油	da;hd qy;gw ui;kp yb;dy	0
+大慶石油	da;ad qy;gw ui;kp yb;dy	0
 老幾	lk;bl ji;yg	0
 柴村	il;mc cp;mc	0
 密州	mi;bu vb;id	0
@@ -16793,7 +16793,7 @@ use_preset_vocabulary: false
 四知	si;ke vi;uk	0
 達道路	da;zy dk;zu lu;zg	0
 投資大廈	tb;fu zi;bc da;ad ua;gx	0
-投資大廈	tb;fu zi;bc da;hd ua;gx	0
+投資大廈	tb;fu zi;bc da;ad ua;gx	0
 雪嶺	xt;yx ly;ul	0
 安第斯山	an;bn di;vp si;qj uj;uu	0
 安第斯山	an;bn di;vp si;qj uj;aa	0
@@ -16883,9 +16883,9 @@ use_preset_vocabulary: false
 皁角樹	zk;bu jc;dy uu;mc	0
 皁角樹	zk;bu jc;dy uu;mu	0
 菜園壩長江大橋	cl;cc yr;ky ba;tb ih;ad jd;dg da;ad qc;mq	0
-菜園壩長江大橋	cl;cc yr;ky ba;tb ih;ad jd;dg da;hd qc;mq	0
+菜園壩長江大橋	cl;cc yr;ky ba;tb ih;ad jd;dg da;ad qc;mq	0
 菜園壩長江大橋	cl;cc yr;ky ba;tb ih;hd jd;dg da;ad qc;mq	0
-菜園壩長江大橋	cl;cc yr;ky ba;tb ih;hd jd;dg da;hd qc;mq	0
+菜園壩長江大橋	cl;cc yr;ky ba;tb ih;hd jd;dg da;ad qc;mq	0
 南法信	nj;uu fa;dq xn;ry	0
 南法信	nj;ua fa;dq xn;ry	0
 南法信	nj;uy fa;dq xn;ry	0
@@ -16915,7 +16915,7 @@ use_preset_vocabulary: false
 桂山島	gv;mg uj;aa dk;nu	0
 絲綢博物館	si;ss ib;sv bo;uc wu;nw gr;ug	0
 絲綢博物館	si;ss ib;sv bo;uf wu;nw gr;ug	0
-大華錦繡華城	da;hd hw;ca jn;jb xq;ss hw;ca ig;ti	0
+大華錦繡華城	da;ad hw;ca jn;jb xq;ss hw;ca ig;ti	0
 三角山	sj;aa jc;dy uj;uu	0
 三角山	sj;aa jc;dy uj;aa	0
 三角山	sj;hh jc;dy uj;uu	0
@@ -16958,10 +16958,10 @@ use_preset_vocabulary: false
 薩嘎	sa;ci ga;kg	0
 薩嘎	sa;cs ga;kg	0
 精武門	jy;mq wu;yv mf;aa	0
-金山大橋	jn;ra uj;aa da;hd qc;mq	0
+金山大橋	jn;ra uj;aa da;ad qc;mq	0
 翟家	di;yv jw;bu	0
 大墩	da;ad dp;td	0
-大墩	da;hd dp;td	0
+大墩	da;ad dp;td	0
 輕工市場	qy;ig gs;aa ui;wj ih;ty	0
 灕江路	li;dl jd;dg lu;zg	0
 新瑪特	xn;jq ma;wm te;ns	0
@@ -17022,7 +17022,7 @@ use_preset_vocabulary: false
 白雲仔	bl;ph yp;yy zl;rz	0
 白雲仔	bl;pa yp;yy zl;rz	0
 白雲仔	bl;po yp;yy zl;rz	0
-師大二附中	ui;bv da;hd er;aa fu;ef vs;aa	0
+師大二附中	ui;bv da;ad er;aa fu;ef vs;aa	0
 內蒙古電視臺	nz;kr mg;cm gu;uk dm;yd ui;ju tl;uv	0
 井研	jy;hu yj;uk	0
 井研	jy;aa yj;uk	0
@@ -17040,8 +17040,8 @@ use_preset_vocabulary: false
 塔塔爾族	ta;td ta;td er;ay zu;fu	0
 宣大高速	xr;bg da;ad gk;dk su;zu	0
 宣大高速	xr;bg da;ad gk;wk su;zu	0
-宣大高速	xr;bg da;hd gk;dk su;zu	0
-宣大高速	xr;bg da;hd gk;wk su;zu	0
+宣大高速	xr;bg da;ad gk;dk su;zu	0
+宣大高速	xr;bg da;ad gk;wk su;zu	0
 琯頭	gr;wg tb;yd	0
 琯頭	gr;wg tb;dy	0
 板橋河	bj;mf qc;mq he;dk	0
@@ -17100,11 +17100,11 @@ use_preset_vocabulary: false
 永清路	ys;dd qy;dq lu;zg	0
 沙尾	ua;du wz;um	0
 平西府	py;aa xi;aa fu;gf	0
-金山大廈	jn;ra uj;aa da;hd ua;gx	0
+金山大廈	jn;ra uj;aa da;ad ua;gx	0
 餘姚路	yu;uy yk;nv lu;zg	0
 林萃路	ln;mm cv;cz lu;zg	0
 郵政大廈	yb;ei vg;wv da;ad ua;gx	0
-郵政大廈	yb;ei vg;wv da;hd ua;gx	0
+郵政大廈	yb;ei vg;wv da;ad ua;gx	0
 中小河	vs;aa xc;ad he;dk	0
 建湘路	jm;zy xd;dx lu;zg	0
 北林	bz;hp ln;mm	0
@@ -17130,7 +17130,7 @@ use_preset_vocabulary: false
 梅市口路	mz;mm ui;dj kb;uh lu;zg	0
 梅市口路	mz;mm ui;wj kb;aa lu;zg	0
 梅市口路	mz;mm ui;wj kb;uh lu;zg	0
-浙大紫金港校區	ve;dv da;hd zi;sc jn;ra gh;dx xc;mj qu;kp	0
+浙大紫金港校區	ve;dv da;ad zi;sc jn;ra gh;dx xc;mj qu;kp	0
 馬連窪	ma;ad lm;zi wa;bg	0
 中山亭	vs;aa uj;aa ty;wd	0
 張市	vh;gi ui;dj	0
@@ -17138,7 +17138,7 @@ use_preset_vocabulary: false
 同仁路	ts;kk rf;re lu;zg	0
 貢井	gs;bg jy;aa	0
 北京遊樂園	bz;ap jy;wx yb;zy le;bm yr;ky	0
-電力大學	dm;yd li;gp da;hd xt;jz	0
+電力大學	dm;yd li;gp da;ad xt;jz	0
 龍腰	ls;lg yk;oy	0
 龍腰	ls;lg yk;yy	0
 龍腰	ls;dg yk;oy	0
@@ -17184,7 +17184,7 @@ use_preset_vocabulary: false
 華勝	hw;ca ug;ol	0
 澤雅	ze;dx ya;yv	0
 澤雅	ze;dx ya;vy	0
-大西溝	da;hd xi;aa gb;dg	0
+大西溝	da;ad xi;aa gb;dg	0
 礦山機械廠	kd;ug uj;uu ji;mj xx;mj ih;gw	0
 礦山機械廠	kd;ug uj;uu ji;mj xx;mj ih;gi	0
 礦山機械廠	kd;ug uj;aa ji;mj xx;mj ih;gw	0
@@ -17303,16 +17303,16 @@ use_preset_vocabulary: false
 鐵匠營	tx;jg jd;jk yy;lb	0
 大柳塔鎮	da;ad lq;mm ta;td vf;jv	0
 大柳塔鎮	da;ad lq;mm ta;th vf;jv	0
-大柳塔鎮	da;hd lq;mm ta;td vf;jv	0
-大柳塔鎮	da;hd lq;mm ta;th vf;jv	0
+大柳塔鎮	da;ad lq;mm ta;td vf;jv	0
+大柳塔鎮	da;ad lq;mm ta;th vf;jv	0
 中國輕紡城	vs;aa go;kh qy;ig fh;sf ig;ti	0
 福東路	fu;uf ds;ad lu;zg	0
 觀山村	gr;jv uj;uu cp;mc	0
 觀山村	gr;jv uj;aa cp;mc	0
 大唐西域記	da;ad th;gk xi;aa yu;th ji;yj	0
 大唐西域記	da;ad th;gk xi;hh yu;th ji;yj	0
-大唐西域記	da;hd th;gk xi;aa yu;th ji;yj	0
-大唐西域記	da;hd th;gk xi;hh yu;th ji;yj	0
+大唐西域記	da;ad th;gk xi;aa yu;th ji;yj	0
+大唐西域記	da;ad th;gk xi;hh yu;th ji;yj	0
 順義區醫院	up;yi yi;yw qu;kp yi;yu yr;ew	0
 順義區醫院	up;yi yi;yw qu;kp yi;yy yr;ew	0
 馬坑	ma;ad kg;tk	0
@@ -17360,7 +17360,7 @@ use_preset_vocabulary: false
 井頭	jy;aa tb;dy	0
 六公園	lq;wb gs;sb yr;ky	0
 學士路	xt;jz ui;aa lu;zg	0
-南京仙林大學城	nj;ua jy;wx xm;ru ln;mm da;hd xt;jz ig;ti	0
+南京仙林大學城	nj;ua jy;wx xm;ru ln;mm da;ad xt;jz ig;ti	0
 安徽省無爲縣	an;bn hv;xw ug;ou wu;ha wz;pd xm;xx	0
 瓦爾納	wa;ad er;ay na;sn	0
 安寧渠	an;bn ny;bd qu;mj	0
@@ -17404,9 +17404,9 @@ use_preset_vocabulary: false
 雙埠	ud;vy bu;tu	0
 弓起	gs;ag qi;zj	0
 弓起	gs;vg qi;zj	0
-硅谷大街	gv;ug gu;kr da;hd jx;xg	0
+硅谷大街	gv;ug gu;kr da;ad jx;xg	0
 渭河大橋	wz;dw he;dk da;ad qc;mq	0
-渭河大橋	wz;dw he;dk da;hd qc;mq	0
+渭河大橋	wz;dw he;dk da;ad qc;mq	0
 四一二	si;ke yi;aa er;aa	0
 洪殿	hs;dg dm;ug	0
 坪洲	py;tp vb;dv	0
@@ -17516,7 +17516,7 @@ use_preset_vocabulary: false
 八一村	ba;pd yi;aa cp;mc	0
 八一村	ba;pd yi;hh cp;mc	0
 大辛莊	da;ad xn;lu vd;cv	0
-大辛莊	da;hd xn;lu vd;cv	0
+大辛莊	da;ad xn;lu vd;cv	0
 草場地	ck;cz ih;ty di;ty	0
 留守處	lq;td ub;bc iu;hi	0
 留守處	lq;lt ub;bc iu;hi	0
@@ -17545,7 +17545,7 @@ use_preset_vocabulary: false
 陳南	if;ed nj;uu	0
 陳南	if;ed nj;ua	0
 陳南	if;ed nj;uy	0
-皓月大路	hk;bg yt;pa da;hd lu;zg	0
+皓月大路	hk;bg yt;pa da;ad lu;zg	0
 玉溪村	yu;ad xi;dx cp;mc	0
 玉溪村	yu;hd xi;dx cp;mc	0
 玉溪村	yu;wd xi;dx cp;mc	0
@@ -17575,7 +17575,7 @@ use_preset_vocabulary: false
 蒼霞	ch;cc xw;yy	0
 廣深公路	gd;gh uf;dm gs;bs lu;zg	0
 廣深公路	gd;gh uf;dm gs;sb lu;zg	0
-大方巷	da;hd fh;wd xd;gs	0
+大方巷	da;ad fh;wd xd;gs	0
 麥島路	ml;lx dk;un lu;zg	0
 麥島路	ml;lx dk;nu lu;zg	0
 麥島路	ml;xl dk;un lu;zg	0
@@ -17606,7 +17606,7 @@ use_preset_vocabulary: false
 水泉	uv;ad qr;ub	0
 重工街	vs;pa gs;aa jx;xg	0
 大壩村	da;ad ba;tb cp;mc	0
-大壩村	da;hd ba;tb cp;mc	0
+大壩村	da;ad ba;tb cp;mc	0
 二十埠河	er;aa ui;aa bu;tf he;dk	0
 種羊場	vs;hv yh;da ih;ty	0
 種羊場	vs;hv yh;du ih;ty	0
@@ -17649,8 +17649,8 @@ use_preset_vocabulary: false
 茂名南路	mk;cw my;xk nj;uy lu;zg	0
 大柏樹	da;ad bl;mb uu;mc	0
 大柏樹	da;ad bl;mb uu;mu	0
-大柏樹	da;hd bl;mb uu;mc	0
-大柏樹	da;hd bl;mb uu;mu	0
+大柏樹	da;ad bl;mb uu;mc	0
+大柏樹	da;ad bl;mb uu;mu	0
 漾濞縣	yh;dy bi;db xm;xx	0
 國定路	go;kh dy;bp lu;zg	0
 常莊	ih;jk vd;cv	0
@@ -17708,9 +17708,9 @@ use_preset_vocabulary: false
 唐文	th;gk wf;dd	0
 鹹嘉湖路	xm;lx jw;uj hu;dh lu;zg	0
 聯合大廈	lm;eu he;rk da;ad ua;gx	0
-聯合大廈	lm;eu he;rk da;hd ua;gx	0
+聯合大廈	lm;eu he;rk da;ad ua;gx	0
 聯合大廈	lm;ea he;rk da;ad ua;gx	0
-聯合大廈	lm;ea he;rk da;hd ua;gx	0
+聯合大廈	lm;ea he;rk da;ad ua;gx	0
 梅花路	mz;mm hw;ch lu;zg	0
 市三中	ui;wj sj;aa vs;aa	0
 烽燧	fg;hf sv;hs	0
@@ -17721,8 +17721,8 @@ use_preset_vocabulary: false
 三星酒店	sj;hh xy;ru jq;dy dm;gv	0
 大業路	da;ad ye;yw lu;zg	0
 大業路	da;ad ye;yl lu;zg	0
-大業路	da;hd ye;yw lu;zg	0
-大業路	da;hd ye;yl lu;zg	0
+大業路	da;ad ye;yw lu;zg	0
+大業路	da;ad ye;yl lu;zg	0
 順德一中	up;yi de;xx yi;aa vs;aa	0
 莫得	mo;cd de;xc	0
 莫得	mo;cd de;rc	0
@@ -17748,7 +17748,7 @@ use_preset_vocabulary: false
 黃陳	hd;cb if;ed	0
 德勝門外	de;xx ug;ol mf;aa wl;xb	0
 江濱大道	jd;dg bn;db da;ad dk;zu	0
-江濱大道	jd;dg bn;db da;hd dk;zu	0
+江濱大道	jd;dg bn;db da;ad dk;zu	0
 橫林	hg;mh ln;mm	0
 白鶴洞	bl;pr he;nv ds;dt	0
 白鶴洞	bl;ph he;nv ds;dt	0
@@ -17951,8 +17951,8 @@ use_preset_vocabulary: false
 龍塔	ls;dg ta;th	0
 大兜路	da;ad db;be lu;zg	0
 大兜路	da;ad db;ek lu;zg	0
-大兜路	da;hd db;be lu;zg	0
-大兜路	da;hd db;ek lu;zg	0
+大兜路	da;ad db;be lu;zg	0
+大兜路	da;ad db;ek lu;zg	0
 新洲村	xn;jq vb;dv cp;mc	0
 黑莊戶鄉	hz;ha vd;cv hu;pk xd;el	0
 格薩爾王傳	ge;mg sa;ci er;ay wh;aa ir;rv	0
@@ -17965,8 +17965,8 @@ use_preset_vocabulary: false
 農業開發區	ns;qi ye;yl kl;mk fa;du qu;kp	0
 大榆樹	da;ad yu;my uu;mc	0
 大榆樹	da;ad yu;my uu;mu	0
-大榆樹	da;hd yu;my uu;mc	0
-大榆樹	da;hd yu;my uu;mu	0
+大榆樹	da;ad yu;my uu;mc	0
+大榆樹	da;ad yu;my uu;mu	0
 巴士一汽	ba;ag ui;aa yi;aa qi;dq	0
 庫尼亞	ku;gi ni;ub ya;aa	0
 庫尼亞	ku;gi ni;ub ya;hh	0
@@ -17998,7 +17998,7 @@ use_preset_vocabulary: false
 錦源	jn;jj yr;dy	0
 錦源	jn;jb yr;dy	0
 新滘	xn;jq jc;dk	0
-大水井	da;hd uv;ad jy;aa	0
+大水井	da;ad uv;ad jy;aa	0
 軍屯	jp;bi tp;hg	0
 軍屯	jp;bi tp;ag	0
 南郡	nj;uu jp;ej	0
@@ -18155,14 +18155,14 @@ use_preset_vocabulary: false
 福利區	fu;uf li;hd qu;kp	0
 大巖	da;ad yj;ug	0
 大巖	da;ad yj;uy	0
-大巖	da;hd yj;ug	0
-大巖	da;hd yj;uy	0
-南池子大街	nj;ua ii;dy zi;aa da;hd jx;xg	0
+大巖	da;ad yj;ug	0
+大巖	da;ad yj;uy	0
+南池子大街	nj;ua ii;dy zi;aa da;ad jx;xg	0
 滬杭公路	hu;dh hh;mk gs;bs lu;zg	0
 滬杭公路	hu;dh hh;mk gs;sb lu;zg	0
 滬杭公路	hu;db hh;mk gs;bs lu;zg	0
 滬杭公路	hu;db hh;mk gs;sb lu;zg	0
-深大附中	uf;dm da;hd fu;ef vs;aa	0
+深大附中	uf;dm da;ad fu;ef vs;aa	0
 新竹路	xn;jq vu;gg lu;zg	0
 龍興寺	ls;dg xy;ba si;ct	0
 南窯	nj;ua yk;bg	0
@@ -18172,14 +18172,14 @@ use_preset_vocabulary: false
 西瓜霜	xi;aa gw;pd ud;yx	0
 西瓜霜	xi;hh gw;pd ud;yx	0
 大遠	da;ad yr;zy	0
-大遠	da;hd yr;zy	0
+大遠	da;ad yr;zy	0
 軍訓基地	jp;bi xp;yi ji;qt di;ty	0
 軍訓基地	jp;bi xp;yi ji;tq di;ty	0
 仁風	rf;re fg;ji	0
 八一大	ba;pd yi;aa da;ad	0
-八一大	ba;pd yi;aa da;hd	0
+八一大	ba;pd yi;aa da;ad	0
 八一大	ba;pd yi;hh da;ad	0
-八一大	ba;pd yi;hh da;hd	0
+八一大	ba;pd yi;hh da;ad	0
 洪橋	hs;dg qc;mq	0
 東閣	ds;ad ge;mg	0
 東閣	ds;hd ge;mg	0
@@ -18243,8 +18243,8 @@ use_preset_vocabulary: false
 楊高路	yh;my gk;wk lu;zg	0
 大橋頭	da;ad qc;mq tb;yd	0
 大橋頭	da;ad qc;mq tb;dy	0
-大橋頭	da;hd qc;mq tb;yd	0
-大橋頭	da;hd qc;mq tb;dy	0
+大橋頭	da;ad qc;mq tb;yd	0
+大橋頭	da;ad qc;mq tb;dy	0
 民航學院	mn;ag hh;vk xt;jz yr;ew	0
 鄧玲	dg;ed ly;wl	0
 連雲路	lm;zi yp;yy lu;zg	0
@@ -18295,13 +18295,13 @@ use_preset_vocabulary: false
 海軍潛艇學院	hl;dm jp;bi qm;do ty;vt xt;jz yr;ew	0
 大經路	da;ad jy;sj lu;zg	0
 大經路	da;ad jy;sg lu;zg	0
-大經路	da;hd jy;sj lu;zg	0
-大經路	da;hd jy;sg lu;zg	0
+大經路	da;ad jy;sj lu;zg	0
+大經路	da;ad jy;sg lu;zg	0
 東門橋	ds;ad mf;aa qc;mq	0
 經濟大廈	jy;sj ji;dq da;ad ua;gx	0
-經濟大廈	jy;sj ji;dq da;hd ua;gx	0
+經濟大廈	jy;sj ji;dq da;ad ua;gx	0
 經濟大廈	jy;sg ji;dq da;ad ua;gx	0
-經濟大廈	jy;sg ji;dq da;hd ua;gx	0
+經濟大廈	jy;sg ji;dq da;ad ua;gx	0
 老寨	lk;bl vl;mb	0
 老寨	lk;bl vl;bm	0
 老寨	lk;lb vl;mb	0
@@ -18372,7 +18372,7 @@ use_preset_vocabulary: false
 仙鶴門	xm;ru he;nv mf;aa	0
 仙鶴門	xm;ru he;nv mf;zh	0
 大名城	da;ad my;xk ig;ti	0
-大名城	da;hd my;xk ig;ti	0
+大名城	da;ad my;xk ig;ti	0
 黃沙碼頭	hd;cb ua;du ma;um tb;yd	0
 黃沙碼頭	hd;cb ua;du ma;um tb;dy	0
 紅旗水庫	hs;sg qi;fq uv;ud ku;gi	0
@@ -18387,8 +18387,8 @@ use_preset_vocabulary: false
 高湖	gk;wk hu;dh	0
 大連火車站	da;ad lm;zi ho;dd ie;aa vj;lv	0
 大連火車站	da;ad lm;zi ho;dd ie;hh vj;lv	0
-大連火車站	da;hd lm;zi ho;dd ie;aa vj;lv	0
-大連火車站	da;hd lm;zi ho;dd ie;hh vj;lv	0
+大連火車站	da;ad lm;zi ho;dd ie;aa vj;lv	0
+大連火車站	da;ad lm;zi ho;dd ie;hh vj;lv	0
 八里村	ba;pd li;tt cp;mc	0
 八里村	ba;pd li;aa cp;mc	0
 八里村	ba;pd li;uh cp;mc	0
@@ -18411,8 +18411,8 @@ use_preset_vocabulary: false
 東木頭市	ds;ad mu;ad tb;dy ui;wj	0
 大嶝島	da;ad dg;ud dk;un	0
 大嶝島	da;ad dg;ud dk;nu	0
-大嶝島	da;hd dg;ud dk;un	0
-大嶝島	da;hd dg;ud dk;nu	0
+大嶝島	da;ad dg;ud dk;un	0
+大嶝島	da;ad dg;ud dk;nu	0
 五雲	wu;aa yp;yy	0
 五雲	wu;hh yp;yy	0
 匯東	hv;kh ds;ad	0
@@ -18448,13 +18448,13 @@ use_preset_vocabulary: false
 科技六路	ke;hd ji;fv lq;dd lu;zg	0
 科技六路	ke;hd ji;fv lq;db lu;zg	0
 晚大	wj;rm da;ad	0
-晚大	wj;rm da;hd	0
+晚大	wj;rm da;ad	0
 晚大	wj;om da;ad	0
-晚大	wj;om da;hd	0
+晚大	wj;om da;ad	0
 溫大	wf;dm da;ad	0
-溫大	wf;dm da;hd	0
+溫大	wf;dm da;ad	0
 溫大	wf;dw da;ad	0
-溫大	wf;dw da;hd	0
+溫大	wf;dw da;ad	0
 昌化路	ih;rr hw;rb lu;zg	0
 昌化路	ih;oo hw;rb lu;zg	0
 赤溪	ii;ty xi;dx	0
@@ -18470,7 +18470,7 @@ use_preset_vocabulary: false
 後鄧	hb;xw dg;ed	0
 港閘	gh;dx va;mj	0
 測繪大隊	ce;dz hv;sh da;ad dv;eu	0
-測繪大隊	ce;dz hv;sh da;hd dv;eu	0
+測繪大隊	ce;dz hv;sh da;ad dv;eu	0
 海宴	hl;dm yj;bn	0
 銅廠	ts;jt ih;gw	0
 銅廠	ts;jt ih;gi	0
@@ -18540,7 +18540,7 @@ use_preset_vocabulary: false
 鼎誠	dy;mv ig;yi	0
 鼎誠	dy;oa ig;yi	0
 大河路	da;ad he;dk lu;zg	0
-大河路	da;hd he;dk lu;zg	0
+大河路	da;ad he;dk lu;zg	0
 延陵	yj;zv ly;ew	0
 延陵	yj;zv ly;el	0
 粉湯	ff;mf th;dy	0
@@ -18558,8 +18558,8 @@ use_preset_vocabulary: false
 澧陽	li;dl yh;ey	0
 大灣村	da;ad wj;dw cp;mc	0
 大灣村	da;ad wj;dg cp;mc	0
-大灣村	da;hd wj;dw cp;mc	0
-大灣村	da;hd wj;dg cp;mc	0
+大灣村	da;ad wj;dw cp;mc	0
+大灣村	da;ad wj;dg cp;mc	0
 紡織服裝學院	fh;sf vi;sg fu;oy vd;yv xt;jz yr;ew	0
 臨平站	ln;ik py;aa vj;lv	0
 新中街	xn;jq vs;aa jx;xg	0
@@ -18568,7 +18568,7 @@ use_preset_vocabulary: false
 奧體新城	ao;pd ti;gd xn;jq ig;ti	0
 奧體新城	ao;pd ti;gl xn;jq ig;ti	0
 魯迅中學	lu;yo xp;zu vs;aa xt;jz	0
-廣東大廈	gd;gh ds;ad da;hd ua;gx	0
+廣東大廈	gd;gh ds;ad da;ad ua;gx	0
 留醫部	lq;td yi;yu bu;ek	0
 金普	jn;ra pu;ob	0
 河防口	he;dk fh;ef kb;aa	0
@@ -18579,7 +18579,7 @@ use_preset_vocabulary: false
 溝沿	gb;dr yj;dk	0
 溝沿	gb;dg yj;dk	0
 大原	da;ad yr;ix	0
-大原	da;hd yr;ix	0
+大原	da;ad yr;ix	0
 莊頭	vd;cv tb;yd	0
 莊頭	vd;cv tb;dy	0
 蘇州橋	su;ch vb;id qc;mq	0
@@ -18614,8 +18614,8 @@ use_preset_vocabulary: false
 花縣	hw;ch xm;xx	0
 大營坡	da;ad yy;hl po;tp	0
 大營坡	da;ad yy;lb po;tp	0
-大營坡	da;hd yy;hl po;tp	0
-大營坡	da;hd yy;lb po;tp	0
+大營坡	da;ad yy;hl po;tp	0
+大營坡	da;ad yy;lb po;tp	0
 徐廣國	xu;xy gd;gh go;kh	0
 徐廣國	xu;ry gd;gh go;kh	0
 四三	si;ke sj;aa	0
@@ -18656,7 +18656,7 @@ use_preset_vocabulary: false
 螃蟹甲	ph;ip xx;ij jw;uu	0
 螃蟹甲	ph;ip xx;ij jw;ru	0
 文化大廈	wf;dd hw;rb da;ad ua;gx	0
-文化大廈	wf;dd hw;rb da;hd ua;gx	0
+文化大廈	wf;dd hw;rb da;ad ua;gx	0
 排尾	pl;ff wz;um	0
 金村	jn;pa cp;mc	0
 金村	jn;rh cp;mc	0
@@ -18820,7 +18820,7 @@ use_preset_vocabulary: false
 獅子嶺	ui;qu zi;aa ly;ul	0
 獅子嶺	ui;qu zi;vh ly;ul	0
 石獅市公安局	ui;kp ui;qu ui;wj gs;sb an;bn ju;uk	0
-大北門	da;hd bz;ap mf;aa	0
+大北門	da;ad bz;ap mf;aa	0
 同江市	ts;kk jd;dg ui;dj	0
 同江市	ts;kk jd;dg ui;wj	0
 沙嶺	ua;du ly;ul	0
@@ -18850,7 +18850,7 @@ use_preset_vocabulary: false
 湖三	hu;dh sj;hh	0
 瑞金二路	rv;we jn;ra er;aa lu;zg	0
 大沽路	da;ad gu;dg lu;zg	0
-大沽路	da;hd gu;dg lu;zg	0
+大沽路	da;ad gu;dg lu;zg	0
 省級機關醫院	ug;ou ji;sj ji;mj gr;ma yi;yu yr;ew	0
 永聯	ys;dd lm;eu	0
 永聯	ys;dd lm;ea	0
@@ -18867,7 +18867,7 @@ use_preset_vocabulary: false
 板嶺	bj;mf ly;ul	0
 寧山路	ny;bd uj;uu lu;zg	0
 寧山路	ny;bd uj;aa lu;zg	0
-北京大觀園	bz;ap jy;wx da;hd gr;jv yr;ky	0
+北京大觀園	bz;ap jy;wx da;ad gr;jv yr;ky	0
 三官	sj;aa gr;bg	0
 三官	sj;aa gr;bk	0
 三官	sj;hh gr;bg	0
@@ -18957,8 +18957,8 @@ use_preset_vocabulary: false
 機場路口	ji;mj ih;ty lu;zg kb;aa	0
 機場路口	ji;mj ih;ty lu;zg kb;uh	0
 棉紡織廠	mm;mb fh;sf vi;sg ih;gi	0
-南湖大橋	nj;ua hu;dh da;hd qc;mq	0
-新民大街	xn;jq mn;ag da;hd jx;xg	0
+南湖大橋	nj;ua hu;dh da;ad qc;mq	0
+新民大街	xn;jq mn;ag da;ad jx;xg	0
 十院	ui;hu yr;ew	0
 十院	ui;aa yr;ew	0
 開化寺	kl;mk hw;rb si;tc	0
@@ -18983,8 +18983,8 @@ use_preset_vocabulary: false
 製造局路	vi;yv zk;zg ju;uk lu;zg	0
 大連西路	da;ad lm;zi xi;aa lu;zg	0
 大連西路	da;ad lm;zi xi;hh lu;zg	0
-大連西路	da;hd lm;zi xi;aa lu;zg	0
-大連西路	da;hd lm;zi xi;hh lu;zg	0
+大連西路	da;ad lm;zi xi;aa lu;zg	0
+大連西路	da;ad lm;zi xi;hh lu;zg	0
 沙河口	ua;du he;dk kb;aa	0
 沙河口	ua;du he;dk kb;uh	0
 清華東路	qy;dq hw;ca ds;ad lu;zg	0
@@ -18992,7 +18992,7 @@ use_preset_vocabulary: false
 金枝	jn;rh vi;mv	0
 金枝	jn;ra vi;mv	0
 金枝	jn;ph vi;mv	0
-大連交通大學	da;hd lm;zi jc;wf ts;zy da;hd xt;jz	0
+大連交通大學	da;ad lm;zi jc;wf ts;zy da;ad xt;jz	0
 蓉園	rs;cr yr;ky	0
 香爐山	xd;hr lu;hl uj;uu	0
 香爐山	xd;hr lu;hl uj;aa	0
@@ -19030,7 +19030,7 @@ use_preset_vocabulary: false
 錦江路	jn;jj jd;dg lu;zg	0
 錦江路	jn;jb jd;dg lu;zg	0
 紫竹林	zi;sc vu;gg ln;mm	0
-大屯路東站	da;hd tp;ag lu;zg ds;ad vj;lv	0
+大屯路東站	da;ad tp;ag lu;zg ds;ad vj;lv	0
 市七醫院	ui;wj qi;ag yi;yu yr;ew	0
 溫泉花園	wf;dm qr;bu hw;ch yr;ky	0
 溫泉花園	wf;dm qr;ub hw;ch yr;ky	0
@@ -19161,8 +19161,8 @@ use_preset_vocabulary: false
 溪州	xi;dx vb;du	0
 大成橋	da;ad ig;wg qc;mq	0
 大成橋	da;ad ig;gg qc;mq	0
-大成橋	da;hd ig;wg qc;mq	0
-大成橋	da;hd ig;gg qc;mq	0
+大成橋	da;ad ig;wg qc;mq	0
+大成橋	da;ad ig;gg qc;mq	0
 民田路	mn;ag tm;aa lu;zg	0
 桂溪街道	gv;mg xi;dx jx;xi dk;zu	0
 桂溪街道	gv;mg xi;dx jx;xg dk;zu	0
@@ -19265,7 +19265,7 @@ use_preset_vocabulary: false
 窯嶺	yk;xg ly;ul	0
 鄭家莊	vg;ed jw;bu vd;cv	0
 莊橋	vd;cv qc;mq	0
-黑石鋪大橋	hz;ha ui;kp pu;jf da;hd qc;mq	0
+黑石鋪大橋	hz;ha ui;kp pu;jf da;ad qc;mq	0
 榮興	rs;hm xy;ba	0
 角子	jc;dy zi;aa	0
 角子	jc;dy zi;vh	0
@@ -19290,7 +19290,7 @@ use_preset_vocabulary: false
 黃山村	hd;cb uj;uu cp;mc	0
 黃山村	hd;cb uj;aa cp;mc	0
 大溪河	da;ad xi;dx he;dk	0
-大溪河	da;hd xi;dx he;dk	0
+大溪河	da;ad xi;dx he;dk	0
 西閘	xi;aa va;mj	0
 西閘	xi;hh va;mj	0
 古北路	gu;uk bz;hp lu;zg	0
@@ -19402,7 +19402,7 @@ use_preset_vocabulary: false
 星海名城	xy;ou hl;dm my;xk ig;ti	0
 星海名城	xy;ru hl;dm my;xk ig;ti	0
 大洲村	da;ad vb;dv cp;mc	0
-大洲村	da;hd vb;dv cp;mc	0
+大洲村	da;ad vb;dv cp;mc	0
 石龜	ui;kp gv;pa	0
 鼓屏路	gu;uv py;ub lu;zg	0
 鼓屏路	gu;vd py;ub lu;zg	0
@@ -19442,9 +19442,9 @@ use_preset_vocabulary: false
 柏樹村	bl;mb uu;mc cp;mc	0
 柏樹村	bl;mb uu;mu cp;mc	0
 港灣大道	gh;dx wj;dw da;ad dk;zu	0
-港灣大道	gh;dx wj;dw da;hd dk;zu	0
+港灣大道	gh;dx wj;dw da;ad dk;zu	0
 港灣大道	gh;dx wj;dg da;ad dk;zu	0
-港灣大道	gh;dx wj;dg da;hd dk;zu	0
+港灣大道	gh;dx wj;dg da;ad dk;zu	0
 羅宋湯	lo;sv ss;bm th;dy	0
 羅宋湯	lo;sw ss;bm th;dy	0
 長樂坊	ih;ad le;my fh;tf	0
@@ -19467,12 +19467,12 @@ use_preset_vocabulary: false
 王孫	wh;aa sp;zx	0
 王孫	wh;hh sp;zx	0
 壩首	ba;tb ub;qz	0
-舵落口大市場	do;vt lo;cl kb;aa da;hd ui;wj ih;ty	0
+舵落口大市場	do;vt lo;cl kb;aa da;ad ui;wj ih;ty	0
 巖田	yj;ug tm;aa	0
 巖田	yj;ug tm;uh	0
 巖田	yj;uy tm;aa	0
 巖田	yj;uy tm;uh	0
-大水溝	da;hd uv;ad gb;dg	0
+大水溝	da;ad uv;ad gb;dg	0
 陂頭	bz;ep tb;yd	0
 陂頭	bz;ep tb;dy	0
 張榮華	vh;gi rs;mb hw;ch	0
@@ -19482,8 +19482,8 @@ use_preset_vocabulary: false
 良渚文化村	ld;dg vu;dv wf;dd hw;rb cp;mc	0
 大窯	da;ad yk;bg	0
 大窯	da;ad yk;xg	0
-大窯	da;hd yk;bg	0
-大窯	da;hd yk;xg	0
+大窯	da;ad yk;bg	0
+大窯	da;ad yk;xg	0
 童家院子	ts;ll jw;bu yr;ew zi;aa	0
 童家院子	ts;ll jw;bu yr;ew zi;vh	0
 清河小營	qy;dq he;dk xc;ud yy;hl	0
@@ -19568,8 +19568,8 @@ use_preset_vocabulary: false
 王佳麗	wh;hh jw;rg li;ll	0
 大託鋪	da;ad to;yt pu;jf	0
 大託鋪	da;ad to;yq pu;jf	0
-大託鋪	da;hd to;yt pu;jf	0
-大託鋪	da;hd to;yq pu;jf	0
+大託鋪	da;ad to;yt pu;jf	0
+大託鋪	da;ad to;yq pu;jf	0
 榮和	rs;mb he;hk	0
 榮和	rs;hm he;hk	0
 後店	hb;rw dm;gv	0
@@ -19722,8 +19722,8 @@ use_preset_vocabulary: false
 建設路街道辦事處	jm;zy ue;yu lu;zg jx;xg dk;zu bj;lx ui;aa iu;hi	0
 大香	da;ad xd;hr	0
 大香	da;ad xd;ho	0
-大香	da;hd xd;hr	0
-大香	da;hd xd;ho	0
+大香	da;ad xd;hr	0
+大香	da;ad xd;ho	0
 航中路	hh;vk vs;aa lu;zg	0
 航中路	hh;vk vs;uu lu;zg	0
 航中路	hh;vk vs;ku lu;zg	0
@@ -19740,9 +19740,9 @@ use_preset_vocabulary: false
 菊花園	ju;cm hw;ch yr;ky	0
 菊花園	ju;cj hw;ch yr;ky	0
 長白路	vh;ad bl;pa lu;zg	0
-大灰廠	da;hd hv;hu ih;gi	0
+大灰廠	da;ad hv;hu ih;gi	0
 永和村	ys;dd he;hk cp;mc	0
-東山大道	ds;ad uj;aa da;hd dk;zu	0
+東山大道	ds;ad uj;aa da;ad dk;zu	0
 東和春天	ds;ad he;hk ip;of tm;ad	0
 黃土崗	hd;cb tu;aa gh;ug	0
 黃土崗	hd;cb tu;hh gh;ug	0
@@ -19758,7 +19758,7 @@ use_preset_vocabulary: false
 裕華西路	yu;yg hw;ca xi;hh lu;zg	0
 彌渡	mi;ge du;dd	0
 大統路	da;ad ts;si lu;zg	0
-大統路	da;hd ts;si lu;zg	0
+大統路	da;ad ts;si lu;zg	0
 哈密路	ha;kh mi;bu lu;zg	0
 哈密路	ha;kh mi;ub lu;zg	0
 潘家村	pj;df jw;bu cp;mc	0
@@ -19838,7 +19838,7 @@ use_preset_vocabulary: false
 樓下村	lb;ml xw;ab cp;mc	0
 樓下村	lb;ml xw;hd cp;mc	0
 樓下村	lb;ml xw;hb cp;mc	0
-青島大學醫學院	qy;of dk;nu da;hd xt;jz yi;yu xt;jz yr;ew	0
+青島大學醫學院	qy;of dk;nu da;ad xt;jz yi;yu xt;jz yr;ew	0
 定結	dy;bp jx;sj	0
 黃泥塘	hd;cb ni;dn th;tt	0
 航展館	hh;vk vj;uy gr;ug	0
@@ -19973,7 +19973,7 @@ use_preset_vocabulary: false
 上水徑	uh;aa uv;ad jy;xg	0
 三坑	sj;aa kg;tk	0
 三坑	sj;hh kg;tk	0
-北大路	bz;ap da;hd lu;zg	0
+北大路	bz;ap da;ad lu;zg	0
 紫陽街	zi;sc yh;ey jx;xi	0
 紫陽街	zi;sc yh;ey jx;xg	0
 紫陽街	zi;sc yh;ey jx;ri	0
@@ -20113,7 +20113,7 @@ use_preset_vocabulary: false
 旅遊諮詢電話	lv;fp yb;zz zi;yz xp;yx dm;yd hw;yu	0
 營海	yy;hl hl;dm	0
 營海	yy;lb hl;dm	0
-尤溪洲大橋	yb;ad xi;dx vb;dv da;hd qc;mq	0
+尤溪洲大橋	yb;ad xi;dx vb;dv da;ad qc;mq	0
 柳泉	lq;mm qr;bu	0
 柳泉	lq;mm qr;ub	0
 新華小學	xn;jq hw;ca xc;ad xt;jz	0
@@ -20121,8 +20121,8 @@ use_preset_vocabulary: false
 外戚	wl;xb qi;gx	0
 西南村	xi;aa nj;ua cp;mc	0
 候機大樓	hb;ru ji;mj da;ad lb;ml	0
-候機大樓	hb;ru ji;mj da;hd lb;ml	0
-大境門	da;hd jy;tj mf;aa	0
+候機大樓	hb;ru ji;mj da;ad lb;ml	0
+大境門	da;ad jy;tj mf;aa	0
 明發商業廣場	my;oo fa;du uh;wk ye;yl gd;gh ih;ty	0
 碗米坡鎮	wj;uw mi;dd po;tp vf;jv	0
 陳橋	if;ed qc;mq	0
@@ -20178,13 +20178,13 @@ use_preset_vocabulary: false
 文藝北路	wf;dd yi;cy bz;hp lu;zg	0
 文藝北路	wf;dd yi;cy bz;bj lu;zg	0
 文藝北路	wf;dd yi;cy bz;ap lu;zg	0
-大紅門橋	da;hd hs;sg mf;aa qc;mq	0
+大紅門橋	da;ad hs;sg mf;aa qc;mq	0
 紅旗東路	hs;sg qi;fq ds;ad lu;zg	0
 紅旗東路	hs;sg qi;fq ds;hd lu;zg	0
 紅旗東路	hs;sg qi;fq ds;mr lu;zg	0
 紅旗東路	hs;sg qi;fq ds;mo lu;zg	0
 大格	da;ad ge;mg	0
-大格	da;hd ge;mg	0
+大格	da;ad ge;mg	0
 潞西	lu;dl xi;aa	0
 潞西	lu;dl xi;hh	0
 工業一路	gs;aa ye;yl yi;aa lu;zg	0
@@ -20224,8 +20224,8 @@ use_preset_vocabulary: false
 寧夏街	ny;bd xw;wz jx;xg	0
 鐵道大學	tx;jg dk;zu da;ad xt;zb	0
 鐵道大學	tx;jg dk;zu da;ad xt;jz	0
-鐵道大學	tx;jg dk;zu da;hd xt;zb	0
-鐵道大學	tx;jg dk;zu da;hd xt;jz	0
+鐵道大學	tx;jg dk;zu da;ad xt;zb	0
+鐵道大學	tx;jg dk;zu da;ad xt;jz	0
 李家坪	li;mz jw;bu py;tp	0
 廣文	gd;gh wf;dd	0
 沙田區	ua;du tm;aa qu;kp	0
@@ -20243,7 +20243,7 @@ use_preset_vocabulary: false
 石亭	ui;kp ty;wd	0
 鐵合金廠	tx;jg he;rk jn;ra ih;gi	0
 西安南路	xi;aa an;bn nj;ua lu;zg	0
-五大連池市	wu;aa da;hd lm;zi ii;dy ui;wj	0
+五大連池市	wu;aa da;ad lm;zi ii;dy ui;wj	0
 市第三醫院	ui;wj di;vp sj;aa yi;yu yr;ew	0
 花園橋	hw;ch yr;ky qc;mq	0
 盤福路	pj;mb fu;ut lu;zg	0
@@ -20252,7 +20252,7 @@ use_preset_vocabulary: false
 新城公園	xn;jq ig;ti gs;sb yr;ky	0
 漢德	hj;dh de;xx	0
 漢德	hj;dh de;rx	0
-中心大街	vs;aa xn;dd da;hd jx;xg	0
+中心大街	vs;aa xn;dd da;ad jx;xg	0
 雲頭	yp;yy tb;yd	0
 雲頭	yp;yy tb;dy	0
 光華村街	gd;xw hw;ca cp;mc jx;xg	0
@@ -20270,7 +20270,7 @@ use_preset_vocabulary: false
 白鳳	bl;po fg;jn	0
 峯高	fg;uf gk;dk	0
 峯高	fg;uf gk;wk	0
-華中大	hw;ca vs;aa da;hd	0
+華中大	hw;ca vs;aa da;ad	0
 三板市場	sj;aa bj;mf ui;dj ih;ty	0
 三板市場	sj;aa bj;mf ui;wj ih;ty	0
 三板市場	sj;hh bj;mf ui;dj ih;ty	0
@@ -20285,7 +20285,7 @@ use_preset_vocabulary: false
 洞陽	ds;dt yh;ey	0
 黑龍江省齊齊哈爾	hz;ha ls;dg jd;dg ug;ou qi;we qi;we ha;kh er;ay	0
 椒江大橋	jc;mu jd;dg da;ad qc;mq	0
-椒江大橋	jc;mu jd;dg da;hd qc;mq	0
+椒江大橋	jc;mu jd;dg da;ad qc;mq	0
 桃葉渡	tk;mv ye;cm du;dd	0
 江西省安福縣	jd;dg xi;aa ug;ou an;bn fu;uf xm;xx	0
 西馬莊	xi;aa ma;ad vd;cv	0
@@ -20325,7 +20325,7 @@ use_preset_vocabulary: false
 湖光路	hu;dh gd;eh lu;zg	0
 湖光路	hu;dh gd;ea lu;zg	0
 湖光路	hu;dh gd;xw lu;zg	0
-大黑山	da;hd hz;ha uj;aa	0
+大黑山	da;ad hz;ha uj;aa	0
 南磨房鄉	nj;ua mo;mu fh;hf xd;el	0
 九里堤北路	jq;py li;aa di;tu bz;ap lu;zg	0
 延安新村	yj;zv an;bn xn;jq cp;mc	0
@@ -20341,13 +20341,13 @@ use_preset_vocabulary: false
 塔公	ta;td gs;sb	0
 塔公	ta;th gs;bs	0
 塔公	ta;th gs;sb	0
-大塘街	da;hd th;tt jx;xg	0
+大塘街	da;ad th;tt jx;xg	0
 抗戰路	kh;fk vj;gd lu;zg	0
 富錦市	fu;bf jn;jb ui;wj	0
 岑參	cf;uj cj;sp	0
 陳亞林	if;ed ya;aa ln;mm	0
 陳亞林	if;ed ya;hh ln;mm	0
-青島大學醫學院附屬醫院	qy;of dk;nu da;hd xt;jz yi;yu xt;jz yr;ew fu;ef uu;ui yi;yu yr;ew	0
+青島大學醫學院附屬醫院	qy;of dk;nu da;ad xt;jz yi;yu xt;jz yr;ew fu;ef uu;ui yi;yu yr;ew	0
 太白路立交	tl;dd bl;pa lu;zg li;da jc;wf	0
 南海縣	nj;uu hl;dm xm;xx	0
 南海縣	nj;ua hl;dm xm;xx	0
@@ -20378,7 +20378,7 @@ use_preset_vocabulary: false
 奎山	kv;dg uj;aa	0
 啥子哦	ua;ku zi;aa oo;kw	0
 啥子哦	ua;ku zi;vh oo;kw	0
-大徑	da;hd jy;xg	0
+大徑	da;ad jy;xg	0
 花市場	hw;ch ui;dj ih;ty	0
 花市場	hw;ch ui;wj ih;ty	0
 青龍街	qy;of ls;dg jx;xg	0
@@ -20550,7 +20550,7 @@ use_preset_vocabulary: false
 陸豐縣	lu;et fg;df xm;xx	0
 五里新村	wu;aa li;aa xn;jq cp;mc	0
 鳳凰大橋	fg;jn hd;jh da;ad qc;mq	0
-鳳凰大橋	fg;jn hd;jh da;hd qc;mq	0
+鳳凰大橋	fg;jn hd;jh da;ad qc;mq	0
 天寶路	tm;ad bk;bb lu;zg	0
 天寶路	tm;hd bk;bb lu;zg	0
 五甲	wu;aa jw;aa	0
@@ -20597,7 +20597,7 @@ use_preset_vocabulary: false
 高樓村	gk;wk lb;ml cp;mc	0
 穆家峪	mu;hp jw;bu yu;ug	0
 大漁	da;ad yu;dy	0
-大漁	da;hd yu;dy	0
+大漁	da;ad yu;dy	0
 二環路東三段	er;aa hr;wh lu;zg ds;ad sj;aa dr;pu	0
 豫新	yu;yx xn;jq	0
 南十里	nj;ua ui;aa li;aa	0
@@ -20618,7 +20618,7 @@ use_preset_vocabulary: false
 布吉路	bu;uj ji;uk lu;zg	0
 前燒	qm;bd uk;hy	0
 前燒	qm;qd uk;hy	0
-大東路	da;hd ds;ad lu;zg	0
+大東路	da;ad ds;ad lu;zg	0
 走馬嶺	zb;tv ma;ad ly;ul	0
 走馬嶺	zb;tv ma;hh ly;ul	0
 走馬嶺	zb;tv ma;hd ly;ul	0
@@ -20655,7 +20655,7 @@ use_preset_vocabulary: false
 筷子路	ky;vk zi;aa lu;zg	0
 筷子路	ky;vk zi;vh lu;zg	0
 大吳	da;ad wu;kd	0
-大吳	da;hd wu;kd	0
+大吳	da;ad wu;kd	0
 白桃	bl;pr tk;mv	0
 白桃	bl;ph tk;mv	0
 白桃	bl;pa tk;mv	0
@@ -20765,7 +20765,7 @@ use_preset_vocabulary: false
 匯麗	hv;kh li;ll	0
 科技谷	ke;hd ji;fv gu;bk	0
 科技谷	ke;hd ji;fv gu;kr	0
-大柵欄西街	da;hd va;mc lj;mj xi;aa jx;xg	0
+大柵欄西街	da;ad va;mc lj;mj xi;aa jx;xg	0
 龍泉關鎮	ls;dg qr;ub gr;ma vf;jv	0
 南邵	nj;uu uk;ev	0
 南邵	nj;ua uk;ev	0
@@ -20781,7 +20781,7 @@ use_preset_vocabulary: false
 觀塘區	gr;jv th;tt qu;kp	0
 柳營路	lq;mm yy;hl lu;zg	0
 柳營路	lq;mm yy;lb lu;zg	0
-東方大廈	ds;ad fh;wd da;hd ua;gx	0
+東方大廈	ds;ad fh;wd da;ad ua;gx	0
 小倉	xc;ud ch;rk	0
 小倉	xc;ad ch;rk	0
 御景園	yu;xx jy;oj yr;ky	0
@@ -20828,7 +20828,7 @@ use_preset_vocabulary: false
 後圍寨	hb;rw wz;kw vl;bm	0
 後圍寨	hb;xw wz;kw vl;mb	0
 後圍寨	hb;xw wz;kw vl;bm	0
-大興善寺	da;hd xy;ba uj;ka si;ct	0
+大興善寺	da;ad xy;ba uj;ka si;ct	0
 朝陽門南	vk;ou yh;ey mf;aa nj;ua	0
 七廠	qi;hg ih;gw	0
 七廠	qi;hg ih;gi	0
@@ -20841,12 +20841,12 @@ use_preset_vocabulary: false
 張山營	vh;gi uj;aa yy;lb	0
 錦尚	jn;jj uh;xk	0
 錦尚	jn;jb uh;xk	0
-大金鐘路	da;hd jn;ra vs;jt lu;zg	0
+大金鐘路	da;ad jn;ra vs;jt lu;zg	0
 望春	wh;wo ip;of	0
 房產交易市場	fh;hf ij;wu jc;wf yi;ow ui;wj ih;ty	0
 東方村	ds;ad fh;wd cp;mc	0
 大汶河	da;ad wf;dw he;dk	0
-大汶河	da;hd wf;dw he;dk	0
+大汶河	da;ad wf;dw he;dk	0
 明珠工業園	my;oo vu;wv gs;aa ye;yl yr;ky	0
 配電所	pz;yj dm;yg so;hj	0
 配電所	pz;yj dm;yg so;jh	0
@@ -20870,9 +20870,9 @@ use_preset_vocabulary: false
 陳嚴	if;ed yj;kg	0
 廣州賽馬場	gd;gh vb;id sl;bb ma;ad ih;ty	0
 西芯大道	xi;aa xn;cx da;ad dk;zu	0
-西芯大道	xi;aa xn;cx da;hd dk;zu	0
+西芯大道	xi;aa xn;cx da;ad dk;zu	0
 西芯大道	xi;hh xn;cx da;ad dk;zu	0
-西芯大道	xi;hh xn;cx da;hd dk;zu	0
+西芯大道	xi;hh xn;cx da;ad dk;zu	0
 舒蘭縣	uu;yu lj;cj xm;xx	0
 舒蘭縣	uu;yu lj;cl xm;xx	0
 舒蘭縣	uu;uy lj;cj xm;xx	0
@@ -20904,7 +20904,7 @@ use_preset_vocabulary: false
 定慧寺	dy;bp hv;xh si;ct	0
 定慧寺	dy;bp hv;fx si;tc	0
 定慧寺	dy;bp hv;fx si;ct	0
-大白楊	da;hd bl;pa yh;my	0
+大白楊	da;ad bl;pa yh;my	0
 四川省達縣	si;ke ir;pa ug;ou da;zy xm;xx	0
 德勝門西	de;xx ug;ol mf;aa xi;aa	0
 三號路	sj;aa hk;hh lu;zg	0
@@ -20950,20 +20950,20 @@ use_preset_vocabulary: false
 國勝	go;kh ug;yl	0
 國勝	go;kh ug;ol	0
 蘿北	lo;cl bz;ap	0
-東方大酒店	ds;ad fh;wd da;hd jq;dy dm;gv	0
+東方大酒店	ds;ad fh;wd da;ad jq;dy dm;gv	0
 小銘	xc;ud my;jm	0
 小銘	xc;ad my;jm	0
 大塔	da;ad ta;td	0
 大塔	da;ad ta;th	0
-大塔	da;hd ta;td	0
-大塔	da;hd ta;th	0
+大塔	da;ad ta;td	0
+大塔	da;ad ta;th	0
 國防公路	go;kh fh;ef gs;bs lu;zg	0
 國防公路	go;kh fh;ef gs;sb lu;zg	0
 蠡園	li;it yr;ky	0
 蠡園	li;iu yr;ky	0
 麗湖	li;ll hu;dh	0
 大章	da;ad vh;lz	0
-大章	da;hd vh;lz	0
+大章	da;ad vh;lz	0
 天百	tm;ad bl;ab	0
 水城路	uv;ud ig;ti lu;zg	0
 水城路	uv;uv ig;ti lu;zg	0
@@ -20993,7 +20993,7 @@ use_preset_vocabulary: false
 川沙路	ir;pu ua;du lu;zg	0
 川沙路	ir;pa ua;du lu;zg	0
 匯隆	hv;kh ls;eu	0
-體育南大街	ti;gd yu;os nj;ua da;hd jx;xg	0
+體育南大街	ti;gd yu;os nj;ua da;ad jx;xg	0
 鍋包肉	go;jg bk;gs rb;ad	0
 西螺	xi;aa lo;il	0
 西螺	xi;hh lo;il	0
@@ -21205,7 +21205,7 @@ use_preset_vocabulary: false
 六里橋東	lq;wb li;aa qc;mq ds;ad	0
 九村	jq;py cp;mc	0
 大豫	da;ad yu;yx	0
-大豫	da;hd yu;yx	0
+大豫	da;ad yu;yx	0
 日壇路	ri;aa tj;td lu;zg	0
 日壇路	ri;or tj;td lu;zg	0
 日壇路	ri;ri tj;td lu;zg	0
@@ -21287,7 +21287,7 @@ use_preset_vocabulary: false
 書田	uu;oy tm;aa	0
 寶鋼醫院	bk;bb gh;jg yi;yu yr;ew	0
 寶鋼醫院	bk;bb gh;jg yi;yy yr;ew	0
-浙大附中	ve;dv da;hd fu;ef vs;aa	0
+浙大附中	ve;dv da;ad fu;ef vs;aa	0
 紅星路口	hs;sg xy;ou lu;zg kb;aa	0
 紅星路口	hs;sg xy;ou lu;zg kb;uh	0
 紅星路口	hs;sg xy;ru lu;zg kb;aa	0
@@ -21302,7 +21302,7 @@ use_preset_vocabulary: false
 鳳來	fg;jn ll;mr	0
 院社區	yr;ew ue;ut qu;kp	0
 院社區	yr;ew ue;tu qu;kp	0
-城南大道	ig;ti nj;ua da;hd dk;zu	0
+城南大道	ig;ti nj;ua da;ad dk;zu	0
 店張	dm;gv vh;gi	0
 石家街	ui;kp jw;bu jx;xg	0
 豐莊	fg;ud vd;cv	0
@@ -21321,10 +21321,10 @@ use_preset_vocabulary: false
 五所村	wu;aa so;jh cp;mc	0
 五所村	wu;hh so;hj cp;mc	0
 五所村	wu;hh so;jh cp;mc	0
-江南大道南	jd;dg nj;ua da;hd dk;zu nj;ua	0
+江南大道南	jd;dg nj;ua da;ad dk;zu nj;ua	0
 明思克	my;oo si;xt ke;ux	0
 陳方安生	if;ed fh;wd an;bn ug;na	0
-大沙東路	da;hd ua;du ds;ad lu;zg	0
+大沙東路	da;ad ua;du ds;ad lu;zg	0
 市經濟技術開發區	ui;wj jy;sg ji;dq ji;fv uu;xi kl;mk fa;du qu;kp	0
 秋長街道	qq;hh ih;ad jx;xg dk;zu	0
 打虎山路	da;fd hu;hj uj;uu lu;zg	0
@@ -21342,10 +21342,10 @@ use_preset_vocabulary: false
 雙柏	ud;yv bl;mb	0
 雙柏	ud;vy bl;mb	0
 城標	ig;ti bc;mp	0
-交通大廈	jc;wf ts;zy da;hd ua;gx	0
+交通大廈	jc;wf ts;zy da;ad ua;gx	0
 金山公園	jn;ra uj;aa gs;sb yr;ky	0
 光明樓	gd;xw my;oo lb;ml	0
-勝利大橋	ug;ol li;dh da;hd qc;mq	0
+勝利大橋	ug;ol li;dh da;ad qc;mq	0
 奧林花園	ao;db ln;mm hw;ch yr;ky	0
 奧林花園	ao;pd ln;mm hw;ch yr;ky	0
 華西街	hw;ca xi;aa jx;xg	0
@@ -21493,7 +21493,7 @@ use_preset_vocabulary: false
 漢陽客運中心	hj;dh yh;ey ke;bg yp;zj vs;ka xn;dd	0
 八字橋	ba;pd zi;bz qc;mq	0
 佛陳大橋	fu;rf if;ed da;ad qc;mq	0
-佛陳大橋	fu;rf if;ed da;hd qc;mq	0
+佛陳大橋	fu;rf if;ed da;ad qc;mq	0
 良繁場	ld;dg fj;sm ih;ty	0
 龍溪村	ls;lg xi;dx cp;mc	0
 龍溪村	ls;dg xi;dx cp;mc	0
@@ -21562,7 +21562,7 @@ use_preset_vocabulary: false
 洞上	ds;dt uh;bh	0
 郝家	hk;ei jw;bu	0
 甌江大橋	ou;wq jd;dg da;ad qc;mq	0
-甌江大橋	ou;wq jd;dg da;hd qc;mq	0
+甌江大橋	ou;wq jd;dg da;ad qc;mq	0
 風光裏	fg;ji gd;xw li;dy	0
 甲秀	jw;aa xq;hn	0
 甲秀	jw;oa xq;hn	0
@@ -21570,8 +21570,8 @@ use_preset_vocabulary: false
 甲秀	jw;ru xq;hn	0
 大榮	da;ad rs;mb	0
 大榮	da;ad rs;hm	0
-大榮	da;hd rs;mb	0
-大榮	da;hd rs;hm	0
+大榮	da;ad rs;mb	0
+大榮	da;ad rs;hm	0
 崗貝	gh;ug bz;ob	0
 崗貝	gh;ug bz;ad	0
 崗貝	gh;ug bz;ud	0
@@ -21674,9 +21674,9 @@ use_preset_vocabulary: false
 柑子園	gj;mg zi;aa yr;ky	0
 柑子園	gj;mg zi;vh yr;ky	0
 龍城大道	ls;lg ig;ti da;ad dk;zu	0
-龍城大道	ls;lg ig;ti da;hd dk;zu	0
+龍城大道	ls;lg ig;ti da;ad dk;zu	0
 龍城大道	ls;dg ig;ti da;ad dk;zu	0
-龍城大道	ls;dg ig;ti da;hd dk;zu	0
+龍城大道	ls;dg ig;ti da;ad dk;zu	0
 跳傘塔街道	tc;zv sj;ru ta;td jx;xg dk;zu	0
 阿城市	aa;ek ig;ti ui;dj	0
 阿城市	aa;ek ig;ti ui;wj	0
@@ -21733,7 +21733,7 @@ use_preset_vocabulary: false
 摩托車廠	mo;mu to;fq ie;aa ih;gi	0
 棉麻公司	mm;mb ma;gl gs;sb si;gk	0
 火炬大廈	ho;dd ju;hj da;ad ua;gx	0
-火炬大廈	ho;dd ju;hj da;hd ua;gx	0
+火炬大廈	ho;dd ju;hj da;ad ua;gx	0
 鳴鳳	my;kn fg;jn	0
 鳴鳳	my;nk fg;jn	0
 杜村	du;mt cp;mc	0
@@ -21770,8 +21770,8 @@ use_preset_vocabulary: false
 湯原	th;dy yr;ix	0
 大樹根	da;ad uu;mc gf;mg	0
 大樹根	da;ad uu;mu gf;mg	0
-大樹根	da;hd uu;mc gf;mg	0
-大樹根	da;hd uu;mu gf;mg	0
+大樹根	da;ad uu;mc gf;mg	0
+大樹根	da;ad uu;mu gf;mg	0
 春江花月	ip;of jd;dg hw;ch yt;pa	0
 河南東路	he;dk nj;ua ds;ad lu;zg	0
 一號船閘	yi;aa hk;hh ir;vk va;mj	0
@@ -21794,9 +21794,9 @@ use_preset_vocabulary: false
 黃石村	hd;cb ui;hh cp;mc	0
 黃石村	hd;cb ui;ak cp;mc	0
 周家大院	vb;kk jw;bu da;ad yr;ew	0
-周家大院	vb;kk jw;bu da;hd yr;ew	0
+周家大院	vb;kk jw;bu da;ad yr;ew	0
 周家大院	vb;kj jw;bu da;ad yr;ew	0
-周家大院	vb;kj jw;bu da;hd yr;ew	0
+周家大院	vb;kj jw;bu da;ad yr;ew	0
 臨汾地區	ln;ik ff;df di;ty qu;kp	0
 臨汾地區	ln;ip ff;df di;ty qu;kp	0
 小巖	xc;ud yj;ug	0
@@ -21916,7 +21916,7 @@ use_preset_vocabulary: false
 張家園	vh;gi jw;bu yr;ky	0
 永寧路	ys;dd ny;bd lu;zg	0
 昭覺寺公交站	vk;ov jt;jb si;ct gs;sb jc;wf vj;lv	0
-中興大道	vs;aa xy;ba da;hd dk;zu	0
+中興大道	vs;aa xy;ba da;ad dk;zu	0
 閘殷路	va;mj yn;uu lu;zg	0
 閘殷路	va;mj yn;pu lu;zg	0
 綜合農場	zs;sz he;rk ns;qi ih;ty	0
@@ -21988,7 +21988,7 @@ use_preset_vocabulary: false
 劍川路	jm;dq ir;pu lu;zg	0
 劍川路	jm;dq ir;pa lu;zg	0
 大盂	da;ad yu;my	0
-大盂	da;hd yu;my	0
+大盂	da;ad yu;my	0
 蔣家村	jd;cj jw;bu cp;mc	0
 來遠	ll;mc yr;zy	0
 來遠	ll;ad yr;zy	0
@@ -22004,8 +22004,8 @@ use_preset_vocabulary: false
 泰然九路	tl;uf rj;dq jq;py lu;zg	0
 大安山	da;ad an;bn uj;uu	0
 大安山	da;ad an;bn uj;aa	0
-大安山	da;hd an;bn uj;uu	0
-大安山	da;hd an;bn uj;aa	0
+大安山	da;ad an;bn uj;uu	0
+大安山	da;ad an;bn uj;aa	0
 范家屯	fj;ce jw;bu tp;hg	0
 范家屯	fj;ce jw;bu tp;ag	0
 范家屯	fj;cf jw;bu tp;hg	0
@@ -22042,7 +22042,7 @@ use_preset_vocabulary: false
 福民路	fu;uf mn;ag lu;zg	0
 柏加	bl;mb jw;lk	0
 柏加	bl;mb jw;kl	0
-大衚衕	da;hd hu;xh ts;xi	0
+大衚衕	da;ad hu;xh ts;xi	0
 潮樂	ik;di le;my	0
 潮樂	ik;di le;bm	0
 梁家村	ld;mb jw;bu cp;mc	0
@@ -22182,7 +22182,7 @@ use_preset_vocabulary: false
 鳳凰亭	fg;jn hd;jh ty;wd	0
 鳳凰亭	fg;jn hd;jh ty;dd	0
 鳳凰亭	fg;jn hd;jh ty;db	0
-北江大橋	bz;ap jd;dg da;hd qc;mq	0
+北江大橋	bz;ap jd;dg da;ad qc;mq	0
 國華紀念中學	go;kh hw;ca ji;sj nm;xj vs;aa xt;jz	0
 仙塘	xm;ru th;tt	0
 浦電路	pu;df dm;yg lu;zg	0
@@ -22237,7 +22237,7 @@ use_preset_vocabulary: false
 萬佛華僑陵園	wj;cy fu;rf hw;ca qc;rq ly;ew yr;ky	0
 萬佛華僑陵園	wj;cy fu;rf hw;ca qc;rq ly;el yr;ky	0
 長善路	vh;ad uj;ka lu;zg	0
-甘家口大廈	gj;ca jw;bu kb;aa da;hd ua;gx	0
+甘家口大廈	gj;ca jw;bu kb;aa da;ad ua;gx	0
 孫家灣	sp;zx jw;bu wj;dw	0
 孫家灣	sp;zx jw;bu wj;dg	0
 鄭家院子	vg;ed jw;bu yr;ew zi;aa	0
@@ -22248,7 +22248,7 @@ use_preset_vocabulary: false
 六里橋長途客運站	lq;wb li;aa qc;mq ih;ad tu;zy ke;bg yp;zj vj;lv	0
 海椒市	hl;dm jc;mu ui;dj	0
 海椒市	hl;dm jc;mu ui;wj	0
-大關小區	da;hd gr;ma xc;ad qu;kp	0
+大關小區	da;ad gr;ma xc;ad qu;kp	0
 百新	bl;ab xn;jq	0
 百新	bl;hb xn;jq	0
 百新	bl;bh xn;jq	0
@@ -22306,9 +22306,9 @@ use_preset_vocabulary: false
 張學敏	vh;gi xt;zb mn;wm	0
 張學敏	vh;gi xt;jz mn;wm	0
 職大	vi;ev da;ad	0
-職大	vi;ev da;hd	0
+職大	vi;ev da;ad	0
 職大	vi;eg da;ad	0
-職大	vi;eg da;hd	0
+職大	vi;eg da;ad	0
 蘭田	lj;cj tm;aa	0
 蘭田	lj;cj tm;uh	0
 蘭田	lj;cl tm;aa	0
@@ -22333,7 +22333,7 @@ use_preset_vocabulary: false
 八卦二路	ba;pd gw;bg er;aa lu;zg	0
 八卦二路	ba;pd gw;bg er;hh lu;zg	0
 大銘	da;ad my;jm	0
-大銘	da;hd my;jm	0
+大銘	da;ad my;jm	0
 九里山	jq;py li;aa uj;aa	0
 牤牛河	mh;nw nq;pu he;dk	0
 牤牛河	mh;nw nq;pa he;dk	0
@@ -22366,9 +22366,9 @@ use_preset_vocabulary: false
 竹林寺	vu;gg ln;mm si;tc	0
 竹林寺	vu;gg ln;mm si;ct	0
 市政大廈	ui;dj vg;wv da;ad ua;gx	0
-市政大廈	ui;dj vg;wv da;hd ua;gx	0
+市政大廈	ui;dj vg;wv da;ad ua;gx	0
 市政大廈	ui;wj vg;wv da;ad ua;gx	0
-市政大廈	ui;wj vg;wv da;hd ua;gx	0
+市政大廈	ui;wj vg;wv da;ad ua;gx	0
 口岸廣場	kb;aa an;ug gd;gh ih;ty	0
 口岸廣場	kb;uh an;ug gd;gh ih;ty	0
 王封	wh;aa fg;cg	0
@@ -22390,7 +22390,7 @@ use_preset_vocabulary: false
 西美	xi;aa mz;dy	0
 西美	xi;hh mz;yd	0
 西美	xi;hh mz;dy	0
-大下坡	da;hd xw;ab po;tp	0
+大下坡	da;ad xw;ab po;tp	0
 萬榮路	wj;cy rs;mb lu;zg	0
 萬榮路	wj;cy rs;hm lu;zg	0
 棲鳳路	qi;mq fg;jn lu;zg	0
@@ -22399,7 +22399,7 @@ use_preset_vocabulary: false
 院下	yr;ew xw;hd	0
 院下	yr;ew xw;hb	0
 鳳凰花園	fg;jn hd;jh hw;ch yr;ky	0
-興海大道	xy;ba hl;dm da;hd dk;zu	0
+興海大道	xy;ba hl;dm da;ad dk;zu	0
 荊門高新區	jy;cx mf;aa gk;wk xn;jq qu;kp	0
 王坪	wh;aa py;tp	0
 王坪	wh;hh py;tp	0
@@ -22429,9 +22429,9 @@ use_preset_vocabulary: false
 上團	uh;uh tr;kv	0
 上團	uh;bh tr;kv	0
 李家沱長江大橋	li;mz jw;bu to;dt ih;ad jd;dg da;ad qc;mq	0
-李家沱長江大橋	li;mz jw;bu to;dt ih;ad jd;dg da;hd qc;mq	0
+李家沱長江大橋	li;mz jw;bu to;dt ih;ad jd;dg da;ad qc;mq	0
 李家沱長江大橋	li;mz jw;bu to;dt ih;hd jd;dg da;ad qc;mq	0
-李家沱長江大橋	li;mz jw;bu to;dt ih;hd jd;dg da;hd qc;mq	0
+李家沱長江大橋	li;mz jw;bu to;dt ih;hd jd;dg da;ad qc;mq	0
 田坪	tm;aa py;tp	0
 田坪	tm;uh py;tp	0
 東衝	ds;ad is;xi	0
@@ -22463,12 +22463,12 @@ use_preset_vocabulary: false
 美湖	mz;yd hu;dh	0
 美湖	mz;dy hu;dh	0
 大演	da;ad yj;dy	0
-大演	da;hd yj;dy	0
+大演	da;ad yj;dy	0
 富川縣	fu;bt ir;pu xm;xx	0
 富川縣	fu;bt ir;pa xm;xx	0
 富川縣	fu;bf ir;pu xm;xx	0
 富川縣	fu;bf ir;pa xm;xx	0
-大連民族學院	da;hd lm;zi mn;ag zu;fu xt;jz yr;ew	0
+大連民族學院	da;ad lm;zi mn;ag zu;fu xt;jz yr;ew	0
 文昌北路	wf;dd ih;oo bz;ap lu;zg	0
 蜀郡	uu;si jp;ej	0
 新發路	xn;jq fa;zd lu;zg	0
@@ -22545,7 +22545,7 @@ use_preset_vocabulary: false
 薛強	xt;cx qd;gi	0
 八里街	ba;pd li;aa jx;xg	0
 坎布里奇	kj;tq bu;ju li;aa qi;dk	0
-東沙大道	ds;ad ua;du da;hd dk;zu	0
+東沙大道	ds;ad ua;du da;ad dk;zu	0
 永興站	ys;dd xy;jb vj;lv	0
 永興站	ys;dd xy;tb vj;lv	0
 永興站	ys;dd xy;ba vj;lv	0
@@ -22625,8 +22625,8 @@ use_preset_vocabulary: false
 拜泉	bl;pa qr;ub	0
 大沖口	da;ad is;dv kb;aa	0
 大沖口	da;ad is;dv kb;uh	0
-大沖口	da;hd is;dv kb;aa	0
-大沖口	da;hd is;dv kb;uh	0
+大沖口	da;ad is;dv kb;aa	0
+大沖口	da;ad is;dv kb;uh	0
 高田村	gk;dk tm;aa cp;mc	0
 高田村	gk;dk tm;uh cp;mc	0
 高田村	gk;wk tm;aa cp;mc	0
@@ -22684,13 +22684,13 @@ use_preset_vocabulary: false
 順峯山莊	up;yi fg;uf uj;uu vd;cv	0
 順峯山莊	up;yi fg;uf uj;aa vd;cv	0
 北正	bz;ap vg;av	0
-阜外大街	fu;uk wl;xb da;hd jx;xg	0
+阜外大街	fu;uk wl;xb da;ad jx;xg	0
 細滘	xi;st jc;dk	0
 東張	ds;ad vh;gi	0
 東張	ds;hd vh;gi	0
 東張	ds;mr vh;gi	0
 東張	ds;mo vh;gi	0
-大山後	da;hd uj;aa hb;xw	0
+大山後	da;ad uj;aa hb;xw	0
 龍背	ls;lg bz;ob	0
 龍背	ls;lg bz;yb	0
 龍背	ls;dg bz;ob	0
@@ -22698,7 +22698,7 @@ use_preset_vocabulary: false
 郭家莊	go;ex jw;bu vd;cv	0
 八廠	ba;pd ih;gw	0
 八廠	ba;pd ih;gi	0
-方圓大廈	fh;wd yr;ky da;hd ua;gx	0
+方圓大廈	fh;wd yr;ky da;ad ua;gx	0
 民主剛果	mn;ag vu;dw gh;dg go;ad	0
 坊前	fh;tf qm;bd	0
 坊前	fh;tf qm;qd	0
@@ -22811,7 +22811,7 @@ use_preset_vocabulary: false
 金屬市場	jn;ra uu;ui ui;wj ih;ty	0
 牛骨頭	nq;pa gu;ob tb;dy	0
 大盈	da;ad yy;my	0
-大盈	da;hd yy;my	0
+大盈	da;ad yy;my	0
 後城	hb;rw ig;ti	0
 後城	hb;xw ig;ti	0
 白雲橋	bl;pr yp;yy qc;mq	0
@@ -22833,11 +22833,11 @@ use_preset_vocabulary: false
 民生街	mn;ag ug;na jx;xg	0
 松茂	ss;mg mk;cw	0
 大岡	da;ad gh;ku	0
-大岡	da;hd gh;ku	0
+大岡	da;ad gh;ku	0
 上宅	uh;aa vl;bq	0
 甘溝	gj;ca gb;dg	0
 大寧路	da;ad ny;bd lu;zg	0
-大寧路	da;hd ny;bd lu;zg	0
+大寧路	da;ad ny;bd lu;zg	0
 紀家廟	ji;sj jw;bu mc;gi	0
 田獨鎮	tm;aa du;qu vf;jv	0
 田獨鎮	tm;aa du;qi vf;jv	0
@@ -22926,7 +22926,7 @@ use_preset_vocabulary: false
 白鶴村	bl;ph he;nv cp;mc	0
 白鶴村	bl;pa he;nv cp;mc	0
 白鶴村	bl;po he;nv cp;mc	0
-大水壩	da;hd uv;ad ba;tb	0
+大水壩	da;ad uv;ad ba;tb	0
 共富新村	gs;cb fu;bt xn;jq cp;mc	0
 共富新村	gs;cb fu;bf xn;jq cp;mc	0
 共富新村	gs;bc fu;bt xn;jq cp;mc	0
@@ -22935,7 +22935,7 @@ use_preset_vocabulary: false
 延平路	yj;zv py;hu lu;zg	0
 延平路	yj;zv py;aa lu;zg	0
 延平路	yj;zv py;gb lu;zg	0
-大木倉衚衕	da;hd mu;ad ch;rk hu;xh ts;xi	0
+大木倉衚衕	da;ad mu;ad ch;rk hu;xh ts;xi	0
 陳家河	if;ed jw;bu he;dk	0
 清風店	qy;dq fg;ji dm;gv	0
 船山路	ir;vk uj;uu lu;zg	0
@@ -22953,7 +22953,7 @@ use_preset_vocabulary: false
 孤山村	gu;zg uj;uu cp;mc	0
 孤山村	gu;zg uj;aa cp;mc	0
 新新家園	xn;jq xn;jq jw;bu yr;ky	0
-大唐芙蓉園南門	da;hd th;gk fu;cf rs;cr yr;ky nj;ua mf;aa	0
+大唐芙蓉園南門	da;ad th;gk fu;cf rs;cr yr;ky nj;ua mf;aa	0
 二工	er;aa gs;aa	0
 二工	er;aa gs;hh	0
 二工	er;hh gs;aa	0
@@ -23017,9 +23017,9 @@ use_preset_vocabulary: false
 山背	uj;aa bz;yb	0
 麗園路	li;ll yr;ky lu;zg	0
 龍珠大道	ls;lg vu;wv da;ad dk;zu	0
-龍珠大道	ls;lg vu;wv da;hd dk;zu	0
+龍珠大道	ls;lg vu;wv da;ad dk;zu	0
 龍珠大道	ls;dg vu;wv da;ad dk;zu	0
-龍珠大道	ls;dg vu;wv da;hd dk;zu	0
+龍珠大道	ls;dg vu;wv da;ad dk;zu	0
 西八家戶路	xi;aa ba;pd jw;bu hu;pk lu;zg	0
 西八家戶路	xi;hh ba;pd jw;bu hu;pk lu;zg	0
 館驛街	gr;ug yi;mx jx;xi	0
@@ -23059,7 +23059,7 @@ use_preset_vocabulary: false
 東葦路	ds;mr wz;cw lu;zg	0
 東葦路	ds;mo wz;cw lu;zg	0
 大厝	da;ad co;ix	0
-大厝	da;hd co;ix	0
+大厝	da;ad co;ix	0
 院東	yr;ew ds;ad	0
 院東	yr;ew ds;hd	0
 院東	yr;ew ds;mr	0
@@ -23132,9 +23132,9 @@ use_preset_vocabulary: false
 鄭段	vg;ed dr;du	0
 奶疙瘩	nl;nn ge;bq da;bd	0
 奶疙瘩	nl;nn ge;bq da;bh	0
-江東交警大隊	jd;dg ds;ad jc;wf jy;yj da;hd dv;eu	0
+江東交警大隊	jd;dg ds;ad jc;wf jy;yj da;ad dv;eu	0
 楊梅村	yh;my mz;mm cp;mc	0
-東風大酒店	ds;ad fg;ji da;hd jq;dy dm;gv	0
+東風大酒店	ds;ad fg;ji da;ad jq;dy dm;gv	0
 新文化街	xn;jq wf;dd hw;rb jx;xi	0
 新文化街	xn;jq wf;dd hw;rb jx;xg	0
 新文化街	xn;jq wf;dd hw;rb jx;ri	0
@@ -23143,7 +23143,7 @@ use_preset_vocabulary: false
 洗車廠	xi;dx ie;hh ih;gw	0
 洗車廠	xi;dx ie;hh ih;gi	0
 新大路	xn;jq da;ad lu;zg	0
-新大路	xn;jq da;hd lu;zg	0
+新大路	xn;jq da;ad lu;zg	0
 許昌路	xu;yw ih;rr lu;zg	0
 許昌路	xu;yw ih;oo lu;zg	0
 海遊路	hl;dm yb;zy lu;zg	0
@@ -23152,15 +23152,15 @@ use_preset_vocabulary: false
 龍居寺	ls;lg ju;ug si;ct	0
 龍居寺	ls;dg ju;ug si;tc	0
 龍居寺	ls;dg ju;ug si;ct	0
-工業大道中	gs;aa ye;yl da;hd dk;zu vs;aa	0
+工業大道中	gs;aa ye;yl da;ad dk;zu vs;aa	0
 金塘村	jn;pa th;tt cp;mc	0
 金塘村	jn;rh th;tt cp;mc	0
 金塘村	jn;ra th;tt cp;mc	0
 金塘村	jn;ph th;tt cp;mc	0
 大尖山	da;ad jm;xd uj;uu	0
 大尖山	da;ad jm;xd uj;aa	0
-大尖山	da;hd jm;xd uj;uu	0
-大尖山	da;hd jm;xd uj;aa	0
+大尖山	da;ad jm;xd uj;uu	0
+大尖山	da;ad jm;xd uj;aa	0
 紅廟子街道	hs;sg mc;gi zi;aa jx;xg dk;zu	0
 山東街	uj;aa ds;ad jx;xg	0
 西坑村	xi;aa kg;tk cp;mc	0
@@ -23226,12 +23226,12 @@ use_preset_vocabulary: false
 三江村	sj;aa jd;dg cp;mc	0
 三江村	sj;hh jd;dg cp;mc	0
 朝陽市雙塔區	vk;ou yh;ey ui;wj ud;vy ta;td qu;kp	0
-阜通東大街	fu;uk ts;zy ds;ad da;hd jx;xg	0
+阜通東大街	fu;uk ts;zy ds;ad da;ad jx;xg	0
 寶安南路	bk;bb an;bn nj;uu lu;zg	0
 寶安南路	bk;bb an;bn nj;ua lu;zg	0
 寶安南路	bk;bb an;bn nj;uy lu;zg	0
 大羽	da;ad yu;xx	0
-大羽	da;hd yu;xx	0
+大羽	da;ad yu;xx	0
 蘭阿	lj;cj aa;ek	0
 蘭阿	lj;cl aa;ek	0
 李方方	li;mz fh;wd fh;wd	0
@@ -23260,16 +23260,16 @@ use_preset_vocabulary: false
 春柳	ip;of lq;mm	0
 春柳	ip;rf lq;mm	0
 二環路東一段	er;aa hr;wh lu;zg ds;ad yi;aa dr;pu	0
-東大河	ds;ad da;hd he;dk	0
+東大河	ds;ad da;ad he;dk	0
 松溉	ss;mg gl;dj	0
 中營	vs;aa yy;hl	0
 玉林南路	yu;wd ln;mm nj;ua lu;zg	0
 洞橋	ds;dt qc;mq	0
 深圳會堂	uf;dm vf;ti hv;ro th;tk	0
 花卉大	hw;ch hv;uc da;ad	0
-花卉大	hw;ch hv;uc da;hd	0
+花卉大	hw;ch hv;uc da;ad	0
 花卉大	hw;ch hv;cu da;ad	0
-花卉大	hw;ch hv;cu da;hd	0
+花卉大	hw;ch hv;cu da;ad	0
 雙泉村	ud;yv qr;bu cp;mc	0
 雙泉村	ud;yv qr;ub cp;mc	0
 雙泉村	ud;vy qr;bu cp;mc	0
@@ -23292,12 +23292,12 @@ use_preset_vocabulary: false
 福昌	fu;uf ih;rr	0
 福昌	fu;uf ih;oo	0
 昌大	ih;rr da;ad	0
-昌大	ih;rr da;hd	0
+昌大	ih;rr da;ad	0
 昌大	ih;oo da;ad	0
-昌大	ih;oo da;hd	0
+昌大	ih;oo da;ad	0
 福州軟件園	fu;uf vb;id rr;iq jm;rn yr;ky	0
 沐陽	mu;dm yh;ey	0
-大慶油田公司	da;hd qy;gw yb;dy tm;aa gs;sb si;gk	0
+大慶油田公司	da;ad qy;gw yb;dy tm;aa gs;sb si;gk	0
 西航花園	xi;aa hh;vk hw;ch yr;ky	0
 西航花園	xi;hh hh;vk hw;ch yr;ky	0
 惠新西街北口	hv;xh xn;jq xi;aa jx;xg bz;ap kb;aa	0
@@ -23353,7 +23353,7 @@ use_preset_vocabulary: false
 電石廠	dm;yd ui;kp ih;gi	0
 世紀星城	ui;ca ji;sj xy;ou ig;ti	0
 逸城	yi;zt ig;ti	0
-民航大廈	mn;ag hh;vk da;hd ua;gx	0
+民航大廈	mn;ag hh;vk da;ad ua;gx	0
 貓仔	mk;vm zl;rz	0
 聖基茨和尼維斯	ug;ew ji;tq ci;cc he;hk ni;ub wz;sv si;jq	0
 石井社區	ui;kp jy;aa ue;ut qu;kp	0
@@ -23380,7 +23380,7 @@ use_preset_vocabulary: false
 安慧橋	an;bn hv;xh qc;mq	0
 安慧橋	an;bn hv;fx qc;mq	0
 太湖大道	tl;dd hu;dh da;ad dk;zu	0
-太湖大道	tl;dd hu;dh da;hd dk;zu	0
+太湖大道	tl;dd hu;dh da;ad dk;zu	0
 東門北路	ds;ad mf;aa bz;ap lu;zg	0
 黃材水庫	hd;cb cl;mc uv;ud ku;gi	0
 黃材水庫	hd;cb cl;mc uv;uv ku;gi	0
@@ -23390,7 +23390,7 @@ use_preset_vocabulary: false
 榮校	rs;mb xc;mj	0
 榮校	rs;hm xc;mj	0
 大坂	da;ad bj;tf	0
-大坂	da;hd bj;tf	0
+大坂	da;ad bj;tf	0
 汽車產業開發區	qi;dq ie;aa ij;wu ye;yl kl;mk fa;du qu;kp	0
 十二中學	ui;aa er;aa vs;aa xt;jz	0
 回龍埔	hv;kk ls;lg pu;tf	0
@@ -23521,8 +23521,8 @@ use_preset_vocabulary: false
 寬城縣	kr;bd ig;ti xm;xx	0
 芳村大道西	fh;cf cp;mc da;ad dk;zu xi;aa	0
 芳村大道西	fh;cf cp;mc da;ad dk;zu xi;hh	0
-芳村大道西	fh;cf cp;mc da;hd dk;zu xi;aa	0
-芳村大道西	fh;cf cp;mc da;hd dk;zu xi;hh	0
+芳村大道西	fh;cf cp;mc da;ad dk;zu xi;aa	0
+芳村大道西	fh;cf cp;mc da;ad dk;zu xi;hh	0
 回龍山	hv;kk ls;lg uj;uu	0
 回龍山	hv;kk ls;lg uj;aa	0
 回龍山	hv;kk ls;dg uj;uu	0
@@ -23542,7 +23542,7 @@ use_preset_vocabulary: false
 都市名園	du;ev ui;dj my;xk yr;ky	0
 都市名園	du;ev ui;wj my;xk yr;ky	0
 親仁路	qn;jq rf;re lu;zg	0
-大慶石油學院	da;hd qy;gw ui;kp yb;dy xt;jz yr;ew	0
+大慶石油學院	da;ad qy;gw ui;kp yb;dy xt;jz yr;ew	0
 福星集團	fu;uf xy;ou ji;vm tr;kv	0
 巴士四汽	ba;ag ui;aa si;ke qi;dq	0
 下包	xw;ab bk;gs	0
@@ -23567,7 +23567,7 @@ use_preset_vocabulary: false
 東九	ds;mo jq;py	0
 譚村	tj;yt cp;mc	0
 大埔區	da;ad bu;tf qu;kp	0
-大埔區	da;hd bu;tf qu;kp	0
+大埔區	da;ad bu;tf qu;kp	0
 內坑	nz;kr kg;tk	0
 廈禾路	ua;gx he;pd lu;zg	0
 廈禾路	ua;gx he;pm lu;zg	0
@@ -23580,7 +23580,7 @@ use_preset_vocabulary: false
 沙頭角保稅區	ua;du tb;yd jc;dy bk;rd uv;hd qu;kp	0
 沙頭角保稅區	ua;du tb;dy jc;dy bk;rd uv;hd qu;kp	0
 錢江大橋	qm;jj jd;dg da;ad qc;mq	0
-錢江大橋	qm;jj jd;dg da;hd qc;mq	0
+錢江大橋	qm;jj jd;dg da;ad qc;mq	0
 九嶺	jq;py ly;ul	0
 曙光南路	uu;ou gd;xw nj;ua lu;zg	0
 三壩	sj;aa ba;tb	0
@@ -23622,7 +23622,7 @@ use_preset_vocabulary: false
 佳木斯路	jw;rg mu;ad si;jq lu;zg	0
 佳木斯路	jw;rg mu;hd si;qj lu;zg	0
 佳木斯路	jw;rg mu;hd si;jq lu;zg	0
-大東關	da;hd ds;ad gr;ma	0
+大東關	da;ad ds;ad gr;ma	0
 金相	jn;ra xd;mm	0
 甘泉路	gj;ca qr;ub lu;zg	0
 南公園	nj;ua gs;sb yr;ky	0
@@ -23638,7 +23638,7 @@ use_preset_vocabulary: false
 崑崙橋	kp;uk lp;ul qc;mq	0
 埔心	pu;tf xn;dd	0
 西門村	xi;aa mf;aa cp;mc	0
-電報大樓	dm;yd bk;ex da;hd lb;ml	0
+電報大樓	dm;yd bk;ex da;ad lb;ml	0
 合川路	he;rk ir;pu lu;zg	0
 合川路	he;rk ir;pa lu;zg	0
 錦西路	jn;jj xi;aa lu;zg	0
@@ -23647,9 +23647,9 @@ use_preset_vocabulary: false
 錦西路	jn;jb xi;hh lu;zg	0
 山東省樂陵市	uj;aa ds;ad ug;ou le;bm ly;el ui;wj	0
 三縣洲大橋	sj;aa xm;xx vb;dv da;ad qc;mq	0
-三縣洲大橋	sj;aa xm;xx vb;dv da;hd qc;mq	0
+三縣洲大橋	sj;aa xm;xx vb;dv da;ad qc;mq	0
 三縣洲大橋	sj;hh xm;xx vb;dv da;ad qc;mq	0
-三縣洲大橋	sj;hh xm;xx vb;dv da;hd qc;mq	0
+三縣洲大橋	sj;hh xm;xx vb;dv da;ad qc;mq	0
 南海實驗中學	nj;ua hl;dm ui;bg yj;mq vs;aa xt;jz	0
 紅豆樹	hs;sg db;aa uu;mc	0
 碧海雲天	bi;up hl;dm yp;yy tm;ad	0
@@ -23663,7 +23663,7 @@ use_preset_vocabulary: false
 溪南	xi;dx nj;uu	0
 溪南	xi;dx nj;ua	0
 溪南	xi;dx nj;uy	0
-淨月大街	jy;dv yt;pa da;hd jx;xg	0
+淨月大街	jy;dv yt;pa da;ad jx;xg	0
 梅列	mz;mm lx;dd	0
 南丹路	nj;uu dj;pd lu;zg	0
 南丹路	nj;ua dj;pd lu;zg	0
@@ -23677,9 +23677,9 @@ use_preset_vocabulary: false
 東月	ds;ad yt;pa	0
 呼瑪	hu;kh ma;wm	0
 豔陽裏	yj;fh yh;ey li;dy	0
-黃村西大街	hd;cb cp;mc xi;aa da;hd jx;xg	0
+黃村西大街	hd;cb cp;mc xi;aa da;ad jx;xg	0
 劍河路	jm;dq he;dk lu;zg	0
-六大市場	lq;wb da;hd ui;wj ih;ty	0
+六大市場	lq;wb da;ad ui;wj ih;ty	0
 二牧場	er;aa mu;nw ih;ty	0
 二牧場	er;hh mu;nw ih;ty	0
 富貴園	fu;bt gv;bg yr;ky	0
@@ -23688,13 +23688,13 @@ use_preset_vocabulary: false
 樓背	lb;ml bz;yb	0
 大望村	da;ad wh;wo cp;mc	0
 大望村	da;ad wh;wy cp;mc	0
-大望村	da;hd wh;wo cp;mc	0
-大望村	da;hd wh;wy cp;mc	0
+大望村	da;ad wh;wo cp;mc	0
+大望村	da;ad wh;wy cp;mc	0
 鞍山道	an;ga uj;uu dk;zu	0
 鞍山道	an;ga uj;aa dk;zu	0
 六部口	lq;wb bu;ek kb;aa	0
 八十中學	ba;pd ui;aa vs;aa xt;jz	0
-大面鎮	da;hd mm;aa vf;jv	0
+大面鎮	da;ad mm;aa vf;jv	0
 盛峯	ug;mi fg;uf	0
 珠林路	vu;wv ln;mm lu;zg	0
 榆樹溝	yu;my uu;mc gb;dr	0
@@ -23784,9 +23784,9 @@ use_preset_vocabulary: false
 坨里	to;tt li;aa	0
 坨里	to;tt li;uh	0
 長城大廈	ih;ad ig;ti da;ad ua;gx	0
-長城大廈	ih;ad ig;ti da;hd ua;gx	0
+長城大廈	ih;ad ig;ti da;ad ua;gx	0
 長城大廈	ih;hd ig;ti da;ad ua;gx	0
-長城大廈	ih;hd ig;ti da;hd ua;gx	0
+長城大廈	ih;hd ig;ti da;ad ua;gx	0
 火瓦巷	ho;dd wa;ad xd;sg	0
 火瓦巷	ho;dd wa;ad xd;gs	0
 火瓦巷	ho;dd wa;hd xd;sg	0
@@ -23918,7 +23918,7 @@ use_preset_vocabulary: false
 府南新區	fu;gf nj;uy xn;jq qu;kp	0
 河北省清苑縣	he;dk bz;ap ug;ou qy;dq yr;ce xm;xx	0
 南湖東園	nj;ua hu;dh ds;ad yr;ky	0
-大興縣	da;hd xy;ba xm;xx	0
+大興縣	da;ad xy;ba xm;xx	0
 潞西市	lu;dl xi;aa ui;dj	0
 潞西市	lu;dl xi;aa ui;wj	0
 潞西市	lu;dl xi;hh ui;dj	0
@@ -23931,7 +23931,7 @@ use_preset_vocabulary: false
 東軟信息學院	ds;ad rr;iq xn;ry xi;xz xt;jz yr;ew	0
 白雲區醫院	bl;pa yp;yy qu;kp yi;yu yr;ew	0
 大郭村	da;ad go;ex cp;mc	0
-大郭村	da;hd go;ex cp;mc	0
+大郭村	da;ad go;ex cp;mc	0
 蜂桶寨鄉	fg;if ts;my vl;mb xd;el	0
 蜂桶寨鄉	fg;if ts;my vl;mb xd;xl	0
 蜂桶寨鄉	fg;if ts;my vl;bm xd;el	0
@@ -23986,7 +23986,7 @@ use_preset_vocabulary: false
 沈橋	uf;dy qc;mq	0
 沈橋	uf;dg qc;mq	0
 大溪村	da;ad xi;dx cp;mc	0
-大溪村	da;hd xi;dx cp;mc	0
+大溪村	da;ad xi;dx cp;mc	0
 美麗園	mz;yd li;ll yr;ky	0
 美麗園	mz;dy li;ll yr;ky	0
 四季陽光	si;ke ji;hz yh;ey gd;xw	0
@@ -24022,12 +24022,12 @@ use_preset_vocabulary: false
 十七戶	ui;aa qi;ag hu;pk	0
 謝家莊	xx;yu jw;bu vd;cv	0
 麓谷大道	lu;ll gu;bk da;ad dk;zu	0
-麓谷大道	lu;ll gu;bk da;hd dk;zu	0
+麓谷大道	lu;ll gu;bk da;ad dk;zu	0
 麓谷大道	lu;ll gu;kr da;ad dk;zu	0
-麓谷大道	lu;ll gu;kr da;hd dk;zu	0
+麓谷大道	lu;ll gu;kr da;ad dk;zu	0
 華飛	hw;ca fz;ff	0
 大桃園	da;ad tk;mv yr;ky	0
-大桃園	da;hd tk;mv yr;ky	0
+大桃園	da;ad tk;mv yr;ky	0
 從化縣	cs;xv hw;rb xm;xx	0
 從化縣	cs;rv hw;rb xm;xx	0
 千石	qm;pa ui;kp	0
@@ -24186,9 +24186,9 @@ use_preset_vocabulary: false
 雲埔工業區	yp;yy pu;tf gs;aa ye;yl qu;kp	0
 雲埔工業區	yp;yy pu;tf gs;hh ye;yw qu;kp	0
 雲埔工業區	yp;yy pu;tf gs;hh ye;yl qu;kp	0
-大江衚衕	da;hd jd;dg hu;xh ts;xi	0
+大江衚衕	da;ad jd;dg hu;xh ts;xi	0
 桃李園	tk;mv li;mz yr;ky	0
-遠東大道	yr;zy ds;ad da;hd dk;zu	0
+遠東大道	yr;zy ds;ad da;ad dk;zu	0
 銀城酒店	yn;jg ig;ti jq;dy dm;gv	0
 東城辦事處	ds;ad ig;ti bj;lx ui;aa iu;hi	0
 油鋪街	yb;dy pu;jf jx;xi	0
@@ -24351,7 +24351,7 @@ use_preset_vocabulary: false
 東莞莊路	ds;mr gr;cw vd;cv lu;zg	0
 東莞莊路	ds;mo gr;cw vd;cv lu;zg	0
 公利醫院	gs;sb li;dh yi;yu yr;ew	0
-錦繡大地市場	jn;jb xq;ss da;hd di;ty ui;wj ih;ty	0
+錦繡大地市場	jn;jb xq;ss da;ad di;ty ui;wj ih;ty	0
 勝利劇院	ug;ol li;dh ju;dj yr;ew	0
 新東村	xn;jq ds;ad cp;mc	0
 新東村	xn;jq ds;hd cp;mc	0
@@ -24365,7 +24365,7 @@ use_preset_vocabulary: false
 雲屏	yp;yy py;ub	0
 永定鎮政府	ys;dd dy;bp vf;jv vg;wv fu;gf	0
 中山縣	vs;aa uj;aa xm;xx	0
-大河南	da;hd he;dk nj;ua	0
+大河南	da;ad he;dk nj;ua	0
 黑山路	hz;ha uj;aa lu;zg	0
 官田村	gr;bg tm;aa cp;mc	0
 官田村	gr;bg tm;uh cp;mc	0
@@ -24385,7 +24385,7 @@ use_preset_vocabulary: false
 巷頭	xd;sg tb;dy	0
 巷頭	xd;gs tb;yd	0
 巷頭	xd;gs tb;dy	0
-瀾石大橋	lj;dj ui;kp da;hd qc;mq	0
+瀾石大橋	lj;dj ui;kp da;ad qc;mq	0
 韋家	wz;wf jw;bu	0
 韋家	wz;aa jw;bu	0
 韋家	wz;vu jw;bu	0
@@ -24418,9 +24418,9 @@ use_preset_vocabulary: false
 頭案	tb;dy an;bm	0
 頭案	tb;dy an;ma	0
 電力大廈	dm;yg li;gp da;ad ua;gx	0
-電力大廈	dm;yg li;gp da;hd ua;gx	0
+電力大廈	dm;yg li;gp da;ad ua;gx	0
 電力大廈	dm;yd li;gp da;ad ua;gx	0
-電力大廈	dm;yd li;gp da;hd ua;gx	0
+電力大廈	dm;yd li;gp da;ad ua;gx	0
 同濟市場	ts;kk ji;dq ui;dj ih;ty	0
 同濟市場	ts;kk ji;dq ui;wj ih;ty	0
 尚儉路	uh;xk jm;rq lu;zg	0
@@ -24468,7 +24468,7 @@ use_preset_vocabulary: false
 淮河西路	hy;dv he;dk xi;aa lu;zg	0
 淮河西路	hy;dv he;dk xi;hh lu;zg	0
 大堡	da;ad bk;tb	0
-大堡	da;hd bk;tb	0
+大堡	da;ad bk;tb	0
 擇水	ze;fx uv;ud	0
 擇水	ze;fx uv;uv	0
 擇水	ze;fx uv;ad	0
@@ -24573,7 +24573,7 @@ use_preset_vocabulary: false
 西頭村	xi;hh tb;dy cp;mc	0
 顏料坊	yj;yy lc;md fh;tf	0
 幼師學校	yb;ly ui;bv xt;jz xc;mj	0
-江北交警大隊	jd;dg bz;ap jc;wf jy;yj da;hd dv;eu	0
+江北交警大隊	jd;dg bz;ap jc;wf jy;yj da;ad dv;eu	0
 黃河道	hd;cb he;dk dk;zu	0
 祥光	xd;uy gd;eh	0
 祥光	xd;uy gd;ea	0
@@ -24627,7 +24627,7 @@ use_preset_vocabulary: false
 張公嶺	vh;gi gs;bs ly;ul	0
 張公嶺	vh;gi gs;sb ly;ul	0
 大埔村	da;ad bu;tf cp;mc	0
-大埔村	da;hd bu;tf cp;mc	0
+大埔村	da;ad bu;tf cp;mc	0
 銀行學校	yn;jg hh;xd xt;jz xc;mj	0
 從化中學	cs;xv hw;rb vs;aa xt;jz	0
 鴻安	hs;nj an;bn	0
@@ -24667,7 +24667,7 @@ use_preset_vocabulary: false
 九龍口	jq;py ls;dg kb;aa	0
 九龍口	jq;py ls;dg kb;uh	0
 大安村	da;ad an;bn cp;mc	0
-大安村	da;hd an;bn cp;mc	0
+大安村	da;ad an;bn cp;mc	0
 紅旗坡	hs;sg qi;fq po;tp	0
 鑼鍋巷	lo;jl go;jg xd;gs	0
 東漖北路	ds;ad jc;dj bz;ap lu;zg	0
@@ -24704,7 +24704,7 @@ use_preset_vocabulary: false
 新泰縣	xn;jq tl;uf xm;xx	0
 謝家村	xx;yu jw;bu cp;mc	0
 大孫各莊	da;ad sp;zx ge;wk vd;cv	0
-大孫各莊	da;hd sp;zx ge;wk vd;cv	0
+大孫各莊	da;ad sp;zx ge;wk vd;cv	0
 晨光路	if;oi gd;xw lu;zg	0
 漫水河	mj;dm uv;ud he;dk	0
 漫水河	mj;dm uv;uv he;dk	0
@@ -24908,9 +24908,9 @@ use_preset_vocabulary: false
 墩頭	dp;td tb;yd	0
 墩頭	dp;td tb;dy	0
 航空大酒店	hh;vk ks;bg da;ad jq;dy dm;gv	0
-航空大酒店	hh;vk ks;bg da;hd jq;dy dm;gv	0
+航空大酒店	hh;vk ks;bg da;ad jq;dy dm;gv	0
 航空大酒店	hh;vk ks;xg da;ad jq;dy dm;gv	0
-航空大酒店	hh;vk ks;xg da;hd jq;dy dm;gv	0
+航空大酒店	hh;vk ks;xg da;ad jq;dy dm;gv	0
 通州市	ts;zy vb;id ui;wj	0
 利特爾頓	li;dh te;ns er;ay dp;yt	0
 夏家村	xw;wz jw;bu cp;mc	0
@@ -24925,7 +24925,7 @@ use_preset_vocabulary: false
 龍壩	ls;lg ba;tb	0
 龍壩	ls;dg ba;tb	0
 橫江村	hg;mh jd;dg cp;mc	0
-大明宮建材市場	da;hd my;oo gs;bl jm;zy cl;mc ui;wj ih;ty	0
+大明宮建材市場	da;ad my;oo gs;bl jm;zy cl;mc ui;wj ih;ty	0
 柳蔭街	lq;mm yn;cy jx;xi	0
 柳蔭街	lq;mm yn;cy jx;xg	0
 柳蔭街	lq;mm yn;cy jx;ri	0
@@ -24958,7 +24958,7 @@ use_preset_vocabulary: false
 愛新	ai;vw xn;jq	0
 愛新	ai;xw xn;jq	0
 醫療器械廠	yi;yu lc;bl qi;kk xx;mj ih;gi	0
-北京人文大學	bz;ap jy;wx rf;pd wf;dd da;hd xt;jz	0
+北京人文大學	bz;ap jy;wx rf;pd wf;dd da;ad xt;jz	0
 萬寧橋	wj;cy ny;bd qc;mq	0
 河南路橋	he;dk nj;uu lu;zg qc;mq	0
 河南路橋	he;dk nj;ua lu;zg qc;mq	0
@@ -24987,7 +24987,7 @@ use_preset_vocabulary: false
 百家匯	bl;ab jw;bu hv;kh	0
 百家匯	bl;hb jw;bu hv;kh	0
 百家匯	bl;bh jw;bu hv;kh	0
-大勺子	da;hd uk;gd zi;aa	0
+大勺子	da;ad uk;gd zi;aa	0
 黃泥地	hd;cb ni;dn di;ty	0
 新新飯店	xn;jq xn;jq fj;uf dm;gv	0
 萬莊	wj;cy vd;cv	0
@@ -25088,7 +25088,7 @@ use_preset_vocabulary: false
 白雲山腳	bl;pa yp;yy uj;aa jc;oq	0
 三坪農場	sj;aa py;tp ns;qi ih;ty	0
 三坪農場	sj;hh py;tp ns;qi ih;ty	0
-大石壩街	da;hd ui;kp ba;tb jx;xg	0
+大石壩街	da;ad ui;kp ba;tb jx;xg	0
 唐家院子	th;gk jw;bu yr;ew zi;aa	0
 唐家院子	th;gk jw;bu yr;ew zi;vh	0
 安達公司	an;bn da;zy gs;sb si;gk	0
@@ -25106,7 +25106,7 @@ use_preset_vocabulary: false
 姬堂	ji;ni th;xt	0
 姬堂	ji;ni th;tk	0
 和村村	he;hk cp;mc cp;mc	0
-大青溝	da;hd qy;of gb;dg	0
+大青溝	da;ad qy;of gb;dg	0
 二環路東四段	er;aa hr;wh lu;zg ds;ad si;ke dr;pu	0
 富拉爾基	fu;bf la;fl er;ay ji;tq	0
 延齡巷	yj;zv ly;il xd;sg	0
@@ -25164,7 +25164,7 @@ use_preset_vocabulary: false
 龍福	ls;dg fu;uf	0
 碧水雲天	bi;ub uv;ad yp;yy tm;ad	0
 古漢路	gu;uk hj;dh lu;zg	0
-工會大廈	gs;aa hv;ro da;hd ua;gx	0
+工會大廈	gs;aa hv;ro da;ad ua;gx	0
 興東機場	xy;ba ds;ad ji;mj ih;ty	0
 指揮街	vi;fv hv;fj jx;xi	0
 指揮街	vi;fv hv;fj jx;xg	0
@@ -25202,13 +25202,13 @@ use_preset_vocabulary: false
 回龍寺	hv;kk ls;dg si;tc	0
 回龍寺	hv;kk ls;dg si;ct	0
 栲栳	kk;mk lk;ml	0
-大華山	da;hd hw;ca uj;aa	0
+大華山	da;ad hw;ca uj;aa	0
 深縣	uf;dm xm;xx	0
 東七路	ds;ad qi;ag lu;zg	0
 清華西門	qy;dq hw;ca xi;aa mf;aa	0
 任莊	rf;rr vd;cv	0
 紅旗橋	hs;sg qi;fq qc;mq	0
-交大南門	jc;wf da;hd nj;ua mf;aa	0
+交大南門	jc;wf da;ad nj;ua mf;aa	0
 德元	de;xx yr;ee	0
 金雞路	jn;pa ji;vx lu;zg	0
 金雞路	jn;rh ji;vx lu;zg	0
@@ -25245,9 +25245,9 @@ use_preset_vocabulary: false
 李哥莊	li;mz ge;dk vd;cv	0
 李哥莊	li;mz ge;kd vd;cv	0
 西區大道	xi;aa qu;kp da;ad dk;zu	0
-西區大道	xi;aa qu;kp da;hd dk;zu	0
+西區大道	xi;aa qu;kp da;ad dk;zu	0
 西區大道	xi;hh qu;kp da;ad dk;zu	0
-西區大道	xi;hh qu;kp da;hd dk;zu	0
+西區大道	xi;hh qu;kp da;ad dk;zu	0
 八里灣	ba;pd li;aa wj;dg	0
 八卦三路	ba;pd gw;bg sj;aa lu;zg	0
 八卦三路	ba;pd gw;bg sj;hh lu;zg	0
@@ -25269,7 +25269,7 @@ use_preset_vocabulary: false
 公山	gs;sb uj;aa	0
 馮莊	fg;dm vd;cv	0
 閩江大橋	mn;mi jd;dg da;ad qc;mq	0
-閩江大橋	mn;mi jd;dg da;hd qc;mq	0
+閩江大橋	mn;mi jd;dg da;ad qc;mq	0
 湘湖路	xd;dx hu;dh lu;zg	0
 羊口	yh;da kb;aa	0
 羊口	yh;da kb;uh	0
@@ -25280,7 +25280,7 @@ use_preset_vocabulary: false
 端芬	dr;le ff;cf	0
 北石槽	bz;ap ui;kp ck;mc	0
 天壇北門	tm;ad tj;td bz;ap mf;aa	0
-中南大學鐵道學院	vs;aa nj;ua da;hd xt;jz tx;jg dk;zu xt;jz yr;ew	0
+中南大學鐵道學院	vs;aa nj;ua da;ad xt;jz tx;jg dk;zu xt;jz yr;ew	0
 老邊	lk;bl bm;zf	0
 老邊	lk;lb bm;zf	0
 陽光嘉園	yh;ey gd;eh jw;uj yr;ky	0
@@ -25350,7 +25350,7 @@ use_preset_vocabulary: false
 酸棗嶺	sr;yj zk;cc ly;ul	0
 通惠門	ts;zy hv;xh mf;aa	0
 沙大	ua;du da;ad	0
-沙大	ua;du da;hd	0
+沙大	ua;du da;ad	0
 東南眼科醫院	ds;ad nj;ua yj;og ke;hd yi;yu yr;ew	0
 江灣體育場	jd;dg wj;dg ti;gd yu;os ih;ty	0
 競舟路	jy;lx vb;pd lu;zg	0
@@ -25425,8 +25425,8 @@ use_preset_vocabulary: false
 老牛灣	lk;bl nq;pa wj;dg	0
 大華路	da;ad hw;ch lu;zg	0
 大華路	da;ad hw;ca lu;zg	0
-大華路	da;hd hw;ch lu;zg	0
-大華路	da;hd hw;ca lu;zg	0
+大華路	da;ad hw;ch lu;zg	0
+大華路	da;ad hw;ca lu;zg	0
 吉羊	ji;ku yh;da	0
 吉羊	ji;ku yh;du	0
 吉羊	ji;uk yh;da	0
@@ -25568,8 +25568,8 @@ use_preset_vocabulary: false
 雙塘街道	ud;vy th;tt jx;xg dk;zu	0
 大禹陵	da;ad yu;pd ly;ew	0
 大禹陵	da;ad yu;pd ly;el	0
-大禹陵	da;hd yu;pd ly;ew	0
-大禹陵	da;hd yu;pd ly;el	0
+大禹陵	da;ad yu;pd ly;ew	0
+大禹陵	da;ad yu;pd ly;el	0
 西體	xi;aa ti;gd	0
 西體	xi;aa ti;gl	0
 西體	xi;hh ti;gd	0
@@ -25602,7 +25602,7 @@ use_preset_vocabulary: false
 蟹島度假村	xx;ij dk;nu du;gy jw;ry cp;mc	0
 蟹島度假村	xx;ij dk;nu du;gy jw;rj cp;mc	0
 大嶼	da;ad yu;uy	0
-大嶼	da;hd yu;uy	0
+大嶼	da;ad yu;uy	0
 七廠十字	qi;ag ih;gi ui;aa zi;bz	0
 州司法局	vb;id si;gk fa;dq ju;uk	0
 新民中街	xn;jq mn;ag vs;aa jx;xg	0
@@ -25651,7 +25651,7 @@ use_preset_vocabulary: false
 孟家村	mg;zm jw;bu cp;mc	0
 孟家村	mg;mz jw;bu cp;mc	0
 新農大	xn;jq ns;qi da;ad	0
-新農大	xn;jq ns;qi da;hd	0
+新農大	xn;jq ns;qi da;ad	0
 湖前	hu;dh qm;bd	0
 湖前	hu;dh qm;qd	0
 志勇	vi;ux ys;ly	0
@@ -25664,7 +25664,7 @@ use_preset_vocabulary: false
 白龍村	bl;pa ls;dg cp;mc	0
 甘肅路	gj;ca su;ya lu;zg	0
 長子營	vh;ad zi;aa yy;hl	0
-嶽麓區嶽麓大道	yt;uq lu;ll qu;kp yt;uq lu;ll da;hd dk;zu	0
+嶽麓區嶽麓大道	yt;uq lu;ll qu;kp yt;uq lu;ll da;ad dk;zu	0
 雙龍巷	ud;vy ls;dg xd;gs	0
 牛角山	nq;pu jc;dy uj;uu	0
 牛角山	nq;pu jc;dy uj;aa	0
@@ -25736,7 +25736,7 @@ use_preset_vocabulary: false
 第十甫	di;vp ui;hu fu;hd	0
 第十甫	di;vp ui;aa fu;ad	0
 第十甫	di;vp ui;aa fu;hd	0
-大沙街	da;hd ua;du jx;xg	0
+大沙街	da;ad ua;du jx;xg	0
 相州	xd;mm vb;id	0
 欽南	qn;jq nj;ua	0
 三分場	sj;aa ff;bd ih;ty	0
@@ -25830,7 +25830,7 @@ use_preset_vocabulary: false
 曲溪	qu;oa xi;dx	0
 曲溪	qu;uh xi;dx	0
 曲溪	qu;ru xi;dx	0
-九興大道	jq;py xy;ba da;hd dk;zu	0
+九興大道	jq;py xy;ba da;ad dk;zu	0
 西南城角	xi;aa nj;ua ig;ti jc;dy	0
 張家樓	vh;gi jw;bu lb;ml	0
 東溪村	ds;ad xi;dx cp;mc	0
@@ -25851,7 +25851,7 @@ use_preset_vocabulary: false
 聊城經濟開發區	lc;em ig;ti jy;sg ji;dq kl;mk fa;du qu;kp	0
 雲一	yp;yy yi;aa	0
 雲一	yp;yy yi;hh	0
-世紀大街	ui;ca ji;sj da;hd jx;xg	0
+世紀大街	ui;ca ji;sj da;ad jx;xg	0
 馬街街道	ma;ad jx;xg jx;xg dk;zu	0
 雲峯村	yp;yy fg;uf cp;mc	0
 蔣建平	jd;cj jm;zy py;hu	0
@@ -25891,7 +25891,7 @@ use_preset_vocabulary: false
 西牌樓	xi;hh pl;pb lb;ml	0
 楊泗廟	yh;my si;ds mc;gi	0
 質大	vi;bj da;ad	0
-質大	vi;bj da;hd	0
+質大	vi;bj da;ad	0
 五丈原	wu;aa vh;ad yr;ix	0
 五丈原	wu;aa vh;hd yr;ix	0
 五丈原	wu;hh vh;ad yr;ix	0
@@ -25981,12 +25981,12 @@ use_preset_vocabulary: false
 宋家溝	ss;bm jw;bu gb;dr	0
 宋家溝	ss;bm jw;bu gb;dg	0
 大牌樓	da;ad pl;pb lb;ml	0
-大牌樓	da;hd pl;pb lb;ml	0
+大牌樓	da;ad pl;pb lb;ml	0
 宋家村	ss;bm jw;bu cp;mc	0
 蘆家河	lu;cl jw;bu he;dk	0
-大沙頭碼頭	da;hd ua;du tb;dy ma;um tb;dy	0
+大沙頭碼頭	da;ad ua;du tb;dy ma;um tb;dy	0
 大茅	da;ad mk;cm	0
-大茅	da;hd mk;cm	0
+大茅	da;ad mk;cm	0
 萬家莊	wj;cy jw;bu vd;cv	0
 秀川路	xq;hn ir;pu lu;zg	0
 秀川路	xq;hn ir;pa lu;zg	0
@@ -26014,8 +26014,8 @@ use_preset_vocabulary: false
 崇武古城	is;uz wu;vy gu;uk ig;ti	0
 大豐縣	da;ad fg;ud xm;xx	0
 大豐縣	da;ad fg;df xm;xx	0
-大豐縣	da;hd fg;ud xm;xx	0
-大豐縣	da;hd fg;df xm;xx	0
+大豐縣	da;ad fg;ud xm;xx	0
+大豐縣	da;ad fg;df xm;xx	0
 棗子巷	zk;cc zi;aa xd;gs	0
 榴園	lq;ml yr;ky	0
 關西小區	gr;ma xi;aa xc;ad qu;kp	0
@@ -26031,7 +26031,7 @@ use_preset_vocabulary: false
 榮隆	rs;mb ls;eu	0
 榮隆	rs;hm ls;eu	0
 圭塘路	gv;tt th;tt lu;zg	0
-清華大學西門	qy;dq hw;ca da;hd xt;jz xi;aa mf;aa	0
+清華大學西門	qy;dq hw;ca da;ad xt;jz xi;aa mf;aa	0
 黃洞	hd;cb ds;dt	0
 靈山村	ly;yw uj;uu cp;mc	0
 靈山村	ly;yw uj;aa cp;mc	0
@@ -26047,7 +26047,7 @@ use_preset_vocabulary: false
 環湖西路	hr;wy hu;dh xi;hh lu;zg	0
 河北省廊坊市安次區	he;dk bz;ap ug;ou lh;gl fh;tf ui;wj an;bn ci;dq qu;kp	0
 吳淞大橋	wu;kd ss;ds da;ad qc;mq	0
-吳淞大橋	wu;kd ss;ds da;hd qc;mq	0
+吳淞大橋	wu;kd ss;ds da;ad qc;mq	0
 黃糖	hd;cb th;mt	0
 巴彥淖爾盟	ba;ag yj;pi nk;dv er;ay mg;mm	0
 試劍	ui;yu jm;dq	0
@@ -26059,7 +26059,7 @@ use_preset_vocabulary: false
 田頭村	tm;aa tb;dy cp;mc	0
 田頭村	tm;uh tb;yd cp;mc	0
 田頭村	tm;uh tb;dy cp;mc	0
-北京工業大學耿丹學院	bz;ap jy;wx gs;aa ye;yl da;hd xt;jz gg;eh dj;pd xt;jz yr;ew	0
+北京工業大學耿丹學院	bz;ap jy;wx gs;aa ye;yl da;ad xt;jz gg;eh dj;pd xt;jz yr;ew	0
 青山祠	qy;of uj;aa ci;us	0
 均安交通中心	jp;ty an;bn jc;wf ts;zy vs;aa xn;dd	0
 石棉礦	ui;kp mm;mb kd;ug	0
@@ -26168,7 +26168,7 @@ use_preset_vocabulary: false
 倉上	ch;rk uh;uh	0
 倉上	ch;rk uh;bh	0
 春一	ip;of yi;aa	0
-元大都城垣遺址公園	yr;ee da;hd du;ev ig;ti yr;tg yi;zg vi;tv gs;sb yr;ky	0
+元大都城垣遺址公園	yr;ee da;ad du;ev ig;ti yr;tg yi;zg vi;tv gs;sb yr;ky	0
 玉柱	yu;ad vu;mv	0
 玉柱	yu;hd vu;mv	0
 玉柱	yu;wd vu;mv	0
@@ -26206,7 +26206,7 @@ use_preset_vocabulary: false
 起義路口	qi;zj yi;yw lu;zg kb;uh	0
 七孔橋	qi;hg ks;zg qc;mq	0
 七孔橋	qi;ag ks;zg qc;mq	0
-中大五院	vs;aa da;hd wu;aa yr;ew	0
+中大五院	vs;aa da;ad wu;aa yr;ew	0
 天地新城	tm;ad di;ty xn;jq ig;ti	0
 天地新城	tm;hd di;ty xn;jq ig;ti	0
 長嶺路	vh;ad ly;ul lu;zg	0
@@ -26266,7 +26266,7 @@ use_preset_vocabulary: false
 南陽街	nj;ua yh;ey jx;xg	0
 清江村	qy;dq jd;dg cp;mc	0
 仙河	xm;ru he;dk	0
-大井巷	da;hd jy;aa xd;gs	0
+大井巷	da;ad jy;aa xd;gs	0
 新民小區	xn;jq mn;ag xc;ad qu;kp	0
 上水流	uh;aa uv;ad lq;di	0
 望雲山	wh;wo yp;yy uj;uu	0
@@ -26318,7 +26318,7 @@ use_preset_vocabulary: false
 陸家村	lu;et jw;bu cp;mc	0
 街亭	jx;xg ty;wd	0
 日白	ri;aa bl;pa	0
-大北窯東	da;hd bz;ap yk;bg ds;ad	0
+大北窯東	da;ad bz;ap yk;bg ds;ad	0
 搪瓷廠	th;ft ci;wc ih;gw	0
 搪瓷廠	th;ft ci;wc ih;gi	0
 電材	dm;yg cl;mc	0
@@ -26346,7 +26346,7 @@ use_preset_vocabulary: false
 虹橋開發區	hs;ig qc;mq kl;mk fa;du qu;kp	0
 虹橋開發區	hs;ig qc;mq kl;mk fa;gy qu;kp	0
 大庭	da;ad ty;gt	0
-大庭	da;hd ty;gt	0
+大庭	da;ad ty;gt	0
 安貞裏	an;bn vf;bb li;yl	0
 安貞裏	an;bn vf;bb li;dy	0
 安貞裏	an;bn vf;bb li;wy	0
@@ -26417,8 +26417,8 @@ use_preset_vocabulary: false
 聯升	lm;ea ug;pc	0
 嶺西	ly;ul xi;aa	0
 嶺西	ly;ul xi;hh	0
-北大科技園	bz;ap da;hd ke;hd ji;fv yr;ky	0
-福建醫大	fu;uf jm;zy yi;yu da;hd	0
+北大科技園	bz;ap da;ad ke;hd ji;fv yr;ky	0
+福建醫大	fu;uf jm;zy yi;yu da;ad	0
 竹竿巷	vu;gg gj;vg xd;sg	0
 竹竿巷	vu;gg gj;vg xd;gs	0
 中南市場	vs;aa nj;ua ui;wj ih;ty	0
@@ -26427,7 +26427,7 @@ use_preset_vocabulary: false
 永太	ys;dd tl;dd	0
 三級站	sj;aa ji;sj vj;lv	0
 三級站	sj;hh ji;sj vj;lv	0
-福建師大附中	fu;uf jm;zy ui;bv da;hd fu;ef vs;aa	0
+福建師大附中	fu;uf jm;zy ui;bv da;ad fu;ef vs;aa	0
 楊林村	yh;my ln;mm cp;mc	0
 坑頭	kg;tk tb;yd	0
 坑頭	kg;tk tb;dy	0
@@ -26465,7 +26465,7 @@ use_preset_vocabulary: false
 姚家嶺	yk;nv jw;bu ly;ul	0
 二化	er;aa hw;rb	0
 二化	er;hh hw;rb	0
-廣東工大	gd;gh ds;ad gs;aa da;hd	0
+廣東工大	gd;gh ds;ad gs;aa da;ad	0
 虹莘路	hs;ig uf;cx lu;zg	0
 麥城	ml;lx ig;ti	0
 麥城	ml;xl ig;ti	0
@@ -26531,13 +26531,13 @@ use_preset_vocabulary: false
 十三緯路	ui;aa sj;aa wz;sw lu;zg	0
 十三緯路	ui;aa sj;hh wz;sw lu;zg	0
 大汾	da;ad ff;df	0
-大汾	da;hd ff;df	0
+大汾	da;ad ff;df	0
 廖家坪	lc;gl jw;bu py;tp	0
 廖家坪	lc;gp jw;bu py;tp	0
 大蓋	da;ad gl;cm	0
 大蓋	da;ad gl;ch	0
-大蓋	da;hd gl;cm	0
-大蓋	da;hd gl;ch	0
+大蓋	da;ad gl;cm	0
+大蓋	da;ad gl;ch	0
 虹井路	hs;ig jy;hu lu;zg	0
 虹井路	hs;ig jy;aa lu;zg	0
 虹井路	hs;ig jy;ep lu;zg	0
@@ -26546,7 +26546,7 @@ use_preset_vocabulary: false
 長基	vh;hd ji;qt	0
 長基	vh;hd ji;tq	0
 大籠	da;ad ls;vl	0
-大籠	da;hd ls;vl	0
+大籠	da;ad ls;vl	0
 三民村	sj;aa mn;ag cp;mc	0
 外曾	wl;xb cg;rb	0
 外曾	wl;xb cg;ob	0
@@ -26603,7 +26603,7 @@ use_preset_vocabulary: false
 定西地區	dy;bp xi;aa di;ty qu;kp	0
 定西地區	dy;bp xi;hh di;ty qu;kp	0
 人民路中段	rf;pd mn;ag lu;zg vs;aa dr;pu	0
-大沽南路	da;hd gu;dg nj;ua lu;zg	0
+大沽南路	da;ad gu;dg nj;ua lu;zg	0
 黃柏村	hd;cb bl;mb cp;mc	0
 篔簹湖	yp;vy dh;vd hu;dh	0
 江都縣	jd;dg du;ev xm;xx	0
@@ -26621,7 +26621,7 @@ use_preset_vocabulary: false
 南位	nj;uy wz;rl	0
 臺灣飯店	tl;uv wj;dw fj;uf dm;gv	0
 臺灣飯店	tl;uv wj;dg fj;uf dm;gv	0
-新世界大廈	xn;jq ui;ca jx;tj da;hd ua;gx	0
+新世界大廈	xn;jq ui;ca jx;tj da;ad ua;gx	0
 燃燈寺	rj;hr dg;hd si;tc	0
 燃燈寺	rj;hr dg;hd si;ct	0
 白家樓	bl;pr jw;bu lb;ml	0
@@ -26647,7 +26647,7 @@ use_preset_vocabulary: false
 拉祜族自治縣	la;fl hu;ug zu;fu zi;po vi;dt xm;xx	0
 拉祜族自治縣	la;fl hu;ug zu;fu zi;ph vi;dt xm;xx	0
 巴彥塔拉	ba;ag yj;pi ta;td la;fl	0
-華聯大廈	hw;ca lm;ea da;hd ua;gx	0
+華聯大廈	hw;ca lm;ea da;ad ua;gx	0
 東山總站	ds;ad uj;aa zs;sc vj;lv	0
 罐頭嘴鎮	gr;fv tb;yd zv;kj vf;jv	0
 罐頭嘴鎮	gr;fv tb;yd zv;kz vf;jv	0
@@ -26707,7 +26707,7 @@ use_preset_vocabulary: false
 二桿子	er;hh gj;mh zi;vh	0
 七甲	qi;ag jw;aa	0
 銀都花園	yn;jg db;ev hw;ch yr;ky	0
-哈大齊工業走廊	ha;kh da;hd qi;we gs;aa ye;yl zb;tv lh;gl	0
+哈大齊工業走廊	ha;kh da;ad qi;we gs;aa ye;yl zb;tv lh;gl	0
 塔拉瓦	ta;td la;fl wa;ad	0
 塔拉瓦	ta;td la;fl wa;hd	0
 塔拉瓦	ta;th la;fl wa;ad	0
@@ -26718,7 +26718,7 @@ use_preset_vocabulary: false
 錦園新世紀	jn;jb yr;ky xn;jq ui;ca ji;sj	0
 三王街	sj;aa wh;aa jx;xg	0
 大李村	da;ad li;mz cp;mc	0
-大李村	da;hd li;mz cp;mc	0
+大李村	da;ad li;mz cp;mc	0
 泥崗西路	ni;dn gh;ug xi;aa lu;zg	0
 泥崗西路	ni;dn gh;ug xi;hh lu;zg	0
 星海公園	xy;ou hl;dm gs;bs yr;ky	0
@@ -26805,7 +26805,7 @@ use_preset_vocabulary: false
 赤山路	ii;tb uj;uu lu;zg	0
 赤山路	ii;tb uj;aa lu;zg	0
 大園村	da;ad yr;ky cp;mc	0
-大園村	da;hd yr;ky cp;mc	0
+大園村	da;ad yr;ky cp;mc	0
 嘴子	zv;kj zi;aa	0
 嘴子	zv;kj zi;vh	0
 嘴子	zv;kz zi;aa	0
@@ -26830,11 +26830,11 @@ use_preset_vocabulary: false
 瑞金縣	rv;we jn;ra xm;xx	0
 瑞金縣	rv;we jn;ph xm;xx	0
 龍門澗	ls;dg mf;aa jm;dj	0
-吉利大學	ji;ku li;dh da;hd xt;jz	0
+吉利大學	ji;ku li;dh da;ad xt;jz	0
 阿彌嶺	aa;ek mi;ge ly;ul	0
 玉山村	yu;wd uj;aa cp;mc	0
 新區國稅局	xn;jq qu;kp go;kh uv;hd ju;uk	0
-大山下	da;hd uj;aa xw;ab	0
+大山下	da;ad uj;aa xw;ab	0
 露天集市	lu;yl tm;ad ji;vm ui;wj	0
 福溪	fu;ut xi;dx	0
 福溪	fu;uf xi;dx	0
@@ -26848,7 +26848,7 @@ use_preset_vocabulary: false
 岸西	an;ug xi;hh	0
 三角池	sj;aa jc;dy ii;dy	0
 三角池	sj;hh jc;dy ii;dy	0
-民政大廈	mn;ag vg;wv da;hd ua;gx	0
+民政大廈	mn;ag vg;wv da;ad ua;gx	0
 星山	xy;ou uj;uu	0
 星山	xy;ou uj;aa	0
 星山	xy;ru uj;uu	0
@@ -27074,7 +27074,7 @@ use_preset_vocabulary: false
 丁字街	dy;aa zi;bz jx;xg	0
 馬路街	ma;ad lu;zg jx;xg	0
 大茂	da;ad mk;cw	0
-大茂	da;hd mk;cw	0
+大茂	da;ad mk;cw	0
 黑芝麻胡同	hz;ha vi;cv ma;gl hu;og ts;kk	0
 燒灰	uk;hy hv;hu	0
 燒灰	uk;hy hv;uh	0
@@ -27120,7 +27120,7 @@ use_preset_vocabulary: false
 東土城路	ds;ad tu;aa ig;ti lu;zg	0
 虎林縣	hu;hj ln;mm xm;xx	0
 大漢溪	da;ad hj;dh xi;dx	0
-大漢溪	da;hd hj;dh xi;dx	0
+大漢溪	da;ad hj;dh xi;dx	0
 蘋果園中學	py;cp go;ad yr;ky vs;aa xt;jz	0
 山西村	uj;uu xi;aa cp;mc	0
 山西村	uj;uu xi;hh cp;mc	0
@@ -27157,7 +27157,7 @@ use_preset_vocabulary: false
 高黎	gk;wk li;ur	0
 朝暉六區	vk;ou hv;oj lq;wb qu;kp	0
 供銷大廈	gs;rg xc;jx da;ad ua;gx	0
-供銷大廈	gs;rg xc;jx da;hd ua;gx	0
+供銷大廈	gs;rg xc;jx da;ad ua;gx	0
 獨秀峯	du;qu xq;hn fg;uf	0
 獨秀峯	du;qi xq;hn fg;uf	0
 多功鄉	do;xx gs;gl xd;el	0

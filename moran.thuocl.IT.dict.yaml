@@ -177,7 +177,7 @@ use_preset_vocabulary: false
 變量名	bm;yw ld;ol my;xk	276
 變量名	bm;ws ld;rl my;xk	276
 變量名	bm;ws ld;ol my;xk	276
-大小寫	da;hd xc;ad xx;bd	274
+大小寫	da;ad xc;ad xx;bd	274
 作用域	zo;rv ys;kf yu;th	272
 佈局文件	bu;rb ju;uk wf;dd jm;rn	271
 包名	bk;bs my;xk	271
@@ -380,8 +380,8 @@ use_preset_vocabulary: false
 開源項目	kl;mk yr;dy xd;gy mu;aa	178
 大數據	da;ad uu;wl ju;fj	176
 大數據	da;ad uu;wl ju;fu	176
-大數據	da;hd uu;wl ju;fj	176
-大數據	da;hd uu;wl ju;fu	176
+大數據	da;ad uu;wl ju;fj	176
+大數據	da;ad uu;wl ju;fu	176
 線程池	xm;sq ig;hi ii;dy	176
 時間戳	ui;os jm;mo io;gd	176
 元數據	yr;ee uu;wl ju;fj	175
@@ -416,8 +416,8 @@ use_preset_vocabulary: false
 泛型	fj;df xy;tx	164
 文件大小	wf;dd jm;rn da;ad xc;ud	164
 文件大小	wf;dd jm;rn da;ad xc;ad	164
-文件大小	wf;dd jm;rn da;hd xc;ud	164
-文件大小	wf;dd jm;rn da;hd xc;ad	164
+文件大小	wf;dd jm;rn da;ad xc;ud	164
+文件大小	wf;dd jm;rn da;ad xc;ad	164
 輸出流	uu;iy iu;uu lq;di	164
 輸出流	uu;iy iu;ck lq;di	164
 子節點	zi;aa jx;vj dm;hv	164
@@ -854,7 +854,7 @@ use_preset_vocabulary: false
 自增	zi;po zg;tc	100
 自增	zi;ph zg;tc	100
 大括號	da;ad ko;fu hk;hh	100
-大括號	da;hd ko;fu hk;hh	100
+大括號	da;ad ko;fu hk;hh	100
 一對多	yi;aa dv;ct do;xx	100
 一對多	yi;aa dv;cw do;xx	100
 一對多	yi;hh dv;ct do;xx	100
@@ -1245,7 +1245,7 @@ use_preset_vocabulary: false
 遠程服務器	yr;zy ig;hi fu;yy wu;mw qi;kk	74
 移出	yi;hd iu;uu	74
 移出	yi;hd iu;ck	74
-不區分大小寫	bu;ad qu;kp ff;db da;hd xc;ad xx;bd	74
+不區分大小寫	bu;ad qu;kp ff;db da;ad xc;ad xx;bd	74
 存儲結構	cp;za iu;rv jx;sj gb;mg	74
 身份驗證	uf;pp ff;rf yj;mq vg;yd	74
 二進制數	er;aa jn;zv vi;dv uu;wl	73
@@ -1392,7 +1392,7 @@ use_preset_vocabulary: false
 標記語言	bc;mp ji;yj yu;yw yj;wk	67
 標記語言	bc;mp ji;yj yu;yw yj;da	67
 驗證碼	yj;mq vg;yd ma;um	67
-窗口大小	id;bx kb;aa da;hd xc;ad	67
+窗口大小	id;bx kb;aa da;ad xc;ad	67
 權值	qr;mv vi;rv	67
 外網	wl;xb wh;sw	67
 自動加載	zi;pa ds;lv jw;kl zl;gi	67
@@ -1712,7 +1712,7 @@ use_preset_vocabulary: false
 重新運行	is;pa xn;jq yp;zj xy;xd	57
 發行版	fa;du xy;xd bj;pf	56
 位或	wz;rl ho;gk	56
-大數據量	da;hd uu;wl ju;fj ld;ol	56
+大數據量	da;ad uu;wl ju;fj ld;ol	56
 中文亂碼	vs;aa wf;dd lr;gy ma;um	56
 堆排序	dv;tv pl;ff xu;gy	56
 工作線程	gs;aa zo;rv xm;sq ig;hi	56
@@ -1907,9 +1907,9 @@ use_preset_vocabulary: false
 多項式	do;xx xd;gy ui;gy	51
 高亮顯示	gk;wk ld;wj xm;ys ui;ex	51
 最大連接數	zv;oq da;ad lm;zi jx;fq uu;wl	51
-最大連接數	zv;oq da;hd lm;zi jx;fq uu;wl	51
+最大連接數	zv;oq da;ad lm;zi jx;fq uu;wl	51
 最大連接數	zv;rq da;ad lm;zi jx;fq uu;wl	51
-最大連接數	zv;rq da;hd lm;zi jx;fq uu;wl	51
+最大連接數	zv;rq da;ad lm;zi jx;fq uu;wl	51
 開發語言	kl;mk fa;du yu;yw yj;wk	51
 子程序	zi;aa ig;hi xu;gy	51
 子程序	zi;vh ig;hi xu;gy	51
@@ -2066,7 +2066,7 @@ use_preset_vocabulary: false
 修改密碼	xq;rp gl;wj mi;ub ma;um	47
 修改密碼	xq;rp gl;jw mi;bu ma;um	47
 修改密碼	xq;rp gl;jw mi;ub ma;um	47
-大小寫敏感	da;hd xc;ad xx;bd mn;wm gj;xx	47
+大小寫敏感	da;ad xc;ad xx;bd mn;wm gj;xx	47
 線程創建	xm;sq ig;hi id;dc jm;zy	47
 文件權限	wf;dd jm;rn qr;mv xm;eg	47
 多列	do;xx lx;dd	47
@@ -2321,7 +2321,7 @@ use_preset_vocabulary: false
 網絡帶寬	wh;sw lo;sg dl;jb kr;bj	42
 網絡帶寬	wh;sw lo;sg dl;jb kr;bd	42
 執行環境	vi;wx xy;xd hr;wh jy;tj	42
-最大公約數	zv;oq da;hd gs;sb yt;su uu;wl	42
+最大公約數	zv;oq da;ad gs;sb yt;su uu;wl	42
 字符串連接	zi;bz fu;vf ir;uu lm;zi jx;fq	42
 字符串連接	zi;bz fu;vf ir;aa lm;zi jx;fq	42
 字符串連接	zi;bz fu;vf ir;vv lm;zi jx;fq	42
@@ -2490,9 +2490,9 @@ use_preset_vocabulary: false
 全局對象	qr;rw ju;uk dv;ct xd;du	39
 界面顯示	jx;tj mm;aa xm;ys ui;ex	38
 最大流	zv;oq da;ad lq;di	38
-最大流	zv;oq da;hd lq;di	38
+最大流	zv;oq da;ad lq;di	38
 最大流	zv;rq da;ad lq;di	38
-最大流	zv;rq da;hd lq;di	38
+最大流	zv;rq da;ad lq;di	38
 無法連接	wu;ha fa;dq lm;zi jx;fq	38
 保留字	bk;rd lq;td zi;bz	38
 保留字	bk;rd lq;lt zi;bz	38
@@ -3317,8 +3317,8 @@ use_preset_vocabulary: false
 靜態初始化	jy;qv tl;xn iu;yd ui;nt hw;rb	28
 默認大小	mo;hq rf;yr da;ad xc;ud	28
 默認大小	mo;hq rf;yr da;ad xc;ad	28
-默認大小	mo;hq rf;yr da;hd xc;ud	28
-默認大小	mo;hq rf;yr da;hd xc;ad	28
+默認大小	mo;hq rf;yr da;ad xc;ud	28
+默認大小	mo;hq rf;yr da;ad xc;ad	28
 對象狀態	dv;ct xd;du vd;pq tl;xn	28
 網絡通訊	wh;sw lo;sg ts;zy xp;yu	28
 網絡通訊	wh;sw lo;sg ts;zy xp;yx	28
@@ -3358,7 +3358,7 @@ use_preset_vocabulary: false
 面向過程	mm;aa xd;pk go;zg ig;hi	28
 匿名類	ni;kr my;xk lz;yl	28
 匿名類	ni;kr my;xk lz;yq	28
-放大縮小	fh;wf da;hd so;ss xc;ad	28
+放大縮小	fh;wf da;ad so;ss xc;ad	28
 安全模式	an;bn qr;rw mo;mm ui;yg	28
 安全模式	an;bn qr;rw mo;mm ui;gy	28
 預加載	yu;yy jw;lk zl;ig	28
@@ -3487,7 +3487,7 @@ use_preset_vocabulary: false
 商業模式	uh;wk ye;yl mo;mm ui;yg	26
 單點故障	dj;kd dm;hv gu;wg vh;ev	26
 大型網站	da;ad xy;tx wh;sw vj;lv	26
-大型網站	da;hd xy;tx wh;sw vj;lv	26
+大型網站	da;ad xy;tx wh;sw vj;lv	26
 顯示圖像	xm;ys ui;ex tu;kh xd;rx	26
 斐波那契數列	fz;wf bo;dp na;el qi;dd uu;wl lx;dd	26
 邊界條件	bm;zf jx;tj tc;rt jm;rn	26
@@ -3541,7 +3541,7 @@ use_preset_vocabulary: false
 插件安裝	ia;fj jm;rn an;bn vd;yv	26
 插件安裝	ia;fi jm;rn an;bn vd;yv	26
 系統軟件	xi;ps ts;si rr;iq jm;rn	26
-四大組件	si;ke da;hd zu;sq jm;rn	26
+四大組件	si;ke da;ad zu;sq jm;rn	26
 壓縮算法	ya;ty so;ss sr;vc fa;dq	26
 解析數據	jx;jn xi;mj uu;wl ju;fj	26
 解析數據	jx;jn xi;mj uu;wl ju;fu	26
@@ -4084,7 +4084,7 @@ use_preset_vocabulary: false
 包管理器	bk;gs gr;vg li;wl qi;qk	22
 包管理器	bk;gs gr;vg li;wl qi;kk	22
 感嘆號	gj;xx tj;kh hk;hh	22
-大小寫不敏感	da;hd xc;ad xx;bd bu;ad mn;wm gj;xx	22
+大小寫不敏感	da;ad xc;ad xx;bd bu;ad mn;wm gj;xx	22
 類初始化	lz;yl iu;yd ui;nt hw;rb	22
 類初始化	lz;yq iu;yd ui;nt hw;rb	22
 替換字符串	ti;of hr;fh zi;bz fu;vf ir;aa	22
@@ -4093,9 +4093,9 @@ use_preset_vocabulary: false
 服務質量	fu;yy wu;mw vi;bj ld;rl	22
 服務質量	fu;yy wu;mw vi;bj ld;ol	22
 最大匹配	zv;oq da;ad pi;ke pz;yj	22
-最大匹配	zv;oq da;hd pi;ke pz;yj	22
+最大匹配	zv;oq da;ad pi;ke pz;yj	22
 最大匹配	zv;rq da;ad pi;ke pz;yj	22
-最大匹配	zv;rq da;hd pi;ke pz;yj	22
+最大匹配	zv;rq da;ad pi;ke pz;yj	22
 服務器性能	fu;oy wu;mw qi;qk xy;xu ng;sb	22
 服務器性能	fu;oy wu;mw qi;kk xy;xu ng;sb	22
 服務器性能	fu;yy wu;mw qi;qk xy;xu ng;sb	22
@@ -4687,7 +4687,7 @@ use_preset_vocabulary: false
 折線圖	ve;fj xm;sq tu;kh	19
 折線圖	ve;fj xm;sq tu;kt	19
 殺毒軟件	ua;uu du;fm rr;iq jm;rn	19
-大數據分析	da;hd uu;wl ju;fj ff;db xi;mj	19
+大數據分析	da;ad uu;wl ju;fj ff;db xi;mj	19
 相對地址	xd;mm dv;ct di;ty vi;tv	19
 相對地址	xd;mm dv;cw di;ty vi;tv	19
 相對地址	xd;mo dv;ct di;ty vi;tv	19
@@ -5173,7 +5173,7 @@ use_preset_vocabulary: false
 語法糖	yu;yw fa;dq th;mt	17
 靜態編譯	jy;qv tl;xn bm;sb yi;yx	17
 執行引擎	vi;wx xy;xd yn;ga qy;uj	17
-大數據時代	da;hd uu;wl ju;fj ui;os dl;ry	17
+大數據時代	da;ad uu;wl ju;fj ui;os dl;ry	17
 性能對比	xy;xu ng;sb dv;ct bi;bb	17
 性能對比	xy;xu ng;sb dv;cw bi;bb	17
 計算幾何	ji;yu sr;vc ji;zd he;rk	17
@@ -5281,8 +5281,8 @@ use_preset_vocabulary: false
 解釋器模式	jx;jn ui;bx qi;kk mo;mm ui;yg	16
 大數據處理	da;ad uu;wl ju;fj iu;hi li;wl	16
 大數據處理	da;ad uu;wl ju;fu iu;hi li;wl	16
-大數據處理	da;hd uu;wl ju;fj iu;hi li;wl	16
-大數據處理	da;hd uu;wl ju;fu iu;hi li;wl	16
+大數據處理	da;ad uu;wl ju;fj iu;hi li;wl	16
+大數據處理	da;ad uu;wl ju;fu iu;hi li;wl	16
 重排序	vs;ql pl;ff xu;gy	16
 重排序	vs;pa pl;ff xu;gy	16
 重排序	vs;ph pl;ff xu;gy	16
@@ -5344,7 +5344,7 @@ use_preset_vocabulary: false
 屏幕截圖	py;ub mu;cj jx;gv tu;kh	16
 聯合查詢	lm;eu he;rk ia;md xp;yx	16
 聯合查詢	lm;ea he;rk ia;md xp;yx	16
-大小寫轉換	da;hd xc;ad xx;bd vr;iv hr;fh	16
+大小寫轉換	da;ad xc;ad xx;bd vr;iv hr;fh	16
 網絡適配器	wh;sw lo;sg ui;zd pz;yj qi;qk	16
 網絡適配器	wh;sw lo;sg ui;zd pz;yj qi;kk	16
 個人網站	ge;rg rf;pd wh;sw vj;lv	16
@@ -5678,8 +5678,8 @@ use_preset_vocabulary: false
 項目構建	xd;gy mu;aa gb;mg jm;zy	15
 大整數	da;ad vg;vi uu;wl	15
 大整數	da;ad vg;vw uu;wl	15
-大整數	da;hd vg;vi uu;wl	15
-大整數	da;hd vg;vw uu;wl	15
+大整數	da;ad vg;vi uu;wl	15
+大整數	da;ad vg;vw uu;wl	15
 消息映射	xc;dx xi;xz yy;oy ue;cu	15
 保留兩位小數	bk;rd lq;td ld;ar wz;rl xc;ad uu;wl	15
 信號線	xn;ry hk;hh xm;sq	15
@@ -6409,9 +6409,9 @@ use_preset_vocabulary: false
 圖吧	tu;kt ba;kb	12
 順序號	up;yi xu;gy hk;hh	12
 最大深度	zv;oq da;ad uf;dm du;gy	12
-最大深度	zv;oq da;hd uf;dm du;gy	12
+最大深度	zv;oq da;ad uf;dm du;gy	12
 最大深度	zv;rq da;ad uf;dm du;gy	12
-最大深度	zv;rq da;hd uf;dm du;gy	12
+最大深度	zv;rq da;ad uf;dm du;gy	12
 抽象數據類型	ib;fy xd;du uu;wl ju;fj lz;yl xy;tx	12
 拒絕服務	ju;fj jt;sb fu;oy wu;mw	12
 拒絕服務	ju;fj jt;sb fu;yy wu;mw	12
@@ -6793,7 +6793,7 @@ use_preset_vocabulary: false
 順序調用	up;yi xu;gy dc;yv ys;kf	11
 單處理器	dj;kd iu;hi li;wl qi;qk	11
 單處理器	dj;kd iu;hi li;wl qi;kk	11
-大數據技術	da;hd uu;wl ju;fj ji;fv uu;xi	11
+大數據技術	da;ad uu;wl ju;fj ji;fv uu;xi	11
 點乘	dm;hv ig;pb	11
 點乘	dm;hv ig;hb	11
 快速查詢	ky;xg su;zu ia;md xp;yx	11
@@ -6970,7 +6970,7 @@ use_preset_vocabulary: false
 默認方法	mo;hq rf;yr fh;dp fa;dq	11
 默認方法	mo;hq rf;yr fh;dg fa;dq	11
 代碼大全	dl;ry ma;um da;ad qr;rw	11
-代碼大全	dl;ry ma;um da;hd qr;rw	11
+代碼大全	dl;ry ma;um da;ad qr;rw	11
 完整性約束	wj;by vg;vi xy;xu yt;su uu;ad	11
 函數綁定	hj;ku uu;wl bh;sb dy;bp	11
 函數綁定	hj;lk uu;wl bh;sb dy;bp	11
@@ -7008,7 +7008,7 @@ use_preset_vocabulary: false
 網絡開發	wh;sw lo;sg kl;mk fa;gy	10
 註解配置	vu;yv jx;jn pz;yj vi;sv	10
 加密技術	jw;kl mi;bu ji;fv uu;xi	10
-大衆點評	da;hd vs;xd dm;hv py;yp	10
+大衆點評	da;ad vs;xd dm;hv py;yp	10
 棧和隊列	vj;mj he;hk dv;eu lx;dd	10
 編程指南	bm;sb ig;hi vi;fv nj;uu	10
 編程指南	bm;sb ig;hi vi;fv nj;ua	10
@@ -7655,9 +7655,9 @@ use_preset_vocabulary: false
 開源組件	kl;mk yr;dy zu;sq jm;rn	9
 大小端	da;ad xc;ud dr;le	9
 大小端	da;ad xc;ad dr;le	9
-大小端	da;hd xc;ud dr;le	9
-大小端	da;hd xc;ad dr;le	9
-圖片放大	tu;kh pm;pa fh;wf da;hd	9
+大小端	da;ad xc;ud dr;le	9
+大小端	da;ad xc;ad dr;le	9
+圖片放大	tu;kh pm;pa fh;wf da;ad	9
 第一範式	di;vp yi;aa fj;ve ui;yg	9
 第一範式	di;vp yi;aa fj;ve ui;gy	9
 第一範式	di;vp yi;hh fj;ve ui;yg	9
@@ -7720,9 +7720,9 @@ use_preset_vocabulary: false
 第二範式	di;vp er;hh fj;ve ui;gy	9
 裁剪圖片	cl;gy jm;dq tu;kh pm;pa	9
 最大匹配數	zv;oq da;ad pi;ke pz;yj uu;wl	9
-最大匹配數	zv;oq da;hd pi;ke pz;yj uu;wl	9
+最大匹配數	zv;oq da;ad pi;ke pz;yj uu;wl	9
 最大匹配數	zv;rq da;ad pi;ke pz;yj uu;wl	9
-最大匹配數	zv;rq da;hd pi;ke pz;yj uu;wl	9
+最大匹配數	zv;rq da;ad pi;ke pz;yj uu;wl	9
 部署環境	bu;ep uu;sv hr;wh jy;tj	9
 部署環境	bu;ep uu;sv hr;wy jy;tj	9
 部署環境	bu;ek uu;sv hr;wh jy;tj	9
@@ -7756,7 +7756,7 @@ use_preset_vocabulary: false
 數據屬性	uu;wl ju;fu uu;ui xy;xu	9
 圖片格式	tu;kh pm;pa ge;mg ui;yg	9
 網站性能	wh;sw vj;lv xy;xu ng;sb	9
-開發者大會	kl;mk fa;du ve;ol da;hd hv;ro	9
+開發者大會	kl;mk fa;du ve;ol da;ad hv;ro	9
 父級元素	fu;bi ji;sj yr;ee su;sf	9
 裝系統	vd;yv xi;ps ts;si	9
 控件類	ks;fk jm;rn lz;yl	9
@@ -7970,7 +7970,7 @@ use_preset_vocabulary: false
 上傳代碼	uh;bh ir;rv dl;ry ma;um	8
 閃屏	uj;mr py;ub	8
 大根堆	da;ad gf;mg dv;tv	8
-大根堆	da;hd gf;mg dv;tv	8
+大根堆	da;ad gf;mg dv;tv	8
 實現需求	ui;bg xm;wj xu;ye qq;ad	8
 實現需求	ui;bg xm;wj xu;ye qq;hd	8
 服務號	fu;oy wu;mw hk;hh	8
@@ -8322,7 +8322,7 @@ use_preset_vocabulary: false
 測試設備	ce;dz ui;yu ue;yu bz;ry	8
 移動客戶端	yi;hd ds;lv ke;bg hu;pk dr;le	8
 區間更新	qu;kp jm;mo gg;ad xn;jq	8
-最大獨立集	zv;oq da;hd du;qi li;da ji;vm	8
+最大獨立集	zv;oq da;ad du;qi li;da ji;vm	8
 聊天界面	lc;em tm;ad jx;tj mm;aa	8
 通信接口	ts;zy xn;ry jx;fq kb;aa	8
 通信接口	ts;zy xn;ry jx;fq kb;uh	8
@@ -8664,7 +8664,7 @@ use_preset_vocabulary: false
 網際協議	wh;sw ji;ej xx;ux yi;yy	7
 網際協議	wh;sw ji;ej xx;ul yi;yy	7
 擴展程序	ko;fg vj;uy ig;hi xu;gy	7
-六大原則	lq;wb da;hd yr;ix ze;db	7
+六大原則	lq;wb da;ad yr;ix ze;db	7
 微信分享	wz;xw xn;ry ff;db xd;wz	7
 靜態數據區	jy;qv tl;xn uu;wl ju;fj qu;kp	7
 靜態數據區	jy;qv tl;xn uu;wl ju;fu qu;kp	7
@@ -8726,8 +8726,8 @@ use_preset_vocabulary: false
 數據科學家	uu;wl ju;fu ke;hd xt;jz jw;bu	7
 大端模式	da;ad dr;le mo;mm ui;yg	7
 大端模式	da;ad dr;le mo;mm ui;gy	7
-大端模式	da;hd dr;le mo;mm ui;yg	7
-大端模式	da;hd dr;le mo;mm ui;gy	7
+大端模式	da;ad dr;le mo;mm ui;yg	7
+大端模式	da;ad dr;le mo;mm ui;gy	7
 多線程開發	do;xx xm;sq ig;hi kl;mk fa;zd	7
 多線程開發	do;xx xm;sq ig;hi kl;mk fa;du	7
 多線程開發	do;xx xm;sq ig;hi kl;mk fa;gy	7
@@ -9024,7 +9024,7 @@ use_preset_vocabulary: false
 循環右移	xp;xd hr;wh yb;ku yi;hd	7
 通信模型	ts;zy xn;ry mo;mm xy;tx	7
 雙目運算符	ud;vy mu;aa yp;zj sr;vc fu;vf	7
-大文件上傳	da;hd wf;dd jm;rn uh;aa ir;rv	7
+大文件上傳	da;ad wf;dd jm;rn uh;aa ir;rv	7
 垃圾收集算法	la;tl ji;tj ub;wj ji;mv sr;vc fa;dq	7
 垃圾收集算法	la;tl ji;tj ub;wj ji;vm sr;vc fa;dq	7
 垃圾收集算法	la;tl ji;tj ub;jw ji;mv sr;vc fa;dq	7
@@ -9147,7 +9147,7 @@ use_preset_vocabulary: false
 命令行接口	my;re ly;rs xy;xd jx;fq kb;aa	6
 串行通信	ir;aa xy;xd ts;zy xn;ry	6
 簡單計算	jm;vj dj;kd ji;yu sr;vc	6
-大數據平臺	da;hd uu;wl ju;fj py;aa tl;uv	6
+大數據平臺	da;ad uu;wl ju;fj py;aa tl;uv	6
 個性化推薦	ge;rg xy;xu hw;rb tv;fv jm;ch	6
 個性化推薦	ge;rg xy;xu hw;rb tv;fv jm;cv	6
 個性化推薦	ge;rg xy;xu hw;rb tv;fv jm;cd	6
@@ -9606,7 +9606,7 @@ use_preset_vocabulary: false
 遮罩層	ve;zu vk;sv cg;uc	6
 圖形設備	tu;kh xy;pk ue;yu bz;ry	6
 圖形設備	tu;kt xy;pk ue;yu bz;ry	6
-文件夾大小	wf;dd jm;rn jw;dc da;hd xc;ad	6
+文件夾大小	wf;dd jm;rn jw;dc da;ad xc;ad	6
 小馬	xc;ad ma;ad	6
 循環數組	xp;rd hr;wh uu;wl zu;sq	6
 循環數組	xp;rd hr;wy uu;wl zu;sq	6
@@ -9653,9 +9653,9 @@ use_preset_vocabulary: false
 索引優化	so;us yn;gu yb;rw hw;rb	6
 第三方支付	di;vp sj;aa fh;wd vi;uy fu;rc	6
 三大框架	sj;aa da;ad kd;mk jw;mj	6
-三大框架	sj;aa da;hd kd;mk jw;mj	6
+三大框架	sj;aa da;ad kd;mk jw;mj	6
 三大框架	sj;hh da;ad kd;mk jw;mj	6
-三大框架	sj;hh da;hd kd;mk jw;mj	6
+三大框架	sj;hh da;ad kd;mk jw;mj	6
 分佈計算	ff;bd bu;rb ji;yu sr;vc	6
 分佈計算	ff;db bu;rb ji;yu sr;vc	6
 網絡字節順序	wh;sw lo;sg zi;bz jx;vj up;yi xu;gy	6
@@ -9968,9 +9968,9 @@ use_preset_vocabulary: false
 橋樑模式	qc;mq ld;ml mo;mm ui;yg	5
 橋樑模式	qc;mq ld;ml mo;mm ui;gy	5
 最大熵	zv;oq da;ad uh;hu	5
-最大熵	zv;oq da;hd uh;hu	5
+最大熵	zv;oq da;ad uh;hu	5
 最大熵	zv;rq da;ad uh;hu	5
-最大熵	zv;rq da;hd uh;hu	5
+最大熵	zv;rq da;ad uh;hu	5
 組地址	zu;sq di;ty vi;tv	5
 衝突檢測	is;xi tu;xq jm;mq ce;dz	5
 衝突檢測	is;xi tu;bq jm;mq ce;dz	5
@@ -10275,7 +10275,7 @@ use_preset_vocabulary: false
 博客系統	bo;uc ke;bg xi;ps ts;si	5
 博客系統	bo;uf ke;bg xi;ps ts;si	5
 大端字節序	da;ad dr;le zi;bz jx;vj xu;gy	5
-大端字節序	da;hd dr;le zi;bz jx;vj xu;gy	5
+大端字節序	da;ad dr;le zi;bz jx;vj xu;gy	5
 證書鏈	vg;yd uu;yo lm;jl	5
 證書鏈	vg;yd uu;oy lm;jl	5
 證書鏈	vg;yd uu;yr lm;jl	5
@@ -10616,7 +10616,7 @@ use_preset_vocabulary: false
 開發技巧	kl;mk fa;gy ji;fv qc;gk	5
 用友	ys;kf yb;yu	5
 用友	ys;kf yb;uy	5
-乘積最大	ig;pb ji;hz zv;oq da;hd	5
+乘積最大	ig;pb ji;hz zv;oq da;ad	5
 發佈網站	fa;zd bu;rb wh;sw vj;lv	5
 發佈網站	fa;du bu;rb wh;sw vj;lv	5
 發佈網站	fa;gy bu;rb wh;sw vj;lv	5
@@ -10779,7 +10779,7 @@ use_preset_vocabulary: false
 對象服務	dv;ct xd;du fu;oy wu;mw	4
 視頻通話	ui;ju pn;yb ts;zy hw;yu	4
 視頻通話	ui;uj pn;yb ts;zy hw;yu	4
-最大子序列	zv;oq da;hd zi;aa xu;gy lx;dd	4
+最大子序列	zv;oq da;ad zi;aa xu;gy lx;dd	4
 短信驗證碼	dr;ud xn;ry yj;mq vg;yd ma;um	4
 壓縮感知	ya;ty so;ss gj;xx vi;ku	4
 壓縮感知	ya;ty so;ss gj;xx vi;uk	4
@@ -11035,8 +11035,8 @@ use_preset_vocabulary: false
 最小樹形圖	zv;oq xc;ad uu;mc xy;pk tu;kh	4
 大型網站架構	da;ad xy;tx wh;sw vj;lv jw;mj gb;mg	4
 大型網站架構	da;ad xy;tx wh;sw vj;lv jw;mj gb;mr	4
-大型網站架構	da;hd xy;tx wh;sw vj;lv jw;mj gb;mg	4
-大型網站架構	da;hd xy;tx wh;sw vj;lv jw;mj gb;mr	4
+大型網站架構	da;ad xy;tx wh;sw vj;lv jw;mj gb;mg	4
+大型網站架構	da;ad xy;tx wh;sw vj;lv jw;mj gb;mr	4
 關閉鍵盤	gr;ma bi;mc jm;jj pj;mb	4
 關閉鍵盤	gr;mu bi;mc jm;jj pj;mb	4
 同步原語	ts;kk bu;vx yr;ix yu;yw	4
@@ -11335,9 +11335,9 @@ use_preset_vocabulary: false
 位段	wz;rl dr;pu	4
 位段	wz;rl dr;du	4
 最大團	zv;oq da;ad tr;kv	4
-最大團	zv;oq da;hd tr;kv	4
+最大團	zv;oq da;ad tr;kv	4
 最大團	zv;rq da;ad tr;kv	4
-最大團	zv;rq da;hd tr;kv	4
+最大團	zv;rq da;ad tr;kv	4
 日期計算	ri;aa qi;oq ji;yu sr;vc	4
 自動登陸	zi;pm ds;lv dg;dd lu;et	4
 自動登陸	zi;pa ds;lv dg;dd lu;et	4
@@ -11801,7 +11801,7 @@ use_preset_vocabulary: false
 前向聲明	qm;bd xd;pk ug;eq my;oo	4
 控制策略	ks;fk vi;dv ce;vc lt;tg	4
 控制策略	ks;fk vi;dg ce;vc lt;tg	4
-大數據存儲	da;hd uu;wl ju;fj cp;za iu;rv	4
+大數據存儲	da;ad uu;wl ju;fj cp;za iu;rv	4
 交換技術	jc;wf hr;fh ji;fv uu;xi	4
 重定向符號	vs;ql dy;bp xd;pk fu;vf hk;hh	4
 重定向符號	vs;pa dy;bp xd;pk fu;vf hk;hh	4
@@ -11871,7 +11871,7 @@ use_preset_vocabulary: false
 簡明教程	jm;vj my;oo jc;wx ig;hi	3
 線性系統	xm;sq xy;xu xi;ps ts;si	3
 訂單系統	dy;yd dj;kd xi;ps ts;si	3
-最大最小值	zv;oq da;hd zv;oq xc;ad vi;rv	3
+最大最小值	zv;oq da;ad zv;oq xc;ad vi;rv	3
 貝葉斯分類	bz;ad ye;cm si;jq ff;db lz;yl	3
 啓動圖	qi;kw ds;lv tu;kh	3
 啓動圖	qi;kw ds;lv tu;kt	3
@@ -11889,8 +11889,8 @@ use_preset_vocabulary: false
 設備功能	ue;yu bz;ry gs;gl ng;sb	3
 設備功能	ue;yu bz;ry gs;lg ng;sb	3
 高效開發	gk;wk xc;wj kl;mk fa;du	3
-最大子段和	zv;oq da;hd zi;aa dr;pu he;hk	3
-最大生成樹	zv;oq da;hd ug;na ig;gg uu;mc	3
+最大子段和	zv;oq da;ad zi;aa dr;pu he;hk	3
+最大生成樹	zv;oq da;ad ug;na ig;gg uu;mc	3
 銀行家算法	yn;jg hh;xi jw;bu sr;vc fa;dq	3
 銀行家算法	yn;jg hh;rd jw;bu sr;vc fa;dq	3
 銀行家算法	yn;jg hh;ri jw;bu sr;vc fa;dq	3
@@ -11947,8 +11947,8 @@ use_preset_vocabulary: false
 非託管代碼	fz;aa to;yq gr;vg dl;ry ma;um	3
 優化大師	yb;rw hw;rb da;ad ui;vb	3
 優化大師	yb;rw hw;rb da;ad ui;bv	3
-優化大師	yb;rw hw;rb da;hd ui;vb	3
-優化大師	yb;rw hw;rb da;hd ui;bv	3
+優化大師	yb;rw hw;rb da;ad ui;vb	3
+優化大師	yb;rw hw;rb da;ad ui;bv	3
 微機原理	wz;rw ji;mj yr;ix li;wl	3
 微機原理	wz;xw ji;mj yr;ix li;wl	3
 網站運營	wh;sw vj;lv yp;zj yy;hl	3
@@ -12266,7 +12266,7 @@ use_preset_vocabulary: false
 喜歡編程	xi;uk hr;qv bm;sb ig;hi	3
 模擬過程	mo;mm ni;fy go;zg ig;hi	3
 模擬過程	mo;mm ni;fy go;zk ig;hi	3
-二進制大對象	er;aa jn;zv vi;dg da;hd dv;ct xd;du	3
+二進制大對象	er;aa jn;zv vi;dg da;ad dv;ct xd;du	3
 尺取法	ii;ud qu;ey fa;dq	3
 對象標識符	dv;ct xd;du bc;mp vi;yg fu;vf	3
 文件上傳下載	wf;dd jm;rn uh;aa ir;rv xw;ab zl;gi	3
@@ -12471,7 +12471,7 @@ use_preset_vocabulary: false
 數據降維	uu;wl ju;fj jd;ej wz;sv	3
 數據降維	uu;wl ju;fu jd;ef wz;sv	3
 數據降維	uu;wl ju;fu jd;ej wz;sv	3
-自適應大小	zi;pa ui;zd yy;gx da;hd xc;ad	3
+自適應大小	zi;pa ui;zd yy;gx da;ad xc;ad	3
 以太網交換機	yi;rd tl;dd wh;sw jc;wf hr;fh ji;mj	3
 錯排	co;jx pl;ff	3
 協同程序	xx;ux ts;kk ig;hi xu;gy	3
@@ -12526,7 +12526,7 @@ use_preset_vocabulary: false
 維護階段	wz;sv hu;yh jx;ej dr;pu	3
 打印服務器	da;fd yn;ey fu;oy wu;mw qi;kk	3
 線代	xm;sq dl;ry	3
-大數相加	da;hd uu;wl xd;mm jw;kl	3
+大數相加	da;ad uu;wl xd;mm jw;kl	3
 工程開發	gs;aa ig;hi kl;mk fa;du	3
 紋理圖像	wf;sw li;wl tu;kh xd;rx	3
 紋理圖像	wf;sw li;wl tu;kt xd;rx	3
@@ -12561,7 +12561,7 @@ use_preset_vocabulary: false
 訪問授權	fh;yf wf;km ub;fu qr;mv	3
 訪問授權	fh;yf wf;mk ub;fu qr;mv	3
 交叉工具鏈	jc;wf ia;yd gs;aa ju;ba lm;jl	3
-最大子序列和	zv;oq da;hd zi;aa xu;gy lx;dd he;hk	3
+最大子序列和	zv;oq da;ad zi;aa xu;gy lx;dd he;hk	3
 手機支付	ub;pu ji;mj vi;uy fu;rc	3
 手機支付	ub;pa ji;mj vi;uy fu;rc	3
 手機支付	ub;ub ji;mj vi;uy fu;rc	3
@@ -12674,7 +12674,7 @@ use_preset_vocabulary: false
 標籤樣式	bc;mp qm;vg yh;my ui;gy	3
 測試管理	ce;dz ui;yu gr;vg li;wl	3
 行爲識別	xy;xd wz;pd ui;yg bx;dd	3
-最大子數組	zv;oq da;hd zi;aa uu;wl zu;sq	3
+最大子數組	zv;oq da;ad zi;aa uu;wl zu;sq	3
 測試驅動程序	ce;dz ui;yu qu;mq ds;lv ig;hi xu;gy	3
 加速比	jw;lk su;zu bi;bb	3
 加速比	jw;kl su;zu bi;bb	3
@@ -12781,9 +12781,9 @@ use_preset_vocabulary: false
 表格佈局	bc;fy ge;mg bu;rb ju;uk	3
 路由器配置	lu;zg yb;aa qi;kk pz;yj vi;sv	3
 十大算法	ui;hu da;ad sr;vc fa;dq	3
-十大算法	ui;hu da;hd sr;vc fa;dq	3
+十大算法	ui;hu da;ad sr;vc fa;dq	3
 十大算法	ui;aa da;ad sr;vc fa;dq	3
-十大算法	ui;aa da;hd sr;vc fa;dq	3
+十大算法	ui;aa da;ad sr;vc fa;dq	3
 原創翻譯	yr;ix id;dc fj;yf yi;yx	3
 地址變換	di;ty vi;tv bm;yw hr;fh	3
 地址變換	di;ty vi;tv bm;ws hr;fh	3
@@ -12858,7 +12858,7 @@ use_preset_vocabulary: false
 多媒體處理	do;xx mz;nm ti;gd iu;hi li;wl	3
 多媒體處理	do;xx mz;nm ti;gl iu;hi li;wl	3
 大型計算機	da;ad xy;tx ji;yu sr;vc ji;mj	3
-大型計算機	da;hd xy;tx ji;yu sr;vc ji;mj	3
+大型計算機	da;ad xy;tx ji;yu sr;vc ji;mj	3
 最長鏈	zv;oq vh;ad lm;jl	3
 最長鏈	zv;oq vh;hd lm;jl	3
 最長鏈	zv;rq vh;ad lm;jl	3
@@ -13110,7 +13110,7 @@ use_preset_vocabulary: false
 網格佈局	wh;sw ge;mg bu;rb ju;uk	3
 紅色感嘆號	hs;sg se;db gj;xx tj;kh hk;hh	3
 連通域	lm;zi ts;zy yu;th	3
-最大乘積	zv;oq da;hd ig;pb ji;hz	3
+最大乘積	zv;oq da;ad ig;pb ji;hz	3
 脈衝寬度	ml;op is;xi kr;bd du;gy	3
 流媒體協議	lq;di mz;nm ti;gd xx;ux yi;yy	3
 流媒體協議	lq;di mz;nm ti;gd xx;ul yi;yy	3
@@ -13207,9 +13207,9 @@ use_preset_vocabulary: false
 配置控制	pz;yj vi;sv ks;fk vi;dv	3
 配置控制	pz;yj vi;sv ks;fk vi;dg	3
 最大熵模型	zv;oq da;ad uh;hu mo;mm xy;tx	3
-最大熵模型	zv;oq da;hd uh;hu mo;mm xy;tx	3
+最大熵模型	zv;oq da;ad uh;hu mo;mm xy;tx	3
 最大熵模型	zv;rq da;ad uh;hu mo;mm xy;tx	3
-最大熵模型	zv;rq da;hd uh;hu mo;mm xy;tx	3
+最大熵模型	zv;rq da;ad uh;hu mo;mm xy;tx	3
 同步序列	ts;kk bu;vx xu;gy lx;dd	3
 電子設計	dm;yg zi;aa ue;yu ji;yu	3
 電子設計	dm;yg zi;vh ue;yu ji;yu	3
@@ -13225,9 +13225,9 @@ use_preset_vocabulary: false
 快速冪取模	ky;xd su;zu mi;bm qu;ye mo;mm	3
 快速冪取模	ky;xd su;zu mi;bm qu;ey mo;mm	3
 坦克大戰	tj;td ke;eg da;ad vj;gd	3
-坦克大戰	tj;td ke;eg da;hd vj;gd	3
+坦克大戰	tj;td ke;eg da;ad vj;gd	3
 坦克大戰	tj;td ke;ux da;ad vj;gd	3
-坦克大戰	tj;td ke;ux da;hd vj;gd	3
+坦克大戰	tj;td ke;ux da;ad vj;gd	3
 指令緩存	vi;fv ly;rs hr;sy cp;za	3
 指令緩存	vi;fv ly;rs hr;sy cp;zu	3
 指令緩存	vi;fv ly;rs hr;sy cp;uz	3
@@ -13246,7 +13246,7 @@ use_preset_vocabulary: false
 文檔編輯	wf;dd dh;md bm;sb ji;ie	3
 粒子特效	li;ml zi;aa te;ns xc;wj	3
 粒子特效	li;ml zi;vh te;ns xc;wj	3
-大小端模式	da;hd xc;ad dr;le mo;mm ui;yg	3
+大小端模式	da;ad xc;ad dr;le mo;mm ui;yg	3
 管理員登陸	gr;vg li;wl yr;kb dg;dd lu;et	3
 碼元	ma;um yr;hw	2
 碼元	ma;um yr;ee	2
@@ -13347,11 +13347,11 @@ use_preset_vocabulary: false
 虛擬專用網絡	xu;hy ni;fy vr;hc ys;kf wh;sw lo;sg	2
 大端小端	da;ad dr;le xc;ud dr;le	2
 大端小端	da;ad dr;le xc;ad dr;le	2
-大端小端	da;hd dr;le xc;ud dr;le	2
-大端小端	da;hd dr;le xc;ad dr;le	2
+大端小端	da;ad dr;le xc;ud dr;le	2
+大端小端	da;ad dr;le xc;ad dr;le	2
 屬性繼承	uu;ui xy;xu ji;sy ig;ad	2
 植物大戰殭屍	vi;mv wu;nw da;ad vj;gd jd;dj ui;us	2
-植物大戰殭屍	vi;mv wu;nw da;hd vj;gd jd;dj ui;us	2
+植物大戰殭屍	vi;mv wu;nw da;ad vj;gd jd;dj ui;us	2
 句法規則	ju;gk fa;dq gv;fj ze;db	2
 因子分析	yn;kd zi;aa ff;bd xi;mj	2
 因子分析	yn;kd zi;aa ff;db xi;mj	2
@@ -13387,10 +13387,10 @@ use_preset_vocabulary: false
 輸出帶	uu;iy iu;ck dl;jb	2
 大數加法	da;ad uu;wl jw;lk fa;dq	2
 大數加法	da;ad uu;wl jw;kl fa;dq	2
-大數加法	da;hd uu;wl jw;lk fa;dq	2
-大數加法	da;hd uu;wl jw;kl fa;dq	2
+大數加法	da;ad uu;wl jw;lk fa;dq	2
+大數加法	da;ad uu;wl jw;kl fa;dq	2
 部門管理	bu;ek mf;aa gr;vg li;wl	2
-最大子矩陣	zv;oq da;hd zi;aa ju;uj vf;ei	2
+最大子矩陣	zv;oq da;ad zi;aa ju;uj vf;ei	2
 隨機化算法	sv;es ji;mj hw;rb sr;vc fa;dq	2
 密封類	mi;bu fg;cg lz;yl	2
 密封類	mi;bu fg;cg lz;yq	2
@@ -13511,7 +13511,7 @@ use_preset_vocabulary: false
 視頻縮略圖	ui;uj pn;yb so;ss lt;tg tu;kt	2
 路由選擇協議	lu;zg yb;aa xr;zg ze;fx xx;ul yi;yy	2
 命令大全	my;re ly;rs da;ad qr;rw	2
-命令大全	my;re ly;rs da;hd qr;rw	2
+命令大全	my;re ly;rs da;ad qr;rw	2
 掃描輸入	sk;fj mc;fm uu;iy ru;pd	2
 掃描輸入	sk;fv mc;fm uu;iy ru;pd	2
 編譯處理	bm;sb yi;yx iu;hi li;wl	2
@@ -13549,15 +13549,15 @@ use_preset_vocabulary: false
 反病毒	fj;py by;bb du;fm	2
 深克隆	uf;dm ke;eg ls;eu	2
 深克隆	uf;dm ke;ux ls;eu	2
-北大青鳥	bz;ap da;hd qy;of nc;pd	2
+北大青鳥	bz;ap da;ad qy;of nc;pd	2
 循環小數	xp;xd hr;wh xc;ad uu;wl	2
 旋轉木馬	xr;fp vr;iv mu;ad ma;ad	2
 啓發式合併	qi;kw fa;du ui;yg he;rk by;rb	2
 伴生對象	bj;rb ug;na dv;ct xd;du	2
 大數乘法	da;ad uu;wl ig;pb fa;dq	2
 大數乘法	da;ad uu;wl ig;hb fa;dq	2
-大數乘法	da;hd uu;wl ig;pb fa;dq	2
-大數乘法	da;hd uu;wl ig;hb fa;dq	2
+大數乘法	da;ad uu;wl ig;pb fa;dq	2
+大數乘法	da;ad uu;wl ig;hb fa;dq	2
 存儲陣列	cp;za iu;rv vf;ei lx;dd	2
 存儲陣列	cp;zu iu;rv vf;ei lx;dd	2
 存儲陣列	cp;uz iu;rv vf;ei lx;dd	2
@@ -14221,7 +14221,7 @@ use_preset_vocabulary: false
 網絡工程	wh;sw lo;sg gs;aa ig;hi	2
 網絡工程	wh;sw lo;sg gs;hh ig;hi	2
 上下文屬性	uh;aa xw;ab wf;dd uu;ui xy;xu	2
-最大公因數	zv;oq da;hd gs;sb yn;kd uu;wl	2
+最大公因數	zv;oq da;ad gs;sb yn;kd uu;wl	2
 貝葉斯算法	bz;ad ye;cm si;jq sr;vc fa;dq	2
 命令處理程序	my;re ly;rs iu;hi li;wl ig;hi xu;gy	2
 原型製作	yr;ix xy;tx vi;yv zo;rv	2
@@ -14272,7 +14272,7 @@ use_preset_vocabulary: false
 局部座標系	ju;uk bu;ek zo;gz bc;mp xi;ps	2
 掃描線算法	sk;fj mc;fm xm;sq sr;vc fa;dq	2
 掃描線算法	sk;fv mc;fm xm;sq sr;vc fa;dq	2
-最大似然估計	zv;oq da;hd ui;ry rj;hq gu;rg ji;yu	2
+最大似然估計	zv;oq da;ad ui;ry rj;hq gu;rg ji;yu	2
 長度域	ih;ad du;gy yu;th	2
 長度域	ih;hd du;gy yu;th	2
 單行函數	dj;kd xy;xd hj;ku uu;wl	2
@@ -14318,7 +14318,7 @@ use_preset_vocabulary: false
 策略設計模式	ce;vc lt;tg ue;yu ji;yu mo;mm ui;yg	2
 策略設計模式	ce;vc lt;tg ue;yu ji;yu mo;mm ui;gy	2
 資源大全	zi;bc yr;dy da;ad qr;rw	2
-資源大全	zi;bc yr;dy da;hd qr;rw	2
+資源大全	zi;bc yr;dy da;ad qr;rw	2
 郵件營銷	yb;ei jm;rn yy;hl xc;jx	2
 郵件營銷	yb;ei jm;rn yy;lb xc;jx	2
 互聯網廣告	hu;aa lm;ea wh;sw gd;gh gk;kn	2
@@ -14411,7 +14411,7 @@ use_preset_vocabulary: false
 命令語言	my;re ly;rs yu;yw yj;da	2
 圖像算法	tu;kh xd;rx sr;vc fa;dq	2
 圖像算法	tu;kt xd;rx sr;vc fa;dq	2
-大數相乘	da;hd uu;wl xd;mm ig;pb	2
+大數相乘	da;ad uu;wl xd;mm ig;pb	2
 新建文檔	xn;jq jm;zy wf;dd dh;md	2
 順序索引	up;yi xu;gy so;sb yn;ga	2
 順序索引	up;yi xu;gy so;sb yn;gu	2
@@ -14452,7 +14452,7 @@ use_preset_vocabulary: false
 地圖開發	di;ty tu;kh kl;mk fa;du	2
 寬帶連接	kr;bj dl;jb lm;zi jx;fq	2
 寬帶連接	kr;bd dl;jb lm;zi jx;fq	2
-最大似然	zv;oq da;hd ui;ry rj;hq	2
+最大似然	zv;oq da;ad ui;ry rj;hq	2
 特殊算法	te;ns uu;dv sr;vc fa;dq	2
 網上書店	wh;sw uh;aa uu;oy dm;gv	2
 文件名擴展	wf;dd jm;rn my;xk ko;fg vj;uy	2
@@ -14468,7 +14468,7 @@ use_preset_vocabulary: false
 應用內支付	yy;gx ys;kf nz;kr vi;uy fu;rc	2
 虛擬處理器	xu;hy ni;fy iu;hi li;wl qi;qk	2
 虛擬處理器	xu;hy ni;fy iu;hi li;wl qi;kk	2
-極大似然估計	ji;ma da;hd ui;ry rj;hq gu;rg ji;yu	2
+極大似然估計	ji;ma da;ad ui;ry rj;hq gu;rg ji;yu	2
 按鍵驅動	an;fa jm;jj qu;mq ds;lv	2
 版本檢測	bj;pf bf;aa jm;mq ce;dz	2
 版本檢測	bj;pf bf;ma jm;mq ce;dz	2
@@ -15010,7 +15010,7 @@ use_preset_vocabulary: false
 全局應用	qr;rw ju;uk yy;gx ys;kf	2
 分發應用	ff;db fa;du yy;gx ys;kf	2
 大數運算	da;ad uu;wl yp;zj sr;vc	2
-大數運算	da;hd uu;wl yp;zj sr;vc	2
+大數運算	da;ad uu;wl yp;zj sr;vc	2
 數組去重	uu;wl zu;sq qu;ts vs;ql	2
 數組去重	uu;wl zu;sq qu;ts vs;pa	2
 數組去重	uu;wl zu;sq qu;ts vs;ph	2
@@ -15166,9 +15166,9 @@ use_preset_vocabulary: false
 笛卡兒積	di;vy ka;bx er;je ji;hz	1
 笛卡兒積	di;vy ka;bx er;ej ji;hz	1
 快捷鍵大全	ky;xg jx;fj jm;jj da;ad qr;rw	1
-快捷鍵大全	ky;xg jx;fj jm;jj da;hd qr;rw	1
+快捷鍵大全	ky;xg jx;fj jm;jj da;ad qr;rw	1
 快捷鍵大全	ky;xd jx;fj jm;jj da;ad qr;rw	1
-快捷鍵大全	ky;xd jx;fj jm;jj da;hd qr;rw	1
+快捷鍵大全	ky;xd jx;fj jm;jj da;ad qr;rw	1
 攝像頭驅動	ue;fn xd;rx tb;yd qu;mq ds;lv	1
 攝像頭驅動	ue;fn xd;rx tb;dy qu;mq ds;lv	1
 業務流程管理	ye;yw wu;mw lq;di ig;hi gr;vg li;wl	1
@@ -15295,7 +15295,7 @@ use_preset_vocabulary: false
 遠程教育	yr;zy ig;hi jc;wx yu;ys	1
 遠程教育	yr;zy ig;hi jc;wx yu;dy	1
 遠程教育	yr;zy ig;hi jc;wx yu;os	1
-大整數乘法	da;hd vg;vi uu;wl ig;pb fa;dq	1
+大整數乘法	da;ad vg;vi uu;wl ig;pb fa;dq	1
 直方圖均衡	vi;aa fh;wd tu;kh jp;ty hg;xd	1
 數據文件存儲	uu;wl ju;fj wf;dd jm;rn cp;za iu;rv	1
 密碼重置	mi;bu ma;um vs;pa vi;sv	1
@@ -15575,7 +15575,7 @@ use_preset_vocabulary: false
 微信企業號	wz;xw xn;ry qi;rv ye;yw hk;hh	1
 微信企業號	wz;xw xn;ry qi;rv ye;yl hk;hh	1
 軟中斷信號	rr;iq vs;aa dr;ja xn;ry hk;hh	1
-最大子數組和	zv;oq da;hd zi;aa uu;wl zu;sq he;hk	1
+最大子數組和	zv;oq da;ad zi;aa uu;wl zu;sq he;hk	1
 軟件開發模型	rr;iq jm;rn kl;mk fa;zd mo;mm xy;tx	1
 軟件開發模型	rr;iq jm;rn kl;mk fa;du mo;mm xy;tx	1
 軟件開發模型	rr;iq jm;rn kl;mk fa;gy mo;mm xy;tx	1
@@ -15590,7 +15590,7 @@ use_preset_vocabulary: false
 社會化組件	ue;ut hv;ro hw;rb zu;sq jm;rn	1
 社會化組件	ue;tu hv;rr hw;rb zu;sq jm;rn	1
 社會化組件	ue;tu hv;ro hw;rb zu;sq jm;rn	1
-運算放大器	yp;zj sr;vc fh;wf da;hd qi;kk	1
+運算放大器	yp;zj sr;vc fh;wf da;ad qi;kk	1
 千分位	qm;pu ff;bd wz;rl	1
 千分位	qm;pu ff;db wz;rl	1
 千分位	qm;pa ff;bd wz;rl	1
@@ -15685,7 +15685,7 @@ use_preset_vocabulary: false
 核密度估計	he;mh mi;bu du;gy gu;rg ji;yu	1
 核密度估計	he;mh mi;ub du;gy gu;rg ji;yu	1
 自組織映射	zi;pa zu;sq vi;sg yy;oy ue;cu	1
-最大流最小割	zv;oq da;hd lq;di zv;oq xc;ad ge;dh	1
+最大流最小割	zv;oq da;ad lq;di zv;oq xc;ad ge;dh	1
 算法數據結構	sr;vc fa;dq uu;wl ju;fj jx;sj gb;mg	1
 算法數據結構	sr;vc fa;dq uu;wl ju;fj jx;sj gb;mr	1
 算法數據結構	sr;vc fa;dq uu;wl ju;fu jx;sj gb;mg	1
@@ -15709,7 +15709,7 @@ use_preset_vocabulary: false
 股票分析	gu;yu pc;xu ff;db xi;mj	1
 股票分析	gu;ou pc;xu ff;bd xi;mj	1
 股票分析	gu;ou pc;xu ff;db xi;mj	1
-飛機大戰	fz;ff ji;mj da;hd vj;gd	1
+飛機大戰	fz;ff ji;mj da;ad vj;gd	1
 極速瀏覽器	ji;ma su;zu lq;dl lj;jl qi;kk	1
 數根	uu;wl gf;mg	1
 主元素	vu;dw yr;ee su;sf	1
@@ -15735,7 +15735,7 @@ use_preset_vocabulary: false
 棋盤覆蓋	qi;mq pj;mb fu;xf gl;cm	1
 棋盤覆蓋	qi;mq pj;mb fu;xf gl;ch	1
 自動尋路	zi;pa ds;lv xp;ck lu;zg	1
-大數據架構	da;hd uu;wl ju;fj jw;mj gb;mg	1
+大數據架構	da;ad uu;wl ju;fj jw;mj gb;mg	1
 高性能網站	gk;dk xy;xu ng;sb wh;sw vj;lv	1
 高性能網站	gk;wk xy;xu ng;sb wh;sw vj;lv	1
 唯一分解定理	wz;kv yi;aa ff;bd jx;jn dy;bp li;wl	1
@@ -15761,7 +15761,7 @@ use_preset_vocabulary: false
 篩法求素數	ul;vu fa;dq qq;ad su;fs uu;wl	1
 篩法求素數	ul;vu fa;dq qq;hd su;sf uu;wl	1
 篩法求素數	ul;vu fa;dq qq;hd su;fs uu;wl	1
-九大內置對象	jq;py da;hd nz;kr vi;sv dv;ct xd;du	1
+九大內置對象	jq;py da;ad nz;kr vi;sv dv;ct xd;du	1
 爛筆頭	lj;hj bi;vy tb;yd	1
 爛筆頭	lj;hj bi;vy tb;dy	1
 爛筆頭	lj;hl bi;vy tb;yd	1
@@ -15812,7 +15812,7 @@ use_preset_vocabulary: false
 階躍函數	jx;ej yt;zv hj;lk uu;wl	1
 基本運算符	ji;tq bf;aa yp;zj sr;vc fu;vf	1
 字符串哈希	zi;bz fu;vf ir;aa ha;kh xi;ju	1
-最大權閉合圖	zv;oq da;hd qr;mv bi;mc he;rk tu;kh	1
+最大權閉合圖	zv;oq da;ad qr;mv bi;mc he;rk tu;kh	1
 架構類	jw;mj gb;mg lz;yl	1
 架構類	jw;mj gb;mg lz;yq	1
 架構類	jw;mj gb;mr lz;yl	1
@@ -15877,7 +15877,7 @@ use_preset_vocabulary: false
 實時輸出	ui;bg ui;os uu;iy iu;uu	1
 實時輸出	ui;bg ui;os uu;iy iu;ck	1
 機型適配	ji;mj xy;tx ui;zd pz;yj	1
-大數據開發	da;hd uu;wl ju;fj kl;mk fa;du	1
+大數據開發	da;ad uu;wl ju;fj kl;mk fa;du	1
 完全函數依賴	wj;by qr;rw hj;ku uu;wl yi;ry ll;uf	1
 完全函數依賴	wj;by qr;rw hj;lk uu;wl yi;ry ll;uf	1
 業務理解	ye;yw wu;mw li;wl jx;jn	1
@@ -16162,7 +16162,7 @@ use_preset_vocabulary: false
 類反射	lz;yl fj;py ue;cu	1
 類反射	lz;yq fj;py ue;uc	1
 類反射	lz;yq fj;py ue;cu	1
-三大範式	sj;aa da;hd fj;ve ui;yg	1
+三大範式	sj;aa da;ad fj;ve ui;yg	1
 容斥定理	rs;bg ii;jd dy;bp li;wl	1
 容斥定理	rs;bg ii;pd dy;bp li;wl	1
 報表製作	bk;ty bc;fy vi;yv zo;rv	1
@@ -16313,7 +16313,7 @@ use_preset_vocabulary: false
 代碼格式化	dl;ry ma;um ge;mg ui;yg hw;rb	1
 代碼格式化	dl;ry ma;um ge;mg ui;gy hw;rb	1
 八大排序算法	ba;pd da;ad pl;ff xu;gy sr;vc fa;dq	1
-八大排序算法	ba;pd da;hd pl;ff xu;gy sr;vc fa;dq	1
+八大排序算法	ba;pd da;ad pl;ff xu;gy sr;vc fa;dq	1
 信任鏈	xn;ry rf;rr lm;jl	1
 後臺框架	hb;rw tl;uv kd;mk jw;mj	1
 後臺框架	hb;xw tl;uv kd;mk jw;mj	1
@@ -16421,7 +16421,7 @@ use_preset_vocabulary: false
 報錯解決	bk;ex co;jx jx;jn jt;dd	1
 模擬輸出	mo;mm ni;fy uu;iy iu;uu	1
 模擬輸出	mo;mm ni;fy uu;iy iu;ck	1
-互聯網大會	hu;aa lm;ea wh;sw da;hd hv;ro	1
+互聯網大會	hu;aa lm;ea wh;sw da;ad hv;ro	1
 哈弗曼編碼	ha;kh fu;gp mj;oy bm;sb ma;um	1
 當前優先級	dh;tk qm;bd yb;rw xm;en ji;sj	1
 超級服務器	ik;zv ji;sj fu;oy wu;mw qi;qk	1
@@ -16490,7 +16490,7 @@ use_preset_vocabulary: false
 動態重定位	ds;lv tl;xn vs;ql dy;bp wz;rl	1
 動態重定位	ds;lv tl;xn vs;pa dy;bp wz;rl	1
 動態重定位	ds;lv tl;xn vs;ph dy;bp wz;rl	1
-最大字段和	zv;oq da;hd zi;bz dr;pu he;hk	1
+最大字段和	zv;oq da;ad zi;bz dr;pu he;hk	1
 模數轉換器	mo;mm uu;wl vr;iv hr;fh qi;qk	1
 模數轉換器	mo;mm uu;wl vr;iv hr;fh qi;kk	1
 軟件生存週期	rr;iq jm;rn ug;na cp;za vb;zv qi;oq	1
@@ -16588,7 +16588,7 @@ use_preset_vocabulary: false
 邏輯系統	lo;zl ji;ie xi;ps ts;si	1
 邏輯系統	lo;zw ji;iq xi;ps ts;si	1
 邏輯系統	lo;zw ji;ie xi;ps ts;si	1
-大數據工具	da;hd uu;wl ju;fj gs;aa ju;ba	1
+大數據工具	da;ad uu;wl ju;fj gs;aa ju;ba	1
 無向網	wu;ha xd;pk wh;sw	1
 文件遍歷	wf;dd jm;rn bm;zb li;iv	1
 文件遍歷	wf;dd jm;rn bm;zb li;vh	1
@@ -16692,7 +16692,7 @@ use_preset_vocabulary: false
 受控訪問	ub;vy ks;fk fh;yf wf;km	1
 受控訪問	ub;vy ks;fk fh;yf wf;mk	1
 大數模板	da;ad uu;wl mu;mm bj;mf	1
-大數模板	da;hd uu;wl mu;mm bj;mf	1
+大數模板	da;ad uu;wl mu;mm bj;mf	1
 字符邊界	zi;bz fu;vf bm;zf jx;tj	1
 封裝格式	fg;cg vd;yv ge;mg ui;yg	1
 封裝格式	fg;cg vd;yv ge;mg ui;gy	1
@@ -16862,8 +16862,8 @@ use_preset_vocabulary: false
 關聯源碼	gr;mu lm;ea yr;dy ma;um	1
 大數階乘	da;ad uu;wl jx;ej ig;pb	1
 大數階乘	da;ad uu;wl jx;ej ig;hb	1
-大數階乘	da;hd uu;wl jx;ej ig;pb	1
-大數階乘	da;hd uu;wl jx;ej ig;hb	1
+大數階乘	da;ad uu;wl jx;ej ig;pb	1
+大數階乘	da;ad uu;wl jx;ej ig;hb	1
 註解開發	vu;yv jx;jn kl;mk fa;zd	1
 註解開發	vu;yv jx;jn kl;mk fa;du	1
 註解開發	vu;yv jx;jn kl;mk fa;gy	1
@@ -17033,7 +17033,7 @@ use_preset_vocabulary: false
 邊雙連通分量	bm;zf ud;vy lm;zi ts;zy ff;db ld;ol	1
 側滑刪除	ce;rz hw;dg uj;dc iu;ey	1
 大數計算	da;ad uu;wl ji;yu sr;vc	1
-大數計算	da;hd uu;wl ji;yu sr;vc	1
+大數計算	da;ad uu;wl ji;yu sr;vc	1
 消息方式	xc;dx xi;xz fh;wd ui;yg	1
 程序基礎	ig;hi xu;gy ji;qt iu;ui	1
 程序基礎	ig;hi xu;gy ji;tq iu;ui	1
@@ -17237,8 +17237,8 @@ use_preset_vocabulary: false
 優先級選擇	yb;rw xm;en ji;sj xr;zg ze;fx	1
 大數據管理	da;ad uu;wl ju;fj gr;vg li;wl	1
 大數據管理	da;ad uu;wl ju;fu gr;vg li;wl	1
-大數據管理	da;hd uu;wl ju;fj gr;vg li;wl	1
-大數據管理	da;hd uu;wl ju;fu gr;vg li;wl	1
+大數據管理	da;ad uu;wl ju;fj gr;vg li;wl	1
+大數據管理	da;ad uu;wl ju;fu gr;vg li;wl	1
 測試管理工具	ce;dz ui;yu gr;vg li;wl gs;aa ju;ba	1
 通用編程語言	ts;zy ys;kf bm;sb ig;hi yu;yw yj;dh	1
 通用編程語言	ts;zy ys;kf bm;sb ig;hi yu;yw yj;dk	1
@@ -17514,7 +17514,7 @@ use_preset_vocabulary: false
 質因子分解	vi;bj yn;kd zi;vh ff;bd jx;jn	1
 質因子分解	vi;bj yn;kd zi;vh ff;db jx;jn	1
 大模擬	da;ad mo;mm ni;fy	1
-大模擬	da;hd mo;mm ni;fy	1
+大模擬	da;ad mo;mm ni;fy	1
 三角面片	sj;aa jc;dy mm;aa pm;pa	1
 主動查詢	vu;dw ds;lv ia;md xp;yx	1
 交叉概率	jc;wf ia;yd gl;mj lv;wu	1
@@ -17619,7 +17619,7 @@ use_preset_vocabulary: false
 超級樓梯	ik;zv ji;sj lb;ml ti;md	1
 頁面居中	ye;ab mm;aa ju;ug vs;aa	1
 顯示小圖標	xm;ys ui;ex xc;ad tu;kh bc;mp	1
-最大子矩陣和	zv;oq da;hd zi;aa ju;uj vf;ei he;hk	1
+最大子矩陣和	zv;oq da;ad zi;aa ju;uj vf;ei he;hk	1
 二維揹包	er;aa wz;sv bz;fb bk;bs	1
 二維揹包	er;aa wz;sv bz;fb bk;gs	1
 二維揹包	er;hh wz;sv bz;fb bk;bs	1
@@ -17721,8 +17721,8 @@ use_preset_vocabulary: false
 超圖	ik;zv tu;kt	1
 大數類	da;ad uu;wl lz;yl	1
 大數類	da;ad uu;wl lz;yq	1
-大數類	da;hd uu;wl lz;yl	1
-大數類	da;hd uu;wl lz;yq	1
+大數類	da;ad uu;wl lz;yl	1
+大數類	da;ad uu;wl lz;yq	1
 隔離級	ge;eg li;vl ji;sj	1
 共生矩陣	gs;cb ug;nh ju;uj vf;ei	1
 共生矩陣	gs;cb ug;na ju;uj vf;ei	1
@@ -17746,7 +17746,7 @@ use_preset_vocabulary: false
 流水線處理	lq;di uv;ad xm;sq iu;hi li;wl	1
 瀏覽器腳本	lq;dl lj;jl qi;kk jc;oq bf;aa	1
 編程基本功	bm;sb ig;hi ji;tq bf;aa gs;lg	1
-最大二分匹配	zv;oq da;hd er;aa ff;db pi;ke pz;yj	1
+最大二分匹配	zv;oq da;ad er;aa ff;db pi;ke pz;yj	1
 主副本	vu;dw fu;df bf;aa	1
 技術前沿	ji;fv uu;xi qm;bd yj;dk	1
 技術前沿	ji;fv uu;xi qm;qd yj;dk	1
@@ -17812,9 +17812,9 @@ use_preset_vocabulary: false
 素數篩選法	su;sf uu;wl ul;vu xr;zg fa;dq	1
 素數篩選法	su;fs uu;wl ul;vu xr;zg fa;dq	1
 網絡最大流	wh;sw lo;sg zv;oq da;ad lq;di	1
-網絡最大流	wh;sw lo;sg zv;oq da;hd lq;di	1
+網絡最大流	wh;sw lo;sg zv;oq da;ad lq;di	1
 網絡最大流	wh;sw lo;sg zv;rq da;ad lq;di	1
-網絡最大流	wh;sw lo;sg zv;rq da;hd lq;di	1
+網絡最大流	wh;sw lo;sg zv;rq da;ad lq;di	1
 執行主體	vi;wx xy;xd vu;dw ti;gd	1
 旁路電容	ph;wf lu;zg dm;yd rs;bg	1
 直接模式	vi;aa jx;fq mo;mm ui;yg	1
@@ -17866,8 +17866,8 @@ use_preset_vocabulary: false
 鳥哥私房菜	nc;pd ge;kd si;hs fh;hf cl;cc	1
 雲計算大數據	yp;yy ji;yu sr;vc da;ad uu;wl ju;fj	1
 雲計算大數據	yp;yy ji;yu sr;vc da;ad uu;wl ju;fu	1
-雲計算大數據	yp;yy ji;yu sr;vc da;hd uu;wl ju;fj	1
-雲計算大數據	yp;yy ji;yu sr;vc da;hd uu;wl ju;fu	1
+雲計算大數據	yp;yy ji;yu sr;vc da;ad uu;wl ju;fj	1
+雲計算大數據	yp;yy ji;yu sr;vc da;ad uu;wl ju;fu	1
 數字簽名標準	uu;wl zi;bz qm;vq my;xk bc;mp vp;uv	1
 數字簽名標準	uu;wl zi;bz qm;vq my;xk bc;mp vp;uh	1
 邏輯斯蒂迴歸	lo;zl ji;ie si;jq di;cd hv;zh gv;vj	1
@@ -17926,11 +17926,11 @@ use_preset_vocabulary: false
 雙擊退出	ud;vy ji;fu tv;zg iu;ck	1
 增量學習	zg;tc ld;ol xt;jz xi;by	1
 故障時間	gu;wg vh;ev ui;os jm;mo	1
-極大似然	ji;ma da;hd ui;ry rj;hq	1
+極大似然	ji;ma da;ad ui;ry rj;hq	1
 程序確認	ig;hi xu;gy qt;uv rf;yr	1
 蛇形填數	ue;it xy;pk tm;tv uu;wl	1
 軟件作品	rr;iq jm;rn zo;rv pn;kk	1
-最大子列和	zv;oq da;hd zi;aa lx;dd he;hk	1
+最大子列和	zv;oq da;ad zi;aa lx;dd he;hk	1
 刻度尺	ke;dh du;gy ii;ad	1
 刻度尺	ke;dh du;gy ii;ud	1
 刻度尺	ke;dh du;gy ii;vd	1
@@ -18139,8 +18139,8 @@ use_preset_vocabulary: false
 邊緣算子	bm;zf yr;su sr;vc zi;vh	0
 大數據框架	da;ad uu;wl ju;fj kd;mk jw;mj	0
 大數據框架	da;ad uu;wl ju;fu kd;mk jw;mj	0
-大數據框架	da;hd uu;wl ju;fj kd;mk jw;mj	0
-大數據框架	da;hd uu;wl ju;fu kd;mk jw;mj	0
+大數據框架	da;ad uu;wl ju;fj kd;mk jw;mj	0
+大數據框架	da;ad uu;wl ju;fu kd;mk jw;mj	0
 系統編程語言	xi;ps ts;si bm;sb ig;hi yu;yw yj;dh	0
 系統編程語言	xi;ps ts;si bm;sb ig;hi yu;yw yj;dk	0
 系統編程語言	xi;ps ts;si bm;sb ig;hi yu;yw yj;wk	0
@@ -18477,7 +18477,7 @@ use_preset_vocabulary: false
 協調控制	xx;ul tc;yv ks;fk vi;dv	0
 協調控制	xx;ul tc;yv ks;fk vi;dg	0
 大數處理	da;ad uu;wl iu;hi li;wl	0
-大數處理	da;hd uu;wl iu;hi li;wl	0
+大數處理	da;ad uu;wl iu;hi li;wl	0
 最優估計	zv;oq yb;rw gu;rg ji;yu	0
 最優估計	zv;rq yb;rw gu;rg ji;yu	0
 樹上倍增	uu;mc uh;aa bz;rk zg;tc	0
@@ -18748,7 +18748,7 @@ use_preset_vocabulary: false
 編程異常	bm;sb ig;hi yi;tg ih;dd	0
 編程異常	bm;sb ig;hi yi;tg ih;xd	0
 啓發式技術	qi;kw fa;du ui;yg ji;fv uu;xi	0
-尋找最大數	xp;ck vk;fg zv;oq da;hd uu;wl	0
+尋找最大數	xp;ck vk;fg zv;oq da;ad uu;wl	0
 幀封裝	vf;jv fg;cg vd;yv	0
 側拉菜單	ce;rz la;fl cl;cc dj;kd	0
 關係邏輯	gr;ma xi;rx lo;zl ji;ie	0
@@ -18796,7 +18796,7 @@ use_preset_vocabulary: false
 幀檢驗序列	vf;jv jm;mq yj;mq xu;gy lx;dd	0
 日期工具類	ri;aa qi;oq gs;aa ju;ba lz;yl	0
 細胞自動機	xi;st bk;ob zi;pa ds;lv ji;mj	0
-大數據可視化	da;hd uu;wl ju;fj ke;dk ui;ju hw;rb	0
+大數據可視化	da;ad uu;wl ju;fj ke;dk ui;ju hw;rb	0
 字符串全排列	zi;bz fu;vf ir;uu qr;rw pl;ff lx;dd	0
 字符串全排列	zi;bz fu;vf ir;aa qr;rw pl;ff lx;dd	0
 字符串全排列	zi;bz fu;vf ir;vv qr;rw pl;ff lx;dd	0
@@ -18990,9 +18990,9 @@ use_preset_vocabulary: false
 多媒體會議	do;xx mz;nm ti;gl hv;rr yi;yy	0
 多媒體會議	do;xx mz;nm ti;gl hv;ro yi;yy	0
 數組最大值	uu;wl zu;sq zv;oq da;ad vi;rv	0
-數組最大值	uu;wl zu;sq zv;oq da;hd vi;rv	0
+數組最大值	uu;wl zu;sq zv;oq da;ad vi;rv	0
 數組最大值	uu;wl zu;sq zv;rq da;ad vi;rv	0
-數組最大值	uu;wl zu;sq zv;rq da;hd vi;rv	0
+數組最大值	uu;wl zu;sq zv;rq da;ad vi;rv	0
 依賴方	yi;ry ll;uf fh;wd	0
 依賴方	yi;ry ll;uf fh;dw	0
 依賴方	yi;ry ll;uf fh;dd	0
@@ -19423,8 +19423,8 @@ use_preset_vocabulary: false
 商城項目	uh;wk ig;ti xd;gy mu;aa	0
 大數據安全	da;ad uu;wl ju;fj an;bn qr;rw	0
 大數據安全	da;ad uu;wl ju;fu an;bn qr;rw	0
-大數據安全	da;hd uu;wl ju;fj an;bn qr;rw	0
-大數據安全	da;hd uu;wl ju;fu an;bn qr;rw	0
+大數據安全	da;ad uu;wl ju;fj an;bn qr;rw	0
+大數據安全	da;ad uu;wl ju;fu an;bn qr;rw	0
 面向連接協議	mm;aa xd;pk lm;zi jx;fq xx;ul yi;yy	0
 字序	zi;bz xu;gy	0
 失效率	ui;pf xc;wj lv;wu	0
@@ -19504,9 +19504,9 @@ use_preset_vocabulary: false
 計算機繪圖	ji;yu sr;vc ji;mj hv;sh tu;kh	0
 計算機繪圖	ji;yu sr;vc ji;mj hv;sh tu;kt	0
 網絡流最大流	wh;sw lo;sg lq;di zv;oq da;ad lq;di	0
-網絡流最大流	wh;sw lo;sg lq;di zv;oq da;hd lq;di	0
+網絡流最大流	wh;sw lo;sg lq;di zv;oq da;ad lq;di	0
 網絡流最大流	wh;sw lo;sg lq;di zv;rq da;ad lq;di	0
-網絡流最大流	wh;sw lo;sg lq;di zv;rq da;hd lq;di	0
+網絡流最大流	wh;sw lo;sg lq;di zv;rq da;ad lq;di	0
 寫通過	xx;bd ts;zy go;zg	0
 寫通過	xx;bd ts;zy go;zk	0
 寫通過	xx;bh ts;zy go;zg	0
@@ -19516,7 +19516,7 @@ use_preset_vocabulary: false
 處理部件	iu;hi li;wl bu;ep jm;rn	0
 處理部件	iu;hi li;wl bu;ek jm;rn	0
 大菲波數	da;ad fz;cf bo;dp uu;wl	0
-大菲波數	da;hd fz;cf bo;dp uu;wl	0
+大菲波數	da;ad fz;cf bo;dp uu;wl	0
 孫子定理	sp;zx zi;aa dy;bp li;wl	0
 孫子定理	sp;zx zi;vh dy;bp li;wl	0
 手機病毒	ub;pu ji;mj by;bb du;fm	0
@@ -19525,7 +19525,7 @@ use_preset_vocabulary: false
 網站監控	wh;sw vj;lv jm;mv ks;fk	0
 記憶訓練	ji;yj yi;xy xp;yi lm;sj	0
 多任務管理	do;xx rf;rr wu;mw gr;vg li;wl	0
-大整數加法	da;hd vg;vi uu;wl jw;kl fa;dq	0
+大整數加法	da;ad vg;vi uu;wl jw;kl fa;dq	0
 暴力求解法	bk;ou li;gp qq;ad jx;jn fa;dq	0
 暴力求解法	bk;ou li;gp qq;hd jx;jn fa;dq	0
 暴力求解法	bk;ru li;gp qq;ad jx;jn fa;dq	0
@@ -19588,7 +19588,7 @@ use_preset_vocabulary: false
 關係演算	gr;ma xi;rx yj;dy sr;vc	0
 關係演算	gr;mu xi;rx yj;dy sr;vc	0
 大話設計	da;ad hw;yu ue;yu ji;yu	0
-大話設計	da;hd hw;yu ue;yu ji;yu	0
+大話設計	da;ad hw;yu ue;yu ji;yu	0
 系統顛簸	xi;ps ts;si dm;yv bo;vp	0
 繪圖基礎	hv;sh tu;kh ji;qt iu;ui	0
 繪圖基礎	hv;sh tu;kh ji;tq iu;ui	0
@@ -19762,7 +19762,7 @@ use_preset_vocabulary: false
 軟件生產率	rr;iq jm;rn ug;na ij;wu lv;wu	0
 軟件生產率	rr;iq jm;rn ug;na ij;wu lv;du	0
 創建圖片對象	id;dc jm;zy tu;kh pm;pa dv;ct xd;du	0
-大容量存儲器	da;hd rs;bg ld;ol cp;za iu;rv qi;kk	0
+大容量存儲器	da;ad rs;bg ld;ol cp;za iu;rv qi;kk	0
 數據挖掘分析	uu;wl ju;fj wa;fw jt;fq ff;db xi;mj	0
 雲託管	yp;yy to;yt gr;vg	0
 雲託管	yp;yy to;yq gr;vg	0
@@ -19774,8 +19774,8 @@ use_preset_vocabulary: false
 命題邏輯	my;re ti;uy lo;zl ji;ie	0
 大數相減	da;ad uu;wl xd;mm jm;dx	0
 大數相減	da;ad uu;wl xd;mo jm;dx	0
-大數相減	da;hd uu;wl xd;mm jm;dx	0
-大數相減	da;hd uu;wl xd;mo jm;dx	0
+大數相減	da;ad uu;wl xd;mm jm;dx	0
+大數相減	da;ad uu;wl xd;mo jm;dx	0
 常用模板	ih;jk ys;kf mu;mm bj;mf	0
 常用模板	ih;dd ys;kf mu;mm bj;mf	0
 常用模板	ih;xd ys;kf mu;mm bj;mf	0
@@ -19853,8 +19853,8 @@ use_preset_vocabulary: false
 公衆號開發	gs;sb vs;xd hk;hh kl;mk fa;du	0
 大數據算法	da;ad uu;wl ju;fj sr;vc fa;dq	0
 大數據算法	da;ad uu;wl ju;fu sr;vc fa;dq	0
-大數據算法	da;hd uu;wl ju;fj sr;vc fa;dq	0
-大數據算法	da;hd uu;wl ju;fu sr;vc fa;dq	0
+大數據算法	da;ad uu;wl ju;fj sr;vc fa;dq	0
+大數據算法	da;ad uu;wl ju;fu sr;vc fa;dq	0
 計算機產業	ji;yu sr;vc ji;mj ij;wu ye;yw	0
 計算機產業	ji;yu sr;vc ji;mj ij;wu ye;yl	0
 信息瀏覽服務	xn;ry xi;xz lq;dl lj;jl fu;oy wu;mw	0
@@ -20004,7 +20004,7 @@ use_preset_vocabulary: false
 圖形適配器	tu;kt xy;pk ui;zd pz;yj qi;qk	0
 圖形適配器	tu;kt xy;pk ui;zd pz;yj qi;kk	0
 報文鑑別碼	bk;ex wf;dd jm;jj bx;dd ma;um	0
-最大子矩形	zv;oq da;hd zi;aa ju;uj xy;pk	0
+最大子矩形	zv;oq da;ad zi;aa ju;uj xy;pk	0
 點到點協議	dm;hv dk;dv dm;hv xx;ux yi;yy	0
 點到點協議	dm;hv dk;dv dm;hv xx;ul yi;yy	0
 平均訪問時間	py;aa jp;ty fh;yf wf;mw ui;os jm;mo	0
@@ -20120,7 +20120,7 @@ use_preset_vocabulary: false
 統計模式識別	ts;si ji;yu mo;mm ui;yg ui;yg bx;dd	0
 網站架構設計	wh;sw vj;lv jw;mj gb;mg ue;yu ji;yu	0
 網站架構設計	wh;sw vj;lv jw;mj gb;mr ue;yu ji;yu	0
-下拉放大	xw;ab la;fl fh;wf da;hd	0
+下拉放大	xw;ab la;fl fh;wf da;ad	0
 後臺分頁	hb;xw tl;uv ff;db ye;ab	0
 開燈問題	kl;mk dg;hd wf;km ti;yu	0
 開燈問題	kl;mk dg;hd wf;km ti;uy	0
@@ -20137,7 +20137,7 @@ use_preset_vocabulary: false
 頂點覆蓋	dy;dy dm;hv fu;xf gl;cm	0
 頂點覆蓋	dy;dy dm;hv fu;xf gl;ch	0
 機電一體化	ji;mj dm;yd yi;aa ti;gd hw;rb	0
-安卓四大組件	an;bn vo;uo si;ke da;hd zu;sq jm;rn	0
+安卓四大組件	an;bn vo;uo si;ke da;ad zu;sq jm;rn	0
 數據結構實踐	uu;wl ju;fj jx;sj gb;mg ui;bg jm;zj	0
 數據結構實踐	uu;wl ju;fj jx;sj gb;mr ui;bg jm;zj	0
 數據結構實踐	uu;wl ju;fu jx;sj gb;mg ui;bg jm;zj	0
@@ -20276,8 +20276,8 @@ use_preset_vocabulary: false
 復位脈衝	fu;xf wz;rl ml;op is;xi	0
 大數取模	da;ad uu;wl qu;ye mo;mm	0
 大數取模	da;ad uu;wl qu;ey mo;mm	0
-大數取模	da;hd uu;wl qu;ye mo;mm	0
-大數取模	da;hd uu;wl qu;ey mo;mm	0
+大數取模	da;ad uu;wl qu;ye mo;mm	0
+大數取模	da;ad uu;wl qu;ey mo;mm	0
 實時輸入	ui;bg ui;rs uu;iy ru;pd	0
 實時輸入	ui;bg ui;os uu;iy ru;pd	0
 搜索剪枝	sb;fy so;sb jm;dq vi;mv	0
@@ -20408,7 +20408,7 @@ use_preset_vocabulary: false
 聯機處理	lm;ea ji;mj iu;hi li;wl	0
 關鍵詞佈局	gr;ma jm;jj ci;ys bu;rb ju;uk	0
 關鍵詞佈局	gr;mu jm;jj ci;ys bu;rb ju;uk	0
-開發者大賽	kl;mk fa;du ve;ol da;hd sl;bb	0
+開發者大賽	kl;mk fa;du ve;ol da;ad sl;bb	0
 人工管理階段	rf;pd gs;aa gr;vg li;wl jx;ej dr;pu	0
 企業信息安全	qi;rv ye;yw xn;ry xi;xz an;bn qr;rw	0
 企業信息安全	qi;rv ye;yw xn;ry xi;zx an;bn qr;rw	0
@@ -20451,8 +20451,8 @@ use_preset_vocabulary: false
 分享朋友圈	ff;db xd;wz pg;oo yb;yu qr;kj	0
 大數據雲計算	da;ad uu;wl ju;fj yp;yy ji;yu sr;vc	0
 大數據雲計算	da;ad uu;wl ju;fu yp;yy ji;yu sr;vc	0
-大數據雲計算	da;hd uu;wl ju;fj yp;yy ji;yu sr;vc	0
-大數據雲計算	da;hd uu;wl ju;fu yp;yy ji;yu sr;vc	0
+大數據雲計算	da;ad uu;wl ju;fj yp;yy ji;yu sr;vc	0
+大數據雲計算	da;ad uu;wl ju;fu yp;yy ji;yu sr;vc	0
 線篩	xm;sq ul;vu	0
 雲視頻	yp;yy ui;ju pn;yb	0
 雲視頻	yp;yy ui;uj pn;yb	0
@@ -20673,8 +20673,8 @@ use_preset_vocabulary: false
 數據鏈路控制	uu;wl ju;fu lm;jl lu;zg ks;fk vi;dg	0
 大數題	da;ad uu;wl ti;yu	0
 大數題	da;ad uu;wl ti;uy	0
-大數題	da;hd uu;wl ti;yu	0
-大數題	da;hd uu;wl ti;uy	0
+大數題	da;ad uu;wl ti;yu	0
+大數題	da;ad uu;wl ti;uy	0
 跟蹤球	gf;zg zs;zc qq;wq	0
 跟蹤球	gf;zg zs;zv qq;wq	0
 內含邏輯	nz;kr hj;kj lo;zl ji;ie	0
@@ -20686,8 +20686,8 @@ use_preset_vocabulary: false
 可分級性	ke;dk ff;db ji;sj xy;xu	0
 大數求餘	da;ad uu;wl qq;ad yu;uy	0
 大數求餘	da;ad uu;wl qq;hd yu;uy	0
-大數求餘	da;hd uu;wl qq;ad yu;uy	0
-大數求餘	da;hd uu;wl qq;hd yu;uy	0
+大數求餘	da;ad uu;wl qq;ad yu;uy	0
+大數求餘	da;ad uu;wl qq;hd yu;uy	0
 存取類型	cp;za qu;ey lz;yl xy;tx	0
 數據挖據	uu;wl ju;fj wa;fw ju;fj	0
 時鐘偏差	ui;rs vs;jt pm;rb ia;yg	0
@@ -20751,7 +20751,7 @@ use_preset_vocabulary: false
 調試模型	tc;yv ui;yu mo;mm xy;tx	0
 啓動子程序	qi;kw ds;lv zi;aa ig;hi xu;gy	0
 啓動子程序	qi;kw ds;lv zi;vh ig;hi xu;gy	0
-大數據方案	da;hd uu;wl ju;fj fh;wd an;ma	0
+大數據方案	da;ad uu;wl ju;fj fh;wd an;ma	0
 字符串旋轉	zi;bz fu;vf ir;uu xr;fp vr;iv	0
 字符串旋轉	zi;bz fu;vf ir;aa xr;fp vr;iv	0
 字符串旋轉	zi;bz fu;vf ir;vv xr;fp vr;iv	0
@@ -21013,7 +21013,7 @@ use_preset_vocabulary: false
 天空軟件站	tm;hd ks;xg rr;iq jm;rn vj;lv	0
 滑動菜單欄	hw;dg ds;lv cl;cc dj;kd lj;ml	0
 滑動菜單欄	hw;dg ds;lv cl;cc dj;kd lj;mj	0
-上下界最大流	uh;aa xw;ab jx;tj zv;oq da;hd lq;di	0
+上下界最大流	uh;aa xw;ab jx;tj zv;oq da;ad lq;di	0
 單點登錄框架	dj;kd dm;hv dg;dd lu;jl kd;mk jw;mj	0
 開發常見問題	kl;mk fa;du ih;xd jm;me wf;mw ti;uy	0
 性能測試分析	xy;xu ng;sb ce;dz ui;yu ff;bd xi;mj	0
@@ -21337,7 +21337,7 @@ use_preset_vocabulary: false
 番茄花園	fj;pt qx;cj hw;ch yr;ky	0
 番茄花園	fj;tm qx;cj hw;ch yr;ky	0
 離線大法	li;vl xm;sq da;ad fa;dq	0
-離線大法	li;vl xm;sq da;hd fa;dq	0
+離線大法	li;vl xm;sq da;ad fa;dq	0
 系統經驗	xi;ps ts;si jy;sj yj;mq	0
 系統經驗	xi;ps ts;si jy;sg yj;mq	0
 進化發展	jn;zv hw;rb fa;zd vj;uy	0

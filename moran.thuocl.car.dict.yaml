@@ -251,7 +251,7 @@ use_preset_vocabulary: false
 改款車	gl;jw kr;qu ie;hh	104
 公路客運	gs;bs lu;zg ke;bg yp;zj	104
 公路客運	gs;sb lu;zg ke;bg yp;zj	104
-大衆中國	da;hd vs;xd vs;aa go;kh	100
+大衆中國	da;ad vs;xd vs;aa go;kh	100
 頭部空間	tb;dy bu;ek ks;bg jm;mo	98
 砂紙	ua;uu vi;su	97
 德爾福	de;xx er;ay fu;uf	97
@@ -283,8 +283,8 @@ use_preset_vocabulary: false
 領航員	ly;yl hh;vk yr;kb	79
 大包圍	da;ad bk;bs wz;kw	79
 大包圍	da;ad bk;gs wz;kw	79
-大包圍	da;hd bk;bs wz;kw	79
-大包圍	da;hd bk;gs wz;kw	79
+大包圍	da;ad bk;bs wz;kw	79
+大包圍	da;ad bk;gs wz;kw	79
 乙炔	yi;aa gv;hd	79
 前圍	qm;bd wz;kw	78
 前圍	qm;qd wz;kw	78
@@ -372,9 +372,9 @@ use_preset_vocabulary: false
 賈新光	jw;xb xn;jq gd;eh	50
 賈新光	jw;xb xn;jq gd;ea	50
 賈新光	jw;xb xn;jq gd;xw	50
-上海大衆斯柯達	uh;aa hl;dm da;hd vs;xd si;jq ke;mk da;zy	50
+上海大衆斯柯達	uh;aa hl;dm da;ad vs;xd si;jq ke;mk da;zy	50
 自動豪華	zi;pa ds;lv hk;wu hw;ca	48
-大切諾基	da;hd qx;dq no;yr ji;tq	47
+大切諾基	da;ad qx;dq no;yr ji;tq	47
 摩托車配件	mo;mu to;fq ie;aa pz;yj jm;rn	47
 指南者	vi;fv nj;ua ve;ol	47
 通用別克	ts;zy ys;kf bx;dd ke;eg	45
@@ -590,7 +590,7 @@ use_preset_vocabulary: false
 組合表	zu;sq he;rk bc;fy	18
 雙面膠帶	ud;vy mm;aa jc;ol dl;jb	18
 新大地	xn;jq da;ad di;ty	18
-新大地	xn;jq da;hd di;ty	18
+新大地	xn;jq da;ad di;ty	18
 汽車零部件有限公司	qi;dq ie;aa ly;yl bu;ek jm;rn yb;ou xm;eg gs;sb si;gk	17
 預緊式安全帶	yu;yy jn;sy ui;yg an;bn qr;rw dl;jb	17
 預緊式安全帶	yu;yy jn;sy ui;gy an;bn qr;rw dl;jb	17
@@ -645,7 +645,7 @@ use_preset_vocabulary: false
 輪間	lp;il jm;mo	13
 珠海國際賽車場	vu;wv hl;dm go;kh ji;ej sl;bb ie;aa ih;ty	13
 珠海國際賽車場	vu;wv hl;dm go;kh ji;ej sl;bb ie;hh ih;ty	13
-中大汽車	vs;aa da;hd qi;dq ie;aa	13
+中大汽車	vs;aa da;ad qi;dq ie;aa	13
 駕駛員側	jw;mj ui;mu yr;kb ce;rz	13
 圓錐滾子軸承	yr;ky vv;jv gp;dg zi;aa vb;iy ig;ad	13
 電動玻璃	dm;yg ds;lv bo;wp li;wl	13
@@ -664,7 +664,7 @@ use_preset_vocabulary: false
 車載導航系統	ie;hh zl;ig dk;cd hh;vk xi;ps ts;si	12
 車載導航系統	ie;hh zl;gi dk;cd hh;vk xi;ps ts;si	12
 整車及零部件	vg;vi ie;aa ji;pd ly;yl bu;ek jm;rn	12
-馬來西亞大獎賽	ma;ad ll;ad xi;aa ya;aa da;hd jd;qj sl;bb	12
+馬來西亞大獎賽	ma;ad ll;ad xi;aa ya;aa da;ad jd;qj sl;bb	12
 前翼子板	qm;bd yi;yg zi;aa bj;mf	12
 超級維特拉	ik;zv ji;sj wz;sv te;ns la;fl	12
 阿斯頓馬丁	aa;ek si;jq dp;yt ma;ad dy;aa	12
@@ -680,8 +680,8 @@ use_preset_vocabulary: false
 雷諾方程式	lz;yt no;yr fh;wd ig;hi ui;yg	11
 大型車展	da;ad xy;tx ie;aa vj;uy	11
 大型車展	da;ad xy;tx ie;hh vj;uy	11
-大型車展	da;hd xy;tx ie;aa vj;uy	11
-大型車展	da;hd xy;tx ie;hh vj;uy	11
+大型車展	da;ad xy;tx ie;aa vj;uy	11
+大型車展	da;ad xy;tx ie;hh vj;uy	11
 葉子板	ye;cm zi;aa bj;mf	11
 葉子板	ye;cm zi;vh bj;mf	11
 內飾材料	nz;kr ui;uj cl;mc lc;md	11
@@ -744,7 +744,7 @@ use_preset_vocabulary: false
 葉片泵	ye;cm pm;pv bg;uu	10
 葉片泵	ye;cm pm;pa bg;uu	10
 下護板	xw;ab hu;yh bj;mf	10
-克萊斯勒大捷龍	ke;ux ll;cl si;jq lz;lg da;hd jx;fj ls;dg	10
+克萊斯勒大捷龍	ke;ux ll;cl si;jq lz;lg da;ad jx;fj ls;dg	10
 汽車覆蓋件	qi;dq ie;aa fu;xf gl;cm jm;rn	9
 汽車覆蓋件	qi;dq ie;aa fu;xf gl;ch jm;rn	9
 汽車覆蓋件	qi;dq ie;hh fu;xf gl;cm jm;rn	9
@@ -766,7 +766,7 @@ use_preset_vocabulary: false
 後風擋玻璃	hb;xw fg;ji dh;fd bo;wp li;wl	9
 隨車工具	sv;es ie;aa gs;aa ju;ba	9
 危險報警閃光燈	wz;de xm;eq bk;ex jy;yj uj;mr gd;xw dg;hd	9
-上海大衆斯柯達明銳	uh;aa hl;dm da;hd vs;xd si;jq ke;mk da;zy my;oo rv;jd	9
+上海大衆斯柯達明銳	uh;aa hl;dm da;ad vs;xd si;jq ke;mk da;zy my;oo rv;jd	9
 前制動	qm;bd vi;dv ds;lv	9
 前制動	qm;bd vi;dg ds;lv	9
 前制動	qm;qd vi;dv ds;lv	9
@@ -828,7 +828,7 @@ use_preset_vocabulary: false
 四川豐田	si;ke ir;pa fg;ud tm;aa	8
 汽車電子電器	qi;dq ie;aa dm;yd zi;aa dm;yd qi;kk	8
 行車燈	xy;xd ie;aa dg;hd	7
-巴林大獎賽	ba;ag ln;mm da;hd jd;qj sl;bb	7
+巴林大獎賽	ba;ag ln;mm da;ad jd;qj sl;bb	7
 來展廳	ll;ad vj;uy ty;gt	7
 阿爾法羅密歐	aa;ek er;ay fa;dq lo;sv mi;bu ou;qq	7
 高位制動燈	gk;dk wz;rl vi;dv ds;lv dg;hd	7
@@ -989,9 +989,9 @@ use_preset_vocabulary: false
 菸灰盒	yj;cy hv;hu he;mh	4
 菸灰盒	yj;cy hv;uh he;mh	4
 格蘭披治大賽	ge;mg lj;cj pi;fp vi;dt da;ad sl;bb	4
-格蘭披治大賽	ge;mg lj;cj pi;fp vi;dt da;hd sl;bb	4
+格蘭披治大賽	ge;mg lj;cj pi;fp vi;dt da;ad sl;bb	4
 格蘭披治大賽	ge;mg lj;cl pi;fp vi;dt da;ad sl;bb	4
-格蘭披治大賽	ge;mg lj;cl pi;fp vi;dt da;hd sl;bb	4
+格蘭披治大賽	ge;mg lj;cl pi;fp vi;dt da;ad sl;bb	4
 雅科仕	ya;yv ke;hd ui;ru	4
 雅科仕	ya;vy ke;hd ui;ru	4
 凱立德地圖	kl;jd li;da de;xx di;ty tu;kh	4
@@ -1038,7 +1038,7 @@ use_preset_vocabulary: false
 全車隔音	qr;rw ie;aa ge;eg yn;lr	4
 全車隔音	qr;rw ie;hh ge;eg yn;lo	4
 全車隔音	qr;rw ie;hh ge;eg yn;lr	4
-大陸汽車俱樂部	da;hd lu;et qi;dq ie;aa ju;rj le;bm bu;ek	4
+大陸汽車俱樂部	da;ad lu;et qi;dq ie;aa ju;rj le;bm bu;ek	4
 空調管路	ks;bg tc;yv gr;vg lu;zg	4
 空調管路	ks;xg tc;yv gr;vg lu;zg	4
 後翼子板	hb;xw yi;yg zi;aa bj;mf	4
@@ -1090,7 +1090,7 @@ use_preset_vocabulary: false
 遙控手柄	yk;zf ks;fk ub;pu by;mb	3
 遙控手柄	yk;zf ks;fk ub;pa by;mb	3
 遙控手柄	yk;zf ks;fk ub;ub by;mb	3
-德國大衆汽車集團	de;xx go;kh da;hd vs;xd qi;dq ie;aa ji;vm tr;kv	3
+德國大衆汽車集團	de;xx go;kh da;ad vs;xd qi;dq ie;aa ji;vm tr;kv	3
 電源鎖	dm;yg yr;dy so;jb	3
 電源鎖	dm;yd yr;dy so;jb	3
 層焦	cg;uc jc;vd	3
@@ -1114,8 +1114,8 @@ use_preset_vocabulary: false
 起亞霸銳	qi;zj ya;hh ba;yy rv;jd	3
 大燈高度可調	da;ad dg;hd gk;dk du;gy ke;dk dc;yv	3
 大燈高度可調	da;ad dg;hd gk;wk du;gy ke;dk dc;yv	3
-大燈高度可調	da;hd dg;hd gk;dk du;gy ke;dk dc;yv	3
-大燈高度可調	da;hd dg;hd gk;wk du;gy ke;dk dc;yv	3
+大燈高度可調	da;ad dg;hd gk;dk du;gy ke;dk dc;yv	3
+大燈高度可調	da;ad dg;hd gk;wk du;gy ke;dk dc;yv	3
 東風悅達起亞獅跑	ds;ad fg;ji yt;xx da;zy qi;zj ya;aa ui;qu pk;zb	3
 火燒車	ho;dd uk;hy ie;aa	3
 火燒車	ho;dd uk;hy ie;hh	3
@@ -1147,7 +1147,7 @@ use_preset_vocabulary: false
 氣門彈簧	qi;qm mf;vh tj;gd hd;vh	3
 氣門彈簧	qi;qm mf;aa tj;gd hd;vh	3
 氣門彈簧	qi;qm mf;zh tj;gd hd;vh	3
-吉普大切諾基	ji;ku pu;ob da;hd qx;dq no;yr ji;tq	3
+吉普大切諾基	ji;ku pu;ob da;ad qx;dq no;yr ji;tq	3
 內部短路	nz;kr bu;ep dr;ud lu;zg	3
 內部短路	nz;kr bu;ek dr;ud lu;zg	3
 手排擋	ub;pu pl;ff dh;fd	3
@@ -1160,9 +1160,9 @@ use_preset_vocabulary: false
 比亞迪集團	bi;bb ya;hh di;zy ji;mv tr;kv	3
 比亞迪集團	bi;bb ya;hh di;zy ji;vm tr;kv	3
 最大爬坡度	zv;oq da;ad pa;vb po;tp du;gy	3
-最大爬坡度	zv;oq da;hd pa;vb po;tp du;gy	3
+最大爬坡度	zv;oq da;ad pa;vb po;tp du;gy	3
 最大爬坡度	zv;rq da;ad pa;vb po;tp du;gy	3
-最大爬坡度	zv;rq da;hd pa;vb po;tp du;gy	3
+最大爬坡度	zv;rq da;ad pa;vb po;tp du;gy	3
 電源總開關	dm;yd yr;dy zs;sc kl;mk gr;ma	3
 蓋墊	gl;cm dm;tv	3
 蓋墊	gl;ch dm;tv	3
@@ -1173,7 +1173,7 @@ use_preset_vocabulary: false
 汽車殘值	qi;dq ie;aa cj;dj vi;rv	3
 汽車殘值	qi;dq ie;hh cj;dj vi;rv	3
 雙龍主席	ud;vy ls;dg vu;dw xi;gj	3
-大貿手續	da;hd mk;bd ub;pa xu;sm	3
+大貿手續	da;ad mk;bd ub;pa xu;sm	3
 保溫爐	bk;rd wf;dm lu;hl	3
 保溫爐	bk;rd wf;dw lu;hl	3
 定損人員	dy;bp sp;fy rf;pd yr;kb	3
@@ -1245,7 +1245,7 @@ use_preset_vocabulary: false
 雨刮電機	yu;hd gw;du dm;yg ji;mj	2
 雨刮電機	yu;hd gw;du dm;yd ji;mj	2
 隨動轉向大燈	sv;es ds;lv vr;iv xd;pk da;ad dg;hd	2
-隨動轉向大燈	sv;es ds;lv vr;iv xd;pk da;hd dg;hd	2
+隨動轉向大燈	sv;es ds;lv vr;iv xd;pk da;ad dg;hd	2
 電子風扇	dm;yd zi;aa fg;ji uj;hy	2
 上海通用凱迪拉克	uh;aa hl;dm ts;zy ys;kf kl;jd di;zy la;fl ke;ux	2
 現代悅動	xm;wj dl;ry yt;xx ds;lv	2
@@ -1338,7 +1338,7 @@ use_preset_vocabulary: false
 前座中央扶手	qm;bd zo;gz vs;aa yh;ad fu;ff ub;pa	2
 主動式安全頭枕	vu;dw ds;lv ui;yg an;bn qr;rw tb;dy vf;mg	2
 位置燈	wz;rl vi;sv dg;hd	2
-澳門格蘭披治大賽車	ao;da mf;aa ge;mg lj;cj pi;fp vi;dt da;hd sl;bb ie;aa	2
+澳門格蘭披治大賽車	ao;da mf;aa ge;mg lj;cj pi;fp vi;dt da;ad sl;bb ie;aa	2
 昌河鈴木利亞納	ih;oo he;dk ly;jl mu;ad li;dh ya;aa na;sn	2
 油封漏油	yb;dy fg;cg lb;dy yb;dy	2
 油封漏油	yb;dy fg;cg lb;dl yb;dy	2
@@ -1408,8 +1408,8 @@ use_preset_vocabulary: false
 電子駐車制動系統	dm;yd zi;aa vu;mv ie;aa vi;dg ds;lv xi;ps ts;si	2
 大燈開關	da;ad dg;hd kl;mk gr;ma	2
 大燈開關	da;ad dg;hd kl;mk gr;mu	2
-大燈開關	da;hd dg;hd kl;mk gr;ma	2
-大燈開關	da;hd dg;hd kl;mk gr;mu	2
+大燈開關	da;ad dg;hd kl;mk gr;ma	2
+大燈開關	da;ad dg;hd kl;mk gr;mu	2
 前門玻璃	qm;bd mf;aa bo;wp li;wl	2
 腳瞪	jc;oq dg;od	2
 腳瞪	jc;oq dg;md	2
@@ -1482,9 +1482,9 @@ use_preset_vocabulary: false
 發動機燒機油	fa;gy ds;lv ji;mj uk;hy ji;mj yb;dy	1
 蓄電池蓋	xu;ci dm;yd ii;dy gl;ch	1
 右大燈	yb;ku da;ad dg;hd	1
-右大燈	yb;ku da;hd dg;hd	1
+右大燈	yb;ku da;ad dg;hd	1
 右大燈	yb;uk da;ad dg;hd	1
-右大燈	yb;uk da;hd dg;hd	1
+右大燈	yb;uk da;ad dg;hd	1
 汽車四輪定位	qi;dq ie;aa si;ke lp;il dy;bp wz;rl	1
 長安沃爾沃	ih;ad an;bn wo;dy er;ay wo;dy	1
 陡坡緩降控制	db;ez po;tp hr;sy jd;ef ks;fk vi;dv	1
@@ -1615,8 +1615,8 @@ use_preset_vocabulary: false
 冷媒管	lg;dl mz;nm gr;vg	1
 大尾翼	da;ad wz;um yi;yg	1
 大尾翼	da;ad wz;um yi;yy	1
-大尾翼	da;hd wz;um yi;yg	1
-大尾翼	da;hd wz;um yi;yy	1
+大尾翼	da;ad wz;um yi;yg	1
+大尾翼	da;ad wz;um yi;yy	1
 前風窗玻璃	qm;bd fg;ji id;xx bo;wp li;wl	1
 前風窗玻璃	qm;bd fg;ji id;bx bo;wp li;wl	1
 前風窗玻璃	qm;qd fg;ji id;xx bo;wp li;wl	1
@@ -1662,8 +1662,8 @@ use_preset_vocabulary: false
 下門檻	xw;ab mf;aa kj;mj	1
 多氣門發動機	do;xx qi;qm mf;aa fa;du ds;lv ji;mj	1
 大燈燈泡	da;ad dg;hd dg;hd pk;db	1
-大燈燈泡	da;hd dg;hd dg;hd pk;db	1
-大骨棒	da;hd gu;ob bh;mf	1
+大燈燈泡	da;ad dg;hd dg;hd pk;db	1
+大骨棒	da;ad gu;ob bh;mf	1
 都市駿馬	du;ev ui;wj jp;mj ma;ad	1
 奧迪勒芒	ao;db di;zy lz;gl mh;cw	1
 奧迪勒芒	ao;db di;zy lz;lg mh;cw	1
@@ -1689,7 +1689,7 @@ use_preset_vocabulary: false
 汽車用柴油	qi;dq ie;aa ys;kf il;mc yb;dy	1
 汽車用柴油	qi;dq ie;hh ys;kf il;mc yb;dy	1
 腳膠	jc;oq jc;ol	1
-自動感應大燈	zi;pa ds;lv gj;xx yy;gx da;hd dg;hd	1
+自動感應大燈	zi;pa ds;lv gj;xx yy;gx da;ad dg;hd	1
 南京菲亞特西耶那	nj;ua jy;wx fz;cf ya;aa te;ns xi;aa ye;ee na;el	1
 維多利亞皇冠	wz;sv do;xx li;dh ya;aa hd;bw gr;bc	1
 維多利亞皇冠	wz;sv do;xx li;dh ya;hh hd;bw gr;bc	1
@@ -1718,7 +1718,7 @@ use_preset_vocabulary: false
 斜拉桿	xx;dy la;fl gj;mh	0
 二手車寄賣	er;aa ub;pa ie;aa ji;bq ml;bs	0
 中間板	vs;aa jm;mo bj;mf	0
-大小瓦	da;hd xc;ad wa;ad	0
+大小瓦	da;ad xc;ad wa;ad	0
 廣角後視鏡	gd;gh jc;dy hb;rw ui;ju jy;jj	0
 廣角後視鏡	gd;gh jc;dy hb;rw ui;uj jy;jj	0
 廣角後視鏡	gd;gh jc;dy hb;xw ui;ju jy;jj	0
@@ -1771,7 +1771,7 @@ use_preset_vocabulary: false
 暖風電機	nr;ry fg;ji dm;yd ji;mj	0
 保險閥	bk;rd xm;eq fa;mf	0
 補強板	bu;yf qd;gi bj;mf	0
-前大燈總成	qm;bd da;hd dg;hd zs;sc ig;gg	0
+前大燈總成	qm;bd da;ad dg;hd zs;sc ig;gg	0
 豐田蘭德酷路澤	fg;ud tm;aa lj;cj de;xx ku;yg lu;zg ze;dx	0
 三四檔	sj;aa si;ke dh;md	0
 右半軸	yb;ku bj;bf vb;iy	0
@@ -1866,7 +1866,7 @@ use_preset_vocabulary: false
 掛不上檔	gw;fg bu;ad uh;aa dh;md	0
 硬連接牽引	yy;ug lm;zi jx;fq qm;dn yn;ga	0
 古德伍德賽車節	gu;uk de;xx wu;rw de;xx sl;bb ie;aa jx;vj	0
-左右大燈	zo;gu yb;ku da;hd dg;hd	0
+左右大燈	zo;gu yb;ku da;ad dg;hd	0
 鄭州威佳專營店	vg;ed vb;id wz;gn jw;rg vr;ac yy;hl dm;gv	0
 紅喜力	hs;sg xi;uk li;gp	0
 胎側膠	tl;ot ce;rz jc;ol	0
@@ -1949,9 +1949,9 @@ use_preset_vocabulary: false
 牡丹客車	mu;nt dj;pd ke;bg ie;hh	0
 盆角齒	pf;mf jc;dy ii;vk	0
 格蘭披治大獎賽	ge;mg lj;cj pi;fp vi;dt da;ad jd;qj sl;bb	0
-格蘭披治大獎賽	ge;mg lj;cj pi;fp vi;dt da;hd jd;qj sl;bb	0
+格蘭披治大獎賽	ge;mg lj;cj pi;fp vi;dt da;ad jd;qj sl;bb	0
 格蘭披治大獎賽	ge;mg lj;cl pi;fp vi;dt da;ad jd;qj sl;bb	0
-格蘭披治大獎賽	ge;mg lj;cl pi;fp vi;dt da;hd jd;qj sl;bb	0
+格蘭披治大獎賽	ge;mg lj;cl pi;fp vi;dt da;ad jd;qj sl;bb	0
 真空吸污車	vf;uj ks;bg xi;kj wu;dk ie;aa	0
 真空吸污車	vf;uj ks;bg xi;kj wu;dk ie;hh	0
 真空吸污車	vf;uj ks;xg xi;kj wu;dk ie;aa	0

@@ -85,7 +85,7 @@ use_preset_vocabulary: false
 米歇爾	mi;dd xx;qh er;hd	81
 米歇爾	mi;dd xx;qh er;hy	81
 蔣介石	jd;cj jx;ra ui;kp	81
-亞歷山大	ya;aa li;iv uj;aa da;hd	80
+亞歷山大	ya;aa li;iv uj;aa da;ad	80
 魯迅	lu;yo xp;zu	80
 魯迅	lu;yo xp;zx	80
 魯迅	lu;yr xp;zu	80
@@ -139,8 +139,8 @@ use_preset_vocabulary: false
 孫儷	sp;zx li;rl	56
 大衛	da;ad wz;xi	56
 大衛	da;ad wz;xw	56
-大衛	da;hd wz;xi	56
-大衛	da;hd wz;xw	56
+大衛	da;ad wz;xi	56
+大衛	da;ad wz;xw	56
 王剛	wh;aa gh;dg	55
 王剛	wh;hh gh;dg	55
 托馬斯	to;fq ma;ad si;jq	54
@@ -297,7 +297,7 @@ use_preset_vocabulary: false
 許昌	xu;yw ih;oo	34
 王小山	wh;aa xc;ad uj;aa	34
 大路	da;ad lu;zg	34
-大路	da;hd lu;zg	34
+大路	da;ad lu;zg	34
 丹尼爾	dj;pd ni;ub er;ay	34
 丹尼爾	dj;pd ni;ub er;hd	34
 丹尼爾	dj;pd ni;ub er;hy	34
@@ -756,12 +756,12 @@ use_preset_vocabulary: false
 劉平	lq;dj py;gb	13
 張大千	vh;gi da;ad qm;pu	13
 張大千	vh;gi da;ad qm;pa	13
-張大千	vh;gi da;hd qm;pu	13
-張大千	vh;gi da;hd qm;pa	13
+張大千	vh;gi da;ad qm;pu	13
+張大千	vh;gi da;ad qm;pa	13
 斯大林	si;qj da;ad ln;mm	13
-斯大林	si;qj da;hd ln;mm	13
+斯大林	si;qj da;ad ln;mm	13
 斯大林	si;jq da;ad ln;mm	13
-斯大林	si;jq da;hd ln;mm	13
+斯大林	si;jq da;ad ln;mm	13
 楊陽	yh;my yh;ey	13
 白楊	bl;pr yh;my	13
 白楊	bl;ph yh;my	13
@@ -990,7 +990,7 @@ use_preset_vocabulary: false
 南安	nj;ua an;bn	10
 南安	nj;uy an;bn	10
 李大釗	li;mz da;ad vk;jd	10
-李大釗	li;mz da;hd vk;jd	10
+李大釗	li;mz da;ad vk;jd	10
 奧斯曼	ao;db si;jq mj;oy	10
 白石	bl;pa ui;kp	10
 咸豐	xm;gk fg;ud	10
@@ -1405,7 +1405,7 @@ use_preset_vocabulary: false
 巴拉迪	ba;ag la;fl di;zy	7
 巴拉迪	ba;vg la;fl di;zy	7
 大禹	da;ad yu;pd	7
-大禹	da;hd yu;pd	7
+大禹	da;ad yu;pd	7
 張雲飛	vh;gi yp;yy fz;zs	7
 張雲飛	vh;gi yp;yy fz;yd	7
 張雲飛	vh;gi yp;yy fz;ff	7
@@ -1437,7 +1437,7 @@ use_preset_vocabulary: false
 穀雨	gu;hu yu;hd	7
 穀雨	gu;uh yu;ad	7
 穀雨	gu;uh yu;hd	7
-佟大爲	ts;rd da;hd wz;pd	7
+佟大爲	ts;rd da;ad wz;pd	7
 卡米拉	ka;ub mi;dd la;fl	7
 卡米拉	ka;bx mi;dd la;fl	7
 布魯諾	bu;ju lu;yo no;yr	7
@@ -2138,9 +2138,9 @@ use_preset_vocabulary: false
 孔繁森	ks;zg fj;sm sf;ml	4
 斯皮爾伯格	si;jq pi;ya er;ay bo;rb ge;mg	4
 羅大佑	lo;sv da;ad yb;ry	4
-羅大佑	lo;sv da;hd yb;ry	4
+羅大佑	lo;sv da;ad yb;ry	4
 羅大佑	lo;sw da;ad yb;ry	4
-羅大佑	lo;sw da;hd yb;ry	4
+羅大佑	lo;sw da;ad yb;ry	4
 容祖兒	rs;bg zu;uq er;je	4
 容祖兒	rs;bg zu;uq er;ej	4
 張業	vh;gi ye;yw	4
@@ -2587,9 +2587,9 @@ use_preset_vocabulary: false
 韓信	hj;uw xn;ry	3
 趙琳	vk;zx ln;wl	3
 王大偉	wh;aa da;ad wz;rw	3
-王大偉	wh;aa da;hd wz;rw	3
+王大偉	wh;aa da;ad wz;rw	3
 王大偉	wh;hh da;ad wz;rw	3
-王大偉	wh;hh da;hd wz;rw	3
+王大偉	wh;hh da;ad wz;rw	3
 劉力	lq;dj li;gp	3
 南丁格爾	nj;ua dy;aa ge;mg er;ay	3
 曹燕	ck;oc yj;hb	3
@@ -3007,7 +3007,7 @@ use_preset_vocabulary: false
 齊達內	qi;we da;zy nz;kr	2
 張瑤	vh;gi yk;wf	2
 潘瑋柏	pj;df wz;ww bl;mb	2
-彼得大帝	bi;xp de;rc da;hd di;wj	2
+彼得大帝	bi;xp de;rc da;ad di;wj	2
 劉勝	lq;dj ug;yl	2
 劉勝	lq;dj ug;ol	2
 胡可	hu;yg ke;dk	2
@@ -3556,7 +3556,7 @@ use_preset_vocabulary: false
 周羣	vb;kj qp;yj	2
 孫遜	sp;zx xp;zs	2
 方文山	fh;wd wf;dd uj;aa	2
-胡大一	hu;og da;hd yi;aa	2
+胡大一	hu;og da;ad yi;aa	2
 張讓	vh;gi rh;yx	2
 鞠萍	ju;gj py;cp	2
 鞠萍	ju;gm py;cp	2
@@ -3573,9 +3573,9 @@ use_preset_vocabulary: false
 李培林	li;mz pz;tp ln;mm	2
 李培林	li;mz pz;tk ln;mm	2
 王大雷	wh;aa da;ad lz;yt	2
-王大雷	wh;aa da;hd lz;yt	2
+王大雷	wh;aa da;ad lz;yt	2
 王大雷	wh;hh da;ad lz;yt	2
-王大雷	wh;hh da;hd lz;yt	2
+王大雷	wh;hh da;ad lz;yt	2
 布雷克	bu;ju lz;yt ke;eg	2
 布雷克	bu;ju lz;yt ke;ux	2
 布雷克	bu;uj lz;yt ke;eg	2
@@ -3923,8 +3923,8 @@ use_preset_vocabulary: false
 新陽	xn;jq yh;ey	1
 童大煥	ts;ll da;ad hr;hh	1
 童大煥	ts;ll da;ad hr;hd	1
-童大煥	ts;ll da;hd hr;hh	1
-童大煥	ts;ll da;hd hr;hd	1
+童大煥	ts;ll da;ad hr;hh	1
+童大煥	ts;ll da;ad hr;hd	1
 榮格	rs;mb ge;mg	1
 榮格	rs;hm ge;mg	1
 昭陵	vk;ov ly;ew	1
@@ -4470,7 +4470,7 @@ use_preset_vocabulary: false
 李艾	li;mz ai;ci	1
 李艾	li;mz ai;cw	1
 朱大可	vu;pw da;ad ke;dk	1
-朱大可	vu;pw da;hd ke;dk	1
+朱大可	vu;pw da;ad ke;dk	1
 謝鑫	xx;yu xn;jj	1
 趙昀	vk;zx yp;oy	1
 趙昀	vk;zx yp;ry	1
@@ -4785,7 +4785,7 @@ use_preset_vocabulary: false
 惠勒	hv;xh lz;gl	1
 惠勒	hv;xh lz;lg	1
 希區柯克	xi;ju qu;kp ke;mk ke;ux	1
-大仲馬	da;hd vs;rv ma;ad	1
+大仲馬	da;ad vs;rv ma;ad	1
 張載	vh;gi zl;ig	1
 張載	vh;gi zl;gi	1
 謝有順	xx;yu yb;yu up;yi	1
@@ -4956,7 +4956,7 @@ use_preset_vocabulary: false
 金農	jn;rh ns;qi	1
 金農	jn;ra ns;qi	1
 金農	jn;ph ns;qi	1
-大夏	da;hd xw;wz	1
+大夏	da;ad xw;wz	1
 寇準	kb;by vp;uv	1
 寇準	kb;by vp;uh	1
 寇準	kb;bp vp;uv	1
@@ -6016,9 +6016,9 @@ use_preset_vocabulary: false
 樹裏	uu;mc li;dy	0
 譚平山	tj;yt py;aa uj;aa	0
 周大新	vb;kk da;ad xn;jq	0
-周大新	vb;kk da;hd xn;jq	0
+周大新	vb;kk da;ad xn;jq	0
 周大新	vb;kj da;ad xn;jq	0
-周大新	vb;kj da;hd xn;jq	0
+周大新	vb;kj da;ad xn;jq	0
 居廉	ju;ug lm;gj	0
 賀軍翔	he;bj jp;bi xd;yy	0
 張嘎	vh;gi ga;kg	0
@@ -6049,7 +6049,7 @@ use_preset_vocabulary: false
 南郡	nj;ua jp;ej	0
 南郡	nj;uy jp;ej	0
 屈大均	qu;ui da;ad jp;ty	0
-屈大均	qu;ui da;hd jp;ty	0
+屈大均	qu;ui da;ad jp;ty	0
 唐高祖	th;gk gk;dk zu;uq	0
 唐高祖	th;gk gk;wk zu;uq	0
 席慕蓉	xi;gj mu;cx rs;cr	0
@@ -6234,7 +6234,7 @@ use_preset_vocabulary: false
 韋鈺	wz;vu yu;jy	0
 盛世才	ug;mi ui;ca cl;ap	0
 大原	da;ad yr;ix	0
-大原	da;hd yr;ix	0
+大原	da;ad yr;ix	0
 田伯平	tm;aa bo;rb py;aa	0
 常遠	ih;jk yr;zy	0
 常遠	ih;dd yr;zy	0
@@ -6490,7 +6490,7 @@ use_preset_vocabulary: false
 陳曉旭	if;ed xc;oy xu;oj	0
 馬景濤	ma;ad jy;oj tk;du	0
 王百姓	wh;aa bl;ab xy;nu	0
-沈大成	uf;dg da;hd ig;gg	0
+沈大成	uf;dg da;ad ig;gg	0
 郭東	go;ex ds;ad	0
 郭東	go;ex ds;hd	0
 郭東	go;ex ds;mr	0
@@ -6703,7 +6703,7 @@ use_preset_vocabulary: false
 左曉蕾	zo;ug xc;ry lz;cl	0
 左曉蕾	zo;gu xc;oy lz;cl	0
 左曉蕾	zo;gu xc;ry lz;cl	0
-王大明	wh;aa da;hd my;oo	0
+王大明	wh;aa da;ad my;oo	0
 史良	ui;ki ld;dg	0
 史良	ui;ad ld;dg	0
 史良	ui;ud ld;dg	0
@@ -6852,7 +6852,7 @@ use_preset_vocabulary: false
 鄒濤	zb;ec tk;du	0
 鄒濤	zb;ei tk;du	0
 趙虹	vk;zx hs;ig	0
-范成大	fj;ce ig;gg da;hd	0
+范成大	fj;ce ig;gg da;ad	0
 吳瑞林	wu;kd rv;we ln;mm	0
 歐陽奮強	ou;qq yh;ey ff;dt qd;gi	0
 李碧華	li;mz bi;up hw;ch	0
@@ -6900,7 +6900,7 @@ use_preset_vocabulary: false
 朱欽	vu;pw qn;qj	0
 朱欽	vu;pw qn;jq	0
 吳大維	wu;kd da;ad wz;sv	0
-吳大維	wu;kd da;hd wz;sv	0
+吳大維	wu;kd da;ad wz;sv	0
 陳永貴	if;ed ys;dd gv;bg	0
 新鳳霞	xn;jq fg;jn xw;yj	0
 新鳳霞	xn;jq fg;jn xw;yy	0
@@ -7654,8 +7654,8 @@ use_preset_vocabulary: false
 竹齋	vu;gg vl;ds	0
 柳大華	lq;mm da;ad hw;ch	0
 柳大華	lq;mm da;ad hw;ca	0
-柳大華	lq;mm da;hd hw;ch	0
-柳大華	lq;mm da;hd hw;ca	0
+柳大華	lq;mm da;ad hw;ch	0
+柳大華	lq;mm da;ad hw;ca	0
 劉鈞	lq;dj jp;jy	0
 劉步蟾	lq;dj bu;vx ij;iv	0
 劉步蟾	lq;dj bu;vx ij;iy	0
@@ -7747,8 +7747,8 @@ use_preset_vocabulary: false
 李子雄	li;mz zi;vh xs;vh	0
 大喬	da;ad qc;yk	0
 大喬	da;ad qc;ph	0
-大喬	da;hd qc;yk	0
-大喬	da;hd qc;ph	0
+大喬	da;ad qc;yk	0
+大喬	da;ad qc;ph	0
 張宗昌	vh;gi zs;bu ih;rr	0
 張宗昌	vh;gi zs;bu ih;oo	0
 滄月	ch;dc yt;yt	0
@@ -8100,7 +8100,7 @@ use_preset_vocabulary: false
 魯超	lu;yo ik;zv	0
 魯超	lu;yr ik;zv	0
 劉大鈞	lq;dj da;ad jp;jy	0
-劉大鈞	lq;dj da;hd jp;jy	0
+劉大鈞	lq;dj da;ad jp;jy	0
 翁文灝	wg;yg wf;dd hk;dy	0
 劉弘章	lq;dj hs;gs vh;lz	0
 張先	vh;gi xm;ne	0
@@ -8173,7 +8173,7 @@ use_preset_vocabulary: false
 高啓	gk;wk qi;kw	0
 明神宗	my;ry uf;uu zs;bu	0
 明神宗	my;oo uf;uu zs;bu	0
-劉光大	lq;dj gd;xw da;hd	0
+劉光大	lq;dj gd;xw da;ad	0
 姚濤	yk;nv tk;du	0
 滕文公	tg;yu wf;dd gs;bs	0
 滕文公	tg;yu wf;dd gs;sb	0
@@ -8326,7 +8326,7 @@ use_preset_vocabulary: false
 華瀚	hw;ca hj;dh	0
 宋達	ss;bm da;zy	0
 謝鐵驪	xx;yu tx;jg li;ml	0
-亞歷山大大帝	ya;aa li;iv uj;aa da;hd da;hd di;wj	0
+亞歷山大大帝	ya;aa li;iv uj;aa da;ad da;ad di;wj	0
 周玉衡	vb;kj yu;wd hg;xd	0
 陽夏	yh;ey xw;wz	0
 陽夏	yh;ey xw;aw	0

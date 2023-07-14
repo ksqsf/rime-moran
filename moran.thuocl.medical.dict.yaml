@@ -218,7 +218,7 @@ use_preset_vocabulary: false
 中藥	vs;aa yk;cl	158
 生理	ug;nh li;wl	157
 生理	ug;na li;wl	157
-大腦	da;hd nk;oi	157
+大腦	da;ad nk;oi	157
 腫瘤	vs;yv lq;bl	155
 腫瘤	vs;ov lq;bl	155
 發育	fa;du yu;os	154
@@ -326,8 +326,8 @@ use_preset_vocabulary: false
 艾滋病	ai;cw zi;dz by;bb	105
 大腿	da;ad tv;yt	103
 大腿	da;ad tv;ot	103
-大腿	da;hd tv;yt	103
-大腿	da;hd tv;ot	103
+大腿	da;ad tv;yt	103
+大腿	da;ad tv;ot	103
 背部	bz;ob bu;ep	102
 背部	bz;ob bu;ek	102
 背部	bz;yb bu;ep	102
@@ -340,7 +340,7 @@ use_preset_vocabulary: false
 醫療器械	yi;yu lc;bl qi;kk xx;mj	101
 內科	nz;kr ke;hd	101
 大拇指	da;ad mu;fm vi;fv	101
-大拇指	da;hd mu;fm vi;fv	101
+大拇指	da;ad mu;fm vi;fv	101
 精神病	jy;mq uf;uu by;bb	100
 脂肪	vi;yv fh;yf	99
 脂肪	vi;yv fh;of	99
@@ -632,8 +632,8 @@ use_preset_vocabulary: false
 復活	fu;rf ho;du	49
 大動脈	da;ad ds;lv ml;yp	48
 大動脈	da;ad ds;lv ml;op	48
-大動脈	da;hd ds;lv ml;yp	48
-大動脈	da;hd ds;lv ml;op	48
+大動脈	da;ad ds;lv ml;yp	48
+大動脈	da;ad ds;lv ml;op	48
 月經	yt;pa jy;sg	48
 截肢	jx;gv vi;ov	48
 無償獻血	wu;ha ih;ru xm;qg xt;pa	48
@@ -1294,7 +1294,7 @@ use_preset_vocabulary: false
 肌腱	ji;oj jm;yj	17
 肌腱	ji;yj jm;oj	17
 肌腱	ji;yj jm;yj	17
-大腸桿菌	da;hd ih;oy gj;mh jp;ch	17
+大腸桿菌	da;ad ih;oy gj;mh jp;ch	17
 耳鳴	er;aa my;kn	17
 耳鳴	er;aa my;nk	17
 耳鳴	er;hh my;kn	17
@@ -1465,7 +1465,7 @@ use_preset_vocabulary: false
 避孕套	bi;zx yp;zn tk;di	15
 癌變	ai;bu bm;yw	15
 癌變	ai;bu bm;ws	15
-大腸菌羣	da;hd ih;oy jp;ch qp;yj	15
+大腸菌羣	da;ad ih;oy jp;ch qp;yj	15
 整形手術	vg;vi xy;pk ub;pa uu;xi	15
 太陽穴	tl;dd yh;ey xt;bb	15
 耳聾	er;aa ls;el	15
@@ -1556,8 +1556,8 @@ use_preset_vocabulary: false
 真菌	vf;uj jp;ch	14
 大腸	da;ad ih;oy	14
 大腸	da;ad ih;yy	14
-大腸	da;hd ih;oy	14
-大腸	da;hd ih;yy	14
+大腸	da;ad ih;oy	14
+大腸	da;ad ih;yy	14
 韌帶	rf;wr dl;jb	14
 剖宮產	pb;dk gs;bl ij;wu	14
 剖宮產	pb;dp gs;bl ij;wu	14
@@ -2363,7 +2363,7 @@ use_preset_vocabulary: false
 鉛中毒	qm;jk vs;ka du;fm	6
 懸浮物	xr;xx fu;df wu;nw	6
 支氣管哮喘	vi;uy qi;qm gr;vg xc;kx ir;ke	6
-大血管	da;hd xt;pa gr;vg	6
+大血管	da;ad xt;pa gr;vg	6
 腦炎	nk;oi yj;hh	6
 內窺鏡	nz;kr kv;bg jy;jj	6
 內窺鏡	nz;kr kv;xg jy;jj	6
@@ -2375,7 +2375,7 @@ use_preset_vocabulary: false
 發育遲緩	fa;du yu;os ii;zn hr;sy	6
 上星	uh;aa xy;ou	6
 大鐘	da;ad vs;jt	6
-大鐘	da;hd vs;jt	6
+大鐘	da;ad vs;jt	6
 結腸	jx;sj ih;oy	6
 結腸	jx;sj ih;yy	6
 聽診器	ty;ex vf;yp qi;qk	6
@@ -2482,9 +2482,9 @@ use_preset_vocabulary: false
 單發	dj;kd fa;du	6
 單發	dj;kd fa;gy	6
 膨大	pg;yp da;ad	6
-膨大	pg;yp da;hd	6
+膨大	pg;yp da;ad	6
 膨大	pg;op da;ad	6
-膨大	pg;op da;hd	6
+膨大	pg;op da;ad	6
 中耳炎	vs;aa er;aa yj;hh	6
 性激素	xy;xu ji;dw su;sf	6
 性激素	xy;xu ji;dw su;fs	6
@@ -2507,7 +2507,7 @@ use_preset_vocabulary: false
 腎臟病	uf;yy zh;yc by;bb	6
 腎臟病	uf;yy zh;oc by;bb	6
 造影	zk;zg yy;pj	6
-腸出血性大腸桿菌	ih;oy iu;uu xt;pa xy;xu da;hd ih;oy gj;mh jp;ch	6
+腸出血性大腸桿菌	ih;oy iu;uu xt;pa xy;xu da;ad ih;oy gj;mh jp;ch	6
 鼻尖	bi;zq jm;xd	6
 鼻尖	bi;zb jm;xd	6
 外翻	wl;xb fj;yf	6
@@ -3241,8 +3241,8 @@ use_preset_vocabulary: false
 遠視	yr;zy ui;uj	4
 大英雄	da;ad yy;cy xs;vs	4
 大英雄	da;ad yy;cy xs;vh	4
-大英雄	da;hd yy;cy xs;vs	4
-大英雄	da;hd yy;cy xs;vh	4
+大英雄	da;ad yy;cy xs;vs	4
+大英雄	da;ad yy;cy xs;vh	4
 丘疹	qq;ja vf;bp	4
 丘疹	qq;ph vf;bp	4
 丘疹	qq;jh vf;bp	4
@@ -3690,7 +3690,7 @@ use_preset_vocabulary: false
 藥理學	yk;cy li;wl xt;jz	3
 藥理學	yk;cl li;wl xt;zb	3
 藥理學	yk;cl li;wl xt;jz	3
-淋巴結腫大	ln;dl ba;ag jx;sj vs;ov da;hd	3
+淋巴結腫大	ln;dl ba;ag jx;sj vs;ov da;ad	3
 髮際	fa;bb ji;ej	3
 髮際	fa;ib ji;ej	3
 醫學隔離	yi;yu xt;zb ge;eg li;vl	3
@@ -3800,7 +3800,7 @@ use_preset_vocabulary: false
 張仲景	vh;gi vs;rv jy;rj	3
 思想道德修養	si;xt xd;xx dk;zu de;xx xq;rp yh;yl	3
 腦疝	nk;oi uj;bu	3
-重大傳染病疫情	vs;pa da;hd ir;rv rj;mg by;bb yi;bu qy;xq	3
+重大傳染病疫情	vs;pa da;ad ir;rv rj;mg by;bb yi;bu qy;xq	3
 上皮細胞	uh;aa pi;ya xi;st bk;ob	3
 下頜骨	xw;ab he;yh gu;ob	3
 教育部重點實驗室	jc;wx yu;os bu;ek vs;pa dm;hv ui;bg yj;mq ui;bv	3
@@ -3915,7 +3915,7 @@ use_preset_vocabulary: false
 肌無力	ji;oj wu;ha li;gp	2
 動脈瘤	ds;lv ml;yp lq;bl	2
 動脈瘤	ds;lv ml;op lq;bl	2
-大長今	da;hd vh;ad jn;ra	2
+大長今	da;ad vh;ad jn;ra	2
 猩紅熱	xy;qx hs;sg re;dv	2
 猩紅熱	xy;qx hs;sg re;hv	2
 飛沫傳播	fz;zs mo;dm ir;rv bo;ff	2
@@ -4565,7 +4565,7 @@ use_preset_vocabulary: false
 血瘀	xt;ph yu;by	2
 血瘀	xt;pa yu;by	2
 血瘀	xt;pm yu;by	2
-巨大兒	ju;aa da;hd er;ej	2
+巨大兒	ju;aa da;ad er;ej	2
 心功能不全	xn;dd gs;lg ng;sb bu;ad qr;rw	2
 免疫調節	mm;dm yi;bu tc;yv jx;vj	2
 免疫調節	mm;de yi;bu tc;yv jx;vj	2
@@ -4791,8 +4791,8 @@ use_preset_vocabulary: false
 除極	iu;ey ji;mj	2
 大醫精誠	da;ad yi;yu jy;mq ig;yi	2
 大醫精誠	da;ad yi;yy jy;mq ig;yi	2
-大醫精誠	da;hd yi;yu jy;mq ig;yi	2
-大醫精誠	da;hd yi;yy jy;mq ig;yi	2
+大醫精誠	da;ad yi;yu jy;mq ig;yi	2
+大醫精誠	da;ad yi;yy jy;mq ig;yi	2
 灌叢	gr;dv cs;sd	2
 灌叢	gr;dv cs;yy	2
 灌叢	gr;dv cs;yq	2
@@ -5016,9 +5016,9 @@ use_preset_vocabulary: false
 膽管癌	dj;yy gr;vg ai;bu	1
 誤吸	wu;yw xi;kj	1
 最大效能	zv;oq da;ad xc;wj ng;sb	1
-最大效能	zv;oq da;hd xc;wj ng;sb	1
+最大效能	zv;oq da;ad xc;wj ng;sb	1
 最大效能	zv;rq da;ad xc;wj ng;sb	1
-最大效能	zv;rq da;hd xc;wj ng;sb	1
+最大效能	zv;rq da;ad xc;wj ng;sb	1
 落枕	lk;cl vf;my	1
 落枕	lk;cl vf;mg	1
 直接死因	vi;uq jx;fq si;db yn;kd	1
@@ -5032,8 +5032,8 @@ use_preset_vocabulary: false
 免疫預防	mm;de yi;bu yu;yy fh;ef	1
 大三陽	da;ad sj;aa yh;ey	1
 大三陽	da;ad sj;hh yh;ey	1
-大三陽	da;hd sj;aa yh;ey	1
-大三陽	da;hd sj;hh yh;ey	1
+大三陽	da;ad sj;aa yh;ey	1
+大三陽	da;ad sj;hh yh;ey	1
 糖化	th;mt hw;rb	1
 雜種	za;vm vs;hv	1
 爆炸傷	bk;hb va;hv uh;ry	1
@@ -5062,13 +5062,13 @@ use_preset_vocabulary: false
 桂枝	gv;mg vi;mv	1
 骨膜	gu;ob mo;om	1
 踝骨	hy;zg gu;ob	1
-大骨節病	da;hd gu;ob jx;vj by;bb	1
+大骨節病	da;ad gu;ob jx;vj by;bb	1
 培養皿	pz;tk yh;yl mn;aa	1
 習慣性流產	xi;yb gr;xg xy;xu lq;di ij;wu	1
 習慣性流產	xi;by gr;xg xy;xu lq;di ij;wu	1
 蝮蛇	fu;if ue;it	1
 胃腸功能紊亂	wz;ot ih;oy gs;lg ng;sb wf;sw lr;gy	1
-慶大黴素	qy;gw da;hd mz;xw su;sf	1
+慶大黴素	qy;gw da;ad mz;xw su;sf	1
 節育器	jx;vj yu;os qi;kk	1
 三級預防	sj;aa ji;sj yu;yy fh;ef	1
 三級預防	sj;hh ji;sj yu;yy fh;ef	1
@@ -5183,9 +5183,9 @@ use_preset_vocabulary: false
 紅景天	hs;sg jy;rj tm;ad	1
 紅景天	hs;sg jy;rj tm;hd	1
 胖大海	ph;ob da;ad hl;dm	1
-胖大海	ph;ob da;hd hl;dm	1
+胖大海	ph;ob da;ad hl;dm	1
 胖大海	ph;yb da;ad hl;dm	1
-胖大海	ph;yb da;hd hl;dm	1
+胖大海	ph;yb da;ad hl;dm	1
 產熱	ij;wu re;dv	1
 產熱	ij;wu re;hv	1
 蟲媒傳染病	is;ii mz;nm ir;rv rj;mg by;bb	1
@@ -5316,8 +5316,8 @@ use_preset_vocabulary: false
 植入物	vi;mv ru;pd wu;nw	1
 大學物理	da;ad xt;zb wu;nw li;wl	1
 大學物理	da;ad xt;jz wu;nw li;wl	1
-大學物理	da;hd xt;zb wu;nw li;wl	1
-大學物理	da;hd xt;jz wu;nw li;wl	1
+大學物理	da;ad xt;zb wu;nw li;wl	1
+大學物理	da;ad xt;jz wu;nw li;wl	1
 反社會行爲	fj;py ue;ut hv;ro xy;xd wz;pd	1
 拉鉤	la;fl gb;jj	1
 陰道出血	yn;ey dk;zu iu;uu xt;pa	1
@@ -5472,7 +5472,7 @@ use_preset_vocabulary: false
 非小細胞肺癌	fz;aa xc;ad xi;st bk;ob fz;of ai;bu	1
 尖牙	jm;xd ya;hp	1
 尖牙	jm;xd ya;ap	1
-大腦半球	da;hd nk;oi bj;bf qq;wq	1
+大腦半球	da;ad nk;oi bj;bf qq;wq	1
 麻疹病毒	ma;gl vf;bp by;bb du;fm	1
 全冠	qr;rw gr;bc	1
 喹諾酮類	kv;kk no;yr ts;yt lz;yl	1
@@ -5712,7 +5712,7 @@ use_preset_vocabulary: false
 小體	xc;ud ti;gl	1
 小體	xc;ad ti;gd	1
 小體	xc;ad ti;gl	1
-大青葉	da;hd qy;of ye;cm	1
+大青葉	da;ad qy;of ye;cm	1
 玉堂	yu;wd th;tk	1
 肌萎縮側索硬化	ji;oj wz;cw so;ss ce;rz so;sb yy;ug hw;rb	1
 肌萎縮側索硬化	ji;oj wz;cw so;ss ce;rz so;us yy;ug hw;rb	1
@@ -5992,7 +5992,7 @@ use_preset_vocabulary: false
 獸醫學	ub;qu yi;yu xt;jz	1
 獸醫學	ub;qu yi;yy xt;zb	1
 獸醫學	ub;qu yi;yy xt;jz	1
-肝腫大	gj;og vs;ov da;hd	1
+肝腫大	gj;og vs;ov da;ad	1
 形態發生	xy;pk tl;xn fa;du ug;na	1
 全身感染	qr;rw uf;pp gj;xx rj;mg	1
 全身感染	qr;rw uf;pp gj;xx rj;mj	1
@@ -6048,7 +6048,7 @@ use_preset_vocabulary: false
 馬鞭草	ma;hd bm;gb ck;cz	1
 馬鞭草	ma;ah bm;gb ck;cz	1
 突發性耳聾	tu;bq fa;du xy;xu er;aa ls;el	1
-肝脾腫大	gj;og pi;ob vs;ov da;hd	1
+肝脾腫大	gj;og pi;ob vs;ov da;ad	1
 溼敷	ui;dt fu;wf	1
 思密達	si;tx mi;bu da;zy	1
 思密達	si;tx mi;ub da;zy	1
@@ -6716,7 +6716,7 @@ use_preset_vocabulary: false
 偏執型精神分裂症	pm;rb vi;xw xy;tx jy;mq uf;uu ff;bd lx;yl vg;bv	1
 偏執型精神分裂症	pm;rb vi;xw xy;tx jy;mq uf;uu ff;db lx;yl vg;bv	1
 大便失禁	da;ad bm;rg ui;pf jn;ul	1
-大便失禁	da;hd bm;rg ui;pf jn;ul	1
+大便失禁	da;ad bm;rg ui;pf jn;ul	1
 突變基因	tu;bq bm;ws ji;tq yn;kd	1
 健脾祛溼	jm;rj pi;ob qu;uq ui;dt	1
 健脾祛溼	jm;rj pi;yb qu;uq ui;dt	1
@@ -6952,7 +6952,7 @@ use_preset_vocabulary: false
 外陰瘙癢	wl;xb yn;ey sk;bz yh;by	0
 玻璃化	bo;wp li;wl hw;rb	0
 大椎穴	da;ad iv;mv xt;bb	0
-大椎穴	da;hd iv;mv xt;bb	0
+大椎穴	da;ad iv;mv xt;bb	0
 人類免疫缺陷病毒	rf;pd lz;yl mm;de yi;bu qt;fd xm;ej by;bb du;fm	0
 新生兒黃疸	xn;jq ug;nh er;je hd;cb dj;bd	0
 新生兒黃疸	xn;jq ug;nh er;ej hd;cb dj;bd	0
@@ -7020,7 +7020,7 @@ use_preset_vocabulary: false
 甲狀腺腫	jw;aa vd;pq xm;oq vs;ov	0
 兩課	ld;ar ke;yg	0
 兩課	ld;hr ke;yg	0
-大腦皮質	da;hd nk;oi pi;ya vi;bj	0
+大腦皮質	da;ad nk;oi pi;ya vi;bj	0
 蒂巴因	di;cd ba;kg yn;kd	0
 蒂巴因	di;cd ba;ag yn;kd	0
 蒂巴因	di;cd ba;vg yn;kd	0
@@ -7039,7 +7039,7 @@ use_preset_vocabulary: false
 魯賓斯坦	lu;yo bn;bb si;jq tj;td	0
 魯賓斯坦	lu;yr bn;bb si;qj tj;td	0
 魯賓斯坦	lu;yr bn;bb si;jq tj;td	0
-腺樣體肥大	xm;oq yh;my ti;gd fz;ob da;hd	0
+腺樣體肥大	xm;oq yh;my ti;gd fz;ob da;ad	0
 谷丙轉氨酶	gu;bk by;an vr;iv an;qa mz;ym	0
 谷丙轉氨酶	gu;bk by;hn vr;iv an;qa mz;ym	0
 谷丙轉氨酶	gu;kr by;an vr;iv an;qa mz;ym	0
@@ -7091,7 +7091,7 @@ use_preset_vocabulary: false
 視網膜色素變性	ui;ju wh;sw mo;om se;db su;sf bm;ws xy;xu	0
 苦杏仁	ku;cg xy;km rf;re	0
 苦杏仁	ku;cg xy;mk rf;re	0
-胸大肌	xs;ox da;hd ji;oj	0
+胸大肌	xs;ox da;ad ji;oj	0
 甜葉菊	tm;ug ye;cm ju;cm	0
 甜葉菊	tm;ug ye;cm ju;cj	0
 免疫排斥	mm;dm yi;bu pl;ff ii;jd	0
@@ -7220,7 +7220,7 @@ use_preset_vocabulary: false
 靜脈迴流	jy;qv ml;op hv;zh lq;di	0
 暗區	an;oy qu;kp	0
 暗區	an;ry qu;kp	0
-擴大免疫規劃	ko;fg da;hd mm;de yi;bu gv;fj hw;dh	0
+擴大免疫規劃	ko;fg da;ad mm;de yi;bu gv;fj hw;dh	0
 恙蟲病	yh;xy is;ii by;bb	0
 恙蟲病	yh;yx is;ii by;bb	0
 淋球菌	ln;dl qq;wq jp;cq	0
@@ -7271,7 +7271,7 @@ use_preset_vocabulary: false
 綠萍	lv;sl py;cp	0
 綠萍	lv;su py;cp	0
 染色體畸變	rj;mg se;db ti;gd ji;tq bm;ws	0
-大蒜素	da;hd sr;cs su;sf	0
+大蒜素	da;ad sr;cs su;sf	0
 硫化氫中毒	lq;ui hw;rb qy;qg vs;aa du;fm	0
 刺創	ci;dc id;dc	0
 梅毒螺旋體	mz;mm du;fm lo;il xr;fp ti;gd	0
@@ -7870,8 +7870,8 @@ use_preset_vocabulary: false
 乙酰膽鹼	yi;aa xm;yx dj;ov jm;lq	0
 大官人	da;ad gr;bg rf;pd	0
 大官人	da;ad gr;bk rf;pd	0
-大官人	da;hd gr;bg rf;pd	0
-大官人	da;hd gr;bk rf;pd	0
+大官人	da;ad gr;bg rf;pd	0
+大官人	da;ad gr;bk rf;pd	0
 口服補液鹽	kb;aa fu;oy bu;yf ye;dy yj;ml	0
 口服補液鹽	kb;aa fu;yy bu;yf ye;dy yj;ml	0
 口服補液鹽	kb;uh fu;oy bu;yf ye;dy yj;ml	0
@@ -8065,8 +8065,8 @@ use_preset_vocabulary: false
 淋巴腺	ln;dl ba;ag xm;oq	0
 大動脈轉位	da;ad ds;lv ml;yp vr;iv wz;rl	0
 大動脈轉位	da;ad ds;lv ml;op vr;iv wz;rl	0
-大動脈轉位	da;hd ds;lv ml;yp vr;iv wz;rl	0
-大動脈轉位	da;hd ds;lv ml;op vr;iv wz;rl	0
+大動脈轉位	da;ad ds;lv ml;yp vr;iv wz;rl	0
+大動脈轉位	da;ad ds;lv ml;op vr;iv wz;rl	0
 腸息肉	ih;oy xi;xz rb;ad	0
 中醫基礎理論	vs;aa yi;yu ji;tq iu;ui li;wl lp;yl	0
 椎間孔	iv;mv jm;om ks;zg	0
@@ -8241,7 +8241,7 @@ use_preset_vocabulary: false
 斯瓦爾巴羣島	si;jq wa;ad er;ay ba;ag qp;yj dk;nu	0
 丙種球蛋白	by;an vs;hv qq;wq dj;ip bl;pa	0
 大椎	da;ad iv;mv	0
-大椎	da;hd iv;mv	0
+大椎	da;ad iv;mv	0
 搶救車	qd;fc jq;wq ie;aa	0
 搶救車	qd;fc jq;wq ie;hh	0
 食鹽水	ui;rl yj;ml uv;ad	0
@@ -8524,7 +8524,7 @@ use_preset_vocabulary: false
 創傷性溼肺	id;dc uh;rw xy;xu ui;dt fz;of	0
 認知神經科學	rf;yr vi;uk uf;uu jy;sg ke;hd xt;jz	0
 爐甘石洗劑	lu;hl gj;ca ui;kp xi;dx ji;dq	0
-肺大泡	fz;of da;hd pk;db	0
+肺大泡	fz;of da;ad pk;db	0
 光學顯微鏡	gd;xw xt;jz xm;ys wz;xw jy;jj	0
 斜頸	xx;dy jy;yg	0
 斜頸	xx;dy jy;yj	0
@@ -8548,11 +8548,11 @@ use_preset_vocabulary: false
 休息期	xq;rm xi;xz qi;oq	0
 金剛乙胺	jn;ra gh;dg yi;aa an;oa	0
 心臟擴大	xn;dd zh;yc ko;fg da;ad	0
-心臟擴大	xn;dd zh;yc ko;fg da;hd	0
+心臟擴大	xn;dd zh;yc ko;fg da;ad	0
 心臟擴大	xn;dd zh;oc ko;fg da;ad	0
-心臟擴大	xn;dd zh;oc ko;fg da;hd	0
+心臟擴大	xn;dd zh;oc ko;fg da;ad	0
 枳實	vi;mv ui;bg	0
-大量培養	da;hd ld;ol pz;tk yh;yl	0
+大量培養	da;ad ld;ol pz;tk yh;yl	0
 皮肌炎	pi;ya ji;oj yj;hh	0
 萬古黴素	wj;cy gu;uk mz;rw su;sf	0
 萬古黴素	wj;cy gu;uk mz;rw su;fs	0
@@ -8646,8 +8646,8 @@ use_preset_vocabulary: false
 戊型病毒性肝炎	wu;gp xy;tx by;bb du;fm xy;xu gj;og yj;hh	0
 大網膜	da;ad wh;sw mo;ym	0
 大網膜	da;ad wh;sw mo;om	0
-大網膜	da;hd wh;sw mo;ym	0
-大網膜	da;hd wh;sw mo;om	0
+大網膜	da;ad wh;sw mo;ym	0
+大網膜	da;ad wh;sw mo;om	0
 異名	yi;tg my;xk	0
 隱性遺傳	yn;ex xy;xu yi;zg ir;rv	0
 隱性遺傳	yn;ej xy;xu yi;zg ir;rv	0
@@ -8670,7 +8670,7 @@ use_preset_vocabulary: false
 白質	bl;pa vi;bj	0
 白質	bl;po vi;bj	0
 大迎	da;ad yy;ze	0
-大迎	da;hd yy;ze	0
+大迎	da;ad yy;ze	0
 成長快樂	ig;gg vh;ad ky;xd le;bm	0
 益氣生津	yi;mb qi;qm ug;nh jn;dy	0
 益氣生津	yi;mb qi;qm ug;na jn;dy	0
@@ -8929,7 +8929,7 @@ use_preset_vocabulary: false
 食物嵌塞	ui;rl wu;nw qm;uq sl;tb	0
 食物嵌塞	ui;pd wu;nw qm;uq sl;bt	0
 食物嵌塞	ui;pd wu;nw qm;uq sl;tb	0
-硫酸慶大黴素	lq;ui sr;yj qy;gw da;hd mz;xw su;sf	0
+硫酸慶大黴素	lq;ui sr;yj qy;gw da;ad mz;xw su;sf	0
 胸主動脈	xs;yx vu;dw ds;lv ml;yp	0
 胸主動脈	xs;yx vu;dw ds;lv ml;op	0
 胸主動脈	xs;ox vu;dw ds;lv ml;yp	0
@@ -9100,7 +9100,7 @@ use_preset_vocabulary: false
 肌腱炎	ji;yj jm;yj yj;hh	0
 刺針	ci;dc vf;ju	0
 膽酸	dj;ov sr;yj	0
-遼寧成大	lc;zl ny;bd ig;gg da;hd	0
+遼寧成大	lc;zl ny;bd ig;gg da;ad	0
 神昏	uf;uu hp;ou	0
 神昏	uf;uu hp;ru	0
 皮膚潰瘍	pi;ya fu;hw kv;dg yh;by	0
@@ -9158,7 +9158,7 @@ use_preset_vocabulary: false
 急性胃擴張	ji;xi xy;xu wz;ot ko;fg vh;gi	0
 倫德	lp;rl de;xx	0
 倫德	lp;rl de;rx	0
-扁桃體肥大	bm;hc tk;mv ti;gd fz;ob da;hd	0
+扁桃體肥大	bm;hc tk;mv ti;gd fz;ob da;ad	0
 香櫞	xd;hr yr;my	0
 香櫞	xd;ho yr;my	0
 低血糖症	di;rd xt;ph th;mt vg;bv	0
@@ -9578,9 +9578,9 @@ use_preset_vocabulary: false
 腹帶	fu;of dl;jb	0
 雙生子	ud;vy ug;na zi;aa	0
 脾大	pi;ob da;ad	0
-脾大	pi;ob da;hd	0
+脾大	pi;ob da;ad	0
 脾大	pi;yb da;ad	0
-脾大	pi;yb da;hd	0
+脾大	pi;yb da;ad	0
 胚胎學	pz;op tl;ot xt;jz	0
 表位	bc;fy wz;rl	0
 滴度	di;dd du;gy	0
@@ -9759,7 +9759,7 @@ use_preset_vocabulary: false
 前列腺特異性抗原	qm;bd lx;dd xm;yq te;ns yi;tg xy;xu kh;fk yr;ix	0
 前列腺特異性抗原	qm;qd lx;dd xm;oq te;ns yi;tg xy;xu kh;fk yr;ix	0
 前列腺特異性抗原	qm;qd lx;dd xm;yq te;ns yi;tg xy;xu kh;fk yr;ix	0
-大隱靜脈	da;hd yn;ej jy;qv ml;op	0
+大隱靜脈	da;ad yn;ej jy;qv ml;op	0
 異丙醇	yi;tg by;an ip;yx	0
 異丙醇	yi;tg by;hn ip;yx	0
 脫脂棉	to;od vi;ov mm;mb	0
@@ -9888,7 +9888,7 @@ use_preset_vocabulary: false
 撞擊傷	vd;ft ji;fu uh;rw	0
 至陽	vi;vt yh;ey	0
 至陽	vi;tv yh;ey	0
-心臟肥大	xn;dd zh;oc fz;ob da;hd	0
+心臟肥大	xn;dd zh;oc fz;ob da;ad	0
 眼球突出	yj;og qq;wq tu;bq iu;uu	0
 烏藥	wu;pd yk;cy	0
 烏藥	wu;pd yk;cl	0
@@ -10164,7 +10164,7 @@ use_preset_vocabulary: false
 感冒清膠囊	gj;xx mk;om qy;dq jc;ol nh;ay	0
 酮康唑	ts;yt kh;gl zo;kz	0
 甲醇中毒	jw;aa ip;yx vs;aa du;fm	0
-肢端肥大症	vi;ov dr;le fz;ob da;hd vg;bv	0
+肢端肥大症	vi;ov dr;le fz;ob da;ad vg;bv	0
 平喘藥	py;aa ir;ke yk;cl	0
 脫髓鞘	to;od sv;gz qc;gx	0
 脫髓鞘	to;od sv;gs qc;gx	0
@@ -10228,7 +10228,7 @@ use_preset_vocabulary: false
 凝血酶	ny;dy xt;pa mz;ym	0
 凝血酶	ny;dy xt;pm mz;ym	0
 白色念珠菌	bl;pa se;db nm;xj vu;wv jp;ch	0
-四氫大麻酚	si;ke qy;qg da;hd ma;gl ff;yf	0
+四氫大麻酚	si;ke qy;qg da;ad ma;gl ff;yf	0
 劑量反應	ji;dq ld;rl fj;py yy;xv	0
 劑量反應	ji;dq ld;rl fj;py yy;gx	0
 劑量反應	ji;dq ld;ol fj;py yy;xv	0
@@ -10470,7 +10470,7 @@ use_preset_vocabulary: false
 杞菊地黃丸	qi;mj ju;cj di;ty hd;cb wj;pd	0
 石榴皮	ui;kp lq;ml pi;ya	0
 勃林格殷格翰	bo;lb ln;mm ge;mg yn;uu ge;mg hj;yu	0
-肥大細胞	fz;ob da;hd xi;st bk;ob	0
+肥大細胞	fz;ob da;ad xi;st bk;ob	0
 激素替代療法	ji;dj su;sf ti;of dl;ry lc;bl fa;dq	0
 現況調查	xm;wj kd;dx dc;yv ia;md	0
 十二指腸炎	ui;aa er;aa vi;fv ih;oy yj;hh	0
@@ -10490,8 +10490,8 @@ use_preset_vocabulary: false
 肝開竅於目	gj;og kl;mk qc;bj yu;fd mu;aa	0
 大魚際	da;ad yu;dh ji;ej	0
 大魚際	da;ad yu;dd ji;ej	0
-大魚際	da;hd yu;dh ji;ej	0
-大魚際	da;hd yu;dd ji;ej	0
+大魚際	da;ad yu;dh ji;ej	0
+大魚際	da;ad yu;dd ji;ej	0
 牛黃清心丸	nq;pu hd;cb qy;dq xn;dd wj;jd	0
 牛黃清心丸	nq;pu hd;cb qy;dq xn;dd wj;pd	0
 牛黃清心丸	nq;pa hd;cb qy;dq xn;dd wj;jd	0
@@ -10592,7 +10592,7 @@ use_preset_vocabulary: false
 作業療法	zo;rv ye;yw lc;bl fa;dq	0
 作業療法	zo;rv ye;yl lc;bx fa;dq	0
 作業療法	zo;rv ye;yl lc;bl fa;dq	0
-大葉性肺炎	da;hd ye;cm xy;xu fz;of yj;hh	0
+大葉性肺炎	da;ad ye;cm xy;xu fz;of yj;hh	0
 輸血反應	uu;iy xt;pa fj;py yy;gx	0
 眼球鈍挫傷	yj;mg qq;wq dp;jt co;fz uh;ry	0
 眼球鈍挫傷	yj;mg qq;wq dp;jt co;fz uh;rw	0
@@ -10653,8 +10653,8 @@ use_preset_vocabulary: false
 濃縮丸	ns;dn so;ss wj;pd	0
 大汗腺	da;ad hj;dg xm;oq	0
 大汗腺	da;ad hj;dg xm;yq	0
-大汗腺	da;hd hj;dg xm;oq	0
-大汗腺	da;hd hj;dg xm;yq	0
+大汗腺	da;ad hj;dg xm;oq	0
+大汗腺	da;ad hj;dg xm;yq	0
 肩峯	jm;oh fg;uf	0
 肩峯	jm;yh fg;uf	0
 肩峯	jm;ho fg;uf	0
@@ -10685,7 +10685,7 @@ use_preset_vocabulary: false
 非感染性腹瀉	fz;aa gj;xx rj;mg xy;xu fu;of xx;dd	0
 嗅覺障礙	xq;ki jt;jj vh;ev ai;uy	0
 嗅覺障礙	xq;ki jt;jb vh;ev ai;uy	0
-大皰性表皮鬆解症	da;hd pk;pb xy;xu bc;fy pi;ya ss;bs jx;jn vg;bv	0
+大皰性表皮鬆解症	da;ad pk;pb xy;xu bc;fy pi;ya ss;bs jx;jn vg;bv	0
 聽神經瘤	ty;ex uf;uu jy;sj lq;bl	0
 聽神經瘤	ty;ex uf;uu jy;sg lq;bl	0
 磷化氫	ln;ul hw;rb qy;qj	0
@@ -10708,7 +10708,7 @@ use_preset_vocabulary: false
 胚胎時期	pz;op tl;ot ui;os qi;oq	0
 咽峽炎	yj;ky xw;uj yj;hh	0
 大敦	da;ad dp;wx	0
-大敦	da;hd dp;wx	0
+大敦	da;ad dp;wx	0
 血漿蛋白	xt;pa jd;dj dj;ip bl;pa	0
 怪笑	gy;xu xc;vy	0
 內板	nz;kr bj;mf	0
@@ -10736,7 +10736,7 @@ use_preset_vocabulary: false
 雙胎妊娠	ud;yv tl;ot rf;nr uf;ni	0
 雙胎妊娠	ud;vy tl;yt rf;nr uf;ni	0
 雙胎妊娠	ud;vy tl;ot rf;nr uf;ni	0
-心肌肥大	xn;dd ji;oj fz;ob da;hd	0
+心肌肥大	xn;dd ji;oj fz;ob da;ad	0
 醫用棉籤	yi;yu ys;kf mm;mb qm;vg	0
 泰諾林	tl;fu no;yr ln;mm	0
 泰諾林	tl;uf no;yr ln;mm	0
@@ -10926,7 +10926,7 @@ use_preset_vocabulary: false
 頭孢呋辛	tb;dy bk;zb fu;kf xn;lu	0
 情感淡漠	qy;xq gj;xx dj;dy mo;dm	0
 雲南白藥膏	yp;yy nj;ua bl;pa yk;cl gk;wo	0
-大腸埃希菌	da;hd ih;oy ai;tu xi;ju jp;ch	0
+大腸埃希菌	da;ad ih;oy ai;tu xi;ju jp;ch	0
 抗蝮蛇毒血清	kh;fk fu;if ue;it du;fm xt;ph qy;dq	0
 抗蝮蛇毒血清	kh;fk fu;if ue;it du;fm xt;pa qy;dq	0
 抗蝮蛇毒血清	kh;fk fu;if ue;it du;fm xt;pm qy;dq	0

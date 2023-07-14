@@ -151,7 +151,7 @@ use_preset_vocabulary: false
 瀕危野生動物	bn;dp wz;de ye;ly ug;na ds;lv wu;nw	17
 瀕危野生動物	bn;dp wz;de ye;yl ug;nh ds;lv wu;nw	17
 瀕危野生動物	bn;dp wz;de ye;yl ug;na ds;lv wu;nw	17
-野生大熊貓	ye;yl ug;na da;hd xs;hn mk;vm	17
+野生大熊貓	ye;yl ug;na da;ad xs;hn mk;vm	17
 青波	qy;yf bo;dp	17
 青波	qy;fo bo;dp	17
 青波	qy;fy bo;dp	17
@@ -533,7 +533,7 @@ use_preset_vocabulary: false
 灰蝶	hv;hu dx;iy	3
 灰蝶	hv;uh dx;im	3
 灰蝶	hv;uh dx;iy	3
-大骨雞	da;hd gu;ob ji;vx	3
+大骨雞	da;ad gu;ob ji;vx	3
 小薩摩	xc;ad sa;ci mo;mu	3
 閒角	xm;my jc;dy	3
 閒角	xm;mo jc;dy	3
@@ -595,9 +595,9 @@ use_preset_vocabulary: false
 椰子蟹	ye;my zi;vh xx;ij	2
 鹽酸金剛烷胺	yj;ml sr;yj jn;ra gh;dg wj;hw an;oa	2
 山地大猩猩	uj;uu di;ty da;ad xy;qx xy;qx	2
-山地大猩猩	uj;uu di;ty da;hd xy;qx xy;qx	2
+山地大猩猩	uj;uu di;ty da;ad xy;qx xy;qx	2
 山地大猩猩	uj;aa di;ty da;ad xy;qx xy;qx	2
-山地大猩猩	uj;aa di;ty da;hd xy;qx xy;qx	2
+山地大猩猩	uj;aa di;ty da;ad xy;qx xy;qx	2
 小尾寒羊養殖	xc;ad wz;um hj;bd yh;da yh;yl vi;dv	2
 犛牛毛	mk;ni nq;pa mk;pg	2
 賈第蟲	jw;xb di;vp is;ii	2
@@ -645,7 +645,7 @@ use_preset_vocabulary: false
 全息胚	qr;rw xi;xz pz;yp	2
 全息胚	qr;rw xi;zx pz;op	2
 全息胚	qr;rw xi;zx pz;yp	2
-澳大利亞更	ao;da da;hd li;dh ya;aa gg;ad	2
+澳大利亞更	ao;da da;ad li;dh ya;aa gg;ad	2
 櫛孔扇貝	vi;mj ks;zg uj;hy bz;ad	2
 舟蛾	vb;pd ee;iw	2
 藍喜鵲	lj;cj xi;uk qt;nx	2
@@ -825,7 +825,7 @@ use_preset_vocabulary: false
 寵物公墓	is;bl wu;nw gs;sb mu;ct	1
 武安山羊	wu;yv an;bn uj;aa yh;da	1
 祿豐龍	lu;ul fg;ud ls;dg	1
-黑胸大蠊	hz;ha xs;ox da;hd lm;il	1
+黑胸大蠊	hz;ha xs;ox da;ad lm;il	1
 純種德國牧羊犬	ip;st vs;hv de;xx go;kh mu;nw yh;da qr;dd	1
 舞毒蛾	wu;pu du;fm ee;iw	1
 舞毒蛾	wu;xf du;fm ee;iw	1
@@ -934,8 +934,8 @@ use_preset_vocabulary: false
 蛋氨酸鋅	dj;pi an;qa sr;yj xn;jx	1
 赴臺大熊貓	fu;zb tl;uv da;ad xs;hn mk;vm	1
 赴臺大熊貓	fu;zb tl;uv da;ad xs;dn mk;vm	1
-赴臺大熊貓	fu;zb tl;uv da;hd xs;hn mk;vm	1
-赴臺大熊貓	fu;zb tl;uv da;hd xs;dn mk;vm	1
+赴臺大熊貓	fu;zb tl;uv da;ad xs;hn mk;vm	1
+赴臺大熊貓	fu;zb tl;uv da;ad xs;dn mk;vm	1
 香豆精類	xd;ho db;aa jy;mq lz;yl	1
 施一公	ui;fy yi;aa gs;bs	1
 施一公	ui;fy yi;aa gs;sb	1
@@ -987,7 +987,7 @@ use_preset_vocabulary: false
 新淮豬	xn;jq hy;dv vu;uv	0
 熒光豬	yy;hb gd;xw vu;uv	0
 淇河鯽	qi;dq he;dk ji;yj	0
-大野牛	da;hd ye;yl nq;pa	0
+大野牛	da;ad ye;yl nq;pa	0
 炔蟎特	gv;hd mj;ir te;ns	0
 炔蟎特	gv;hg mj;ir te;ns	0
 安達盧西亞馬	an;bn da;zy lu;hm xi;aa ya;aa ma;ad	0
@@ -1048,7 +1048,7 @@ use_preset_vocabulary: false
 豌豆蛋白粉	wj;dw db;aa dj;ip bl;pa ff;mf	0
 地邦	di;ty bh;ef	0
 地邦	di;ty bh;fe	0
-加拿大無毛貓	jw;kl na;uh da;hd wu;ha mk;pg mk;vm	0
+加拿大無毛貓	jw;kl na;uh da;ad wu;ha mk;pg mk;vm	0
 農業昆蟲學	ns;qi ye;yl kp;ob is;ii xt;jz	0
 藥用昆蟲	yk;cy ys;kf kp;rb is;ii	0
 藥用昆蟲	yk;cy ys;kf kp;ob is;ii	0
@@ -1129,7 +1129,7 @@ use_preset_vocabulary: false
 微體化石	wz;xw ti;gd hw;rb ui;kp	0
 蟅蟲	ve;iu is;ii	0
 大鵟	da;ad kd;nk	0
-大鵟	da;hd kd;nk	0
+大鵟	da;ad kd;nk	0
 小抹香鯨	xc;ud mo;fm xd;hr jy;yj	0
 小抹香鯨	xc;ud mo;fm xd;ho jy;yj	0
 小抹香鯨	xc;ad mo;fm xd;hr jy;yj	0
@@ -1175,7 +1175,7 @@ use_preset_vocabulary: false
 蠍目	xx;ix mu;uh	0
 美國愛斯基摩犬	mz;dy go;kh ai;vw si;jq ji;tq mo;mu qr;dd	0
 嚴重分割	yj;kg vs;pa ff;db ge;dh	0
-亞成體大熊貓	ya;aa ig;gg ti;gd da;hd xs;hn mk;vm	0
+亞成體大熊貓	ya;aa ig;gg ti;gd da;ad xs;hn mk;vm	0
 打造綠色食品	da;fd zk;zg lv;sl se;db ui;rl pn;kk	0
 打造綠色食品	da;fd zk;zg lv;sl se;db ui;pd pn;kk	0
 打造綠色食品	da;fd zk;zg lv;su se;db ui;rl pn;kk	0
@@ -1185,7 +1185,7 @@ use_preset_vocabulary: false
 三角恐龍	sj;hh jc;dy ks;xg ls;lg	0
 三角恐龍	sj;hh jc;dy ks;xg ls;dg	0
 日本柴犬	ri;aa bf;aa il;mc qr;dd	0
-澳大利亞牧羊犬	ao;da da;hd li;dh ya;aa mu;nw yh;da qr;dd	0
+澳大利亞牧羊犬	ao;da da;ad li;dh ya;aa mu;nw yh;da qr;dd	0
 動物乳腺生物反應器	ds;lv wu;nw ru;gf xm;oq ug;na wu;nw fj;py yy;gx qi;kk	0
 東部黑冠長臂猿	ds;ad bu;ek hz;ha gr;bc ih;ad bi;ob yr;qy	0
 雲斑裸頰蝦虎魚	yp;yy bj;ww lo;yg jw;yj xw;ij hu;hj yu;dh	0
@@ -1254,7 +1254,7 @@ use_preset_vocabulary: false
 西藏飛蝗	xi;aa zh;cg fz;ff hd;ih	0
 鮈	ju;yj	0
 大河蚌	da;ad he;dk bh;if	0
-大河蚌	da;hd he;dk bh;if	0
+大河蚌	da;ad he;dk bh;if	0
 紅尾蚺	hs;sg wz;um rj;ir	0
 鳳頭鷹	fg;jn tb;yd yy;nv	0
 鳳頭鷹	fg;jn tb;yd yy;gn	0
@@ -1263,14 +1263,14 @@ use_preset_vocabulary: false
 新疆褐牛	xn;jq jd;gj he;yh nq;pu	0
 新疆褐牛	xn;jq jd;gj he;yh nq;pa	0
 固城湖大閘蟹	gu;kg ig;ti hu;dh da;ad va;mj xx;ij	0
-固城湖大閘蟹	gu;kg ig;ti hu;dh da;hd va;mj xx;ij	0
+固城湖大閘蟹	gu;kg ig;ti hu;dh da;ad va;mj xx;ij	0
 牛帶絛蟲	nq;pu dl;jb tk;rs is;ii	0
 牛帶絛蟲	nq;pa dl;jb tk;rs is;ii	0
 蒙古百靈	mg;cm gu;uk bl;ab ly;wl	0
 導盲犬嬌娜	dk;cd mh;ow qr;dd jc;nq na;nn	0
 鹽黃柏	yj;ml hd;cb bl;mb	0
 大瓶螺	da;ad py;wb lo;il	0
-大瓶螺	da;hd py;wb lo;il	0
+大瓶螺	da;ad py;wb lo;il	0
 血液寄生蟲	xt;pa ye;dy ji;bq ug;na is;ii	0
 膠牆	jc;ol qd;ph	0
 秦川肉牛	qn;hf ir;pa rb;ad nq;pa	0
@@ -1408,8 +1408,8 @@ use_preset_vocabulary: false
 瑇瑁	dl;wd mk;wm	0
 大約克豬	da;ad yt;su ke;eg vu;uv	0
 大約克豬	da;ad yt;su ke;ux vu;uv	0
-大約克豬	da;hd yt;su ke;eg vu;uv	0
-大約克豬	da;hd yt;su ke;ux vu;uv	0
+大約克豬	da;ad yt;su ke;eg vu;uv	0
+大約克豬	da;ad yt;su ke;ux vu;uv	0
 寄蠅	ji;bq yy;im	0
 寄蠅	ji;bq yy;sh	0
 蔚藍追風鳥	wz;cw lj;cj vv;zv fg;ji nc;ph	0
@@ -1417,7 +1417,7 @@ use_preset_vocabulary: false
 延邊牛	yj;zv bm;zf nq;pu	0
 延邊牛	yj;zv bm;zf nq;pa	0
 墨西哥無毛犬	mo;th xi;aa ge;kd wu;ha mk;pg qr;dd	0
-中國農業大學動物醫院	vs;aa go;kh ns;qi ye;yl da;hd xt;jz ds;lv wu;nw yi;yu yr;ew	0
+中國農業大學動物醫院	vs;aa go;kh ns;qi ye;yl da;ad xt;jz ds;lv wu;nw yi;yu yr;ew	0
 玫瑰魚	mz;ww gv;wg yu;dh	0
 玫瑰魚	mz;ww gv;wg yu;dd	0
 蘇門答臘犀牛	su;ch mf;aa da;vh la;ol xi;nu nq;pa	0
@@ -1428,14 +1428,14 @@ use_preset_vocabulary: false
 小灰蝶	xc;ad hv;hu dx;im	0
 咬鵑	yk;kj jr;ny	0
 咬鵑	yk;kj jr;no	0
-新疆大頭魚	xn;jq jd;gj da;hd tb;dy yu;dd	0
+新疆大頭魚	xn;jq jd;gj da;ad tb;dy yu;dd	0
 農盼	ns;qi pj;mf	0
 農盼	ns;qi pj;of	0
 古代爬行動物	gu;uk dl;ry pa;vb xy;xi ds;lv wu;nw	0
 古代爬行動物	gu;uk dl;ry pa;vb xy;rd ds;lv wu;nw	0
 古代爬行動物	gu;uk dl;ry pa;vb xy;ri ds;lv wu;nw	0
 古代爬行動物	gu;uk dl;ry pa;vb xy;xd ds;lv wu;nw	0
-大自然野生昆蟲館	da;hd zi;pa rj;hq ye;yl ug;na kp;ob is;ii gr;ug	0
+大自然野生昆蟲館	da;ad zi;pa rj;hq ye;yl ug;na kp;ob is;ii gr;ug	0
 轉基因奶牛	vr;iv ji;qt yn;kd nl;nn nq;pu	0
 轉基因奶牛	vr;iv ji;qt yn;kd nl;nn nq;pa	0
 轉基因奶牛	vr;iv ji;tq yn;kd nl;nn nq;pu	0
@@ -1501,10 +1501,10 @@ use_preset_vocabulary: false
 迷惑龍	mi;zm ho;xh ls;lg	0
 迷惑龍	mi;zm ho;xh ls;dg	0
 江蘇大閘蟹	jd;dg su;ch da;ad va;mj xx;ij	0
-江蘇大閘蟹	jd;dg su;ch da;hd va;mj xx;ij	0
+江蘇大閘蟹	jd;dg su;ch da;ad va;mj xx;ij	0
 江蘇大閘蟹	jd;dg su;cs da;ad va;mj xx;ij	0
-江蘇大閘蟹	jd;dg su;cs da;hd va;mj xx;ij	0
-大兀鷹	da;hd wu;ae yy;nv	0
+江蘇大閘蟹	jd;dg su;cs da;ad va;mj xx;ij	0
+大兀鷹	da;ad wu;ae yy;nv	0
 藍氏賈第鞭毛蟲	lj;cj ui;pg jw;xb di;vp bm;gb mk;pg is;ii	0
 千腳蟲	qm;pu jc;oq is;ii	0
 千腳蟲	qm;pu jc;yq is;ii	0
@@ -1526,21 +1526,21 @@ use_preset_vocabulary: false
 臀角	tp;od jc;dy	0
 臀角	tp;yd jc;dy	0
 寶應湖大閘蟹	bk;bb yy;xv hu;dh da;ad va;mj xx;ij	0
-寶應湖大閘蟹	bk;bb yy;xv hu;dh da;hd va;mj xx;ij	0
+寶應湖大閘蟹	bk;bb yy;xv hu;dh da;ad va;mj xx;ij	0
 寶應湖大閘蟹	bk;bb yy;gx hu;dh da;ad va;mj xx;ij	0
-寶應湖大閘蟹	bk;bb yy;gx hu;dh da;hd va;mj xx;ij	0
+寶應湖大閘蟹	bk;bb yy;gx hu;dh da;ad va;mj xx;ij	0
 喜馬拉雅旱獺	xi;uk ma;ad la;fl ya;vy hj;og ta;ql	0
 龜殼花蛇	gv;pa ke;uj hw;ch ue;it	0
 龜殼花蛇	gv;ph ke;uj hw;ch ue;it	0
 軍山湖大閘蟹	jp;bi uj;uu hu;dh da;ad va;mj xx;ij	0
-軍山湖大閘蟹	jp;bi uj;uu hu;dh da;hd va;mj xx;ij	0
+軍山湖大閘蟹	jp;bi uj;uu hu;dh da;ad va;mj xx;ij	0
 軍山湖大閘蟹	jp;bi uj;aa hu;dh da;ad va;mj xx;ij	0
-軍山湖大閘蟹	jp;bi uj;aa hu;dh da;hd va;mj xx;ij	0
+軍山湖大閘蟹	jp;bi uj;aa hu;dh da;ad va;mj xx;ij	0
 鷽	xt;nb	0
 鷽	xt;jn	0
 溶藻弧菌	rs;dr zk;cz hu;gg jp;cq	0
 溶藻弧菌	rs;dr zk;cz hu;gg jp;ch	0
-西部低地大猩猩	xi;aa bu;ek di;rd di;ty da;hd xy;qx xy;qx	0
+西部低地大猩猩	xi;aa bu;ek di;rd di;ty da;ad xy;qx xy;qx	0
 貝林登梗	bz;ob ln;mm dg;dd gg;mg	0
 貝林登梗	bz;ad ln;mm dg;dd gg;mg	0
 貝林登梗	bz;ud ln;mm dg;dd gg;mg	0

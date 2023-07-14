@@ -132,7 +132,7 @@ use_preset_vocabulary: false
 烤肉	kk;hk rb;ad	660
 烤肉	kk;hk rb;ud	660
 烤肉	kk;hk rb;kr	660
-大肉	da;hd rb;ad	653
+大肉	da;ad rb;ad	653
 洋蔥	yh;dy cs;cx	613
 洋蔥	yh;dy cs;cc	613
 娃哈哈	wa;ng ha;kh ha;kh	600
@@ -273,7 +273,7 @@ use_preset_vocabulary: false
 三明治	sj;hh my;oo vi;dt	257
 帶魚	dl;jb yu;dh	252
 帶魚	dl;jb yu;dd	252
-大豐收	da;hd fg;ud ub;wj	251
+大豐收	da;ad fg;ud ub;wj	251
 千張	qm;pu vh;gi	239
 千張	qm;pa vh;gi	239
 芭蕉	ba;cb jc;cj	238
@@ -395,7 +395,7 @@ use_preset_vocabulary: false
 番茄醬	fj;tb qx;cj jd;yj	152
 番茄醬	fj;pt qx;cj jd;yj	152
 番茄醬	fj;tm qx;cj jd;yj	152
-大富豪	da;hd fu;bf hk;wu	150
+大富豪	da;ad fu;bf hk;wu	150
 乾紅	gj;qu hs;sg	149
 乾紅	gj;uq hs;sg	149
 乾紅	gj;hz hs;sg	149
@@ -456,7 +456,7 @@ use_preset_vocabulary: false
 穩定劑	wf;hj dy;bp ji;dq	118
 穩定劑	wf;hx dy;bp ji;dq	118
 菜籽油	cl;cc zi;mz yb;dy	117
-意大利麪	yi;xy da;hd li;dh mm;mg	116
+意大利麪	yi;xy da;ad li;dh mm;mg	116
 牛油	nq;pu yb;dy	115
 牛油	nq;pa yb;dy	115
 松風	ss;mg fg;ji	115
@@ -509,14 +509,13 @@ use_preset_vocabulary: false
 紅果	hs;sg go;tm	105
 西湖龍井	xi;aa hu;dh ls;dg jy;aa	104
 大團圓	da;ad tr;kv yr;ky	104
-大團圓	da;hd tr;kv yr;ky	104
 紅椒	hs;sg jc;mu	103
 煮雞蛋	vu;dv ji;vx dj;ip	103
 煮雞蛋	vu;dv ji;vx dj;pi	103
 煮雞蛋	vu;hv ji;vx dj;ip	103
 煮雞蛋	vu;hv ji;vx dj;pi	103
 大紅袍	da;ad hs;sg pk;yb	103
-大紅袍	da;hd hs;sg pk;yb	103
+大紅袍	da;ad hs;sg pk;yb	103
 薏仁	yi;cy rf;re	103
 海紅	hl;dm hs;sg	102
 春捲	ip;fr jr;fj	102
@@ -1240,7 +1239,7 @@ use_preset_vocabulary: false
 梭子蟹	so;mj zi;aa xx;ij	27
 梭子蟹	so;mj zi;vh xx;ij	27
 大盤雞	da;ad pj;mb ji;vx	27
-大盤雞	da;hd pj;mb ji;vx	27
+大盤雞	da;ad pj;mb ji;vx	27
 甜茶	tm;ug ia;cm	27
 鹽水鴨	yj;ml uv;ud ya;nj	27
 鹽水鴨	yj;ml uv;uv ya;nj	27
@@ -1390,8 +1389,8 @@ use_preset_vocabulary: false
 魚火鍋	yu;dd ho;dd go;jg	22
 豬大腸	vu;uv da;ad ih;oy	22
 豬大腸	vu;uv da;ad ih;yy	22
-豬大腸	vu;uv da;hd ih;oy	22
-豬大腸	vu;uv da;hd ih;yy	22
+豬大腸	vu;uv da;ad ih;oy	22
+豬大腸	vu;uv da;ad ih;yy	22
 熱酒	re;dv jq;dy	22
 熱酒	re;hv jq;dy	22
 灌湯包	gr;dv th;dy bk;bs	22
@@ -1502,7 +1501,7 @@ use_preset_vocabulary: false
 滄浪亭	ch;dc lh;dl ty;db	19
 五芳齋	wu;aa fh;cf vl;wx	19
 辣椒紅	la;xu jc;mu hs;sg	19
-大白兔奶糖	da;hd bl;pa tu;dd nl;nn th;mt	19
+大白兔奶糖	da;ad bl;pa tu;dd nl;nn th;mt	19
 牛油果	nq;pa yb;dy go;ad	18
 手抓羊肉	ub;pa vw;fv yh;da rb;ad	18
 椰子汁	ye;my zi;aa vi;du	18
@@ -1612,7 +1611,7 @@ use_preset_vocabulary: false
 溴酸鉀	xq;di sr;yj jw;jj	16
 燕窩粥	yj;hb wo;bg vb;mg	16
 丁苯橡膠	dy;aa bf;cb xd;mx jc;ol	16
-大面包	da;hd mm;aa bk;gs	16
+大面包	da;ad mm;aa bk;gs	16
 馬提尼	ma;ad ti;fu ni;ub	16
 馬提尼	ma;hh ti;fu ni;ub	16
 馬提尼	ma;hd ti;fu ni;ub	16
@@ -1829,7 +1828,7 @@ use_preset_vocabulary: false
 糯米糰	no;mx mi;dd tr;mt	12
 熙園	xi;ds yr;ky	12
 熙園	xi;hs yr;ky	12
-大衛杜夫	da;hd wz;xi du;mt fu;ad	12
+大衛杜夫	da;ad wz;xi du;mt fu;ad	12
 蒸糕	vg;cd gk;mg	12
 蒸糕	vg;dv gk;mg	12
 蒸糕	vg;hv gk;mg	12
@@ -1964,7 +1963,7 @@ use_preset_vocabulary: false
 羊雜碎	yh;du za;vm sv;uz	10
 朝鮮冷麪	ik;ou xm;yy lg;dl mm;mg	10
 大麻花	da;ad ma;gl hw;ch	10
-大麻花	da;hd ma;gl hw;ch	10
+大麻花	da;ad ma;gl hw;ch	10
 雙威	ud;vy wz;gn	10
 荷葉粥	he;ch ye;cm vb;mg	10
 荷葉粥	he;ch ye;cm vb;gg	10
@@ -2032,7 +2031,7 @@ use_preset_vocabulary: false
 雞蛋糕	ji;vx dj;pi gk;mg	10
 薑黃素	jd;cj hd;cb su;sf	10
 薑黃素	jd;cj hd;cb su;fs	10
-意大利美食	yi;xy da;hd li;dh mz;dy ui;rl	10
+意大利美食	yi;xy da;ad li;dh mz;dy ui;rl	10
 六堡茶	lq;wb bk;tb ia;cm	10
 六堡茶	lq;dd bk;tb ia;cm	10
 六堡茶	lq;db bk;tb ia;cm	10
@@ -2078,7 +2077,7 @@ use_preset_vocabulary: false
 四喜丸子	si;ke xi;uk wj;jd zi;aa	9
 花生糖	hw;ch ug;nh th;mt	9
 花生糖	hw;ch ug;na th;mt	9
-大豆磷脂	da;hd db;aa ln;ul vi;ov	9
+大豆磷脂	da;ad db;aa ln;ul vi;ov	9
 腦磷脂	nk;oi ln;ul vi;ov	9
 魚香味	yu;dh xd;hr wz;kw	9
 魚香味	yu;dh xd;ho wz;kw	9
@@ -2145,7 +2144,7 @@ use_preset_vocabulary: false
 曬青毛茶	ul;ol qy;of mk;pg ia;cm	8
 博普	bo;uc pu;ob	8
 燜大蝦	mf;hm da;ad xw;ij	8
-燜大蝦	mf;hm da;hd xw;ij	8
+燜大蝦	mf;hm da;ad xw;ij	8
 蘭州牛肉麪	lj;cj vb;id nq;pa rb;ad mm;mg	8
 香辣雞	xd;hr la;xu ji;vx	8
 香辣雞	xd;ho la;xu ji;vx	8
@@ -2272,9 +2271,9 @@ use_preset_vocabulary: false
 楊梅罐頭	yh;my mz;mm gr;fv tb;dy	8
 葡萄糖酸亞鐵	pu;cp tk;cf th;mt sr;yj ya;aa tx;jg	8
 十全大補湯	ui;hu qr;rw da;ad bu;yf th;dy	7
-十全大補湯	ui;hu qr;rw da;hd bu;yf th;dy	7
+十全大補湯	ui;hu qr;rw da;ad bu;yf th;dy	7
 十全大補湯	ui;aa qr;rw da;ad bu;yf th;dy	7
-十全大補湯	ui;aa qr;rw da;hd bu;yf th;dy	7
+十全大補湯	ui;aa qr;rw da;ad bu;yf th;dy	7
 養生湯	yh;yu ug;nh th;dy	7
 養生湯	yh;yu ug;na th;dy	7
 養生湯	yh;yl ug;nh th;dy	7
@@ -2299,7 +2298,7 @@ use_preset_vocabulary: false
 乳餅	ru;gf by;ub	7
 洛陽水席	lo;dg yh;ey uv;ad xi;gj	7
 油燜大蝦	yb;dy mf;hm da;ad xw;ij	7
-油燜大蝦	yb;dy mf;hm da;hd xw;ij	7
+油燜大蝦	yb;dy mf;hm da;ad xw;ij	7
 蟲膠	is;ii jc;op	7
 蟲膠	is;ii jc;yl	7
 蟲膠	is;ii jc;ol	7
@@ -2558,7 +2557,7 @@ use_preset_vocabulary: false
 藻藍	zk;cz lj;cj	6
 奶酪蛋糕	nl;nn lk;yg dj;ip gk;mg	6
 奶酪蛋糕	nl;nn lk;yg dj;pi gk;mg	6
-直港大道	vi;aa gh;dx da;hd dk;zu	6
+直港大道	vi;aa gh;dx da;ad dk;zu	6
 沙茶麪	ua;du ia;cm mm;mm	6
 沙茶麪	ua;du ia;cm mm;mg	6
 魚餃	yu;dh jc;uj	6
@@ -2697,7 +2696,7 @@ use_preset_vocabulary: false
 社飯	ue;ut fj;uf	5
 社飯	ue;tu fj;uf	5
 大救駕	da;ad jq;wq jw;mj	5
-大救駕	da;hd jq;wq jw;mj	5
+大救駕	da;ad jq;wq jw;mj	5
 樟茶鴨	vh;mv ia;cm ya;nj	5
 韭花	jq;fh hw;ch	5
 韭花	jq;fa hw;ch	5
@@ -2995,8 +2994,8 @@ use_preset_vocabulary: false
 番茄炒雞蛋	fj;tb qx;cj ik;hu ji;vx dj;ip	4
 九轉大腸	jq;py vr;iv da;ad ih;oy	4
 九轉大腸	jq;py vr;iv da;ad ih;yy	4
-九轉大腸	jq;py vr;iv da;hd ih;oy	4
-九轉大腸	jq;py vr;iv da;hd ih;yy	4
+九轉大腸	jq;py vr;iv da;ad ih;oy	4
+九轉大腸	jq;py vr;iv da;ad ih;yy	4
 香辣雞翅	xd;hr la;xu ji;vx ii;yv	4
 香辣雞翅	xd;hr la;xu ji;vx ii;vy	4
 香辣雞翅	xd;ho la;xu ji;vx ii;yv	4
@@ -3128,7 +3127,7 @@ use_preset_vocabulary: false
 荷葉飯	he;ch ye;cm fj;uf	3
 中國勁酒	vs;aa go;kh jn;lg jq;dy	3
 雲腿月餅	yp;yy tv;ot yt;pa by;ub	3
-大煮乾絲	da;hd vu;hv gj;qu si;ss	3
+大煮乾絲	da;ad vu;hv gj;qu si;ss	3
 馬拉糕	ma;ad la;fl gk;mg	3
 馬拉糕	ma;hh la;fl gk;mg	3
 馬拉糕	ma;hd la;fl gk;mg	3
@@ -3136,9 +3135,9 @@ use_preset_vocabulary: false
 菜煎餅	cl;cc jm;hq by;ub	3
 菜煎餅	cl;cc jm;dq by;ub	3
 老八大	lk;bl ba;pd da;ad	3
-老八大	lk;bl ba;pd da;hd	3
+老八大	lk;bl ba;pd da;ad	3
 老八大	lk;lb ba;pd da;ad	3
-老八大	lk;lb ba;pd da;hd	3
+老八大	lk;lb ba;pd da;ad	3
 土豆燉牛肉	tu;aa db;aa dp;hd nq;pa rb;ad	3
 豆麪糕	db;aa mm;mg gk;mg	3
 孝感麻糖	xc;zl gj;xx ma;gl th;mt	3
@@ -3158,7 +3157,7 @@ use_preset_vocabulary: false
 西印度櫻桃	xi;aa yn;ey du;gy yy;my tk;mv	3
 西印度櫻桃	xi;hh yn;pe du;gy yy;my tk;mv	3
 西印度櫻桃	xi;hh yn;ey du;gy yy;my tk;mv	3
-李連貴燻肉大餅	li;mz lm;zi gv;bg xp;hx rb;ad da;hd by;ub	3
+李連貴燻肉大餅	li;mz lm;zi gv;bg xp;hx rb;ad da;ad by;ub	3
 板豆腐	bj;mf db;aa fu;gr	3
 葉醇	ye;cm ip;yx	3
 絲襪奶茶	si;ss wa;ym nl;nn ia;cm	3
@@ -3244,7 +3243,7 @@ use_preset_vocabulary: false
 紅薯粥	hs;sg uu;cu vb;mg	3
 紅薯粥	hs;sg uu;cu vb;gg	3
 烤大蝦	kk;hk da;ad xw;ij	3
-烤大蝦	kk;hk da;hd xw;ij	3
+烤大蝦	kk;hk da;ad xw;ij	3
 青島純生	qy;of dk;nu ip;st ug;na	3
 蒙古烤肉	mg;cm gu;uk kk;hk rb;ad	3
 三不粘	sj;aa bu;ad vj;mv	3
@@ -3253,7 +3252,7 @@ use_preset_vocabulary: false
 山楂水	uj;aa va;mi uv;ad	3
 醬黃瓜	jd;yj hd;cb gw;pd	3
 白腸	bl;pa ih;oy	3
-大樸	da;hd pu;md	3
+大樸	da;ad pu;md	3
 五加皮酒	wu;aa jw;kl pi;ya jq;dy	3
 富馬酸亞鐵	fu;bf ma;ad sr;yj ya;aa tx;jg	3
 肉桂醛	rb;ad gv;mg qr;yq	3
@@ -3377,9 +3376,9 @@ use_preset_vocabulary: false
 生物碳酸鈣	ug;na wu;nw tj;ut sr;yw gl;jg	2
 生物碳酸鈣	ug;na wu;nw tj;ut sr;yj gl;jg	2
 三大炮	sj;aa da;ad pk;hb	2
-三大炮	sj;aa da;hd pk;hb	2
+三大炮	sj;aa da;ad pk;hb	2
 三大炮	sj;hh da;ad pk;hb	2
-三大炮	sj;hh da;hd pk;hb	2
+三大炮	sj;hh da;ad pk;hb	2
 松鼠鱖魚	ss;mg uu;ju gv;yj yu;dh	2
 松鼠鱖魚	ss;mg uu;ju gv;yj yu;dd	2
 松鼠鱖魚	ss;mg uu;ju gv;yq yu;dh	2
@@ -4154,7 +4153,7 @@ use_preset_vocabulary: false
 雪蛋	xt;yx dj;ip	1
 雪蛋	xt;yx dj;pi	1
 六必居醬菜	lq;wb bi;xp ju;ug jd;yj cl;cc	1
-大葉烏龍	da;hd ye;cm wu;pd ls;dg	1
+大葉烏龍	da;ad ye;cm wu;pd ls;dg	1
 金錢肉	jn;ra qm;jj rb;ad	1
 鍋巴肉片	go;jg ba;ag rb;ad pm;pa	1
 無錫水蜜桃	wu;ha xi;jy uv;ad mi;ib tk;mv	1
@@ -4231,7 +4230,7 @@ use_preset_vocabulary: false
 蘿蔔紅	lo;cw bo;cf hs;sg	1
 蘿蔔紅	lo;cl bo;ct hs;sg	1
 蘿蔔紅	lo;cl bo;cf hs;sg	1
-大刀面	da;hd dk;gp mm;aa	1
+大刀面	da;ad dk;gp mm;aa	1
 高郵鹹鴨蛋	gk;dk yb;ei xm;lx ya;nj dj;ip	1
 高郵鹹鴨蛋	gk;dk yb;ei xm;lx ya;nj dj;pi	1
 高郵鹹鴨蛋	gk;wk yb;ei xm;lx ya;nj dj;ip	1
@@ -4256,7 +4255,7 @@ use_preset_vocabulary: false
 燒魷魚	uk;hy yb;yy yu;dh	1
 燒魷魚	uk;hy yb;yy yu;dd	1
 紅薯飯	hs;sg uu;cu fj;uf	1
-大樹菠蘿	da;hd uu;mc bo;cb lo;cl	1
+大樹菠蘿	da;ad uu;mc bo;cb lo;cl	1
 葛記	ge;ch ji;yj	1
 瑞士捲	rv;we ui;aa jr;fj	1
 瑞士捲	rv;we ui;ua jr;fj	1
@@ -4269,7 +4268,7 @@ use_preset_vocabulary: false
 過氧化鈣	go;zg yh;qy hw;rb gl;jg	1
 過氧化鈣	go;zk yh;qy hw;rb gl;jg	1
 大葉芹	da;ad ye;cm qn;cj	1
-大葉芹	da;hd ye;cm qn;cj	1
+大葉芹	da;ad ye;cm qn;cj	1
 草粿	ck;cz go;mg	1
 方豆腐	fh;wd db;aa fu;gr	1
 蔥烤鯽魚	cs;cx kk;hk ji;yj yu;dh	1
@@ -4306,9 +4305,9 @@ use_preset_vocabulary: false
 紅燒牛腩	hs;sg uk;hy nq;pa nj;yn	1
 紅燒牛腩	hs;sg uk;hy nq;pa nj;on	1
 西樵大餅	xi;aa qc;mj da;ad by;ub	1
-西樵大餅	xi;aa qc;mj da;hd by;ub	1
+西樵大餅	xi;aa qc;mj da;ad by;ub	1
 西樵大餅	xi;hh qc;mj da;ad by;ub	1
-西樵大餅	xi;hh qc;mj da;hd by;ub	1
+西樵大餅	xi;hh qc;mj da;ad by;ub	1
 紅酒醋	hs;sg jq;dy cu;yx	1
 夏威夷風光	xw;wz wz;gn yi;ad fg;ji gd;xw	1
 清蒸白魚	qy;dq vg;hv bl;pa yu;dd	1
@@ -4365,8 +4364,8 @@ use_preset_vocabulary: false
 珠蘭花茶	vu;wv lj;cl hw;ch ia;cm	1
 大滷麪	da;ad lu;dl mm;mm	1
 大滷麪	da;ad lu;dl mm;mg	1
-大滷麪	da;hd lu;dl mm;mm	1
-大滷麪	da;hd lu;dl mm;mg	1
+大滷麪	da;ad lu;dl mm;mm	1
+大滷麪	da;ad lu;dl mm;mg	1
 乳茶	ru;fg ia;cm	1
 乳茶	ru;gf ia;cm	1
 饊子麻花	sj;us zi;aa ma;gl hw;ch	1
@@ -4529,9 +4528,9 @@ use_preset_vocabulary: false
 乳化硅油	ru;gf hw;rb gv;ug yb;dy	1
 椒鹽排骨	jc;mu yj;ml pl;ff gu;ob	1
 山大皇	uj;uu da;ad hd;bw	1
-山大皇	uj;uu da;hd hd;bw	1
+山大皇	uj;uu da;ad hd;bw	1
 山大皇	uj;aa da;ad hd;bw	1
-山大皇	uj;aa da;hd hd;bw	1
+山大皇	uj;aa da;ad hd;bw	1
 哲司	ve;kv si;kh	1
 哲司	ve;kv si;gk	1
 哲司	ve;kv si;ka	1
@@ -4830,7 +4829,7 @@ use_preset_vocabulary: false
 香菜圓子	xd;ho cl;cc yr;ky zi;vh	1
 馬奶子酒	ma;ad nl;nn zi;aa jq;dy	1
 萬年長青	wj;cy nm;ra ih;ad qy;of	1
-大肉餅	da;hd rb;ad by;ub	1
+大肉餅	da;ad rb;ad by;ub	1
 皮條鱔魚	pi;ya tc;rt uj;yu yu;dd	1
 天水呱呱	tm;ad uv;ad gu;kg gu;kg	1
 糊塌子	hu;mh ta;ty zi;aa	1
@@ -4853,7 +4852,7 @@ use_preset_vocabulary: false
 稀豆粉	xi;hx db;hq ff;mf	1
 稀豆粉	xi;hx db;aq ff;mf	1
 稀豆粉	xi;hx db;hh ff;mf	1
-大理石蛋糕	da;hd li;wl ui;kp dj;ip gk;mg	1
+大理石蛋糕	da;ad li;wl ui;kp dj;ip gk;mg	1
 雪花羊肉	xt;yx hw;ch yh;da rb;ad	1
 葡萄魚	pu;cp tk;ct yu;dh	1
 葡萄魚	pu;cp tk;ct yu;dd	1
@@ -5050,8 +5049,8 @@ use_preset_vocabulary: false
 紅燒熊掌	hs;sg uk;hy xs;hn vh;uk	0
 大雪棗	da;ad xt;yx zk;hd	0
 大雪棗	da;ad xt;yx zk;cc	0
-大雪棗	da;hd xt;yx zk;hd	0
-大雪棗	da;hd xt;yx zk;cc	0
+大雪棗	da;ad xt;yx zk;hd	0
+大雪棗	da;ad xt;yx zk;cc	0
 油墩子	yb;dy dp;td zi;aa	0
 油墩子	yb;dy dp;td zi;vh	0
 魔芋燒鴨	mo;mg yu;cy uk;hy ya;nj	0
@@ -5137,7 +5136,7 @@ use_preset_vocabulary: false
 詩禮銀杏	ui;ys li;ul yn;jg xy;mk	0
 炒米線	ik;hu mi;dd xm;sq	0
 紅燒大蝦	hs;sg uk;hy da;ad xw;ij	0
-紅燒大蝦	hs;sg uk;hy da;hd xw;ij	0
+紅燒大蝦	hs;sg uk;hy da;ad xw;ij	0
 米粉蒸肉	mi;dd ff;mf vg;hv rb;ad	0
 麥辣雞腿漢堡	ml;lx la;xu ji;vx tv;yt hj;dh bk;tb	0
 麥辣雞腿漢堡	ml;lx la;xu ji;vx tv;ot hj;dh bk;tb	0
@@ -5272,8 +5271,8 @@ use_preset_vocabulary: false
 牛外脊	nq;pa wl;xb ji;od	0
 玫瑰大頭菜	mz;ww gv;wg da;ad tb;yd cl;cc	0
 玫瑰大頭菜	mz;ww gv;wg da;ad tb;dy cl;cc	0
-玫瑰大頭菜	mz;ww gv;wg da;hd tb;yd cl;cc	0
-玫瑰大頭菜	mz;ww gv;wg da;hd tb;dy cl;cc	0
+玫瑰大頭菜	mz;ww gv;wg da;ad tb;yd cl;cc	0
+玫瑰大頭菜	mz;ww gv;wg da;ad tb;dy cl;cc	0
 丁二酮	dy;hu er;aa ts;yt	0
 丁二酮	dy;hu er;hh ts;yt	0
 丁二酮	dy;aa er;aa ts;yt	0
@@ -5526,7 +5525,7 @@ use_preset_vocabulary: false
 糟毛豆	zk;mc mk;pg db;hq	0
 糟毛豆	zk;mc mk;pg db;aq	0
 糟毛豆	zk;mc mk;pg db;hh	0
-大理砂鍋魚	da;hd li;wl ua;uu go;jg yu;dd	0
+大理砂鍋魚	da;ad li;wl ua;uu go;jg yu;dd	0
 高纖維椰果	gk;wk xm;sg wz;sv ye;my go;ad	0
 千張包子	qm;pa vh;gi bk;gs zi;aa	0
 芙蓉鯽魚	fu;cf rs;cr ji;yj yu;dh	0
@@ -5741,7 +5740,7 @@ use_preset_vocabulary: false
 連鍋湯	lm;zi go;jg th;dy	0
 糖水荔枝罐頭	th;mt uv;ad li;cl vi;mv gr;fv tb;dy	0
 大理雪梨	da;ad li;wl xt;yx li;ml	0
-大理雪梨	da;hd li;wl xt;yx li;ml	0
+大理雪梨	da;ad li;wl xt;yx li;ml	0
 走油肉	zb;tv yb;dy rb;ad	0
 走油肉	zb;tv yb;dy rb;ud	0
 走油肉	zb;tv yb;dy rb;kr	0
@@ -5769,7 +5768,7 @@ use_preset_vocabulary: false
 得莫利燉魚	de;rc mo;cd li;dh dp;hd yu;dd	0
 乾煸肉絲	gj;qu bm;hb rb;ad si;ss	0
 大菜糕	da;ad cl;cc gk;mg	0
-大菜糕	da;hd cl;cc gk;mg	0
+大菜糕	da;ad cl;cc gk;mg	0
 豬油盒	vu;uv yb;dy he;mh	0
 甲基丁酸	jw;aa ji;tq dy;aa sr;yj	0
 胭脂蟲紅	yj;oy vi;yv is;ii hs;sg	0
@@ -5873,7 +5872,7 @@ use_preset_vocabulary: false
 生榨米粉	ug;na va;mv mi;dd ff;mf	0
 涼拌藕	ld;dj bj;fb ou;co	0
 黑胡椒牛柳	hz;ha hu;og jc;mu nq;pa lq;mm	0
-大方糕	da;hd fh;wd gk;mg	0
+大方糕	da;ad fh;wd gk;mg	0
 香草奶昔	xd;ho ck;cz nl;nn xi;oc	0
 棗卷	zk;hd jr;je	0
 棗卷	zk;hd jr;ef	0
@@ -6118,7 +6117,7 @@ use_preset_vocabulary: false
 丹麥酥	dj;pd ml;xl su;yh	0
 柿麪糊塌	ui;mu mm;mm hu;mh ta;ty	0
 柿麪糊塌	ui;mu mm;mg hu;mh ta;ty	0
-意大利千層麪	yi;xy da;hd li;dh qm;pa cg;uc mm;mg	0
+意大利千層麪	yi;xy da;ad li;dh qm;pa cg;uc mm;mg	0
 雙麻酥餅	ud;yv ma;gl su;yh by;ub	0
 雙麻酥餅	ud;vy ma;gl su;yh by;ub	0
 酒醉河田雞	jq;dy zv;yz he;dk tm;aa ji;vx	0
@@ -6128,7 +6127,7 @@ use_preset_vocabulary: false
 南瓜包	nj;ua gw;pd bk;gs	0
 糖藕片	th;mt ou;co pm;pv	0
 糖藕片	th;mt ou;co pm;pa	0
-意大利餃子	yi;xy da;hd li;dh jc;uj zi;aa	0
+意大利餃子	yi;xy da;ad li;dh jc;uj zi;aa	0
 餄餎面	he;uh le;ug mm;aa	0
 餄餎面	he;uh le;ug mm;hh	0
 餄餎面	he;uh le;ug mm;ah	0
@@ -6296,9 +6295,9 @@ use_preset_vocabulary: false
 火腿豆燜飯	ho;dd tv;ot db;aa mf;hm fj;uf	0
 卡夫果珍	ka;ub fu;ad go;ad vf;wp	0
 羅漢大蝦	lo;sv hj;dh da;ad xw;ij	0
-羅漢大蝦	lo;sv hj;dh da;hd xw;ij	0
+羅漢大蝦	lo;sv hj;dh da;ad xw;ij	0
 羅漢大蝦	lo;sw hj;dh da;ad xw;ij	0
-羅漢大蝦	lo;sw hj;dh da;hd xw;ij	0
+羅漢大蝦	lo;sw hj;dh da;ad xw;ij	0
 包穀粑粑	bk;bs gu;hu ba;mb ba;mb	0
 包穀粑粑	bk;bs gu;uh ba;mb ba;mb	0
 包穀粑粑	bk;gs gu;hu ba;mb ba;mb	0
@@ -6484,8 +6483,8 @@ use_preset_vocabulary: false
 紅燒野鴨	hs;sg uk;hy ye;yl ya;nj	0
 大理三道茶	da;ad li;wl sj;aa dk;zu ia;cm	0
 大理三道茶	da;ad li;wl sj;hh dk;zu ia;cm	0
-大理三道茶	da;hd li;wl sj;aa dk;zu ia;cm	0
-大理三道茶	da;hd li;wl sj;hh dk;zu ia;cm	0
+大理三道茶	da;ad li;wl sj;aa dk;zu ia;cm	0
+大理三道茶	da;ad li;wl sj;hh dk;zu ia;cm	0
 酸奶餅	sr;yw nl;nn by;ub	0
 酸奶餅	sr;yj nl;nn by;ub	0
 鍋渣	go;jk va;di	0
@@ -6619,7 +6618,7 @@ use_preset_vocabulary: false
 刀切餈	dk;gp qx;dq ci;uc	0
 刀切餈	dk;pg qx;qd ci;uc	0
 刀切餈	dk;pg qx;dq ci;uc	0
-大福來鍋巴菜	da;hd fu;uf ll;ad go;jg ba;ag cl;cc	0
+大福來鍋巴菜	da;ad fu;uf ll;ad go;jg ba;ag cl;cc	0
 鍋燒雞	go;jk uk;hy ji;vx	0
 鍋燒雞	go;jg uk;hy ji;vx	0
 八寶壺	ba;pd bk;bb hu;ua	0
@@ -6907,7 +6906,7 @@ use_preset_vocabulary: false
 鮮肉湯糰	xm;yy rb;kr th;dy tr;mt	0
 越橘紅	yt;zy ju;my hs;sg	0
 越橘紅	yt;zy ju;mk hs;sg	0
-阜寧大糕	fu;uk ny;bd da;hd gk;mg	0
+阜寧大糕	fu;uk ny;bd da;ad gk;mg	0
 四喜餃	si;aa xi;uk jc;uj	0
 四喜餃	si;ke xi;uk jc;uj	0
 四喜餃	si;uh xi;uk jc;uj	0
@@ -7039,8 +7038,6 @@ use_preset_vocabulary: false
 燻肘子	xp;hx vb;oc zi;vh	0
 燒大蔥	uk;hy da;ad cs;cx	0
 燒大蔥	uk;hy da;ad cs;cc	0
-燒大蔥	uk;hy da;hd cs;cx	0
-燒大蔥	uk;hy da;hd cs;cc	0
 豆瓣鯽魚	db;aa bj;gx ji;yj yu;dd	0
 河水豆花	he;dk uv;ad db;aa hw;ch	0
 恩施玉露茶	en;xy ui;fy yu;ad lu;yl ia;cm	0
