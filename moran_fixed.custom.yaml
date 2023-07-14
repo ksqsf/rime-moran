@@ -1,9 +1,9 @@
 patch:
-  # 語言模型開關
-  # 註釋掉這行關閉語言模型。
-  # 注意：語言模型會依據概率重排選項的順序，這會損害一部分確定性。
-  # 測試方法：「水滿則」後打 yidy 首選是「溢」說明語言模型已生效。
-  __include: enable_language_model
+  ## 語言模型開關
+  ##   取消註釋打開語言模型
+  ##   注    意：語言模型會依據概率重排選項的順序，這會損害一部分確定性。
+  ##   測試方法：「水滿則」後打 yidy 首選是「溢」說明語言模型已生效。
+  # __include: enable_language_model
 
 enable_language_model:
   grammar:
