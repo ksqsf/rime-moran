@@ -187,11 +187,11 @@ __patch:
   - moran.custom.yaml:/patch?
 
 # 字模型
-# grammar:
-#   language: zh-hant-t-essay-bgc
-#   collocation_max_length: 2
-#   collocation_min_length: 2
+grammar:
+  language: zh-hant-t-essay-bgc
+  collocation_max_length: 2
+  collocation_min_length: 2
 
 # 詞模型
-grammar:
-  language: zh-hant-t-essay-bgw
+# grammar:
+#   language: zh-hant-t-essay-bgw
