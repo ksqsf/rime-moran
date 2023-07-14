@@ -82,7 +82,7 @@ reverse_lookup:
 recognizer:
   import_preset: default
   patterns:
-    reverse_lookup: "^(``[a-z][a-z]?|[a-z][a-z]`[a-z`]?|[a-z][a-z][a-z`]?`)$"
+    reverse_lookup: "(^(`[a-z`]+))|(^([a-z]{2}(`[a-z`]?|[a-z`]`)))"
 
 
 punctuator:
