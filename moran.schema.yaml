@@ -94,20 +94,19 @@ translator:    # 整句輸入模式設置，在 top_translator 中被調用
   dictionary: moran.extended
   prism: moran
   initial_quality: 5
+  enable_commit_history: true
   contextual_suggestions: true
   max_homophones: 7
-  max_homographs: 7
 
 fixed:         # 固頂輸入模式設置，在 top_translator 中被調用
   initial_quality: 10
   dictionary: moran_fixed
   enable_completion: false
   enable_sentence: false
-  enable_user_dict: false
+  enable_user_dict: true
   enable_encoder: false
-  encode_commit_history: false
+  encode_commit_history: true
   contextual_suggestions: true
-  max_homophones: 7
   max_homographs: 7
 
 custom_phrase: # 自定義短語
@@ -189,10 +188,10 @@ __patch:
 
 # 字模型
 # grammar:
-#   language: zh-hans-t-essay-bgc
+#   language: zh-hant-t-essay-bgc
 #   collocation_max_length: 2
 #   collocation_min_length: 2
 
 # 詞模型
 grammar:
-  language: zh-hans-t-essay-bgw
+  language: zh-hant-t-essay-bgw
