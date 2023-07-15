@@ -1,6 +1,12 @@
 schema:
   schema_id: moran_fixed
   name: 魔然·字詞
+  version: "0.1"
+  author:
+    - 發明人：周志農
+    - 方案製作：ksqsf
+  description: |
+    四碼唯一自動上屏、五碼頂屏的碼表式輸入方式。
 
 switches:
   - name: ascii_mode

@@ -3,13 +3,14 @@ schema:
   name: 魔然·整句
   version: "0.1"
   author:
-    - ksqsf
+    - 自然碼發明人：周志農
+    - 方案製作：ksqsf
   description: |
-    魔改自然碼（魔然）整句輸入模式
+    無簡快碼的輸入純粹整句輸入模式。
   dependencies:
     - tiger
-    - moran.english
-    - moran.japanese
+    - moran_english
+    - moran_japanese
 
 switches:
   - name: ascii_mode
@@ -144,3 +145,6 @@ recognizer:
 
 __patch:
   - moran.custom.yaml:/patch?
+
+grammar:
+  language: zh-hant-t-essay-bgw
