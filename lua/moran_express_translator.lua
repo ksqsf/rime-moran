@@ -1,4 +1,4 @@
--- Moran's Top Translator
+-- Moran Translator (for Express Editor)
 -- Copyright (c) 2023 ksqsf
 --
 -- Ver: 0.2.0

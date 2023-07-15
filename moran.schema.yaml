@@ -61,7 +61,7 @@ engine:
     - table_translator@custom_phrase       # 自定義短語
     - table_translator@english             # 英語混輸
     #- table_translator@japanese            # 日語混輸
-    - lua_translator@*moran_top_translator # 頂層翻譯器
+    - lua_translator@*moran_express_translator # 翻譯器
     - lua_translator@*moran_shijian        # 日期orq 節氣ojq 星期oxq 時間osj
     - lua_translator@*moran_number         # 數字轉大寫
   filters:
