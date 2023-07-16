@@ -24,7 +24,7 @@
 name: moran.hanyu
 version: "2013.11.01+1"
 sort: by_weight
-use_preset_vocabulary: true
+use_preset_vocabulary: false
 columns:
   - text
   - weight

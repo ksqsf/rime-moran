@@ -19,7 +19,7 @@
 name: moran.computer
 version: "2014.09.07+1"
 sort: by_weight
-use_preset_vocabulary: true
+use_preset_vocabulary: false
 columns:
   - text
   - code
