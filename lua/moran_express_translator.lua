@@ -1,10 +1,12 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023 ksqsf
 --
--- Ver: 0.2.0
+-- Ver: 0.3.0
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.3.0: 增加單字輸出的出簡讓全。
 --
 -- 0.2.0: 增加固定二字詞模式。
 --
@@ -22,6 +24,7 @@ local top = {}
 function top.init(env)
    env.fixed = Component.Translator(env.engine, "", "table_translator@fixed")
    env.smart = Component.Translator(env.engine, "", "script_translator@translator")
+   env.rfixed = ReverseLookup('moran_fixed')
 end
 
 function top.fini(env)
@@ -57,10 +60,37 @@ function top.func(input, seg, env)
       end
    end
 
+   -- 出簡讓全。
+   local ijrq_enabled = true
+      and (env.engine.context.input == input)
+      and ((input_len == 4) or (input_len == 5 and input:sub(5,5) == 'o'))
+   local ijrq_deferred = {}
+
    -- smart 在 fixed 之後輸出。
    local smart_res = env.smart:query(input, seg)
    if smart_res ~= nil then
       for cand in smart_res:iter() do
+         local defer = false
+         -- 如果輸出有詞，說明在拼詞，用戶很可能要使用高頻字，故此時停止出簡讓全。
+         if (ijrq_enabled and utf8.len(cand.text) > 1) then
+            ijrq_enabled = false
+         end
+         if (ijrq_enabled and utf8.len(cand.text) == 1) then
+            local fixed_codes = env.rfixed:lookup(cand.text)
+            for code in fixed_codes:gmatch("%S+") do
+               if (#code < 4 and string.sub(input, 1, #code) == code) then
+                  defer = true
+                  break
+               end
+            end
+         end
+         if (not defer) then
+            yield(cand)
+         else
+            table.insert(ijrq_deferred, cand)
+         end
+      end
+      for i, cand in ipairs(ijrq_deferred) do
          yield(cand)
       end
    end
