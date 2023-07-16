@@ -9,7 +9,7 @@ import radical
 original_set = set()
 fvm_table = defaultdict(list)
 original_table = defaultdict(list)
-with open('main.txt') as f:
+with open('main.txt') as f:  # does not need weight
     for line in f:
         [zi, code, *_] = line.strip().split()
         original_table[zi].append(code)
@@ -25,14 +25,20 @@ def guess_fvm(ch):
     rad = radical.radical(ch)
     res = radical.residue(ch)
     if not rad or not res:
-        print(f'⚠️{ch}, rad={rad}, res={res}')
+        # print(f'⚠️{ch}, rad={rad}, res={res}')
         return None
     def code(x):
         if x=='扌': return 'f'
         elif x=='彳': return 'x'
         elif x in '日月曰目': return 'o'
+        elif x in '一丨': return 'a'
         else: return zrmify1(lazy_pinyin(x)[0])[0]
-    return code(rad) + code(res[0])
+    import sys
+    print(f'⚠️ {zi} rad={rad} res={res[-1]}', file=sys.stderr)
+    if res[-1] == '□':
+        return None
+    else:
+        return code(rad) + code(res[-1])
 
 luna_set = set()
 bad_lines = []
@@ -52,9 +58,9 @@ with open('luna_chars.txt') as f:
                 continue
 
             if len(maybe_weight) > 0:
-                print(f'{zi}\t{zrm}\t{"".join(maybe_weight)}')
+                print(f'{zi}\t{zrm}\t{"".join(maybe_weight)}\t')
             else:
-                print(f'{zi}\t{zrm}')
+                print(f'{zi}\t{zrm}\t\t')
             luna_set.add(zi)
 
         # no fvm found, guess one
@@ -63,15 +69,13 @@ with open('luna_chars.txt') as f:
             fvm = guess_fvm(zi)
             if fvm:
                 zrm = zrmify1(pinyin) + ';' + fvm
-                print(f'{zi}\t{zrm}\t{"".join(maybe_weight)}  # auto')
+                print(f'{zi}\t{zrm}\t{"".join(maybe_weight)}\t# auto')
             else:
                 bad_lines.append(line)
 
-print('#----------')
 zrm_unique_set = original_set - luna_set
 for c in zrm_unique_set:
     for code in original_table[c]:
-        if code[:2] in ["pp", "jv", "qv", "yv"]: continue
-        print(f'{c}\t{code}')
-print('#----------')
-for line in bad_lines: print(line)
+        if code[:2] in ["jv", "qv", "yv"]: continue
+        print(f'{c}\t{code}\t\t')
+#for line in bad_lines: print(line)

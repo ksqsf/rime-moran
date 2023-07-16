@@ -5,32 +5,30 @@
 from collections import defaultdict
 import math
 
-table = defaultdict(int)
+weight_table = defaultdict(int)
 with open('/Library/Input Methods/Squirrel.app/Contents/SharedSupport/essay.txt', 'r') as f:
     for l in f:
         l = l.strip()
         [k,v] = l.split('\t')
         v = int(v)
-        table[k]=v
+        weight_table[k]=v
 
-with open('main.txt') as f:
+# main2.txt is the output of luna_like.py
+import sys
+with open('main2.txt') as f:
     for l in f:
-        l = l.strip()
-        [zi, zrm, *maybe_weight] = l.split('\t')
+        l = l.strip('\n')
+        print(l, file=sys.stderr)
+        [zi, zrm, weight, comment] = l.split('\t')
         auto = False
-        if len(maybe_weight) == 0:
+        if 'auto' in comment:
+            auto = True
+        if weight == '':
+            factor = 1
+        elif weight == '0':
             factor = 0
-        elif len(maybe_weight) == 1:
-            wstr = maybe_weight[0]
-            if 'aut' in wstr:
-                factor = 0
-                auto = True
-            elif wstr == '0':
-                factor = 0
-            else:
-                factor = float(wstr[:-1]) / 100
         else:
-            print(f'⚠️ {zi} {maybe_weight}')
-        essay_w = table.get(zi, 0.0)
+            factor = float(weight[:-1]) / 100
+        essay_w = weight_table.get(zi, 0.0)
         auto_str = "# auto" if auto else ""
         print(f'{zi}\t{zrm}\t{math.ceil(essay_w * factor)}\t{auto_str}')
