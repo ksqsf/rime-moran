@@ -6758,8 +6758,8 @@ use_preset_vocabulary: false
 廿	nm;hh	3023
 廿	nm;aa	3023
 廿	pp;ck	151
-开	kl;hc	4346734
 开	kl;ac	4346734
+开	kl;hc	4346734
 弁	bm;sc	1361
 弁	bm;cs	1361
 异	yi;cs	605792
@@ -32817,7 +32817,7 @@ use_preset_vocabulary: false
 牛啤		10000
 不就在		10000
 太酷了		10000
-曱甴	ga za	10000
+曱甴	ga;aa za;aa	10000
 顏文字		10000
 繪文字		10000
 高ping戰士	gk py vj ui
@@ -32834,4 +32834,5 @@ use_preset_vocabulary: false
 中科大
 選重
 重排
-开摆
+開擺
+開盒
