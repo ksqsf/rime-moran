@@ -10,6 +10,7 @@ schema:
   dependencies:
     - tiger
     - moran_fixed
+    - moran_sentence
     - moran_reverse
     - moran_english
     - moran_japanese
