@@ -1796,6 +1796,7 @@ bjci	班次
 bjcl	板材
 bjcp	板寸
 bjcs	飽經滄桑
+bjd	班
 bjdb	湴
 bjde	不見得
 bjdg	板凳
@@ -1965,7 +1966,6 @@ bjvt	不經之談
 bjvu	版主
 bjvx	不見真佛不燒香
 bjvy	不解之緣
-bjw	班
 bjw	斑
 bjwb	斒
 bjwd	不講武德
@@ -2141,7 +2141,7 @@ bkmu	駂
 bkmv	不可名狀
 bkmy	報名
 bkmz	胞妹
-bkn	鴇
+bkn	不可能
 bknb	不可能吧
 bknb	犦
 bknb	媬
@@ -2152,6 +2152,7 @@ bknm	包年
 bknr	保暖
 bknt	暴虐
 bknu	暴怒
+bknu	鴇
 bknu	鳵
 bknv	不可逆轉
 bko	暴
@@ -4267,7 +4268,7 @@ bzqv	不在其位，不謀其政
 bzqw	不在其位
 bzqx	悲切
 bzqy	悲情
-bzr	備
+bzr	倍
 bzrb	偝
 bzrc	不遭人妒是庸才
 bzrf	被人
@@ -6114,7 +6115,6 @@ dbua	豆沙
 dbub	兜售
 dbuh	對不上號
 dbui	都是
-dbui	倒不是
 dbuo	都說
 dbuu	多不勝數
 dbux	待辦事項
@@ -9767,6 +9767,7 @@ fahs	發紅
 fahv	發揮
 fahw	發話
 fahz	發黑
+fai	髮
 faib	發愁
 faie	發車
 faih	法場
@@ -14941,7 +14942,6 @@ hcum	花草樹木
 hcur	獲此殊榮
 hd	黃
 hdb	皇
-hdbg	皝
 hdbh	皇榜
 hdbj	荒誕不經
 hdbk	謊報
@@ -14974,6 +14974,7 @@ hdfu	皇甫
 hdfz	荒廢
 hdfz	紅得發紫
 hdgd	黃光
+hdgh	皝
 hdgr	皇冠
 hdgs	皇宮
 hdgw	黃瓜
@@ -15887,7 +15888,8 @@ hkbu	毫不
 hkbu	戶口簿
 hkby	虎口拔牙
 hkby	好兵
-hkc	蒿
+hkc	薅
+hkcg	蒿
 hkcg	薃
 hkcj	好慘
 hkck	蒿草
@@ -15976,6 +15978,7 @@ hklr	好亂
 hklv	花開兩朵，各表一枝
 hkly	號令
 hklz	好累
+hkm	毫
 hkma	號碼
 hkma	好嗎
 hkmc	毫秒
@@ -16022,6 +16025,7 @@ hktu	虎口逃生
 hktx	好帖
 hktx	虎口脫險
 hkty	好聽
+hku	豪
 hkub	好受
 hkud	豪爽
 hkuf	豪紳
@@ -16039,13 +16043,11 @@ hkvj	好戰
 hkvk	號召
 hkvl	豪宅
 hkvr	好轉
-hkw	毫
 hkwf	好文
 hkwj	好玩
 hkwl	號外
 hkwn	昏聵無能
 hkwu	毫無
-hkwu	豪
 hkxc	好笑
 hkxd	好像
 hkxe	黃口小兒
@@ -17190,13 +17192,13 @@ huts	衚衕
 hutu	糊塗
 hutv	護腿
 hutz	畫蛇添足
-huu	餬
-huua	壺
+huu	壺
 huud	渾身是膽
 huuf	護身
 huug	呼聲
 huug	祜
 huug	岵
+huuh	餬
 huui	忽視
 huuj	忽閃
 huuj	觳
@@ -17241,10 +17243,9 @@ huxt	虎穴
 huxu	鬍鬚
 huxy	戶型
 huxy	歡聲笑語
-huy	許
+huy	護
 huya	虎牙
 huyb	忽悠
-huyh	護
 huyh	護養
 huyh	醐
 huyh	雽
@@ -17255,6 +17256,7 @@ huyj	護眼
 huyl	荒山野嶺
 huyr	很少有人
 huyu	呼籲
+huyw	許
 huyy	呼應
 huzi	鬍子
 huzj	何似在人間
@@ -18849,6 +18851,7 @@ ihik	誠惶誠恐
 ihip	長春
 ihis	長蟲
 ihiu	長處
+ihj	常
 ihjd	長江
 ihji	娼妓
 ihjm	常見
@@ -18947,8 +18950,6 @@ ihwu	常務
 ihwy	瑒
 ihwz	常委
 ihwz	腸胃
-ihx	常
-ihx	裳
 ihx	悵
 ihx	嘗
 ihxc	暢銷
@@ -18959,7 +18960,9 @@ ihxq	長袖
 ihxu	暢敘
 ihxu	徜
 ihxu	惝
+ihxv	嘗
 ihxx	超乎想象
+ihy	裳
 ihyb	暢遊
 ihye	長夜
 ihyh	徜徉
@@ -19142,8 +19145,8 @@ iith	池塘
 iitv	斥退
 iitx	墀
 iiu	尺
-iiu	匙
 iiub	赤手
+iiub	匙
 iiuf	赤身
 iiug	喫剩
 iiuh	喫上
@@ -21007,6 +21010,7 @@ jds	絳
 jdsi	掘地三尺
 jdsr	姜蒜
 jdsu	江蘇
+jdt	疆
 jdth	薑湯
 jdtj	講壇
 jdtl	講臺
@@ -21352,6 +21356,7 @@ jidz	泲
 jie	即
 jie	際
 jiee	飢餓
+jiej	際
 jieq	絕塵而去
 jieq	隮
 jier	繼而
@@ -22350,6 +22355,7 @@ jnqu	進去
 jnqy	盡情
 jnr	僅
 jnr	金
+jnra	金
 jnri	今日
 jnri	紀念日
 jnrj	儘
@@ -29891,6 +29897,7 @@ mgzg	猛增
 mgzi	孟子
 mgzi	每個字
 mgzl	蒙在
+mgzm	魔改自然碼
 mgzu	蒙族
 mh	忙
 mha	尨
@@ -31041,6 +31048,7 @@ mrvv	漠然置之
 mrwc	茫然無措
 mrxm	盲人瞎馬
 mrxy	沒人性
+mryx	魔然音形
 mryy	美容養顏
 mrza	魔然字词方案
 mrzc	魔然字词
@@ -31810,6 +31818,7 @@ mzxq	沒羞
 mzxt	美學
 mzxw	徾
 mzxy	每行
+mzy	美
 mzyb	沒有
 mzyb	沒有
 mzyd	袂
@@ -38138,6 +38147,7 @@ rfvs	人種
 rfvu	忍住
 rfw	韌
 rfwf	人文
+rfwu	任務
 rfwu	人物
 rfwz	認爲
 rfwz	認爲
@@ -39895,6 +39905,7 @@ sma	什麼啊
 smbf	四面八方
 smbj	什麼b動靜
 smd	什麼的
+smdi	四碼定長
 smdy	死馬當活馬醫
 smg	什麼鬼
 smig	四面楚歌
@@ -39910,6 +39921,7 @@ smpu	素昧平生
 smqu	司馬青衫
 smu	什麼是
 smud	四面受敵
+smuh	什么時候
 smui	什麼事
 smvh	三昧真火
 smvi	三明治
@@ -41597,6 +41609,7 @@ tjfj	攤販
 tjfn	攤
 tjft	罈
 tjfu	貪腐
+tjg	彈
 tjge	探戈
 tjgo	談過
 tjgr	貪官
@@ -44095,12 +44108,12 @@ uedu	蛇毒
 uedv	奢
 uedy	設定
 uef	捨
-uef	揲
 uefa	設法
 uefd	失而復得
 ueff	十二分
 uefh	設防
 uefj	折
+uefm	揲
 uefm	善惡分明
 uefn	攝
 uefu	懾服
@@ -46382,6 +46395,7 @@ uvhl	失之毫釐
 uvho	水貨
 uvhr	水患
 uvhu	水壺
+uvhu	水滸
 uvhv	誰會
 uvhv	誰會
 uvhw	水花
@@ -46864,6 +46878,7 @@ uzyu	受阻於
 uzyv	始作俑者
 uzzo	雙子座
 v	這
+v	之
 va	渣
 vaaj	治安案件
 vab	痄
@@ -49564,9 +49579,10 @@ vulq	麆
 vult	轉世靈童
 vulu	逐鹿
 vulz	燭淚
-vum	朮
+vum	柱
 vumb	主謀
 vumc	馵
+vumd	朮
 vumf	朱門
 vumg	築夢
 vumi	欘
@@ -49644,9 +49660,9 @@ vuub	助手
 vuue	注射
 vuug	磩
 vuug	壯士十年歸
-vuui	屬
 vuui	註釋
 vuui	注視
+vuui	屬
 vuuj	中樞神經
 vuus	諸事順遂
 vuuu	煮熟
@@ -50868,6 +50884,7 @@ wjxc	玩笑
 wjxd	萬象
 wjxe	夗
 wjxi	惋惜
+wjxt	文件系統
 wjxw	晚霞
 wjxx	晚些
 wjxy	萬幸
@@ -54452,8 +54469,8 @@ xsy	詗
 xsys	洶湧
 xsyy	雄鷹
 xszi	雄姿
-xt	系統
 xt	學
+xt	系統
 xtai	血癌
 xtan	血案
 xtb	穴
@@ -61623,6 +61640,7 @@ zrjy	鑽井
 zrks	鑽孔
 zrlx	做人留一線
 zrm	自然碼
+zrma	自然碼
 zrmg	贈人玫瑰
 zrmp	自然碼雙拼
 zrmup	自然碼雙拼
