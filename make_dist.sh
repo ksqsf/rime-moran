@@ -9,3 +9,5 @@ cp -a default.custom.yaml squirrel.custom.yaml symbols.yaml dist
 cp -a zh-hant-t-essay-*.gram dist
 cp -a tiger*.yaml dist
 cp -a njerchet*.yaml dist
+cp -a 下载与安装说明.txt  dist
+
