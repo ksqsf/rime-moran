@@ -9,6 +9,7 @@ columns:
   - code
   - text
   - weight
+  - comment
 encoder:
   rules:
     - length_equal: 2
@@ -3506,7 +3507,6 @@ buxp	不遜
 buxq	補休
 buxt	不學
 buxu	不許
-buxw	博士學位
 buxw	部下
 buxx	不屑
 buxy	不行
@@ -6692,8 +6692,8 @@ dhlu	擋路
 dhlv	大海撈針
 dhly	黨齡
 dhm	檔
-dhmt	盪
 dhmm	當面
+dhmt	盪
 dhn	婸
 dhnh	大好年華
 dhnm	當年
@@ -8666,9 +8666,9 @@ dvce	對策
 dvci	對此
 dvco	對錯
 dvd	濧
-dvd	㨃
 dvda	對答
 dvdc	對調
+dvdd	濧
 dvde	對的
 dvdg	對等
 dvdg	濻
@@ -8683,6 +8683,7 @@ dvdx	堆疊
 dvdy	鬥智鬥勇
 dvdy	瀢
 dve	隊
+dvf	㨃
 dvfh	對方
 dvfr	洞中方一日
 dvfu	對付
@@ -21541,15 +21542,19 @@ jipm	幾篇
 jipn	極品
 jipo	急迫
 jipu	吉普
-jiq	惎
+jiq	齏
+jiqb	齎
 jiqc	技巧
 jiqd	極強
+jiqh	齌
 jiqi	機器
+jiqj	齏
 jiqm	幾千
 jiqp	集羣
 jiqq	擊球
 jiqr	幾圈
 jiqu	汲取
+jiqx	惎
 jiqx	急切
 jiqy	激情
 jiqy	諅
@@ -21642,11 +21647,8 @@ jivv	脊椎
 jivw	雞爪
 jivx	雞
 jiw	齊
-jiwa	齏
-jiwb	齎
 jiwf	祭文
 jiwh	既往
-jiwh	齌
 jiwj	幾萬
 jiwj	璣
 jiwo	雞窩
@@ -32966,8 +32968,9 @@ ntdg	腦體倒掛
 ntdl	虐待
 ntfu	虐俘
 ntgm	逆天改命
-nth	䖋
 ntji	瘧疾
+nth	虐
+nthr	䖋
 ntlu	那條路
 ntmm	牛頭馬面
 ntnt	鬧騰鬧騰
@@ -39536,6 +39539,7 @@ sikj	隨處可見
 sikk	思考
 sikk	思考
 sikl	撕開
+siks	噝
 sil	耜
 silb	四樓
 silc	私聊
@@ -50124,7 +50128,7 @@ vzwt	隻字未提
 vzxe	止增笑耳
 vzxi	摺子戲
 w	我
-w	位
+w	爲
 wa	挖
 waa	瓦
 waak	咼
@@ -51918,7 +51922,7 @@ wyyu	無異於
 wyzd	文以載道
 wyzg	無欲則剛
 wyzv	烏鴉嘴
-wz	爲
+wz	位
 wz	惟
 wza	韋
 wzaa	囗
@@ -52123,7 +52127,6 @@ wzrr	微軟
 wzrr	微軟
 wzrs	爲榮
 wzrv	葳蕤
-wzrw	偉
 wzrw	僞
 wzrw	偎
 wzrw	儰
@@ -56709,8 +56712,8 @@ yhby	瘍
 yhby	痒
 yhcs	洋蔥
 yhd	洋
-yhda	羊
 yhda	養大
+yhda	羊
 yhdd	玉皇大帝
 yhdf	因禍得福
 yhdq	沿海地區
@@ -57332,7 +57335,6 @@ yiyv	詣
 yiyv	鮨
 yiyx	譯
 yiyx	懿
-yiyx	宜嗔宜喜
 yiyx	醳
 yiyy	議
 yiyy	誼
@@ -57344,7 +57346,6 @@ yiyy	膉
 yiyy	醷
 yiyy	羠
 yiyy	訑
-yiyy	又臭又硬
 yiz	遺
 yizb	移走
 yizd	迻
@@ -62255,3 +62256,9 @@ zzxn	賊心
 zzyj	賊眼
 zzzh	賊贓
 zzzi	賊子
+
+## 隨心碼
+# （本質上是無理碼）
+vuq	豬		#來自簡化字寫法 猪
+yiyw	議		#取末尾的「我」
+yiyq	誼		#取末尾的「且」
