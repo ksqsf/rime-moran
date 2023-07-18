@@ -35446,9 +35446,10 @@ use_preset_vocabulary: false
 #----------
 
 # 補充漏字
-㨃	dv;fx	10000
-𬌗	he;yh	10000
-𰻞	bd;zx	10000
+𬌗	he;yh	500
+𰻞	bd;zx	0
+䖋	nt;hr	0
+㞎	ba;ub	0
 
 # 其他
 の	ono
