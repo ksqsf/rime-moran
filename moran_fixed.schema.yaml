@@ -3,7 +3,7 @@ schema:
   name: 魔然·字詞
   version: "0.1"
   author:
-    - 發明人：周志農
+    - 自然碼發明人：周志農
     - 方案製作：ksqsf
   description: |
     四碼唯一自動上屏、五碼頂屏的碼表式輸入方式。
@@ -20,14 +20,11 @@ switches:
   - name: ascii_punct
     states: [ 。，, ．， ]
   - name: emoji
-    reset: 1
+    reset: 0
     states: [ 🈚, 🈶 ]
   - name: unicode_comment
     reset: 0
     states: [ U開, U關 ]
-  - name: dzing
-    reset: 0
-    states: [ 通, 寍 ]
 
 engine:
   processors:
@@ -55,6 +52,9 @@ engine:
     - table_translator@zkci
   filters:
     - simplifier
+    - simplifier@emoji
+    - lua_filter@*moran_unicode_display_filter
+    - lua_filter@*moran_charset_comment_filter
     - uniquifier
 
 speller:
@@ -110,6 +110,11 @@ zkci:           # 造詞
   tips: 〔造詞〕
   initial_quality: 10
 
+emoji:
+  opencc_config: emoji.json
+  option_name: emoji
+  tips: all
+
 reverse_lookup:
   dictionary: moran.main
   tips: 〔通配〕
@@ -120,20 +125,17 @@ recognizer:
     reverse_lookup: "(^(`[a-z`]+))|(^([a-z]{2}(`[a-z`]?|[a-z`]`)))"
     zkci: "^[a-z]*'[a-z']*$"
 
-
 punctuator:
   import_preset: symbols
 
 key_binder:
   import_preset: default
   bindings:
-    - {when: has_menu, accept: "Control+s", toggle: simplification}
-    - {when: has_menu, accept: "Control+u", toggle: unicode_comment}
+    - {when: composing, accept: "Control+s", toggle: simplification}
+    - {when: composing, accept: "Control+u", toggle: unicode_comment}
     - {when: has_menu, accept: "Control+b", toggle: emoji}  # b 表示 表情, 让出 Ctrl+e
-    - {when: has_menu, accept: "Control+d", toggle: dzing}
     - {when: has_menu, accept: semicolon, send: "2"}
-    - {when: has_menu, accept: "Tab", send: "Control+Right"}
-    - {when: composing, accept: "Tab", send: "Control+Right"}
+    - {when: has_menu, accept: apostrophe, send: "3"}
 
 __patch:
   - moran_fixed.custom:/patch?
