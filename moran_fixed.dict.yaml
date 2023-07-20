@@ -515,7 +515,6 @@ aok	嗷
 aokb	拗口
 aokb	拗口
 aom	驁
-aom	眑
 aoma	鼇
 aomc	奧妙
 aomf	澳門
@@ -523,6 +522,7 @@ aomi	奧祕
 aomj	傲慢
 aon	媼
 aonk	懊惱
+aoo	眑
 aoq	獒
 aoqi	傲氣
 aor	傲
@@ -2557,7 +2557,6 @@ blzu	布朗族
 bm	邊
 bmb	貶
 bmbb	不明不白
-bmbf	窆
 bmbi	閉門不出
 bmbk	編報
 bmbl	不明白
@@ -2755,6 +2754,7 @@ bmx	忭
 bmxb	惼
 bmxc	變小
 bmxd	變相
+bmxf	窆
 bmxi	寶馬香車
 bmxm	變現
 bmxn	變心
@@ -5343,8 +5343,6 @@ cqxl	猜拳行令
 cqyv	藏巧於拙
 cqzh	擦槍走火
 cr	攢
-crb	竄
-crb	窾
 crbp	從容不迫
 crdk	竄到
 crdo	篡奪
@@ -5375,6 +5373,7 @@ crvw	翠繞珠圍
 crwz	篡位
 crx	竄
 crxi	燦若星辰
+crxk	窾
 cry	襸
 cryd	從容應對
 crz	躥
@@ -5423,7 +5422,6 @@ cslt	從略
 cslv	蔥綠
 csm	驄
 csmc	樅
-csmc	瞛
 csmh	匆忙
 csmj	才思敏捷
 csmn	聰敏
@@ -5431,6 +5429,7 @@ csmy	聰明
 csmy	聰明
 csmz	從沒
 cso	暰
+csoc	瞛
 csqm	從前
 csqy	從輕
 csrs	從容
@@ -5584,7 +5583,6 @@ cv	催
 cvb	瘁
 cvbi	催逼
 cvbj	催辦
-cvbm	竁
 cvbx	此長彼消
 cvc	萃
 cvcj	摧殘
@@ -5644,6 +5642,7 @@ cvwz	翠微
 cvx	悴
 cvxc	慛
 cvxd	脆響
+cvxm	竁
 cvy	翠
 cvyf	草長鶯飛
 cvyl	從中漁利
@@ -6165,7 +6164,6 @@ dbzx	貂不足，狗尾續
 dc	掉
 dca	弔
 dca	弔
-dcb	窵
 dcb	瘹
 dcbi	凋敝
 dcbk	掉包
@@ -6231,13 +6229,14 @@ dclp	打錯了算盤
 dcly	凋零
 dclz	掉淚
 dcm	盄
-dcm	瞗
 dcmf	調門
 dcmj	刁蠻
 dcmk	掉毛
 dcmn	刁民
 dcn	鵰
 dcnj	刁難
+dcno	瞗
+dco	瞗
 dcp	彫
 dcpi	貂皮
 dcpl	調派
@@ -6278,6 +6277,7 @@ dcw	琱
 dcwh	凋亡
 dcwj	刁頑
 dcwv	到此爲止
+dcx	窵
 dcxc	吊銷
 dcxd	雕像
 dcxm	掉線
@@ -6890,7 +6890,6 @@ dimk	地貌
 dimm	地面
 dimu	馰
 dimy	地名
-dimy	眱
 dimz	弟妹
 din	嫡
 dind	牴
@@ -6898,6 +6897,7 @@ dind	娣
 dind	鸐
 ding	低能
 dio	睇
+dioy	眱
 dip	氐
 dipi	地皮
 dipi	地痞
@@ -7625,7 +7625,6 @@ dmbk	電報
 dmbl	獨木不成林
 dmbm	大門不出二門不邁
 dmbo	顛簸
-dmbv	窴
 dmbv	痁
 dmby	點兵
 dmbz	墊背
@@ -7790,6 +7789,7 @@ dmxm	電線
 dmxn	電信
 dmxp	電訊
 dmxt	點穴
+dmxv	窴
 dmxw	殿下
 dmxy	典型
 dmy	電
@@ -8897,13 +8897,13 @@ dxmb	槢
 dxmk	大熊貓
 dxmm	刀削麪
 dxmm	楪
-dxmu	眣
 dxmv	道消魔長
 dxn	鴩
 dxnb	東西南北
 dxnd	爹孃
 dxnu	倒行逆施
 dxo	昳
+dxou	眣
 dxou	胅
 dxp	牒
 dxpm	碟片
@@ -9322,7 +9322,6 @@ eemg	噩夢
 eemg	噩夢
 eemk	鵝毛
 eemo	惡魔
-eemw	睋
 eemy	惡名
 eemz	峨眉
 een	鵝
@@ -9335,6 +9334,8 @@ eenm	惡念
 eenn	厄爾尼諾
 eeno	婀娜
 eenw	娥
+eeo	睋
+eeow	睋
 eepc	餓殍
 eepy	惡評
 eepy	惡評
@@ -10092,7 +10093,6 @@ fflu	分錄
 fflx	分裂
 fflz	分類
 ffm	粉
-ffm	瞓
 ffmb	黂
 ffmb	橨
 ffmc	分秒
@@ -10109,6 +10109,7 @@ ffnf	粉嫩
 ffnf	妢
 ffnu	憤怒
 ffnz	分內
+ffo	瞓
 ffob	膹
 ffpi	分批
 ffpl	分派
@@ -10299,7 +10300,6 @@ fgly	浮光掠影
 fglz	風雷
 fglz	鳳骨龍姿
 fgm	楓
-fgm	盽
 fgmd	麷
 fgmf	封門
 fgmh	鋒芒
@@ -10314,6 +10314,7 @@ fgn	犎
 fgnc	蜂鳥
 fgnc	發國難財
 fgnf	妦
+fgo	盽
 fgpi	封皮
 fgpj	封盤
 fgpz	奉陪
@@ -10529,7 +10530,6 @@ fhqr	放權
 fhqu	防區
 fhqy	放晴
 fhr	仿
-fhr	彷
 fhrf	放任
 fhrf	倣
 fhrl	風和日麗
@@ -10579,6 +10579,7 @@ fhwu	房屋
 fhww	瓬
 fhwz	方位
 fhwz	防僞
+fhx	彷
 fhxc	仿效
 fhxd	方向
 fhxm	防線
@@ -13402,7 +13403,6 @@ golv	過濾
 gom	槨
 gomf	國門
 gomg	粿
-gomg	矌
 gomn	國民
 gomn	過敏
 gomu	過目
@@ -13412,6 +13412,7 @@ gonm	過年
 gons	果農
 gonz	國內
 goo	膕
+goog	矌
 gopi	果皮
 gopj	果盤
 gopn	果品
@@ -13515,9 +13516,10 @@ gpkl	滾開
 gplo	滾落
 gplp	滾輪
 gpm	棍
-gpml	睔
 gpmu	滾木
 gpmz	高朋滿座
+gpo	睔
+gpol	睔
 gppy	滾屏
 gpre	滾熱
 gps	緄
@@ -13658,13 +13660,14 @@ grmi	官迷
 grmo	觀摩
 grmu	灌木
 grmu	盥
-grmv	矔
 grmy	冠名
 grmz	官媒
 grn	鸛
 grng	官能
 grni	管你
 grnm	觀念
+gro	矔
+grov	矔
 grqd	官腔
 grqw	關卡
 grqx	關切
@@ -15796,7 +15799,6 @@ hjmf	寒門
 hjmg	閈
 hjmg	馯
 hjmh	梒
-hjmh	睅
 hjmh	駻
 hjmi	胡攪蠻纏
 hjmk	汗毛
@@ -15806,6 +15808,7 @@ hjng	鳱
 hjnm	好幾年
 hjo	旱
 hjoh	暵
+hjoh	睅
 hjoj	肣
 hjq	犴
 hjqi	寒氣
@@ -16406,9 +16409,7 @@ holp	貨輪
 holr	霍亂
 hols	火龍
 holu	活路
-hom	眓
 homc	火苗
-homh	矐
 homl	活埋
 homm	豁免
 homu	騞
@@ -16416,6 +16417,8 @@ homy	活命
 hon	姡
 honc	火鳥
 hoo	臛
+hooh	矐
+hoow	眓
 hopf	火盆
 hopi	獲批
 hopk	火炮
@@ -16548,13 +16551,14 @@ hpli	婚禮
 hplm	婚戀
 hplr	混亂
 hpm	閽
-hpmh	睧
 hpmi	昏迷
 hpmm	海平面
-hpmm	睯
-hpmy	眃
 hpn	婚
 hpo	昏
+hpoh	睧
+hpom	睯
+hpow	睯
+hpoy	眃
 hppl	混排
 hppn	混拼
 hppo	魂魄
@@ -16739,13 +16743,13 @@ hrm	桓
 hrmh	闤
 hrmj	緩慢
 hrmv	驩
-hrmw	睆
 hrmx	幻滅
 hrn	嬛
 hrnd	鴅
 hrnj	患難
 hrnz	好人難做
 hro	肒
+hrow	睆
 hrpo	緩坡
 hrq	歡
 hrqb	犿
@@ -18284,7 +18288,6 @@ icyk	喫錯藥
 icyl	喫錯藥了
 icyw	長此以往
 id	牀
-idb	窗
 idb	瘡
 idba	瘡疤
 idbj	創辦
@@ -18362,6 +18365,7 @@ idvq	沉得住氣
 idvx	赤膽忠心
 idwl	窗外
 idwz	牀位
+idx	窗
 idxc	愴
 idxc	喫得消
 idxn	創新
@@ -18534,7 +18538,6 @@ iflj	棽
 iflm	晨練
 iflp	沉淪
 iflx	陳列
-ifm	瞋
 ifmc	梣
 ifmf	沉悶
 ifmi	沉迷
@@ -18551,6 +18554,7 @@ ifnu	嗔怒
 ifny	嘲風弄月
 ifo	晨
 ifop	肜
+ifov	瞋
 ifpi	陳皮
 ifpk	晨跑
 ifpl	乘風破浪
@@ -18617,7 +18621,6 @@ ig	成
 iga	承
 iga	丞
 igau	氶
-igb	竀
 igba	稱霸
 igbf	成本
 igbf	成本
@@ -18787,6 +18790,7 @@ igx	懲
 igxc	成效
 igxd	城鄉
 igxi	城西
+igxj	竀
 igxm	呈現
 igxn	誠信
 igxn	誠心
@@ -19109,7 +19113,6 @@ iimi	癡迷
 iiml	初出茅廬
 iiml	樆
 iiml	麶
-iiml	瞝
 iimm	纏纏綿綿
 iimn	柅
 iimu	遲暮
@@ -19127,6 +19130,7 @@ iinn	吵吵鬧鬧
 iint	插翅難逃
 iinu	鶗
 iio	眙
+iiol	瞝
 iiov	胵
 iioy	胣
 iip	彳
@@ -19369,7 +19373,6 @@ ijzs	禪宗
 ijzu	纏足
 ijzv	饞嘴
 ik	超
-ikb	窲
 ikba	超拔
 ikbc	超標
 ikbf	抄本
@@ -19489,6 +19492,7 @@ ikxc	嘲笑
 ikxd	朝向
 ikxf	敞開心扉
 ikxi	抄襲
+ikxl	窲
 ikxm	朝鮮
 ikxp	潮汛
 ikxt	巢穴
@@ -20617,7 +20621,6 @@ jcb	皎
 jcba	侷促不安
 jcbb	皛
 jcbf	腳本
-jcbg	窖
 jcbj	攪拌
 jcbj	皦
 jcbj	皭
@@ -20859,7 +20862,7 @@ jcwu	教務
 jcwu	交惡
 jcwx	教
 jcwz	較爲
-jcx	徼
+jcx	窖
 jcxc	較小
 jcxd	交響
 jcxh	結草銜環
@@ -20873,6 +20876,7 @@ jcxq	憍
 jcxr	腳癬
 jcxt	教學
 jcxw	腳下
+jcxw	徼
 jcxx	繳械
 jcxy	僥倖
 jcxy	憢
@@ -21514,7 +21518,6 @@ jimo	寂寞
 jimq	櫅
 jimu	繼母
 jimu	檕
-jimu	瞉
 jimx	寂滅
 jimy	幾名
 jin	及
@@ -21625,6 +21628,7 @@ jiuj	禨
 jiuj	磼
 jiuk	極少
 jiuk	毄
+jiuo	瞉
 jiuu	技術
 jiuv	積水
 jiuv	屐
@@ -22790,9 +22794,7 @@ jrlm	眷戀
 jrlw	節日禮物
 jrlx	寄人籬下
 jrm	棬
-jrmj	睠
 jrmk	捲毛
-jrmy	睊
 jrn	娟
 jrnc	倦鳥
 jrnj	婘
@@ -22801,7 +22803,9 @@ jro	眷
 jrog	臇
 jroj	脧
 jroj	腃
+jroj	睠
 jroj	朘
+jroo	睊
 jrpu	堅如磐石
 jrpy	酒肉朋友
 jrq	狷
@@ -22865,7 +22869,7 @@ jrzs	卷宗
 jrzx	吉人自有天相
 jrzz	矯揉造作
 js	囧
-jsb	窘
+jsb	鼏
 jsbd	鼏
 jsbj	見死不救
 jsbr	己所不欲，勿施於人
@@ -22907,6 +22911,7 @@ jsug	江蘇省
 jsvt	酒色之徒
 jsvy	就算這樣
 jswj	見所未見
+jsx	窘
 jsxd	窘相
 jsxu	九三學社
 jsxv	境隨心轉
@@ -24612,13 +24617,13 @@ kdle	看到了
 kdlk	凱迪拉克
 kdlr	狂亂
 kdm	框
-kdmg	矌
 kdml	礦脈
 kdn	鵟
 kdnj	礦難
 kdnt	狂虐
 kdnu	狂怒
 kdo	曠
+kdog	矌
 kdok	眶
 kdpm	誆騙
 kdqc	誇大其詞
@@ -24673,7 +24678,6 @@ keba	磕巴
 keba	痾
 kebc	課表
 kebf	課本
-kebg	窠
 kebi	可比
 kebj	刻板
 kebm	可變
@@ -24831,6 +24835,7 @@ kewz	可謂
 kex	恪
 kexc	可笑
 kexd	可想
+kexg	窠
 kexi	可惜
 kexj	悈
 kexn	可信
@@ -25085,8 +25090,8 @@ kjlr	戡亂
 kjm	檻
 kjmf	看門
 kjmg	闞
-kjmg	矙
 kjo	瞰
+kjog	矙
 kjpj	看盤
 kjpo	看破
 kjq	欿
@@ -25488,7 +25493,7 @@ kpku	困苦
 kpla	堪培拉
 kple	困了
 kplp	崑崙
-kpm	睏
+kpm	梱
 kpmk	閫
 kpmk	騉
 kpmk	梱
@@ -25498,6 +25503,7 @@ kpn	鶤
 kpnj	困難
 kpo	昆
 kpod	晜
+kpok	睏
 kppg	鯤鵬
 kpq	猑
 kpqd	崑腔
@@ -25541,7 +25547,6 @@ kquv	礦泉水
 kqvi	可取之處
 kqxv	苦其心志
 kr	寬
-krb	窾
 krbd	巋然不動
 krda	寬大
 krdl	寬帶
@@ -25579,6 +25584,7 @@ kruu	寬恕
 krvj	寬展
 krvl	寬窄
 krwz	寬慰
+krx	窾
 krxc	看人下菜
 krxd	款項
 krxh	口若懸河
@@ -25721,7 +25727,6 @@ ktyu	口頭語
 ku	哭
 kuai	酷愛
 kuao	苦熬
-kub	窟
 kubi	苦逼
 kuby	恪守不渝
 kubz	開山鼻祖
@@ -25822,9 +25827,10 @@ kuvz	開山之作
 kuwa	褲襪
 kuwp	口說無憑
 kuwz	枯萎
-kux	窋
+kux	窟
 kuxc	苦笑
 kuxf	口是心非
+kuxi	窋
 kuxm	褲線
 kuxn	苦心
 kuxq	苦修
@@ -25844,7 +25850,6 @@ kuzk	枯燥
 kuzo	枯坐
 kuzu	開山祖師
 kv	虧
-kvb	窺
 kvbf	虧本
 kvbj	看着辦
 kvbl	潰敗
@@ -25929,7 +25934,8 @@ kvv	簣
 kvw	夔
 kvwu	魁梧
 kvwz	魁偉
-kvx	愧
+kvx	窺
+kvxg	愧
 kvxg	憒
 kvxl	悝
 kvxn	虧心
@@ -26268,7 +26274,6 @@ lblv	屢敗屢戰
 lbly	利比里亞
 lblz	累不累
 lbm	樓
-lbml	瞜
 lbmm	露面
 lbmm	厲兵秣馬
 lbn	婁
@@ -26276,6 +26281,8 @@ lbnd	老闆娘
 lbnf	黎巴嫩
 lbnj	力不能及
 lbnl	鷜
+lbo	瞜
+lbol	瞜
 lbpj	樓盤
 lbpl	樓牌
 lbpo	羅布泊
@@ -26387,13 +26394,13 @@ lclo	寥落
 lclr	繚亂
 lcly	量才錄用
 lcm	料
-lcml	瞭
 lcml	樛
 lcml	橑
 lcn	鷯
 lcnl	嫽
 lcny	遼寧
-lco	膫
+lco	瞭
+lcox	膫
 lcq	獠
 lcqt	了卻
 lcr	僚
@@ -26749,11 +26756,12 @@ lglo	冷落
 lgm	楞
 lgmf	冷門
 lgml	棱
-lgml	睖
 lgmm	冷麪
 lgmo	冷漠
 lgnr	冷暖
 lgny	冷凝
+lgo	睖
+lgol	睖
 lgpi	冷僻
 lgpj	冷盤
 lgqd	冷槍
@@ -28385,7 +28393,6 @@ lrzt	令人讚歎
 lrzu	令人咋舌
 ls	龍
 lsa	尨
-lsb	窿
 lsbf	里斯本
 lsbk	盧森堡
 lsbl	老死不相往來
@@ -28480,8 +28487,8 @@ lsw	瓏
 lswb	臉色微變
 lswh	龍王
 lsws	拉斯維加斯
-lsx	衖
-lsxi	隴西
+lsx	窿
+lsxi	衖
 lsxl	徿
 lsxs	隆胸
 lsxu	兩三小時
@@ -28820,12 +28827,12 @@ lvmk	綠帽
 lvml	閭
 lvml	櫚
 lvml	氀
-lvml	瞜
 lvmq	臨陣磨槍
 lvn	鷜
 lvo	膂
 lvol	膢
 lvol	膟
+lvol	瞜
 lvpi	綠皮
 lvpj	綠盤
 lvq	氯
@@ -29734,10 +29741,10 @@ mfly	門鈴
 mflz	門類
 mfm	悶
 mfmm	門面
-mfmr	瞞
 mfmz	門楣
 mfnu	馬放南山
 mfnz	門內
+mfo	瞞
 mfpc	門票
 mfph	門旁
 mfpl	門派
@@ -30095,13 +30102,13 @@ mimm	糜
 mimm	米麪
 mims	縻
 mimw	敉
-mimw	瞴
 min	鸍
 minc	泌尿
 mini	迷你
 minw	沒齒難忘
 mio	眯
 miom	瞇
+miow	瞴
 miq	獼
 miqg	名垂千古
 miqh	明察秋毫
@@ -30202,19 +30209,19 @@ mjle	慢了
 mjli	蠻力
 mjlm	滿臉
 mjls	名繮利鎖
-mjm	瞞
 mjma	謾罵
 mjmc	曼妙
 mjmf	滿門
 mjmj	慢慢
 mjmm	滿面
-mjmm	睌
 mjmm	槾
 mjmr	樠
-mjms	矕
 mjmu	滿目
 mjn	嫚
-mjo	曼
+mjo	瞞
+mjom	睌
+mjos	矕
+mjoy	曼
 mjpk	慢跑
 mjpm	瞞騙
 mjpy	滿屏
@@ -30640,7 +30647,6 @@ mmmb	棉
 mmmb	某某某
 mmmc	喵喵喵
 mmmf	櫋
-mmmf	矏
 mmmi	綿密
 mmmk	面貌
 mmml	買買買
@@ -30650,6 +30656,7 @@ mmmu	面目
 mmn	娩
 mmnm	媔
 mmo	眠
+mmof	矏
 mmog	眄
 mmom	冕
 mmom	矊
@@ -30901,7 +30908,6 @@ momm	驀
 momm	糢
 momm	枺
 momo	默默
-momp	眽
 momx	磨滅
 momy	莫名
 mon	嬤
@@ -30912,6 +30918,7 @@ monm	嫫
 monm	妺
 monv	魔女
 moo	膜
+moop	眽
 moop	脈
 mopa	莫怕
 mopl	摸排
@@ -31550,7 +31557,6 @@ mymc	沒有免費的午餐
 mymf	名門
 myml	命脈
 mymm	明面
-mymm	眳
 mymo	名模
 mymo	摸一摸
 mymr	某月某日
@@ -31567,6 +31573,7 @@ myns	面有難色
 myo	明
 myol	暝
 myol	瞑
+myom	眳
 mypi	賣淫嫖娼
 mypl	名牌
 mypl	慢一拍
@@ -32101,8 +32108,8 @@ ndzi	娘子
 ndzk	釀造
 ne	呢
 nedq	男兒當自強
-nem	眲
 nene	訥訥
+neo	眲
 neva	哪吒
 nexj	男兒膝下有黃金
 ney	訥
@@ -32977,9 +32984,9 @@ ntdg	腦體倒掛
 ntdl	虐待
 ntfu	虐俘
 ntgm	逆天改命
-ntji	瘧疾
 nth	虐
 nthr	䖋
+ntji	瘧疾
 ntlu	那條路
 ntmm	牛頭馬面
 ntnt	鬧騰鬧騰
@@ -34171,13 +34178,13 @@ pjlu	破紀錄
 pjlx	破舊立新
 pjm	槃
 pjmb	柈
-pjmf	眅
 pjmm	盤面
-pjmx	盻
 pjmy	判明
 pjn	媻
 pjni	叛逆
 pjo	盼
+pjof	眅
+pjox	盻
 pjp	牉
 pjpa	攀爬
 pjpj	盼盼
@@ -34582,7 +34589,6 @@ pnli	聘禮
 pnlv	頻率
 pnlz	品類
 pnm	驞
-pnmb	矉
 pnmi	頻密
 pnmk	品貌
 pnmn	貧民
@@ -34590,6 +34596,7 @@ pnmy	拼命
 pnn	嬪
 pnnb	姘
 pnnb	牝
+pnob	矉
 pnpj	拼盤
 pnpl	品牌
 pnpn	頻頻
@@ -35271,7 +35278,6 @@ qbzb	齊步走
 qbzi	翹辮子
 qbzj	情不自禁
 qc	敲
-qcb	竅
 qcbi	峭壁
 qcbj	翹班
 qcbk	僑胞
@@ -35327,11 +35333,11 @@ qcmm	橇
 qcmn	僑民
 qcmp	喿
 qcmu	喬木
-qcmx	睄
 qcmz	橾
 qcn	嫶
 qcnq	犞
 qco	瞧
+qcox	睄
 qcpi	俏皮
 qcpj	翹盼
 qcpl	橋牌
@@ -35376,6 +35382,7 @@ qcvs	敲鐘
 qcvx	箾
 qcx	悄
 qcxd	敲響
+qcxj	竅
 qcxj	憔
 qcxq	愀
 qcxw	橋下
@@ -36965,7 +36972,6 @@ qrzl	前人栽樹，後人乘涼
 qrzq	跧
 qrzu	勸阻
 qs	窮
-qsb	穹
 qsbh	七死八活
 qsbn	求死不能
 qsc	藭
@@ -37007,8 +37013,9 @@ qswl	千絲萬縷
 qswp	琁
 qsww	前所未聞
 qswy	前所未有
-qsx	惸
+qsx	穹
 qsxy	輕鬆寫意
+qsxz	惸
 qsyb	窮遊
 qsyk	輕鬆愉快
 qsz	跫
@@ -37451,10 +37458,10 @@ qwxy	趣味性
 qwy	袷
 qwyu	趣聞軼事
 qwzi	卡子
-qx	且
+qx	竊
+qxa	且
 qxa	疌
 qxan	竊案
-qxb	竊
 qxbu	且不
 qxby	其心必異
 qxc	茄
@@ -39829,9 +39836,9 @@ skmc	掃描
 skmh	掃盲
 skmu	掃墓
 skmx	梢
-skmz	矂
 skn	嫂
 sko	臊
+skoz	矂
 skpy	掃平
 skqi	鬆口氣
 skqi	騷氣
@@ -40339,7 +40346,6 @@ sub	宿
 subg	撒手不管
 subh	四十不惑
 subj	四時八節
-subz	窣
 suc	蘇
 sucj	素餐
 sucl	素材
@@ -40471,6 +40477,7 @@ suxs	酥胸
 suxs	憟
 suxx	速寫
 suxy	甦醒
+suxz	窣
 suy	訴
 suya	肅
 suya	素雅
@@ -40539,7 +40546,6 @@ svkb	隨口
 svky	碎塊
 svle	碎了
 svlx	碎裂
-svm	睟
 svmo	歲末
 svms	檖
 svmu	歲暮
@@ -40548,6 +40554,7 @@ svni	隨你
 svni	隨你
 svo	睢
 svog	眭
+svoz	睟
 svpm	碎片
 svqu	三戰全勝
 svr	倠
@@ -40961,11 +40968,9 @@ tbzm	天不作美
 tbzv	偷嘴
 tc	條
 tcan	條案
-tcb	窕
 tcbj	跳板
 tcbo	挑撥
 tcbo	調撥
-tcbt	窱
 tcbv	髫
 tcbv	宨
 tcc	苕
@@ -41068,12 +41073,14 @@ tcwf	條紋
 tcwh	眺望
 tcwu	跳舞
 tcwz	調味
-tcx	恌
+tcx	窕
 tcxc	調笑
 tcxi	調戲
 tcxm	跳線
 tcxn	挑釁
 tcxr	挑選
+tcxt	窱
+tcxv	恌
 tcxx	調諧
 tcxy	條形
 tcy	調
@@ -41331,7 +41338,6 @@ thlu	土豪劣紳
 thlv	天花亂墜
 thly	挑花了眼
 thm	糖
-thmd	矘
 thmk	棠
 thmm	湯麪
 thmt	榶
@@ -41341,6 +41347,7 @@ thn	鶶
 thnh	徒呼奈何
 thnv	頭昏腦漲
 tho	膛
+thod	矘
 thod	曭
 thpf	湯盆
 thpv	通貨膨脹
@@ -41489,7 +41496,6 @@ tim	梯
 timk	體貌
 timm	體面
 timu	題目
-timu	眣
 timu	騠
 timv	鐵杵磨成針
 timy	提名
@@ -41504,6 +41510,7 @@ tini	替你
 tinu	鶗
 tinz	體內
 tio	替
+tiou	眣
 tip	虒
 tipo	體魄
 tiqd	體腔
@@ -42100,7 +42107,6 @@ tlzu	太祖
 tm	天
 tma	田
 tmaa	天啊
-tmb	窴
 tmbc	填表
 tmbd	賟
 tmbg	圖謀不軌
@@ -42188,9 +42194,7 @@ tmmk	天貓
 tmml	天矇矇亮
 tmmu	天幕
 tmmu	栝
-tmmu	睼
 tmmy	天明
-tmmy	盷
 tmmz	甜美
 tmn	鷏
 tmna	天哪
@@ -42198,6 +42202,8 @@ tmni	甜膩
 tmnm	天年
 tmnv	天女
 tmo	腆
+tmou	睼
+tmoy	盷
 tmpn	甜品
 tmpy	天平
 tmqc	天橋
@@ -42258,6 +42264,7 @@ tmxn	甜心
 tmxr	貪慕虛榮
 tmxt	忝
 tmxu	聽命行事
+tmxv	窴
 tmxw	天下
 tmxx	填寫
 tmxy	天性
@@ -44361,7 +44368,6 @@ ufmi	神祕
 ufml	深埋
 ufmn	棯
 ufmo	神魔
-ufmt	瞫
 ufmu	椹
 ufmu	籸
 ufmx	駪
@@ -44375,6 +44381,7 @@ ufnv	神女
 ufnx	姺
 ufo	腎
 ufoi	脤
+ufot	瞫
 ufot	曋
 ufou	胂
 ufou	眒
@@ -45395,12 +45402,12 @@ ujmr	世界末日
 ujms	神機妙算
 ujmu	神經末梢
 ujmu	騸
-ujmy	睒
 ujn	姍
 ujnd	嬗
 ujnm	十幾年
 ujo	膳
 ujod	膻
+ujoy	睒
 ujpb	生機蓬勃
 ujpo	山坡
 ujpy	閃屏
@@ -45563,10 +45570,10 @@ uklq	順口溜
 ukm	梢
 ukml	燒麥
 ukmu	杓
-ukmx	睄
 uknj	少男
 uknm	少年
 uknv	少女
+ukox	睄
 ukqi	順口氣
 ukqm	燒錢
 ukqu	捎去
@@ -45872,9 +45879,9 @@ uplu	順路
 upm	楯
 upmm	水平面
 upmn	順民
-upmx	眴
-upmy	瞚
 upo	瞬
+upox	眴
+upoy	瞚
 upqi	適配器
 upqi	順氣
 uprj	水平如鏡
@@ -47536,13 +47543,11 @@ vfly	真靈
 vflz	真累
 vfm	枕
 vfmg	真猛
-vfmg	眹
 vfmg	栚
 vfmi	縝密
 vfmi	桭
 vfmj	真慢
 vfml	診脈
-vfmp	眕
 vfmq	榛
 vfmu	裝瘋賣傻
 vfmu	椹
@@ -47556,7 +47561,9 @@ vfnj	真難
 vfnq	真牛
 vfnu	震怒
 vfo	朕
+vfog	眹
 vfop	胗
+vfop	眕
 vfpa	真怕
 vfpi	真皮
 vfpo	偵破
@@ -47749,18 +47756,18 @@ vglq	蒸餾
 vgls	蒸籠
 vglx	整列
 vgly	政令
-vgm	睜
 vgma	正碼
 vgmf	正門
 vgmh	正忙
 vgmm	正面
-vgmv	眐
 vgmy	證明
 vgnj	正南
 vgnm	整年
 vgnx	主觀能動性
 vgny	猙獰
-vgo	脀
+vgo	睜
+vgoi	脀
+vgov	眐
 vgpl	正派
 vgpn	正品
 vgq	猙
@@ -48742,7 +48749,6 @@ vlbh	珠聯璧合
 vlbj	瘵
 vlbq	宅
 vlbu	戰略部署
-vlbv	窄
 vlbx	爭論不休
 vlcl	摘菜
 vldi	宅第
@@ -48801,6 +48807,7 @@ vlvy	逐鹿中原
 vlw	齋
 vlwm	指鹿爲馬
 vlwu	債務
+vlx	窄
 vlxc	窄小
 vlxd	衆裏尋他千百度
 vlxg	朝令夕改
@@ -48995,7 +49002,6 @@ vozo	拙作
 vozz	捉賊
 vp	準
 vpa	屯
-vpb	窀
 vpbk	準保
 vpbz	準備
 vpbz	準備
@@ -49021,6 +49027,7 @@ vpuu	準數
 vpvj	迍邅
 vpx	忳
 vpxn	準信
+vpxt	窀
 vpxu	准許
 vpxu	中篇小說
 vpxy	準星
@@ -49619,10 +49626,8 @@ vumg	築夢
 vumi	欘
 vumj	注滿
 vumk	豬毛
-vumn	眝
 vums	朝生暮死
 vumu	矚目
-vumu	矚
 vumv	駐
 vumv	柱
 vumv	株
@@ -49638,6 +49643,8 @@ vung	裝神弄鬼
 vuni	鸀
 vunk	豬腦
 vunm	逐年
+vuo	矚
+vuon	眝
 vup	朱
 vupa	竹
 vupi	豬皮
@@ -50150,7 +50157,6 @@ w	爲
 wa	挖
 waa	瓦
 waak	咼
-wab	窪
 wabu	挖補
 wad	洼
 wadb	漥
@@ -50187,7 +50193,8 @@ wasl	哇塞
 wate	瓦特
 waw	韎
 wawa	娃娃
-wax	窊
+wax	窪
+waxg	窊
 waxg	窐
 way	襪
 wayg	鮭
@@ -50837,7 +50844,6 @@ wjmi	萬米
 wjmj	完滿
 wjmm	槾
 wjmn	萬民
-wjmw	睕
 wjmy	文件名
 wjmy	玩命
 wjmz	完美
@@ -50854,6 +50860,7 @@ wjow	腕
 wjow	脘
 wjow	晥
 wjow	晼
+wjow	睕
 wjpc	玩票
 wjpi	頑皮
 wjpl	玩牌
@@ -51554,7 +51561,6 @@ wumm	無眠
 wumm	騖
 wumw	梧
 wumw	杌
-wumw	瞴
 wumx	誣衊
 wumy	無名
 wumy	杅
@@ -51577,6 +51583,7 @@ wunw	牾
 wunw	鷡
 wuo	晤
 wuow	膴
+wuow	瞴
 wup	烏
 wupj	誤判
 wupm	望山跑死馬
@@ -52437,7 +52444,6 @@ xcmo	消磨
 xcmr	心慈面軟
 xcms	櫹
 xcmx	消滅
-xcmx	睄
 xcmy	小聰明
 xcmy	驍
 xcmy	效命
@@ -52451,6 +52457,7 @@ xcnm	小年
 xcnq	小妞
 xcnz	校內
 xco	晓
+xcox	睄
 xcoy	曉
 xcoy	膮
 xcp	斅
@@ -53060,8 +53067,6 @@ xibr	纖塵不染
 xibu	西部
 xibx	皙
 xibx	惜別
-xibx	窸
-xibx	穸
 xibx	瘜
 xibz	西北
 xic	蓆
@@ -53210,7 +53215,6 @@ ximu	細目
 ximx	熄滅
 ximx	栖
 ximx	樨
-ximx	盻
 ximx	闟
 ximx	騱
 ximx	榽
@@ -53240,6 +53244,7 @@ xiou	肸
 xiox	晞
 xiox	腊
 xiox	睎
+xiox	盻
 xip	夕
 xipc	戲票
 xipi	嬉皮
@@ -53359,10 +53364,12 @@ xixt	吸血
 xixu	唏噓
 xixw	西夏
 xixx	惜
+xixx	窸
 xixx	囍
 xixx	悕
 xixx	恓
 xixx	徯
+xixx	穸
 xixy	習性
 xiy	襲
 xiya	西亞
@@ -53663,7 +53670,6 @@ xmmm	閑
 xmmu	羨慕
 xmmx	毨
 xmmy	鮮明
-xmmy	盷
 xmmz	鮮美
 xmn	嫌
 xmnf	鮮嫩
@@ -53678,6 +53684,7 @@ xmoj	晛
 xmoj	睍
 xmoq	腺
 xmox	胘
+xmoy	盷
 xmpm	閒篇
 xmpp	相貌平平
 xmpz	瞎貓碰到死耗子
@@ -53978,7 +53985,6 @@ xnzo	新作
 xnzv	心醉
 xp	尋
 xpaf	嫌貧愛富
-xpb	窨
 xpbi	笑貧不笑娼
 xpbk	尋寶
 xpc	荀
@@ -54086,6 +54092,7 @@ xpxu	循序
 xpxx	徇
 xpxx	恂
 xpxy	巡幸
+xpxy	窨
 xpy	訓
 xpyb	小朋友
 xpyb	巡遊
@@ -54318,8 +54325,6 @@ xrmm	笑容滿面
 xrmn	選民
 xrmo	駽
 xrmu	炫目
-xrmw	矎
-xrmx	眴
 xrmy	楥
 xrmz	選美
 xrnk	喧鬧
@@ -54327,8 +54332,10 @@ xrnm	懸念
 xrnq	旋鈕
 xro	眩
 xrog	晅
+xrow	矎
 xrox	暄
 xrox	昡
+xrox	眴
 xrpc	選票
 xrpj	宣判
 xrpl	選派
@@ -54574,13 +54581,13 @@ xtlq	血流
 xtlu	血路
 xtly	學齡
 xtlz	血淚
-xtm	瞲
 xtml	血脈
 xtml	形同陌路
 xtmy	學名
 xtmz	學妹
 xtnc	血尿
 xtnm	學年
+xto	瞲
 xtp	血
 xtpl	學派
 xtpm	雪片
@@ -54765,7 +54772,6 @@ xulw	學術論文
 xulx	序列
 xum	栩
 xumb	蓄謀
-xumj	瞁
 xumk	矞
 xumn	小市民
 xumu	序幕
@@ -54785,6 +54791,7 @@ xunr	息事寧人
 xunx	嬃
 xuo	旭
 xuoj	昫
+xuoj	瞁
 xuok	晇
 xuop	胥
 xuov	勗
@@ -55727,7 +55734,6 @@ yaba	啞巴
 yabk	押寶
 yabm	壓扁
 yabo	鴨脖
-yabq	窫
 yac	芽
 yad	丫
 yad	涯
@@ -55845,6 +55851,7 @@ yawq	瓛
 yawy	玡
 yax	衙
 yaxm	牙線
+yaxq	窫
 yaxt	鴨血
 yaxt	鴨血
 yaxy	雅興
@@ -56351,7 +56358,6 @@ ydzu	一肚子壞水
 ye	也
 yea	頁
 yea	曳
-yeb	窫
 yeba	也罷
 yebd	痷
 yebf	引而不發
@@ -56493,6 +56499,7 @@ yewq	瓛
 yewu	業務
 yewx	言而無信
 yewz	野味
+yex	窫
 yexc	夜宵
 yexd	也想
 yexi	夜襲
@@ -57396,7 +57403,6 @@ yjbo	演播
 yjbq	玉潔冰清
 yjbu	眼部
 yjbv	一蹶不振
-yjbv	窴
 yjbx	應接不暇
 yjby	眼病
 yjbz	有幾把刷子
@@ -57723,6 +57729,7 @@ yjxr	養精蓄銳
 yjxs	英俊瀟灑
 yjxt	驗血
 yjxu	延續
+yjxv	窴
 yjxw	眼下
 yjxy	言行
 yjy	顏
@@ -57766,15 +57773,12 @@ yk	要
 yka	幺
 ykai	要隘
 ykan	要案
-ykb	窯
-ykb	窑
 ykbj	腰板
 ykbk	腰包
 ykbl	搖擺
 ykbn	瘧
 ykbu	要不
 ykbv	一客不煩二主
-ykby	窈
 ykby	宎
 ykc	藥
 ykck	藥草
@@ -57951,16 +57955,19 @@ ykwu	藥物
 ykwv	珧
 ykwx	有口無心
 ykwz	腰圍
+ykx	窯
 ykxc	藥效
 ykxd	要想
-ykxf	繇
 ykxf	徭
 ykxf	愮
+ykxf	繇
+ykxf	窑
 ykxj	窔
 ykxm	窅
 ykxv	恌
 ykxx	要挾
 ykxy	藥性
+ykxy	窈
 ykxy	怮
 ykxy	穾
 yky	謠
@@ -58209,7 +58216,6 @@ ynbi	隱蔽
 ynbk	引爆
 ynbl	銀白
 ynbn	有奶便是娘
-ynby	窨
 ynby	瘖
 ynbz	一年半載
 ync	茵
@@ -58387,7 +58393,7 @@ ynwf	引文
 ynwr	以你爲榮
 ynwz	因爲
 ynwz	因爲
-ynx	夤
+ynx	愔
 ynxc	音效
 ynxd	印象
 ynxi	因襲
@@ -58397,7 +58403,8 @@ ynxp	音訊
 ynxq	憖
 ynxx	淫邪
 ynxy	隱形
-ynxy	愔
+ynxy	夤
+ynxy	窨
 ynxy	慇
 yny	霪
 ynya	喑啞
@@ -58506,7 +58513,6 @@ ypm	馻
 ypmi	一平米
 ypmu	韻母
 ypmy	殞命
-ypmy	眃
 ypn	妘
 ypnd	醞釀
 ypnj	雲南
@@ -58516,6 +58522,7 @@ ypnq	一票難求
 ypnu	慍怒
 ypo	暈
 ypoy	昀
+ypoy	眃
 yppj	雲盤
 yppm	一片片
 yppn	韻頻
@@ -59296,7 +59303,6 @@ yuan	預案
 yub	宇
 yubb	一手包辦
 yubf	愚笨
-yubg	窳
 yubg	寙
 yubh	一時半會
 yubj	與時並進
@@ -59309,7 +59315,6 @@ yuby	寓
 yuby	瘀
 yuby	癒
 yuby	語病
-yuby	窬
 yuby	瘐
 yuby	痏
 yuby	瘉
@@ -59653,6 +59658,7 @@ yux	御
 yux	慾
 yuxd	預想
 yuxg	以身殉國
+yuxg	窳
 yuxi	預習
 yuxm	預先
 yuxq	一時興起
@@ -59669,6 +59675,7 @@ yuxy	愈
 yuxy	愚
 yuxy	藝術學院
 yuxy	愉
+yuxy	窬
 yuxy	悆
 yuy	語
 yuye	漁業
@@ -60913,7 +60920,6 @@ zilm	自戀
 zilv	自律
 zilz	子類
 zim	梓
-zimc	眥
 zimc	粢
 zimf	祖傳祕方
 zimi	字謎
@@ -60931,7 +60937,8 @@ zint	鶅
 zinv	子女
 zinz	姊
 zinz	牸
-zio	胏
+zio	眥
+zioz	胏
 zip	自
 zipf	祖傳配方
 zipl	自拍
@@ -62058,7 +62065,6 @@ zvmj	欈
 zvmo	最末
 zvmy	罪名
 zvmz	最美
-zvmz	睟
 zvng	最能
 zvnj	最難
 zvnq	最牛
@@ -62066,6 +62072,7 @@ zvnx	罪孽
 zvo	朘
 zvoj	脧
 zvoz	晬
+zvoz	睟
 zvpa	最怕
 zvpi	嘴皮
 zvqc	走着瞧
