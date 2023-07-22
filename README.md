@@ -1,5 +1,7 @@
 # 魔改自然碼 Rime 方案
 
+配方： ℞ ksqsf/rime-moran
+
 ![截圖](etc/screenshot-bql.png)
 
 個人自用魔改自然碼的 Rime 方案，簡稱「魔然」。
