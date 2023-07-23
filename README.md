@@ -77,16 +77,7 @@
 
 ## 免安裝試用方法
 
-使用 [My RIME](https://my-rime.vercel.app/) 可以在瀏覽器中部署並試用魔然方案。
-
-1. 打開 [My RIME](https://my-rime.vercel.app/)
-2. 點擊 `Micro Plum` 按鈕
-3. （默認即此，無須特別操作）選擇 Source 爲 GitHub
-4. 選擇 Mode 爲 Plum，在 Target 中輸入 `ksqsf/rime-moran`
-5. Schemas 中依次添加 `moran` （魔然）, `moran_fixed` （魔然·字詞）, `moran_sentence` （魔然·整句）
-5. 點擊 Install
-
-部署完成後，即可在文本框中使用魔然方案。
+[一鍵在瀏覽器中試用魔然方案](https://my-rime.vercel.app/?plum=ksqsf/rime-moran:moran,moran_sentence,moran_fixed)！
 
 ## 鳴謝
 
