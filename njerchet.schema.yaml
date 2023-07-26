@@ -92,15 +92,21 @@ translator:
     - xform/x/gh/
     - xform/(^|[ '])o/$1/
 
+# reverse_lookup:
+#   dictionary: luna_pinyin
+#   prefix: "`"
+#   suffix: "'"
+#   tips: 〔拼音〕
+#   preedit_format:
+#     - xform/([nl])v/$1ü/
+#     - xform/([nl])ue/$1üe/
+#     - xform/([jqxy])v/$1u/
+
 reverse_lookup:
-  dictionary: luna_pinyin
+  dictionary: moran.main
   prefix: "`"
   suffix: "'"
-  tips: 〔拼音〕
-  preedit_format:
-    - xform/([nl])v/$1ü/
-    - xform/([nl])ue/$1üe/
-    - xform/([jqxy])v/$1u/
+  tips: 〔魔然〕
 
 punctuator:
   import_preset: default
