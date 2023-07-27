@@ -6,7 +6,7 @@ patch:
     inline_candidate: false # 在文本框顯示首選項
     translucency: true      # 透明度總開關
 
-    # 浅色主题
+    # 淺色主题
     color_scheme: win11light
     # 深色主题
     color_scheme_dark: win11dark
