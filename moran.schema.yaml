@@ -120,6 +120,8 @@ english:
   initial_quality: 1
   enable_encoder: false
   encode_commit_history: false
+  comment_format:
+    - xform/.*//
 
 japanese:
   dictionary: moran_japanese
