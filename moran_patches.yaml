@@ -1,0 +1,2 @@
+fix_opencc_t2s:
+  simplifier/opencc_config: "moran_t2s_fix.json"

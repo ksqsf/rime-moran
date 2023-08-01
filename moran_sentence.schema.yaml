@@ -107,12 +107,12 @@ japanese:
   initial_quality: 1
 
 emoji:
-  opencc_config: emoji.json
+  opencc_config: moran_emoji.json
   option_name: emoji
   tips: all
 
 dzing:
-  opencc_config: dzing.json
+  opencc_config: moran_dzing.json
   option_name: dzing
   tips: all
 
@@ -145,6 +145,7 @@ recognizer:
 
 __patch:
   - moran.custom.yaml:/patch?
+  - moran_patches.yaml:/fix_opencc_t2s?
 
 grammar:
   language: zh-hant-t-essay-bgw
