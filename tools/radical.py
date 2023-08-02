@@ -2,7 +2,7 @@ from cnradical import Radical, RunOption
 radicalize = Radical(RunOption.Radical).trans_ch
 
 fix = {}
-with open('radical.txt') as f:
+with open('data/radical.txt') as f:
     for line in f:
         [zi, rad] = line.split()
         fix[zi] = rad.strip()
@@ -30,7 +30,7 @@ error_residue_chars = []
 result_radicals = {}
 result_residues = {}
 
-with open('chaizi.txt') as f:
+with open('data/chaizi.txt') as f:
     for line in f:
         line = line.strip()
         [zi, *chais] = line.split('\t')

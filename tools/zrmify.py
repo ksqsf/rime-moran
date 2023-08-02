@@ -62,6 +62,31 @@ def 韻母轉換(pinyin: str) -> str:
     else:
         raise ValueError('無效拼音韻母序列: ' + pinyin)
 
+
+################################################################################
+# 根據規則自動拆字
+def guess_fvm(ch):
+    import radical
+    from pypinyin import lazy_pinyin
+    rad = radical.radical(ch)
+    res = radical.residue(ch)
+    if not rad or not res:
+        # print(f'⚠️{ch}, rad={rad}, res={res}')
+        return None
+    def code(x):
+        if x=='扌': return 'f'
+        elif x=='彳': return 'x'
+        elif x in '日月曰目': return 'o'
+        elif x in '一丨': return 'a'
+        else: return zrmify1(lazy_pinyin(x)[0])[0]
+    import sys
+    print(f'⚠️ {zi} rad={rad} res={res[-1]}', file=sys.stderr)
+    if res[-1] == '□':
+        return None
+    else:
+        return code(rad) + code(res[-1])
+
+
 ################################################################################
 def main():
     import sys
