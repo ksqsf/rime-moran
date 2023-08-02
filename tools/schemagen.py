@@ -226,7 +226,7 @@ def handle_gen_fixed():
             if code.startswith(existing_code):
                 return
         # 逐級嘗試把當前編碼放入簡碼
-        tolerance = {1: 3, 2: 2, 3: 1}
+        tolerance = dict(zip([1,2,3], (int(s) for s in args.tolerance.split(','))))
         for i in range(1, max_len):
             if len(table[code[:i]]) < tolerance[i]:
                 table[code[:i]].append(word)
@@ -319,6 +319,7 @@ gen_fixed.add_argument('--charset', default='data/trad_chars.txt', help='常用�
 gen_fixed.add_argument('--input-dict', help='輸入txt格式詞庫', default='/Library/Input Methods/Squirrel.app/Contents/SharedSupport/essay.txt')
 gen_fixed.add_argument('--opencc-for-pinyin', help='註音時的簡繁轉換，默認轉爲簡體', default='t2s.json')
 gen_fixed.add_argument('--format', choices=['code-words', 'code-word', 'word-code', 'word-codes'], help='輸出碼表的格式', default='code-words')
+gen_fixed.add_argument('--tolerance', help='每級簡碼最多可以容納多少候選', default='1,1,1')
 
 if __name__ == '__main__':
     args = parser.parse_args()
@@ -328,6 +329,3 @@ if __name__ == '__main__':
         handle_gen_dict()
     elif args.command == 'gen-fixed':
         handle_gen_fixed()
-
-#debug
-args = parser.parse_args(['gen-chars'])
