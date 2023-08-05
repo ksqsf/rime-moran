@@ -16,7 +16,7 @@ encoder:
       formula: "AaAbBaBb"
     - length_equal: 3
       formula: "AaBaCaCb"
-    - length_equal: [4, 32]
+    - length_in_range: [4, 32]
       formula: "AaBaCaZa"
 ...
 
