@@ -24,7 +24,6 @@ patch:
   preset_color_schemes:
     mac_light:
       name: Mac浅色
-      horizontal: true             # true横排，false竖排
       candidate_format: "%c %@ "   # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间
       corner_radius: 5                             # 窗口圆角
       hilited_corner_radius: 5                     # 高亮圆角
@@ -48,7 +47,6 @@ patch:
 
     mac_dark:
       name: Mac深色
-      horizontal: true             # true横排，false竖排
       candidate_format: "%c %@ "   # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间
       corner_radius: 5                             # 窗口圆角
       hilited_corner_radius: 5                     # 高亮圆角
@@ -73,7 +71,6 @@ patch:
 
     mac_green:
       name: Mac绿
-      horizontal: true             # true横排，false竖排
       candidate_format: "%c %@ "   # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间
       corner_radius: 5                             # 窗口圆角
       hilited_corner_radius: 5                     # 高亮圆角
@@ -97,7 +94,6 @@ patch:
 
     mac_orange:
       name: Mac橙
-      horizontal: true             # true横排，false竖排
       candidate_format: "%c %@ "   # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间
       corner_radius: 5                             # 窗口圆角
       hilited_corner_radius: 5                     # 高亮圆角
@@ -122,7 +118,6 @@ patch:
 
     mac_blue:
       name: Mac浅蓝
-      horizontal: false              # true横排，false竖排
       candidate_format: "%c %@ "    # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间
       corner_radius: 5                             # 窗口圆角
       font_face: "PingFangSC"                      # 候选词字体
@@ -242,7 +237,6 @@ patch:
 
     google:
       name: 谷歌
-      horizontal: true              # true横排，false竖排
       candidate_format: "%c %@ "    # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间
       font_point: 16                           # 候选文字大小
       label_font_point: 15                     # 候选编号大小
@@ -262,7 +256,6 @@ patch:
 
     milan:
       name: 米兰
-      horizontal: false              # true横排，false竖排
       candidate_format: "%c %@ "    # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间
       font_point: 16                           # 候选文字大小
       label_font_point: 14                     # 候选编号大小
@@ -411,7 +404,6 @@ patch:
       label_font_point: 18
       corner_radius: 5
       candidate_format: "%c %@ "
-      horizontal: true
       line_spacing: 5
       hilited_candidate_text_color: 0x000000
       hilited_candidate_back_color: 0x00ffffff
