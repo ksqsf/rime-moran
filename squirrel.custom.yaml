@@ -23,62 +23,53 @@ patch:
 
   preset_color_schemes:
     mac_light:
-      name: "macOS 浅色"
-      font_face: "PingFangSC-Regular"
-      font_point: 16.0
-      label_font_face: "PingFangSC-Regular"
-      label_font_point: 12.0
-      comment_font_face: "PingFangSC-Regular"
-      comment_font_point: 14.0
-      candidate_list_layout: linear
-      text_orientation: horizontal
-      inline_preedit: true
-      corner_radius: 5.0
-      hilited_corner_radius: 5.0
-      border_height: 1.0
-      border_width: 1.0
-      line_spacing: 5.0
-      spacing: 10.0
-      color_space: display_p3
-      back_color: 0xFFFFFF
-      candidate_text_color: 0x434343
-      comment_text_color: 0x434343
-      label_color: 0x888888
-      hilited_candidate_back_color: 0xCF5925
-      hilited_candidate_text_color: 0xFFFFFF
-      hilited_comment_text_color: 0xFFFFFF
-      hilited_candidate_label_color: 0xFFFFFF
-      text_color: 0x3FFFFFFF
-      hilited_text_color: 0xD8FFFFFF
+      name: Mac浅色
+      horizontal: true             # true横排，false竖排
+      candidate_format: "%c %@ "   # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间
+      corner_radius: 5                             # 窗口圆角
+      hilited_corner_radius: 5                     # 高亮圆角
+      line_spacing: 10                             # 行间距(适用于竖排)
+      border_height: 4                             # 窗口上下高度，大于圆角半径才生效
+      border_width: 4                              # 窗口左右宽度，大于圆角半径才生效
+      font_face: "PingFangSC"                      # 候选词字体
+      font_point: 16                               # 候选字大小
+      label_font_point: 13                         # 候选编号大小
+      text_color: 0x424242                    # 拼音行文字颜色
+      back_color: 0xFFFFFF                    # 候选条背景色
+      border_color: 0xFFFFFF                  # 边框色
+      label_color: 0x999999                   # 预选栏编号颜色
+      candidate_text_color: 0x3c3c3c          # 预选项文字颜色
+      comment_text_color: 0x999999            # 拼音等提示文字颜色
+      hilited_text_color: 0x999999            # 高亮拼音 (需要开启内嵌编码)
+      hilited_back_color: 0xD75A00            # 第一候选项背景背景色
+      hilited_candidate_text_color: 0xFFFFFF  # 第一候选项文字颜色
+      hilited_candidate_label_color: 0xFFFFFF # 第一候选项编号颜色
+      hilited_comment_text_color: 0x999999    # 注解文字高亮
 
     mac_dark:
-      name: "macOS 深色"
-      font_face: "PingFangSC-Regular"
-      font_point: 16.0
-      label_font_face: "PingFangSC-Regular"
-      label_font_point: 12.0
-      comment_font_face: "PingFangSC-Regular"
-      comment_font_point: 14.0
-      candidate_list_layout: linear
-      text_orientation: horizontal
-      inline_preedit: true
-      corner_radius: 5.0
-      hilited_corner_radius: 5.0
-      border_height: 1.0
-      border_width: 1.0
-      line_spacing: 5.0
-      spacing: 10.0
-      color_space: display_p3
-      back_color: 0x151515
-      candidate_text_color: 0xBBBBBB
-      comment_text_color: 0xBBBBBB
-      label_color: 0x777777
-      hilited_candidate_back_color: 0xCF5925
-      hilited_candidate_text_color: 0xFFFFFF
-      hilited_comment_text_color: 0xFFFFFF
-      hilited_candidate_label_color: 0xFFFFFF
-      text_color: 0x3FFFFFFF
-      hilited_text_color: 0xD8FFFFFF
+      name: Mac深色
+      horizontal: true             # true横排，false竖排
+      candidate_format: "%c %@ "   # 用 1/6 em 空格 U+2005 来控制编号 %c 和候选词 %@ 前后的空间
+      corner_radius: 5                             # 窗口圆角
+      hilited_corner_radius: 5                     # 高亮圆角
+      line_spacing: 10                              # 行间距(适用于竖排)
+      border_height: 4                             # 窗口上下高度，大于圆角半径才生效
+      border_width: 4                              # 窗口左右宽度，大于圆角半径才生效
+      font_face: "PingFangSC"                      # 候选词字体
+      font_point: 16                               # 候选字大小
+      label_font_point: 13                         # 候选编号大小
+      text_color: 0x424242                    # 拼音行文字颜色
+      back_color: 0x252a2e                    # 候选条背景色
+      border_color: 0x050505                  # 边框色
+      label_color: 0x999999                   # 预选栏编号颜色
+      candidate_text_color: 0xe9e9ea          # 预选项文字颜色
+      comment_text_color: 0x999999            # 拼音等提示文字颜色
+      hilited_text_color: 0x999999            # 高亮拼音 (需要开启内嵌编码)
+      hilited_back_color: 0xD75A00            # 第一候选项背景背景色
+      hilited_candidate_text_color: 0xFFFFFF  # 第一候选项文字颜色
+      hilited_candidate_label_color: 0xFFFFFF # 第一候选项编号颜色
+      hilited_comment_text_color: 0x999999    # 注解文字高亮
+
 
     mac_green:
       name: Mac绿
