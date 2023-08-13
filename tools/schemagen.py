@@ -251,7 +251,7 @@ def handle_gen_fixed():
     for (word, pinyin, weight) in read_input_dict():
         if len(word) > 1:
             try:
-                words.append((luna_weight(word, pinyin), word, encode_fixed_word(word, pinyin)))
+                words.append((essay_weight(word), word, encode_fixed_word(word, pinyin)))
             except:
                 continue
 
