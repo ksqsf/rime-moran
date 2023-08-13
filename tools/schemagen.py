@@ -151,6 +151,8 @@ def read_input_dict():
     with open(args.input_dict, 'r') as f:
         for line in f:
             line = line.strip()
+            if line.startswith('#'):
+                continue
             try:
                 [word, pinyin, *weight] = line.split('\t')
                 if len(weight) == 0:
@@ -162,7 +164,7 @@ def read_input_dict():
                 pinyin = None
                 weight = 0
             # sanity-check pinyin
-            if pinyin[0] in '0123456789':
+            if pinyin and pinyin[0] in '0123456789':
                 pinyin = None
             table.append((word, pinyin, weight))
     return table
