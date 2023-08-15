@@ -2,7 +2,6 @@ patch:
   schema_list:
     - {schema: moran}
     - {schema: moran_fixed}
-    - {schema: moran_fixed_simp}
     - {schema: moran_sentence}
     - {schema: luna_pinyin}
     - {schema: njerchet}
