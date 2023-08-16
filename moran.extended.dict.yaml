@@ -27,6 +27,7 @@ import_tables:
   - moran.genshin
   - moran.priconne
   - moran.vtb
+  - moran.moe
 ...
 
 # 用戶自定義詞庫

@@ -109,7 +109,10 @@ def iter_char_codes(char, pinyin):
 
 
 def char_codes(char, pinyin):
-    return list(iter_char_codes(char, pinyin))
+    if 'compact' in args and args.compact:
+        return [next(iter_char_codes(char, pinyin))]
+    else:
+        return list(iter_char_codes(char, pinyin))
 
 
 def handle_gen_chars():
@@ -131,7 +134,12 @@ def word_to_pinyin(word):
     if args and args.opencc_for_pinyin:
         if not opencc_for_pinyin:
             opencc_for_pinyin = opencc.OpenCC(args.opencc_for_pinyin)
-        return ' '.join(lazy_pinyin(opencc_for_pinyin.convert(word)))
+        maybe_pinyin = ' '.join(lazy_pinyin(opencc_for_pinyin.convert(word)))
+        if all(c in " abcdefghijklmnopqrstuvwxyz" for c in maybe_pinyin):
+            return maybe_pinyin
+        else:
+            # 有時 opencc 會輸出奇怪的字，導致拼音轉換失敗；這時候不再嘗試轉換
+            return ' '.join(lazy_pinyin(word))
     else:
         return ' '.join(lazy_pinyin(word))
 
@@ -182,8 +190,12 @@ def handle_gen_dict():
 
         for code in iter_word_codes(output_word, pinyin):
             # 輔助碼與 output_word 一致, 詞頻由 word 決定
-            weight = luna_weight(word, pinyin) or essay_weight(word)
-            print(f'{output_word}\t{code}\t{weight}')
+
+            if 'no_freq' in args and args.no_freq:
+                print(f'{output_word}\t{code}')
+            else:
+                weight = luna_weight(word, pinyin) or essay_weight(word)
+                print(f'{output_word}\t{code}\t{weight}')
 
 
 ###############
@@ -315,6 +327,8 @@ gen_dict = subparsers.add_parser('gen-dict', help='生成詞庫')
 gen_dict.add_argument('--input-dict', help='輸入txt格式詞庫', required=True)
 gen_dict.add_argument('--opencc-for-pinyin', help='註音時的簡繁轉換，默認轉爲簡體', default='t2s.json')
 gen_dict.add_argument('--opencc-for-output', help='輸出時的簡繁轉換，默認不使用 opencc')
+gen_dict.add_argument('--compact', help='取消容錯碼', action='store_true', default=False)
+gen_dict.add_argument('--no-freq', help='不產生詞頻', action='store_true', default=False)
 
 gen_fixed = subparsers.add_parser('gen-fixed', help='生成簡碼碼表')
 gen_fixed.add_argument('--charset', default='data/trad_chars.txt', help='常用單字表')
