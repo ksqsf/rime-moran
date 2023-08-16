@@ -26,7 +26,7 @@
 + 分號次選
   - 字詞模式還支持引號三選
 + 自定義短語
-  - `moran.custom.txt`
+  - `moran_custom.txt`
 + 簡繁快速切換
   - Ctrl+S (S 意爲 simplified)
 + 反查

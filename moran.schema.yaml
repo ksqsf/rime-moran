@@ -106,7 +106,7 @@ fixed:         # 固頂輸入模式設置，在 top_translator 中被調用
 
 custom_phrase: # 自定義短語
   dictionary: ""
-  user_dict: moran.custom
+  user_dict: moran_custom
   db_class: stabledb
   enable_completion: false
   enable_sentence: false
