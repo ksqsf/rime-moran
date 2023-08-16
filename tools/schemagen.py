@@ -8,6 +8,7 @@ import math
 import opencc
 from pypinyin import lazy_pinyin
 from operator import *
+import regex
 
 
 double_pinyin_choices = ['zrm']
@@ -145,6 +146,8 @@ def word_to_pinyin(word):
 
 
 def iter_word_codes(word, pinyin=None):
+    # filter out special symbols
+    word = ''.join(regex.findall(r'\p{Han}', word))
     if not pinyin:
         pinyin = word_to_pinyin(word)
     yield from (' '.join(tuple) for tuple in product(*[char_codes(c, p) for (c, p) in zip(word, pinyin.split())]))
@@ -168,12 +171,14 @@ def read_input_dict():
                 else:
                     weight = int(weight[0])
             except:
+                print(line)
                 [word] = line.split('\t')
                 pinyin = None
                 weight = 0
-            # sanity-check pinyin
+            # support format <word> \t <weight> where there is no pinyin
             if pinyin and pinyin[0] in '0123456789':
                 pinyin = None
+                weight = int(pinyin)
             table.append((word, pinyin, weight))
     return table
 
