@@ -17,7 +17,6 @@ schema:
 
 switches:
   - name: ascii_mode
-    reset: 0
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
@@ -25,6 +24,12 @@ switches:
     states: [ 漢字, 汉字 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
+  - options: [ utf8, gbk, big5 ]
+    reset: 1
+    states:
+    - UTF-8
+    - GBK
+    - BIG5
   - name: flexible
     states: [ 固詞, 動詞 ] # 「固詞」表示「固頂詞」
     reset: 1
@@ -32,10 +37,8 @@ switches:
     reset: 1
     states: [ 🈚, 🈶 ]
   - name: unicode_comment
-    reset: 0
-    states: [ U開, U關 ]
+    states: [ U關, U開 ]
   - name: dzing
-    reset: 0
     states: [ 通, 寍 ]
 
 engine:
@@ -66,6 +69,8 @@ engine:
     - lua_translator@*moran_shijian        # 日期orq 節氣ojq 星期oxq 時間osj
     - lua_translator@*moran_number         # 數字轉大寫
   filters:
+    - charset_filter@gbk
+    - charset_filter@big5
     - simplifier@emoji
     - simplifier
     - simplifier@dzing
@@ -80,8 +85,8 @@ speller:
     - derive/^(\w*);(\w)(\w)$/$1$2$3o/ # 全碼 YYXXo
     - abbrev/^(\w*);(\w)(\w)$/$1$2$3/  # 全碼 YYXX，優先級更低
     - abbrev/^(\w*);(\w)(\w)$/$1$2/    # 構詞可以用 YYX
-    - abbev/^(\w*);(\w)(\w)$/$1/      # 構詞可以用 YY
-    #- abbrev/^([a-z]).+$/$1/           # 首字母簡拼（※ 嚴重影響出字速度，在簡詞完善後可能關閉）
+    - abbrev/^(\w*);(\w)(\w)$/$1/      # 構詞可以用 YY
+    #- abbrev/^([a-z]).+$/$1/           # 首字母簡拼（※ 嚴重影響出字速度，不建議開啓）
 
 ascii_composer:
   switch_key:
