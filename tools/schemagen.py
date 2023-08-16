@@ -189,12 +189,12 @@ def handle_gen_dict():
             output_word = opencc_for_output.convert(word)
 
         for code in iter_word_codes(output_word, pinyin):
-            # 輔助碼與 output_word 一致, 詞頻由 word 決定
-
             if 'no_freq' in args and args.no_freq:
                 print(f'{output_word}\t{code}')
             else:
+                # 輔助碼與 output_word 一致, 詞頻由 word 決定
                 weight = luna_weight(word, pinyin) or essay_weight(word)
+                weight = int(weight * float(args.freq_scale))
                 print(f'{output_word}\t{code}\t{weight}')
 
 
@@ -329,6 +329,7 @@ gen_dict.add_argument('--opencc-for-pinyin', help='註音時的簡繁轉換，�
 gen_dict.add_argument('--opencc-for-output', help='輸出時的簡繁轉換，默認不使用 opencc')
 gen_dict.add_argument('--compact', help='取消容錯碼', action='store_true', default=False)
 gen_dict.add_argument('--no-freq', help='不產生詞頻', action='store_true', default=False)
+gen_dict.add_argument('--freq-scale', help='詞頻縮放倍數', default=1.0)
 
 gen_fixed = subparsers.add_parser('gen-fixed', help='生成簡碼碼表')
 gen_fixed.add_argument('--charset', default='data/trad_chars.txt', help='常用單字表')
