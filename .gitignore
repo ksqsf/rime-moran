@@ -8,3 +8,7 @@ input.txt
 output.txt
 moran_fixed.txt
 moran_fixed_simp.txt
+njerchet.*
+zrm6.*
+make_dist.sh
+dist/
