@@ -81,9 +81,9 @@ ascii_composer:
   switch_key:
     Shift_L: commit_code
 
-translator:    # 整句輸入模式設置，在 top_translator 中被調用
+translator:
   dictionary: moran.extended
-  prism: moran
+  prism: moran.extended
   initial_quality: 0
 
 custom_phrase: # 自定義短語
