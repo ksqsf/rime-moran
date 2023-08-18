@@ -1,0 +1,49 @@
+#+TITLE: 一些想法
+
+* 1 可以把單字的編碼改成 拼音;輔助碼，然後通過拼運實現雙拼，從而實現一個詞庫（一種輔助碼）對應多種雙拼方案。
+
+* 2 注意到輔助碼只與漢字本身有關。假設 Rime 可以在部署時自動查詢單字的輔助碼，那詞庫與拼音詞庫完全一致了。
+
+* 3 詞語的出簡讓全需要考慮輸入歷史。
+
+設第 1 輪輸入 he wu qi，輸出：
+
+1. 核武器
+2. 盒武器
+
+第 2 輪輸入 hem wu qi，目前輸出不變，但實際上用戶大概率想要的是：
+
+1. 盒武器
+2. 核武器
+
+
+初步想法：
+
+#+begin_src haskell
+  type Input     = String
+  type Candidate = String
+  type FirstCand = Candidate
+  type History   = [ ( Input, FirstCand ) ]
+
+  historyInputs     :: History -> [ Input ]
+  historyFirstCands :: History -> [ FirstCand ]
+
+  filterCurrentResults :: History -> Input -> [Candidate] -> [Candidate]
+  filterCurrentResults history curInput curCands
+    -- The current first candidate is new.
+    | (head curCands) `notElem` (historyFirstCands history) = curCands
+
+    -- Now we know the current first candidate is not new.  But if the
+    -- current input is not an extension of some last inputs, we can't
+    -- demote any candidates.
+    | not (any (isTruePrefixOf curInput) (historyInputs history)) = curCands
+
+    -- Now we know the current first candidate is not new, and the user
+    -- has input some prefix before.  We can demote the current first
+    -- candidate.
+    | otherwise =
+        let curFirst : curSecond : rest = curCands
+        in curSecond : curFirst : rest
+#+end_src
+
+(代碼有 bug。)
