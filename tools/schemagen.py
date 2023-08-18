@@ -3,6 +3,7 @@ import argparse
 from collections import *
 from itertools import *
 import zrmify
+import flypyify
 import pandas
 import math
 import opencc
@@ -11,8 +12,8 @@ from operator import *
 import regex
 
 
-double_pinyin_choices = ['zrm']
-assistive_code_choices = ['zrm']
+double_pinyin_choices = ['zrm', 'flypy']
+assistive_code_choices = ['zrm', 'hanxin']
 
 args = None
 assistive_table = defaultdict(list)
@@ -44,6 +45,8 @@ def to_double_pinyin(pinyin):
     match args.double_pinyin:
         case 'zrm':
             return zrmify.zrmify(pinyin)
+        case 'flypy':
+            return flypyify.flypyify(pinyin)
     raise ValueError('Unknown double pinyin ' + args.double_pinyin)
 
 
@@ -53,6 +56,8 @@ def to_assistive_codes(char):
         match args.assistive_code:
             case 'zrm':
                 assistive_table = read_txt_table('data/zrmdb.txt')
+            case 'hanxin':
+                assistive_table = read_txt_table('data/hanxindb.txt')
             case _:
                 raise ValueError('Unknown assistive code ' + args.assistive_code)
     return assistive_table[char]
