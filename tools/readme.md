@@ -6,6 +6,9 @@
 # 單字碼表
 python3 schemagen.py --essay-txt data/essay-zh-hans.txt gen-chars | grep -v '??'
 
+# 詞語碼表
+python3 schemagen.py --essay-txt data/essay-zh-hans.txt gen-dict
+
 # 簡碼碼表
 python3 schemagen.py --essay-txt data/essay-zh-hans.txt gen-fixed --format code-word  --charset data/simp_chars.txt  --input-dict data/simp_words.txt 
 ```

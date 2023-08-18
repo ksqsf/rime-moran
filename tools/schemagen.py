@@ -104,9 +104,12 @@ def luna_weight(char, pinyin, default=0):
 
 
 def iter_char_codes(char, pinyin):
-    double_pinyin = to_double_pinyin(pinyin)
-    assistive_codes = to_assistive_codes(char) or [args.assistive_code_fallback]
-    yield from (double_pinyin + ';' + ac for ac in assistive_codes)
+    try:
+        double_pinyin = to_double_pinyin(pinyin)
+        assistive_codes = to_assistive_codes(char) or [args.assistive_code_fallback]
+        yield from (double_pinyin + ';' + ac for ac in assistive_codes)
+    except:
+        yield from iter([])
 
 
 def char_codes(char, pinyin):
@@ -177,8 +180,8 @@ def read_input_dict():
                 weight = 0
             # support format <word> \t <weight> where there is no pinyin
             if pinyin and pinyin[0] in '0123456789':
-                pinyin = None
                 weight = int(pinyin)
+                pinyin = None
             table.append((word, pinyin, weight))
     return table
 
