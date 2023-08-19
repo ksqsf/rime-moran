@@ -12,7 +12,7 @@ schema:
     - moran_sentence
     - moran_reverse
     - moran_english
-    - moran_japanese
+    #- moran_japanese # 日語混輸
     - stroke
     - tiger
     - cangjie5
@@ -109,7 +109,7 @@ translator:    # 整句輸入模式設置，在 top_translator 中被調用
     - xform/([a-z][a-z][a-z][a-z])o/$1°/
 
 fixed:         # 固頂輸入模式設置，在 top_translator 中被調用
-  initial_quality: 10
+  initial_quality: 100
   dictionary: moran_fixed
   enable_completion: false
   enable_sentence: false
@@ -123,7 +123,7 @@ custom_phrase: # 自定義短語
   db_class: stabledb
   enable_completion: false
   enable_sentence: false
-  initial_quality: 15
+  initial_quality: 1000
 
 english:
   dictionary: moran_english
