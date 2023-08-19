@@ -29,9 +29,10 @@
   - `moran_custom.txt`
 + 簡繁快速切換
   - Ctrl+S (S 意爲 simplified)
-+ 反查
++ 五重反查
   - `` ` `` 爲萬能通配鍵
   - 虎碼反查用 `` ` `` 引導
+  - 五筆畫 `obh` 、倉頡五代 `ocj` 、兩分 `olf`
 + 繪文字（Emoji）支持
   - 用 Ctrl+E 開關
 + Unicode 編碼和區位顯示

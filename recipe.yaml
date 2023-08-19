@@ -9,4 +9,5 @@ install_files: >-
   moran*.yaml
   lua/*
   tiger*.yaml
+  zrlf*
   opencc/*
