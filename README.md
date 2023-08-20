@@ -19,7 +19,9 @@
 - [說明書](https://github.com/ksqsf/rime-moran/wiki)
 - [常見問題](https://github.com/ksqsf/rime-moran/wiki/%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C)
 
-![演示](./etc/screenshot-bql.png)
+| 簡快碼                              | 整句輔助                                 |
+|-------------------------------------|------------------------------------------|
+| ![簡快碼](./etc/screenshot-bql.png) | ![整句輔助碼](./etc/screenshot-poem.png) |
 
 ## 鳴謝
 
@@ -29,4 +31,4 @@
 + 皮膚：[ssnhd/Rime](https://github.com/ssnhd/rime/)、[KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian/)、秃版虎码方案和零星收集等
 + 其他詞庫：在詞庫文件中標出
 
-本方案的製作還得到了铁圈、䑝曻、蹄墊的幫助，在此表示感謝。
+本方案的製作還得到了铁圈、䑝曻、蹄垫的幫助，在此表示感謝。
