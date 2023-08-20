@@ -1,6 +1,6 @@
-# english.dict.yaml
 # Rime dictionary
 # encoding: utf-8
+# license: public domain
 #
 # 使用 Moby Words (http://icon.shef.ac.uk/Moby/mwords.html) 里的词典常用词语，删除了 [^a-zA-Z] 的词语，最后剩下 56000 个词语
 

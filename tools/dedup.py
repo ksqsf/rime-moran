@@ -1,3 +1,6 @@
+# Author: ksqsf
+# Released into the Public Domain
+
 """
 列出所有我不用的容错码
 """

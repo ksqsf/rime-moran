@@ -1,5 +1,6 @@
 # Rime dictionary
 # encoding: utf-8
+# license: CC-BY-SA 4.0+
 
 # 〔測試用〕三字詞組使用 aabc 格式編碼的詞庫，原爲 abcc 格式編碼。
 # 例如，「開發者」原kfve -> 現klfv。

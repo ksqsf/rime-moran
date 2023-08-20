@@ -1,10 +1,13 @@
 # Rime dictionary
 # encoding: utf-8
+# license: Public Domain
+# 本詞典釋出到公共域。
 
 # This dictionary is generated from the following command:
 #   curl https://vdb.vtbs.moe/json/list.json | jq -r '.vtbs[].name.cn' | grep -v null | opencc -c s2t.json | python3 tools/remove_invalid_chars.py
 #
 # The result is sorted by Emacs M-x sort-lines.
+
 
 ---
 name: moran.vtb

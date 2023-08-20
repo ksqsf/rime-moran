@@ -1,3 +1,8 @@
+# radical.py -- 部首和部首餘部信息
+#
+# Copyright (c) 2023  ksqsf
+# License: LGPLv3
+
 from cnradical import Radical, RunOption
 radicalize = Radical(RunOption.Radical).trans_ch
 

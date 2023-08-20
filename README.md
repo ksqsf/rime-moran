@@ -1,95 +1,31 @@
-# 魔改自然碼 Rime 方案
+[English](README-en.md)
 
-配方： ℞ ksqsf/rime-moran
+<h1 align="center">魔改自然碼 Rime 方案</h1>
 
-![截圖](etc/screenshot-bql.png)
+<p align="center">
+<a href="https://github.com/ksqsf/rime-moran/issues"><img src="https://img.shields.io/badge/%E6%AD%A1%E8%BF%8E-%E5%8F%83%E8%88%87%E8%B2%A2%E7%8D%BB-1dd3b0?style=for-the-badge&logo=github"/></a>
+<a href="https://my-rime.vercel.app/?plum=ksqsf/rime-moran:moran,moran_sentence,moran_fixed"><img src="https://img.shields.io/badge/MyRIME-線上試用-1dd3b0?style=for-the-badge&logo=github"/></a>
+</p>
 
-個人自用魔改自然碼的 Rime 方案，簡稱「魔然」。
+授權協議：方案主體依 [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/) 協議發佈，除非對應文件中另有說明。
 
-⚠️ 方案目前已達到「適合日常使用」的狀態，但仍有一定量的瑕疵、需要長期的優化。歡迎[試用](#免安裝試用方法)並參與建設！
+---
 
-👥 **QQ 交流羣：906230260**
+配方： ℞ ksqsf/rime-moran ([線上試用](https://my-rime.vercel.app/?plum=ksqsf/rime-moran:moran,moran_sentence,moran_fixed))
 
-本方案的主要特徵：
+本項目爲基於自然碼（雙拼和輔助碼）的傳承字優先的 Rime 方案，簡稱「魔然」。具有三種模式、五重反查、四萬字、四十萬詞庫和多種快捷輸入功能。
 
-+ 基於自然碼雙拼和輔碼
-+ 收 **4 萬** 簡繁漢字，優先支持傳承字（繁體字）
-+ 支持三種輸入模式，用戶可依自己的愛好和心情隨意選用
-  - 主模式（魔然）：固頂字詞 + 整句輔助，輕鬆寫意、高效精準，適合作爲主方案使用
-  - 整句模式（魔然·整句）：無固頂字詞，適合新手和輕度輔碼用戶使用
-  - 字詞模式（魔然·字詞）：完全固定的碼表輸入模式，適合少部分追求速度、精準度的高級用戶使用
-+ 重新設計固頂簡碼與簡詞
-+ 預置 **42 萬** 大詞庫
+- [說明書](https://github.com/ksqsf/rime-moran/wiki)
+- [常見問題](https://github.com/ksqsf/rime-moran/wiki/%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C)
 
-其他自定義功能：
-
-+ 分號次選
-  - 字詞模式還支持引號三選
-+ 自定義短語
-  - `moran_custom.txt`
-+ 簡繁快速切換
-  - Ctrl+S (S 意爲 simplified)
-+ 五重反查
-  - `` ` `` 爲萬能通配鍵
-  - 虎碼反查用 `` ` `` 引導
-  - 五筆畫 `obh` 、倉頡五代 `ocj` 、兩分 `olf`
-+ 繪文字（Emoji）支持
-  - 用 Ctrl+E 開關
-+ Unicode 編碼和區位顯示
-  - 用 Ctrl+U 開關
-+ 時間快速查詢與輸入
-  - 日期 orq
-  - 星期 oxq
-  - 節氣 ojq
-  - 週數 ow
-+ 大寫數字/金額轉換
-  - 用 `S` 引導，如輸入 `S123`
-+ 日語和英語詞庫（默認禁用）
-
-## 輔助碼輸入方式修改
-
-設一個字的音碼爲 YY，輔碼爲 XX，則該字可以使用以下方式輸入：
-
-- Y     只輸入聲母
-- YY    不輸入輔碼
-- YYX   只輸入第一個輔碼
-- YYXXo 全碼
-- YYXX  全碼，但優先級低於同碼的詞語
-
-增加 o 主要是爲了避讓字詞重碼，如版本 bjbf != 半 bjbfo。注：固頂詞庫中仍然可能有四碼單字。
-
-詞語輔助碼的輸入方式與原版自然碼不同（這也是爲什麼這個方案叫做「魔改自然碼」）。原版自然碼中，所有輔碼均在詞語輸入完畢後給出。例如：
-
-| 他們   | 她們   | 它們   |
-|--------|--------|--------|
-| ta'mfr | ta'mfn | ta'mfb |
-
-注意到輔助碼與輔助的字其實是分離的，r n b 並不作用在「們」這個字上。魔然中字和它的輔助碼不會分開，也就是：
-
-| 他們   | 她們   | 它們   |
-|--------|--------|--------|
-| tar'mf | tan'mf | tab'mf |
-
-魔然方案依賴於 Rime 根據詞庫切分輸入消歧義。這種設計的優勢在於用戶可以在打詞的過程中也加強對單字編碼的條件反射，從而提高未來的單字輸入能力和組詞能力。相比之下，傳統的自然碼詞輔方案只能加強這個詞本身的編碼的條反。
-
-實際體驗表明這種方式造成的干擾不多，是可行的輸入方案，並且比純音碼輸入方式更舒適。但是 Rime 僅對三碼切分支持較好（每個字最多只有一個輔助碼），如果一個字需要輸入兩個輔助碼，就必須手動使用 `'` 切分輸入，否則會被 Rime 切分成兩個音節。
-
-## 注意事項
-
-由于雙拼輔碼的特殊性，Rime 在首次部署時會耗費大量時間和內存，這是正常現象。請在部署時保證設備上空閒內存多于 3 GB。
-
-## 免安裝試用方法
-
-[一鍵在瀏覽器中試用魔然方案](https://my-rime.vercel.app/?plum=ksqsf/rime-moran:moran,moran_sentence,moran_fixed)！
+![演示](./etc/screenshot-bql.png)
 
 ## 鳴謝
 
-+ 自然碼原始碼表來自 [rime-zrm](https://github.com/bigshans/rime-zrm)
-+ 部分功能設計得到[小鶴音形](https://flypy.com)的啓發
-+ Lua 腳本和繪文字來自 [秃版虎碼 Rime 方案](https://tiger-code.com/)
-+ 皮膚收集自 [ssnhd/Rime](https://github.com/ssnhd/rime/)、[KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian/) 和秃版虎码方案
-+ [清華大學開放中文詞庫](http://thuocl.thunlp.org/)
++ Rime 項目所發佈的高品質輸入法程序和詞庫
++ 自然碼原始碼表：[rime-zrm](https://github.com/bigshans/rime-zrm)
++ 部分 Lua 腳本：[秃版虎碼 Rime 方案](https://tiger-code.com/)
++ 皮膚：[ssnhd/Rime](https://github.com/ssnhd/rime/)、[KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian/)、秃版虎码方案和零星收集等
++ 其他詞庫：在詞庫文件中標出
 
-大部分詞庫收集自其他 Rime 方案，出處均在相應詞典文件頭標出。
-
-本方案的製作得到了铁圈、䑝曻、la sfuki'e的幫助，在此表示感謝。
+本方案的製作還得到了铁圈、䑝曻、蹄墊的幫助，在此表示感謝。

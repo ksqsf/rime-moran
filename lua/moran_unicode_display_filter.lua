@@ -1,4 +1,4 @@
--- Modified by ksqsf for Moran
+-- Modified by ksqsf for Project Moran
 
 --[[
 说明:

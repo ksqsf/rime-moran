@@ -1,4 +1,14 @@
 #!/usr/bin/env python3
+
+# schemagen.py -- 雙拼+輔助碼 Rime 方案生成工具
+#
+# Copyright (c) 2023 ksqsf
+#
+# License: GPLv3, with the exception that the copyright of any
+# generated output belongs to the user. (所生成碼表本身的著作權歸生成
+# 者所有.)
+#
+
 import argparse
 from collections import *
 from itertools import *

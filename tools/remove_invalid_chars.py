@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Author: ksqsf
+# Released into the Public Domain
 
 import sys
 import re

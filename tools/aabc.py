@@ -1,3 +1,6 @@
+# Author: ksqsf
+# Released into the Public Domain
+
 import regex
 import os
 import pypinyin

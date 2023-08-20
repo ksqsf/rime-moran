@@ -1,10 +1,7 @@
 --[[
 Source:http://98wb.ysepan.com/
 Modified by 惜洛
---]]
-
---[[
-   ... then it is modified by ksqsf for moran
+Modified by ksqsf for Project Moran
 --]]
 
 local function splitNumPart(str)

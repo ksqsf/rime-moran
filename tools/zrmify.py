@@ -1,5 +1,10 @@
 #/usr/bin/env python3
 
+# zrmify.py -- 把拼音（字符串）轉換成自然碼雙拼（字符串）
+#
+# Copyright (c) 2023  ksqsf
+# License: MIT License
+
 '''
 把拼音（字符串）轉換成自然碼雙拼（字符串）。
 '''

@@ -1,4 +1,4 @@
--- NOTE: slightly modified for moran
+-- Modified by ksqsf for Project Moran
 
 ------------------------------------
 ------wirting by 98wubi Group-------

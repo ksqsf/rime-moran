@@ -3,6 +3,7 @@
 # 資料來源：https://github.com/HCLonely/pcr-dict
 # 使用 OpenCC 繁體化。
 # ⚠ 該詞庫中有一些詞不能自動編碼，在編譯過程中會報錯。
+# 依原許可協議（MIT license）再發行
 
 ---
 name: moran.priconne

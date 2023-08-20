@@ -2,6 +2,7 @@
 # coding: utf-8
 # 原神詞庫 from https://github.com/xunkong/GenshinWords
 # 刪除了詞中的特殊符號
+# 依原許可協議（GPL-3.0）再發行
 
 ---
 name: moran.genshin
