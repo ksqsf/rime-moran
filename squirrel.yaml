@@ -1,7 +1,8 @@
 # Squirrel settings
 # encoding: utf-8
 
-config_version: '0.37'
+# 要比共享目錄同名文件版本號更大方可生效
+config_version: '2023-08-23'
 
 # options: last | default | _custom_
 # last: the last used latin keyboard layout
