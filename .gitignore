@@ -13,3 +13,4 @@ zrm6.*
 make_dist.sh
 dist/
 default.custom.yaml
+*.custom.*

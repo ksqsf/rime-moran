@@ -139,5 +139,6 @@ key_binder:
     - {when: has_menu, accept: apostrophe, send: "3"}
 
 __patch:
-  - moran_fixed.custom.yaml:/patch?
+  - moran_fixed.defaults.yaml:/patch?
   - moran_patches.yaml:/fix_opencc_t2s?
+  - moran_fixed.custom.yaml:/patch?

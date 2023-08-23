@@ -4,14 +4,19 @@
 config_version: '0.40'
 
 schema_list:
+  - schema: moran
+  - schema: moran_fixed
+  - schema: moran_sentence
   - schema: luna_pinyin
-  - schema: luna_pinyin_simp
-  - schema: luna_pinyin_fluency
-  - schema: bopomofo
-  - schema: bopomofo_tw
-  - schema: cangjie5
-  - schema: stroke
-  - schema: terra_pinyin
+  - schema: tiger
+  # - schema: luna_pinyin
+  # - schema: luna_pinyin_simp
+  # - schema: luna_pinyin_fluency
+  # - schema: bopomofo
+  # - schema: bopomofo_tw
+  # - schema: cangjie5
+  # - schema: stroke
+  # - schema: terra_pinyin
 
 switcher:
   caption: 〔方案選單〕

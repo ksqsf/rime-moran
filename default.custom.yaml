@@ -1,7 +1,0 @@
-patch:
-  schema_list:
-    - {schema: moran}
-    - {schema: moran_fixed}
-    - {schema: moran_sentence}
-    - {schema: luna_pinyin}
-    - {schema: tiger}

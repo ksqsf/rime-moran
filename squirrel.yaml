@@ -1,0 +1,4 @@
+__patch:
+  - squirrel.moran.yaml:/patch?
+  - squirrel.custom.yaml:/patch?
+
