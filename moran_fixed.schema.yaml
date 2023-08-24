@@ -52,8 +52,6 @@ engine:
   filters:
     - simplifier
     - simplifier@emoji
-    - lua_filter@*moran_unicode_display_filter
-    - lua_filter@*moran_charset_comment_filter
     - uniquifier
 
 speller:
