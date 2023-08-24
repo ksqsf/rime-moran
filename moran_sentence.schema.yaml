@@ -35,9 +35,9 @@ switches:
 
 engine:
   processors:
+    - key_binder
     - ascii_composer
     - recognizer
-    - key_binder
     - speller
     - punctuator
     - lua_processor@*moran_launcher     # 輸入 omorj 或 ogrwh 後回車打開魔然官網
@@ -136,6 +136,33 @@ key_binder:
     - {when: has_menu, accept: semicolon, send: "2"}
     - {when: has_menu, accept: "Tab", send: "Control+Right"}
     - {when: composing, accept: "Tab", send: "Control+Right"}
+    - {when: has_menu, accept: Shift+A, send_sequence: "{Control+Left}a{Control+Right}"}
+    - {when: has_menu, accept: Shift+B, send_sequence: "{Control+Left}b{Control+Right}"}
+    - {when: has_menu, accept: Shift+C, send_sequence: "{Control+Left}c{Control+Right}"}
+    - {when: has_menu, accept: Shift+D, send_sequence: "{Control+Left}d{Control+Right}"}
+    - {when: has_menu, accept: Shift+E, send_sequence: "{Control+Left}e{Control+Right}"}
+    - {when: has_menu, accept: Shift+F, send_sequence: "{Control+Left}f{Control+Right}"}
+    - {when: has_menu, accept: Shift+G, send_sequence: "{Control+Left}g{Control+Right}"}
+    - {when: has_menu, accept: Shift+H, send_sequence: "{Control+Left}h{Control+Right}"}
+    - {when: has_menu, accept: Shift+I, send_sequence: "{Control+Left}i{Control+Right}"}
+    - {when: has_menu, accept: Shift+J, send_sequence: "{Control+Left}j{Control+Right}"}
+    - {when: has_menu, accept: Shift+K, send_sequence: "{Control+Left}k{Control+Right}"}
+    - {when: has_menu, accept: Shift+L, send_sequence: "{Control+Left}l{Control+Right}"}
+    - {when: has_menu, accept: Shift+M, send_sequence: "{Control+Left}m{Control+Right}"}
+    - {when: has_menu, accept: Shift+N, send_sequence: "{Control+Left}n{Control+Right}"}
+    - {when: has_menu, accept: Shift+O, send_sequence: "{Control+Left}o{Control+Right}"}
+    - {when: has_menu, accept: Shift+P, send_sequence: "{Control+Left}p{Control+Right}"}
+    - {when: has_menu, accept: Shift+Q, send_sequence: "{Control+Left}q{Control+Right}"}
+    - {when: has_menu, accept: Shift+R, send_sequence: "{Control+Left}r{Control+Right}"}
+    - {when: has_menu, accept: Shift+S, send_sequence: "{Control+Left}s{Control+Right}"}
+    - {when: has_menu, accept: Shift+T, send_sequence: "{Control+Left}t{Control+Right}"}
+    - {when: has_menu, accept: Shift+U, send_sequence: "{Control+Left}u{Control+Right}"}
+    - {when: has_menu, accept: Shift+V, send_sequence: "{Control+Left}v{Control+Right}"}
+    - {when: has_menu, accept: Shift+W, send_sequence: "{Control+Left}w{Control+Right}"}
+    - {when: has_menu, accept: Shift+X, send_sequence: "{Control+Left}x{Control+Right}"}
+    - {when: has_menu, accept: Shift+Y, send_sequence: "{Control+Left}y{Control+Right}"}
+    - {when: has_menu, accept: Shift+Z, send_sequence: "{Control+Left}z{Control+Right}"}
+    - {when: has_menu, accept: Shift+BackSpace, send_sequence: "{Control+Left}{BackSpace}{Control+Right}"}
 
 recognizer:
   import_preset: default
@@ -144,8 +171,9 @@ recognizer:
     punct: '^/([0-9]0?|[A-Za-z]+)$'
 
 __patch:
-  - moran.custom.yaml:/patch?
+  - moran.defaults.yaml:/patch?
   - moran_patches.yaml:/fix_opencc_t2s?
+  - moran_sentence.custom.yaml:/patch?
 
 grammar:
   language: zh-hant-t-essay-bgw
