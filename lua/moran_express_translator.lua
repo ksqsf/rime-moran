@@ -40,22 +40,24 @@ function top.func(input, seg, env)
       local fixed_res = env.fixed:query(input, seg)
       -- 如果輸入長度爲 4，只輸出 2 字詞。
       -- 僅在 not flexible （固詞模式）時才產生這些輸出。
-      if (input_len == 4) then
-         if (not flexible) then
-            for cand in fixed_res:iter() do
-               local cand_len = utf8.len(cand.text)
-               if (cand_len == 2) then
-                  cand.comment = "⚡️"
-                  yield(cand)
-                  fixed_triggered = true
+      if fixed_res ~= nil then
+         if (input_len == 4) then
+            if (not flexible) then
+               for cand in fixed_res:iter() do
+                  local cand_len = utf8.len(cand.text)
+                  if (cand_len == 2) then
+                     cand.comment = "⚡️"
+                     yield(cand)
+                     fixed_triggered = true
+                  end
                end
             end
-         end
-      else
-         for cand in fixed_res:iter() do
-            cand.comment = "⚡️"
-            yield(cand)
-            fixed_triggered = true
+         else
+            for cand in fixed_res:iter() do
+               cand.comment = "⚡️"
+               yield(cand)
+               fixed_triggered = true
+            end
          end
       end
    end
