@@ -13,7 +13,7 @@
 
 ---
 name: moran.touhou
-version: "1"
+version: "20230830"
 sort: by_weight
 use_preset_vocabulary: false
 ...

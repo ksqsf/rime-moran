@@ -5,7 +5,7 @@
 schema:
   schema_id: zrlf
   name: 自然兩分
-  version: "5.0+1"
+  version: "20230830+5.0"
   author:
     - TianHeng <2417647441@qq.com>
     - ksqsf

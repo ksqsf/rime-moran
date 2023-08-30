@@ -1,13 +1,9 @@
 # Rime schema
-# vim: set sw=2 sts=2 et:
-# encoding: utf-8
 
 schema:
-  schema_id: moran_japanese  # renamed to avoid name collisions
+  schema_id: moran_japanese
   name: 勿用·工具方案
-  version: "1.0"
-  author:
-    - TianHeng <2417647441@qq.com>
+  version: "20230830"
 
 switches:
   - name: ascii_mode
@@ -53,12 +49,6 @@ translator:
     - 'xlit|q|ー|'
   preedit_format:
     - 'xlit|q|ー|'
-
-# reverse_lookup:
-#   dictionary: liangfen
-#   enable_completion: true
-#   prefix: "`"
-#   tips: 〔LiangFen〕
 
 punctuator:
   import_preset: default

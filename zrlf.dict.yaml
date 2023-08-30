@@ -1,11 +1,12 @@
 # Rime dictionary
 # encoding: utf-8
 
+# 本詞庫將原詞庫拼音轉換爲自然碼雙拼。
 # 轉換過程中殘留了有歧義的碼（以 !!! 標記）
 
 ---
 name: "zrlf"
-version: "0.1"
+version: "20230830+5.0"
 sort: original
 use_preset_vocabulary: false
 ...
