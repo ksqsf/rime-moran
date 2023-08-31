@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20230830"
+version: "20230901"
 sort: original
 columns:
   - code
@@ -17187,10 +17187,10 @@ hvcj	會餐
 hvcl	回踩
 hvcs	薉
 hvcv	薈萃
-hvd	潰
 hvda	回答
 hvdc	回調
 hvdc	毀掉
+hvdg	潰
 hvdh	迴盪
 hvdh	澮
 hvdh	洄
@@ -17257,6 +17257,7 @@ hvik	回潮
 hvip	回春
 hvir	回傳
 hvis	蛔蟲
+hvj	彙
 hvjc	匯繳
 hvji	彙集
 hvjl	呼之即來
@@ -62006,3 +62007,4 @@ yiyq	誼		#取末尾的「且」
 zou	左		#取上部
 ybu	右		#取上部
 xup	須		#取左
+hvd	匯		#來自異體字「滙」
