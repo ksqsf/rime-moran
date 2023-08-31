@@ -90,7 +90,7 @@ custom_phrase: # 自定義短語
   db_class: stabledb
   enable_completion: false
   enable_sentence: false
-  initial_quality: 10
+  initial_quality: 500000
 
 zkci:           # 造詞
   tag: zkci
