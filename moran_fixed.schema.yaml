@@ -82,6 +82,7 @@ fixed:
   enable_completion: false
   enable_user_dict: true
   enable_encoder: true
+  encode_commit_history: false
   initial_quality: 1000
 
 custom_phrase: # 自定義短語
