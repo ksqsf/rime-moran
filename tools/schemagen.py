@@ -189,7 +189,6 @@ def read_input_dict():
                 else:
                     weight = int(weight[0])
             except:
-                print(line)
                 [word] = line.split('\t')
                 pinyin = None
                 weight = 0
@@ -241,7 +240,10 @@ def encode_fixed_word(word, pinyin=None):
     if len(word) == 2:
         return ''.join(double_pinyin)
     elif len(word) == 3:
-        return double_pinyin[0][0] + double_pinyin[1][0] + double_pinyin[2]
+        if args.aabc:
+            return double_pinyin[0] + double_pinyin[1][0] + double_pinyin[2][0]
+        else:
+            return double_pinyin[0][0] + double_pinyin[1][0] + double_pinyin[2]
     else:
         return double_pinyin[0][0] + double_pinyin[1][0] + double_pinyin[-2][0] + double_pinyin[-1][0]
 
@@ -360,6 +362,7 @@ gen_fixed.add_argument('--input-dict', help='輸入txt格式詞庫', default='/L
 gen_fixed.add_argument('--opencc-for-pinyin', help='註音時的簡繁轉換，默認轉爲簡體', default='t2s.json')
 gen_fixed.add_argument('--format', choices=['code-words', 'code-word', 'word-code', 'word-codes'], help='輸出碼表的格式', default='code-words')
 gen_fixed.add_argument('--tolerance', help='每級簡碼最多可以容納多少候選', default='1,1,1')
+gen_fixed.add_argument('--aabc', action='store_true', default=False, help='三碼字使用 AABC 方式編碼')
 
 if __name__ == '__main__':
     args = parser.parse_args()
