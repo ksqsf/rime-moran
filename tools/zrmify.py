@@ -12,7 +12,10 @@
 def zrmify(pinyin: str) -> str:
     '''將空白分隔的拼音序列轉換爲等價的自然碼雙拼，結果以空格分隔。'''
     pinyins = pinyin.split()
-    return ' '.join(map(zrmify1, pinyins))
+    try:
+        return ' '.join(map(zrmify1, pinyins))
+    except:
+        raise ValueError('Cannot zrmify pinyin %s' % pinyin)
 
 def zrmify1(pinyin: str) -> str:
     '''將一個有效的拼音序列轉換爲等價的自然碼雙拼。'''

@@ -5,11 +5,13 @@
 # Copyright (c) 2023 ksqsf
 #
 # License: GPLv3, with the exception that the copyright of any
-# generated output belongs to the user. (所生成碼表本身的著作權歸生成
-# 者所有.)
+# generated output belongs to the user. (所生成碼表本身的著作權歸本程
+# 序的使用者所有.)
 #
 
+import sys
 import argparse
+import traceback
 from collections import *
 from itertools import *
 import zrmify
@@ -27,9 +29,7 @@ assistive_code_choices = ['zrm', 'hanxin']
 
 args = None
 assistive_table = defaultdict(list)
-essay_table = defaultdict(int)
-luna_table = OrderedDict()
-luna_pinyin_table = defaultdict(list)
+pinyin_table = defaultdict(lambda: defaultdict(int))
 charset = []
 
 ##################
@@ -73,49 +73,24 @@ def to_assistive_codes(char):
     return assistive_table[char]
 
 
-def essay_weight(char, default=0):
-    if not essay_table:
-        with open(args.essay_txt, 'r') as f:
-            for line in f:
-                [char, freq, *_] = line.strip().split()
-                freq = int(freq)
-                essay_table[char] = freq
-    return essay_table.get(char, default)
-
-
-def initialize_luna_table():
-    with open(args.luna_pinyin_dict, 'r') as f:
-        # skip over "..."
+def initialize_pinyin_table():
+    global pinyin_table
+    with open(args.pinyin_table, 'r') as f:
         for line in f:
-            if line.strip() == '...':
-                break
-        # iterate over the luna pinyin dict
-        for line in f:
-            line = line.strip()
-            try:
-                [word, pinyin, *percentage_str] = line.split('\t')
-            except:
-                continue
-            if len(word) > 1:
-                continue
-
-            if len(percentage_str) == 0:
-                percentage = 1.0
-            elif percentage_str[0] in ['0', '0%']:
-                percentage = 0.0
-            else:
-                assert percentage_str[0][-1] == '%'
-                percentage = float(percentage_str[0][:-1]) / 100.0
-
-            weight = math.ceil(essay_weight(word) * percentage)
-            luna_table[(word, pinyin)] = weight
-            luna_pinyin_table[word].append(pinyin)
+            [word, pinyin, freq] = line.strip().split('\t')
+            if not pinyin:
+                pinyin = word_to_pinyin(word)
+            pinyin_table[word][pinyin] = int(freq)
 
 
-def luna_weight(char, pinyin, default=0):
-    if not luna_table:
-        initialize_luna_table()
-    return luna_table.get((char, pinyin), default)
+
+def pinyin_weight(word, py=None):
+    global pinyin_table
+    if len(pinyin_table) == 0:
+        initialize_pinyin_table()
+    if not py:
+        py = word_to_pinyin(word)
+    return pinyin_table[word][py]
 
 
 def iter_char_codes(char, pinyin):
@@ -135,13 +110,16 @@ def char_codes(char, pinyin):
 
 
 def handle_gen_chars():
-    initialize_luna_table()
-    for ((char, pinyin), weight) in luna_table.items():
-        try:
-            for code in iter_char_codes(char, pinyin):
-                print(f'{char}\t{code}\t{weight}')
-        except Exception as e:
-            print(f'# {char} {pinyin} {str(e)}')
+    initialize_pinyin_table()
+    for (char, weight_table) in pinyin_table.items():
+        if len(char) > 1:
+            continue
+        for (pinyin, weight) in weight_table.items():
+            try:
+                for code in iter_char_codes(char, pinyin):
+                    print(f'{char}\t{code}\t{weight}')
+            except Exception as e:
+                print(f'# {char} {pinyin} {str(e)}')
 
 
 ##################
@@ -215,9 +193,10 @@ def handle_gen_dict():
                 print(f'{output_word}\t{code}')
             else:
                 # 輔助碼與 output_word 一致, 詞頻由 word 決定
-                weight = luna_weight(word, pinyin) or essay_weight(word)
+                weight = pinyin_weight(word, pinyin)
                 weight = int(weight * float(args.freq_scale))
                 print(f'{output_word}\t{code}\t{weight}')
+
 
 
 ###############
@@ -250,7 +229,7 @@ def encode_fixed_word(word, pinyin=None):
 
 def handle_gen_fixed():
     initialize_charset()
-    initialize_luna_table()
+    initialize_pinyin_table()
 
     table = defaultdict(list)
     encoded = defaultdict(list)
@@ -277,27 +256,25 @@ def handle_gen_fixed():
     # 放入單字
     words = []
     for c in charset:
-        for py in luna_pinyin_table[c]:
+        for py in pinyin_table[c].keys():
             for ac in to_assistive_codes(c):
                 try:
-                    w = luna_weight(c, py)
-                    if not w:
-                        w = essay_weight(c)
+                    w = pinyin_weight(c, py)
                     words.append((w, c, to_double_pinyin(py)+ac))
                 except:
-                    continue
+                    traceback.print_exc()
 
     # 再放入詞語
     for (word, pinyin, weight) in read_input_dict():
         if len(word) > 1:
             try:
-                words.append((essay_weight(word), word, encode_fixed_word(word, pinyin)))
+                words.append((pinyin_weight(word, pinyin), word, encode_fixed_word(word, pinyin)))
             except:
-                continue
+                traceback.print_exc()
 
     # 降序將所有字詞放入碼表
     words.sort(key=itemgetter(0), reverse=True)
-    for (_, word, code) in words:
+    for (w, word, code) in words:
         put_into_dict(word, code)
 
     # 輸出碼表
@@ -341,8 +318,7 @@ parser = argparse.ArgumentParser(
     description='Moran-like Rime schema+dictionary generator',
     epilog='This tool has Super Cow Powers'
 )
-parser.add_argument('--essay-txt', default='/Library/Input Methods/Squirrel.app/Contents/SharedSupport/essay.txt', help='essay.txt 路徑')
-parser.add_argument('--luna-pinyin-dict', default='/Library/Input Methods/Squirrel.app/Contents/SharedSupport/luna_pinyin.dict.yaml', help='luna_pinyin.dict.yaml 路徑')
+parser.add_argument('--pinyin-table', default='data/pinyin.txt', help='拼音表')
 parser.add_argument('--double-pinyin', choices=double_pinyin_choices, help='雙拼方案', default='zrm')
 parser.add_argument('--assistive-code', choices=assistive_code_choices, help='輔助碼方案', default='zrm')
 parser.add_argument('--assistive-code-fallback', help='若無輔助碼則使用該fallback', default='??')
@@ -375,3 +351,4 @@ if __name__ == '__main__':
         handle_gen_dict()
     elif args.command == 'gen-fixed':
         handle_gen_fixed()
+

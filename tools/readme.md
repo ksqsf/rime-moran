@@ -4,11 +4,11 @@
 
 ```
 # 單字碼表
-python3 schemagen.py --essay-txt data/essay-zh-hans.txt gen-chars | grep -v '??'
+python3 schemagen.py --pinyin-table data/pinyin_simp.txt gen-chars | grep -v '??'
 
 # 詞語碼表
-python3 schemagen.py --essay-txt data/essay-zh-hans.txt gen-dict
+python3 schemagen.py --pinyin-table data/pinyin_simp.txt gen-dict --input-dict data/simp_words.txt
 
 # 簡碼碼表
-python3 schemagen.py --essay-txt data/essay-zh-hans.txt gen-fixed --format code-word  --charset data/simp_chars.txt  --input-dict data/simp_words.txt 
+python3 schemagen.py --pinyin-table data/pinyin_simp.txt gen-fixed --format code-word  --charset data/simp_chars.txt  --input-dict data/simp_words.txt 
 ```
