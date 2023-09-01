@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 # 要比共享目錄同名文件版本號更大方可生效
-config_version: '2023-08-23'
+config_version: '2023-09-01'
 
 # options: last | default | _custom_
 # last: the last used latin keyboard layout
@@ -22,9 +22,9 @@ style:
   translucency: true      # 透明度總開關
 
   # 淺色主题
-  color_scheme: win11light
+  color_scheme: ayaya_day
   # 深色主题
-  color_scheme_dark: win11dark
+  color_scheme_dark: ayaya_night
 
   # 默認界面設置 (會被具體主題覆寫)
   font_point: 16
@@ -867,6 +867,62 @@ preset_color_schemes:
     name: Win11Light
     shadow_color: 0x00000000
     text_color: 0x1a1a1a
+
+
+  ayaya_day:
+    name: "文文·晝／Ayaya Day"
+    author: "Lufs X <i@isteed.cc>"
+    alpha: 0.95
+    horizontal: true
+    inline_preedit: true
+    candidate_format: "%c\u2005%@"
+    corner_radius: 5
+    border_height: 0
+    border_width: 0
+    font_face: "LXGWWenKai-Regular,PingFangSC"
+    font_point: 16.5
+    label_font_face: "LXGWWenKai-Regular,PingFangSC"
+    label_font_point: 12
+    color_space: display_p3
+    back_color: 0xFFFFFF
+    border_color: 0xECE4FC
+    candidate_text_color: 0x121212
+    comment_text_color: 0x8E8E8E
+    hilited_candidate_back_color: 0xECE4FC
+    hilited_candidate_label_color: 0xB18FF4
+    hilited_candidate_text_color: 0x7A40EC
+    label_color: 0x888785
+    text_color: 0x8100EB
+
+  ayaya_night:
+    name: "文文·夜／Ayaya Night"
+    author: "ksqsf <i@ksqsf.moe>"
+    alpha: 0.95
+    horizontal: true
+    inline_preedit: true
+    candidate_format: "%c\u2005%@"
+    corner_radius: 5
+    border_height: 0
+    border_width: 0
+    font_face: "LXGWWenKai-Regular,PingFangSC"
+    font_point: 16.5
+    label_font_face: "LXGWWenKai-Regular,PingFangSC"
+    label_font_point: 12
+    color_space: display_p3
+    back_color: 0x1E1E1E
+    border_color: 0xFF303030
+    candidate_text_color: 0xAAA6F0
+    comment_text_color: 0xAAA6F0
+    hilited_back_color: 0xAAA6F0
+    hilited_candidate_back_color: 0xA996F1
+    hilited_candidate_text_color: 0x1E1E1E
+    hilited_comment_text_color: 0x1E1E1E
+    hilited_label_color: 0x1E1E1E
+    hilited_mark_color: 0xF9F9F9
+    hilited_text_color: 0xFFFFFF
+    label_color: 0xAAA6F0
+    text_color: 0xFFFFFF
+
 
 
 app_options:
