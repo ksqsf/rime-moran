@@ -1,11 +1,9 @@
 schema:
   author:
     - {}
-  dependencies:
-    - pinyin_simp
   description: |
     虎码官方单字
-    敲 ` 鍵進入拼音反查    
+    敲 ` 鍵進入拼音反查
   name: "虎码官方单字"
   schema_id: tiger
   version: 0.9
@@ -21,7 +19,7 @@ switches:
 #  - name: ascii_punct
 #    states: [ 。，, ．， ]
   - options: [ gbk, gb2312, utf8 ]
-    states:	 
+    states:
     - GBK
     - GB2312
     - UTF-8
@@ -30,7 +28,7 @@ switches:
 
   - options: [ _keyboard_default, _keyboard_defaultzj]
     states: [ "助记关", "助记开"]
-    
+
 engine:
   processors:
     - ascii_composer
@@ -77,11 +75,7 @@ translator:
   enable_completion: false
 
 reverse_lookup:
-  dictionary: pinyin_simp
-  preedit_format:
-    - "xform/([nl])v/$1ü/"
-    - "xform/([nl])ue/$1üe/"
-    - "xform/([jqxy])v/$1u/"
+  dictionary: moran.extended
   prefix: "`"
   suffix: "'"
   tips: "〔拼音〕"
@@ -112,7 +106,3 @@ ascii_composer:
 
 #menu:
 #  page_size: 3
-
-
-
-
