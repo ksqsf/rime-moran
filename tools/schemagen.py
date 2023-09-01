@@ -280,7 +280,10 @@ def handle_gen_fixed():
         for py in luna_pinyin_table[c]:
             for ac in to_assistive_codes(c):
                 try:
-                    words.append((luna_weight(c, py), c, to_double_pinyin(py)+ac))
+                    w = luna_weight(c, py)
+                    if not w:
+                        w = essay_weight(c)
+                    words.append((w, c, to_double_pinyin(py)+ac))
                 except:
                     continue
 
