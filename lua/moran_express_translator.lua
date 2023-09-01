@@ -1,10 +1,12 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023 ksqsf
 --
--- Ver: 0.3.0
+-- Ver: 0.3.1
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.3.1: 允許自定義簡快碼提示符。
 --
 -- 0.3.0: 增加單字輸出的出簡讓全。
 --
@@ -25,6 +27,7 @@ function top.init(env)
    env.fixed = Component.Translator(env.engine, "", "table_translator@fixed")
    env.smart = Component.Translator(env.engine, "", "script_translator@translator")
    env.rfixed = ReverseLookup('moran_fixed')
+   env.quick_code_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator") or "⚡️"
 end
 
 function top.fini(env)
@@ -34,6 +37,7 @@ function top.func(input, seg, env)
    local input_len = utf8.len(input)
    local fixed_triggered = false
    local flexible = env.engine.context:get_option("flexible")
+   local indicator = env.quick_code_indicator or "⚡️"
 
    -- 用戶尚未選過字時，調用碼表。
    if (env.engine.context.input == input) then
@@ -46,7 +50,7 @@ function top.func(input, seg, env)
                for cand in fixed_res:iter() do
                   local cand_len = utf8.len(cand.text)
                   if (cand_len == 2) then
-                     cand.comment = "⚡️"
+                     cand.comment = indicator
                      yield(cand)
                      fixed_triggered = true
                   end
@@ -54,7 +58,7 @@ function top.func(input, seg, env)
             end
          else
             for cand in fixed_res:iter() do
-               cand.comment = "⚡️"
+               cand.comment = indicator
                yield(cand)
                fixed_triggered = true
             end
@@ -103,7 +107,7 @@ function top.func(input, seg, env)
       if fixed_res ~= nil then
          for cand in fixed_res:iter() do
             local cand_len = utf8.len(cand.text)
-            cand.comment = "⚡"
+            cand.comment = indicator
             yield(cand)
          end
       end

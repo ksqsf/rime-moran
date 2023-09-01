@@ -1,7 +1,7 @@
 schema:
   schema_id: moran
   name: 魔然
-  version: "20230830"
+  version: "20230901"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -102,9 +102,6 @@ translator:    # 整句輸入模式設置，在 top_translator 中被調用
   dictionary: moran.extended
   prism: moran
   initial_quality: 5
-  enable_commit_history: true
-  contextual_suggestions: true
-  max_homophones: 7
   preedit_format:
     - xform/([a-z][a-z][a-z][a-z])o/$1°/
 
@@ -265,5 +262,3 @@ __patch:
   - moran_patches.yaml:/fix_opencc_t2s?
   - moran.custom.yaml:/patch?
 
-grammar:
-  language: zh-hant-t-essay-bgw

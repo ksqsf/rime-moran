@@ -3,8 +3,11 @@
 # 再作修改，以避免更新時產生衝突。
 
 patch:
-  menu:
-    # alternative_select_labels: [ ㊀, ㊁, ㊂, ㊃, ㊄, ㊅, ㊆, ㊇, ㊈ ]
+  moran:
+    # 簡快碼提示符
+    # 修改爲 "" 可取消提示符
+    # 建議在熟悉簡碼後再取消
+    quick_code_indicator: "⚡️"
 
   # simplification 開關
   # 0 = 打傳承字
@@ -18,3 +21,14 @@ patch:
   # 0 = 開啓固頂詞（固詞模式）
   # 1 = 不使用固頂詞（動詞模式）
   "switches/@5/reset": 1
+
+  # 啓用語言模型
+  __include: enable_language_model
+
+
+enable_language_model:
+  grammar:
+    language: zh-hant-t-essay-bgw
+  translator/+:
+    contextual_suggestions: true
+    max_homophones: 7
