@@ -22,13 +22,15 @@ patch:
   # 1 = 不使用固頂詞（動詞模式）
   "switches/@5/reset": 1
 
-  # 啓用語言模型
-  __include: enable_language_model
-
+  # 語言模型相關設置
+  # 語言模型在某些場景下可以提升精準度，然而也會導致候選的行爲更加不可預測
+  __include: enable_language_model  # 或 disable_language_model
 
 enable_language_model:
   grammar:
     language: zh-hant-t-essay-bgw
-  translator/+:
-    contextual_suggestions: true
-    max_homophones: 7
+    collocation_max_length: 4
+    collocation_min_length: 2
+
+disable_language_model:
+  grammar: {}

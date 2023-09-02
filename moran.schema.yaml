@@ -102,6 +102,8 @@ translator:    # 整句輸入模式設置，在 top_translator 中被調用
   dictionary: moran.extended
   prism: moran
   initial_quality: 5
+  max_homophones: 7
+  contextual_suggestions: true
   preedit_format:
     - xform/([a-z][a-z][a-z][a-z])o/$1°/
 
