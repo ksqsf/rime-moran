@@ -27,7 +27,7 @@ switches:
     states: [ 漢字, 汉字 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
-  - options: [ utf8, gbk, big5 ]
+  - options: [ utf8, gbk+emoji, big5+emoji ]
     reset: 1
     states:
     - UTF-8
@@ -75,11 +75,11 @@ engine:
     - lua_translator@*moran_shijian        # 日期orq 節氣ojq 星期oxq 時間osj
     - lua_translator@*moran_number         # 數字轉大寫
   filters:
-    - charset_filter@gbk
-    - charset_filter@big5
     - simplifier@emoji
-    - simplifier
+    - charset_filter@gbk+emoji
+    - charset_filter@big5+emoji
     - simplifier@dzing
+    - simplifier
     - lua_filter@*moran_charset_comment_filter  # Unicode 區位提示
     - lua_filter@*moran_unicode_display_filter  # Unicode 編碼提示
     - uniquifier
