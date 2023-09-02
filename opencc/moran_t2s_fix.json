@@ -1,5 +1,5 @@
 {
-  "name": "Traditional Chinese to Simplified Chinese",
+  "name": "Traditional Chinese to Simplified Chinese with Some Patches",
   "segmentation": {
     "type": "mmseg",
     "dict": {
