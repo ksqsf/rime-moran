@@ -54801,6 +54801,7 @@ use_preset_vocabulary: false
 快符		10000
 整句		100
 整句輔助
+文心一言
 智能全拼
 智能拼音
 智能整句
@@ -54835,6 +54836,7 @@ use_preset_vocabulary: false
 輔助碼		10000
 輔碼		10000
 轉碼
+通義千問
 選字
 選重
 部首優先
