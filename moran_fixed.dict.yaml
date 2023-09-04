@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20230901"
+version: "20230904"
 sort: original
 columns:
   - code
@@ -10352,8 +10352,8 @@ dluh	戴上
 dlui	大理石
 dlui	待時
 dluj	岱山
-dluu	袋鼠
 dluu	代數
+dluu	袋鼠
 dlvc	棟樑之材
 dlvd	袋裝
 dlve	帶着
@@ -15747,6 +15747,7 @@ fxvh	副縣長
 fxvy	法西斯主義
 fxwa	方興未艾
 fxwt	發現問題
+fxx	非線性
 fxxc	風蕭蕭
 fxxh	風蕭蕭兮易水寒
 fxxy	方向性
@@ -61268,6 +61269,7 @@ uil	勢
 uila	石蠟
 uilc	史料
 uild	適量
+uild	矢量
 uile	試了
 uilg	溼冷
 uilh	侍郎
@@ -71664,6 +71666,7 @@ xdku	想哭
 xdla	香辣
 xdlc	香料
 xdld	響亮
+xdld	向量
 xdle	享樂
 xdle	想到了
 xdle	學到了
@@ -73154,6 +73157,7 @@ xmxt	鮮血
 xmxw	閒暇
 xmxx	險些
 xmxx	憪
+xmxy	線性
 xmxy	現行
 xmxy	像模像樣
 xmy	顯
@@ -84396,3 +84400,4 @@ yiyq	誼		#取末尾的「且」
 zou	左		#取上部
 ybu	右		#取上部
 xup	須		#取左
+xlo	向量
