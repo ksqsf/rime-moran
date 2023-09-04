@@ -760,6 +760,7 @@ aspl	阿司匹林
 asqb	暗送秋波
 asty	奧斯汀
 aswe	艾森豪威爾
+at	艾特
 atbp	凹凸不平
 ater	熬頭兒
 atji	奧陶紀
@@ -5792,7 +5793,6 @@ cbgb	湊夠
 cbge	湊個
 cbhe	湊合
 cbhv	才不會
-cbhv	纔不會
 cbi	輳
 cbig	湊成
 cbiu	湊出
@@ -5821,7 +5821,6 @@ cbrd	慘不忍睹
 cbub	湊手
 cbuh	湊上
 cbui	才不是
-cbui	纔不是
 cbuu	湊數
 cbvb	慈不掌兵
 cbvu	藏不住
@@ -6576,7 +6575,6 @@ ckmn	草民
 ckmu	草木
 ckmz	草莓
 ckng	才可能
-ckng	纔可能
 ckni	草擬
 cko	曹
 ckpg	草棚
@@ -6603,7 +6601,6 @@ ckub	操守
 ckuf	操神
 ckug	草繩
 ckui	才開始
-ckui	纔開始
 ckui	草食
 ckuu	草書
 ckuu	參考書
@@ -6705,14 +6702,11 @@ clgj	才幹
 clgr	菜館
 clgw	菜瓜
 clgy	才怪
-clgy	纔怪
 clhh	燦爛輝煌
 clhk	才好
-clhk	纔好
 clho	財貨
 clhs	彩虹
 clhv	才會
-clhv	纔會
 clhw	才華
 clhy	踩壞
 clia	採茶
@@ -6814,7 +6808,6 @@ cltu	彩圖
 club	採收
 cluf	財神
 clui	才是
-clui	纔是
 clui	菜市
 clun	慘綠少年
 cluu	菜蔬
@@ -6845,9 +6838,7 @@ clxx	採寫
 clxx	採擷
 clxy	才行
 clxy	策略性
-clxy	纔行
 clyb	才有
-clyb	纔有
 clyb	採油
 clye	菜葉
 clyh	採樣
@@ -7632,7 +7623,7 @@ cwrd	慘無人道
 cwui	財務室
 cwwb	存亡未卜
 cwyg	從未有過
-cx	從新
+cx	才行
 cxbk	刺細胞
 cxbv	此消彼長
 cxcl	磁性材料
@@ -7650,7 +7641,6 @@ cxku	從現在開始
 cxnb	雌雄難辨
 cxny	藏形匿影
 cxql	才想起來
-cxql	纔想起來
 cxsy	從心所欲
 cxtc	粗線條
 cxtt	雌雄同體
@@ -7687,7 +7677,6 @@ cyhv	參議會
 cyhy	粗言穢語
 cyiy	此言差矣
 cykn	才有可能
-cykn	纔有可能
 cyku	從一開始
 cyml	擦眼抹淚
 cymy	曾用名
@@ -12960,6 +12949,7 @@ enyi	恩義
 enyr	恩怨
 enyu	恩遇
 enze	恩澤
+ep	惡評
 epby	餓殍遍野
 epfg	耳旁風
 epgs	阿房宮
@@ -14182,7 +14172,6 @@ fhci	防磁
 fhck	芳草
 fhcl	方才
 fhcl	複合材料
-fhcl	方纔
 fhco	放錯
 fhcp	方寸
 fhd	方
@@ -14795,8 +14784,8 @@ fjys	非金屬元素
 fjyt	翻閱
 fjyt	翻越
 fjyu	繁育
-fjyy	反應
 fjyy	反映
+fjyy	反應
 fjz	返
 fjza	繁雜
 fjzf	蹯
@@ -15069,6 +15058,7 @@ fqyj	飛起一腳
 fqyy	風起雲湧
 fqyz	封妻廕子
 fqzu	飛禽走獸
+fr	煩人
 frbx	凡人不可貌相
 frby	怫然不悅
 frdh	福如東海
@@ -15655,7 +15645,7 @@ fvzl	髮指眥裂
 fvzv	非政府組織
 fvzv	非洲統一組織
 fvzx	飛針走線
-fw	訪問
+fw	範圍
 fwbq	分文不取
 fwbu	服務部
 fwbv	分文不值
@@ -15693,7 +15683,7 @@ fwyr	服務員
 fwzl	非我族類
 fwzu	風聞奏事
 fwzy	非我族類，其心必異
-fx	分析
+fx	發現
 fxax	芳心暗許
 fxbc	風向標
 fxbx	放心不下
@@ -15756,7 +15746,7 @@ fxyu	風行一時
 fxyy	負效應
 fxzi	風信子
 fxzw	撫心自問
-fy	翻譯
+fy	反應
 fybg	分一杯羹
 fybh	風雲變幻
 fybh	飛揚跋扈
@@ -17114,7 +17104,6 @@ ghbl	鋼化玻璃
 ghbu	港埠
 ghbv	關懷備至
 ghcl	剛才
-ghcl	剛纔
 ghcl	鋼材
 ghcl	光輝燦爛
 ghd	港
@@ -18030,7 +18019,7 @@ glzu	改組
 glzu	仡佬族
 glzv	改嘴
 glzw	穀類作物
-gm	革命
+gm	幹嘛
 gmbw	過目不忘
 gmcs	灌木叢
 gmdd	光明大道
@@ -21369,7 +21358,7 @@ hhyy	花好月圓
 hhz	迒
 hhzi	好孩子
 hhzx	懷恨在心
-hi	何嘗
+hi	合成
 hian	合成氨
 hibk	何嘗不可
 hibu	何嘗不是
@@ -30728,6 +30717,7 @@ jnzk	儘早
 jnzl	盡在
 jnzu	基諾族
 jnzu	禁阻
+jo	奇偶
 joti	佳偶天成
 jp	均
 jpb	軍
@@ -34130,7 +34120,7 @@ khyu	抗禦
 khzb	扛走
 khzi	葵花籽
 khzl	抗災
-ki	咔嚓
+ki	課程
 kibc	課程表
 kibg	開誠佈公
 kibl	開場白
@@ -42696,7 +42686,7 @@ muzi	美術字
 muzr	謀事在人
 muzt	謀事在人，成事在天
 muzw	名聲在外
-mv	民主
+mv	命中
 mvad	明爭暗鬥
 mvat	明珠暗投
 mvbu	門診部
@@ -47385,7 +47375,7 @@ psqw	婆娑起舞
 pssu	撲簌簌
 psvy	樸素唯物主義
 psxi	菩薩心腸
-pt	普通
+pt	平臺
 ptbx	平頭百姓
 ptby	排頭兵
 ptdg	破土動工
@@ -49066,7 +49056,7 @@ qizu	起租
 qizv	跂
 qizx	蹊
 qizx	踖
-qj	期間
+qj	全局
 qjbh	氣急敗壞
 qjbj	請將不如激將
 qjbm	千嬌百媚
@@ -51490,7 +51480,8 @@ qzys	起作用
 qzyt	蜷作一團
 qzyu	千載一時
 r	人
-ra	罖
+ra	熱愛
+ras	罖
 rb	肉
 rba	禸
 rban	肉案
@@ -55403,7 +55394,7 @@ syyj	掃一眼
 syyr	飼養員
 syzg	夙夜在公
 syzi	撒丫子
-sz	所在
+sz	私自
 szbd	色字頭上一把刀
 szbf	孫子兵法
 szbn	三災八難
@@ -56005,7 +55996,8 @@ teli	特例
 tell	特來
 teml	特賣
 temy	特命
-ten	犆
+ten	特
+tenv	犆
 tepi	特批
 tepl	特派
 tepn	特聘
@@ -68294,7 +68286,7 @@ wazb	挖走
 wazi	襪子
 wazi	娃子
 wazu	佤族
-wb	文本
+wb	微博
 wbbh	萬般不好
 wbbk	喂不飽
 wbbu	萬般不捨
@@ -68360,7 +68352,6 @@ wcqq	爲叢驅雀
 wcrb	午餐肉
 wctq	無從談起
 wcuj	唯才是舉
-wcuj	唯纔是舉
 wcuq	穩操勝券
 wcvx	無從知曉
 wcxk	無從下口
@@ -68433,7 +68424,7 @@ wdzi	微電子
 wdzr	無地自容
 wdzv	穩定增長
 wdzx	微電子學
-we	莞爾
+we	萬惡
 webq	萬兒八千
 webz	無惡不作
 wefy	忘恩負義
@@ -69617,7 +69608,7 @@ wmxz	無名小卒
 wmyr	萬美元
 wmyu	聞名於世
 wmyx	無名英雄
-wn	無奈
+wn	萬能
 wnat	瓦努阿圖
 wnbc	萬能表
 wndm	問牛答馬
@@ -71974,7 +71965,7 @@ xfyu	先發優勢
 xfzi	香附子
 xfzl	興風作浪
 xfzu	消費合作社
-xg	習慣
+xg	修改
 xgab	興國安邦
 xgbb	心肝寶貝
 xgbh	新官上任三把火
@@ -72606,7 +72597,7 @@ xizk	洗澡
 xizl	心誠則靈
 xizo	習作
 xizv	蹝
-xj	先進
+xj	新建
 xjbb	血跡斑斑
 xjbf	想盡辦法
 xjbg	星級賓館
@@ -83491,7 +83482,7 @@ zpyu	鱒魚
 zpyz	譐
 zpz	遵
 zpzi	左撇子
-zq	最強
+zq	增強
 zqbh	早期白話
 zqbl	暫且不論
 zqbx	自強不息
@@ -84188,7 +84179,7 @@ zwzd	自問自答
 zwzf	作威作福
 zwzg	自我作古
 zwzj	醉翁之意不在酒
-zx	最新
+zx	在線
 zxbj	最新版
 zxbs	賊心不死
 zxbu	最小公倍數
