@@ -2107,8 +2107,8 @@ androecium	androecium
 androgen	androgen
 androgyne	androgyne
 androgynous	androgynous
-android	android
 Android	android
+android	android
 Andromache	andromache
 Andromeda	andromeda
 Andros	andros
@@ -2958,8 +2958,8 @@ Arcadian	arcadian
 arcane	arcane
 arcanum	arcanum
 arcature	arcature
-arch	arch
 Arch	arch
+arch	arch
 Archaean	archaean
 archaeological	archaeological
 archaeology	archaeology
@@ -4843,6 +4843,7 @@ bayou	bayou
 Bayreuth	bayreuth
 baywood	baywood
 bazaar	bazaar
+bazel	bazel
 Baziotes	baziotes
 bazooka	bazooka
 BCD	bcd
@@ -9166,6 +9167,7 @@ chateau	chateau
 chatelain	chatelain
 chatelaine	chatelaine
 ChatGPT chatgpt
+ChatGPT	chatgpt
 Chatham	chatham
 chatoyant	chatoyant
 Chattanooga	chattanooga
@@ -21900,8 +21902,8 @@ gnathonic	gnathonic
 gnaw	gnaw
 gnawing	gnawing
 gneiss	gneiss
-gnome	gnome
 GNOME	gnome
+gnome	gnome
 gnomic	gnomic
 gnomon	gnomon
 gnosis	gnosis
@@ -22171,6 +22173,7 @@ gownsman	gownsman
 goy	goy
 Goya	goya
 GPO	gpo
+GPT	gpt
 grab	grab
 grabble	grabble
 graben	graben
@@ -23385,6 +23388,7 @@ hash	hash
 hashish	hashish
 Hasid	hasid
 Hasidism	hasidism
+Haskell	haskell
 haslet	haslet
 hasp	hasp
 hassle	hassle
@@ -31133,6 +31137,7 @@ Makalu	makalu
 Makassar	makassar
 make	make
 makefast	makefast
+Makefile	makefile
 maker	maker
 makeshift	makeshift
 makeup	makeup
@@ -31822,6 +31827,7 @@ Maurya	maurya
 Mauser	mauser
 mausoleum	mausoleum
 mauve	mauve
+maven	maven
 maverick	maverick
 mavis	mavis
 maw	maw
@@ -34612,6 +34618,7 @@ Nineveh	nineveh
 Ningal	ningal
 Ningpo	ningpo
 Ningsia	ningsia
+ninja	ninja
 ninny	ninny
 ninnyhammer	ninnyhammer
 ninon	ninon
@@ -43961,6 +43968,7 @@ scaffold	scaffold
 scaffolding	scaffolding
 scag	scag
 scagliola	scagliola
+Scala	scala
 scalable	scalable
 scalade	scalade
 scalage	scalage
@@ -53434,6 +53442,7 @@ ventriloquist	ventriloquist
 ventriloquize	ventriloquize
 ventriloquy	ventriloquy
 Ventris	ventris
+Ventura	ventura
 venture	venture
 venturesome	venturesome
 venturous	venturous
@@ -54873,6 +54882,7 @@ windmill	windmill
 window	window
 windowlight	windowlight
 windowpane	windowpane
+Windows	windows
 windowsill	windowsill
 windpipe	windpipe
 windproof	windproof
@@ -55690,13 +55700,4 @@ zymometer	zymometer
 zymosis	zymosis
 zymotic	zymotic
 Zyrian	zyrian
-Scala	scala
-ChatGPT	chatgpt
-Haskell	haskell
-Makefile	makefile
-Windows	windows
-ninja	ninja
-bazel	bazel
-maven	maven
-Ventura	ventura
 

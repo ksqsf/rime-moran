@@ -21,6 +21,7 @@ import math
 import opencc
 from pypinyin import lazy_pinyin
 from operator import *
+import re
 import regex
 
 
@@ -310,6 +311,48 @@ def print_table(table):
         print_dict(transpose_table(table), False)
 
 
+
+##################
+## 詞庫維護例程 ##
+##################
+def handle_update_compact_dict():
+    with open(args.rime_dict) as f:
+        for l in f:
+            l = l.strip()
+            matches = regex.findall(r'^([^\t]+)\t([a-z; ]*)(\t\d+)?', l)
+
+            # This line is weird and needs addressing
+            if len(matches) == 0:
+                print('# BAD1:', l)
+                continue
+
+            [word, code, weight] = matches[0]
+            weight = weight.strip()
+
+            # No code means auto code. Do nothing.
+            if len(code) == 0:
+                print(l)
+                continue
+            
+            sps = [fc.split(';')[0] for fc in code.split(' ')]
+            acs = []
+            for zi in word:
+                try:
+                    acs.append(to_assistive_codes(zi)[0])
+                except:
+                    pass
+            if len(acs) != len(sps):
+                print('# BAD2:', l)
+                continue
+
+            # Now we just generate the new code
+            newcode = ' '.join(sp + ';' + ac for (sp, ac) in zip(sps, acs))
+            if weight:
+                print(f'{word}\t{newcode}\t{weight}')
+            else:
+                print(f'{word}\t{newcode}')
+
+
 ###############
 ### 程序入口 ###
 ###############
@@ -343,6 +386,9 @@ gen_fixed.add_argument('--format', choices=['code-words', 'code-word', 'word-cod
 gen_fixed.add_argument('--tolerance', help='每級簡碼最多可以容納多少候選', default='1,1,1')
 gen_fixed.add_argument('--aabc', action='store_true', default=False, help='三碼字使用 AABC 方式編碼')
 
+update_compact_dict = subparsers.add_parser('update-compact-dict', help='更新 *compact* 詞庫中的輔助碼爲新輔助碼')
+update_compact_dict.add_argument('--rime-dict', help='輸入rime格式詞庫（無frontmatter）', required=True)
+
 if __name__ == '__main__':
     args = parser.parse_args()
     if args.command == 'gen-chars':
@@ -351,4 +397,5 @@ if __name__ == '__main__':
         handle_gen_dict()
     elif args.command == 'gen-fixed':
         handle_gen_fixed()
-
+    elif args.command == 'update-compact-dict':
+        handle_update_compact_dict()

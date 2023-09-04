@@ -6624,9 +6624,9 @@
 八 pd
 公 bs
 公 sb
+六 wb
 六 db
 六 dd
-六 wb
 兮 bk
 兯 be
 兰 bs
@@ -8441,8 +8441,8 @@
 囘 ks
 囙 kk
 囚 kr
-四 aa
 四 ke
+四 aa
 囜 ks
 囝 kz
 回 kk
@@ -28446,8 +28446,8 @@
 量 ol
 量 rl
 釐 lw
-金 pa
 金 ra
+金 pa
 釒 jn
 釒 rq
 釓 jg
