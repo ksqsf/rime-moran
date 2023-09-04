@@ -7,7 +7,8 @@ version: "20230830"
 sort: by_weight
 use_preset_vocabulary: false
 import_tables:
-  - moran.main       # 自然碼輔碼、補充詞、快符等
+  - moran.main       # 自然碼單字表
+  - moran.words      # 本方案補充詞
   - moran.essay      # Rime 八股文詞庫
   - moran.thuocl     # THUOCL 詞庫
   - moran.tencent    # 騰訊詞庫
