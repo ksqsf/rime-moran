@@ -224,7 +224,7 @@ def encode_fixed_word(word, pinyin=None):
         else:
             return double_pinyin[0][0] + double_pinyin[1][0] + double_pinyin[2]
     else:
-        return double_pinyin[0][0] + double_pinyin[1][0] + double_pinyin[-2][0] + double_pinyin[-1][0]
+        return double_pinyin[0][0] + double_pinyin[1][0] + double_pinyin[2][0] + double_pinyin[-1][0]
 
 
 def handle_gen_fixed():
