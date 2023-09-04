@@ -2848,7 +2848,7 @@ use_preset_vocabulary: false
 中華城擬記事	vs;aa hw;ca ig;ti ni;fy ji;yj ui;aa
 中華墨水娘	vs;aa hw;ca mo;ht uv;ad nd;nl
 中華大加農	vs;aa hw;ca da;ad jw;kl ns;qi
-中華大草龜	vs;aa hw;ca da;ad ck;cz gv;pa
+中華大草龜	vs;aa hw;ca da;ad ck;cz gv;da
 中華大陸	vs;aa hw;ca da;ad lu;et
 中華女子學校	vs;aa hw;ca nv;aa zi;aa xt;jz xc;mj
 中華娘	vs;aa hw;ca nd;nl
@@ -2967,7 +2967,7 @@ use_preset_vocabulary: false
 丸雀	wj;jd qt;vx
 丸餅月見	wj;jd by;ub yt;oy jm;me
 丸高大知	wj;jd gk;dk da;ad vi;ku
-丸龜城	wj;jd gv;pa ig;ti
+丸龜城	wj;jd gv;da ig;ti
 丹下櫻	dj;pd xw;ab yy;my
 丹下葉子	dj;pd xw;ab ye;cm zi;aa
 丹佛	dj;pd fu;rf
@@ -2994,7 +2994,7 @@ use_preset_vocabulary: false
 丹歌驚鴻	dj;pd ge;qg jy;mj hs;dn
 丹氏鸕鷀	dj;pd ui;pg lu;nl ci;nz
 丹波一徹	dj;pd bo;dp yi;aa ie;rw
-丹波龜山城	dj;pd bo;dp gv;pa uj;aa ig;ti
+丹波龜山城	dj;pd bo;dp gv;da uj;aa ig;ti
 丹澤晃之	dj;pd ze;dx hd;og vi;dd
 丹特	dj;pd te;ns
 丹特立斯	dj;pd te;ns li;da si;jq
@@ -7570,7 +7570,7 @@ use_preset_vocabulary: false
 假歌	jw;rj ge;qg
 假死	jw;rj si;db
 假死化	jw;rj si;db hw;rb
-假海龜	jw;rj hl;dm gv;pa
+假海龜	jw;rj hl;dm gv;da
 假種子	jw;rj vs;hv zi;aa
 假肢	jw;rj vi;ov
 假脫機代碼	jw;rj to;od ji;mj dl;ry ma;um
@@ -7962,8 +7962,8 @@ use_preset_vocabulary: false
 傑富力士	jx;rj fu;bf li;gp ui;aa
 傑尼	jx;rj ni;ub
 傑尼絲王立學院	jx;rj ni;ub si;ss wh;aa li;da xt;jz yr;ew
-傑尼龜	jx;rj ni;ub gv;pa
-傑尼龜娘	jx;rj ni;ub gv;pa nd;nl
+傑尼龜	jx;rj ni;ub gv;da
+傑尼龜娘	jx;rj ni;ub gv;da nd;nl
 傑帕力公園	jx;rj pa;jb li;gp gs;bs yr;ky
 傑帕力狂想曲	jx;rj pa;jb li;gp kd;qw xd;xx qu;aa
 傑帕德	jx;rj pa;jb de;rx
@@ -9198,8 +9198,8 @@ use_preset_vocabulary: false
 兔袋	tu;dd dl;yd
 兔醬	tu;dd jd;yj
 兔類魔物	tu;dd lz;yl mo;gm wu;nw
-兔龜	tu;dd gv;pa
-兔龜高校網球部	tu;dd gv;pa gk;dk xc;mj wh;sw qq;wq bu;ek
+兔龜	tu;dd gv;da
+兔龜高校網球部	tu;dd gv;da gk;dk xc;mj wh;sw qq;wq bu;ek
 兕丹坊	si;ea dj;pd fh;tf
 兜冢守桔梗	db;be vs;bd ub;bc jx;mj gg;mg
 兜售默契	db;be ub;kv mo;hq qi;dd
@@ -9559,9 +9559,9 @@ use_preset_vocabulary: false
 八十神高等學校	ba;pd ui;aa uf;uu gk;dk dg;vs xt;jz xc;mj
 八十稻羽市	ba;pd ui;aa dk;hj yu;xx ui;dj
 八十稻羽連環殺人案	ba;pd ui;aa dk;hj yu;xx lm;zi hr;wh ua;uu rf;pd an;bm
-八十龜最中	ba;pd ui;aa gv;pa zv;oq vs;aa
-八十龜觀察日記	ba;pd ui;aa gv;pa gr;jv ia;bj ri;aa ji;yj
-八十龜醬觀察日記	ba;pd ui;aa gv;pa jd;yj gr;jv ia;bj ri;aa ji;yj
+八十龜最中	ba;pd ui;aa gv;da zv;oq vs;aa
+八十龜觀察日記	ba;pd ui;aa gv;da gr;jv ia;bj ri;aa ji;yj
+八十龜醬觀察日記	ba;pd ui;aa gv;da jd;yj gr;jv ia;bj ri;aa ji;yj
 八千代	ba;pd qm;pa dl;ry
 八千代命	ba;pd qm;pa dl;ry my;re
 八千子	ba;pd qm;pa zi;aa
@@ -13753,8 +13753,8 @@ use_preset_vocabulary: false
 卡可雷	ka;bx ke;dk lz;yt
 卡名	ka;bx my;xk
 卡呂普索	ka;bx lv;kk pu;bo so;sb
-卡咪龜	ka;bx mi;km gv;pa
-卡咪龜娘	ka;bx mi;km gv;pa nd;nl
+卡咪龜	ka;bx mi;km gv;da
+卡咪龜娘	ka;bx mi;km gv;da nd;nl
 卡哇伊	ka;bx wa;kg yi;ry
 卡嘉莉尤拉阿斯哈	ka;bx jw;uj li;cl yb;ad la;fl aa;ek si;jq ha;kh
 卡在了奇怪的地方	ka;bx zl;ta le;aa qi;dk gy;xu de;bu di;ty fh;dd
@@ -14002,7 +14002,7 @@ use_preset_vocabulary: false
 卡美哈梅哈	ka;bx mz;dy ha;kh mz;mm ha;kh
 卡美拉	ka;bx mz;dy la;fl
 卡美洛	ka;bx mz;dy lo;dg
-卡美龜娘	ka;bx mz;dy gv;pa nd;nl
+卡美龜娘	ka;bx mz;dy gv;da nd;nl
 卡翠歐娜	ka;bx cv;yz ou;qq na;nn
 卡臘	ka;bx la;ol
 卡芙卡	ka;bx fu;cf ka;bx
@@ -19059,7 +19059,7 @@ use_preset_vocabulary: false
 土間太平的母親	tu;aa jm;mo tl;dd py;aa de;bu mu;ad qn;jq
 土魔	tu;aa mo;gm
 土龍弟弟娘	tu;aa ls;dg di;bp di;bp nd;nl
-土龜	tu;aa gv;pa
+土龜	tu;aa gv;da
 在一個月黑風高的晚上	zl;ta yi;aa ge;rg yt;oy hz;ad fg;ji gk;dk de;bu wj;om uh;aa
 在一切結束的開始	zl;ta yi;aa qx;dq jx;sj uu;ad de;bu kl;mk ui;nt
 在三千粉絲的邊緣徘徊兩千遍	zl;ta sj;aa qm;pa ff;mf si;ss de;bu bm;zf yr;st pl;rf hy;rh ld;ar qm;pa bm;zb
@@ -19508,7 +19508,7 @@ use_preset_vocabulary: false
 地鼠	di;ty uu;ju
 地鼠娘	di;ty uu;ju nd;nl
 地鼠芙洛波	di;ty uu;ju fu;cf lo;dg bo;dp
-地龜的光蘚	di;ty gv;pa de;bu gd;ea xm;cx
+地龜的光蘚	di;ty gv;da de;bu gd;ea xm;cx
 坂上千夜	bj;tf uh;aa qm;pa ye;dd
 坂上智代	bj;tf uh;aa vi;ov dl;ry
 坂上杏子	bj;tf uh;aa xy;km zi;aa
@@ -23023,7 +23023,7 @@ use_preset_vocabulary: false
 大龍捲	da;ad ls;dg jr;fj
 大龍捲俠	da;ad ls;dg jr;fj xw;rj
 大龍捲娘	da;ad ls;dg jr;fj nd;nl
-大龜明日香	da;ad gv;pa my;oo ri;aa xd;ho
+大龜明日香	da;ad gv;da my;oo ri;aa xd;ho
 天一	tm;ad yi;aa
 天一琴茶	tm;ad yi;aa qn;wj ia;cm
 天上人與亞克託人最後的戰鬥	tm;ad uh;aa rf;pd yu;ba ya;aa ke;eg to;yq rf;pd zv;oq hb;rw de;bu vj;gd db;aa
@@ -28281,7 +28281,7 @@ use_preset_vocabulary: false
 寶青坊主	bk;bb qy;fo fh;tf vu;dw
 寶馬	bk;bb ma;ad
 寶魔	bk;bb mo;gm
-寶龜克壽	bk;bb gv;pa ke;eg ub;hd
+寶龜克壽	bk;bb gv;da ke;eg ub;hd
 寸石和弘	cp;ad ui;aa he;hk hs;gs
 寸骨不離	cp;ad gu;go bu;ad li;vl
 寺井大樹	si;ct jy;aa da;ad uu;mc
@@ -36000,7 +36000,7 @@ use_preset_vocabulary: false
 忍者殺手	rf;xr ve;lo ua;uu ub;pa
 忍者泥棒棒	rf;xr ve;lo ni;dn bh;mf bh;mf
 忍者的前進	rf;xr ve;lo de;bu qm;bd jn;zv
-忍者神龜	rf;xr ve;lo uf;uu gv;pa
+忍者神龜	rf;xr ve;lo uf;uu gv;da
 忍者終結者	rf;xr ve;lo vs;sd jx;sj ve;lo
 忍者聯軍	rf;xr ve;lo lm;ea jp;bi
 忍者蛙娘	rf;xr ve;lo wa;ig nd;nl
@@ -37696,9 +37696,9 @@ use_preset_vocabulary: false
 慄山未來	li;xl uj;aa wz;ad ll;ad
 慄山綠	li;xl uj;aa lv;sl
 慄山美卯	li;xl uj;aa mz;dy mk;em
-慄悟飯和龜波功	li;xl wu;xw fj;uf he;hk gv;pa bo;dp gs;gl
-慄悟飯和龜波氣功	li;xl wu;xw fj;uf he;hk gv;pa bo;dp qi;qm gs;gl
-慄悟飯與龜派氣功	li;xl wu;xw fj;uf yu;ba gv;pa pl;dp qi;qm gs;gl
+慄悟飯和龜波功	li;xl wu;xw fj;uf he;hk gv;da bo;dp gs;gl
+慄悟飯和龜波氣功	li;xl wu;xw fj;uf he;hk gv;da bo;dp qi;qm gs;gl
+慄悟飯與龜派氣功	li;xl wu;xw fj;uf yu;ba gv;da pl;dp qi;qm gs;gl
 慄本遙	li;xl bf;aa yk;zf
 慄村愛莉	li;xl cp;mc ai;vw li;cl
 慄林志乃	li;xl ln;mm vi;ux nl;gp
@@ -37751,7 +37751,7 @@ use_preset_vocabulary: false
 慢慢來	mj;xm mj;xm ll;ad
 慢慢地跑風會相隨	mj;xm mj;xm di;ty pk;zb fg;ji hv;ro xd;mm sv;es
 慢慢死去的我	mj;xm mj;xm si;db qu;ts de;bu wo;pd
-慢慢龜	mj;xm mj;xm gv;pa
+慢慢龜	mj;xm mj;xm gv;da
 慢活族	mj;xm ho;du zu;fu
 慢活開始	mj;xm ho;du kl;mk ui;nt
 慢生活	mj;xm ug;na ho;du
@@ -37793,7 +37793,7 @@ use_preset_vocabulary: false
 憂鬱的怪物庵	yb;hd yu;fp de;bu gy;xu wu;nw an;gd
 憂鬱的搖籃曲	yb;hd yu;fp de;bu yk;ff lj;vj qu;aa
 憂鬱的物怪庵	yb;hd yu;fp de;bu wu;nw gy;xu an;gd
-憂鬱的臺灣烏龜	yb;hd yu;fp de;bu tl;uv wj;dg wu;pd gv;pa
+憂鬱的臺灣烏龜	yb;hd yu;fp de;bu tl;uv wj;dg wu;pd gv;da
 憂鬱綜合症	yb;hd yu;fp zs;sz he;rk vg;bv
 憂鬱自賞派	yb;hd yu;fp zi;pa uh;bk pl;dp
 憂鬱藍調	yb;hd yu;fp lj;cj dc;yv
@@ -37833,7 +37833,7 @@ use_preset_vocabulary: false
 憧憬的天堂	is;xt jy;xj de;bu tm;ad th;dt
 憧憬的針腳	is;xt jy;xj de;bu vf;ju jc;oq
 憧憬與屍骸之路	is;xt jy;xj yu;ba ui;us hl;gh vi;dd lu;zg
-憨八龜的故事	hj;xg ba;pd gv;pa de;bu gu;wg ui;aa
+憨八龜的故事	hj;xg ba;pd gv;da de;bu gu;wg ui;aa
 憨憨貓	hj;xg hj;xg mk;vm
 憨豆先生	hj;xg db;aa xm;en ug;na
 憩居桃愛	qi;xz ju;ug tk;mv ai;vw
@@ -42811,7 +42811,7 @@ use_preset_vocabulary: false
 旋風小依	xr;fp fg;ji xc;ad yi;ry
 旋風心和	xr;fp fg;ji xn;dd he;hk
 旋風橡果	xr;fp fg;ji xd;mx go;ad
-旋風神龜	xr;fp fg;ji uf;uu gv;pa
+旋風神龜	xr;fp fg;ji uf;uu gv;da
 旋風管家	xr;fp fg;ji gr;vg jw;bu
 旋風鐳射	xr;fp fg;ji lz;jl ue;cu
 旌節花	jy;fu jx;vj hw;ch
@@ -45362,7 +45362,7 @@ use_preset_vocabulary: false
 暴雨	bk;ou yu;ad
 暴雨怪	bk;ou yu;ad gy;xu
 暴雨梨花	bk;ou yu;ad li;ml hw;ch
-暴雨陸龜	bk;ou yu;ad lu;et gv;pa
+暴雨陸龜	bk;ou yu;ad lu;et gv;da
 暴雪	bk;ou xt;yx
 暴雪世界	bk;ou xt;yx ui;aa jx;tj
 暴雪之後	bk;ou xt;yx vi;dd hb;rw
@@ -50388,7 +50388,7 @@ use_preset_vocabulary: false
 森山奈菜巳	sf;ml uj;aa nl;du cl;cc si;ag
 森山由梨佳	sf;ml uj;aa yb;aa li;ml jw;rg
 森山週一郎	sf;ml uj;aa vb;zv yi;aa lh;el
-森山那奈龜	sf;ml uj;aa na;el nl;du gv;pa
+森山那奈龜	sf;ml uj;aa na;el nl;du gv;da
 森岡富男	sf;ml gh;ku fu;bf nj;tl
 森島優花	sf;ml dk;nu yb;rw hw;ch
 森島奈奈香	sf;ml dk;nu nl;du nl;du xd;ho
@@ -53795,8 +53795,8 @@ use_preset_vocabulary: false
 水窪上的輪舞	uv;ad wa;bg uh;aa de;bu lp;il wu;pa
 水窪輪舞曲	uv;ad wa;bg lp;il wu;pa qu;aa
 水笙	uv;ad ug;vu
-水箭龜	uv;ad jm;vq gv;pa
-水箭龜娘	uv;ad jm;vq gv;pa nd;nl
+水箭龜	uv;ad jm;vq gv;da
+水箭龜娘	uv;ad jm;vq gv;da nd;nl
 水箱溫泉鎮	uv;ad xd;vx wf;dm qr;bu vf;jv
 水精靈	uv;ad jy;mq ly;wl
 水精靈娘	uv;ad jy;mq ly;wl nd;nl
@@ -54563,7 +54563,7 @@ use_preset_vocabulary: false
 沒有黃段子存在的無聊世界	mz;du yb;ou hd;cb dr;du zi;aa cp;uz zl;ta de;bu wu;da lc;em ui;aa jx;tj
 沒有黃段子的灰暗世界	mz;du yb;ou hd;cb dr;du zi;aa de;bu hv;hu an;oy ui;aa jx;tj
 沒有黃段子的無聊世界	mz;du yb;ou hd;cb dr;du zi;aa de;bu wu;da lc;em ui;aa jx;tj
-沒有龜殼的烏龜	mz;du yb;ou gv;pa ke;uj de;bu wu;pd gv;pa
+沒有龜殼的烏龜	mz;du yb;ou gv;da ke;uj de;bu wu;pd gv;da
 沒毛病	mz;du mk;pg by;bb
 沒牙仔	mz;du ya;ap zl;rz
 沒用的回憶	mz;du ys;kf de;bu hv;kk yi;xy
@@ -55198,7 +55198,7 @@ use_preset_vocabulary: false
 波波菈	bo;dp bo;dp la;cl
 波波隆	bo;dp bo;dp ls;eu
 波波頭	bo;dp bo;dp tb;dy
-波波龜	bo;dp bo;dp gv;pa
+波波龜	bo;dp bo;dp gv;da
 波洛咖啡店	bo;dp lo;dg ka;kj fz;kf dm;gv
 波洛咖啡廳	bo;dp lo;dg ka;kj fz;kf ty;gt
 波洛咖啡館	bo;dp lo;dg ka;kj fz;kf gr;ug
@@ -56378,9 +56378,9 @@ use_preset_vocabulary: false
 海龍神	hl;dm ls;dg uf;uu
 海龍神之怒	hl;dm ls;dg uf;uu vi;dd nu;xn
 海龍神的加護	hl;dm ls;dg uf;uu de;bu jw;kl hu;yh
-海龜壞獸	hl;dm gv;pa hy;th ub;qu
-海龜湯	hl;dm gv;pa th;dy
-海龜的眼淚有點鹹	hl;dm gv;pa de;bu yj;mg lz;dl yb;ou dm;hv xm;lx
+海龜壞獸	hl;dm gv;da hy;th ub;qu
+海龜湯	hl;dm gv;da th;dy
+海龜的眼淚有點鹹	hl;dm gv;da de;bu yj;mg lz;dl yb;ou dm;hv xm;lx
 浸染的心	jn;dy rj;mg de;bu xn;dd
 浸淚之羽	jn;dy lz;dl vi;dd yu;xx
 浸溼雙翅的懷舊	jn;dy ui;dt ud;vy ii;vy de;bu hy;xh jq;cj
@@ -59160,8 +59160,8 @@ use_preset_vocabulary: false
 烏龍	wu;pd ls;dg
 烏龍娘	wu;pd ls;dg nd;nl
 烏龍派出所	wu;pd ls;dg pl;dp iu;ck so;hj
-烏龜	wu;pd gv;pa
-烏龜大師仙逝	wu;pd gv;pa da;ad ui;bv xm;ru ui;zv
+烏龜	wu;pd gv;da
+烏龜大師仙逝	wu;pd gv;da da;ad ui;bv xm;ru ui;zv
 烘焙王	hs;hg bz;hk wh;aa
 烙印之光	lk;hg yn;ey vi;dd gd;ea
 烙印勇士	lk;hg yn;ey ys;ly ui;aa
@@ -59249,7 +59249,7 @@ use_preset_vocabulary: false
 無名之藍	wu;da my;xk vi;dd lj;cj
 無名之輩	wu;da my;xk vi;dd bz;fi
 無名之龍	wu;da my;xk vi;dd ls;dg
-無名之龜	wu;da my;xk vi;dd gv;pa
+無名之龜	wu;da my;xk vi;dd gv;da
 無名人工智能之謠	wu;da my;xk rf;pd gs;aa vi;ov ng;sb vi;dd yk;yf
 無名修羅	wu;da my;xk xq;rp lo;sv
 無名夢境世界	wu;da my;xk mg;cx jy;tj ui;aa jx;tj
@@ -68241,7 +68241,7 @@ use_preset_vocabulary: false
 神龍獸	uf;uu ls;dg ub;qu
 神龍騎士	uf;uu ls;dg qi;mq ui;aa
 神龍鬥士	uf;uu ls;dg db;aa ui;aa
-神龜衝擊波	uf;uu gv;pa is;xi ji;fu bo;dp
+神龜衝擊波	uf;uu gv;da is;xi ji;fu bo;dp
 祠堂圭	ci;us th;dt gv;tt
 祠草小夜	ci;us ck;cz xc;ad ye;dd
 祠草時子	ci;us ck;cz ui;os zi;aa
@@ -71125,7 +71125,7 @@ use_preset_vocabulary: false
 紅緞槍	hs;sg dr;sd qd;mc
 紅美玲	hs;sg mz;dy ly;wl
 紅美鈴	hs;sg mz;dy ly;jl
-紅耳彩龜	hs;sg er;aa cl;pc gv;pa
+紅耳彩龜	hs;sg er;aa cl;pc gv;da
 紅臉猴	hs;sg lm;oq hb;qh
 紅臉頰	hs;sg lm;oq jw;yj
 紅與白與黑的系譜	hs;sg yu;ba bl;pa yu;ba hz;ad de;bu xi;ps pu;yp
@@ -75076,7 +75076,7 @@ use_preset_vocabulary: false
 肯尼斯埃爾梅羅阿奇博爾德	kf;ov ni;ub si;jq ai;tu er;ay mz;mm lo;sv aa;ek qi;dk bo;uc er;ay de;rx
 肯尼迪	kf;ov ni;ub di;zy
 肯尼阿克曼	kf;ov ni;ub aa;ek ke;eg mj;oy
-肯德龜	kf;ov de;rx gv;pa
+肯德龜	kf;ov de;rx gv;da
 肯普法	kf;ov pu;bo fa;dq
 肯特	kf;ov te;ns
 肯特保羅	kf;ov te;ns bk;rd lo;sv
@@ -75666,7 +75666,7 @@ use_preset_vocabulary: false
 自然之森	zi;pa rj;dq vi;dd sf;ml
 自然反射	zi;pa rj;dq fj;py ue;cu
 自然地星獅	zi;pa rj;dq di;ty xy;ou ui;qu
-自然地龜	zi;pa rj;dq di;ty gv;pa
+自然地龜	zi;pa rj;dq di;ty gv;da
 自然時代的旅行	zi;pa rj;dq ui;os dl;ry de;bu lv;fp xy;rd
 自然木鱗龍	zi;pa rj;dq mu;ad ln;yl ls;dg
 自然木龍獸	zi;pa rj;dq mu;ad ls;dg ub;qu
@@ -82370,7 +82370,7 @@ use_preset_vocabulary: false
 蟹蛛	xx;ij vu;iv
 蟹黃小籠包	xx;ij hd;cb xc;ad ls;vl bk;bs
 蟹黃湯包	xx;ij hd;cb th;dy bk;bs
-蟹龜	xx;ij gv;pa
+蟹龜	xx;ij gv;da
 蟻之增殖	yi;iy vi;dd zg;tc vi;dv
 蟻人	yi;iy rf;pd
 蟻岩土	yi;iy yj;uu tu;aa
@@ -88436,7 +88436,7 @@ use_preset_vocabulary: false
 這裏是哪裏	ve;zy li;dy ui;op na;kn li;dy
 這裏是幸福安心委員會	ve;zy li;dy ui;op xy;tu fu;uf an;bn xn;dd wz;hn yr;kb hv;ro
 這裏是神奇的賽爾號	ve;zy li;dy ui;op uf;uu qi;dk de;bu sl;bb er;ay hk;hh
-這裏是葛飾區龜有公園前派出所	ve;zy li;dy ui;op ge;ch ui;uj qu;kp gv;pa yb;ou gs;bs yr;ky qm;bd pl;dp iu;ck so;hj
+這裏是葛飾區龜有公園前派出所	ve;zy li;dy ui;op ge;ch ui;uj qu;kp gv;da yb;ou gs;bs yr;ky qm;bd pl;dp iu;ck so;hj
 這裏沒有格林達姆	ve;zy li;dy mz;du yb;ou ge;mg ln;mm da;zy mu;nm
 這裏的約定	ve;zy li;dy de;bu yt;su dy;bp
 這裏那裏每一天	ve;zy li;dy na;el li;dy mz;pm yi;aa tm;ad
@@ -90839,8 +90839,8 @@ use_preset_vocabulary: false
 金黃色葡萄球菌	jn;pa hd;cb se;db pu;cp tk;cf qq;wq jp;ch
 金鼠	jn;pa uu;ju
 金龍獎	jn;pa ls;dg jd;qj
-金龜城	jn;pa gv;pa ig;ti
-金龜子	jn;pa gv;pa zi;aa
+金龜城	jn;pa gv;da ig;ti
+金龜子	jn;pa gv;da zi;aa
 釓娘	ga;jg nd;nl
 釔娘	yi;jy nd;nl
 釕娘	lc;jl nd;nl
@@ -102925,7 +102925,7 @@ use_preset_vocabulary: false
 龍鳳	ls;dg fg;jn
 龍龍來來來	ls;dg ls;dg ll;ad ll;ad ll;ad
 龍龍與忠狗	ls;dg ls;dg yu;ba vs;xv gb;qj
-龍龜	ls;dg gv;pa
+龍龜	ls;dg gv;da
 龐克	ph;gl ke;eg
 龐克哈薩德篇登場角色	ph;gl ke;eg ha;kh sa;ci de;rx pm;vb dg;dd ih;ty jt;dy se;db
 龐培馬格諾	ph;gl pz;tk ma;ad ge;mg no;yr
@@ -102942,25 +102942,25 @@ use_preset_vocabulary: false
 龐雨嫣	ph;gl yu;ad yj;ny
 龔璽	gs;lg xi;ye
 龔震華	gs;lg vf;yi hw;ca
-龜井三郎	gv;pa jy;aa sj;aa lh;el
-龜井榦太	gv;pa jy;aa gj;hd tl;dd
-龜井芳子	gv;pa jy;aa fh;cf zi;aa
-龜井隆二	gv;pa jy;aa ls;eu er;aa
-龜仙人	gv;pa xm;ru rf;pd
-龜兔賽跑	gv;pa tu;dd sl;bb pk;zb
-龜娘	gv;pa nd;nl
-龜居城	gv;pa ju;ug ig;ti
-龜山俊樹	gv;pa uj;aa jp;rj uu;mc
-龜山雄慈	gv;pa uj;aa xs;vh ci;xz
-龜岡孝洋	gv;pa gh;ku xc;lz yh;dy
-龜波氣功	gv;pa bo;dp qi;qm gs;gl
-龜派氣功	gv;pa pl;dp qi;qm gs;gl
-龜田役所土壘	gv;pa tm;aa yi;ru so;hj tu;aa lz;tl
-龜甲貞宗	gv;pa jw;aa vf;bb zs;bu
-龜的誓言	gv;pa de;bu ui;yv yj;da
-龜與兔	gv;pa yu;ba tu;dd
-龜苓膏	gv;pa ly;cl gk;dy
-龜谷理子	gv;pa gu;bk li;wl zi;aa
-龜霸子	gv;pa ba;yo zi;aa
-龜靈	gv;pa ly;wl
-龜鶴城瑪麗	gv;pa he;nv ig;ti ma;wm li;ll
+龜井三郎	gv;da jy;aa sj;aa lh;el
+龜井榦太	gv;da jy;aa gj;hd tl;dd
+龜井芳子	gv;da jy;aa fh;cf zi;aa
+龜井隆二	gv;da jy;aa ls;eu er;aa
+龜仙人	gv;da xm;ru rf;pd
+龜兔賽跑	gv;da tu;dd sl;bb pk;zb
+龜娘	gv;da nd;nl
+龜居城	gv;da ju;ug ig;ti
+龜山俊樹	gv;da uj;aa jp;rj uu;mc
+龜山雄慈	gv;da uj;aa xs;vh ci;xz
+龜岡孝洋	gv;da gh;ku xc;lz yh;dy
+龜波氣功	gv;da bo;dp qi;qm gs;gl
+龜派氣功	gv;da pl;dp qi;qm gs;gl
+龜田役所土壘	gv;da tm;aa yi;ru so;hj tu;aa lz;tl
+龜甲貞宗	gv;da jw;aa vf;bb zs;bu
+龜的誓言	gv;da de;bu ui;yv yj;da
+龜與兔	gv;da yu;ba tu;dd
+龜苓膏	gv;da ly;cl gk;dy
+龜谷理子	gv;da gu;bk li;wl zi;aa
+龜霸子	gv;da ba;yo zi;aa
+龜靈	gv;da ly;wl
+龜鶴城瑪麗	gv;da he;nv ig;ti ma;wm li;ll
