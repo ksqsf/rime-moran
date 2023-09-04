@@ -6,7 +6,7 @@
 
 ---
 name: moran.genshin
-version: "1.1.1"
+version: "20230904+1.1.1"
 sort: by_weight
 use_preset_vocabulary: false
 ...
