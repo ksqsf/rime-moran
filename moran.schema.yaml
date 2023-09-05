@@ -172,7 +172,7 @@ reverse_tiger:
 
 reverse_universal:
   tag: reverse_universal
-  dictionary: moran.main
+  dictionary: moran.chars
   tips: 〔通配〕
   __include: reverse_format
 

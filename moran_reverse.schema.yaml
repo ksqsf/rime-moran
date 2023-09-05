@@ -21,7 +21,7 @@ translator:
   encode_commit_history: false
   enable_sentence: false
   enable_user_dict: false
-  dictionary: moran.main
+  dictionary: moran.chars
 
 speller:
   alphabet: abcdefghijklmnopqrstuvwxyz

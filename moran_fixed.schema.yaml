@@ -113,7 +113,7 @@ emoji:
   tips: all
 
 reverse_lookup:
-  dictionary: moran.main
+  dictionary: moran.chars
   enable_user_dict: false
   tips: 〔通配〕
 
