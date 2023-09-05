@@ -17,7 +17,7 @@
 
 ---
 name: moran.chars
-version: "20230904"
+version: "20230905"
 sort: by_weight
 use_preset_vocabulary: false
 ...
