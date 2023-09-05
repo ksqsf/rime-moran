@@ -3606,7 +3606,6 @@ bmzy	不鳴則已
 bn	濱
 bna	不能啊
 bnb	賓
-bnb	鬢
 bnbj	不年不節
 bnbn	不男不女
 bnbn	彬彬
@@ -3632,6 +3631,7 @@ bnhe	濱河
 bnhh	百年好合
 bnhl	濱海
 bnhu	濱湖
+bni	鬢
 bnie	殯車
 bnif	百鳥朝鳳
 bnii	擯斥
@@ -6424,7 +6424,7 @@ ckgf	草根
 ckgk	草稿
 ckgo	草果
 ckgu	草菇
-ckh	艹
+cka	艹
 ckhd	草荒
 ckhe	漕河
 ckhv	草灰
@@ -10557,7 +10557,7 @@ dnzm	當牛做馬
 do	多
 doa	夛
 doai	多愛
-dob	鬌
+doi	鬌
 dobc	奪標
 dobi	躲避
 dobj	多半
@@ -13033,7 +13033,6 @@ fa	髮
 faa	发
 faan	發暗
 faan	法案
-fab	髮
 fabc	發表
 fabh	發榜
 fabi	法幣
@@ -13916,7 +13915,7 @@ fgzx	反躬自省
 fh	放
 fhai	妨礙
 fhan	方案
-fhb	髣
+fhi	髣
 fhbf	坊本
 fhbi	分毫不差
 fhbj	仿辦
@@ -13992,7 +13991,7 @@ fhhw	防滑
 fhhw	放花
 fhhy	放懷
 fhhz	防黑
-fhi	蚄
+fhif	蚄
 fhia	方差
 fhib	防臭
 fhib	紡綢
@@ -19306,7 +19305,6 @@ gvzu	貴族
 gvzv	歸罪
 gvzw	箇中滋味
 gw	瓜
-gwa	咼
 gwai	掛礙
 gwb	寡
 gwbc	掛錶
@@ -19378,6 +19376,7 @@ gwjw	掛甲
 gwjx	掛接
 gwjy	古爲今用
 gwk	呱
+gwkk	咼
 gwke	掛科
 gwkk	掛靠
 gwkl	刮開
@@ -20294,7 +20293,6 @@ hdzl	蝗災
 hdzu	皇族
 hdzw	厚德載物
 he	何
-hea	咼
 heai	和藹
 hean	河岸
 heb	賀
@@ -20402,6 +20400,7 @@ hekh	嗬
 hekh	嚇
 hekj	合刊
 hekk	呵
+hekk	咼
 heku	何苦
 hel	劾
 heli	合理
@@ -22328,7 +22327,7 @@ hqzh	黃雀在後
 hqzu	回去再說
 hqzu	後勤組
 hr	換
-hrb	鬟
+hrb	宦
 hrba	環靶
 hrbf	還本
 hrbg	歡蹦
@@ -22409,6 +22408,8 @@ hrif	環襯
 hrig	換成
 hrig	環城
 hrih	歡暢
+hrih	鬟
+hrih	轘
 hril	後人乘涼
 hris	緩衝
 hriu	患處
@@ -22862,7 +22863,6 @@ hu	戶
 hua	互
 huai	互愛
 huan	護岸
-hub	鬍
 hubc	還是不錯
 hubc	寒暑表
 hubd	胡說八道
@@ -22944,7 +22944,8 @@ huhu	呼呼
 huhv	互惠
 huhw	胡話
 huhy	繪聲繪影
-hui	蝴
+hui	鬍
+huih	蝴
 huia	湖汊
 huib	狐臭
 huie	胡扯
@@ -25691,7 +25692,7 @@ iith	池塘
 iitj	侈談
 iitv	斥退
 iitx	墀
-iiu	尺
+iia	尺
 iiua	癡傻
 iiub	赤手
 iiub	匙
@@ -28243,7 +28244,7 @@ jdsi	掘地三尺
 jdsi	僵死
 jdsr	姜蒜
 jdsu	江蘇
-jdt	疆
+jdt	壃
 jdth	薑湯
 jdth	講堂
 jdtj	講壇
@@ -32851,7 +32852,6 @@ kblk	開不了口
 kblq	扣留
 kblx	快步流星
 kbly	口令
-kbm	瞉
 kbmb	看不明白
 kbmf	摳門
 kbml	芤脈
@@ -34080,7 +34080,6 @@ knxn	康乃馨
 knxy	可能性
 knya	肯尼亞
 ko	擴
-kob	髺
 kobh	鬠
 kobj	擴版
 kobm	擴編
@@ -34098,6 +34097,7 @@ kohk	括號
 kohu	括弧
 koi	蛞
 koio	闊綽
+koiu	髺
 kois	擴充
 koj	銛
 kojm	擴建
@@ -34123,7 +34123,6 @@ koyn	擴音
 koyu	蛞蝓
 kozg	擴增
 kp	困
-kpb	髡
 kpbc	坤錶
 kpbh	捆綁
 kpbk	坤包
@@ -34140,7 +34139,8 @@ kpfu	捆縛
 kph	焜
 kphi	看破紅塵
 kpho	困惑
-kpi	齫
+kpi	髡
+kpik	齫
 kpis	昆蟲
 kpj	錕
 kpjc	睏覺
@@ -38781,7 +38781,6 @@ lwzs	來無蹤
 lwzy	來無蹤去無影
 lx	列
 lxap	另行安排
-lxb	鬣
 lxbc	列表
 lxbd	連續不斷
 lxbf	練習本
@@ -38831,7 +38830,8 @@ lxhv	蘭心蕙質
 lxhw	理想化
 lxhw	裂化
 lxhy	聯席會議
-lxi	蛚
+lxi	鬣
+lxil	蛚
 lxie	列車
 lxih	獵場
 lxij	陸相沉積
@@ -39942,7 +39942,6 @@ mfzi	沒法子
 mfzi	門子
 mg	夢
 mga	尨
-mgb	髳
 mgbh	盟邦
 mgbi	矇蔽
 mgbi	懵逼
@@ -39987,10 +39986,11 @@ mghs	蒙哄
 mghu	猛虎
 mghv	夢迴
 mghw	夢話
-mgi	蟒
+mgi	蜢
 mgif	蒙塵
 mgih	慢工出細活
 mgim	蠓
+mgim	髳
 mgim	蜢
 mgip	孟春
 mgis	萌寵
@@ -40442,11 +40442,10 @@ miz	迷
 mizk	蜜棗
 mizv	迷醉
 mj	慢
-mjb	鬘
 mjbi	漫筆
 mjbj	慢班
 mjbk	瞞報
-mjbr	鬗
+mjir	鬗
 mjbu	漫步
 mjbz	毛巾被
 mjc	蔓
@@ -40492,6 +40491,7 @@ mjie	慢車
 mjig	滿城
 mjih	漫長
 mjij	蠻纏
+mjim	鬘
 mjim	蟃
 mjis	蟎蟲
 mjiu	滿處
@@ -44071,7 +44071,7 @@ nryi	暖意
 nryu	能人異士
 nrzr	能忍則忍
 ns	弄
-nsb	鬞
+nsi	鬞
 nsbc	寧死不從
 nsbj	農辦
 nsbk	膿包
@@ -51126,7 +51126,6 @@ rgyv	人各有志
 rgzh	如鯁在喉
 rgzl	人工造林
 rh	讓
-rhb	鬤
 rhbi	攘臂
 rhbu	讓步
 rhby	軟化病
@@ -51146,6 +51145,7 @@ rhh	穰
 rhhj	日後好相見
 rhhu	熱乎乎
 rhi	蠰
+rhix	鬤
 rhia	讓茶
 rhit	熱火朝天
 rhiu	讓出
@@ -51277,7 +51277,6 @@ rizi	日子
 rj	然
 rja	冉
 rjae	忍飢挨餓
-rjb	髯
 rjbh	如假包換
 rjbj	忍俊不禁
 rjbk	軟件包
@@ -51305,7 +51304,8 @@ rjhh	熯
 rjhh	人機會話
 rjhs	染紅
 rjhv	人跡罕至
-rji	蚺
+rji	髯
+rjir	蚺
 rjjd	儒家經典
 rjjh	人機交互
 rjji	染疾
@@ -52644,7 +52644,7 @@ sfyx	四氟乙烯
 sfyy	算法語言
 sfzi	隨份子
 sg	僧
-sgb	鬙
+sgi	鬙
 sgbj	三個半
 sgbv	三觀不正
 sgby	三更半夜
@@ -53031,7 +53031,7 @@ sizl	死在
 sizo	四座
 sizv	死罪
 sj	散
-sjb	鬖
+sji	鬖
 sjba	三八
 sjbf	三本
 sjbh	三句不離本行
@@ -53730,7 +53730,7 @@ srzk	酸棗
 srzo	算作
 ss	送
 ssan	訟案
-ssb	鬆
+ssi	鬆
 ssbb	隨隨便便
 ssbh	鬆綁
 ssbk	慫包
@@ -55385,7 +55385,6 @@ thzy	同化作用
 ti	提
 tian	提案
 tiap	統籌安排
-tib	鬄
 tiba	提拔
 tibc	體表
 tibh	蹄膀
@@ -55457,6 +55456,7 @@ tiiu	提出
 tiiu	剔除
 tiiv	鐵杵成針
 tiix	推陳出新
+tiiy	鬄
 tij	銻
 tijc	提交
 tijg	統籌兼顧
@@ -58066,7 +58066,6 @@ tyss	挺松
 tyss	聽訟
 tysu	挺俗
 tysx	統一思想
-tyt	挺
 tyth	廳堂
 tytl	亭臺
 tyto	停妥
@@ -60786,7 +60785,8 @@ ujzv	山嘴
 ujzx	數據總線
 ujzz	山賊
 uk	少
-ukb	髾
+uki	蛸
+ukix	髾
 ukbc	時刻表
 ukbk	少報
 ukbk	燒包
@@ -61255,7 +61255,7 @@ uoxx	說些
 uoyt	朔月
 uozv	說嘴
 up	順
-upb	鬊
+upi	鬊
 upbm	順便
 upc	蕣
 upci	順次
@@ -63645,7 +63645,6 @@ vfzk	真早
 vfzl	賑災
 vfzo	振作
 vfzy	照方子抓藥
-vg	這個
 vga	正
 vgab	治國安邦
 vgam	治國安民
@@ -63668,6 +63667,7 @@ vgci	證詞
 vgcj	正餐
 vgcp	中關村
 vgd	爭
+vgv	爭
 vgda	睜大
 vgda	正大
 vgdb	爭鬥
@@ -63857,7 +63857,7 @@ vguq	轉過身去
 vguu	證書
 vguv	徵稅
 vguy	中國社會科學院
-vgv	整
+vg	整
 vgva	爭
 vgva	掙扎
 vgvb	鄭州
@@ -66637,7 +66637,7 @@ vvzs	追蹤
 vvzv	濁者自濁
 vvzx	沾沾自喜
 vw	抓
-vwb	髽
+vwi	髽
 vwbc	正誤表
 vwbj	中文版
 vwbu	抓捕
@@ -68093,7 +68093,6 @@ wkyv	無可言狀
 wkyx	無愧於心
 wkzd	紈絝子弟
 wl	外
-wla	咼
 wlb	歪
 wlba	忘了吧
 wlbc	外表
@@ -68178,6 +68177,7 @@ wljx	外界
 wljx	外接
 wljy	外景
 wlkb	外寇
+wlkk	咼
 wlkd	外框
 wlke	外殼
 wlke	外科
@@ -68401,7 +68401,6 @@ wnyj	玩弄於股掌之間
 wnyk	萬能藥
 wnyv	玩弄於股掌之中
 wo	我
-woa	咼
 wob	卧
 wobi	卧
 wobm	窩邊
@@ -68448,6 +68447,8 @@ woju	蝸居
 woju	萵苣
 wojw	窩家
 wok	喔
+wokk	我靠
+wokk	咼
 wokb	倭寇
 woli	窩裏
 woli	握力
@@ -72987,7 +72988,6 @@ xtzz	小兔崽子
 xu	需
 xuaj	刑事案件
 xuan	兇殺案
-xub	鬚
 xuba	心神不安
 xuba	序跋
 xubd	心神不定
@@ -73071,7 +73071,8 @@ xuhs	蓄洪
 xuhv	學生會
 xuhw	敘話
 xuhx	稰
-xui	蝑
+xui	鬚
+xuix	蝑
 xuib	興衰成敗
 xuif	刑事處分
 xuih	許昌
@@ -78651,7 +78652,6 @@ yszw	有所作爲
 yszy	踊
 yt	月
 yta	曰
-ytb	髺
 ytbj	月半
 ytbk	月報
 ytbt	一通百通
@@ -78720,6 +78720,7 @@ ytii	樂池
 ytij	月產
 ytit	仰天長嘆
 ytiu	月初
+ytiu	髺
 ytix	仰天長嘯
 ytj	鑰
 ytjc	言聽計從
@@ -78772,6 +78773,7 @@ ytmo	月末
 ytmo	約摸
 ytmr	有天沒日
 ytmu	岳母
+ytmy	樂
 ytmy	粵
 ytmy	月明
 ytmy	樾
