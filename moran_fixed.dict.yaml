@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20230904"
+version: "20230905"
 sort: original
 columns:
   - code
@@ -6395,6 +6395,7 @@ cjzo	慚怍
 cjzy	促進作用
 cjzz	倉頡造字
 ck	草
+cka	艹
 ckaa	屮
 ckan	草案
 ckbf	草本
@@ -6424,7 +6425,6 @@ ckgf	草根
 ckgk	草稿
 ckgo	草果
 ckgu	草菇
-cka	艹
 ckhd	草荒
 ckhe	漕河
 ckhv	草灰
@@ -10557,7 +10557,6 @@ dnzm	當牛做馬
 do	多
 doa	夛
 doai	多愛
-doi	鬌
 dobc	奪標
 dobi	躲避
 dobj	多半
@@ -10605,6 +10604,7 @@ dohe	多核
 dohk	多好
 dohv	奪回
 dohy	多壞
+doi	鬌
 doia	多差
 doii	多喫
 doij	多產
@@ -13915,7 +13915,6 @@ fgzx	反躬自省
 fh	放
 fhai	妨礙
 fhan	方案
-fhi	髣
 fhbf	坊本
 fhbi	分毫不差
 fhbj	仿辦
@@ -13991,12 +13990,13 @@ fhhw	防滑
 fhhw	放花
 fhhy	放懷
 fhhz	防黑
-fhif	蚄
+fhi	髣
 fhia	方差
 fhib	防臭
 fhib	紡綢
 fhie	房車
 fhie	紡車
+fhif	蚄
 fhif	防塵
 fhig	方程
 fhii	方尺
@@ -19376,8 +19376,8 @@ gwjw	掛甲
 gwjx	掛接
 gwjy	古爲今用
 gwk	呱
-gwkk	咼
 gwke	掛科
+gwkk	咼
 gwkk	掛靠
 gwkl	刮開
 gwlb	寡陋
@@ -22945,10 +22945,10 @@ huhv	互惠
 huhw	胡話
 huhy	繪聲繪影
 hui	鬍
-huih	蝴
 huia	湖汊
 huib	狐臭
 huie	胡扯
+huih	蝴
 huii	互斥
 huii	護持
 huij	胡纏
@@ -25497,6 +25497,7 @@ ihzl	常在
 ihzu	長足
 ihzy	吹鬍子瞪眼
 ii	喫
+iia	尺
 iib	癡
 iiba	喫吧
 iibd	貾
@@ -25692,7 +25693,6 @@ iith	池塘
 iitj	侈談
 iitv	斥退
 iitx	墀
-iia	尺
 iiua	癡傻
 iiub	赤手
 iiub	匙
@@ -34097,8 +34097,8 @@ kohk	括號
 kohu	括弧
 koi	蛞
 koio	闊綽
-koiu	髺
 kois	擴充
+koiu	髺
 koj	銛
 kojm	擴建
 kojp	擴軍
@@ -38831,10 +38831,10 @@ lxhw	理想化
 lxhw	裂化
 lxhy	聯席會議
 lxi	鬣
-lxil	蛚
 lxie	列車
 lxih	獵場
 lxij	陸相沉積
+lxil	蛚
 lxin	老羞成怒
 lxiu	列出
 lxji	劣跡
@@ -40445,7 +40445,6 @@ mj	慢
 mjbi	漫筆
 mjbj	慢班
 mjbk	瞞報
-mjir	鬗
 mjbu	漫步
 mjbz	毛巾被
 mjc	蔓
@@ -40493,6 +40492,7 @@ mjih	漫長
 mjij	蠻纏
 mjim	鬘
 mjim	蟃
+mjir	鬗
 mjis	蟎蟲
 mjiu	滿處
 mjj	幔
@@ -44071,7 +44071,6 @@ nryi	暖意
 nryu	能人異士
 nrzr	能忍則忍
 ns	弄
-nsi	鬞
 nsbc	寧死不從
 nsbj	農辦
 nsbk	膿包
@@ -44108,6 +44107,7 @@ nshv	農會
 nshw	農話
 nshy	弄壞
 nshz	濃黑
+nsi	鬞
 nsia	濃茶
 nsib	濃稠
 nsic	拈酸喫醋
@@ -51145,10 +51145,10 @@ rhh	穰
 rhhj	日後好相見
 rhhu	熱乎乎
 rhi	蠰
-rhix	鬤
 rhia	讓茶
 rhit	熱火朝天
 rhiu	讓出
+rhix	鬤
 rhjc	嚷叫
 rhji	潤滑劑
 rhjn	熱乎勁
@@ -52644,7 +52644,6 @@ sfyx	四氟乙烯
 sfyy	算法語言
 sfzi	隨份子
 sg	僧
-sgi	鬙
 sgbj	三個半
 sgbv	三觀不正
 sgby	三更半夜
@@ -52659,6 +52658,7 @@ sgdy	三個多月
 sgfm	三個方面
 sgfs	損公肥私
 sghi	三個和尚沒水喫
+sgi	鬙
 sgij	三個臭皮匠
 sgji	四個堅持
 sgjk	三跪九叩
@@ -53031,7 +53031,6 @@ sizl	死在
 sizo	四座
 sizv	死罪
 sj	散
-sji	鬖
 sjba	三八
 sjbf	三本
 sjbh	三句不離本行
@@ -53094,6 +53093,7 @@ sjht	四季海棠
 sjhu	散戶
 sjhv	散會
 sjhw	三句話
+sji	鬖
 sjie	私家車
 sjih	散場
 sjii	三角尺
@@ -53730,7 +53730,6 @@ srzk	酸棗
 srzo	算作
 ss	送
 ssan	訟案
-ssi	鬆
 ssbb	隨隨便便
 ssbh	鬆綁
 ssbk	慫包
@@ -53777,6 +53776,7 @@ sshr	鬆緩
 sshv	送回
 sshw	送花
 sshw	松花
+ssi	鬆
 ssig	送呈
 ssih	繅絲廠
 ssii	鬆弛
@@ -60785,8 +60785,6 @@ ujzv	山嘴
 ujzx	數據總線
 ujzz	山賊
 uk	少
-uki	蛸
-ukix	髾
 ukbc	時刻表
 ukbk	少報
 ukbk	燒包
@@ -60839,10 +60837,12 @@ ukhw	韶華
 ukhx	稍
 ukhy	燒
 ukhy	燒壞
+uki	蛸
 ukia	稍差
 ukig	燒成
 ukii	少喫
 ukil	燒柴
+ukix	髾
 ukjc	燒焦
 ukjc	捎腳
 ukjd	少將
@@ -61255,7 +61255,6 @@ uoxx	說些
 uoyt	朔月
 uozv	說嘴
 up	順
-upi	鬊
 upbm	順便
 upc	蕣
 upci	順次
@@ -61277,6 +61276,7 @@ uphe	順和
 uphu	順乎
 uphw	順滑
 uphw	商品化
+upi	鬊
 upia	順差
 upih	順暢
 upih	耍排場
@@ -62855,6 +62855,7 @@ vbbx	朝不保夕
 vbc	薵
 vbco	真不錯
 vbd	洲
+vbda	長不大
 vbdb	找不到北
 vbdk	周到
 vbdk	找不到
@@ -63163,10 +63164,12 @@ vdtm	裝填
 vdtp	重大突破
 vdts	擲彈筒
 vdtt	直達天聽
+vdu	真的是
 vdua	裝傻
 vdub	終端設備
 vdue	裝設
 vduf	掌燈時分
+vdug	真的是一個
 vduh	裝上
 vdui	裝飾
 vdui	這倒是
@@ -63645,6 +63648,7 @@ vfzk	真早
 vfzl	賑災
 vfzo	振作
 vfzy	照方子抓藥
+vg	整
 vga	正
 vgab	治國安邦
 vgam	治國安民
@@ -63667,7 +63671,6 @@ vgci	證詞
 vgcj	正餐
 vgcp	中關村
 vgd	爭
-vgv	爭
 vgda	睜大
 vgda	正大
 vgdb	爭鬥
@@ -63857,7 +63860,7 @@ vguq	轉過身去
 vguu	證書
 vguv	徵稅
 vguy	中國社會科學院
-vg	整
+vgv	爭
 vgva	爭
 vgva	掙扎
 vgvb	鄭州
@@ -63959,7 +63962,6 @@ vhce	賬冊
 vhck	長草
 vhd	漲
 vhda	長大
-vhda	長達
 vhde	長得
 vhdg	掌燈
 vhdg	長凳
@@ -66637,7 +66639,6 @@ vvzs	追蹤
 vvzv	濁者自濁
 vvzx	沾沾自喜
 vw	抓
-vwi	髽
 vwbc	正誤表
 vwbj	中文版
 vwbu	抓捕
@@ -66664,6 +66665,7 @@ vwho	抓獲
 vwhv	執委會
 vwhy	中外合資企業
 vwhz	中外合資
+vwi	髽
 vwil	抓差
 vwjg	站穩腳跟
 vwjk	拯危救困
@@ -68177,12 +68179,12 @@ wljx	外界
 wljx	外接
 wljy	外景
 wlkb	外寇
-wlkk	咼
 wlkd	外框
 wlke	外殼
 wlke	外科
 wlkh	霧裏看花
 wlkj	外刊
+wlkk	咼
 wlkr	往來款
 wlks	外空
 wlkt	無路可退
@@ -68447,9 +68449,9 @@ woju	蝸居
 woju	萵苣
 wojw	窩家
 wok	喔
+wokb	倭寇
 wokk	我靠
 wokk	咼
-wokb	倭寇
 woli	窩裏
 woli	握力
 wolp	渦輪
@@ -70021,6 +70023,7 @@ xcjx	心存僥倖
 xcjy	孝敬
 xck	嘯
 xcke	小可
+xckg	咲
 xckh	小康
 xckh	呺
 xckj	小看
@@ -73072,7 +73075,6 @@ xuhv	學生會
 xuhw	敘話
 xuhx	稰
 xui	鬚
-xuix	蝑
 xuib	興衰成敗
 xuif	刑事處分
 xuih	許昌
@@ -73082,6 +73084,7 @@ xuil	細水長流
 xuin	信守承諾
 xuir	續傳
 xuiv	小生產者
+xuix	蝑
 xuj	鉏
 xujb	形神兼備
 xujc	虛驕
