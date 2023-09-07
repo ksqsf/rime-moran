@@ -14487,6 +14487,8 @@
 鏸	sui	8
 濉	sui	9
 穂	sui	10
+挼	rua	13
+挼	ruo	13
 挼	sui	13
 鐩	sui	15
 眭	sui	20
