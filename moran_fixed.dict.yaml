@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20230905"
+version: "20230909"
 sort: original
 columns:
   - code
