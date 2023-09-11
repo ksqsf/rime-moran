@@ -23,6 +23,12 @@ switches:
     states: [ 漢字, 汉字 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
+  - options: [ utf8, gbk+emoji, big5+emoji ]
+    reset: 1
+    states:
+    - UTF-8
+    - GBK
+    - BIG5
   - name: emoji
     reset: 1
     states: [ 🈚, 🈶 ]
@@ -58,6 +64,8 @@ engine:
     - script_translator
   filters:
     - simplifier
+    - charset_filter@gbk+emoji
+    - charset_filter@big5+emoji
     - simplifier@emoji
     - simplifier@dzing
     - uniquifier
