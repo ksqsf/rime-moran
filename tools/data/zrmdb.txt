@@ -19497,9 +19497,8 @@
 盱 oy
 盲 ow
 盳 ow
-直	aa
-直 aa
 直 uq
+直 aa
 盵 oq
 盶 oy
 盷 oy
