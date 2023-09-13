@@ -75,10 +75,10 @@ translator:
   enable_completion: false
 
 reverse_lookup:
-  dictionary: moran.extended
+  dictionary: moran.chars
   prefix: "`"
   suffix: "'"
-  tips: "〔拼音〕"
+  tips: "〔魔然〕"
 
 punctuator:
   import_preset: symbols
