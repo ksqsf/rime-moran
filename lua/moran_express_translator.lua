@@ -1,10 +1,13 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023 ksqsf
 --
--- Ver: 0.3.1
+-- Ver: 0.3.2
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.3.2: 允許用戶自定義出簡讓全的各項設置：是否啓用、延遲幾位候選、是
+-- 否顯示簡快碼提示。
 --
 -- 0.3.1: 允許自定義簡快碼提示符。
 --
@@ -28,6 +31,9 @@ function top.init(env)
    env.smart = Component.Translator(env.engine, "", "script_translator@translator")
    env.rfixed = ReverseLookup('moran_fixed')
    env.quick_code_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator") or "⚡️"
+   env.ijrq_enable = env.engine.schema.config:get_bool("moran/ijrq/enable")
+   env.ijrq_defer = env.engine.schema.config:get_int("moran/ijrq/defer") or env.engine.schema.config:get_int("menu/page_size") or 5
+   env.ijrq_hint = env.engine.schema.config:get_bool("moran/ijrq/show_hint")
 end
 
 function top.fini(env)
@@ -66,38 +72,56 @@ function top.func(input, seg, env)
       end
    end
 
-   -- 出簡讓全。
-   local ijrq_enabled = true
-      and (env.engine.context.input == input)
-      and ((input_len == 4) or (input_len == 5 and input:sub(5,5) == 'o'))
-   local ijrq_deferred = {}
-
    -- smart 在 fixed 之後輸出。
    local smart_res = env.smart:query(input, seg)
    if smart_res ~= nil then
-      for cand in smart_res:iter() do
-         local defer = false
-         -- 如果輸出有詞，說明在拼詞，用戶很可能要使用高頻字，故此時停止出簡讓全。
-         if (ijrq_enabled and utf8.len(cand.text) > 1) then
-            ijrq_enabled = false
+      if not env.ijrq_enable then
+         -- 不啓用出簡讓全時
+         for cand in smart_res:iter() do
+            yield(cand)
          end
-         if (ijrq_enabled and utf8.len(cand.text) == 1) then
-            local fixed_codes = env.rfixed:lookup(cand.text)
-            for code in fixed_codes:gmatch("%S+") do
-               if (#code < 4 and string.sub(input, 1, #code) == code) then
-                  defer = true
-                  break
+      else
+         -- 啓用出簡讓全時
+         local ijrq_enabled = true
+            and (env.engine.context.input == input)
+            and ((input_len == 4) or (input_len == 5 and input:sub(5,5) == 'o'))
+         local immediate_set = {}
+         local deferred_set = {}
+         for cand in smart_res:iter() do
+            local defer = false
+            -- 如果輸出有詞，說明在拼詞，用戶很可能要使用高頻字，故此時停止出簡讓全。
+            if (ijrq_enabled and utf8.len(cand.text) > 1) then
+               ijrq_enabled = false
+            end
+            if (ijrq_enabled and utf8.len(cand.text) == 1) then
+               local fixed_codes = env.rfixed:lookup(cand.text)
+               for code in fixed_codes:gmatch("%S+") do
+                  if #code < 4
+                     and string.sub(input, 1, #code) == code
+                  then
+                     defer = true
+                     if env.ijrq_hint and cand.preedit:sub(1,4) == input:sub(1,4) then
+                        cand.comment = code
+                     end
+                     break
+                  end
                end
             end
+            if (not defer) then
+               table.insert(immediate_set, cand)
+            else
+               table.insert(deferred_set, cand)
+            end
          end
-         if (not defer) then
-            yield(cand)
-         else
-            table.insert(ijrq_deferred, cand)
+         for i = 1, math.min(env.ijrq_defer, #immediate_set) do
+            yield(immediate_set[i])
          end
-      end
-      for i, cand in ipairs(ijrq_deferred) do
-         yield(cand)
+         for i = 1, #deferred_set do
+            yield(deferred_set[i])
+         end
+         for i = math.min(env.ijrq_defer, #immediate_set) + 1, #immediate_set do
+            yield(immediate_set[i])
+         end
       end
    end
 

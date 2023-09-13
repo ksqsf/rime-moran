@@ -9,6 +9,15 @@ patch:
     # 建議在熟悉簡碼後再取消
     quick_code_indicator: "⚡️"
 
+
+    # 「出簡讓全」相關設置
+    # 當一個字具有簡碼時，打其全碼（不論是 yyxx 還是 yyxxo）都會導致該
+    # 字讓出首位，而被推遲到後位。
+    ijrq:
+      enable: true       # 是否啓用出簡讓全？
+      #defer: 5          # 延遲多少位？若不設置该项，則默認值是推遲到第二頁
+      show_hint: true    # 若讓全，則提示簡碼打法
+
   # simplification 開關
   # 0 = 打傳承字
   # 1 = 打簡化字（藉助 OpenCC）

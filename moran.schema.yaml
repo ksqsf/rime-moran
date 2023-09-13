@@ -259,6 +259,13 @@ recognizer:
     reverse_zrlf: "^olf[A-Za-z]*$"
     punct: '^/([0-9]0?|[A-Za-z]+)$'
 
+moran:  # 兜底默認值；以防用戶不提供任何值
+  quick_code_indicator: "⚡️"
+  ijrq:
+    enable: true
+    #defer: 5
+    show_hint: false
+
 __patch:
   - moran.defaults.yaml:/patch?
   - moran_patches.yaml:/fix_opencc_t2s?
