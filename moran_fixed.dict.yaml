@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20230911"
+version: "20230913"
 sort: original
 columns:
   - code
@@ -13207,8 +13207,8 @@ fawh	法網
 fawu	法務
 fawu	發物
 fawz	乏味
-faxc	發小
 faxc	發笑
+faxc	髮小
 faxd	發祥
 faxi	罰息
 faxm	發現

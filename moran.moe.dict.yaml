@@ -6,7 +6,7 @@
 
 ---
 name: moran.moe
-version: "20230904"
+version: "20230913"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -64418,7 +64418,7 @@ use_preset_vocabulary: false
 發射吧	fa;du ue;cu ba;kb
 發射基地區域	fa;du ue;cu ji;tq di;ty qu;kp yu;th
 發射場	fa;du ue;cu ih;ty
-發小	fa;du xc;ad
+髮小	fa;ib xc;ad
 發展歷史	fa;du vj;uy li;iv ui;ad
 發掘者殭屍	fa;du jt;fq ve;lo jd;dj ui;us
 發掘金字塔王國	fa;du jt;fq jn;ra zi;bz ta;td wh;aa go;kh

@@ -12,7 +12,7 @@
 
 ---
 name: moran_fixed_aabc
-version: "20230830"
+version: "20230913"
 sort: original
 columns:
   - code
@@ -9946,7 +9946,7 @@ fawf	發文
 fawh	法網
 fawu	法務
 fawz	乏味
-faxc	發小
+faxc	髮小
 faxi	罰息
 faxm	發現
 faxn	發信
