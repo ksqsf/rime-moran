@@ -13,7 +13,7 @@
 
 ---
 name: moran.touhou
-version: "20230830"
+version: "20230913"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -288,8 +288,8 @@ use_preset_vocabulary: false
 庭渡久侘歌	500
 庭渡	500
 久侘歌	500
-吉吊八千慧	500
-吉吊	500
+吉弔八千慧	500
+吉弔	500
 八千慧	500
 杖刀偶磨弓	500
 杖刀偶	500
@@ -2621,9 +2621,7 @@ use_preset_vocabulary: false
 擊穿彈幕結界吧
 姬川的翡翠
 姬川姬川的翡翠
-吉吊
 吉弔
-吉吊八千慧
 吉弔八千慧
 急凍大氣
 激動的呼喊
