@@ -14,8 +14,8 @@
         "type": "ocd2",
         "file": "moran_TSPhrases.ocd2"
       }, {
-        "type": "ocd2",
-        "file": "moran_TSCharacters.ocd2"
+        "type": "text",
+        "file": "moran_TSCharacters.txt"
       }, {
         "type": "text",
         "file": "moran_t2s_fix.txt"
