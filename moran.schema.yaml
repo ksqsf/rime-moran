@@ -1,7 +1,7 @@
 schema:
   schema_id: moran
   name: 魔然
-  version: "20230902"
+  version: "20230914"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -29,10 +29,7 @@ switches:
     states: [ 。，, ．， ]
   - options: [ utf8, gbk+emoji, big5+emoji ]
     reset: 1
-    states:
-    - UTF-8
-    - GBK
-    - BIG5
+    states: [ UTF-8, GBK, BIG5 ]
   - name: flexible
     states: [ 固詞, 動詞 ] # 「固詞」表示「固頂詞」
     reset: 1
@@ -41,8 +38,8 @@ switches:
     states: [ 🈚, 🈶 ]
   - name: unicode_comment
     states: [ U關, U開 ]
-  - name: dzing
-    states: [ 通, 寍 ]
+  - options: [ std_opencc,  std_tw, std_hk, std_dzing ]
+    states: [ 通, 臺, 港, 寍 ]
 
 engine:
   processors:
@@ -78,7 +75,9 @@ engine:
     - simplifier@emoji
     - charset_filter@gbk+emoji
     - charset_filter@big5+emoji
-    - simplifier@dzing
+    - simplifier@std_hk
+    - simplifier@std_tw
+    - simplifier@std_dzing
     - simplifier
     - lua_filter@*moran_charset_comment_filter  # Unicode 區位提示
     - lua_filter@*moran_unicode_display_filter  # Unicode 編碼提示
@@ -151,9 +150,19 @@ emoji:
   option_name: emoji
   tips: all
 
-dzing:
+std_hk:
+  opencc_config: t2hk.json
+  option_name: std_hk
+  #tips: all
+
+std_tw:
+  opencc_config: t2tw.json
+  option_name: std_tw
+  #tips: all
+
+std_dzing:
   opencc_config: moran_dzing.json
-  option_name: dzing
+  option_name: std_dzing
   tips: all
 
 reverse_format:
@@ -217,7 +226,7 @@ key_binder:
     - {when: has_menu, accept: "Control+s", toggle: simplification}
     - {when: has_menu, accept: "Control+u", toggle: unicode_comment}
     - {when: has_menu, accept: "Control+q", toggle: emoji}  # q 表示表情，讓出 Ctrl+e
-    - {when: has_menu, accept: "Control+d", toggle: dzing}
+    - {when: has_menu, accept: "Control+Shift+0", toggle: std_opencc}
     - {when: has_menu, accept: semicolon, send: "2"}
     - {when: has_menu, accept: "Tab", send: "Control+Right"}
     - {when: composing, accept: "Tab", send: "Control+Right"}

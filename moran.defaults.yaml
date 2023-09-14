@@ -31,6 +31,14 @@ patch:
   # 1 = 不使用固頂詞（動詞模式）
   "switches/@5/reset": 1
 
+  # 字形標準設定
+  # 該設置僅在「繁轉簡」關閉時生效
+  # 0 = 默認值（OpenCC 標準繁體）
+  # 1 = 傾向於臺灣用字標準
+  # 2 = 傾向於香港用字標準
+  # 3 = 寍標字
+  "switches/@8/reset": 0
+
   # 語言模型相關設置
   # 語言模型在某些場景下可以提升精準度，然而也會導致候選的行爲更加不可預測
   __include: enable_language_model  # 或 disable_language_model

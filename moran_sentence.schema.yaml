@@ -1,7 +1,7 @@
 schema:
   schema_id: moran_sentence
   name: 魔然·整句
-  version: "20230830"
+  version: "20230914"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -38,6 +38,8 @@ switches:
   - name: dzing
     reset: 0
     states: [ 通, 寍 ]
+  - options: [ std_opencc,  std_tw, std_hk, std_dzing ]
+    states: [ 通, 臺, 港, 寍 ]
 
 engine:
   processors:
@@ -67,7 +69,9 @@ engine:
     - charset_filter@gbk+emoji
     - charset_filter@big5+emoji
     - simplifier@emoji
-    - simplifier@dzing
+    - simplifier@std_tw
+    - simplifier@std_hk
+    - simplifier@std_dzing
     - uniquifier
 
 speller:
@@ -114,9 +118,17 @@ emoji:
   option_name: emoji
   tips: all
 
-dzing:
+std_hk:
+  opencc_config: t2hk.json
+  option_name: std_hk
+
+std_tw:
+  opencc_config: t2tw.json
+  option_name: std_tw
+
+std_dzing:
   opencc_config: moran_dzing.json
-  option_name: dzing
+  option_name: std_dzing
   tips: all
 
 reverse_lookup:
@@ -133,8 +145,8 @@ key_binder:
   import_preset: default
   bindings:
     - {when: has_menu, accept: "Control+s", toggle: simplification}
-    - {when: has_menu, accept: "Control+b", toggle: emoji}  # b 表示 表情, 让出 Ctrl+e
-    - {when: has_menu, accept: "Control+d", toggle: dzing}
+    - {when: has_menu, accept: "Control+q", toggle: emoji}  # q 表示 表情, 让出 Ctrl+e
+    - {when: has_menu, accept: "Control+Shift+0", toggle: std_opencc}
     - {when: has_menu, accept: semicolon, send: "2"}
     - {when: has_menu, accept: "Tab", send: "Control+Right"}
     - {when: composing, accept: "Tab", send: "Control+Right"}
