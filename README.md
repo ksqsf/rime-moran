@@ -1,6 +1,6 @@
 [English](README-en.md)
 
-<h1 align="center">魔改自然碼 Rime 方案</h1>
+<h1 align="center">魔然 Rime 輸入方案</h1>
 
 <p align="center">
 <a href="https://github.com/ksqsf/rime-moran/issues"><img src="https://img.shields.io/badge/%E6%AD%A1%E8%BF%8E-%E5%8F%83%E8%88%87%E8%B2%A2%E7%8D%BB-1dd3b0?style=for-the-badge&logo=github"/></a>
@@ -13,7 +13,9 @@
 
 配方： ℞ ksqsf/rime-moran ([線上試用](https://my-rime.vercel.app/?plum=ksqsf/rime-moran:moran,moran_sentence,moran_fixed))
 
-本項目爲基於自然碼（雙拼和輔助碼）的傳承字優先的 Rime 方案，簡稱「魔然」。具有三種模式、五重反查、四萬字、百萬詞庫和多種快捷輸入功能。
+本項目爲基於自然碼（雙拼和輔助碼）的傳承字優先的 Rime 方案，簡稱「魔然」。具有三種模式、五重反查、四萬字、百萬詞庫和多種快捷輸入功能。詳情請參閱[本項目維基](https://github.com/ksqsf/rime-moran/wiki)。
+
+魔然是開放的、社區維護的項目。歡迎參與！
 
 - [用法](https://github.com/ksqsf/rime-moran/wiki/%E6%95%99%E7%A8%8B#%E5%85%B6%E4%B8%89%E6%9B%B0%E5%96%AE%E5%AD%97%E8%BC%B8%E5%85%A5%E6%96%B9%E5%BC%8F)
 - [說明書](https://github.com/ksqsf/rime-moran/wiki)
