@@ -6,7 +6,7 @@
 
 ---
 name: moran.moe
-version: "20230913"
+version: "20230917"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -4734,7 +4734,7 @@ use_preset_vocabulary: false
 人類村落	rf;pd lz;yl cp;mc lo;cl
 人類爲什麼要互相傷害	rf;pd lz;yl wz;pd uf;ru me;my yk;xn hu;aa xd;mo uh;rw hl;bk
 人類的悲歡並不相通	rf;pd lz;yl de;bu bz;xf hr;qv by;qy bu;ad xd;mo ts;zy
-人類的本質就是復讀機	rf;pd lz;yl de;bu bf;aa vi;bj jq;yj ui;op fu;rf du;ym ji;mj
+人類的本質就是複讀機	rf;pd lz;yl de;bu bf;aa vi;bj jq;yj ui;op fu;yf du;ym ji;mj
 人類的讚歌就是勇氣的讚歌	rf;pd lz;yl de;bu zj;yz ge;qg jq;yj ui;op ys;ly qi;qm de;bu zj;yz ge;qg
 人類的讚歌是勇氣的讚歌	rf;pd lz;yl de;bu zj;yz ge;qg ui;op ys;ly qi;qm de;bu zj;yz ge;qg
 人類總是重複同樣的錯誤	rf;pd lz;yl zs;sc ui;op is;pa fu;yf ts;kk yh;my de;bu co;jx wu;yw
@@ -35406,9 +35406,9 @@ use_preset_vocabulary: false
 復興天使	fu;rf xy;ba tm;ad ui;rl
 復興的讚美詩	fu;rf xy;ba de;bu zj;yz mz;dy ui;ys
 復興聖騎聯盟	fu;rf xy;ba ug;ew qi;mq lm;ea mg;mm
-復讀	fu;rf du;ym
-復讀機	fu;rf du;ym ji;mj
-復讀能力	fu;rf du;ym ng;sb li;gp
+複讀	fu;yf du;ym
+複讀機	fu;yf du;ym ji;mj
+複讀能力	fu;yf du;ym ng;sb li;gp
 復辟精靈王權	fu;rf bi;xk jy;mq ly;wl wh;aa qr;mv
 復響	fu;rf xd;yx
 循星	xp;xd xy;ou

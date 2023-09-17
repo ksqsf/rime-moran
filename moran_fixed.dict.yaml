@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20230913"
+version: "20230917"
 sort: original
 columns:
   - code
@@ -13337,6 +13337,7 @@ fdhl	浮動匯率
 fdih	發電廠
 fdij	房地產
 fdix	釜底抽薪
+fdj	複讀機
 fdjc	佛得角
 fdjg	浮動價格
 fdji	發動機
