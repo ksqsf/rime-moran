@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20230917"
+version: "20230919"
 sort: original
 columns:
   - code
@@ -2245,6 +2245,7 @@ biyh	泌陽
 biyi	鄙夷
 biyj	閉眼
 biyk	必要
+biyl	編程語言理論
 biyn	鼻音
 biyp	避孕
 biyp	詖
@@ -2253,6 +2254,8 @@ biyr	不齒於人
 biys	不喫羊肉惹身臊
 biyu	比喻
 biyw	不出意外
+biyy	編程語言
+biyy	必應
 biyz	不成樣子
 biz	避
 bizb	鼻
@@ -2387,7 +2390,6 @@ bjjn	不僅僅
 bjjn	半斤
 bjjn	搬進
 bjjq	斑鳩
-bjju	半句
 bjju	不僅僅是
 bjjv	比肩接踵
 bjjv	不見經傳
@@ -11107,11 +11109,11 @@ dsds	顛三顛四
 dsdt	洞
 dsdu	東渡
 dsdv	湩
-dsf	挏
+dsf	第三方
 dsfg	東風
 dsfh	東方
-dsfh	第三方
 dsfh	洞房
+dsft	挏
 dsfu	洞府
 dsfv	揰
 dsfz	東非
@@ -19288,6 +19290,7 @@ gvyh	襘
 gvyi	詭異
 gvyi	皈依
 gvyj	鱖
+gvyk	更重要
 gvyn	歸隱
 gvyr	桂圓
 gvyr	櫃員
@@ -21076,6 +21079,7 @@ hjbi	好景不長
 hjbj	好久不見
 hjbj	汗斑
 hjbk	漢堡
+hjbl	環境變量
 hjby	寒冰
 hjbz	含悲
 hjc	菡
@@ -27473,6 +27477,7 @@ ixui	超現實
 ixuj	程序設計
 ixuu	暢銷書
 ixuw	長袖善舞
+ixv	初學者
 ixve	初學者
 ixvf	抽薪止沸
 ixvj	喘息之間
@@ -27493,6 +27498,7 @@ ixyj	垂涎已久
 ixyj	產學研
 ixyj	春宵一刻值千金
 ixyk	春宵一刻
+ixyl	程序語言理論
 ixyr	程序員
 ixyv	程序驗證
 ixyy	程序語言
@@ -32765,6 +32771,7 @@ kaji	咔嘰
 kak	咖
 kaka	咔咔
 kakk	喀
+kale	卡了
 kapm	卡片
 kaqi	卡其
 kaqm	卡鉗
@@ -32775,6 +32782,7 @@ kaui	喀什
 kavi	卡紙
 kavu	卡住
 kaxx	咯血
+kazl	卡在
 kb	口
 kban	口岸
 kbb	寇
@@ -33603,6 +33611,7 @@ kjdy	勘定
 kjer	坎兒
 kjf	扻
 kjfa	看法
+kjfd	空間複雜度
 kjfg	克己奉公
 kjfh	看房
 kjfl	克己復禮
@@ -34700,6 +34709,7 @@ kvki	空中客車
 kvks	虧空
 kvkv	睽睽
 kvkw	喟
+kvl	卡住了
 kvle	虧了
 kvlg	空中樓閣
 kvlj	潰爛
@@ -34986,6 +34996,7 @@ kyt	塊
 kytb	塊頭
 kytv	快退
 kyty	快艇
+kyu	可以說
 kyub	快手
 kyui	跨越式
 kyui	快事
@@ -35023,6 +35034,8 @@ kyzv	快嘴
 kz	剋
 kzfw	枯燥乏味
 kzju	客座教授
+kzl	卡在了
+kzle	卡在了
 kzml	開足馬力
 kzmy	開宗明義
 kzye	摳字眼兒
@@ -40441,8 +40454,8 @@ mixx	密寫
 mixy	米行
 miy	謎
 miyb	密友
-miyk	迷藥
 miyk	密鑰
+miyk	迷藥
 miym	醚
 miym	謐
 miym	醾
@@ -41195,10 +41208,12 @@ mmwy	默默無言
 mmwy	默默無語
 mmwz	名門望族
 mmwz	命名爲
+mmx	密碼學
 mmxd	面向
 mmxi	免息
 mmxm	棉線
 mmxq	面面相覷
+mmxt	密碼學
 mmxu	棉絮
 mmxx	棉鞋
 mmxy	濛濛細雨
@@ -60557,6 +60572,7 @@ ujee	善惡
 ujeu	鄯
 ujeu	盛極而衰
 ujf	擅
+ujfd	時間複雜度
 ujfg	山峰
 ujfg	山峯
 ujfu	搧
@@ -60835,6 +60851,7 @@ ukee	燒鵝
 uker	少兒
 ukev	適可而止
 ukf	捎
+ukfd	時空複雜度
 ukfj	燒飯
 ukfq	首開風氣
 ukfr	矢口否認
@@ -63140,6 +63157,7 @@ vdjv	重大進展
 vdjw	莊家
 vdjw	莊稼
 vdjy	中等教育
+vdk	直到
 vdkd	狀況
 vdkl	撞開
 vdko	壯闊
@@ -69423,6 +69441,7 @@ wyvu	無源之水
 wyvu	毋庸贅述
 wyvv	無意之中
 wyvy	毋庸置疑
+wyw	誤以爲
 wywb	無以爲報
 wywd	無用武之地
 wywf	文言文
