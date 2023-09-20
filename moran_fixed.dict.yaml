@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20230919"
+version: "20230920"
 sort: original
 columns:
   - code
@@ -41138,8 +41138,8 @@ mmpk	棉袍
 mmqd	勉強
 mmqf	面目全非
 mmqi	明末清初
-mmqm	莫名其妙
 mmqm	面前
+mmqm	莫名其妙
 mmqq	棉球
 mmqq	勉勉強強
 mmqu	免去
@@ -80907,6 +80907,7 @@ zhbg	再好不過
 zhbh	縱橫捭闔
 zhbl	坐懷不亂
 zhc	葬
+zhcz	藏
 zhd	奘
 zhde	最好的
 zhde	最壞的
