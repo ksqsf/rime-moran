@@ -13,9 +13,12 @@
 
 ---
 name: moran.touhou
-version: "20230913"
+version: "20230920"
 sort: by_weight
 use_preset_vocabulary: false
+columns:
+  - text
+  - weight
 ...
 
 靈異傳	500
