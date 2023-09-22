@@ -1,10 +1,12 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023 ksqsf
 --
--- Ver: 0.3.2
+-- Ver: 0.4.0
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.4.0: 增加詞輔功能。
 --
 -- 0.3.2: 允許用戶自定義出簡讓全的各項設置：是否啓用、延遲幾位候選、是
 -- 否顯示簡快碼提示。
@@ -34,6 +36,7 @@ function top.init(env)
    env.ijrq_enable = env.engine.schema.config:get_bool("moran/ijrq/enable")
    env.ijrq_defer = env.engine.schema.config:get_int("moran/ijrq/defer") or env.engine.schema.config:get_int("menu/page_size") or 5
    env.ijrq_hint = env.engine.schema.config:get_bool("moran/ijrq/show_hint")
+   env.enable_word_filter = env.engine.schema.config:get_bool("moran/enable_word_filter")
 end
 
 function top.fini(env)
@@ -72,12 +75,27 @@ function top.func(input, seg, env)
       end
    end
 
+   -- 詞輔在正常輸出之前，以提高其優先級
+   if env.enable_word_filter and (input_len == 5 or input_len == 7) then
+      local real_input = input:sub(1, input_len - 1)
+      local user_ac = input:sub(input_len, input_len)
+      local iter = top.raw_query_smart(env, real_input, seg, true)
+      for cand in iter do
+         idx = cand.comment:find(user_ac)
+         if idx ~= nil and ((input_len == 5) or (input_len == 7 and idx ~= 1)) then
+            cand._end = cand._end + 1
+            cand.preedit = input
+            yield(cand)
+         end
+      end
+   end
+
    -- smart 在 fixed 之後輸出。
-   local smart_res = env.smart:query(input, seg)
-   if smart_res ~= nil then
+   local smart_iter = top.raw_query_smart(env, input, seg, false)
+   if smart_iter ~= nil then
       if not env.ijrq_enable then
          -- 不啓用出簡讓全時
-         for cand in smart_res:iter() do
+         for cand in smart_iter do
             yield(cand)
          end
       else
@@ -87,7 +105,7 @@ function top.func(input, seg, env)
             and ((input_len == 4) or (input_len == 5 and input:sub(5,5) == 'o'))
          local immediate_set = {}
          local deferred_set = {}
-         for cand in smart_res:iter() do
+         for cand in smart_iter do
             local defer = false
             -- 如果輸出有詞，說明在拼詞，用戶很可能要使用高頻字，故此時停止出簡讓全。
             if (ijrq_enabled and utf8.len(cand.text) > 1) then
@@ -126,7 +144,7 @@ function top.func(input, seg, env)
    end
 
    -- 如果 smart 輸出爲空，並且 fixed 之前沒有調用過，此時再嘗試調用一下
-   if smart_res == nil and not fixed_triggered then
+   if smart_iter == nil and not fixed_triggered then
       local fixed_res = env.fixed:query(input, seg)
       if fixed_res ~= nil then
          for cand in fixed_res:iter() do
@@ -135,6 +153,33 @@ function top.func(input, seg, env)
             yield(cand)
          end
       end
+   end
+end
+
+-- | Query the smart translator for input, and transform the comment
+-- | for candidates whose length is 2 or 3 characters long.
+function top.raw_query_smart(env, input, seg, with_comment)
+   local translation = env.smart:query(input, seg)
+   if translation == nil then
+      return nil
+   end
+   local nxt, _ = translation:iter()
+   return function()
+      local cand = nxt(translation)
+      if cand == nil then
+         return nil
+      end
+      local cand_len = utf8.len(cand.text)
+      if cand_len == 2 or cand_len == 3 then
+         if with_comment then
+            cand:get_genuine().comment = cand.comment:gsub("[a-z]+;([a-z])[a-z] ?", "%1")
+         else
+            cand:get_genuine().comment = ""
+         end
+      else
+         cand:get_genuine().comment = ""
+      end
+      return cand
    end
 end
 
