@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20230920"
+version: "20230922"
 sort: original
 columns:
   - code
@@ -30747,6 +30747,7 @@ jrvn	急人之難
 jrvu	捐助
 jrvy	既然這樣
 jrw	琄
+jrwh	卷王
 jrwi	近日無仇
 jrwj	金融危機
 jrwu	捐物
@@ -44708,6 +44709,7 @@ nzji	內急
 nzjm	內奸
 nzjp	娘子軍
 nzjq	內疚
+nzjr	内卷
 nzjr	內眷
 nzjt	寧做雞頭
 nzju	內聚

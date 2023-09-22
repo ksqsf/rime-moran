@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20230904"
+version: "20230922"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
@@ -1019,6 +1019,7 @@ columns:
 其疾如風
 其臭如蘭
 具結悔過
+内卷	500
 冉冉升起
 再三考慮
 再下一城
@@ -1306,6 +1307,7 @@ columns:
 即便如此
 卷標
 卷次
+卷王	500
 卸船
 卻敵
 厚非
