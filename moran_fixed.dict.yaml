@@ -4,7 +4,7 @@
 
 ---
 name: moran_fixed
-version: "20230922"
+version: "20230925"
 sort: original
 columns:
   - code
@@ -2481,6 +2481,7 @@ bjsr	拌蒜
 bjss	不假思索
 bjst	巴基斯坦
 bjsv	伴隨
+bjt	坂
 bjtb	版頭
 bjtc	板條
 bjtf	坂
@@ -13760,6 +13761,7 @@ fgkb	封口
 fgkd	瘋狂
 fgks	風控
 fgky	鋒快
+fgl	反過來
 fgla	蜂蠟
 fgld	風量
 fgle	瘋了
@@ -32755,6 +32757,7 @@ jzyq	近在眼前
 jzyu	就在於
 jzyy	君子一言
 k	可
+k	可以
 ka	卡
 kaba	喀吧
 kada	咔噠
@@ -33222,13 +33225,13 @@ kelp	客輪
 kelq	客流
 kels	克隆
 kelu	刻錄
-kem	柯
+kem	棵
 kema	騍馬
-kemg	棵
 kemg	騍
 kemh	榼
 kemh	科盲
 kemj	客滿
+kemk	柯
 kemk	閜
 keml	稞麥
 kemm	可免
@@ -35093,6 +35096,7 @@ lak	啦
 lakd	喇
 lake	拉客
 lakl	拉開
+lakw	拉胯
 lala	啦啦
 lalc	蠟療
 lali	拉力
@@ -51723,6 +51727,7 @@ rrm	檽
 rrmo	軟磨
 rrmu	軟木
 rrnn	熱熱鬧鬧
+rro	朊
 rrpd	人人平等
 rrpj	軟盤
 rrpm	軟片
@@ -62838,10 +62843,12 @@ vamf	閘門
 vamg	蚱蜢
 vami	楂
 vamj	閘
+vamk	炸毛
 vamq	柤
 vamv	榨
 vamv	柞
 vao	眨
+vap	乍
 vapi	閘皮
 vapm	詐騙
 vapy	炸平
@@ -63289,6 +63296,7 @@ vebm	這邊
 vebq	卓爾不羣
 vebs	直而不肆
 vebu	這部
+veby	中二病
 vec	著
 vecd	蔗
 vech	遮藏
@@ -70404,6 +70412,7 @@ xdjx	詳解
 xdjx	下定決心
 xdjx	相接
 xdjy	香精
+xdk	響
 xdkb	巷口
 xdkd	相框
 xdke	相剋
@@ -75486,6 +75495,7 @@ yfuf	一帆順風
 yfuh	一分收穫
 yfui	樂府詩
 yfur	一方水土養一方人
+yfv	一分鐘
 yfvf	有夫之婦
 yfvf	預防針
 yfvh	揚幡招魂
@@ -79841,6 +79851,7 @@ yxsx	有心算無心
 yxtj	一席談
 yxtk	異想天開
 yxty	遊戲廳
+yxu	一小時
 yxuc	一息尚存
 yxud	因小失大
 yxug	疑心生暗鬼
@@ -80454,8 +80465,8 @@ zarj	扎染
 zas	紮
 zase	雜色
 zasi	砸死
-zasv	雜碎
 zasv	砸碎
+zasv	雜碎
 zata	雜沓
 zatj	雜談
 zau	砸
@@ -80898,6 +80909,7 @@ zgyu	贈予
 zgyu	贈與
 zgyy	增盈
 zgyy	自感應
+zgz	自顧自
 zgzd	自高自大
 zgzi	增資
 zgzi	自顧自
@@ -82126,7 +82138,6 @@ zsbm	總編
 zsbo	縱波
 zsbu	總部
 zsbx	在所不惜
-zsbz	鬃
 zsci	宗祠
 zscj	總參
 zscl	總裁
@@ -82160,10 +82171,11 @@ zsho	縱火
 zshs	棕紅
 zshv	總會
 zshz	棕黑
-zsi	蝬
+zsi	鬃
 zsig	總稱
 zsih	總廠
 zsij	總產
+zsiw	蝬
 zsj	鍐
 zsjc	宗教
 zsjd	宗匠
