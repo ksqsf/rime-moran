@@ -7,7 +7,7 @@
 ---
 name: moran_fixed
 version: "20230929"
-sort: original
+sort: by_weight
 columns:
   - code
   - text
@@ -4495,9 +4495,8 @@ buuu	跋山涉水
 buuv	補水
 buuv	補稅
 buuw	不識時務
-buv	步
+buv	簿
 buvb	步驟
-buvc	簿
 buvd	補妝
 buvf	佈陣
 buvg	不世之功
@@ -15307,6 +15306,7 @@ fuys	服用
 fuyt	赴約
 fuyu	賦予
 fuyu	富裕
+fuyu	馥郁
 fuyv	頫
 fuyx	風霜雨雪
 fuyy	婦嬰
@@ -58720,8 +58720,8 @@ ubvb	手肘
 ubvd	誰不知道
 	睡不着
 ubve	守着
-ubvh	首長
 ubvh	手掌
+ubvh	首長
 ubvi	手指
 	殊不知
 ubvi	收支
@@ -59200,6 +59200,7 @@ ufan	審案
 ufao	深奧
 ufb	審
 ufbc	深表
+ufbc	瘮
 ufbi	神筆
 ufbj	申辦
 ufbj	尚方寶劍
@@ -71011,8 +71012,8 @@ xifu	媳婦
 xifz	西非
 xig	戲
 xigh	矽鋼
-xigj	席
 xigj	喜感
+xigj	席
 xigk	細高
 xigl	膝蓋
 xigo	洗過
@@ -71041,7 +71042,7 @@ xihx	烯
 xihx	熄
 xihx	熹
 xihx	虩
-xii	蜥
+xii	希
 xiia	細查
 xiib	吸籌
 xiid	銑牀
@@ -71055,12 +71056,13 @@ xiin	蝷
 	興沖沖
 xiis	赩
 xiiu	析出
+xiix	蜥
 xiix	螅
 xiix	蟋
 xiix	蟢
 xiix	蜤
 xiix	螇
-xij	希
+xij	席
 xijc	洗腳
 xijc	西郊
 xijd	舄
@@ -72710,8 +72712,8 @@ xrxn	懸心
 xrxq	選修
 xrxt	玄學
 xrxu	玄虛
-xrxx	縣
 xrxx	宣泄
+xrxx	縣
 xrxx	玆
 xrxy	選型
 xry	諼
@@ -76926,8 +76928,8 @@ yjup	碞
 yjup	嵒
 yjuq	巘
 yjuu	岩
-yjuu	殷
 yjuu	眼熟
+yjuu	殷
 yjuv	鹽水
 yjux	陰極射線
 yjuy	嵃
@@ -79111,7 +79113,7 @@ yugy	庾
 yugy	有失公允
 yuh	虞
 yuha	燠
-	有時候
+	有時候	8840
 yuhb	優勢互補
 yuhb	預後
 yuhe	癒合
