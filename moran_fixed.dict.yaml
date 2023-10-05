@@ -6,7 +6,7 @@
 
 ---
 name: moran_fixed
-version: "20230929"
+version: "20231005"
 sort: by_weight
 columns:
   - code
@@ -381,7 +381,9 @@ alph	奧林匹克運動會
 alpk	奧林匹克
 alqi	按勞取酬
 	阿聯酋
+als	愛麗絲
 	安樂死
+	愛麗絲
 	阿勒泰
 	阿里山
 	按理說
@@ -6640,6 +6642,7 @@ cllt	才略
 cllu	財路
 clly	彩鈴
 cllz	踩雷
+clm	材
 clmc	材
 clmc	棌
 clmi	財迷
@@ -23762,14 +23765,15 @@ hwvs	華中
 hwvu	花豬
 hwvu	花柱
 hwvv	毫無徵兆
+hww	化爲
 hwwf	花紋
 hwwh	花王
 hwwl	化外
 hwwq	回味無窮
 hwwu	話務
 hwwy	化爲烏有
-hwwz	化爲
 hwwz	華爲
+hwwz	化爲
 hwxc	花銷
 hwxd	花香
 hwxd	畫像
@@ -60058,7 +60062,8 @@ uhxw	上下
 uhxx	上鞋
 uhxy	上行
 uhxy	愓
-uhy	謪
+uhy	裳
+uhyu	謪
 uhyb	上游
 uhye	商業
 uhyh	上揚
@@ -60159,13 +60164,12 @@ uien	施恩
 uier	十二
 uier	時而
 uies	邿
-uif	施
+uif	拾
 uifa	施法
 uifa	事發
 uifb	是否
 uiff	十分
 uifh	釋放
-uifh	拾
 uifj	示範
 uifj	師範
 uifo	石佛
@@ -60173,6 +60177,7 @@ uifu	師傅
 uifu	拭
 uifu	師父
 uifu	石佛
+uify	施
 uifz	是非
 uifz	試飛
 uig	式
@@ -73807,6 +73812,7 @@ xxe	些
 xxea	卸
 xxee	邪惡
 xxen	謝恩
+xxev	卸
 xxex	相向而行
 xxey	邪
 xxf	攜
@@ -74454,6 +74460,7 @@ yaa	亞
 yaaa	亞
 yaaa	襾
 yaan	雅安
+yab	丫
 yaba	啞巴
 yabi	崖壁
 yabj	壓板
@@ -74462,7 +74469,6 @@ yabl	牙白
 yabm	壓扁
 yabo	鴨脖
 yac	芽
-yad	丫
 yad	涯
 yadc	牙雕
 yadh	亞當
