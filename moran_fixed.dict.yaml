@@ -6,7 +6,7 @@
 
 ---
 name: moran_fixed
-version: "20231005"
+version: "20231007"
 sort: by_weight
 columns:
   - code
@@ -21281,6 +21281,7 @@ hjub	函授
 hjud	黃金時代
 hjue	寒舍
 hjug	喊聲
+hjug	鼾聲
 hjui	寒溼
 hjui	憾事
 	候機室
@@ -29464,6 +29465,7 @@ jlgu	精力過剩
 jlgz	獎勵工資
 jlhr	解鈴還須繫鈴人
 	金蓮花
+jlg	精力
 jlif	紀律處分
 jlij	積勞成疾
 jlip	精力充沛
@@ -30084,6 +30086,7 @@ jnni	今年年初
 jnnm	今年
 jnnq	金牛
 jnnq	嬐
+jno	晉
 jnou	金甌
 jnp	斤
 jnpf	金盆
@@ -64058,6 +64061,7 @@ vhdv	漳
 vhdx	漲跌
 vhe	障
 vhev	鄣
+vhf	指揮
 vhfa	章法
 vhff	戰火紛飛
 vhfh	賬房
@@ -67254,6 +67258,8 @@ wdjq	五毒俱全
 wdlt	王道樂土
 	外電路
 wdly	維多利亞
+wdm	僞代碼
+	僞代碼
 	五斗米
 wdml	危地馬拉
 wdmy	五斗米折腰
@@ -71393,6 +71399,7 @@ xjdi	心驚膽顫
 xjdk	攜家帶口
 	現階段
 xjdv	心驚膽戰
+xje	旋即
 xjel	席捲而來
 xjeq	喜極而泣
 	心勁兒
@@ -73805,6 +73812,7 @@ xxdm	渫
 xxdu	泄
 xxdu	褻瀆
 xxdw	小型動物
+xxdx	瀉
 xxdy	協定
 xxdy	洩
 xxdy	褻
@@ -75357,6 +75365,7 @@ yekj	也看
 yeks	夜空
 yeky	也快
 yeky	咽
+yel	野
 yeli	夜裏
 yell	也來
 yelm	冶煉
@@ -77931,11 +77940,12 @@ ypdv	勻兌
 ypdx	眼皮底下
 ypdy	沄
 ypdy	奫
+ype	隕
 yped	一平二調
 ypeh	一炮而紅
 ypej	鄆
-ypey	隕
 ypey	鄖
+ypey	隕
 ypf	抎
 ypfj	一票否決
 ypfu	孕婦
@@ -81769,6 +81779,7 @@ zmgd	怎麼搞的
 	讚美歌
 zmgh	走馬觀花
 	怎麼搞
+zmh	怎麼會
 zmhj	走馬換將
 zmhu	怎麼回事
 	怎麼會
