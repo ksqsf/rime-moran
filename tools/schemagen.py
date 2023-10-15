@@ -26,10 +26,10 @@ import regex
 
 
 double_pinyin_choices = ['zrm', 'flypy']
-assistive_code_choices = ['zrm', 'hanxin']
+auxiliary_code_choices = ['zrm', 'hanxin']
 
 args = None
-assistive_table = defaultdict(list)
+auxiliary_table = defaultdict(list)
 pinyin_table = defaultdict(lambda: defaultdict(int))
 charset = []
 
@@ -61,17 +61,17 @@ def to_double_pinyin(pinyin):
     raise ValueError('Unknown double pinyin ' + args.double_pinyin)
 
 
-def to_assistive_codes(char):
-    global assistive_table
-    if not assistive_table:
-        match args.assistive_code:
+def to_auxiliary_codes(char):
+    global auxiliary_table
+    if not auxiliary_table:
+        match args.auxiliary_code:
             case 'zrm':
-                assistive_table = read_txt_table('data/zrmdb.txt')
+                auxiliary_table = read_txt_table('data/zrmdb.txt')
             case 'hanxin':
-                assistive_table = read_txt_table('data/hanxindb.txt')
+                auxiliary_table = read_txt_table('data/hanxindb.txt')
             case _:
-                raise ValueError('Unknown assistive code ' + args.assistive_code)
-    return assistive_table[char]
+                raise ValueError('Unknown auxiliary code ' + args.auxiliary_code)
+    return auxiliary_table[char]
 
 
 def initialize_pinyin_table():
@@ -97,8 +97,8 @@ def pinyin_weight(word, py=None):
 def iter_char_codes(char, pinyin):
     try:
         double_pinyin = to_double_pinyin(pinyin)
-        assistive_codes = to_assistive_codes(char) or [args.assistive_code_fallback]
-        yield from (double_pinyin + ';' + ac for ac in assistive_codes)
+        auxiliary_codes = to_auxiliary_codes(char) or [args.auxiliary_code_fallback]
+        yield from (double_pinyin + ';' + ac for ac in auxiliary_codes)
     except:
         yield from iter([])
 
@@ -258,7 +258,7 @@ def handle_gen_fixed():
     words = []
     for c in charset:
         for py in pinyin_table[c].keys():
-            for ac in to_assistive_codes(c):
+            for ac in to_auxiliary_codes(c):
                 try:
                     w = pinyin_weight(c, py)
                     words.append((w, c, to_double_pinyin(py)+ac))
@@ -338,7 +338,7 @@ def handle_update_compact_dict():
             acs = []
             for zi in word:
                 try:
-                    acs.append(to_assistive_codes(zi)[0])
+                    acs.append(to_auxiliary_codes(zi)[0])
                 except:
                     pass
             if len(acs) != len(sps):
@@ -363,8 +363,8 @@ parser = argparse.ArgumentParser(
 )
 parser.add_argument('--pinyin-table', default='data/pinyin.txt', help='拼音表')
 parser.add_argument('--double-pinyin', choices=double_pinyin_choices, help='雙拼方案', default='zrm')
-parser.add_argument('--assistive-code', choices=assistive_code_choices, help='輔助碼方案', default='zrm')
-parser.add_argument('--assistive-code-fallback', help='若無輔助碼則使用該fallback', default='??')
+parser.add_argument('--auxiliary-code', choices=auxiliary_code_choices, help='輔助碼方案', default='zrm')
+parser.add_argument('--auxiliary-code-fallback', help='若無輔助碼則使用該fallback', default='??')
 
 subparsers = parser.add_subparsers(dest='command', required=True)
 
