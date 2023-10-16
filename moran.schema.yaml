@@ -276,6 +276,7 @@ moran:  # 兜底默認值；以防用戶不提供任何值
     enable: true
     #defer: 5
     show_hint: false
+    suffix: 'o'
 
 __patch:
   - moran.defaults.yaml:/patch?
