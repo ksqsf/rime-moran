@@ -6,7 +6,7 @@
 
 ---
 name: moran_fixed
-version: "20231007"
+version: "20231016"
 sort: by_weight
 columns:
   - code
@@ -28139,7 +28139,7 @@ jdcm	絕頂聰明
 jdco	講錯
 jdcs	姜蔥
 jdd	江
-jdd	奖
+jdd	奬
 jddb	豇豆
 jddf	洚
 jddg	豇
