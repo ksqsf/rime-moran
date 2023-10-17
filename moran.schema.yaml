@@ -149,7 +149,7 @@ japanese:
 emoji:
   opencc_config: moran_emoji.json
   option_name: emoji
-  tips: all
+  tips: none
 
 std_hk:
   opencc_config: t2hk.json
