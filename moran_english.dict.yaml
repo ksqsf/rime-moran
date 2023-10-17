@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20230830"
+version: "20231017"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -55703,3 +55703,8 @@ zymometer	zymometer
 zymosis	zymosis
 zymotic	zymotic
 Zyrian	zyrian
+sensei	sensei
+iPad	ipad
+iOS	ios
+iPadOS	ipados
+tvOS	tvos
