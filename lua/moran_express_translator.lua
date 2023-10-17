@@ -36,6 +36,7 @@ function top.init(env)
    env.ijrq_enable = env.engine.schema.config:get_bool("moran/ijrq/enable")
    env.ijrq_defer = env.engine.schema.config:get_int("moran/ijrq/defer") or env.engine.schema.config:get_int("menu/page_size") or 5
    env.ijrq_hint = env.engine.schema.config:get_bool("moran/ijrq/show_hint")
+   env.ijrq_suffix = env.engine.schema.config:get_string("moran/ijrq/suffix")
    env.enable_word_filter = env.engine.schema.config:get_bool("moran/enable_word_filter")
 end
 
@@ -102,7 +103,7 @@ function top.func(input, seg, env)
          -- 啓用出簡讓全時
          local ijrq_enabled = true
             and (env.engine.context.input == input)
-            and ((input_len == 4) or (input_len == 5 and input:sub(5,5) == 'o'))
+            and ((input_len == 4) or (input_len == 5 and input:sub(5,5) == env.ijrq_suffix))
          local immediate_set = {}
          local deferred_set = {}
          for cand in smart_iter do
