@@ -4,7 +4,7 @@
     "type": "mmseg",
     "dict": {
       "type": "text",
-      "file": "moran_emoji_word.txt"
+      "file": "moran_emoji.txt"
     }
   },
   "conversion_chain": [{
@@ -12,7 +12,7 @@
       "type": "group",
       "dicts": [{
         "type": "text",
-        "file": "moran_emoji_word.txt"
+        "file": "moran_emoji.txt"
       }]
     }
   }]
