@@ -6,7 +6,7 @@
 
 ---
 name: moran_fixed
-version: "20231016"
+version: "20231018"
 sort: by_weight
 columns:
   - code
@@ -7754,10 +7754,10 @@ dajw	打架
 dajx	大街
 dajy	大驚
 dajy	打井
-dak	嗒
+dak	噠
 daka	打卡
 dakb	大口
-dakd	噠
+dakd	嗒
 dakd	咑
 dakd	呾
 dake	搭客
