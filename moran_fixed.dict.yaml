@@ -6,7 +6,7 @@
 
 ---
 name: moran_fixed
-version: "20231018"
+version: "20231021"
 sort: by_weight
 columns:
   - code
@@ -29823,6 +29823,7 @@ jmuo	健碩
 jmut	金木水火土
 jmuu	簡述
 jmuv	減稅
+jmux	碱
 jmuy	餰
 jmv	簡
 jmva	奸詐
@@ -70416,7 +70417,7 @@ xdhw	像話
 	現代化
 xdhw	香花
 xdhy	現代漢語
-xdi	蠁
+xdi	厢
 xdia	相差
 xdib	鄉愁
 xdib	香臭
@@ -70433,6 +70434,7 @@ xdir	相傳
 xdiu	相處
 	想當初
 xdiu	相當程度上
+xdix	蠁
 xdix	蟓
 xdj	鑲
 xdjc	香蕉
