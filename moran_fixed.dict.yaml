@@ -6,7 +6,7 @@
 
 ---
 name: moran_fixed
-version: "20231021"
+version: "20231023"
 sort: by_weight
 columns:
   - code
@@ -53589,9 +53589,9 @@ soqm	所欠
 soqq	索求
 soqu	索取
 sorj	索然
-sos	索
+sos	縮
 sosr	羧酸
-soss	縮
+sosb	索
 sosv	瑣碎
 sot	塑
 sotb	縮頭
@@ -53605,6 +53605,7 @@ soue	所設
 souh	鎖上
 soui	瑣事
 souo	所說
+sous	索
 souu	所屬
 souv	縮水
 sov	簑
