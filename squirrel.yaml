@@ -27,7 +27,7 @@ style:
   color_scheme_dark: ayaya_night
 
   # 默認界面設置 (會被具體主題覆寫)
-  font_point: 16
+  font_point: 14
   font_face: LXGW WenKai
   corner_radius: 5
   hilited_corner_radius: 5
