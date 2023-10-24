@@ -1,7 +1,7 @@
 schema:
   schema_id: moran
   name: 魔然
-  version: "20230914"
+  version: "20231024"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -44,6 +44,7 @@ switches:
 engine:
   processors:
     - key_binder
+    - lua_processor@*moran_semicolon_processor
     - ascii_composer
     - recognizer
     - speller
@@ -228,7 +229,7 @@ key_binder:
     - {when: has_menu, accept: "Control+u", toggle: unicode_comment}
     - {when: has_menu, accept: "Control+q", toggle: emoji}  # q 表示表情，讓出 Ctrl+e
     - {when: has_menu, accept: "Control+Shift+0", toggle: std_opencc}
-    - {when: has_menu, accept: semicolon, send: "2"}
+    #- {when: has_menu, accept: semicolon, send: "2"}   # 被 moran_semicolon_processor 替換
     - {when: has_menu, accept: "Tab", send: "Control+Right"}
     - {when: composing, accept: "Tab", send: "Control+Right"}
     - {when: has_menu, accept: Shift+A, send_sequence: "{Control+Left}a{Control+Right}"}
