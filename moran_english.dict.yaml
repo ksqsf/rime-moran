@@ -6,13 +6,359 @@
 
 ---
 name: moran_english
-version: "20231017"
+version: "20231026"
 sort: original
 use_preset_vocabulary: false
 ...
 
 # output  input
 
+Dungeons & Dragons	dungeons&dragons
+Love & Peace	love&peace
+Peace & Love	peace&love
+3D	3d
+ISO 8601	iso8601
+Rush A	rusha
+Applied AI	appliedai
+Narrow AI	narrowai
+Notion AI	notionai
+Strong AI	strongai
+Weak AI	weakai
+Microsoft Access	microsoftaccess
+GitHub Actions	githubactions
+Universal Actions	universalactions
+Google AdSense	googleadsense
+Google Ads	googleads
+AfterShokz Aeropex	aftershokzaeropex
+MacBook Air	macbookair
+iPad Air	ipadair
+native American	nativeamerican
+Google Analytics	googleanalytics
+Party Animals	partyanimals
+Mac App Store	macappstore
+Apple Arcade	applearcade
+Pickup Artists	pickupartists
+Frequently Asked Question	frequentlyaskedquestion
+North Atlantic Treaty Organization	northatlantictreatyorganization
+Network Attached Storage	networkattachedstorage
+FaceTime Audio	facetimeaudio
+Google Authenticator	googleauthenticator
+Microsoft Azure	microsoftazure
+Rush B	rushb
+Touch Bar	touchbar
+Chinese Basketball Association	chinesebasketballassociation
+National Basketball Association	nationalbasketballassociation
+Public Beta	publicbeta
+New Bing	newbing
+Bulletin Board System	bulletinboardsystem
+Apple Books	applebooks
+Turbo Boost	turboboost
+Turbo Boost Switcher	turboboostswitcher
+Game Boy Advance	gameboyadvance
+Game Boy Color	gameboycolor
+Joy Boy	joyboy
+Anti-lock Braking System	antilockbrakingsystem
+Gif Brewery	gifbrewery
+Protocol Buffers	protocolbuffers
+Federal Bureau of Investigation	federalbureauofinvestigation
+International Business Machines	internationalbusinessmachines
+Video CD	videocd
+BREAKING CHANGE	breakingchange
+Google Calendar	googlecalendar
+Time Capsule	timecapsule
+Apple Card	applecard
+Control Center	controlcenter
+China Central Television	chinacentraltelevision
+Grand Central Dispatch	grandcentraldispatch
+Online Certificate Status Protocol	onlinecertificatestatusprotocol
+BNB Chain	bnbchain
+Aeron Chair	aeronchair
+Non-Player Character	nonplayercharacter
+Optical Character Recognition	opticalcharacterrecognition
+OpenAI ChatGPT	openaichatgpt
+Simplified Chinese	simplifiedchinese
+Traditional Chinese	traditionalchinese
+Google Chrome	googlechrome
+OpenAI Codex	openaicodex
+IDEA Community	ideacommunity
+GNU Compiler Collection	gnucompilercollection
+iTunes Connect	itunesconnect
+Internet Content Provider	internetcontentprovider
+Internet Control Message Protocol	internetcontrolmessageprotocol
+GitHub Copilot	githubcopilot
+GitHub Copilot CLI	githubcopilotcli
+GitHub Copilot X	githubcopilotx
+GitHub Copilot chat	githubcopilotchat
+Fedora CoreOS	fedoracoreos
+Microsoft Corporation	microsoftcorporation
+Cocos Creator	cocoscreator
+Liquid Crystal Display	liquidcrystaldisplay
+Final Cut Pro	finalcutpro
+Sleep Cycle	sleepcycle
+Attack Damage Carry	attackdamagecarry
+Emotional Damage	emotionaldamage
+One Dark	onedark
+Frank DeLoupe	frankdeloupe
+Steam Deck	steamdeck
+Google DeepMind	googledeepmind
+High Definition Multimedia Interface	highdefinitionmultimediainterface
+Ant Design	antdesign
+MacUpdate Desktop	macupdatedesktop
+Parallels Desktop	parallelsdesktop
+Apple Developer	appledeveloper
+Software Development Kit	softwaredevelopmentkit
+Scribble Diffusion	scribblediffusion
+Stable Diffusion	stablediffusion
+Asymmetric Digital Subscriber Line	asymmetricdigitalsubscriberline
+Daisy Disk	daisydisk
+Studio Display	studiodisplay
+Google Docs	googledocs
+Gross Domestic Product	grossdomesticproduct
+Neat Download Manager	neatdownloadmanager
+Google Drive	googledrive
+iCloud Drive	iclouddrive
+Java EE	javaee
+Microsoft Edge	microsoftedge
+PyCharm Edu	pycharmedu
+Chromium Embedded Framework	chromiumembeddedframework
+Search Engine Optimization	searchengineoptimization
+Wallpaper Engine	wallpaperengine
+Microsoft Excel	microsoftexcel
+PDF Expert	pdfexpert
+Internet Explorer	internetexplorer
+WiFi Explorer	wifiexplorer
+PCI Express	pciexpress
+Impostor Factory	impostorfactory
+Apple File System	applefilesystem
+Extended File Allocation Table	extendedfileallocationtable
+InterPlanetary File System	interplanetaryfilesystem
+SSH File Transfer Protocol	sshfiletransferprotocol
+Curve Finance	curvefinance
+Path Finder	pathfinder
+Mozilla Firefox	mozillafirefox
+Great Firewall	greatfirewall
+GitHub Flavored Markdown	githubflavoredmarkdown
+Unidentified Flying Object	unidentifiedflyingobject
+Default Folder X	defaultfolderx
+Greasy Fork	greasyfork
+Software Freedom Conservancy	softwarefreedomconservancy
+Kung Fu	kungfu
+VMware Fusion	vmwarefusion
+VMware Fusion Player	vmwarefusionplayer
+VMware Fusion Pro	vmwarefusionpro
+Role-Playing Game	roleplayinggame
+Epic Games	epicgames
+PopCap Games	popcapgames
+GNU General Public License	gnugeneralpubliclicense
+Alibaba Group	alibabagroup
+Happy Hacking Keyboard	happyhackingkeyboard
+Legal High	legalhigh
+eXtensible HyperText Markup Language	extensiblehypertextmarkuplanguage
+Should I Sleep	shouldisleep
+Apple ID	appleid
+Face ID	faceid
+Touch ID	touchid
+IntelliJ IDEA	intellijidea
+IntelliJ IDEA Community	intellijideacommunity
+IntelliJ IDEA Edu	intellijideaedu
+IntelliJ IDEA Ultimate	intellijideaultimate
+Cloudflare Images	cloudflareimages
+Basic Input/Output System	basicinputoutputsystem
+Massachusetts Institute of Technology	massachusettsinstituteoftechnology
+Command-Line Interface	commandlineinterface
+SRWare Iron	srwareiron
+Google Keep	googlekeep
+United Kingdom	unitedkingdom
+Hong Kong	hongkong
+GNU Lesser General Public License	gnulessergeneralpubliclicense
+MIT License	mitlicense
+Arch Linux	archlinux
+Rocky Linux	rockylinux
+I Love You	iloveyou
+Current Mac Bundles	currentmacbundles
+Time Machine	timemachine
+Keyboard Maestro	keyboardmaestro
+Simple Mail Transfer Protocol	simplemailtransferprotocol
+iCloud Mail	icloudmail
+Google Maps	googlemaps
+Extensible Markup Language	extensiblemarkuplanguage
+HyperText Markup Language	hypertextmarkuplanguage
+iTunes Match	itunesmatch
+AirPods Max	airpodsmax
+Pro Max	promax
+Windows Me	windowsme
+Greenwich Mean Time	greenwichmeantime
+Windows Media Player	windowsmediaplayer
+iStat Menus	istatmenus
+Internet Message Access Protocol	internetmessageaccessprotocol
+Digital Millennium Copyright Act	digitalmillenniumcopyrightact
+Windows Mobile	windowsmobile
+JetBrains Mono	jetbrainsmono
+Apple Music	applemusic
+YouTube Music	youtubemusic
+Clean My Mac	cleanmymac
+Clean My Mac X	cleanmymacx
+Laugh My Ass Off	laughmyassoff
+Oh My Zsh	ohmyzsh
+Windows NT	windowsnt
+Microsoft NTFS	microsoftntfs
+Apple News	applenews
+Funtouch OS	funtouchos
+Microsoft Office	microsoftoffice
+Day One	dayone
+Google One	googleone
+Harmony One	harmonyone
+Xbox One	xboxone
+Xbox One X	xboxonex
+Microsoft OneNote	microsoftonenote
+Android Open Source Project	androidopensourceproject
+Chief Operating Officer	chiefoperatingofficer
+Disk Operating System	diskoperatingsystem
+uBlock Origin	ublockorigin
+Laugh Out Loudly	laughoutloudly
+Microsoft Outlook	microsoftoutlook
+Stack Overflow	stackoverflow
+Sumatra PDF	sumatrapdf
+MAMP PRO	mamppro
+Node Package Manager	nodepackagemanager
+Cloudflare Pages	cloudflarepages
+Coding Pages	codingpages
+GitHub Pages	githubpages
+Gitee Pages	giteepages
+Apple Pay	applepay
+WeChat Pay	wechatpay
+Apple Pencil	applepencil
+Windows Phone	windowsphone
+Google Photos	googlephotos
+Live Photos	livephotos
+Adobe Photoshop	adobephotoshop
+One Piece	onepiece
+Pied Piper	piedpiper
+Google Pixel	googlepixel
+Google Play	googleplay
+Google Play Music	googleplaymusic
+Media Player	mediaplayer
+QuickTime Player	quicktimeplayer
+Universal Plug and Play	universalplugandplay
+Ability Power Carry	abilitypowercarry
+Microsoft PowerPoint	microsoftpowerpoint
+Navicat Premium	navicatpremium
+Hypertext Preprocessor	hypertextpreprocessor
+Developer Preview	developerpreview
+AirPods Pro	airpodspro
+ClashX Pro	clashxpro
+Mac Pro	macpro
+MacBook Pro	macbookpro
+Vision Pro	visionpro
+iPad Pro	ipadpro
+Central Processing Unit	centralprocessingunit
+Graphics Processing Unit	graphicsprocessingunit
+CD Projekt	cdprojekt
+CD Projekt RED	cdprojektred
+Lens Protocal	lensprotocal
+NEAR Protocol	nearprotocol
+Advanced RISC Machine	advancedriscmachine
+Windows RT	windowsrt
+Language Reactor	languagereactor
+Mac Rumors	macrumors
+Code Runner	coderunner
+Microsoft SQL Server	microsoftsqlserver
+Not Safe For Work	notsafeforwork
+WiFi Scanner	wifiscanner
+Color Schemer	colorschemer
+Honey Select	honeyselect
+Universal Serial Bus	universalserialbus
+Xbox Series	xboxseries
+Xbox Series S	xboxseriess
+SQL Server	sqlserver
+Windows Server	windowsserver
+macOS Server	macosserver
+Service Set Identifier	servicesetidentifier
+Ed Sheeran	edsheeran
+Secure Shell	secureshell
+Binance Smart Chain	binancesmartchain
+Better Snap Tool	bettersnaptool
+Color Snapper	colorsnapper
+Little Snitch	littlesnitch
+Berkeley Software Distribution	berkeleysoftwaredistribution
+SpongeBob SquarePants	spongebobsquarepants
+International Standard Book Number	internationalstandardbooknumber
+International Standard Serial Number	internationalstandardserialnumber
+United States	unitedstates
+United States Dollar	unitedstatesdollar
+App Store	appstore
+Apple Store	applestore
+iTunes Store	itunesstore
+Cloudflare Stream	cloudflarestream
+Mac Studio	macstudio
+Screen Studio	screenstudio
+Visual Studio	visualstudio
+Visual Studio Code	visualstudiocode
+Not Suitable For Work	notsuitableforwork
+G Suite	gsuite
+Vampire Survivors	vampiresurvivors
+Operating System	operatingsystem
+Apple TV	appletv
+Apple TV+	appletv+
+Laugh Tale	laughtale
+New Technology File System	newtechnologyfilesystem
+Music Television	musictelevision
+Mark Text	marktext
+Sublime Text	sublimetext
+Grand Theft Auto	grandtheftauto
+Grand Theft Auto V	grandtheftautov
+Window Tidy	windowtidy
+Microsoft To Do	microsofttodo
+J.R.R. Tolkien	j.r.r.tolkien
+Better Touch Tool	bettertouchtool
+Force Touch	forcetouch
+File Transfer Protocol	filetransferprotocol
+Hypertext Transfer Protocol	hypertexttransferprotocol
+Hypertext Transfer Protocol Secure	hypertexttransferprotocolsecure
+Zero Trust	zerotrust
+USB Type-A	usbtypea
+USB Type-B	usbtypeb
+USB Type-C	usbtypec
+Wii U	wiiu
+Magic UI	magicui
+One UI	oneui
+IDEA Ultimate	ideaultimate
+The Unarchiver	theunarchiver
+Globally Unique Identifier	globallyuniqueidentifier
+Coordinated Universal Time	coordinateduniversaltime
+Graphical User Interface	graphicaluserinterface
+Disk Utility	diskutility
+Sport Utility Vehicle	sportutilityvehicle
+Silicon Valley	siliconvalley
+Adult Video	adultvideo
+Safari View Controller	safariviewcontroller
+Java Virtual Machine	javavirtualmachine
+Apple Vision	applevision
+Apple Vision Pro	applevisionpro
+Windows Vista	windowsvista
+Microsoft Visual Studio	microsoftvisualstudio
+Google Voice	googlevoice
+Louis Vuitton	louisvuitton
+FBI WARNING	fbiwarning
+Coinbase Wallet	coinbasewallet
+Arctic Warfare Police	arcticwarfarepolice
+Apple Watch	applewatch
+Amazon Web Services	amazonwebservices
+John Wick	johnwick
+Microsoft Windows	microsoftwindows
+Code With Me	codewithme
+Microsoft Word	microsoftword
+Cloudflare Workers	cloudflareworkers
+Google Workspace	googleworkspace
+iA Writer	iawriter
+Argent X	argentx
+CleanShot X	cleanshotx
+Quantumult X	quantumultx
+New Zealand	newzealand
+New Zealander	newzealander
+Better Zip	betterzip
+a11y	a11y
+A4	a4
 Aachen	aachen
 Aalborg	aalborg
 Aalesund	aalesund
@@ -27,6 +373,7 @@ Aargau	aargau
 Aarhus	aarhus
 Aaron	aaron
 Aaronic	aaronic
+Aave	aave
 aba	aba
 abaca	abaca
 abacist	abacist
@@ -61,6 +408,8 @@ abbreviate	abbreviate
 abbreviated	abbreviated
 abbreviation	abbreviation
 ABC	abc
+abc	abc
+abcd	abcd
 abcoulomb	abcoulomb
 Abdias	abdias
 abdicate	abdicate
@@ -178,6 +527,7 @@ abrogate	abrogate
 abrupt	abrupt
 abruption	abruption
 Abruzzi	abruzzi
+ABS	abs
 Absalom	absalom
 abscess	abscess
 abscind	abscind
@@ -296,7 +646,9 @@ acceptation	acceptation
 accepted	accepted
 accepter	accepter
 acceptor	acceptor
+Access	access
 access	access
+early access	earlyaccess
 accessary	accessary
 accessible	accessible
 accession	accession
@@ -403,6 +755,7 @@ acetylate	acetylate
 acetylcholine	acetylcholine
 acetylene	acetylene
 acetylide	acetylide
+ACG	acg
 Achaea	achaea
 Achaean	achaean
 Achaemenid	achaemenid
@@ -586,7 +939,10 @@ adapter	adapter
 adaptive	adaptive
 Adar	adar
 adaxial	adaxial
+ADC	adc
 add	add
+add-on	add-on
+add-ons	add-ons
 Addams	addams
 addax	addax
 addend	addend
@@ -607,6 +963,7 @@ addle	addle
 addlebrained	addlebrained
 addlepated	addlepated
 address	address
+addressable	addressable
 addressee	addressee
 Addressograph	addressograph
 adduce	adduce
@@ -632,6 +989,7 @@ adequacy	adequacy
 adequate	adequate
 adermin	adermin
 adessive	adessive
+ADHD	adhd
 adhere	adhere
 adherence	adherence
 adherent	adherent
@@ -645,6 +1003,7 @@ adiathermancy	adiathermancy
 adieu	adieu
 Adige	adige
 Adigranth	adigranth
+Adios	adios
 adios	adios
 adipocere	adipocere
 adipose	adipose
@@ -674,11 +1033,13 @@ admass	admass
 admeasure	admeasure
 admeasurement	admeasurement
 Admetus	admetus
+Admin	admin
 adminicle	adminicle
 administer	administer
 administrate	administrate
 administration	administration
 administrative	administrative
+Administrator	administrator
 administrator	administrator
 admirable	admirable
 admiral	admiral
@@ -698,6 +1059,7 @@ admonition	admonition
 admonitory	admonitory
 adnate	adnate
 ado	ado
+Adobe	adobe
 adobe	adobe
 adolescence	adolescence
 adolescent	adolescent
@@ -727,6 +1089,8 @@ adrift	adrift
 adroit	adroit
 adscititious	adscititious
 adscription	adscription
+AdSense	adsense
+ADSL	adsl
 adsorb	adsorb
 adsorbate	adsorbate
 adsorbent	adsorbent
@@ -854,10 +1218,12 @@ aeromedical	aeromedical
 aerometeorograph	aerometeorograph
 aerometer	aerometer
 aerometry	aerometry
+Aeron	aeron
 aeronaut	aeronaut
 aeronautics	aeronautics
 aeroneurosis	aeroneurosis
 aeropause	aeropause
+Aeropex	aeropex
 aerophagia	aerophagia
 aerophobia	aerophobia
 aerophone	aerophone
@@ -1004,6 +1370,7 @@ afterpiece	afterpiece
 aftersensation	aftersensation
 aftershaft	aftershaft
 aftershock	aftershock
+AfterShokz	aftershokz
 aftertaste	aftertaste
 afterthought	afterthought
 aftertime	aftertime
@@ -1066,6 +1433,7 @@ aggrieve	aggrieve
 aggrieved	aggrieved
 agha	agha
 aghast	aghast
+AGI	agi
 agile	agile
 agility	agility
 Agincourt	agincourt
@@ -1155,6 +1523,7 @@ Ahwaz	ahwaz
 aid	aid
 aide	aide
 Aidoneus	aidoneus
+AIGC	aigc
 aiglet	aiglet
 aigrette	aigrette
 aiguille	aiguille
@@ -1174,6 +1543,7 @@ ain	ain
 Aintab	aintab
 Ainu	ainu
 air	air
+Airbnb	airbnb
 airboat	airboat
 airborne	airborne
 airbrush	airbrush
@@ -1184,6 +1554,7 @@ aircrew	aircrew
 aircrewman	aircrewman
 Airdrie	airdrie
 airdrome	airdrome
+AirDrop	airdrop
 airdrop	airdrop
 Airedale	airedale
 airfield	airfield
@@ -1203,6 +1574,7 @@ airliner	airliner
 airmail	airmail
 airman	airman
 airplane	airplane
+AirPods	airpods
 airport	airport
 airs	airs
 airscrew	airscrew
@@ -1230,6 +1602,9 @@ Ajaccio	ajaccio
 ajar	ajar
 Ajax	ajax
 Ajmer	ajmer
+AK	ak
+AK47	ak47
+AK74	ak74
 Akan	akan
 Akbar	akbar
 akee	akee
@@ -1354,6 +1729,7 @@ Aleksandropol	aleksandropol
 Aleksandrovsk	aleksandrovsk
 Alemanni	alemanni
 Alemannic	alemannic
+Alembic	alembic
 alembic	alembic
 aleph	aleph
 Aleppo	aleppo
@@ -1380,6 +1756,7 @@ alfalfa	alfalfa
 Alfieri	alfieri
 alfilaria	alfilaria
 alforja	alforja
+Alfred	alfred
 alfresco	alfresco
 alga	alga
 algae	algae
@@ -1414,6 +1791,7 @@ algorithm	algorithm
 Alhambra	alhambra
 Ali	ali
 alias	alias
+Alibaba	alibaba
 alibi	alibi
 alible	alible
 Alicante	alicante
@@ -1439,6 +1817,7 @@ alimentary	alimentary
 alimentation	alimentation
 alimony	alimony
 aline	aline
+Alipay	alipay
 aliped	aliped
 aliphatic	aliphatic
 aliquant	aliquant
@@ -1566,6 +1945,7 @@ alluvium	alluvium
 ally	ally
 allyl	allyl
 Almagest	almagest
+AlmaLinux	almalinux
 almanac	almanac
 almandine	almandine
 almemar	almemar
@@ -1610,6 +1990,8 @@ alphabet	alphabet
 alphabetic	alphabetic
 alphabetical	alphabetical
 alphabetize	alphabetize
+AlphaFold	alphafold
+AlphaGo	alphago
 alphanumeric	alphanumeric
 Alpheus	alpheus
 alphitomancy	alphitomancy
@@ -1772,6 +2154,8 @@ ambulator	ambulator
 ambulatory	ambulatory
 ambuscade	ambuscade
 ambush	ambush
+AMD	amd
+amd64	amd64
 ameba	ameba
 ameer	ameer
 ameliorate	ameliorate
@@ -1878,6 +2262,7 @@ ampelopsis	ampelopsis
 amperage	amperage
 ampere	ampere
 ampersand	ampersand
+Amphetamine	amphetamine
 amphetamine	amphetamine
 amphiarthrosis	amphiarthrosis
 amphiaster	amphiaster
@@ -1951,6 +2336,7 @@ amylose	amylose
 amylum	amylum
 amyotonia	amyotonia
 Amytal	amytal
+AmyTelecom	amytelecom
 ana	ana
 anabaena	anabaena
 anabantid	anabantid
@@ -1970,6 +2356,7 @@ anaclinal	anaclinal
 anaclitic	anaclitic
 anacoluthia	anacoluthia
 anacoluthon	anacoluthon
+Anaconda	anaconda
 anaconda	anaconda
 Anacreon	anacreon
 Anacreontic	anacreontic
@@ -2081,6 +2468,8 @@ ancon	ancon
 Ancona	ancona
 ancona	ancona
 ancylostomiasis	ancylostomiasis
+Free and open source software	freeandopensourcesoftware
+Rick and Morty	rickandmorty
 and	and
 Andalusia	andalusia
 andalusite	andalusite
@@ -2288,6 +2677,7 @@ annihilation	annihilation
 annihilator	annihilator
 anniversary	anniversary
 annotate	annotate
+annotated	annotated
 annotation	annotation
 announce	announce
 announcement	announcement
@@ -2340,9 +2730,11 @@ Anschluss	anschluss
 Anselm	anselm
 anserine	anserine
 Ansermet	ansermet
+ANSI	ansi
 answer	answer
 answerable	answerable
 ant	ant
+Ant-Man	ant-man
 anta	anta
 Antabuse	antabuse
 antacid	antacid
@@ -2411,6 +2803,7 @@ anthracosilicosis	anthracosilicosis
 anthracosis	anthracosis
 anthraquinone	anthraquinone
 anthrax	anthrax
+Anthropic	anthropic
 anthropocentric	anthropocentric
 anthropogenesis	anthropogenesis
 anthropogeography	anthropogeography
@@ -2608,7 +3001,9 @@ Aorangi	aorangi
 aorist	aorist
 aoristic	aoristic
 aorta	aorta
+AOSP	aosp
 aoudad	aoudad
+aPaaS	apaas
 apace	apace
 Apache	apache
 apache	apache
@@ -2634,6 +3029,7 @@ aperture	aperture
 apery	apery
 apetalous	apetalous
 apex	apex
+APFS	apfs
 aphaeresis	aphaeresis
 aphanite	aphanite
 aphasia	aphasia
@@ -2653,6 +3049,7 @@ aphrodisia	aphrodisia
 aphrodisiac	aphrodisiac
 Aphrodite	aphrodite
 aphyllous	aphyllous
+API	api
 Apia	apia
 apian	apian
 apiarian	apiarian
@@ -2666,6 +3063,7 @@ apiece	apiece
 Apis	apis
 apish	apish
 apivorous	apivorous
+APK	apk
 aplacental	aplacental
 aplanatic	aplanatic
 aplanospore	aplanospore
@@ -2757,6 +3155,8 @@ apparent	apparent
 apparition	apparition
 apparitor	apparitor
 appassionato	appassionato
+AppCleaner	appcleaner
+AppCode	appcode
 appeal	appeal
 appealing	appealing
 appear	appear
@@ -2791,6 +3191,8 @@ appetizing	appetizing
 applaud	applaud
 applause	applause
 apple	apple
+AppleCare	applecare
+AppleCare+	applecare+
 applecart	applecart
 applejack	applejack
 apples	apples
@@ -2799,6 +3201,7 @@ Appleton	appleton
 appliance	appliance
 applicable	applicable
 applicant	applicant
+Android application package	androidapplicationpackage
 application	application
 applicative	applicative
 applicator	applicator
@@ -2899,6 +3302,7 @@ arabesque	arabesque
 Arabia	arabia
 Arabian	arabian
 Arabic	arabic
+arabica	arabica
 arabinose	arabinose
 Arabist	arabist
 arable	arable
@@ -2940,6 +3344,7 @@ arbitrate	arbitrate
 arbitration	arbitration
 arbitrator	arbitrator
 arbitress	arbitress
+Arbitrum	arbitrum
 arbor	arbor
 arboreal	arboreal
 arboreous	arboreous
@@ -3059,6 +3464,7 @@ Aretino	aretino
 Arezzo	arezzo
 argal	argal
 argali	argali
+Argent	argent
 argent	argent
 Argenteuil	argenteuil
 argentic	argentic
@@ -3141,7 +3547,9 @@ Arkwright	arkwright
 Arlberg	arlberg
 Arles	arles
 Arlington	arlington
+ARM	arm
 arm	arm
+arm64	arm64
 Armada	armada
 armada	armada
 armadillo	armadillo
@@ -3263,6 +3671,7 @@ arteriovenous	arteriovenous
 arteritis	arteritis
 artery	artery
 artful	artful
+Arthas	arthas
 arthralgia	arthralgia
 arthritis	arthritis
 arthromere	arthromere
@@ -3300,12 +3709,14 @@ arundinaceous	arundinaceous
 aruspex	aruspex
 Aruwimi	aruwimi
 arvo	arvo
+Arweave	arweave
 Aryan	aryan
 Aryanize	aryanize
 aryl	aryl
 arytenoid	arytenoid
 asafetida	asafetida
 asafoetida	asafoetida
+ASAP	asap
 asarum	asarum
 Asben	asben
 asbestos	asbestos
@@ -3330,6 +3741,7 @@ Ascham	ascham
 asci	asci
 ascidian	ascidian
 ascidium	ascidium
+ASCII	ascii
 ascites	ascites
 asclepiadaceous	asclepiadaceous
 Asclepiadean	asclepiadean
@@ -3385,6 +3797,7 @@ asleep	asleep
 aslope	aslope
 Asmara	asmara
 Asmodeus	asmodeus
+ASMR	asmr
 asocial	asocial
 Asoka	asoka
 asomatous	asomatous
@@ -3551,6 +3964,7 @@ astrict	astrict
 astride	astride
 astringent	astringent
 astrionics	astrionics
+Astro	astro
 astrobiology	astrobiology
 astrodome	astrodome
 astrodynamics	astrodynamics
@@ -3634,6 +4048,7 @@ athodyd	athodyd
 Athos	athos
 athwart	athwart
 athwartships	athwartships
+ATI	ati
 atilt	atilt
 atingle	atingle
 atiptoe	atiptoe
@@ -3646,6 +4061,7 @@ Atlantis	atlantis
 Atlas	atlas
 atlas	atlas
 Atli	atli
+ATM	atm
 atman	atman
 atmolysis	atmolysis
 atmometer	atmometer
@@ -3687,6 +4103,7 @@ attach	attach
 attached	attached
 attachment	attachment
 attack	attack
+denial-of-service attack	denialofserviceattack
 attain	attain
 attainable	attainable
 attainder	attainder
@@ -3723,6 +4140,7 @@ attitudinize	attitudinize
 Attlee	attlee
 attorn	attorn
 attorney	attorney
+attosecond	attosecond
 attract	attract
 attractant	attractant
 attraction	attraction
@@ -3864,6 +4282,7 @@ autecology	autecology
 auteur	auteur
 authentic	authentic
 authenticate	authenticate
+Authenticator	authenticator
 authenticity	authenticity
 author	author
 authoritarian	authoritarian
@@ -3951,10 +4370,12 @@ auxiliaries	auxiliaries
 auxiliary	auxiliary
 auxin	auxin
 auxochrome	auxochrome
+AV	av
 avadavat	avadavat
 avail	avail
 availability	availability
 available	available
+Avalanche	avalanche
 avalanche	avalanche
 Avalokitesvara	avalokitesvara
 Avalon	avalon
@@ -3962,6 +4383,7 @@ Avar	avar
 avarice	avarice
 avaricious	avaricious
 avast	avast
+AVAST!	avast!
 avatar	avatar
 avaunt	avaunt
 Ave	ave
@@ -3998,11 +4420,13 @@ aviculture	aviculture
 avid	avid
 avidin	avidin
 avidity	avidity
+AVIF	avif
 avifauna	avifauna
 avigation	avigation
 Avignon	avignon
 avion	avion
 avionics	avionics
+Avira	avira
 avirulent	avirulent
 avitaminosis	avitaminosis
 Avlona	avlona
@@ -4047,7 +4471,9 @@ awlwort	awlwort
 awn	awn
 awning	awning
 awoke	awoke
+AWP	awp
 awry	awry
+AWS	aws
 axe	axe
 axenic	axenic
 axes	axes
@@ -4066,6 +4492,7 @@ axolotl	axolotl
 axon	axon
 axseed	axseed
 Axum	axum
+Axure	axure
 Ayacucho	ayacucho
 ayah	ayah
 aye	aye
@@ -4164,6 +4591,7 @@ backache	backache
 backbencher	backbencher
 backbend	backbend
 backbite	backbite
+Backblaze	backblaze
 backblocks	backblocks
 backboard	backboard
 backbone	backbone
@@ -4199,6 +4627,7 @@ backsheesh	backsheesh
 backside	backside
 backsight	backsight
 backslide	backslide
+Backspace	backspace
 backspace	backspace
 backspin	backspin
 backstage	backstage
@@ -4284,6 +4713,7 @@ Bahia	bahia
 Bahrain	bahrain
 baht	baht
 bahuvrihi	bahuvrihi
+Baiduspider	baiduspider
 Baikal	baikal
 bail	bail
 bailable	bailable
@@ -4438,6 +4868,7 @@ banderole	banderole
 bandicoot	bandicoot
 bandit	bandit
 banditry	banditry
+Bandizip	bandizip
 bandmaster	bandmaster
 bandog	bandog
 bandoleer	bandoleer
@@ -4660,6 +5091,7 @@ barrow	barrow
 Barry	barry
 Barrymore	barrymore
 Barsac	barsac
+Bartender	bartender
 bartender	bartender
 barter	barter
 Barth	barth
@@ -4846,6 +5278,9 @@ bazaar	bazaar
 bazel	bazel
 Baziotes	baziotes
 bazooka	bazooka
+BBC	bbc
+BBQ	bbq
+BBS	bbs
 BCD	bcd
 bdellium	bdellium
 beach	beach
@@ -5413,6 +5848,7 @@ bewilderment	bewilderment
 bewitch	bewitch
 bewray	bewray
 bey	bey
+beyatch	beyatch
 beyond	beyond
 Beyrouth	beyrouth
 bezant	bezant
@@ -5420,6 +5856,7 @@ bezel	bezel
 bezique	bezique
 bezoar	bezoar
 bezonian	bezonian
+BGM	bgm
 bhakti	bhakti
 bhang	bhang
 bharal	bharal
@@ -5565,6 +6002,7 @@ bilestone	bilestone
 bilge	bilge
 bilharziasis	bilharziasis
 biliary	biliary
+bilibili	bilibili
 bilinear	bilinear
 bilingual	bilingual
 bilious	bilious
@@ -5605,6 +6043,7 @@ bimolecular	bimolecular
 bimonthly	bimonthly
 bin	bin
 binal	binal
+Binance	binance
 binary	binary
 binate	binate
 binaural	binaural
@@ -5615,6 +6054,7 @@ binding	binding
 bindle	bindle
 bindweed	bindweed
 bine	bine
+Bingbot	bingbot
 binge	binge
 Bingen	bingen
 binghi	binghi
@@ -5660,6 +6100,7 @@ bionomics	bionomics
 biophysics	biophysics
 bioplasm	bioplasm
 biopsy	biopsy
+BIOS	bios
 bioscope	bioscope
 bioscopy	bioscopy
 biosphere	biosphere
@@ -5754,9 +6195,14 @@ bisulfate	bisulfate
 Bisutun	bisutun
 bit	bit
 bitartrate	bitartrate
+Bitbucket	bitbucket
 bitch	bitch
 bitchy	bitchy
+Bitcoin	bitcoin
+BitComet	bitcomet
+Bitdefender	bitdefender
 bite	bite
+Bitfinex	bitfinex
 Bithynia	bithynia
 biting	biting
 Bitolj	bitolj
@@ -5775,6 +6221,7 @@ bitty	bitty
 bitumen	bitumen
 bituminize	bituminize
 bituminous	bituminous
+Bitwarden	bitwarden
 bivalent	bivalent
 bivalve	bivalve
 bivouac	bivouac
@@ -5806,6 +6253,7 @@ blackface	blackface
 blackfellow	blackfellow
 blackfish	blackfish
 Blackfoot	blackfoot
+blackFriday	blackfriday
 blackguard	blackguard
 blackguardly	blackguardly
 blackhead	blackhead
@@ -6070,6 +6518,7 @@ blurb	blurb
 blurt	blurt
 blush	blush
 bluster	bluster
+BMW	bmw
 boa	boa
 Boabdil	boabdil
 Boadicea	boadicea
@@ -6257,6 +6706,7 @@ Bonheur	bonheur
 bonhomie	bonhomie
 Boniface	boniface
 bonito	bonito
+Bonjour	bonjour
 bonkers	bonkers
 Bonn	bonn
 Bonnard	bonnard
@@ -6568,6 +7018,7 @@ Bozcaada	bozcaada
 Bozen	bozen
 bozo	bozo
 bra	bra
+Braavos	braavos
 Brabant	brabant
 brabble	brabble
 brace	brace
@@ -6587,6 +7038,7 @@ bracing	bracing
 bracken	bracken
 bracket	bracket
 bracketing	bracketing
+Brackets	brackets
 brackish	brackish
 Bracknell	bracknell
 bract	bract
@@ -6701,6 +7153,7 @@ brazier	brazier
 Brazil	brazil
 brazil	brazil
 brazilein	brazilein
+Brazilian	brazilian
 brazilin	brazilin
 Brazzaville	brazzaville
 breach	breach
@@ -6956,6 +7409,7 @@ bromidic	bromidic
 brominate	brominate
 bromine	bromine
 bromism	bromism
+bromite	bromite
 Bromley	bromley
 bromoform	bromoform
 bronchi	bronchi
@@ -7062,6 +7516,11 @@ bryophyte	bryophyte
 bryozoan	bryozoan
 Brython	brython
 Brythonic	brythonic
+BSD	bsd
+BT	bt
+BTC	btc
+Btitish	btitish
+BTW	btw
 bub	bub
 bubal	bubal
 bubaline	bubaline
@@ -7155,6 +7614,7 @@ bugleweed	bugleweed
 bugloss	bugloss
 bugs	bugs
 buhl	buhl
+BuhoCleaner	buhocleaner
 buhr	buhr
 buhrstone	buhrstone
 build	build
@@ -7247,6 +7707,7 @@ Bundelkhand	bundelkhand
 Bundesrat	bundesrat
 Bundestag	bundestag
 bundle	bundle
+BundleHunt	bundlehunt
 bung	bung
 bungalow	bungalow
 bunghole	bunghole
@@ -7471,6 +7932,7 @@ buzz	buzz
 buzzard	buzzard
 buzzer	buzzer
 bwana	bwana
+Play by Play	playbyplay
 Bydgoszcz	bydgoszcz
 bye	bye
 byelaw	byelaw
@@ -7493,9 +7955,12 @@ bystreet	bystreet
 byte	byte
 Bytom	bytom
 byway	byway
+Byword	byword
 byword	byword
 Byzantine	byzantine
 Byzantium	byzantium
+C#	c#
+C++	c++
 CAA	caa
 Caaba	caaba
 CAB	cab
@@ -7611,6 +8076,7 @@ caespitose	caespitose
 caesura	caesura
 cafard	cafard
 cafeteria	cafeteria
+Caffeine	caffeine
 caffeine	caffeine
 caftan	caftan
 Cage	cage
@@ -7665,6 +8131,7 @@ calcaneus	calcaneus
 calcar	calcar
 calcareous	calcareous
 calcariferous	calcariferous
+Calcbot	calcbot
 calceiform	calceiform
 calceolaria	calceolaria
 calces	calces
@@ -7712,6 +8179,7 @@ Cali	cali
 Caliban	caliban
 caliber	caliber
 calibrate	calibrate
+Calibre	calibre
 calibre	calibre
 calices	calices
 caliche	caliche
@@ -7740,6 +8208,7 @@ Callaghan	callaghan
 callant	callant
 Callao	callao
 Callas	callas
+Callback	callback
 callboy	callboy
 caller	caller
 Callicrates	callicrates
@@ -7754,6 +8223,7 @@ calliper	calliper
 callipygian	callipygian
 callisthenics	callisthenics
 Callisto	callisto
+CallKit	callkit
 callosity	callosity
 callous	callous
 callow	callow
@@ -7959,6 +8429,7 @@ cannery	cannery
 Cannes	cannes
 cannibal	cannibal
 cannibalism	cannibalism
+cannibalistic	cannibalistic
 cannibalize	cannibalize
 cannikin	cannikin
 Canning	canning
@@ -8043,6 +8514,7 @@ capacitate	capacitate
 capacitor	capacitor
 capacity	capacity
 caparison	caparison
+Capcom	capcom
 cape	cape
 capelin	capelin
 Capella	capella
@@ -8102,6 +8574,7 @@ capriole	capriole
 capsaicin	capsaicin
 capsicum	capsicum
 capsize	capsize
+CapsLock	capslock
 capstan	capstan
 capstone	capstone
 capsular	capsular
@@ -8110,6 +8583,7 @@ capsule	capsule
 capsulize	capsulize
 captain	captain
 captainship	captainship
+CAPTCHA	captcha
 caption	caption
 captious	captious
 captivate	captivate
@@ -8188,6 +8662,7 @@ carcinoma	carcinoma
 carcinomatosis	carcinomatosis
 card	card
 cardamom	cardamom
+Cardano	cardano
 cardboard	cardboard
 cardholder	cardholder
 cardiac	cardiac
@@ -8316,6 +8791,7 @@ carpetbagger	carpetbagger
 carpeting	carpeting
 carpi	carpi
 carping	carping
+CarPlay	carplay
 carpogonium	carpogonium
 carpology	carpology
 carpometacarpus	carpometacarpus
@@ -8390,6 +8866,7 @@ Casanova	casanova
 Casaubon	casaubon
 cascabel	cascabel
 cascade	cascade
+cascading	cascading
 cascara	cascara
 cascarilla	cascarilla
 case	case
@@ -8686,6 +9163,11 @@ Cayes	cayes
 cayman	cayman
 Cayuga	cayuga
 cayuse	cayuse
+CBA	cba
+CCTV	cctv
+CD	cd
+CDN	cdn
+CDPR	cdpr
 cease	cease
 ceaseless	ceaseless
 Cecil	cecil
@@ -8696,6 +9178,7 @@ cecum	cecum
 cedar	cedar
 cede	cede
 cedilla	cedilla
+CEF	cef
 ceiba	ceiba
 ceil	ceil
 ceilidh	ceilidh
@@ -8796,6 +9279,7 @@ centistere	centistere
 centner	centner
 CENTO	cento
 cento	cento
+CentOS	centos
 centra	centra
 central	central
 Centralia	centralia
@@ -8828,6 +9312,7 @@ centuplicate	centuplicate
 centurial	centurial
 centurion	centurion
 century	century
+CEO	ceo
 ceorl	ceorl
 cephalad	cephalad
 cephalalgia	cephalalgia
@@ -8952,6 +9437,7 @@ Chagres	chagres
 chagrin	chagrin
 Chain	chain
 chain	chain
+Chainlink	chainlink
 chainman	chainman
 chainplate	chainplate
 chair	chair
@@ -9166,8 +9652,8 @@ chat	chat
 chateau	chateau
 chatelain	chatelain
 chatelaine	chatelaine
-ChatGPT chatgpt
 ChatGPT	chatgpt
+ChatGPT chatgpt
 Chatham	chatham
 chatoyant	chatoyant
 Chattanooga	chattanooga
@@ -9192,11 +9678,13 @@ Chavannes	chavannes
 chaw	chaw
 chayote	chayote
 chazan	chazan
+CHDBits	chdbits
 cheap	cheap
 cheapen	cheapen
 cheapskate	cheapskate
 cheat	cheat
 cheater	cheater
+CheatSheet	cheatsheet
 Cheboksary	cheboksary
 check	check
 checkbook	checkbook
@@ -9258,6 +9746,7 @@ Chelsea	chelsea
 Cheltenham	cheltenham
 Chelyabinsk	chelyabinsk
 Chelyuskin	chelyuskin
+ChemBioDraw	chembiodraw
 chemical	chemical
 chemiluminescence	chemiluminescence
 chemise	chemise
@@ -9527,7 +10016,9 @@ chlorpromazine	chlorpromazine
 chlortetracycline	chlortetracycline
 choanocyte	choanocyte
 chock	chock
+choco	choco
 chocolate	chocolate
+Chocolatey	chocolatey
 Choctaw	choctaw
 choice	choice
 choir	choir
@@ -9590,6 +10081,7 @@ choreodrama	choreodrama
 choreograph	choreograph
 choreographer	choreographer
 choreography	choreography
+chores	chores
 choriamb	choriamb
 choric	choric
 choriocarcinoma	choriocarcinoma
@@ -9655,7 +10147,9 @@ chromatography	chromatography
 chromatology	chromatology
 chromatolysis	chromatolysis
 chromatophore	chromatophore
+Chrome	chrome
 chrome	chrome
+ChromeOS	chromeos
 chromic	chromic
 chrominance	chrominance
 chromite	chromite
@@ -9678,6 +10172,7 @@ chronaxie	chronaxie
 chronic	chronic
 chronicle	chronicle
 Chronicles	chronicles
+chrono	chrono
 chronogram	chronogram
 chronograph	chronograph
 chronological	chronological
@@ -9809,6 +10304,7 @@ cinerary	cinerary
 cinerator	cinerator
 cinereous	cinereous
 cingulum	cingulum
+Cinity	cinity
 cinnabar	cinnabar
 cinnamon	cinnamon
 cinquain	cinquain
@@ -9945,6 +10441,7 @@ clairvoyant	clairvoyant
 clam	clam
 clamant	clamant
 clamatorial	clamatorial
+ClamAV	clamav
 clambake	clambake
 clamber	clamber
 clammy	clammy
@@ -9985,6 +10482,7 @@ claro	claro
 clarsach	clarsach
 clary	clary
 clash	clash
+ClashX	clashx
 clasp	clasp
 clasping	clasping
 class	class
@@ -10005,6 +10503,8 @@ classy	classy
 clastic	clastic
 clathrate	clathrate
 clatter	clatter
+Claude	claude
+Claude+	claude+
 Claudel	claudel
 claudicant	claudicant
 claudication	claudication
@@ -10092,6 +10592,7 @@ Cleveland	cleveland
 clever	clever
 clevis	clevis
 clew	clew
+CLI	cli
 Clichy	clichy
 click	click
 clicker	clicker
@@ -10126,6 +10627,7 @@ clinometer	clinometer
 clinquant	clinquant
 clintonia	clintonia
 Clio	clio
+CLion	clion
 clip	clip
 clipboard	clipboard
 clipped	clipped
@@ -10186,13 +10688,18 @@ clothing	clothing
 Clotho	clotho
 cloture	cloture
 cloud	cloud
+CloudApp	cloudapp
 cloudberry	cloudberry
 cloudburst	cloudburst
 clouded	clouded
+Cloudflare	cloudflare
+CloudFront	cloudfront
 cloudland	cloudland
 cloudless	cloudless
 cloudlet	cloudlet
+CloudMagic	cloudmagic
 cloudscape	cloudscape
+CloudXNS	cloudxns
 cloudy	cloudy
 Clouet	clouet
 Clough	clough
@@ -10236,6 +10743,9 @@ clypeate	clypeate
 clypeus	clypeus
 clyster	clyster
 Clytemnestra	clytemnestra
+CN	cn
+CNAME	cname
+cnBeta	cnbeta
 cnemis	cnemis
 cnidoblast	cnidoblast
 Cnidus	cnidus
@@ -10370,6 +10880,7 @@ cockup	cockup
 cocky	cocky
 coco	coco
 cocoa	cocoa
+CocoaPods	cocoapods
 coconut	coconut
 cocoon	cocoon
 cocotte	cocotte
@@ -10380,8 +10891,13 @@ cod	cod
 coda	coda
 coddle	coddle
 code	code
+Code::Blocks	code::blocks
+CodeBox	codebox
 codeclination	codeclination
 codeine	codeine
+Codeium	codeium
+CodeKit	codekit
+CodeWhisperer	codewhisperer
 codex	codex
 codfish	codfish
 codger	codger
@@ -10469,6 +10985,7 @@ Coimbatore	coimbatore
 Coimbra	coimbra
 coin	coin
 coinage	coinage
+Coinbase	coinbase
 coincide	coincide
 coincidence	coincidence
 coincident	coincident
@@ -10614,6 +11131,7 @@ colorimeter	colorimeter
 coloring	coloring
 colorist	colorist
 colorless	colorless
+ColorOS	coloros
 Colossae	colossae
 colossal	colossal
 Colosseum	colosseum
@@ -10770,12 +11288,14 @@ commodity	commodity
 commodore	commodore
 Commodus	commodus
 common	common
+greatest common divisor	greatestcommondivisor
 commonable	commonable
 commonage	commonage
 commonality	commonality
 commonalty	commonalty
 commoner	commoner
 commonly	commonly
+CommonMark	commonmark
 commonplace	commonplace
 commons	commons
 commonweal	commonweal
@@ -10812,6 +11332,7 @@ commuter	commuter
 commutual	commutual
 Comnenus	comnenus
 Como	como
+Comodo	comodo
 Comorin	comorin
 comose	comose
 comp	comp
@@ -10906,6 +11427,7 @@ compost	compost
 composure	composure
 compotation	compotation
 compote	compote
+Compound	compound
 compound	compound
 comprador	comprador
 comprehend	comprehend
@@ -11125,6 +11647,7 @@ conflagrant	conflagrant
 conflagration	conflagration
 conflation	conflation
 conflict	conflict
+Confluence	confluence
 confluence	confluence
 confluent	confluent
 conflux	conflux
@@ -11377,6 +11900,7 @@ contagium	contagium
 contain	contain
 container	container
 containerize	containerize
+containerized	containerized
 containment	containment
 contaminant	contaminant
 contaminate	contaminate
@@ -11394,6 +11918,7 @@ contempt	contempt
 contemptible	contemptible
 contemptuous	contemptuous
 contend	contend
+Downloadable content	downloadablecontent
 content	content
 contented	contented
 contention	contention
@@ -11490,6 +12015,7 @@ contrivance	contrivance
 contrive	contrive
 contrived	contrived
 control	control
+version control system	versioncontrolsystem
 controller	controller
 controversial	controversial
 controversy	controversy
@@ -11566,6 +12092,7 @@ convulsion	convulsion
 convulsive	convulsive
 Conway	conway
 cony	cony
+COO	coo
 coo	coo
 cooee	cooee
 Cook	cook
@@ -11664,6 +12191,7 @@ copyholder	copyholder
 copyist	copyist
 copyread	copyread
 copyreader	copyreader
+Copyright	copyright
 copyright	copyright
 copywriter	copywriter
 coquelicot	coquelicot
@@ -11724,6 +12252,7 @@ coreligionist	coreligionist
 Corelli	corelli
 coremaker	coremaker
 coreopsis	coreopsis
+CoreOS	coreos
 corespondent	corespondent
 corf	corf
 Corfam	corfam
@@ -11762,6 +12291,7 @@ cornemuse	cornemuse
 corneous	corneous
 corner	corner
 cornered	cornered
+Cornerstone	cornerstone
 cornerstone	cornerstone
 cornerwise	cornerwise
 cornet	cornet
@@ -11823,6 +12353,7 @@ correct	correct
 correction	correction
 correctitude	correctitude
 corrective	corrective
+corrector	corrector
 Correggio	correggio
 Corregidor	corregidor
 correlate	correlate
@@ -11859,6 +12390,7 @@ corse	corse
 corselet	corselet
 corset	corset
 Corsica	corsica
+Cortana	cortana
 cortege	cortege
 Cortes	cortes
 cortex	cortex
@@ -11908,8 +12440,10 @@ cosmopolis	cosmopolis
 cosmopolitan	cosmopolitan
 cosmopolite	cosmopolite
 cosmorama	cosmorama
+Cosmos	cosmos
 cosmos	cosmos
 Cosmotron	cosmotron
+cosplay	cosplay
 coss	coss
 Cossack	cossack
 cosset	cosset
@@ -11992,6 +12526,7 @@ countable	countable
 countdown	countdown
 countenance	countenance
 counter	counter
+Counter-Strike	counter-strike
 counteraccusation	counteraccusation
 counteract	counteract
 counterattack	counterattack
@@ -12124,6 +12659,8 @@ coverture	coverture
 covet	covet
 covetous	covetous
 covey	covey
+COVID	covid
+COVID-19	covid-19
 covin	covin
 cow	cow
 cowage	cowage
@@ -12178,6 +12715,8 @@ coze	coze
 cozen	cozen
 cozenage	cozenage
 cozy	cozy
+C++	cpp
+CPU	cpu
 craal	craal
 crab	crab
 Crabbe	crabbe
@@ -12500,6 +13039,7 @@ crosslet	crosslet
 crossly	crossly
 crossness	crossness
 crossopterygian	crossopterygian
+CrossOver	crossover
 crossover	crossover
 crosspatch	crosspatch
 crosspiece	crosspiece
@@ -12551,6 +13091,7 @@ crucifixion	crucifixion
 cruciform	cruciform
 crucify	crucify
 cruck	cruck
+CRUD	crud
 crud	crud
 crude	crude
 crudity	crudity
@@ -12622,6 +13163,7 @@ cryptogram	cryptogram
 cryptograph	cryptograph
 cryptography	cryptography
 cryptology	cryptology
+Cryptomator	cryptomator
 cryptomeria	cryptomeria
 cryptonym	cryptonym
 cryptonymous	cryptonymous
@@ -12634,13 +13176,19 @@ crystallization	crystallization
 crystallize	crystallize
 crystallography	crystallography
 crystalloid	crystalloid
+CS	cs
+CS:GO	cs:go
 csc	csc
 csch	csch
+CSDN	csdn
+C#	csharp
+CSS	css
 ctenidium	ctenidium
 ctenoid	ctenoid
 ctenophore	ctenophore
 Ctesiphon	ctesiphon
 ctn	ctn
+CTO	cto
 Cub	cub
 cub	cub
 Cuba	cuba
@@ -12798,6 +13346,7 @@ curfew	curfew
 curia	curia
 Curie	curie
 curie	curie
+Curio	curio
 curio	curio
 curiosa	curiosa
 curiosity	curiosity
@@ -12843,6 +13392,7 @@ curtsy	curtsy
 curule	curule
 curvaceous	curvaceous
 curvature	curvature
+Curve	curve
 curve	curve
 curvet	curvet
 curvilinear	curvilinear
@@ -12935,6 +13485,7 @@ cyanotype	cyanotype
 cyathus	cyathus
 Cybele	cybele
 cybernetics	cybernetics
+Cyberpunk	cyberpunk
 cycad	cycad
 Cyclades	cyclades
 cyclamate	cyclamate
@@ -13054,6 +13605,7 @@ Czechoslovak	czechoslovak
 Czechoslovakia	czechoslovakia
 Czernowitz	czernowitz
 Czerny	czerny
+D&D	d&d
 dab	dab
 dabber	dabber
 dabble	dabble
@@ -13172,6 +13724,7 @@ Dan	dan
 Danaides	danaides
 Danaus	danaus
 dance	dance
+danced	danced
 dancer	dancer
 dancette	dancette
 dandelion	dandelion
@@ -13204,11 +13757,14 @@ dap	dap
 Daphne	daphne
 daphne	daphne
 Daphnis	daphnis
+DApp	dapp
 dapper	dapper
 dapple	dapple
 dappled	dappled
+DApps	dapps
 Dapsang	dapsang
 darbies	darbies
+Darcula	darcula
 Dardan	dardan
 Dardanelles	dardanelles
 Dardanus	dardanus
@@ -13262,12 +13818,18 @@ dastard	dastard
 dastardly	dastardly
 dasyure	dasyure
 data	data
+Database	database
+Datagraph	datagraph
+DataGrip	datagrip
+Datalore	datalore
 datary	datary
+DataSpell	dataspell
 datcha	datcha
 date	date
 dated	dated
 dateless	dateless
 dateline	dateline
+datetime	datetime
 dative	dative
 dato	dato
 datolite	datolite
@@ -13317,6 +13879,8 @@ daytime	daytime
 Dayton	dayton
 daze	daze
 dazzle	dazzle
+DBMesh	dbmesh
+DDoS	ddos
 DDT	ddt
 deacon	deacon
 deaconess	deaconess
@@ -13394,6 +13958,7 @@ debris	debris
 Debs	debs
 debt	debt
 debtor	debtor
+debuff	debuff
 debug	debug
 debunk	debunk
 debus	debus
@@ -13576,7 +14141,9 @@ deemster	deemster
 deep	deep
 deepen	deepen
 Deepin	deepin
+DeepL	deepl
 deeply	deeply
+DeepMind	deepmind
 deer	deer
 deerhound	deerhound
 deerskin	deerskin
@@ -13618,6 +14185,7 @@ defiant	defiant
 defibrillator	defibrillator
 deficiency	deficiency
 deficient	deficient
+attention deficit hyperactivity disorder	attentiondeficithyperactivitydisorder
 deficit	deficit
 defilade	defilade
 defile	defile
@@ -13901,6 +14469,7 @@ denegation	denegation
 dengue	dengue
 deniable	deniable
 denial	denial
+distributed denial-of-service attack	distributeddenialofserviceattack
 denier	denier
 denigrate	denigrate
 denim	denim
@@ -13970,6 +14539,7 @@ department	department
 departmentalism	departmentalism
 departmentalize	departmentalize
 departure	departure
+Depay	depay
 depend	depend
 dependable	dependable
 dependence	dependence
@@ -14008,6 +14578,7 @@ deprave	deprave
 depraved	depraved
 depravity	depravity
 deprecate	deprecate
+deprecated	deprecated
 deprecative	deprecative
 deprecatory	deprecatory
 depreciable	depreciable
@@ -14128,6 +14699,7 @@ desired	desired
 desirous	desirous
 desist	desist
 desk	desk
+Desktop	desktop
 desman	desman
 desmid	desmid
 desmoid	desmoid
@@ -14292,6 +14864,7 @@ devolution	devolution
 devolve	devolve
 Devon	devon
 Devonian	devonian
+DEVONthink	devonthink
 devote	devote
 devoted	devoted
 devotee	devotee
@@ -14338,6 +14911,7 @@ dharana	dharana
 dharma	dharma
 dharna	dharna
 Dhaulagiri	dhaulagiri
+DHCP	dhcp
 dhobi	dhobi
 dhole	dhole
 dhoti	dhoti
@@ -14504,6 +15078,7 @@ diclinous	diclinous
 dicot	dicot
 dicotyledon	dicotyledon
 dicrotic	dicrotic
+dict	dict
 dicta	dicta
 Dictaphone	dictaphone
 dictate	dictate
@@ -14592,6 +15167,7 @@ digitalin	digitalin
 digitalis	digitalis
 digitalism	digitalism
 digitalize	digitalize
+DigitalOcean	digitalocean
 digitate	digitate
 digitiform	digitiform
 digitigrade	digitigrade
@@ -14774,6 +15350,7 @@ directorate	directorate
 directorial	directorial
 directory	directory
 directrix	directrix
+DirectX	directx
 direful	direful
 dirge	dirge
 dirham	dirham
@@ -14888,6 +15465,7 @@ discontinue	discontinue
 discontinuity	discontinuity
 discontinuous	discontinuous
 discophile	discophile
+Discord	discord
 discord	discord
 discordance	discordance
 discordancy	discordancy
@@ -15113,6 +15691,7 @@ disquiet	disquiet
 disquieting	disquieting
 disquietude	disquietude
 disquisition	disquisition
+Disqus	disqus
 Disraeli	disraeli
 disrate	disrate
 disregard	disregard
@@ -15129,6 +15708,7 @@ disrobe	disrobe
 disrupt	disrupt
 disruption	disruption
 disruptive	disruptive
+diss	diss
 dissatisfaction	dissatisfaction
 dissatisfactory	dissatisfactory
 dissatisfied	dissatisfied
@@ -15257,6 +15837,7 @@ ditto	ditto
 dittography	dittography
 ditty	ditty
 Diu	diu
+Diumoo	diumoo
 diuresis	diuresis
 diuretic	diuretic
 diurnal	diurnal
@@ -15318,21 +15899,32 @@ diwan	diwan
 Dixie	dixie
 dixie	dixie
 Dixieland	dixieland
+DIY	diy
 dizen	dizen
 dizzy	dizzy
+DJ	dj
 Djakarta	djakarta
 Djambi	djambi
+Django	django
 djebel	djebel
 Djerba	djerba
 Djokjakarta	djokjakarta
+DjVu	djvu
 dkl	dkl
+DLC	dlc
+DLsite	dlsite
+DMCA	dmca
 DMSO	dmso
 DMZ	dmz
 DNA	dna
+DnD	dnd
 Dneprodzerzhinsk	dneprodzerzhinsk
 Dnepropetrovsk	dnepropetrovsk
 Dnieper	dnieper
 Dniester	dniester
+DNS	dns
+Dnsmasq	dnsmasq
+DNSPod	dnspod
 doable	doable
 dobbin	dobbin
 dobby	dobby
@@ -15382,6 +15974,7 @@ Dogberry	dogberry
 dogberry	dogberry
 dogcart	dogcart
 dogcatcher	dogcatcher
+Doge	doge
 doge	doge
 dogface	dogface
 dogfight	dogfight
@@ -15411,6 +16004,7 @@ dogvane	dogvane
 dogwatch	dogwatch
 dogwood	dogwood
 dogy	dogy
+DoH	doh
 Doha	doha
 doily	doily
 doing	doing
@@ -15443,6 +16037,7 @@ doloroso	doloroso
 dolorous	dolorous
 dolphin	dolphin
 dolt	dolt
+DOM	dom
 Dom	dom
 dom	dom
 domain	domain
@@ -15531,6 +16126,7 @@ dooryard	dooryard
 dope	dope
 dopester	dopester
 dopey	dopey
+DoQ	doq
 dor	dor
 Dorado	dorado
 dorado	dorado
@@ -15566,6 +16162,7 @@ Dort	dort
 Dortmund	dortmund
 dorty	dorty
 dory	dory
+DOS	dos
 dosage	dosage
 dose	dose
 dosimeter	dosimeter
@@ -15575,15 +16172,20 @@ dosser	dosser
 dossier	dossier
 dost	dost
 dot	dot
+Dota	dota
 dotage	dotage
 dotard	dotard
 dotation	dotation
+dotCover	dotcover
 dote	dote
 doth	doth
 doting	doting
+dotMemory	dotmemory
+dotPeek	dotpeek
 dotted	dotted
 dotterel	dotterel
 dottle	dottle
+dotTrace	dottrace
 dotty	dotty
 Dou	dou
 Douai	douai
@@ -15830,6 +16432,8 @@ drip	drip
 dripping	dripping
 drippy	drippy
 dripstone	dripstone
+Hybrid drive	hybriddrive
+Solid-state drive	solidstatedrive
 drive	drive
 drivel	drivel
 driven	driven
@@ -15850,6 +16454,7 @@ drool	drool
 droop	droop
 droopy	droopy
 drop	drop
+Dropbox	dropbox
 droplet	droplet
 droplight	droplight
 dropline	dropline
@@ -15862,6 +16467,7 @@ dropsical	dropsical
 dropsonde	dropsonde
 dropsy	dropsy
 dropwort	dropwort
+Dropzone	dropzone
 droshky	droshky
 drosophila	drosophila
 dross	dross
@@ -15913,6 +16519,7 @@ Duala	duala
 dualism	dualism
 dualistic	dualistic
 duality	duality
+duang	duang
 duarchy	duarchy
 dub	dub
 Dubai	dubai
@@ -15935,6 +16542,7 @@ duchy	duchy
 duck	duck
 duckbill	duckbill
 duckboard	duckboard
+DuckDuckGo	duckduckgo
 duckling	duckling
 duckpin	duckpin
 ducks	ducks
@@ -16112,7 +16720,9 @@ duumvirate	duumvirate
 Duvalier	duvalier
 duvetyn	duvetyn
 dux	dux
+D.VA	dva
 dvandva	dvandva
+DVD	dvd
 Dvina	dvina
 Dvinsk	dvinsk
 dwarf	dwarf
@@ -16129,6 +16739,7 @@ Dyak	dyak
 dyarchy	dyarchy
 Dyaus	dyaus
 dybbuk	dybbuk
+dYdX	dydx
 dye	dye
 dyeing	dyeing
 dyeline	dyeline
@@ -16154,6 +16765,7 @@ dynatron	dynatron
 dyne	dyne
 Dynel	dynel
 dynode	dynode
+DYOR	dyor
 dysarthria	dysarthria
 dyscrasia	dyscrasia
 dysentery	dysentery
@@ -16249,6 +16861,7 @@ easement	easement
 easily	easily
 easiness	easiness
 easing	easing
+Eason	eason
 East	east
 east	east
 eastbound	eastbound
@@ -16439,6 +17052,7 @@ educt	educt
 eduction	eduction
 eductive	eductive
 edulcorate	edulcorate
+EduTools	edutools
 Edward	edward
 Edwardian	edwardian
 Edwards	edwards
@@ -16519,6 +17133,7 @@ egoist	egoist
 egomania	egomania
 egotism	egotism
 egotist	egotist
+eGPU	egpu
 egregious	egregious
 egress	egress
 egression	egression
@@ -16590,6 +17205,7 @@ elastance	elastance
 elastic	elastic
 elasticity	elasticity
 elasticize	elasticize
+Elasticsearch	elasticsearch
 elastin	elastin
 elastomer	elastomer
 elate	elate
@@ -16671,6 +17287,7 @@ electrometer	electrometer
 electromotive	electromotive
 electromotor	electromotor
 electromyography	electromyography
+Electron	electron
 electron	electron
 electronarcosis	electronarcosis
 electronegative	electronegative
@@ -16915,6 +17532,8 @@ emmer	emmer
 emmet	emmet
 emmetropia	emmetropia
 Emmy	emmy
+emo	emo
+emoji	emoji
 emollient	emollient
 emolument	emolument
 emote	emote
@@ -16963,6 +17582,7 @@ empurple	empurple
 empyema	empyema
 empyreal	empyreal
 empyrean	empyrean
+EMS	ems
 emu	emu
 emulate	emulate
 emulation	emulation
@@ -17063,6 +17683,7 @@ endive	endive
 endless	endless
 endlong	endlong
 endmost	endmost
+Endnote	endnote
 endoblast	endoblast
 endocardial	endocardial
 endocarditis	endocarditis
@@ -17333,6 +17954,7 @@ entrench	entrench
 entrenchment	entrenchment
 entrepreneur	entrepreneur
 entresol	entresol
+Entropy	entropy
 entropy	entropy
 entrust	entrust
 entry	entry
@@ -17419,6 +18041,7 @@ Ephraim	ephraim
 Ephraimite	ephraimite
 epiblast	epiblast
 epiboly	epiboly
+Epic	epic
 epic	epic
 epicalyx	epicalyx
 epicanthus	epicanthus
@@ -17529,6 +18152,7 @@ epsilon	epsilon
 Epsom	epsom
 epsomite	epsomite
 Epstein	epstein
+ePub	epub
 equable	equable
 equal	equal
 equalitarian	equalitarian
@@ -17636,6 +18260,7 @@ eristic	eristic
 Eritrea	eritrea
 Erivan	erivan
 erk	erk
+Erlang	erlang
 Erlanger	erlanger
 erlking	erlking
 ermine	ermine
@@ -17697,6 +18322,7 @@ erythrocytometer	erythrocytometer
 erythromycin	erythromycin
 erythropoiesis	erythropoiesis
 Erzurum	erzurum
+eSATA	esata
 Esau	esau
 Esbjerg	esbjerg
 escadrille	escadrille
@@ -17736,6 +18362,7 @@ Esdras	esdras
 ESE	ese
 esemplastic	esemplastic
 eserine	eserine
+eSIM	esim
 esker	esker
 Eskilstuna	eskilstuna
 Eskimo	eskimo
@@ -17749,6 +18376,7 @@ ESP	esp
 espadrille	espadrille
 espagnole	espagnole
 espalier	espalier
+espanso	espanso
 esparto	esparto
 especial	especial
 especially	especially
@@ -17848,6 +18476,7 @@ etherealize	etherealize
 Etherege	etherege
 etherify	etherify
 etherize	etherize
+Ethernet	ethernet
 ethic	ethic
 ethical	ethical
 ethicize	ethicize
@@ -17944,6 +18573,7 @@ Eurasia	eurasia
 Eurasian	eurasian
 Euratom	euratom
 Eure	eure
+Eureka	eureka
 eureka	eureka
 eurhythmic	eurhythmic
 eurhythmics	eurhythmics
@@ -18027,6 +18657,7 @@ Everglades	everglades
 evergreen	evergreen
 everlasting	everlasting
 evermore	evermore
+Evernote	evernote
 eversion	eversion
 evert	evert
 evertor	evertor
@@ -18177,6 +18808,7 @@ excurvature	excurvature
 excurved	excurved
 excusatory	excusatory
 excuse	excuse
+exe	exe
 exeat	exeat
 execrable	execrable
 execrate	execrate
@@ -18215,6 +18847,7 @@ exert	exert
 exertion	exertion
 Exeter	exeter
 exeunt	exeunt
+ExFAT	exfat
 exfoliate	exfoliate
 exfoliation	exfoliation
 exhalant	exhalant
@@ -18564,11 +19197,13 @@ Fabrikoid	fabrikoid
 fabulist	fabulist
 fabulous	fabulous
 face	face
+Facebook	facebook
 faceless	faceless
 faceplate	faceplate
 facer	facer
 facet	facet
 facetiae	facetiae
+FaceTime	facetime
 facetious	facetious
 facia	facia
 facial	facial
@@ -18589,6 +19224,7 @@ factor	factor
 factorage	factorage
 factorial	factorial
 factoring	factoring
+Factorio	factorio
 factorize	factorize
 factory	factory
 factotum	factotum
@@ -18672,6 +19308,7 @@ Falla	falla
 fallacious	fallacious
 fallacy	fallacy
 fallal	fallal
+fallback	fallback
 fallen	fallen
 faller	faller
 fallfish	fallfish
@@ -18733,12 +19370,14 @@ fantasize	fantasize
 fantasm	fantasm
 fantast	fantast
 fantastic	fantastic
+Fantastical	fantastical
 fantastically	fantastically
 fantasy	fantasy
 Fanti	fanti
 fantoccini	fantoccini
 fantom	fantom
 FAO	fao
+FAQ	faq
 faqir	faqir
 far	far
 farad	farad
@@ -18816,6 +19455,7 @@ fastening	fastening
 fastidious	fastidious
 fastigiate	fastigiate
 fastigium	fastigium
+Fastmail	fastmail
 fastness	fastness
 fat	fat
 fatal	fatal
@@ -18870,6 +19510,7 @@ Faust	faust
 fauteuil	fauteuil
 Fauve	fauve
 faveolate	faveolate
+favicon	favicon
 favonian	favonian
 favor	favor
 favorable	favorable
@@ -18891,6 +19532,7 @@ faze	faze
 FBI	fbi
 FCA	fca
 FCC	fcc
+Fcitx	fcitx
 FDA	fda
 FDIC	fdic
 feal	feal
@@ -18948,6 +19590,7 @@ federalize	federalize
 federate	federate
 federation	federation
 federative	federative
+Fedora	fedora
 fedora	fedora
 fee	fee
 feeble	feeble
@@ -18961,6 +19604,7 @@ feeler	feeler
 feeling	feeling
 feet	feet
 feeze	feeze
+FeHelper	fehelper
 feign	feign
 feigned	feigned
 Feininger	feininger
@@ -19006,6 +19650,7 @@ feminism	feminism
 feminize	feminize
 femme	femme
 femoral	femoral
+femtosecond	femtosecond
 femur	femur
 fen	fen
 fence	fence
@@ -19151,6 +19796,7 @@ fey	fey
 Fez	fez
 fez	fez
 Fezzan	fezzan
+FFmpeg	ffmpeg
 fiacre	fiacre
 fiance	fiance
 Fianna	fianna
@@ -19229,8 +19875,10 @@ fierce	fierce
 fiery	fiery
 Fiesole	fiesole
 fiesta	fiesta
+FIFA	fifa
 Fife	fife
 fife	fife
+FIFO	fifo
 fifteen	fifteen
 fifteenth	fifteenth
 fifth	fifth
@@ -19263,8 +19911,10 @@ filature	filature
 filbert	filbert
 filch	filch
 file	file
+Filecoin	filecoin
 filefish	filefish
 filet	filet
+FileVault	filevault
 filial	filial
 filiate	filiate
 filiation	filiation
@@ -19319,6 +19969,7 @@ financier	financier
 finback	finback
 finch	finch
 find	find
+Finder	finder
 finder	finder
 finding	finding
 fine	fine
@@ -19388,6 +20039,7 @@ firedamp	firedamp
 firedog	firedog
 firedrake	firedrake
 firefly	firefly
+Firefox	firefox
 fireguard	fireguard
 firehouse	firehouse
 firelock	firelock
@@ -19402,6 +20054,7 @@ firer	firer
 fireside	fireside
 firestone	firestone
 firetrap	firetrap
+firetruck	firetruck
 firewarden	firewarden
 firewater	firewater
 fireweed	fireweed
@@ -19653,8 +20306,10 @@ flibbertigibbet	flibbertigibbet
 flick	flick
 flicker	flicker
 flickertail	flickertail
+Flickr	flickr
 flied	flied
 flier	flier
+flies	flies
 flight	flight
 flightless	flightless
 flighty	flighty
@@ -19706,6 +20361,7 @@ Flodden	flodden
 floe	floe
 flog	flog
 flogging	flogging
+flomo	flomo
 flong	flong
 flood	flood
 flooded	flooded
@@ -19848,6 +20504,7 @@ flyer	flyer
 flying	flying
 flyleaf	flyleaf
 flyman	flyman
+Flyme	flyme
 flyover	flyover
 flypaper	flypaper
 flyspeck	flyspeck
@@ -19855,6 +20512,7 @@ flyte	flyte
 flytrap	flytrap
 flyweight	flyweight
 flywheel	flywheel
+fo	fo
 foal	foal
 foam	foam
 foamflower	foamflower
@@ -19922,11 +20580,13 @@ follicle	follicle
 folliculin	folliculin
 follow	follow
 follower	follower
+followers	followers
 following	following
 folly	folly
 Fomalhaut	fomalhaut
 foment	foment
 fomentation	fomentation
+FOMO	fomo
 fond	fond
 Fonda	fonda
 fondant	fondant
@@ -20034,6 +20694,7 @@ forebear	forebear
 forebode	forebode
 foreboding	foreboding
 forebrain	forebrain
+Forecast	forecast
 forecast	forecast
 forecastle	forecastle
 foreclose	foreclose
@@ -20154,6 +20815,7 @@ forint	forint
 forjudge	forjudge
 fork	fork
 forked	forked
+ForkLift	forklift
 forklift	forklift
 forlorn	forlorn
 form	form
@@ -20244,6 +20906,7 @@ forwent	forwent
 forwhy	forwhy
 forworn	forworn
 forzando	forzando
+FOSS	foss
 fossa	fossa
 fosse	fosse
 fossette	fossette
@@ -20641,9 +21304,12 @@ fry	fry
 fryer	fryer
 FSH	fsh
 FTC	ftc
+FTP	ftp
 fubsy	fubsy
 fuchsia	fuchsia
 fuchsin	fuchsin
+fucked	fucked
+fuckity	fuckity
 fucoid	fucoid
 fucus	fucus
 fuddle	fuddle
@@ -20818,10 +21484,13 @@ fuze	fuze
 fuzee	fuzee
 fuzz	fuzz
 fuzzy	fuzzy
+FYI	fyi
 fyke	fyke
 fylfot	fylfot
 Fyn	fyn
+Fyne	fyne
 fyrd	fyrd
+g11n	g11n
 gab	gab
 Gabar	gabar
 gabardine	gabardine
@@ -20890,6 +21559,7 @@ gait	gait
 gaiter	gaiter
 Gaitskell	gaitskell
 Gaius	gaius
+gakki	gakki
 gal	gal
 gala	gala
 galactagogue	galactagogue
@@ -20919,6 +21589,7 @@ galena	galena
 Galenic	galenic
 galenical	galenical
 Galenism	galenism
+GalGame	galgame
 Galibi	galibi
 Galicia	galicia
 Galilean	galilean
@@ -21065,6 +21736,7 @@ gangue	gangue
 gangway	gangway
 ganister	ganister
 ganja	ganja
+gank	gank
 gannet	gannet
 ganof	ganof
 ganoid	ganoid
@@ -21100,6 +21772,7 @@ gardenia	gardenia
 gardening	gardening
 garderobe	garderobe
 Gardiner	gardiner
+Garena	garena
 Garfield	garfield
 garfish	garfish
 garganey	garganey
@@ -21256,7 +21929,14 @@ gazette	gazette
 gazetteer	gazetteer
 Gaziantep	gaziantep
 gazpacho	gazpacho
+GBA	gba
+GBC	gbc
+Gboard	gboard
 GCA	gca
+GCC	gcc
+GCD	gcd
+GDP	gdp
+GDPR	gdpr
 Gdynia	gdynia
 gean	gean
 geanticlinal	geanticlinal
@@ -21267,9 +21947,12 @@ gearing	gearing
 gearshift	gearshift
 gearwheel	gearwheel
 Geber	geber
+Gecko	gecko
 gecko	gecko
 gee	gee
 geek	geek
+Geekbench	geekbench
+GeekNote	geeknote
 Geelong	geelong
 geese	geese
 geest	geest
@@ -21414,6 +22097,7 @@ geographer	geographer
 geographical	geographical
 geography	geography
 geoid	geoid
+GeoIP	geoip
 geologize	geologize
 geology	geology
 geomancer	geomancer
@@ -21453,6 +22137,7 @@ geothermal	geothermal
 geotropism	geotropism
 Gera	gera
 gerah	gerah
+Geralt	geralt
 geraniaceous	geraniaceous
 geranial	geranial
 geranium	geranium
@@ -21507,6 +22192,7 @@ gesticulate	gesticulate
 gesticulation	gesticulation
 gesticulative	gesticulative
 gesticulatory	gesticulatory
+Gestimer	gestimer
 gesture	gesture
 Gesualdo	gesualdo
 gesundheit	gesundheit
@@ -21525,6 +22211,8 @@ gey	gey
 geyser	geyser
 geyserite	geyserite
 Gezira	gezira
+GFM	gfm
+GFW	gfw
 Ghana	ghana
 gharry	gharry
 ghastly	ghastly
@@ -21541,6 +22229,9 @@ Ghiberti	ghiberti
 Ghirlandaio	ghirlandaio
 ghost	ghost
 ghostly	ghostly
+GhostNote	ghostnote
+ghosts	ghosts
+GhostTile	ghosttile
 ghostwrite	ghostwrite
 ghoul	ghoul
 ghyll	ghyll
@@ -21573,6 +22264,7 @@ Gide	gide
 Gideon	gideon
 gie	gie
 Gielgud	gielgud
+GIF	gif
 gift	gift
 gifted	gifted
 Gifu	gifu
@@ -21615,6 +22307,7 @@ gimcrackery	gimcrackery
 gimel	gimel
 gimlet	gimlet
 gimmal	gimmal
+gimme	gimme
 gimmick	gimmick
 gimp	gimp
 gin	gin
@@ -21662,7 +22355,11 @@ Gish	gish
 gismo	gismo
 Gissing	gissing
 gist	gist
+gists	gists
 git	git
+GitBook	gitbook
+Gitea	gitea
+Gitee	gitee
 GitHub	github
 GitLab	gitlab
 gittern	gittern
@@ -21914,9 +22611,12 @@ gnostic	gnostic
 Gnosticism	gnosticism
 Gnosticize	gnosticize
 gnotobiotics	gnotobiotics
+GNU	gnu
 gnu	gnu
+Let's go	let'sgo
 goa	goa
 goad	goad
+GoagentX	goagentx
 goal	goal
 goalie	goalie
 goalkeeper	goalkeeper
@@ -21945,6 +22645,7 @@ gobo	gobo
 goby	goby
 God	god
 god	god
+GoDaddy	godaddy
 Godard	godard
 Godavari	godavari
 godchild	godchild
@@ -21982,6 +22683,7 @@ Goering	goering
 Goethe	goethe
 goethite	goethite
 goffer	goffer
+GoFrame	goframe
 Gog	gog
 goggle	goggle
 goggler	goggler
@@ -21992,6 +22694,8 @@ Gogol	gogol
 Goidelic	goidelic
 going	going
 goiter	goiter
+GoLand	goland
+Golang	golang
 Golconda	golconda
 gold	gold
 goldarn	goldarn
@@ -21999,6 +22703,7 @@ goldarned	goldarned
 goldbrick	goldbrick
 goldcrest	goldcrest
 golden	golden
+GoldenDict	goldendict
 goldeneye	goldeneye
 goldenrod	goldenrod
 goldenseal	goldenseal
@@ -22007,6 +22712,7 @@ goldfinch	goldfinch
 goldfish	goldfish
 goldilocks	goldilocks
 Golding	golding
+Goldmark	goldmark
 Goldoni	goldoni
 Goldschmidt	goldschmidt
 Goldsmith	goldsmith
@@ -22071,6 +22777,8 @@ gooey	gooey
 goof	goof
 goofball	goofball
 goofy	goofy
+Google	google
+Googlebot	googlebot
 googly	googly
 googol	googol
 googolplex	googolplex
@@ -22114,6 +22822,8 @@ Gorlovka	gorlovka
 gormand	gormand
 gormandize	gormandize
 gormless	gormless
+goroutine	goroutine
+goroutines	goroutines
 gorse	gorse
 Gorton	gorton
 gory	gory
@@ -22135,6 +22845,7 @@ gossipy	gossipy
 gossoon	gossoon
 got	got
 Gotama	gotama
+gotcha	gotcha
 Goth	goth
 Gotha	gotha
 Gotham	gotham
@@ -22174,8 +22885,14 @@ gown	gown
 gownsman	gownsman
 goy	goy
 Goya	goya
+GPIB	gpib
+GPIO	gpio
+GPL	gpl
 GPO	gpo
+GPS	gps
 GPT	gpt
+GPT-4	gpt-4
+GPU	gpu
 grab	grab
 grabble	grabble
 graben	graben
@@ -22207,6 +22924,7 @@ Graeae	graeae
 Graecize	graecize
 Graf	graf
 graffito	graffito
+Graffle	graffle
 graft	graft
 grafting	grafting
 Graham	graham
@@ -22307,6 +23025,7 @@ graphitize	graphitize
 graphology	graphology
 graphomotor	graphomotor
 Graphophone	graphophone
+GraphQL	graphql
 grapnel	grapnel
 grappa	grappa
 grapple	grapple
@@ -22341,6 +23060,7 @@ gratulate	gratulate
 gratulation	gratulation
 graupel	graupel
 gravamen	gravamen
+Gravatar	gravatar
 grave	grave
 graveclothes	graveclothes
 gravedigger	gravedigger
@@ -22635,6 +23355,8 @@ grunt	grunt
 grunter	grunter
 Grus	grus
 gryphon	gryphon
+GTA	gta
+GTAV	gtav
 guacharo	guacharo
 guacin	guacin
 guaco	guaco
@@ -22702,8 +23424,10 @@ guff	guff
 guffaw	guffaw
 Guggenheim	guggenheim
 guggle	guggle
+GUI	gui
 Guiana	guiana
 guib	guib
+GUID	guid
 guidance	guidance
 guide	guide
 guideboard	guideboard
@@ -22936,6 +23660,7 @@ haddock	haddock
 hade	hade
 Hades	hades
 Hadhramaut	hadhramaut
+hading	hading
 hadj	hadj
 hadji	hadji
 Hadrian	hadrian
@@ -23080,6 +23805,7 @@ hallah	hallah
 Halle	halle
 Hallel	hallel
 hallelujah	hallelujah
+hallelujahIM	hallelujahim
 Halley	halley
 halliard	halliard
 hallmark	hallmark
@@ -23141,6 +23867,7 @@ hammerhead	hammerhead
 hammering	hammering
 hammerless	hammerless
 hammerlock	hammerlock
+Hammerspoon	hammerspoon
 hammertoe	hammertoe
 hammock	hammock
 Hammond	hammond
@@ -23152,6 +23879,7 @@ Hampshire	hampshire
 Hampstead	hampstead
 Hampton	hampton
 hamster	hamster
+hamsters	hamsters
 hamstring	hamstring
 Hamsun	hamsun
 hamulus	hamulus
@@ -23199,7 +23927,9 @@ handling	handling
 handmade	handmade
 handmaid	handmaid
 handmaiden	handmaiden
+Handoff	handoff
 handout	handout
+Handover	handover
 handpick	handpick
 handrail	handrail
 hands	hands
@@ -23235,6 +23965,7 @@ hanker	hanker
 hankering	hankering
 Hankow	hankow
 hanky	hanky
+HanLP	hanlp
 Hannah	hannah
 Hannibal	hannibal
 Hannover	hannover
@@ -23318,6 +24049,7 @@ Hargeisa	hargeisa
 Hargreaves	hargreaves
 haricot	haricot
 Harijan	harijan
+Harington	harington
 hark	hark
 harken	harken
 harl	harl
@@ -23340,7 +24072,9 @@ harmonious	harmonious
 harmonist	harmonist
 harmonium	harmonium
 harmonize	harmonize
+Harmony	harmony
 harmony	harmony
+HarmonyOS	harmonyos
 harmotome	harmotome
 Harmsworth	harmsworth
 harness	harness
@@ -23388,6 +24122,7 @@ Hasa	hasa
 Hasdrubal	hasdrubal
 hash	hash
 hashish	hashish
+hashtag	hashtag
 Hasid	hasid
 Hasidism	hasidism
 Haskell	haskell
@@ -23489,11 +24224,13 @@ hazan	hazan
 hazard	hazard
 hazardous	hazardous
 haze	haze
+Hazel	hazel
 hazel	hazel
 hazelnut	hazelnut
 hazing	hazing
 Hazlitt	hazlitt
 hazy	hazy
+HDMI	hdmi
 head	head
 headache	headache
 headachy	headachy
@@ -23688,6 +24425,7 @@ heifer	heifer
 Heifetz	heifetz
 height	height
 heighten	heighten
+heil	heil
 Heilbronn	heilbronn
 Heilungkiang	heilungkiang
 Heimdall	heimdall
@@ -23796,6 +24534,7 @@ Helvellyn	helvellyn
 Helvetia	helvetia
 Helvetian	helvetian
 Helvetic	helvetic
+Helvetica	helvetica
 Helvetii	helvetii
 hem	hem
 hemangioma	hemangioma
@@ -24110,6 +24849,7 @@ hexastich	hexastich
 hexastyle	hexastyle
 Hexateuch	hexateuch
 hexavalent	hexavalent
+Hexo	hexo
 hexone	hexone
 hexosan	hexosan
 hexose	hexose
@@ -24121,7 +24861,9 @@ Heyduck	heyduck
 Heyerdahl	heyerdahl
 Heywood	heywood
 Hezekiah	hezekiah
+HHD	hhd
 hhd	hhd
+HHKB	hhkb
 Hialeah	hialeah
 hiatus	hiatus
 Hiawatha	hiawatha
@@ -24249,6 +24991,7 @@ Hinshelwood	hinshelwood
 hint	hint
 hinterland	hinterland
 hip	hip
+Hip-Hop	hip-hop
 hipbone	hipbone
 hipparch	hipparch
 Hipparchus	hipparchus
@@ -24328,6 +25071,7 @@ Hitlerism	hitlerism
 Hittite	hittite
 hive	hive
 hives	hives
+HK	hk
 hoactzin	hoactzin
 Hoad	hoad
 hoagy	hoagy
@@ -24469,8 +25213,10 @@ Home	home
 home	home
 homebody	homebody
 homebred	homebred
+Homebrew	homebrew
 homecoming	homecoming
 homegrown	homegrown
+HomeKit	homekit
 homeland	homeland
 homeless	homeless
 homelike	homelike
@@ -24535,6 +25281,7 @@ homonym	homonym
 Homoousian	homoousian
 homophile	homophile
 homophone	homophone
+homophones	homophones
 homophonic	homophonic
 homophonous	homophonous
 homophony	homophony
@@ -24835,6 +25582,9 @@ Hoyle	hoyle
 Hrvatska	hrvatska
 Hsining	hsining
 Hsinking	hsinking
+HTML	html
+HTTP	http
+HTTPS	https
 Huambo	huambo
 huarache	huarache
 hub	hub
@@ -24955,6 +25705,7 @@ huntress	huntress
 huntsman	huntsman
 Huntsville	huntsville
 Hunyadi	hunyadi
+Huobi	huobi
 Hupeh	hupeh
 huppah	huppah
 hurdle	hurdle
@@ -25203,6 +25954,7 @@ hyperspace	hyperspace
 hypersthene	hypersthene
 hypertension	hypertension
 hypertensive	hypertensive
+Hypertext	hypertext
 hyperthermia	hyperthermia
 hyperthyroidism	hyperthyroidism
 hypertonic	hypertonic
@@ -25308,6 +26060,7 @@ hysterics	hysterics
 hysterogenic	hysterogenic
 hysteroid	hysteroid
 hysterotomy	hysterotomy
+i18n	i18n
 IAEA	iaea
 iamb	iamb
 iambic	iambic
@@ -25326,8 +26079,10 @@ ibex	ibex
 ibidem	ibidem
 ibis	ibis
 Ibiza	ibiza
+IBM	ibm
 Ibo	ibo
 Ibsen	ibsen
+iBus	ibus
 ICAO	icao
 Icaria	icaria
 Icarian	icarian
@@ -25369,6 +26124,8 @@ iciness	iciness
 icing	icing
 ICJ	icj
 icky	icky
+iCloud	icloud
+ICMP	icmp
 icon	icon
 iconic	iconic
 Iconium	iconium
@@ -25381,6 +26138,7 @@ iconology	iconology
 iconoscope	iconoscope
 iconostasis	iconostasis
 icosahedron	icosahedron
+ICP	icp
 ICSH	icsh
 icterus	icterus
 Ictinus	ictinus
@@ -25389,6 +26147,8 @@ icy	icy
 IDA	ida
 Ida	ida
 Idaho	idaho
+IDE	ide
+IDEA	idea
 idea	idea
 ideal	ideal
 idealism	idealism
@@ -25401,11 +26161,13 @@ ideate	ideate
 ideation	ideation
 ideational	ideational
 ideatum	ideatum
+IdeaVim	ideavim
 idem	idem
 idempotent	idempotent
 identic	identic
 identical	identical
 identification	identification
+Identifier	identifier
 identify	identify
 identity	identity
 ideogram	ideogram
@@ -25449,11 +26211,18 @@ Idun	idun
 idyll	idyll
 idyllic	idyllic
 idyllist	idyllist
+IE	ie
+IEEE	ieee
 Ieper	ieper
+IETF	ietf
+iExplorer	iexplorer
 Ieyasu	ieyasu
 IFC	ifc
+iFFmpeg	iffmpeg
 iffy	iffy
 Ifni	ifni
+IFTTT	ifttt
+Igalia	igalia
 Igbo	igbo
 igloo	igloo
 Ignatius	ignatius
@@ -25476,9 +26245,11 @@ iguana	iguana
 iguanodon	iguanodon
 ihram	ihram
 IHS	ihs
+IINA	iina
 IJssel	ijssel
 ikebana	ikebana
 Ikhnaton	ikhnaton
+iKlear	iklear
 ikon	ikon
 Ila	ila
 ileac	ileac
@@ -25551,6 +26322,7 @@ ILO	ilo
 Ilocano	ilocano
 Iloilo	iloilo
 ILS	ils
+iMac	imac
 image	image
 imagery	imagery
 imaginable	imaginable
@@ -25563,7 +26335,9 @@ imagism	imagism
 imago	imago
 imam	imam
 imamate	imamate
+IMAP	imap
 imaret	imaret
+iMazing	imazing
 imbalance	imbalance
 imbecile	imbecile
 imbecilic	imbecilic
@@ -25577,7 +26351,10 @@ imbroglio	imbroglio
 imbrue	imbrue
 imbue	imbue
 IMCO	imco
+IMDb	imdb
+iMessage	imessage
 IMF	imf
+imgur	imgur
 imidazole	imidazole
 imide	imide
 imine	imine
@@ -25649,6 +26426,7 @@ immunoreaction	immunoreaction
 immunotherapy	immunotherapy
 immure	immure
 immutable	immutable
+iMore	imore
 imp	imp
 impact	impact
 impacted	impacted
@@ -25890,6 +26668,7 @@ inaugural	inaugural
 inaugurate	inaugurate
 inauspicious	inauspicious
 inbeing	inbeing
+Inboard	inboard
 inboard	inboard
 inborn	inborn
 inbound	inbound
@@ -26277,6 +27056,7 @@ ineludible	ineludible
 inenarrable	inenarrable
 inept	inept
 ineptitude	ineptitude
+Champion's inequality	champion'sinequality
 inequality	inequality
 inequitable	inequitable
 inequity	inequity
@@ -26397,6 +27177,7 @@ influential	influential
 influenza	influenza
 influx	influx
 infold	infold
+InfoQ	infoq
 inform	inform
 informal	informal
 informality	informality
@@ -26681,6 +27462,8 @@ inspirit	inspirit
 inspissate	inspissate
 instability	instability
 instable	instable
+Instacast	instacast
+Instagram	instagram
 instal	instal
 install	install
 installation	installation
@@ -26694,6 +27477,7 @@ instantaneous	instantaneous
 instanter	instanter
 instantly	instantly
 instar	instar
+Instashare	instashare
 instate	instate
 instauration	instauration
 instead	instead
@@ -26768,6 +27552,7 @@ integrator	integrator
 integrity	integrity
 integument	integument
 integumentary	integumentary
+Intel	intel
 intellect	intellect
 intellection	intellection
 intellectual	intellectual
@@ -26780,6 +27565,7 @@ intelligent	intelligent
 intelligentsia	intelligentsia
 intelligibility	intelligibility
 intelligible	intelligible
+IntelliJ	intellij
 Intelsat	intelsat
 intemerate	intemerate
 intemperance	intemperance
@@ -26793,6 +27579,7 @@ intendment	intendment
 intenerate	intenerate
 intense	intense
 intensifier	intensifier
+Intensify	intensify
 intensify	intensify
 intension	intension
 intensity	intensity
@@ -26919,6 +27706,7 @@ international	international
 Internationale	internationale
 internationalism	internationalism
 internationalist	internationalist
+internationalization	internationalization
 internationalize	internationalize
 interne	interne
 internecine	internecine
@@ -27193,20 +27981,36 @@ ionogen	ionogen
 ionone	ionone
 ionopause	ionopause
 ionosphere	ionosphere
+iOS	ios
 iota	iota
 iotacism	iotacism
 IOU	iou
 Iowa	iowa
+IP	ip
 IPA	ipa
+iPack	ipack
+iPad	ipad
+iPadOS	ipados
 ipecac	ipecac
+IPFS	ipfs
 Iphigenia	iphigenia
 iPhone	iphone
+IPN	ipn
+IPO	ipo
+iPod	ipod
+IPoE	ipoe
 Ipoh	ipoh
 ipomoea	ipomoea
 Ipsambul	ipsambul
 Ipsus	ipsus
 Ipswich	ipswich
+IPTV	iptv
+IPv4	ipv4
+IPv6	ipv6
+IQ	iq
 Iqbal	iqbal
+IQIYI	iqiyi
+IQOS	iqos
 Iquique	iquique
 Iquitos	iquitos
 iracund	iracund
@@ -27233,6 +28037,7 @@ iridium	iridium
 iridize	iridize
 iridosmine	iridosmine
 iridotomy	iridotomy
+iRime	irime
 Iris	iris
 iris	iris
 irisation	irisation
@@ -27343,6 +28148,7 @@ Isaiah	isaiah
 isallobar	isallobar
 Isar	isar
 isatin	isatin
+ISBN	isbn
 Iscariot	iscariot
 Ischia	ischia
 ischium	ischium
@@ -27352,6 +28158,7 @@ Isfahan	isfahan
 Isherwood	isherwood
 Ishmael	ishmael
 Ishmaelite	ishmaelite
+iShot	ishot
 Ishtar	ishtar
 isinglass	isinglass
 Isis	isis
@@ -27366,6 +28173,7 @@ isle	isle
 islet	islet
 Islington	islington
 ism	ism
+ISO	iso
 isoagglutination	isoagglutination
 isoagglutinin	isoagglutinin
 isobar	isobar
@@ -27441,12 +28249,14 @@ Israeli	israeli
 Israelite	israelite
 Israelitish	israelitish
 Issachar	issachar
+ISSN	issn
 issuable	issuable
 issuance	issuance
 issuant	issuant
 issue	issue
 Issus	issus
 Istanbul	istanbul
+iStat	istat
 isthmian	isthmian
 isthmus	isthmus
 istle	istle
@@ -27460,6 +28270,7 @@ Italianize	italianize
 Italic	italic
 italic	italic
 italicize	italicize
+Italilian	italilian
 Italy	italy
 itch	itch
 itching	itching
@@ -27469,6 +28280,7 @@ itemize	itemize
 itemized	itemized
 iterate	iterate
 iterative	iterative
+iTerm	iterm
 Ithaca	ithaca
 Ithunn	ithunn
 ithyphallic	ithyphallic
@@ -27478,8 +28290,10 @@ itinerary	itinerary
 itinerate	itinerate
 Ito	ito
 its	its
+itsdangerours	itsdangerours
 itself	itself
 ITU	itu
+iTunes	itunes
 Iulus	iulus
 Ivanovo	ivanovo
 Ives	ives
@@ -27487,6 +28301,7 @@ ivied	ivied
 ivories	ivories
 ivory	ivory
 ivy	ivy
+iWatch	iwatch
 iwis	iwis
 Iwo	iwo
 ixia	ixia
@@ -27655,6 +28470,7 @@ jaywalk	jaywalk
 jazz	jazz
 jazzman	jazzman
 jazzy	jazzy
+JDK	jdk
 jealous	jealous
 jealousy	jealousy
 Jean	jean
@@ -27663,6 +28479,7 @@ Jeans	jeans
 jeans	jeans
 jebel	jebel
 Jedda	jedda
+JediSwap	jediswap
 jeep	jeep
 jeepers	jeepers
 jeer	jeer
@@ -27693,6 +28510,7 @@ Jena	jena
 Jenkins	jenkins
 Jenner	jenner
 jennet	jennet
+Jenny	jenny
 jenny	jenny
 jeopardize	jeopardize
 jeopardous	jeopardous
@@ -27732,6 +28550,7 @@ Jesuit	jesuit
 Jesuitism	jesuitism
 Jesus	jesus
 jet	jet
+JetBrains	jetbrains
 Jethro	jethro
 jetliner	jetliner
 jetport	jetport
@@ -27918,6 +28737,11 @@ Joyce	joyce
 joyful	joyful
 joyless	joyless
 joyous	joyous
+JPEG	jpeg
+JPG	jpg
+jQuery	jquery
+JRPG	jrpg
+JSON	json
 Juba	juba
 juba	juba
 Jubal	jubal
@@ -28072,7 +28896,9 @@ juvenilia	juvenilia
 juvenility	juvenility
 juxtapose	juxtapose
 juxtaposition	juxtaposition
+JVM	jvm
 Jylland	jylland
+K8s	k8s
 Kaaba	kaaba
 kab	kab
 kabob	kabob
@@ -28117,6 +28943,7 @@ Kalahari	kalahari
 Kalamazoo	kalamazoo
 Kalat	kalat
 kale	kale
+Kaleidoscope	kaleidoscope
 kaleidoscope	kaleidoscope
 kaleidoscopic	kaleidoscopic
 kalends	kalends
@@ -28187,6 +29014,7 @@ kaph	kaph
 kapok	kapok
 kappa	kappa
 kaput	kaput
+Karabiner	karabiner
 Karachi	karachi
 Karafuto	karafuto
 Karaganda	karaganda
@@ -28296,6 +29124,7 @@ Keijo	keijo
 keister	keister
 Keitel	keitel
 keitloa	keitloa
+Keka	keka
 Kekkonen	kekkonen
 Kelantan	kelantan
 Keller	keller
@@ -28390,13 +29219,19 @@ Kew	kew
 kex	kex
 key	key
 keyboard	keyboard
+Keycard	keycard
+KeyCastr	keycastr
+KeyCue	keycue
 keyhole	keyhole
 Keynes	keynes
 Keynesianism	keynesianism
 keynote	keynote
 keystone	keystone
 keystroke	keystroke
+keysym	keysym
+keysyms	keysyms
 keyway	keyway
+KFC	kfc
 Khabarovsk	khabarovsk
 Khachaturian	khachaturian
 khaddar	khaddar
@@ -28517,6 +29352,7 @@ kindly	kindly
 kindness	kindness
 kindred	kindred
 kine	kine
+Kinect	kinect
 kinematics	kinematics
 kinematograph	kinematograph
 kinescope	kinescope
@@ -28780,6 +29616,7 @@ kosher	kosher
 Kossuth	kossuth
 Kostroma	kostroma
 Kosygin	kosygin
+Kotlin	kotlin
 koto	koto
 koumis	koumis
 Kovno	kovno
@@ -28788,12 +29625,14 @@ Koweit	koweit
 Kowloon	kowloon
 kowtow	kowtow
 Kozhikode	kozhikode
+KPI	kpi
 Kra	kra
 kraal	kraal
 kraft	kraft
 krait	krait
 Krak	krak
 Krakau	krakau
+Kraken	kraken
 kraken	kraken
 Kramatorsk	kramatorsk
 Krasnodar	krasnodar
@@ -28828,9 +29667,12 @@ krummhorn	krummhorn
 Krupp	krupp
 krypton	krypton
 Kshatriya	kshatriya
+KTV	ktv
 Kuban	kuban
+Kubernetes	kubernetes
 kuchen	kuchen
 Kuching	kuching
+KuCoin	kucoin
 kudos	kudos
 kudu	kudu
 Kuenlun	kuenlun
@@ -28861,6 +29703,7 @@ Kurdistan	kurdistan
 Kure	kure
 Kurgan	kurgan
 Kurland	kurland
+Kuromis	kuromis
 Kuroshio	kuroshio
 kurrajong	kurrajong
 Kursk	kursk
@@ -28900,6 +29743,7 @@ Kyoto	kyoto
 kyphosis	kyphosis
 Kythera	kythera
 Kyushu	kyushu
+l10n	l10n
 laager	laager
 Laaland	laaland
 lab	lab
@@ -29084,6 +29928,7 @@ lambkin	lambkin
 lamblike	lamblike
 lambrequin	lambrequin
 lambskin	lambskin
+LaMDA	lamda
 lame	lame
 lamebrain	lamebrain
 lamed	lamed
@@ -29231,6 +30076,7 @@ Laodicean	laodicean
 Laoighis	laoighis
 Laomedon	laomedon
 Laos	laos
+Laotian	laotian
 lap	lap
 laparotomy	laparotomy
 lapboard	lapboard
@@ -29327,6 +30173,7 @@ lateritious	lateritious
 latest	latest
 LaTeX	latex
 latex	latex
+LaTeXian	latexian
 lath	lath
 lathe	lathe
 lather	lather
@@ -29351,6 +30198,7 @@ Latium	latium
 Latona	latona
 latria	latria
 latrine	latrine
+latte	latte
 latten	latten
 latter	latter
 latterly	latterly
@@ -29380,7 +30228,9 @@ Laughton	laughton
 launce	launce
 Launceston	launceston
 launch	launch
+Launcher	launcher
 launcher	launcher
+Launchpad	launchpad
 launder	launder
 launderette	launderette
 laundress	laundress
@@ -29437,6 +30287,7 @@ layette	layette
 layman	layman
 layoff	layoff
 layout	layout
+layouts	layouts
 laywoman	laywoman
 lazar	lazar
 lazaretto	lazaretto
@@ -29447,6 +30298,7 @@ lazulite	lazulite
 lazurite	lazurite
 lazy	lazy
 lazybones	lazybones
+LCD	lcd
 LCM	lcm
 lea	lea
 leach	leach
@@ -29473,6 +30325,7 @@ Leakey	leakey
 leaky	leaky
 leal	leal
 lean	lean
+LeanCloud	leancloud
 Leander	leander
 leaning	leaning
 leant	leant
@@ -29547,6 +30400,7 @@ leer	leer
 leery	leery
 lees	lees
 leet	leet
+LeetCode	leetcode
 Leeuwarden	leeuwarden
 Leeuwenhoek	leeuwenhoek
 leeward	leeward
@@ -29660,6 +30514,7 @@ lenis	lenis
 lenitive	lenitive
 lenity	lenity
 leno	leno
+Lenovo	lenovo
 lens	lens
 Lent	lent
 lent	lent
@@ -29817,6 +30672,8 @@ lexis	lexis
 ley	ley
 Leyden	leyden
 Leyte	leyte
+LGBT	lgbt
+LGPL	lgpl
 Lhasa	lhasa
 liabilities	liabilities
 liability	liability
@@ -29870,7 +30727,9 @@ libratory	libratory
 librettist	librettist
 libretto	libretto
 Libreville	libreville
+LibreWolf	librewolf
 libriform	libriform
+librime	librime
 Librium	librium
 Libya	libya
 Libyan	libyan
@@ -29930,6 +30789,7 @@ lifesaver	lifesaver
 lifesaving	lifesaving
 lifetime	lifetime
 lifework	lifework
+LIFO	lifo
 lift	lift
 ligament	ligament
 ligamentous	ligamentous
@@ -30030,6 +30890,7 @@ limner	limner
 limnetic	limnetic
 limnology	limnology
 Limoges	limoges
+limon	limon
 limonene	limonene
 limonite	limonite
 Limousin	limousin
@@ -30096,6 +30957,7 @@ link	link
 linkage	linkage
 linkboy	linkboy
 linked	linked
+LinkedIn	linkedin
 linkman	linkman
 links	links
 linkwork	linkwork
@@ -30114,6 +30976,7 @@ lint	lint
 lintel	lintel
 linter	linter
 lintwhite	lintwhite
+Linus	linus
 Linux	linux
 Linz	linz
 lion	lion
@@ -30145,6 +31008,7 @@ liquefy	liquefy
 liquesce	liquesce
 liquescent	liquescent
 liqueur	liqueur
+Liquid	liquid
 liquid	liquid
 liquidambar	liquidambar
 liquidate	liquidate
@@ -30237,6 +31101,7 @@ livelong	livelong
 lively	lively
 liven	liven
 liver	liver
+LiveReload	livereload
 liveried	liveried
 liverish	liverish
 Liverpool	liverpool
@@ -30260,10 +31125,12 @@ lixiviate	lixiviate
 lixivium	lixivium
 lizard	lizard
 Ljubljana	ljubljana
+LLaMA	llama
 llama	llama
 llano	llano
 Llewellyn	llewellyn
 Lloyd	lloyd
+LMAO	lmao
 loach	loach
 load	load
 loaded	loaded
@@ -30307,6 +31174,7 @@ lobule	lobule
 lobworm	lobworm
 local	local
 locale	locale
+localhost	localhost
 localism	localism
 locality	locality
 localize	localize
@@ -30325,6 +31193,7 @@ locker	locker
 locket	locket
 lockjaw	lockjaw
 lockout	lockout
+LockScreen	lockscreen
 locksmith	locksmith
 lockup	lockup
 Lockyer	lockyer
@@ -30396,6 +31265,7 @@ logos	logos
 logotype	logotype
 logroll	logroll
 logrolling	logrolling
+Logseq	logseq
 logway	logway
 logwood	logwood
 logy	logy
@@ -30406,6 +31276,7 @@ Loire	loire
 Loiret	loiret
 loiter	loiter
 Loki	loki
+LOL	lol
 loll	loll
 Lolland	lolland
 lollapalooza	lollapalooza
@@ -30609,6 +31480,8 @@ Loyola	loyola
 lozenge	lozenge
 lozengy	lozengy
 LSD	lsd
+LSP	lsp
+Lua	lua
 Lualaba	lualaba
 Luanda	luanda
 luau	luau
@@ -30721,6 +31594,7 @@ Luna	luna
 lunacy	lunacy
 lunar	lunar
 lunarian	lunarian
+LunarVim	lunarvim
 lunate	lunate
 lunatic	lunatic
 lunation	lunation
@@ -30861,6 +31735,7 @@ lyrebird	lyrebird
 lyric	lyric
 lyricism	lyricism
 lyricist	lyricist
+LyricsX	lyricsx
 lyrism	lyrism
 lyrist	lyrist
 Lysander	lysander
@@ -30882,6 +31757,8 @@ lytic	lytic
 lytta	lytta
 Lytton	lytton
 Lyublin	lyublin
+M-Team	m-team
+m17n	m17n
 Mab	mab
 Mabuse	mabuse
 Mac	mac
@@ -30891,6 +31768,7 @@ macaco	macaco
 macadam	macadam
 macadamia	macadamia
 Macao	macao
+MacAppDeals	macappdeals
 macaque	macaque
 macaroni	macaroni
 macaronic	macaronic
@@ -30900,6 +31778,7 @@ Macassar	macassar
 Macaulay	macaulay
 macaw	macaw
 Macbeth	macbeth
+MacBook	macbook
 Maccabean	maccabean
 Maccabees	maccabees
 maccaboy	maccaboy
@@ -30927,6 +31806,8 @@ machismo	machismo
 Machmeter	machmeter
 machree	machree
 machzor	machzor
+MacID	macid
+Macintosh	macintosh
 macintosh	macintosh
 Mackenzie	mackenzie
 mackerel	mackerel
@@ -30956,10 +31837,13 @@ macropterous	macropterous
 macroscopic	macroscopic
 macrospore	macrospore
 macruran	macruran
+MacTips	mactips
+MacType	mactype
 macula	macula
 maculate	maculate
 maculation	maculation
 macule	macule
+MacVim	macvim
 mad	mad
 Madagascar	madagascar
 madam	madam
@@ -30996,6 +31880,7 @@ maenad	maenad
 maestoso	maestoso
 Maestricht	maestricht
 maestro	maestro
+Maeve	maeve
 Mafeking	mafeking
 maffick	maffick
 Mafia	mafia
@@ -31061,6 +31946,7 @@ magnum	magnum
 Magog	magog
 magpie	magpie
 Magritte	magritte
+MagSafe	magsafe
 Magus	magus
 magus	magus
 Magyar	magyar
@@ -31095,10 +31981,12 @@ maihem	maihem
 mail	mail
 mailable	mailable
 mailbag	mailbag
+Mailbox	mailbox
 mailbox	mailbox
 mailed	mailed
 Mailer	mailer
 mailer	mailer
+Mailfence	mailfence
 Maillol	maillol
 maillot	maillot
 mailman	mailman
@@ -31117,6 +32005,7 @@ mainspring	mainspring
 mainstay	mainstay
 mainstream	mainstream
 maintain	maintain
+maintainers	maintainers
 maintenance	maintenance
 Maintenon	maintenon
 maintop	maintop
@@ -31141,6 +32030,7 @@ make	make
 makefast	makefast
 Makefile	makefile
 maker	maker
+MakerDAO	makerdao
 makeshift	makeshift
 makeup	makeup
 makeweight	makeweight
@@ -31345,6 +32235,7 @@ maniac	maniac
 maniacal	maniacal
 manic	manic
 Manichaeism	manichaeism
+Manico	manico
 manicotti	manicotti
 manicure	manicure
 manicurist	manicurist
@@ -31438,7 +32329,9 @@ Maoism	maoism
 Maori	maori
 Map	map
 map	map
+Maple	maple
 maple	maple
+MAPPA	mappa
 mapping	mapping
 maquette	maquette
 maquis	maquis
@@ -31505,6 +32398,7 @@ marginate	marginate
 margrave	margrave
 margravine	margravine
 marguerite	marguerite
+MariaDB	mariadb
 Marian	marian
 Marianne	marianne
 Mariehamn	mariehamn
@@ -31547,6 +32441,7 @@ marketplace	marketplace
 markhor	markhor
 marking	marking
 markka	markka
+MarkMyWords	markmywords
 Markova	markova
 marksman	marksman
 markswoman	markswoman
@@ -31597,6 +32492,7 @@ marrowfat	marrowfat
 marry	marry
 Mars	mars
 Marsala	marsala
+MarsEdit	marsedit
 Marseillaise	marseillaise
 marseilles	marseilles
 marsh	marsh
@@ -31700,6 +32596,7 @@ mastaba	mastaba
 mastectomy	mastectomy
 Master	master
 master	master
+Mastercard	mastercard
 masterful	masterful
 masterly	masterly
 mastermind	mastermind
@@ -31757,6 +32654,7 @@ math	math
 mathematical	mathematical
 mathematician	mathematician
 mathematics	mathematics
+Mathtype	mathtype
 Mathura	mathura
 Matilda	matilda
 matin	matin
@@ -31890,6 +32788,10 @@ mazuma	mazuma
 mazurka	mazurka
 mazy	mazy
 mazzard	mazzard
+MBA	mba
+MBP	mbp
+McAfee	mcafee
+McCafe	mccafe
 McCarthy	mccarthy
 McCarthyism	mccarthyism
 McCormack	mccormack
@@ -31897,6 +32799,7 @@ McCormick	mccormick
 McCoy	mccoy
 McCullers	mccullers
 McKinley	mckinley
+MCU	mcu
 Mead	mead
 mead	mead
 Meade	meade
@@ -32127,7 +33030,10 @@ memorialist	memorialist
 memorialize	memorialize
 memoried	memoried
 memorize	memorize
+Random-access memory	randomaccessmemory
+Read-only memory	readonlymemory
 memory	memory
+memos	memos
 Memphian	memphian
 Memphis	memphis
 men	men
@@ -32315,6 +33221,7 @@ messaline	messaline
 Messapian	messapian
 Messeigneurs	messeigneurs
 Messene	messene
+Messenger	messenger
 messenger	messenger
 Messenia	messenia
 Messiaen	messiaen
@@ -32343,6 +33250,7 @@ metagalaxy	metagalaxy
 metage	metage
 metagenesis	metagenesis
 metagnathous	metagnathous
+Metal	metal
 metal	metal
 metalanguage	metalanguage
 metalepsis	metalepsis
@@ -32360,6 +33268,7 @@ metallurgy	metallurgy
 metalware	metalware
 metalwork	metalwork
 metalworking	metalworking
+MetaMask	metamask
 metamathematics	metamathematics
 metamer	metamer
 metameric	metameric
@@ -32549,6 +33458,7 @@ Microscopium	microscopium
 microscopy	microscopy
 microsecond	microsecond
 microseism	microseism
+Microsoft	microsoft
 microsome	microsome
 microsporangium	microsporangium
 microspore	microspore
@@ -32589,6 +33499,7 @@ midi	midi
 Midian	midian
 midinette	midinette
 midiron	midiron
+Midjourney	midjourney
 Midland	midland
 midland	midland
 Midlands	midlands
@@ -32730,6 +33641,7 @@ Mimas	mimas
 mime	mime
 mimeograph	mimeograph
 mimesis	mimesis
+Mimestream	mimestream
 mimetic	mimetic
 mimic	mimic
 mimicry	mimicry
@@ -32753,6 +33665,7 @@ mindless	mindless
 Mindoro	mindoro
 Mindszenty	mindszenty
 mine	mine
+Minecraft	minecraft
 minefield	minefield
 minelayer	minelayer
 miner	miner
@@ -32769,6 +33682,8 @@ mingle	mingle
 Mingrelian	mingrelian
 mingy	mingy
 Minho	minho
+Mac mini	macmini
+iPad mini	ipadmini
 mini	mini
 miniature	miniature
 miniaturist	miniaturist
@@ -32784,6 +33699,7 @@ minimum	minimum
 minimus	minimus
 mining	mining
 minion	minion
+Minions	minions
 miniskirt	miniskirt
 minister	minister
 ministerial	ministerial
@@ -32826,6 +33742,7 @@ minx	minx
 minyan	minyan
 Miocene	miocene
 miosis	miosis
+MIPS	mips
 Miquelon	miquelon
 mir	mir
 Mirabeau	mirabeau
@@ -32975,6 +33892,7 @@ misspend	misspend
 misstate	misstate
 misstep	misstep
 missus	missus
+MissWarmJ	misswarmj
 missy	missy
 mist	mist
 mistakable	mistakable
@@ -33002,6 +33920,7 @@ misunderstood	misunderstood
 misusage	misusage
 misuse	misuse
 misvalue	misvalue
+MIT	mit
 mite	mite
 miter	miter
 miterwort	miterwort
@@ -33013,7 +33932,9 @@ mithridate	mithridate
 mithridatism	mithridatism
 miticide	miticide
 mitigate	mitigate
+mitigation	mitigation
 mitis	mitis
+MitM	mitm
 mitochondrion	mitochondrion
 mitosis	mitosis
 Mitra	mitra
@@ -33024,6 +33945,7 @@ mitt	mitt
 mitten	mitten
 mittimus	mittimus
 mitzvah	mitzvah
+MIUI	miui
 mix	mix
 mixed	mixed
 mixer	mixer
@@ -33114,6 +34036,8 @@ moist	moist
 moisten	moisten
 moisture	moisture
 Mojave	mojave
+Mojito	mojito
+Moke	moke
 moke	moke
 Mokpo	mokpo
 mol	mol
@@ -33216,10 +34140,12 @@ moneyer	moneyer
 moneylender	moneylender
 moneymaker	moneymaker
 moneymaking	moneymaking
+MoneyWiz	moneywiz
 moneywort	moneywort
 mong	mong
 monger	monger
 mongo	mongo
+MongoDB	mongodb
 Mongol	mongol
 Mongolia	mongolia
 Mongolian	mongolian
@@ -33395,6 +34321,7 @@ mood	mood
 Moody	moody
 moody	moody
 moolah	moolah
+Moom	moom
 moon	moon
 moonbeam	moonbeam
 mooncalf	mooncalf
@@ -33557,6 +34484,8 @@ motet	motet
 moth	moth
 mothball	mothball
 mother	mother
+motherfucker	motherfucker
+motherfucking	motherfucking
 motherhood	motherhood
 mothering	mothering
 motherland	motherland
@@ -33589,6 +34518,7 @@ motorist	motorist
 motorize	motorize
 motorman	motorman
 motorway	motorway
+Motrix	motrix
 motte	motte
 mottle	mottle
 mottled	mottled
@@ -33652,10 +34582,21 @@ moxie	moxie
 Mozambique	mozambique
 Mozarab	mozarab
 Mozart	mozart
+Mozilla	mozilla
 mozzarella	mozzarella
 mozzetta	mozzetta
+MP3	mp3
+MP4	mp4
+MplayerX	mplayerx
 MRA	mra
+mRNA	mrna
+Mrs.	mrs.
+MS-DOS	ms-dos
+mSATA	msata
 MSG	msg
+MSN	msn
+MTV	mtv
+mu	mu
 much	much
 muchness	muchness
 mucilage	mucilage
@@ -33749,6 +34690,7 @@ multifoliate	multifoliate
 multiform	multiform
 multilateral	multilateral
 multilingual	multilingual
+multilingualization	multilingualization
 multimillionaire	multimillionaire
 multinational	multinational
 multinuclear	multinuclear
@@ -33861,6 +34803,7 @@ musicianship	musicianship
 musicology	musicology
 Musil	musil
 musing	musing
+Musixmatch	musixmatch
 musjid	musjid
 musk	musk
 muskeg	muskeg
@@ -33898,6 +34841,7 @@ mutate	mutate
 mutation	mutation
 Mutazilite	mutazilite
 mute	mute
+mutex	mutex
 muticous	muticous
 mutilate	mutilate
 mutineer	mutineer
@@ -33919,7 +34863,10 @@ muzhik	muzhik
 muzz	muzz
 muzzle	muzzle
 muzzy	muzzy
+MVC	mvc
 MVD	mvd
+MVP	mvp
+MVVM	mvvm
 Mweru	mweru
 myalgia	myalgia
 myall	myall
@@ -33970,6 +34917,7 @@ myrtaceous	myrtaceous
 myrtle	myrtle
 myself	myself
 Mysia	mysia
+MySQL	mysql
 mystagogue	mystagogue
 mysterious	mysterious
 mystery	mystery
@@ -34041,10 +34989,12 @@ Nama	nama
 Namangan	namangan
 Namaqualand	namaqualand
 name	name
+NameCheap	namecheap
 nameless	nameless
 namely	namely
 nameplate	nameplate
 namesake	namesake
+NameSilo	namesilo
 Namhoi	namhoi
 Nammu	nammu
 Namtar	namtar
@@ -34058,6 +35008,7 @@ Nanna	nanna
 Nanning	nanning
 nanny	nanny
 nanoid	nanoid
+nanometer	nanometer
 nanosecond	nanosecond
 Nansen	nansen
 Nantucket	nantucket
@@ -34112,6 +35063,7 @@ narthex	narthex
 Narva	narva
 Narvik	narvik
 narwhal	narwhal
+NAS	nas
 NASA	nasa
 nasal	nasal
 nasalize	nasalize
@@ -34185,6 +35137,7 @@ Navarre	navarre
 nave	nave
 navel	navel
 navelwort	navelwort
+Navicat	navicat
 navicert	navicert
 navicular	navicular
 navigable	navigable
@@ -34202,6 +35155,7 @@ Nazareth	nazareth
 Nazarite	nazarite
 Naze	naze
 Nazi	nazi
+NBA	nba
 Neanderthal	neanderthal
 neap	neap
 Neapolitan	neapolitan
@@ -34348,6 +35302,7 @@ neoterism	neoterism
 neoterize	neoterize
 Neotropical	neotropical
 neotype	neotype
+Neovim	neovim
 Nepali	nepali
 nepenthe	nepenthe
 neper	neper
@@ -34374,6 +35329,7 @@ Neptune	neptune
 Neptunian	neptunian
 neptunium	neptunium
 neral	neral
+nerd	nerd
 Nereid	nereid
 Nereus	nereus
 neritic	neritic
@@ -34400,9 +35356,13 @@ Nestor	nestor
 Nestorian	nestorian
 Nestorius	nestorius
 net	net
+Netflix	netflix
 nether	nether
 Netherlands	netherlands
 nethermost	nethermost
+Netlify	netlify
+Netscape	netscape
+NetSetMan	netsetman
 netsuke	netsuke
 netting	netting
 nettle	nettle
@@ -34494,9 +35454,15 @@ newsy	newsy
 newt	newt
 Newton	newton
 newton	newton
+Nexitally	nexitally
 next	next
+Next.js	next.js
 nexus	nexus
+NFT	nft
+NG	ng
 NGC	ngc
+NGFF	ngff
+NGO	ngo
 niacin	niacin
 Niagara	niagara
 nib	nib
@@ -34529,6 +35495,7 @@ Nicobarese	nicobarese
 Nicodemus	nicodemus
 Nicolai	nicolai
 Nicolson	nicolson
+Niconico	niconico
 Nicosia	nicosia
 nicotiana	nicotiana
 nicotine	nicotine
@@ -34624,6 +35591,7 @@ ninja	ninja
 ninny	ninny
 ninnyhammer	ninnyhammer
 ninon	ninon
+Nintendo	nintendo
 ninth	ninth
 Ninurta	ninurta
 Niobe	niobe
@@ -34710,6 +35678,7 @@ nodal	nodal
 noddle	noddle
 noddy	noddy
 node	node
+Node.js	nodejs
 nodical	nodical
 nodose	nodose
 nodular	nodular
@@ -34731,6 +35700,9 @@ noisemaker	noisemaker
 noisette	noisette
 noisome	noisome
 noisy	noisy
+Noita	noita
+Noizio	noizio
+Nokia	nokia
 Nolde	nolde
 noma	noma
 nomad	nomad
@@ -34850,14 +35822,17 @@ noon	noon
 noonday	noonday
 noontide	noontide
 noontime	noontime
+noop	noop
 noose	noose
 Nootka	nootka
 nope	nope
 nor	nor
+Norah	norah
 Nordau	nordau
 Nordic	nordic
 Norfolk	norfolk
 Norge	norge
+Noria	noria
 noria	noria
 norite	norite
 norland	norland
@@ -34936,6 +35911,8 @@ note	note
 notebook	notebook
 notecase	notecase
 noted	noted
+Notepad	notepad
+Notepad++	notepad++
 notepaper	notepaper
 noteworthy	noteworthy
 nothing	nothing
@@ -34944,6 +35921,7 @@ notice	notice
 noticeable	noticeable
 notification	notification
 notify	notify
+Notion	notion
 notion	notion
 notional	notional
 notions	notions
@@ -34969,6 +35947,7 @@ novaculite	novaculite
 Novara	novara
 novation	novation
 novel	novel
+NovelAI	novelai
 novelette	novelette
 novelist	novelist
 novelistic	novelistic
@@ -34995,8 +35974,13 @@ nowt	nowt
 noxious	noxious
 noyade	noyade
 nozzle	nozzle
+NPC	npc
+npm	npm
 NSF	nsf
+NSFW	nsfw
+NTFS	ntfs
 nth	nth
+NTR	ntr
 nuance	nuance
 nub	nub
 nubbin	nubbin
@@ -35117,6 +36101,9 @@ nutting	nutting
 nutty	nutty
 nutwood	nutwood
 nuzzle	nuzzle
+nvALT	nvalt
+Nvim	nvim
+NVMe	nvme
 nyala	nyala
 Nyasaland	nyasaland
 Nyaya	nyaya
@@ -35138,6 +36125,7 @@ Nynorsk	nynorsk
 nystagmus	nystagmus
 nystatin	nystatin
 Nyx	nyx
+O'Reilly	o'reilly
 oaf	oaf
 Oahu	oahu
 oak	oak
@@ -35186,6 +36174,7 @@ objectify	objectify
 objection	objection
 objectionable	objectionable
 objective	objective
+Objective-C	objective-c
 objectivism	objectivism
 objectivity	objectivity
 objurgate	objurgate
@@ -35238,6 +36227,7 @@ observer	observer
 obsess	obsess
 obsession	obsession
 obsessive	obsessive
+Obsidian	obsidian
 obsidian	obsidian
 obsolesce	obsolesce
 obsolescent	obsolescent
@@ -35268,6 +36258,7 @@ obvert	obvert
 obviate	obviate
 obvious	obvious
 obvolute	obvolute
+OC	oc
 OCAM	ocam
 ocarina	ocarina
 Occam	occam
@@ -35298,6 +36289,7 @@ occur	occur
 occurrence	occurrence
 OCD	ocd
 ocean	ocean
+OceanBase	oceanbase
 Oceania	oceania
 oceanic	oceanic
 Oceanid	oceanid
@@ -35314,8 +36306,10 @@ ochrea	ochrea
 Ockeghem	ockeghem
 Ockham	ockham
 ocotillo	ocotillo
+OCR	ocr
 ocrea	ocrea
 ocreate	ocreate
+OCSP	ocsp
 octachord	octachord
 octad	octad
 octagon	octagon
@@ -35343,6 +36337,7 @@ octennial	octennial
 octet	octet
 octillion	octillion
 October	october
+Octocat	octocat
 octodecillion	octodecillion
 octodecimo	octodecimo
 octofoil	octofoil
@@ -35385,6 +36380,7 @@ odor	odor
 odoriferous	odoriferous
 odorous	odorous
 odyl	odyl
+Odysee	odysee
 Odysseus	odysseus
 Odyssey	odyssey
 OECD	oecd
@@ -35403,6 +36399,9 @@ oestriol	oestriol
 oestrogen	oestrogen
 oestrone	oestrone
 oeuvre	oeuvre
+League of Legends	leagueoflegends
+Quality of Service	qualityofservice
+Table of Contents	tableofcontents
 ofay	ofay
 off	off
 offal	offal
@@ -35431,6 +36430,7 @@ officinal	officinal
 officious	officious
 offing	offing
 offish	offish
+offload	offload
 offprint	offprint
 offset	offset
 offshoot	offshoot
@@ -35473,16 +36473,20 @@ Oireachtas	oireachtas
 Oisin	oisin
 Oistrakh	oistrakh
 Ojibwa	ojibwa
+OK	ok
 oka	oka
 okapi	okapi
 okay	okay
 oke	oke
 Okeechobee	okeechobee
+okey	okey
+okey-dokey	okey-dokey
 Okhotsk	okhotsk
 Okie	okie
 Okinawa	okinawa
 Oklahoma	oklahoma
 okra	okra
+OKX	okx
 Olcott	olcott
 old	old
 Oldcastle	oldcastle
@@ -35551,15 +36555,22 @@ omelet	omelet
 omen	omen
 omentum	omentum
 omer	omer
+OMG	omg
+omicron	omicron
 ominous	ominous
 omission	omission
 omit	omit
 ommatidium	ommatidium
 ommatophore	ommatophore
 Ommiad	ommiad
+OmmWriter	ommwriter
 omnibus	omnibus
 omnidirectional	omnidirectional
 omnifarious	omnifarious
+OmniFocus	omnifocus
+OmniGraffle	omnigraffle
+OmniOutliner	omnioutliner
+OmniPlan	omniplan
 omnipotence	omnipotence
 omnipotent	omnipotent
 omnipresent	omnipresent
@@ -35580,11 +36591,15 @@ once	once
 oncoming	oncoming
 ondometer	ondometer
 one	one
+one-liner	one-liner
+OneDrive	onedrive
 Onega	onega
 oneiric	oneiric
 oneirocritic	oneirocritic
 oneiromancy	oneiromancy
+OneKey	onekey
 oneness	oneness
+OneNote	onenote
 onerous	onerous
 oneself	oneself
 onetime	onetime
@@ -35640,11 +36655,17 @@ opaque	opaque
 ope	ope
 OPEC	opec
 open	open
+OpenAI	openai
+OpenBSD	openbsd
+OpenCat	opencat
+OpenCC	opencc
 opener	opener
 openhanded	openhanded
 opening	opening
+OpenSea	opensea
 openSUSE	opensuse
 openwork	openwork
+OpenWrt	openwrt
 opera	opera
 operable	operable
 operand	operand
@@ -35687,6 +36708,7 @@ opossum	opossum
 Oppenheimer	oppenheimer
 oppidan	oppidan
 oppilate	oppilate
+OPPO	oppo
 opponent	opponent
 opportune	opportune
 opportunism	opportunism
@@ -35714,6 +36736,7 @@ optician	optician
 optics	optics
 optimal	optimal
 optime	optime
+Optimism	optimism
 optimism	optimism
 optimist	optimist
 optimistic	optimistic
@@ -35731,6 +36754,7 @@ opus	opus
 opuscule	opuscule
 oquassa	oquassa
 ora	ora
+Oracle	oracle
 oracle	oracle
 oracular	oracular
 oral	oral
@@ -35756,6 +36780,7 @@ orbicular	orbicular
 orbiculate	orbiculate
 orbit	orbit
 orbital	orbital
+Orbiter	orbiter
 orcein	orcein
 orchard	orchard
 orchardist	orchardist
@@ -35842,6 +36867,7 @@ originality	originality
 originally	originally
 originate	originate
 originative	originative
+OriginOS	originos
 orinasal	orinasal
 oriole	oriole
 Orion	orion
@@ -35856,6 +36882,7 @@ Orleans	orleans
 Orlon	orlon
 orlop	orlop
 Orly	orly
+ORM	orm
 Ormandy	ormandy
 Ormazd	ormazd
 ormolu	ormolu
@@ -35932,10 +36959,13 @@ Oruro	oruro
 Orvieto	orvieto
 Orwell	orwell
 oryx	oryx
+orz	orz
+OS	os
 Osage	osage
 Osborne	osborne
 Oscan	oscan
 Oscar	oscar
+OSCHINA	oschina
 oscillate	oscillate
 oscillation	oscillation
 oscillator	oscillator
@@ -35962,6 +36992,7 @@ osmose	osmose
 osmosis	osmosis
 osmunda	osmunda
 osprey	osprey
+OSS	oss
 Ossa	ossa
 ossein	ossein
 osseous	osseous
@@ -36209,6 +37240,8 @@ ovation	ovation
 oven	oven
 ovenbird	ovenbird
 ovenware	ovenware
+DNS over HTTPS	dnsoverhttps
+DNS over QUIC	dnsoverquic
 over	over
 overabound	overabound
 overabundance	overabundance
@@ -36235,6 +37268,7 @@ overburden	overburden
 overburdensome	overburdensome
 overcapitalize	overcapitalize
 overcareful	overcareful
+Overcast	overcast
 overcast	overcast
 overcasting	overcasting
 overcautious	overcautious
@@ -36267,6 +37301,7 @@ overexpose	overexpose
 overfeed	overfeed
 overfill	overfill
 overflight	overflight
+Overflow	overflow
 overflow	overflow
 overfly	overfly
 overglaze	overglaze
@@ -36473,6 +37508,9 @@ ozoniferous	ozoniferous
 ozonize	ozonize
 ozonolysis	ozonolysis
 ozonosphere	ozonosphere
+p13n	p13n
+P2P	p2p
+PaaS	paas
 PABA	paba
 pabulum	pabulum
 pace	pace
@@ -36569,6 +37607,7 @@ painstaking	painstaking
 paint	paint
 paintbox	paintbox
 paintbrush	paintbrush
+PaintCode	paintcode
 painter	painter
 painterly	painterly
 painting	painting
@@ -36703,10 +37742,12 @@ panacea	panacea
 panache	panache
 panada	panada
 Panama	panama
+Panamera	panamera
 panatella	panatella
 Panathenaea	panathenaea
 Panay	panay
 pancake	pancake
+PancakeSwap	pancakeswap
 panchromatic	panchromatic
 pancratium	pancratium
 pancreas	pancreas
@@ -36806,6 +37847,7 @@ paperback	paperback
 paperboard	paperboard
 paperboy	paperboy
 paperhanger	paperhanger
+PaperMod	papermod
 paperweight	paperweight
 papery	papery
 papeterie	papeterie
@@ -36891,6 +37933,7 @@ paramedic	paramedic
 paramedical	paramedical
 parament	parament
 parameter	parameter
+parametric	parametric
 paramilitary	paramilitary
 paramnesia	paramnesia
 paramo	paramo
@@ -37134,9 +38177,11 @@ passkey	passkey
 Passover	passover
 passport	passport
 passus	passus
+Password	password
 password	password
 past	past
 pasta	pasta
+Paste	paste
 paste	paste
 pasteboard	pasteboard
 pastel	pastel
@@ -37220,6 +38265,7 @@ Patmos	patmos
 patois	patois
 Paton	paton
 Patras	patras
+Patreon	patreon
 patriarch	patriarch
 patriarchate	patriarchate
 patriarchy	patriarchy
@@ -37286,6 +38332,7 @@ pawnshop	pawnshop
 pawpaw	pawpaw
 Pax	pax
 pax	pax
+Paxlovid	paxlovid
 Paxton	paxton
 paxwax	paxwax
 pay	pay
@@ -37299,7 +38346,11 @@ payment	payment
 paynim	paynim
 payoff	payoff
 payola	payola
+PayPal	paypal
 payroll	payroll
+PC	pc
+PCIe	pcie
+PDF	pdf
 pea	pea
 peace	peace
 peaceable	peaceable
@@ -37833,6 +38884,7 @@ personage	personage
 personal	personal
 personalism	personalism
 personality	personality
+personalization	personalization
 personalize	personalize
 personally	personally
 personalty	personalty
@@ -38085,6 +39137,7 @@ philosophical	philosophical
 philosophism	philosophism
 philosophize	philosophize
 philosophy	philosophy
+Philppines	philppines
 philter	philter
 philtre	philtre
 phiz	phiz
@@ -38182,6 +39235,7 @@ photoconductivity	photoconductivity
 photocopier	photocopier
 photocopy	photocopy
 photocurrent	photocurrent
+PhotoDesk	photodesk
 photodisintegration	photodisintegration
 photodrama	photodrama
 photodynamics	photodynamics
@@ -38230,6 +39284,7 @@ photoplay	photoplay
 photoreceptor	photoreceptor
 photoreconnaissance	photoreconnaissance
 photosensitive	photosensitive
+Photoshop	photoshop
 photosphere	photosphere
 Photostat	photostat
 photosynthesis	photosynthesis
@@ -38247,6 +39302,8 @@ phototypography	phototypography
 phototypy	phototypy
 photovoltaic	photovoltaic
 photozincography	photozincography
+PHP	php
+PhpStorm	phpstorm
 phrasal	phrasal
 phrase	phrase
 phraseogram	phraseogram
@@ -38331,6 +39388,7 @@ Picard	picard
 picaresque	picaresque
 picaroon	picaroon
 Picasso	picasso
+Picatext	picatext
 picayune	picayune
 Piccadilly	piccadilly
 piccalilli	piccalilli
@@ -38361,6 +39419,7 @@ picky	picky
 picnic	picnic
 picofarad	picofarad
 picoline	picoline
+picosecond	picosecond
 picot	picot
 picrate	picrate
 picrite	picrite
@@ -38373,6 +39432,7 @@ Pictor	pictor
 pictorial	pictorial
 picture	picture
 picturesque	picturesque
+PictureView	pictureview
 picturize	picturize
 picul	picul
 piddle	piddle
@@ -38428,6 +39488,7 @@ pigsty	pigsty
 pigtail	pigtail
 pigweed	pigweed
 pika	pika
+Pikachu	pikachu
 pike	pike
 pikeman	pikeman
 pikeperch	pikeperch
@@ -38511,6 +39572,7 @@ pinfish	pinfish
 pinfold	pinfold
 ping	ping
 pinguid	pinguid
+PingWest	pingwest
 pinhead	pinhead
 pinhole	pinhole
 pinion	pinion
@@ -38655,12 +39717,14 @@ pivot	pivot
 pivotal	pivotal
 pivoting	pivoting
 pix	pix
+Pixelmator	pixelmator
 pixie	pixie
 pixilated	pixilated
 Pizarro	pizarro
 pizza	pizza
 pizzeria	pizzeria
 pizzicato	pizzicato
+PL/pgSQL	pl/pgsql
 placable	placable
 placard	placard
 placate	placate
@@ -38668,6 +39732,7 @@ placative	placative
 placatory	placatory
 place	place
 placebo	placebo
+placeholder	placeholder
 placeman	placeman
 placement	placement
 placenta	placenta
@@ -38805,6 +39870,7 @@ playmate	playmate
 playpen	playpen
 playreader	playreader
 playroom	playroom
+PlayStation	playstation
 playsuit	playsuit
 plaything	plaything
 playtime	playtime
@@ -38879,6 +39945,7 @@ plimsoll	plimsoll
 plinth	plinth
 Pliny	pliny
 Pliocene	pliocene
+PlistEdit	pliplistedit
 ploce	ploce
 plod	plod
 plonk	plonk
@@ -38904,6 +39971,8 @@ pluckless	pluckless
 plucky	plucky
 plug	plug
 plugboard	plugboard
+plugin	plugin
+plugins	plugins
 plum	plum
 plumage	plumage
 plumate	plumate
@@ -38970,6 +40039,7 @@ pneumonia	pneumonia
 pneumonic	pneumonic
 pneumonoultramicroscopicsilicovolcanoconiosis	pneumonoultramicroscopicsilicovolcanoconiosis
 pneumothorax	pneumothorax
+PNG	png
 poaceous	poaceous
 poach	poach
 poacher	poacher
@@ -39035,6 +40105,7 @@ Poitiers	poitiers
 poke	poke
 pokeberry	pokeberry
 pokelogan	pokelogan
+Pokemon	pokemon
 poker	poker
 pokeweed	pokeweed
 pokey	pokey
@@ -39092,6 +40163,7 @@ politics	politics
 polity	polity
 Polk	polk
 polka	polka
+Polkadot	polkadot
 poll	poll
 pollack	pollack
 Pollaiuolo	pollaiuolo
@@ -39147,6 +40219,7 @@ polygamy	polygamy
 polygenesis	polygenesis
 polyglot	polyglot
 Polygnotus	polygnotus
+Polygon	polygon
 polygon	polygon
 polygraph	polygraph
 polygynist	polygynist
@@ -39282,6 +40355,8 @@ poor	poor
 poorhouse	poorhouse
 poorly	poorly
 pop	pop
+PopCap	popcap
+PopClip	popclip
 popcorn	popcorn
 Pope	pope
 pope	pope
@@ -39324,6 +40399,7 @@ pork	pork
 porker	porker
 porkpie	porkpie
 porky	porky
+Pornhub	pornhub
 pornocracy	pornocracy
 pornography	pornography
 porosity	porosity
@@ -39415,6 +40491,8 @@ postexilian	postexilian
 postfix	postfix
 postglacial	postglacial
 postgraduate	postgraduate
+Postgres	postgres
+PostgreSQL	postgresql
 posthaste	posthaste
 posthumous	posthumous
 postiche	postiche
@@ -39487,6 +40565,7 @@ potman	potman
 Potomac	potomac
 potoroo	potoroo
 potpie	potpie
+PotPlayer	potplayer
 potpourri	potpourri
 Potsdam	potsdam
 potsherd	potsherd
@@ -39532,6 +40611,9 @@ powered	powered
 powerful	powerful
 powerhouse	powerhouse
 powerless	powerless
+PowerPack	powerpack
+PowerPoint	powerpoint
+PowerShell	powershell
 powwow	powwow
 Powys	powys
 pox	pox
@@ -39540,6 +40622,8 @@ Pozsony	pozsony
 Pozzuoli	pozzuoli
 PPI	ppi
 ppm	ppm
+PPPoE	pppoe
+PPT	ppt
 practicable	practicable
 practical	practical
 practically	practically
@@ -39574,6 +40658,7 @@ prandial	prandial
 prang	prang
 prank	prank
 prankster	prankster
+pranksters	pranksters
 prase	prase
 praseodymium	praseodymium
 prat	prat
@@ -39710,6 +40795,7 @@ preferment	preferment
 prefiguration	prefiguration
 prefigure	prefigure
 prefix	prefix
+prefixes	prefixes
 preform	preform
 prefrontal	prefrontal
 preglacial	preglacial
@@ -39810,6 +40896,7 @@ prescript	prescript
 prescriptible	prescriptible
 prescription	prescription
 prescriptive	prescriptive
+PreSearch	presearch
 preselector	preselector
 presence	presence
 present	present
@@ -39847,6 +40934,7 @@ prestidigitation	prestidigitation
 prestige	prestige
 prestigious	prestigious
 prestissimo	prestissimo
+Presto	presto
 presto	presto
 Preston	preston
 prestress	prestress
@@ -39974,6 +41062,7 @@ printery	printery
 printing	printing
 printmaker	printmaker
 printmaking	printmaking
+PrintScreen	printscreen
 Prinz	prinz
 Prior	prior
 prior	prior
@@ -39995,6 +41084,7 @@ pristine	pristine
 prithee	prithee
 privacy	privacy
 Privatdocent	privatdocent
+Virtual private server	virtualprivateserver
 private	private
 privateer	privateer
 privation	privation
@@ -40004,10 +41094,12 @@ privilege	privilege
 privileged	privileged
 privily	privily
 privity	privity
+Privoxy	privoxy
 privy	privy
 prize	prize
 prizefight	prizefight
 prizewinner	prizewinner
+Pro	pro
 pro	pro
 proa	proa
 probabilism	probabilism
@@ -40174,6 +41266,7 @@ promising	promising
 promissory	promissory
 promontory	promontory
 promote	promote
+Promotee	promotee
 promoter	promoter
 promotion	promotion
 promotive	promotive
@@ -40342,6 +41435,7 @@ prothrombin	prothrombin
 protist	protist
 protium	protium
 protoactinium	protoactinium
+protobuf	protobuf
 protochordate	protochordate
 protocol	protocol
 protohistory	protohistory
@@ -40352,6 +41446,7 @@ protomartyr	protomartyr
 protomorphic	protomorphic
 proton	proton
 protonema	protonema
+ProtonMail	protonmail
 protoplasm	protoplasm
 protoplast	protoplast
 protostele	protostele
@@ -40417,11 +41512,13 @@ prow	prow
 prowess	prowess
 prowl	prowl
 prowler	prowler
+Proxifier	proxifier
 proximal	proximal
 proximate	proximate
 proximity	proximity
 proximo	proximo
 proxy	proxy
+ProxyChains	proxychains
 prude	prude
 prudence	prudence
 prudent	prudent
@@ -40444,6 +41541,7 @@ pryer	pryer
 prying	prying
 Prynne	prynne
 prytaneum	prytaneum
+PS	ps
 psalm	psalm
 psalmbook	psalmbook
 psalmist	psalmist
@@ -40545,11 +41643,13 @@ ptomaine	ptomaine
 ptosis	ptosis
 ptyalin	ptyalin
 ptyalism	ptyalism
+PUA	pua
 pub	pub
 puberty	puberty
 puberulent	puberulent
 pubes	pubes
 pubescent	pubescent
+PUBG	pubg
 pubis	pubis
 public	public
 publican	publican
@@ -40803,6 +41903,7 @@ puzzler	puzzler
 PVC	pvc
 pya	pya
 pyaemia	pyaemia
+PyCharm	pycharm
 pycnidium	pycnidium
 pycnometer	pycnometer
 Pydna	pydna
@@ -40897,18 +41998,24 @@ Pythian	pythian
 Python	python
 python	python
 pythoness	pythoness
+pythonic	pythonic
 pyuria	pyuria
+PyWebIO	pywebio
 pyx	pyx
 pyxidium	pyxidium
 pyxie	pyxie
 Pyxis	pyxis
 qadi	qadi
 Qatar	qatar
+qBittorrent	qbit
+qBittorrent	qbittorrent
 qibla	qibla
 qintar	qintar
 QKtP	qktp
 QNP	qnp
 qoph	qoph
+QoS	qos
+QSpace	qspace
 qua	qua
 quack	quack
 quackery	quackery
@@ -41062,6 +42169,7 @@ queue	queue
 quibble	quibble
 quibbling	quibbling
 Quiberon	quiberon
+QUIC	quic
 quiche	quiche
 quick	quick
 quicken	quicken
@@ -41144,7 +42252,9 @@ Quito	quito
 quitrent	quitrent
 quits	quits
 quittance	quittance
+Quitter	quitter
 quittor	quittor
+Quiver	quiver
 quiver	quiver
 Quixote	quixote
 quixotic	quixotic
@@ -41159,6 +42269,7 @@ quoin	quoin
 quoit	quoit
 quoits	quoits
 quondam	quondam
+Quora	quora
 quorum	quorum
 quota	quota
 quotable	quotable
@@ -41168,6 +42279,7 @@ quoth	quoth
 quotha	quotha
 quotidian	quotidian
 quotient	quotient
+R.I.P	r.i.p
 Rabat	rabat
 rabato	rabato
 Rabaul	rabaul
@@ -41559,6 +42671,7 @@ rawhide	rawhide
 rawinsonde	rawinsonde
 Ray	ray
 ray	ray
+Raycast	raycast
 Rayleigh	rayleigh
 rayless	rayless
 rayon	rayon
@@ -41569,6 +42682,7 @@ razorback	razorback
 razorbill	razorbill
 razz	razz
 razzia	razzia
+Rdio	rdio
 reach	reach
 react	react
 reactance	reactance
@@ -41579,6 +42693,7 @@ reactivate	reactivate
 reactive	reactive
 reactor	reactor
 read	read
+Readability	readability
 readability	readability
 readable	readable
 Reade	reade
@@ -41590,6 +42705,7 @@ Reading	reading
 reading	reading
 readjust	readjust
 readjustment	readjustment
+Readkit	readkit
 ready	ready
 reagent	reagent
 real	real
@@ -41622,6 +42738,7 @@ reassure	reassure
 reata	reata
 reave	reave
 rebarbative	rebarbative
+rebase	rebase
 rebate	rebate
 rebatement	rebatement
 rebato	rebato
@@ -41798,12 +42915,14 @@ redcoat	redcoat
 redd	redd
 redden	redden
 reddish	reddish
+Reddit	reddit
 rede	rede
 redeem	redeem
 redeemable	redeemable
 Redeemer	redeemer
 redeemer	redeemer
 redeeming	redeeming
+redefine	redefine
 redemption	redemption
 redemptioner	redemptioner
 redeploy	redeploy
@@ -41814,6 +42933,9 @@ redhead	redhead
 redingote	redingote
 redintegrate	redintegrate
 redintegration	redintegration
+redirect	redirect
+redirects	redirects
+Redis	redis
 redistrict	redistrict
 redivivus	redivivus
 Redmond	redmond
@@ -41866,6 +42988,8 @@ reest	reest
 reeve	reeve
 ref	ref
 reface	reface
+refactor	refactor
+refactoring	refactoring
 refection	refection
 refectory	refectory
 refer	refer
@@ -41950,6 +43074,7 @@ regenerative	regenerative
 regenerator	regenerator
 Regensburg	regensburg
 regent	regent
+regexp	regexp
 regicide	regicide
 regime	regime
 regimen	regimen
@@ -41961,6 +43086,7 @@ region	region
 regional	regional
 regionalism	regionalism
 register	register
+Registered	registered
 registered	registered
 registrant	registrant
 registrar	registrar
@@ -41984,6 +43110,7 @@ regularly	regularly
 regulate	regulate
 regulation	regulation
 regulator	regulator
+Regulex	regulex
 Regulus	regulus
 regulus	regulus
 regurgitate	regurgitate
@@ -42122,6 +43249,7 @@ remora	remora
 remorse	remorse
 remorseful	remorseful
 remorseless	remorseless
+Remote	remote
 remote	remote
 remotion	remotion
 remount	remount
@@ -42280,6 +43408,8 @@ reputable	reputable
 reputation	reputation
 repute	repute
 reputed	reputed
+merge request	mergerequest
+pull request	pullrequest
 request	request
 requiem	requiem
 requiescat	requiescat
@@ -42298,6 +43428,7 @@ rescission	rescission
 rescissory	rescissory
 rescript	rescript
 rescue	rescue
+RescueTime	rescuetime
 research	research
 reseat	reseat
 reseau	reseau
@@ -42318,6 +43449,7 @@ reservoir	reservoir
 reset	reset
 resh	resh
 reshape	reshape
+ReSharper	resharper
 Resht	resht
 reside	reside
 residence	residence
@@ -42396,6 +43528,7 @@ rest	rest
 restate	restate
 restaurant	restaurant
 restaurateur	restaurateur
+RESTful	restful
 restful	restful
 restharrow	restharrow
 resting	resting
@@ -42459,6 +43592,7 @@ reticule	reticule
 Reticulum	reticulum
 reticulum	reticulum
 retiform	retiform
+Retina	retina
 retina	retina
 retinite	retinite
 retinitis	retinitis
@@ -42607,6 +43741,9 @@ Reykjavik	reykjavik
 Reynard	reynard
 Reynaud	reynaud
 Reynolds	reynolds
+RFC	rfc
+RFCs	rfcs
+RFT	rft
 rhabdomancy	rhabdomancy
 rhachis	rhachis
 Rhadamanthus	rhadamanthus
@@ -42661,6 +43798,7 @@ rhizome	rhizome
 rhizomorphous	rhizomorphous
 rhizopod	rhizopod
 rhizotomy	rhizotomy
+rho	rho
 rhodamine	rhodamine
 Rhodes	rhodes
 Rhodesia	rhodesia
@@ -42746,6 +43884,7 @@ ridden	ridden
 riddle	riddle
 ride	ride
 rident	rident
+Rider	rider
 rider	rider
 ridge	ridge
 ridgeling	ridgeling
@@ -42806,11 +43945,13 @@ rillet	rillet
 rim	rim
 Rimbaud	rimbaud
 rime	rime
+rime-ice	rime-ice
 rimester	rimester
 Rimini	rimini
 rimose	rimose
 rimple	rimple
 rimrock	rimrock
+RimWorld	rimworld
 rind	rind
 rinderpest	rinderpest
 ring	ring
@@ -42828,6 +43969,7 @@ ringtail	ringtail
 ringworm	ringworm
 rink	rink
 rinse	rinse
+RION	rion
 riot	riot
 riotous	riotous
 rip	rip
@@ -42892,6 +44034,7 @@ roadability	roadability
 roadbed	roadbed
 roadblock	roadblock
 roadhouse	roadhouse
+roadmap	roadmap
 roadrunner	roadrunner
 roadside	roadside
 roadstead	roadstead
@@ -42924,6 +44067,7 @@ robot	robot
 robotize	robotize
 Robson	robson
 robust	robust
+robusta	robusta
 robustious	robustious
 roc	roc
 Roca	roca
@@ -42977,6 +44121,7 @@ Roger	roger
 roger	roger
 Rogers	rogers
 rogue	rogue
+Roguelike	roguelike
 roguery	roguery
 roguish	roguish
 roil	roil
@@ -42997,6 +44142,7 @@ rolling	rolling
 rollmop	rollmop
 Rollo	rollo
 rollway	rollway
+ROM	rom
 Rom	rom
 Roma	roma
 Romagna	romagna
@@ -43185,6 +44331,7 @@ roustabout	roustabout
 rout	rout
 route	route
 router	router
+RouterOS	routeros
 routine	routine
 routinize	routinize
 roux	roux
@@ -43207,7 +44354,9 @@ royal	royal
 royalist	royalist
 royalty	royalty
 Royce	royce
+RPG	rpg
 RSFSR	rsfsr
+RSS	rss
 rub	rub
 rubato	rubato
 rubber	rubber
@@ -43237,7 +44386,9 @@ rubric	rubric
 rubricate	rubricate
 rubrician	rubrician
 rubstone	rubstone
+Ruby	ruby
 ruby	ruby
+RubyMine	rubymine
 ruche	ruche
 ruching	ruching
 ruck	ruck
@@ -43296,6 +44447,7 @@ rummer	rummer
 rummy	rummy
 rumor	rumor
 rumormonger	rumormonger
+rumour	rumour
 rump	rump
 rumple	rumple
 rumpus	rumpus
@@ -43344,12 +44496,14 @@ Russian	russian
 Russianize	russianize
 Russophobe	russophobe
 rust	rust
+RustDesk	rustdesk
 rustic	rustic
 rusticate	rusticate
 rustication	rustication
 rustle	rustle
 rustler	rustler
 rustproof	rustproof
+RustRover	rustrover
 rusty	rusty
 rut	rut
 rutabaga	rutabaga
@@ -43471,6 +44625,7 @@ sadism	sadism
 sadness	sadness
 sadomasochism	sadomasochism
 Safar	safar
+Safari	safari
 safari	safari
 safe	safe
 safeguard	safeguard
@@ -43715,6 +44870,7 @@ sandstorm	sandstorm
 sandwich	sandwich
 sandy	sandy
 sane	sane
+SaneDesk	sanedesk
 sang	sang
 Sanger	sanger
 Sangraal	sangraal
@@ -43854,6 +45010,7 @@ sassy	sassy
 sastruga	sastruga
 SAT	sat
 sat	sat
+SATA	sata
 Satan	satan
 satang	satang
 satanic	satanic
@@ -44227,6 +45384,7 @@ scoliosis	scoliosis
 scolopendrid	scolopendrid
 sconce	sconce
 scone	scone
+Scooby-Doo	scooby-doo
 scoop	scoop
 scoot	scoot
 scooter	scooter
@@ -44293,6 +45451,7 @@ scrambler	scrambler
 scrannel	scrannel
 Scranton	scranton
 scrap	scrap
+Scrapbook	scrapbook
 scrapbook	scrapbook
 scrape	scrape
 scraper	scraper
@@ -44314,6 +45473,8 @@ screech	screech
 screeching	screeching
 screed	screed
 screen	screen
+ScreenFloat	screenfloat
+ScreenFlow	screenflow
 screening	screening
 screenplay	screenplay
 screw	screw
@@ -44340,6 +45501,7 @@ scriptural	scriptural
 Scripture	scripture
 scripture	scripture
 scriptwriter	scriptwriter
+Scrivener	scrivener
 scrivener	scrivener
 scrobiculate	scrobiculate
 scrod	scrod
@@ -44418,6 +45580,7 @@ scyphus	scyphus
 Scyros	scyros
 scythe	scythe
 Scythia	scythia
+SDK	sdk
 sea	sea
 Seabee	seabee
 seaboard	seaboard
@@ -44569,6 +45732,7 @@ seethe	seethe
 segment	segment
 segmental	segmental
 segmentation	segmentation
+SegmentFault	segmentfault
 segno	segno
 segregate	segregate
 segregation	segregation
@@ -44735,6 +45899,7 @@ sensation	sensation
 sensational	sensational
 sensationalism	sensationalism
 sense	sense
+sensei	sensei
 senseless	senseless
 sensibility	sensibility
 sensible	sensible
@@ -44746,6 +45911,7 @@ sensitometer	sensitometer
 sensor	sensor
 sensorimotor	sensorimotor
 sensorium	sensorium
+Autonomous sensory meridian response	autonomoussensorymeridianresponse
 sensory	sensory
 sensual	sensual
 sensualism	sensualism
@@ -44764,6 +45930,7 @@ sentimentality	sentimentality
 sentimentalize	sentimentalize
 sentinel	sentinel
 sentry	sentry
+SEO	seo
 Seoul	seoul
 sepal	sepal
 sepaloid	sepaloid
@@ -44889,6 +46056,8 @@ serval	serval
 servant	servant
 serve	serve
 server	server
+ServerCat	servercat
+serverless	serverless
 Servia	servia
 service	service
 serviceable	serviceable
@@ -44924,6 +46093,7 @@ Set	set
 set	set
 seta	seta
 setaceous	setaceous
+Setapp	setapp
 setback	setback
 Seth	seth
 setiform	setiform
@@ -45004,8 +46174,10 @@ sexuality	sexuality
 sexy	sexy
 Seychelles	seychelles
 Sfax	sfax
+SFC	sfc
 sferics	sferics
 Sforza	sforza
+SFTP	sftp
 sfumato	sfumato
 sgraffito	sgraffito
 SHA	sha
@@ -45025,6 +46197,7 @@ shading	shading
 shadoof	shadoof
 shadow	shadow
 shadowgraph	shadowgraph
+Shadowsocks	shadowsocks
 shadowy	shadowy
 Shadrach	shadrach
 shaduf	shaduf
@@ -45079,6 +46252,7 @@ Shang	shang
 Shanghai	shanghai
 shanghai	shanghai
 shank	shank
+shanks	shanks
 Shannon	shannon
 shanny	shanny
 Shantung	shantung
@@ -45155,6 +46329,7 @@ sheepshearing	sheepshearing
 sheepskin	sheepskin
 sheepwalk	sheepwalk
 sheer	sheer
+Sheeran	sheeran
 sheerlegs	sheerlegs
 Sheerness	sheerness
 sheers	sheers
@@ -45167,6 +46342,7 @@ shekel	shekel
 Shekinah	shekinah
 shelduck	shelduck
 shelf	shelf
+Unix shell	unixshell
 shell	shell
 shellac	shellac
 shellacking	shellacking
@@ -45177,6 +46353,7 @@ Shelley	shelley
 shellfire	shellfire
 shellfish	shellfish
 shellproof	shellproof
+shells	shells
 shelter	shelter
 shelty	shelty
 shelve	shelve
@@ -45272,6 +46449,7 @@ shirty	shirty
 shit	shit
 shithead	shithead
 shitty	shitty
+shitwork	shitwork
 shiv	shiv
 Shiva	shiva
 shivaree	shivaree
@@ -45351,6 +46529,7 @@ shot	shot
 shote	shote
 shotgun	shotgun
 shotten	shotten
+Shottr	shottr
 should	should
 shoulder	shoulder
 shouldst	shouldst
@@ -45476,6 +46655,8 @@ sidekick	sidekick
 sidelight	sidelight
 sideline	sideline
 sideling	sideling
+sideload	sideload
+sideloading	sideloading
 sidelong	sidelong
 sideman	sideman
 sidereal	sidereal
@@ -45525,6 +46706,7 @@ sigil	sigil
 Sigismund	sigismund
 siglos	siglos
 sigma	sigma
+SigmaOS	sigmaos
 sigmatism	sigmatism
 sigmoid	sigmoid
 Sigmund	sigmund
@@ -45578,6 +46760,7 @@ silicify	silicify
 silicious	silicious
 silicium	silicium
 silicle	silicle
+Apple silicon	applesilicon
 silicon	silicon
 silicone	silicone
 silicosis	silicosis
@@ -45640,10 +46823,13 @@ simp	simp
 simpatico	simpatico
 simper	simper
 simple	simple
+Simplenote	simplenote
 simpleton	simpleton
 simplex	simplex
 simplicidentate	simplicidentate
 simplicity	simplicity
+simplification	simplification
+simplifier	simplifier
 simplify	simplify
 simplism	simplism
 simplistic	simplistic
@@ -45741,6 +46927,7 @@ sire	sire
 siren	siren
 sirenic	sirenic
 Siret	siret
+Siri	siri
 siriasis	siriasis
 Sirius	sirius
 sirloin	sirloin
@@ -45765,6 +46952,7 @@ sit	sit
 Sita	sita
 sitar	sitar
 site	site
+sitemap	sitemap
 Sitka	sitka
 sitology	sitology
 Sitsang	sitsang
@@ -45823,6 +47011,7 @@ skeptical	skeptical
 skepticism	skepticism
 skerrick	skerrick
 skerry	skerry
+Sketch	sketch
 sketch	sketch
 sketchbook	sketchbook
 sketchy	sketchy
@@ -45896,6 +47085,8 @@ Skylab	skylab
 skylark	skylark
 skylight	skylight
 skyline	skyline
+Skynet	skynet
+Skype	skype
 skyrocket	skyrocket
 Skyros	skyros
 skysail	skysail
@@ -45983,6 +47174,7 @@ slicer	slicer
 slick	slick
 slickenside	slickenside
 slicker	slicker
+Slicy	slicy
 slide	slide
 slider	slider
 sliding	sliding
@@ -46158,6 +47350,7 @@ smote	smote
 smother	smother
 smoulder	smoulder
 smriti	smriti
+SMTP	smtp
 smudge	smudge
 smug	smug
 smuggle	smuggle
@@ -46173,6 +47366,7 @@ snafu	snafu
 snag	snag
 snaggletooth	snaggletooth
 snaggy	snaggy
+Snagit	snagit
 snail	snail
 snailfish	snailfish
 snake	snake
@@ -46212,6 +47406,7 @@ sniffy	sniffy
 snifter	snifter
 snigger	snigger
 sniggle	sniggle
+Snip	snip
 snip	snip
 snipe	snipe
 sniper	sniper
@@ -46314,6 +47509,7 @@ sociometry	sociometry
 sociopath	sociopath
 sock	sock
 socket	socket
+SOCKS	socks
 socle	socle
 socman	socman
 Socotra	socotra
@@ -46351,6 +47547,7 @@ softy	softy
 Sogdian	sogdian
 Sogdiana	sogdiana
 soggy	soggy
+SogouSpider	sogouspider
 Soho	soho
 soil	soil
 soilage	soilage
@@ -46366,6 +47563,7 @@ sol	sol
 sola	sola
 solace	solace
 solan	solan
+Solana	solana
 solanaceous	solanaceous
 solander	solander
 solano	solano
@@ -46403,6 +47601,7 @@ solidago	solidago
 solidarity	solidarity
 solidary	solidary
 solidify	solidify
+Solidity	solidity
 solidus	solidus
 solifidian	solifidian
 solifluction	solifluction
@@ -46498,6 +47697,7 @@ Sonora	sonora
 sonorant	sonorant
 sonority	sonority
 sonorous	sonorous
+Sony	sony
 Soochow	soochow
 soon	soon
 sooner	sooner
@@ -46536,6 +47736,7 @@ Sorbian	sorbian
 sorbitol	sorbitol
 sorbose	sorbose
 sorcerer	sorcerer
+sorcerers	sorcerers
 sorcery	sorcery
 Sordello	sordello
 sordid	sordid
@@ -46595,6 +47796,7 @@ soupy	soupy
 sour	sour
 source	source
 SourceHut	sourcehut
+Sourcetree	sourcetree
 sourdine	sourdine
 sourdough	sourdough
 sourpuss	sourpuss
@@ -46650,6 +47852,7 @@ sox	sox
 soy	soy
 soybean	soybean
 Soyuz	soyuz
+SPA	spa
 Spa	spa
 spa	spa
 Spaak	spaak
@@ -46661,6 +47864,7 @@ spaceman	spaceman
 spaceport	spaceport
 spaceship	spaceship
 spacesuit	spacesuit
+SpaceX	spacex
 spacial	spacial
 spacing	spacing
 spacious	spacious
@@ -46701,12 +47905,14 @@ sparge	sparge
 sparid	sparid
 sparing	sparing
 spark	spark
+Sparkbox	sparkbox
 sparker	sparker
 sparkle	sparkle
 sparkler	sparkler
 sparks	sparks
 sparling	sparling
 sparoid	sparoid
+Sparrow	sparrow
 sparrow	sparrow
 sparrowgrass	sparrowgrass
 sparry	sparry
@@ -46797,6 +48003,7 @@ speed	speed
 speedball	speedball
 speedboat	speedboat
 speedometer	speedometer
+Speedtest	speedtest
 speedway	speedway
 speedwell	speedwell
 Speedwriting	speedwriting
@@ -46947,6 +48154,7 @@ spirillum	spirillum
 Spirit	spirit
 spirit	spirit
 spirited	spirited
+Spiritfarer	spiritfarer
 spiritism	spiritism
 spiritless	spiritless
 spiritoso	spiritoso
@@ -47040,6 +48248,7 @@ spondaic	spondaic
 spondee	spondee
 spondylitis	spondylitis
 sponge	sponge
+SpongeBob	spongebob
 sponger	sponger
 spongin	spongin
 spongioblast	spongioblast
@@ -47089,7 +48298,9 @@ sporty	sporty
 sporulate	sporulate
 sporule	sporule
 spot	spot
+Spotify	spotify
 spotless	spotless
+Spotlight	spotlight
 spotlight	spotlight
 spotted	spotted
 spotter	spotter
@@ -47158,6 +48369,9 @@ sputter	sputter
 sputum	sputum
 spy	spy
 spyglass	spyglass
+SQL	sql
+SQLAlchemy	sqlalchemy
+SQLite	sqlite
 squab	squab
 squabble	squabble
 squad	squad
@@ -47175,6 +48389,7 @@ squamulose	squamulose
 squander	squander
 square	square
 squarely	squarely
+SquarePants	squarepants
 squarrose	squarrose
 squash	squash
 squashy	squashy
@@ -47209,10 +48424,15 @@ squirrel	squirrel
 squirt	squirt
 squish	squish
 squishy	squishy
+squoosh	squoosh
 sri	sri
 Srinagar	srinagar
 sruti	sruti
+SSD	ssd
 SSE	sse
+SSH	ssh
+SSID	ssid
+SSL	ssl
 SSM	ssm
 SSR	ssr
 SST	sst
@@ -47229,6 +48449,7 @@ stablish	stablish
 staccato	staccato
 stack	stack
 stacked	stacked
+StackSocial	stacksocial
 stacte	stacte
 stadholder	stadholder
 stadia	stadia
@@ -47325,14 +48546,18 @@ staple	staple
 stapler	stapler
 star	star
 starboard	starboard
+Starbucks	starbucks
 starch	starch
 starchy	starchy
 stardom	stardom
 stare	stare
 starfish	starfish
 starflower	starflower
+stargazer	stargazer
+stargazers	stargazers
 Stark	stark
 stark	stark
+Starknet	starknet
 starlet	starlet
 starlight	starlight
 starlike	starlike
@@ -47413,9 +48638,11 @@ stealer	stealer
 stealing	stealing
 stealth	stealth
 stealthy	stealthy
+Steam	steam
 steam	steam
 steamboat	steamboat
 steamer	steamer
+SteamOS	steamos
 steamroller	steamroller
 steamship	steamship
 steamtight	steamtight
@@ -48216,6 +49443,7 @@ subterfuge	subterfuge
 subternatural	subternatural
 subterrane	subterrane
 subterranean	subterranean
+subtext	subtext
 subtile	subtile
 subtilize	subtilize
 subtitle	subtitle
@@ -48311,6 +49539,7 @@ suffice	suffice
 sufficiency	sufficiency
 sufficient	sufficient
 suffix	suffix
+suffixes	suffixes
 sufflate	sufflate
 suffocate	suffocate
 Suffolk	suffolk
@@ -48532,6 +49761,7 @@ superior	superior
 superiority	superiority
 superjacent	superjacent
 superlative	superlative
+Superlist	superlist
 superload	superload
 superman	superman
 supermarket	supermarket
@@ -48647,6 +49877,7 @@ surefire	surefire
 surely	surely
 surety	surety
 surf	surf
+Surface	surface
 surface	surface
 surfactant	surfactant
 surfbird	surfbird
@@ -48707,6 +49938,7 @@ susceptibility	susceptibility
 susceptible	susceptible
 susceptive	susceptive
 sushi	sushi
+SushiSwap	sushiswap
 Susian	susian
 suslik	suslik
 suspect	suspect
@@ -48739,12 +49971,15 @@ sutler	sutler
 sutra	sutra
 suttee	suttee
 suture	suture
+SUV	suv
 Suwannee	suwannee
 suzerain	suzerain
 suzerainty	suzerainty
 svelte	svelte
 Sverdlovsk	sverdlovsk
 Sverige	sverige
+SVG	svg
+SVN	svn
 swab	swab
 swabber	swabber
 swacked	swacked
@@ -48807,6 +50042,7 @@ sweatshop	sweatshop
 sweaty	sweaty
 Swede	swede
 swede	swede
+Sweden	sweden
 Swedenborgian	swedenborgian
 Swedenborgianism	swedenborgianism
 Swedish	swedish
@@ -48845,6 +50081,7 @@ sweven	sweven
 swift	swift
 swifter	swifter
 swiftlet	swiftlet
+SwiftUI	swiftui
 swig	swig
 swill	swill
 swim	swim
@@ -48867,10 +50104,12 @@ swirl	swirl
 swirly	swirly
 swish	swish
 Swiss	swiss
+Switch	switch
 switch	switch
 switchback	switchback
 switchblade	switchblade
 switchboard	switchboard
+switcher	switcher
 switcheroo	switcheroo
 switchman	switchman
 Switzer	switzer
@@ -49061,6 +50300,7 @@ Szechwan	szechwan
 Szeged	szeged
 Szombathely	szombathely
 Szymanowski	szymanowski
+t9n	t9n
 Taal	taal
 tab	tab
 tabanid	tabanid
@@ -49081,6 +50321,7 @@ tablet	tablet
 tableware	tableware
 tabling	tabling
 tabloid	tabloid
+Tabnine	tabnine
 taboo	taboo
 Tabor	tabor
 tabor	tabor
@@ -49343,6 +50584,7 @@ taproom	taproom
 taproot	taproot
 taps	taps
 tapster	tapster
+TapTap	taptap
 tar	tar
 Tara	tara
 taradiddle	taradiddle
@@ -49475,6 +50717,7 @@ taxidermy	taxidermy
 taxiplane	taxiplane
 taxis	taxis
 taxiway	taxiway
+taxman	taxman
 taxonomy	taxonomy
 taxpayer	taxpayer
 Taylor	taylor
@@ -49482,6 +50725,8 @@ tayra	tayra
 tazza	tazza
 Tbilisi	tbilisi
 Tchad	tchad
+TCP	tcp
+TCP/IP	tcp/ip
 tea	tea
 teacake	teacake
 teacart	teacart
@@ -49496,8 +50741,10 @@ teakettle	teakettle
 teakwood	teakwood
 teal	teal
 team	team
+TeamCity	teamcity
 teammate	teammate
 teamster	teamster
+TeamViewer	teamviewer
 teamwork	teamwork
 teapot	teapot
 tear	tear
@@ -49524,11 +50771,13 @@ technics	technics
 technique	technique
 technocracy	technocracy
 technology	technology
+TechWeb	techweb
 techy	techy
 tectonic	tectonic
 tectonics	tectonics
 tectrix	tectrix
 Tecumseh	tecumseh
+TED	ted
 ted	ted
 tedder	tedder
 tedious	tedious
@@ -49628,6 +50877,7 @@ telium	telium
 Tell	tell
 tell	tell
 Teller	teller
+automated teller machine	automatedtellermachine
 teller	teller
 telling	telling
 telltale	telltale
@@ -49684,6 +50934,7 @@ tenaille	tenaille
 tenancy	tenancy
 tenant	tenant
 tenantry	tenantry
+Tencent	tencent
 tench	tench
 tend	tend
 tendance	tendance
@@ -49785,6 +51036,7 @@ teriyaki	teriyaki
 term	term
 termagant	termagant
 terminable	terminable
+Terminal	terminal
 terminal	terminal
 terminate	terminate
 termination	termination
@@ -49793,6 +51045,7 @@ terminology	terminology
 terminus	terminus
 termitarium	termitarium
 termite	termite
+Termius	termius
 termless	termless
 termor	termor
 terms	terms
@@ -49813,6 +51066,7 @@ Terramycin	terramycin
 terrane	terrane
 terrapin	terrapin
 terraqueous	terraqueous
+Terraria	terraria
 terrarium	terrarium
 terrazzo	terrazzo
 terrene	terrene
@@ -49847,6 +51101,7 @@ Tertullian	tertullian
 tervalent	tervalent
 Terylene	terylene
 terzetto	terzetto
+Tesla	tesla
 tesla	tesla
 tessellate	tessellate
 tessellated	tessellated
@@ -49865,6 +51120,7 @@ testator	testator
 testee	testee
 tester	tester
 testes	testes
+TestFlight	testflight
 testicle	testicle
 testify	testify
 testimonial	testimonial
@@ -49882,6 +51138,7 @@ tetany	tetany
 tetartohedral	tetartohedral
 tetchy	tetchy
 teth	teth
+Tether	tether
 tether	tether
 tetherball	tetherball
 tetra	tetra
@@ -49928,14 +51185,18 @@ Teutonize	teutonize
 Tevere	tevere
 Tevet	tevet
 Texas	texas
+Texshop	texshop
 text	text
+Textastic	textastic
 textbook	textbook
+TextExpander	textexpander
 textile	textile
 textual	textual
 textualism	textualism
 textualist	textualist
 textuary	textuary
 texture	texture
+TextWrangler	textwrangler
 Teyde	teyde
 Tezel	tezel
 Thackeray	thackeray
@@ -49966,7 +51227,9 @@ thank	thank
 thankful	thankful
 thankless	thankless
 thanks	thanks
+Thanksgiving	thanksgiving
 thanksgiving	thanksgiving
+Thanos	thanos
 Thant	thant
 Thapsus	thapsus
 thar	thar
@@ -49978,6 +51241,7 @@ thaumaturge	thaumaturge
 thaumaturgy	thaumaturgy
 thaw	thaw
 the	the
+what the fuck	whatthefuck
 theaceous	theaceous
 thearchy	thearchy
 theater	theater
@@ -50380,6 +51644,7 @@ tickle	tickle
 tickler	tickler
 ticklish	ticklish
 ticktack	ticktack
+TickTick	ticktick
 ticktock	ticktock
 Ticonderoga	ticonderoga
 tidal	tidal
@@ -50421,6 +51686,7 @@ Tigrinya	tigrinya
 Tijuana	tijuana
 tike	tike
 tiki	tiki
+TikTok	tiktok
 til	til
 Tilburg	tilburg
 tilbury	tilbury
@@ -50460,6 +51726,7 @@ timepiece	timepiece
 timepleaser	timepleaser
 timer	timer
 timeserver	timeserver
+timestamp	timestamp
 timetable	timetable
 timework	timework
 timeworn	timeworn
@@ -50492,6 +51759,7 @@ tingle	tingle
 tingly	tingly
 tinhorn	tinhorn
 tinker	tinker
+TinkerTool	tinkertool
 tinkle	tinkle
 tinkling	tinkling
 tinned	tinned
@@ -50510,6 +51778,8 @@ tintype	tintype
 tinware	tinware
 tinworks	tinworks
 tiny	tiny
+TinyPNG	tinypng
+TIOBE	tiobe
 tip	tip
 tipcat	tipcat
 tipi	tipi
@@ -50591,9 +51861,12 @@ Tivoli	tivoli
 tizzy	tizzy
 Tjirebon	tjirebon
 TKO	tko
+TL;DR	tl;dr
 Tlaxcala	tlaxcala
 Tlemcen	tlemcen
 Tlingit	tlingit
+TLS	tls
+TM	tm
 tmesis	tmesis
 TNT	tnt
 toad	toad
@@ -50611,6 +51884,7 @@ Tobey	tobey
 Tobit	tobit
 toboggan	toboggan
 Tobolsk	tobolsk
+TOC	toc
 Tocantins	tocantins
 toccata	toccata
 Tocharian	tocharian
@@ -50623,6 +51897,9 @@ Todd	todd
 toddle	toddle
 toddler	toddler
 toddy	toddy
+ToDesk	todesk
+TODO	todo
+Todoist	todoist
 tody	tody
 toe	toe
 toed	toed
@@ -50653,6 +51930,8 @@ Tokay	tokay
 tokay	tokay
 token	token
 tokenism	tokenism
+tokenizer	tokenizer
+tokens	tokens
 Tokharian	tokharian
 tokoloshe	tokoloshe
 Tokyo	tokyo
@@ -50696,6 +51975,7 @@ tomcat	tomcat
 tome	tome
 tomfool	tomfool
 tomfoolery	tomfoolery
+TOML	toml
 Tommy	tommy
 tommyrot	tommyrot
 tomorrow	tomorrow
@@ -50869,6 +52149,7 @@ totemism	totemism
 tother	tother
 toting	toting
 totipalmate	totipalmate
+TOTP	totp
 totter	totter
 tottering	tottering
 toucan	toucan
@@ -50966,6 +52247,8 @@ trachyte	trachyte
 trachytic	trachytic
 tracing	tracing
 track	track
+tracker	tracker
+trackers	trackers
 trackless	trackless
 trackman	trackman
 tract	tract
@@ -50986,6 +52269,10 @@ tradeswoman	tradeswoman
 tradition	tradition
 traditional	traditional
 traditionalism	traditionalism
+traditionalist	traditionalist
+traditionalistic	traditionalistic
+traditionalization	traditionalization
+traditionalize	traditionalize
 traditor	traditor
 traduce	traduce
 Trafalgar	trafalgar
@@ -51222,6 +52509,7 @@ treillage	treillage
 trek	trek
 trellis	trellis
 trelliswork	trelliswork
+Trello	trello
 trematode	trematode
 tremble	tremble
 trembles	trembles
@@ -51239,6 +52527,7 @@ trenchant	trenchant
 trencher	trencher
 trencherman	trencherman
 trend	trend
+trending	trending
 Trengganu	trengganu
 Trento	trento
 Trenton	trenton
@@ -51555,6 +52844,7 @@ trotyl	trotyl
 troubadour	troubadour
 trouble	trouble
 troublemaker	troublemaker
+troublemaking	troublemaking
 troublesome	troublesome
 troublous	troublous
 trough	trough
@@ -51701,6 +52991,7 @@ tumbledown	tumbledown
 tumbler	tumbler
 tumbleweed	tumbleweed
 tumbling	tumbling
+Tumblr	tumblr
 tumbrel	tumbrel
 tumefacient	tumefacient
 tumefaction	tumefaction
@@ -51755,6 +53046,7 @@ turbinal	turbinal
 turbinate	turbinate
 turbine	turbine
 turbit	turbit
+turbo	turbo
 turbofan	turbofan
 turbojet	turbojet
 turboprop	turboprop
@@ -51844,8 +53136,10 @@ tutu	tutu
 Tutuila	tutuila
 tuxedo	tuxedo
 tuyere	tuyere
+TV	tv
 TVA	tva
 Tver	tver
+tvOS	tvos
 twaddle	twaddle
 Twain	twain
 twain	twain
@@ -51860,6 +53154,7 @@ Tweedsmuir	tweedsmuir
 tweedy	tweedy
 tweeny	tweeny
 tweet	tweet
+Tweetbot	tweetbot
 tweeter	tweeter
 tweeze	tweeze
 tweezers	tweezers
@@ -51894,7 +53189,9 @@ twirp	twirp
 twist	twist
 twister	twister
 twit	twit
+Twitch	twitch
 twitch	twitch
+Twitter	twitter
 twitter	twitter
 twittery	twittery
 two	two
@@ -51925,10 +53222,14 @@ Tyndareus	tyndareus
 Tynwald	tynwald
 typal	typal
 type	type
+Type-A	typea
+Type-B	typeb
 typebar	typebar
+Type-C	typec
 typecase	typecase
 typecast	typecast
 typeface	typeface
+TypeScript	typescript
 typescript	typescript
 typeset	typeset
 typesetter	typesetter
@@ -51950,6 +53251,7 @@ typo	typo
 typographer	typographer
 typography	typography
 typology	typology
+Typora	typora
 Tyr	tyr
 tyrannical	tyrannical
 tyrannicide	tyrannicide
@@ -51972,9 +53274,13 @@ Tyumen	tyumen
 tzar	tzar
 UAM	uam
 Ubangi	ubangi
+Uber	uber
 ubiety	ubiety
 Ubiquitarian	ubiquitarian
 ubiquitous	ubiquitous
+Ubisoft	ubisoft
+uBlacklist	ublacklist
+uBlock	ublock
 Ubuntu	ubuntu
 Ucayali	ucayali
 Udall	udall
@@ -51982,6 +53288,7 @@ udder	udder
 Udine	udine
 udo	udo
 udometer	udometer
+UDP	udp
 Ufa	ufa
 UFO	ufo
 Uganda	uganda
@@ -51994,11 +53301,15 @@ Ugric	ugric
 UHF	uhf
 uhlan	uhlan
 Uhland	uhland
+UI	ui
+UID	uid
 Uigur	uigur
 uintathere	uintathere
 uitlander	uitlander
 Ujiji	ujiji
+UK	uk
 ukase	ukase
+Ukraine	ukraine
 Ukrainian	ukrainian
 ukulele	ukulele
 Ulbricht	ulbricht
@@ -52026,6 +53337,7 @@ ultimogeniture	ultimogeniture
 ultra	ultra
 ultracentrifuge	ultracentrifuge
 ultraconservative	ultraconservative
+UltraEdit	ultraedit
 ultrafilter	ultrafilter
 ultraism	ultraism
 ultramarine	ultramarine
@@ -52071,6 +53383,7 @@ umpteen	umpteen
 unabated	unabated
 unable	unable
 unabridged	unabridged
+unacceptable	unacceptable
 unaccompanied	unaccompanied
 unaccomplished	unaccomplished
 unaccountable	unaccountable
@@ -52186,6 +53499,7 @@ uncloak	uncloak
 unclog	unclog
 unclose	unclose
 unclothe	unclothe
+Unclutter	unclutter
 uncoil	uncoil
 uncomfortable	uncomfortable
 uncommercial	uncommercial
@@ -52423,6 +53737,7 @@ unfix	unfix
 unfledged	unfledged
 unfleshly	unfleshly
 unflinching	unflinching
+unfo	unfo
 unfold	unfold
 unfolded	unfolded
 unforgettable	unforgettable
@@ -52441,6 +53756,8 @@ Ungava	ungava
 ungenerous	ungenerous
 unglue	unglue
 ungodly	ungodly
+ungoogled	ungoogled
+ungoogled-chromium	ungoogled-chromium
 ungotten	ungotten
 ungovernable	ungovernable
 ungraceful	ungraceful
@@ -52498,6 +53815,7 @@ uniformitarian	uniformitarian
 uniformity	uniformity
 uniformize	uniformize
 unify	unify
+Unihan	unihan
 unijugate	unijugate
 unilateral	unilateral
 unilingual	unilingual
@@ -52509,6 +53827,7 @@ unimposing	unimposing
 unimproved	unimproved
 uninhibited	uninhibited
 uninspired	uninspired
+uninstall	uninstall
 uninstructed	uninstructed
 unintelligent	unintelligent
 unintelligible	unintelligible
@@ -52530,6 +53849,7 @@ unique	unique
 uniseptate	uniseptate
 unisexual	unisexual
 unison	unison
+Uniswap	uniswap
 unit	unit
 Unitarian	unitarian
 Unitarianism	unitarianism
@@ -52537,6 +53857,7 @@ unitary	unitary
 unite	unite
 united	united
 unitive	unitive
+Unity	unity
 unity	unity
 univalence	univalence
 univalent	univalent
@@ -52552,6 +53873,7 @@ universe	universe
 university	university
 univocal	univocal
 Unix	unix
+Unix-like	unix-like
 unjaundiced	unjaundiced
 unjust	unjust
 unkempt	unkempt
@@ -52622,6 +53944,7 @@ unnecessarily	unnecessarily
 unnecessary	unnecessary
 unnerve	unnerve
 unnumbered	unnumbered
+Uno	uno
 unobtrusive	unobtrusive
 unoccupied	unoccupied
 unofficial	unofficial
@@ -52896,10 +54219,12 @@ upholsterer	upholsterer
 upholstery	upholstery
 uphroe	uphroe
 UPI	upi
+uPic	upic
 upkeep	upkeep
 upland	upland
 uplift	uplift
 upmost	upmost
+UPnP	upnp
 Upolu	upolu
 upon	upon
 upper	upper
@@ -52918,6 +54243,7 @@ uproar	uproar
 uproarious	uproarious
 uproot	uproot
 uprush	uprush
+Upscayl	upscayl
 upset	upset
 upsetting	upsetting
 upshot	upshot
@@ -52995,6 +54321,7 @@ urge	urge
 urgency	urgency
 urgent	urgent
 urger	urger
+URI	uri
 Uriah	uriah
 urial	urial
 uric	uric
@@ -53005,6 +54332,7 @@ urinary	urinary
 urinate	urinate
 urine	urine
 uriniferous	uriniferous
+URL	url
 Urmia	urmia
 urn	urn
 urnfield	urnfield
@@ -53031,6 +54359,12 @@ USA	usa
 usable	usable
 usage	usage
 usance	usance
+USB	usb
+USB-A	usba
+USB-B	usbb
+USB-C	usbc
+USD	usd
+USDT	usdt
 use	use
 used	used
 useful	useful
@@ -53045,6 +54379,7 @@ Usk	usk
 USM	usm
 USN	usn
 usquebaugh	usquebaugh
+USSR	ussr
 ustulation	ustulation
 usual	usual
 usufruct	usufruct
@@ -53054,9 +54389,13 @@ usurp	usurp
 usurpation	usurpation
 usury	usury
 Utah	utah
+UTC	utc
 utensil	utensil
 uterine	uterine
 uterus	uterus
+UTF	utf
+UTF-16	utf-16
+UTF-8	utf-8
 Uther	uther
 Utica	utica
 utile	utile
@@ -53065,6 +54404,8 @@ utilitarianism	utilitarianism
 utility	utility
 utilize	utilize
 utmost	utmost
+uTools	utool
+uTools	utools
 Utopia	utopia
 utopia	utopia
 utopian	utopian
@@ -53076,6 +54417,7 @@ utter	utter
 utterance	utterance
 uttermost	uttermost
 Utu	utu
+UUID	uuid
 uvarovite	uvarovite
 uvea	uvea
 uveitis	uveitis
@@ -53087,6 +54429,7 @@ uxorial	uxorial
 uxoricide	uxoricide
 uxorious	uxorious
 Uzbek	uzbek
+V2EX	v2ex
 Vaal	vaal
 Vaasa	vaasa
 vacancy	vacancy
@@ -53155,11 +54498,13 @@ valet	valet
 valetudinarian	valetudinarian
 valetudinary	valetudinary
 valgus	valgus
+Valhalla	valhalla
 valiancy	valiancy
 valiant	valiant
 valid	valid
 validate	validate
 validity	validity
+Valine	valine
 valine	valine
 valise	valise
 Valkyrie	valkyrie
@@ -53188,6 +54533,7 @@ valueless	valueless
 valuer	valuer
 valval	valval
 valvate	valvate
+Valve	valve
 valve	valve
 valvular	valvular
 valvule	valvule
@@ -53216,6 +54562,7 @@ Vane	vane
 vane	vane
 vang	vang
 vanguard	vanguard
+Vanilla	vanilla
 vanilla	vanilla
 vanillic	vanillic
 vanillin	vanillin
@@ -53329,6 +54676,8 @@ vaulting	vaulting
 vaunt	vaunt
 vaunting	vaunting
 vav	vav
+VCD	vcd
+VCS	vcs
 veal	veal
 vector	vector
 Veda	veda
@@ -53474,6 +54823,7 @@ verbify	verbify
 verbose	verbose
 verbosity	verbosity
 verboten	verboten
+Vercel	vercel
 Vercelli	vercelli
 Vercingetorix	vercingetorix
 verdant	verdant
@@ -53544,6 +54894,7 @@ versicular	versicular
 versification	versification
 versify	versify
 version	version
+Versions	versions
 verso	verso
 verst	verst
 versus	versus
@@ -53731,10 +55082,13 @@ villose	villose
 villosity	villosity
 villous	villous
 villus	villus
+Vim	vim
 vim	vim
 vimen	vimen
 Viminal	viminal
 vimineous	vimineous
+Vimium	vimium
+VimR	vimr
 vina	vina
 vinaceous	vinaceous
 vinaigrette	vinaigrette
@@ -53907,6 +55261,7 @@ viva	viva
 vivace	vivace
 vivacious	vivacious
 vivacity	vivacity
+Vivaldi	vivaldi
 vivarium	vivarium
 vive	vive
 Vivian	vivian
@@ -53916,6 +55271,7 @@ viviparous	viviparous
 vivisect	vivisect
 vivisection	vivisection
 vivisectionist	vivisectionist
+vivo	vivo
 vixen	vixen
 Viyella	viyella
 vizard	vizard
@@ -53927,9 +55283,12 @@ Vladikavkaz	vladikavkaz
 Vladimir	vladimir
 Vladivostok	vladivostok
 Vlaminck	vlaminck
+VLAN	vlan
 VLF	vlf
 Vlissingen	vlissingen
 Vltava	vltava
+VMess	vmess
+VMware	vmware
 vocable	vocable
 vocabulary	vocabulary
 vocal	vocal
@@ -53959,6 +55318,7 @@ void	void
 voidable	voidable
 voidance	voidance
 voile	voile
+VoIP	voip
 voiture	voiture
 Volans	volans
 volant	volant
@@ -53991,6 +55351,7 @@ Voltaire	voltaire
 voltaism	voltaism
 voltameter	voltameter
 voltammeter	voltammeter
+VoLTE	volte
 voltmeter	voltmeter
 Volturno	volturno
 voluble	voluble
@@ -54043,13 +55404,21 @@ Vouvray	vouvray
 vow	vow
 vowel	vowel
 vowelize	vowelize
+VoWiFi	vowifi
 voyage	voyage
 voyageur	voyageur
 voyeur	voyeur
 voyeurism	voyeurism
+VPN	vpn
+VPS	vps
 vraisemblance	vraisemblance
 Vries	vries
+VSCode	vscode
 VTOL	vtol
+VTuber	vtuber
+Déjà vu	dejavu
+Vue	vue
+Vue.js	vuejs
 Vuillard	vuillard
 Vulcan	vulcan
 vulcanism	vulcanism
@@ -54068,6 +55437,7 @@ vulnerable	vulnerable
 vulnerary	vulnerary
 Vulpecula	vulpecula
 vulpine	vulpine
+Vultr	vultr
 vulture	vulture
 vulturine	vulturine
 vulva	vulva
@@ -54133,6 +55503,7 @@ waisted	waisted
 waistline	waistline
 wait	wait
 waiter	waiter
+waitlist	waitlist
 waitress	waitress
 waive	waive
 waiver	waiver
@@ -54154,6 +55525,7 @@ wale	wale
 Waler	waler
 Wales	wales
 Walhalla	walhalla
+Waline	waline
 walk	walk
 walkabout	walkabout
 walker	walker
@@ -54211,6 +55583,7 @@ wanting	wanting
 wanton	wanton
 wapentake	wapentake
 wapiti	wapiti
+Wappalyzer	wappalyzer
 war	war
 Warbeck	warbeck
 warble	warble
@@ -54315,6 +55688,7 @@ watcher	watcher
 watchful	watchful
 watchmaker	watchmaker
 watchman	watchman
+watchOS	watchos
 watchtower	watchtower
 watchword	watchword
 water	water
@@ -54328,6 +55702,7 @@ watercress	watercress
 waterfall	waterfall
 Waterford	waterford
 waterfowl	waterfowl
+Waterfox	waterfox
 waterfront	waterfront
 wateriness	wateriness
 watering	watering
@@ -54339,6 +55714,7 @@ waterlogged	waterlogged
 Waterloo	waterloo
 waterman	waterman
 watermark	watermark
+watermarking	watermarking
 watermelon	watermelon
 waterproof	waterproof
 waterscape	waterscape
@@ -54438,10 +55814,19 @@ Webb	webb
 webbed	webbed
 webbing	webbing
 webby	webby
+WebCore	webcore
+WebDAV	webdav
 Weber	weber
 weber	weber
 webfoot	webfoot
+WebGPU	webgpu
+WebKit	webkit
+WebM	webm
+WebP	webp
+WebRTC	webrtc
+WebStorm	webstorm
 webworm	webworm
+WeChat	wechat
 wed	wed
 wedded	wedded
 wedding	wedding
@@ -54528,6 +55913,7 @@ wept	wept
 were	were
 werewolf	werewolf
 wergild	wergild
+Werkzeug	werkzeug
 wernerite	wernerite
 wersh	wersh
 wert	wert
@@ -54577,6 +55963,7 @@ wharve	wharve
 what	what
 whatever	whatever
 whatnot	whatnot
+WhatsApp	whatsapp
 whatsoever	whatsoever
 wheal	wheal
 wheat	wheat
@@ -54771,6 +56158,7 @@ whosoever	whosoever
 why	why
 Whyalla	whyalla
 whydah	whydah
+Wi-Fi	wi-fi
 Wichita	wichita
 Wick	wick
 wick	wick
@@ -54789,7 +56177,9 @@ wide	wide
 widely	widely
 widen	widen
 widespread	widespread
+Widevine	widevine
 widgeon	widgeon
+Widget	widget
 widget	widget
 widow	widow
 widower	widower
@@ -54805,6 +56195,7 @@ wife	wife
 wifehood	wifehood
 wifeless	wifeless
 wifely	wifely
+WiFi	wifi
 wig	wig
 Wigan	wigan
 wigeon	wigeon
@@ -54816,6 +56207,8 @@ Wight	wight
 wight	wight
 wigwag	wigwag
 wigwam	wigwam
+Wii	wii
+Wikipedia	wikipedia
 wikiup	wikiup
 Wilberforce	wilberforce
 wild	wild
@@ -55014,6 +56407,8 @@ wizardly	wizardly
 wizardry	wizardry
 wizen	wizen
 wizened	wizened
+WLAN	wlan
+WMV	wmv
 WNW	wnw
 woad	woad
 woaded	woaded
@@ -55065,6 +56460,7 @@ womera	womera
 wommera	wommera
 won	won
 wonder	wonder
+WonderCV	wondercv
 wonderful	wonderful
 wondering	wondering
 wonderland	wonderland
@@ -55133,8 +56529,10 @@ word	word
 wordage	wordage
 wordbook	wordbook
 wording	wording
+Wordle	wordle
 wordless	wordless
 wordplay	wordplay
+WordPress	wordpress
 words	words
 wordsmith	wordsmith
 Wordsworth	wordsworth
@@ -55149,6 +56547,9 @@ workbook	workbook
 workday	workday
 worked	worked
 worker	worker
+Workers	workers
+Workflow	workflow
+WorkFlowy	workflowy
 workhorse	workhorse
 workhouse	workhouse
 working	working
@@ -55161,6 +56562,7 @@ workout	workout
 workroom	workroom
 works	works
 workshop	workshop
+Workspace	workspace
 worktable	worktable
 workwoman	workwoman
 world	world
@@ -55269,13 +56671,20 @@ wrought	wrought
 wrung	wrung
 wry	wry
 wryneck	wryneck
+WSGI	wsgi
+WTF	wtf
 Wuhan	wuhan
 Wuhsien	wuhsien
 Wuhu	wuhu
 wulfenite	wulfenite
 Wulfila	wulfila
+Wunderlist	wunderlist
 Wundt	wundt
 wurst	wurst
+WWDC	wwdc
+WWI	wwi
+WWII	wwii
+WWIII	wwiii
 Wyandotte	wyandotte
 Wyatt	wyatt
 Wycliffite	wycliffite
@@ -55283,6 +56692,11 @@ Wye	wye
 Wyeth	wyeth
 wynd	wynd
 Wyoming	wyoming
+WYSIWYG	wysiwyg
+X-ray	x-ray
+x64	x64
+x86	x86
+x86-64	x86-64
 xanthate	xanthate
 xanthein	xanthein
 xanthene	xanthene
@@ -55296,7 +56710,10 @@ xanthophyll	xanthophyll
 xanthous	xanthous
 Xanthus	xanthus
 Xavier	xavier
+Xbox	xbox
+Xcode	xcode
 xebec	xebec
+Xee	xee
 xenia	xenia
 Xenocrates	xenocrates
 xenocryst	xenocryst
@@ -55309,6 +56726,7 @@ Xenophanes	xenophanes
 xenophobe	xenophobe
 xenophobia	xenophobia
 Xenophon	xenophon
+Xeon	xeon
 xerarch	xerarch
 Xeres	xeres
 xeric	xeric
@@ -55322,10 +56740,17 @@ xerosere	xerosere
 xerosis	xerosis
 Xerox	xerox
 Xhosa	xhosa
+XHTML	xhtml
 Ximenes	ximenes
 xiphisternum	xiphisternum
 xiphoid	xiphoid
 Xmas	xmas
+Xmind	xmind
+XML	xml
+Xnip	xnip
+xScope	xscope
+Xshell	xshell
+XtraFinder	xtrafinder
 Xuthus	xuthus
 xylem	xylem
 xylene	xylene
@@ -55359,7 +56784,9 @@ yam	yam
 Yama	yama
 Yamashita	yamashita
 yamen	yamen
+YAML	yaml
 yammer	yammer
+Yandex	yandex
 Yang	yang
 Yangtze	yangtze
 Yanina	yanina
@@ -55486,6 +56913,7 @@ Yorkshire	yorkshire
 Yorktown	yorktown
 Yoruba	yoruba
 you	you
+YoudaoBot	youdaobot
 Young	young
 young	young
 youngling	youngling
@@ -55498,6 +56926,8 @@ yourself	yourself
 youth	youth
 youthen	youthen
 youthful	youthful
+YouTube	youtube
+YouTuber	youtuber
 yowl	yowl
 Ypres	ypres
 Ypsilanti	ypsilanti
@@ -55546,11 +56976,13 @@ zapateado	zapateado
 Zaporozhye	zaporozhye
 Zarathustra	zarathustra
 zaratite	zaratite
+Zaraz	zaraz
 zareba	zareba
 zarf	zarf
 zarzuela	zarzuela
 zayin	zayin
 zeal	zeal
+ZEALER	zealer
 zealot	zealot
 zealotry	zealotry
 zealous	zealous
@@ -55625,11 +57057,13 @@ zirconium	zirconium
 Ziska	ziska
 zither	zither
 zizith	zizith
+zkSync	zksync
 Zlatoust	zlatoust
 zloty	zloty
 zoa	zoa
 Zoan	zoan
 zodiac	zodiac
+Zoho	zoho
 Zollverein	zollverein
 Zomba	zomba
 zombie	zombie
@@ -55674,6 +57108,7 @@ Zoroastrianism	zoroastrianism
 zoster	zoster
 Zouave	zouave
 zounds	zounds
+Zsh	zsh
 Zsigmondy	zsigmondy
 zucchetto	zucchetto
 Zug	zug
@@ -55703,8 +57138,4 @@ zymometer	zymometer
 zymosis	zymosis
 zymotic	zymotic
 Zyrian	zyrian
-sensei	sensei
-iPad	ipad
-iOS	ios
-iPadOS	ipados
-tvOS	tvos
+ZZZ	zzz
