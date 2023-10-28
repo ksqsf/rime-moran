@@ -17,7 +17,7 @@
 
 ---
 name: moran.chars
-version: "20231016"
+version: "20231028"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -53992,7 +53992,7 @@ use_preset_vocabulary: false
 𬘭	if;sl
 𬘯	vp;sx
 𬘵	gg;sh
-𬙂	ym;sy
+𬙂	yj;sy
 𬙆	fj;sf
 𬙊	mo;sm
 𬙋	xd;sx
@@ -54094,7 +54094,7 @@ use_preset_vocabulary: false
 𬷕	bu;nf
 𬸅	iu;ni
 𬸅	ju;ni
-𬸘	ym;ny
+𬸘	yj;ny
 𬸚	yt;ny
 𬸣	xm;bn
 𬸣	xm;nb
