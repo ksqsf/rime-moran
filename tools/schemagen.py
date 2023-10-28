@@ -227,6 +227,19 @@ def encode_fixed_word(word, pinyin=None):
     else:
         return double_pinyin[0][0] + double_pinyin[1][0] + double_pinyin[2][0] + double_pinyin[-1][0]
 
+def encode_fixed_word_sunshine_strategy(word, pinyin=None):
+    assert len(word) > 1
+    if not pinyin:
+        pinyin = word_to_pinyin(word)
+    double_pinyin = to_double_pinyin(pinyin).split()
+    if len(word) == 2:
+        return [double_pinyin[0] + double_pinyin[1][0] + to_auxiliary_codes(word[1])[0][0],
+                #encode_fixed_word(word,pinyin)
+                ]
+    elif len(word) == 3:
+        return [double_pinyin[0][0] + double_pinyin[1][0] + double_pinyin[2][0] + to_auxiliary_codes(word[2])[0][0]]
+    else:
+        return [encode_fixed_word(word, pinyin)]
 
 def handle_gen_fixed():
     initialize_charset()
@@ -269,7 +282,9 @@ def handle_gen_fixed():
     for (word, pinyin, weight) in read_input_dict():
         if len(word) > 1:
             try:
-                words.append((pinyin_weight(word, pinyin), word, encode_fixed_word(word, pinyin)))
+                # words.append((pinyin_weight(word, pinyin), word, encode_fixed_word(word, pinyin)))
+                for code in encode_fixed_word_sunshine_strategy(word, pinyin):
+                    words.append((pinyin_weight(word, pinyin), word, code))
             except:
                 traceback.print_exc()
 
