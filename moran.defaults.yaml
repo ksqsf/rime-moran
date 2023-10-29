@@ -3,27 +3,10 @@
 # 再作修改，以避免更新時產生衝突。
 
 patch:
-  moran:
-    # 簡快碼提示符
-    # 修改爲 "" 可取消提示符
-    # 建議在熟悉簡碼後再取消
-    quick_code_indicator: "⚡️"
-
-    # 詞輔功能
-    # 當輸入二字或三字詞時，允許末輸入篩選詞語。
-    # 例如輸入 lmjxz 可以篩選「連接」。
-    # 但是與字輔輸入方法不同，詞輔在生效後 *不能* 在句末繼續輸入形成整
-    # 句——這個功能僅用於「篩選」。因此，這個功能僅適合習慣於以詞語爲單
-    # 位輸入的用戶。
-    enable_word_filter: false
-
-    # 「出簡讓全」相關設置
-    # 當一個字具有簡碼時，打其全碼（不論是 yyxx 還是 yyxxo）都會導致該
-    # 字讓出首位，而被推遲到後位。
-    ijrq:
-      enable: true       # 是否啓用出簡讓全？
-      #defer: 5          # 延遲多少位？若不設置该项，則默認值是推遲到第二頁
-      show_hint: true    # 若讓全，則提示簡碼打法
+  # 簡碼詞庫
+  # moran_fixed: 繁體字形優先（默認）
+  # moran_fixed_simp: 簡體字形簡碼
+  fixed/dictionary: moran_fixed
 
   # simplification 開關
   # 0 = 打傳承字
@@ -49,6 +32,31 @@ patch:
   # 語言模型相關設置
   # 語言模型在某些場景下可以提升精準度，然而也會導致候選的行爲更加不可預測
   __include: enable_language_model  # 或 disable_language_model
+
+
+  # 魔然特殊功能配置
+  moran:
+    # 簡快碼提示符
+    # 修改爲 "" 可取消提示符
+    # 建議在熟悉簡碼後再取消
+    quick_code_indicator: "⚡️"
+
+    # 詞輔功能
+    # 當輸入二字或三字詞時，允許末輸入篩選詞語。
+    # 例如輸入 lmjxz 可以篩選「連接」。
+    # 但是與字輔輸入方法不同，詞輔在生效後 *不能* 在句末繼續輸入形成整
+    # 句——這個功能僅用於「篩選」。因此，這個功能僅適合習慣於以詞語爲單
+    # 位輸入的用戶。
+    enable_word_filter: false
+
+    # 「出簡讓全」相關設置
+    # 當一個字具有簡碼時，打其全碼（不論是 yyxx 還是 yyxxo）都會導致該
+    # 字讓出首位，而被推遲到後位。
+    ijrq:
+      enable: true       # 是否啓用出簡讓全？
+      #defer: 5          # 延遲多少位？若不設置该项，則默認值是推遲到第二頁
+      show_hint: true    # 若讓全，則提示簡碼打法
+
 
 enable_language_model:
   grammar:

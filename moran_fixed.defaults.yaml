@@ -3,6 +3,14 @@
 # 再作修改，以避免更新時產生衝突。
 
 patch:
+  # moran_fixed: 繁體字形優先（默認）
+  # moran_fixed_aabc: 繁體字形優先，三字詞使用aabc規則編碼
+  # moran_fixed_simp: 简体字形编码
+  # moran_fixed_simp_aabc: 简体字形编码，三字词使用aabc规则编码
+  translator/dictionary: &dict moran_fixed   # 不要删除 `&dict ` 部分
+  fixed/dictionary: *dict
+  zkci/dictionary: *dict
+
   # simplification 開關
   # 0 = 打傳承字
   # 1 = 打簡化字（藉助 OpenCC）

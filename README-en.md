@@ -33,6 +33,6 @@ Moran is an open, community-maintained project. Join us!
 + Original Ziranma data: [rime-zrm](https://github.com/bigshans/rime-zrm);
 + Some of the Lua scripts: [Tu's Tiger-code Rime schema](https://tiger-code.com/);
 + Color schemes: [ssnhd/Rime](https://github.com/ssnhd/rime/), [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian/), Tu's Tiger-code and others;
-+ Other dictionaries: acknowledged in the dictionary files.
++ Other dictionaries: acknowledged in the dictionary files.  Special thanks to 吕奉先 for contributing a dictionary for simplified characters.
 
 This schema also received help from 铁圈, 䑝曻, and 蹄垫.  Thank you!
