@@ -6,7 +6,7 @@
 
 ---
 name: moran_fixed
-version: "20231023"
+version: "20231103"
 sort: by_weight
 columns:
   - code
@@ -50431,6 +50431,7 @@ qyih	情場
 qyii	情癡
 qyik	清朝
 qyip	青春
+qyiq	蜻
 qyir	取義成仁
 qyiu	清楚
 qyiu	清除
