@@ -1,10 +1,12 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023 ksqsf
 --
--- Ver: 0.4.0
+-- Ver: 0.4.1
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.4.1: 修復內存泄露。
 --
 -- 0.4.0: 增加詞輔功能。
 --
@@ -155,6 +157,8 @@ function top.func(input, seg, env)
          end
       end
    end
+
+   smart_iter = nil
 end
 
 -- | Query the smart translator for input, and transform the comment
@@ -164,10 +168,12 @@ function top.raw_query_smart(env, input, seg, with_comment)
    if translation == nil then
       return nil
    end
-   local nxt, _ = translation:iter()
+   local nxt, thisobj = translation:iter()
    return function()
-      local cand = nxt(translation)
+      local cand = nxt(thisobj)
       if cand == nil then
+         thisobj = nil
+         nxt = nil
          return nil
       end
       local cand_len = utf8.len(cand.text)
