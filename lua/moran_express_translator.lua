@@ -1,12 +1,12 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023 ksqsf
 --
--- Ver: 0.4.1
+-- Ver: 0.4.2
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
 --
--- 0.4.1: 修復內存泄露。
+-- 0.4.2: 修復內存泄露。
 --
 -- 0.4.0: 增加詞輔功能。
 --
@@ -40,12 +40,20 @@ function top.init(env)
    env.ijrq_hint = env.engine.schema.config:get_bool("moran/ijrq/show_hint")
    env.ijrq_suffix = env.engine.schema.config:get_string("moran/ijrq/suffix") or 'o'
    env.enable_word_filter = env.engine.schema.config:get_bool("moran/enable_word_filter")
+
+   -- 默認情況下 Lua GC 過於保守
+   collectgarbage("setpause", 110)
 end
 
 function top.fini(env)
 end
 
 function top.func(input, seg, env)
+   -- 每 10% 的翻譯觸發一次 GC
+   if math.random() < 0.1 then
+      collectgarbage()
+   end
+   
    local input_len = utf8.len(input)
    local fixed_triggered = false
    local flexible = env.engine.context:get_option("flexible")
@@ -157,8 +165,6 @@ function top.func(input, seg, env)
          end
       end
    end
-
-   smart_iter = nil
 end
 
 -- | Query the smart translator for input, and transform the comment
@@ -172,8 +178,6 @@ function top.raw_query_smart(env, input, seg, with_comment)
    return function()
       local cand = nxt(thisobj)
       if cand == nil then
-         thisobj = nil
-         nxt = nil
          return nil
       end
       local cand_len = utf8.len(cand.text)
