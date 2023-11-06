@@ -1,10 +1,17 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023 ksqsf
 --
--- Ver: 0.4.2
+-- Ver: 0.5.0
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.5.0: 修復詞庫維護問題。使用簡碼鍵入的字的字頻，不會被增加到
+-- script translator 的用戶詞庫中，導致長時間使用後，生僻字的字頻反而
+-- 更高，構詞和整句會被干擾。
+--
+-- 在方案中引用時，需增加 @with_reorder 標記，並把
+-- moran_reorder_filter 添加爲第一個 filter。
 --
 -- 0.4.2: 修復內存泄露。
 --
@@ -35,6 +42,9 @@ function top.init(env)
    env.smart = Component.Translator(env.engine, "", "script_translator@translator")
    env.rfixed = ReverseLookup('moran_fixed')
    env.quick_code_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator") or "⚡️"
+   if env.name_space == 'with_reorder' then
+      env.quick_code_indicator = '`F'
+   end
    env.ijrq_enable = env.engine.schema.config:get_bool("moran/ijrq/enable")
    env.ijrq_defer = env.engine.schema.config:get_int("moran/ijrq/defer") or env.engine.schema.config:get_int("menu/page_size") or 5
    env.ijrq_hint = env.engine.schema.config:get_bool("moran/ijrq/show_hint")
@@ -53,11 +63,11 @@ function top.func(input, seg, env)
    if math.random() < 0.1 then
       collectgarbage()
    end
-   
+
    local input_len = utf8.len(input)
    local fixed_triggered = false
    local flexible = env.engine.context:get_option("flexible")
-   local indicator = env.quick_code_indicator or "⚡️"
+   local indicator = env.quick_code_indicator
 
    -- 用戶尚未選過字時，調用碼表。
    if (env.engine.context.input == input) then
