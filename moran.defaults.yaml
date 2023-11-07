@@ -6,6 +6,9 @@ patch:
   # 簡碼詞庫
   # moran_fixed: 繁體字形優先（默認）
   # moran_fixed_simp: 簡體字形簡碼
+  # 如果修改該項，請 **務必** 同步修改 moran_fixed.defaults.yaml （或
+  # moran_fixed.custom.yaml，如果你創建了這個文件）中的對應設置，否則
+  # 詞庫可能不會被編譯，導致簡碼無法輸出 。
   fixed/dictionary: moran_fixed
 
   # simplification 開關

@@ -6,7 +6,7 @@
 
 ---
 name: moran_english
-version: "20231026"
+version: "20231107"
 sort: original
 use_preset_vocabulary: false
 ...
@@ -43945,7 +43945,7 @@ rillet	rillet
 rim	rim
 Rimbaud	rimbaud
 rime	rime
-rime-ice	rime-ice
+rime-moran	rime-moran
 rimester	rimester
 Rimini	rimini
 rimose	rimose
