@@ -1,7 +1,7 @@
 # Rime table
 # coding: utf-8
-#@db/db_name custom_phrase.txt
-#@db/db_type tabledb
+#@db/db_name	moran_custom_phrases
+#@db/db_type	tabledb
 #
 # 魔然方案自定義短語
 # 修改後重新部署方可生效
