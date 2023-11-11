@@ -12,8 +12,6 @@
 # 每行格式：文字 <tab> 編碼 <tab> 權重（權重越高，順序越靠前）
 #
 # 示例：
-魔然	morj	100
-驀然	morj	10
 秩	rank	0
 Markdown	markd	0
 Logseq	logs	0

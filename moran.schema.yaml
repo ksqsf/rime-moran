@@ -1,7 +1,7 @@
 schema:
   schema_id: moran
   name: 魔然
-  version: "20231024"
+  version: "20231111"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -120,7 +120,7 @@ fixed:         # 固頂輸入模式設置，在 top_translator 中被調用
 
 custom_phrase: # 自定義短語
   dictionary: ""
-  user_dict: moran_custom
+  user_dict: moran_custom_phrases
   db_class: stabledb
   enable_completion: false
   enable_sentence: false

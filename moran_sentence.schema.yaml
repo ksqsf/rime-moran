@@ -1,7 +1,7 @@
 schema:
   schema_id: moran_sentence
   name: 魔然·整句
-  version: "20230914"
+  version: "20231111"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -24,7 +24,7 @@ switches:
   - name: ascii_punct
     states: [ 。，, ．， ]
   - options: [ utf8, gbk+emoji, big5+emoji ]
-    reset: 1
+    reset: 0
     states:
     - UTF-8
     - GBK
@@ -95,7 +95,7 @@ translator:
 
 custom_phrase: # 自定義短語
   dictionary: ""
-  user_dict: moran_custom
+  user_dict: moran_custom_phrases
   db_class: stabledb
   enable_completion: false
   enable_sentence: false
