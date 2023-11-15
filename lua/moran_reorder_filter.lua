@@ -1,10 +1,13 @@
 -- Moran Reorder Filter
 -- Copyright (c) 2023 ksqsf
 --
--- Ver: 0.1.0
+-- Ver: 0.1.1
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.1.1: 要求候選項合併時 preedit 也匹配，以防禦一種邊角情況（掛接某
+-- 些第三方碼表時可能出現）。
 --
 -- 0.1.0: 本文件的主要作用是用 script 候選覆蓋對應的 table 候選，從而
 -- 解決字頻維護問題。例如：原本用 mau 輸入三簡字「碼」時，該候選是從
@@ -67,9 +70,17 @@ function Top.func(t_input, env)
    Top.ClearEntries(env, reorder_phase, fixed_list, smart_list)
 end
 
+function Top.CandidateMatch(scand, fcand)
+   -- Additionally check preedits.  This check defends against the
+   -- case where the scand is NOT really a complete candidate (for
+   -- example, only "qt" is translated by the script translator when
+   -- the input is actually "qty".)
+   return scand.text == fcand.text and scand.preedit == fcand.preedit
+end
+
 function Top.DoPhase1(env, fixed_list, smart_list, cand)
    table.insert(smart_list, cand)
-   while #fixed_list > 0 and #smart_list > 0 and smart_list[#smart_list].text == fixed_list[1].text do
+   while #fixed_list > 0 and #smart_list > 0 and Top.CandidateMatch(smart_list[#smart_list], fixed_list[1]) do
       cand = smart_list[#smart_list]
       cand.comment = env.quick_code_indicator
       yield(cand)
