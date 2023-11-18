@@ -15,10 +15,6 @@ import_tables:
   - moran.computer   # 計算機術語
 # - moran.hanyu      # 漢語大詞典（都是些很生僻的詞）
   - moran.moe
-  - moran.touhou
-  - moran.genshin
-  - moran.priconne
-  - moran.vtb
 ...
 
 # 用戶自定義詞庫
