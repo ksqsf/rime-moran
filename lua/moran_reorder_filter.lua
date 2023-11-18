@@ -25,7 +25,7 @@ local Top = {}
 function Top.init(env)
    -- At most THRESHOLD smart candidates are subject to reordering,
    -- for performance's sake.
-   env.reorder_threshold = 150
+   env.reorder_threshold = 50
    env.quick_code_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator") or "⚡️"
 end
 
