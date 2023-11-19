@@ -6585,8 +6585,8 @@
 兆 ed
 兆 dd
 兇 ex
-先 en
 先 ne
+先 en
 光 ea
 光 xw
 兊 by
@@ -33377,6 +33377,7 @@
 𡑣 tk
 𡑯 tj
 𡑶 tj
+𡑸 tu
 𡑾 ty
 𡒁 tz
 𡒃 at
@@ -33389,6 +33390,8 @@
 𡒯 tm
 𡒱 td
 𡒳 tm
+𡒴 tu
+𡒿 tu
 𡓍 tl
 𡓒 tl
 𡓓 tj
@@ -35432,6 +35435,7 @@
 𣋟 om
 𣋢 oj
 𣋣 oj
+𣋤 oa
 𣋲 ol
 𣋳 ob
 𣋵 ol
@@ -44892,10 +44896,13 @@
 𬹼 qj
 𬺈 iq
 𬺓 ii
+𭁣 aa
 𭎂 tc
 𭚦 gg
+𭚶 gy
 𭣇 fd
 𭱊 dx
+𭺾 ta
 𮆏 vl
 𮉧 sl
 𮉨 sw
@@ -44904,6 +44911,7 @@
 𮉬 sz
 𮉯 sj
 𮐨 cy
+𮓠 aa
 𮔂 ij
 𮔅 if
 𮔊 il
@@ -44914,6 +44922,8 @@
 𮝴 ig
 𮝵 ie
 𮝹 ih
+𮞘 zy
+𮞙 zr
 𮣲 jg
 𮣳 jh
 𮣴 jy
