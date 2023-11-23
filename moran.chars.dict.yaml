@@ -50139,7 +50139,7 @@ use_preset_vocabulary: false
 𨚴	ru;re	0	# auto
 𨚵	zl;yz	0	# auto
 𨚶	nm;ne	0	# auto
-𨛈	qr;qe	0	# auto
+𨛈	qr;eq	0
 𨛉	ji;se	0	# auto
 𨛋	li;le	0	# auto
 𨛌	mh;me	0	# auto
@@ -50179,7 +50179,7 @@ use_preset_vocabulary: false
 𨜖	yu;oe	0	# auto
 𨜘	mz;we	0	# auto
 𨜜	ug;ue	0	# auto
-𨜩	qr;qe	0	# auto
+𨜩	qr;eq	0
 𨜰	jd;je	0	# auto
 𨜳	ts;ge	0	# auto
 𨜴	he;ge	0	# auto
@@ -50251,9 +50251,9 @@ use_preset_vocabulary: false
 𨟗	wz;we	0	# auto
 𨟙	yy;ye	0	# auto
 𨟚	rh;xe	0	# auto
-𨟠	jt;qe	0	# auto
-𨟠	qr;qe	0	# auto
-𨟠	qt;qe	0	# auto
+𨟠	jt;eq	0
+𨟠	qr;eq	0
+𨟠	qt;eq	0
 𨟲	dl;yy	0	# auto
 𨟴	yn;yy	0	# auto
 𨟵	bi;yb	0	# auto
