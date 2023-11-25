@@ -1,7 +1,7 @@
 schema:
   schema_id: moran_sentence
   name: 魔然·整句
-  version: "20231111"
+  version: "20231125"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -65,6 +65,7 @@ engine:
     #- table_translator@japanese            # 日語混輸
     - script_translator
   filters:
+    #- lua_filter@*moran_aux_hint           # 輔助碼提示需要去掉本行開頭的 # 符號
     - simplifier
     - charset_filter@gbk+emoji
     - charset_filter@big5+emoji

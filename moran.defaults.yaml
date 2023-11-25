@@ -60,6 +60,8 @@ patch:
       #defer: 5          # 延遲多少位？若不設置该项，則默認值是推遲到第二頁
       show_hint: true    # 若讓全，則提示簡碼打法
 
+    # 輔助碼提示
+    enable_aux_hint: false
 
 enable_language_model:
   grammar:

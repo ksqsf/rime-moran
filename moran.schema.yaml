@@ -1,7 +1,7 @@
 schema:
   schema_id: moran
   name: 魔然
-  version: "20231111"
+  version: "20231125"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -74,6 +74,7 @@ engine:
     - lua_translator@*moran_number         # 數字轉大寫
   filters:
     - lua_filter@*moran_reorder_filter
+    - lua_filter@*moran_aux_hint
     - simplifier@emoji
     - charset_filter@gbk+emoji
     - charset_filter@big5+emoji
@@ -274,6 +275,7 @@ recognizer:
 moran:  # 兜底默認值；以防用戶不提供任何值
   quick_code_indicator: "⚡️"
   enable_word_filter: false
+  enable_aux_hint: false
   ijrq:
     enable: true
     #defer: 5
