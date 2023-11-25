@@ -75,7 +75,10 @@ function Top.CandidateMatch(scand, fcand)
    -- case where the scand is NOT really a complete candidate (for
    -- example, only "qt" is translated by the script translator when
    -- the input is actually "qty".)
-   return scand.text == fcand.text and scand.preedit == fcand.preedit
+   return scand.text == fcand.text and
+      ((#scand.preedit == #fcand.preedit and scand.preedit == fcand.preedit)
+         -- Special-case two-char word
+         or (#scand.preedit == 5 and #fcand.preedit == 4 and (scand.preedit:sub(1,2) .. scand.preedit:sub(4,5)) == fcand.preedit))
 end
 
 function Top.DoPhase1(env, fixed_list, smart_list, cand)
