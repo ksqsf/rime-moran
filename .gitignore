@@ -15,3 +15,4 @@ make_dist.sh
 dist/
 default.custom.yaml
 *.custom.*
+pinyin_simp*
