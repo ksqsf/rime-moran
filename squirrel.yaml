@@ -900,6 +900,7 @@ preset_color_schemes:
     hilited_candidate_text_color: 0x7A40EC
     label_color: 0x888785
     text_color: 0x8100EB
+    hilited_corner_radius: 0
 
   ayaya_night:
     name: "文文·夜／Ayaya Night"
@@ -929,6 +930,7 @@ preset_color_schemes:
     hilited_text_color: 0xFFFFFF
     label_color: 0xAAA6F0
     text_color: 0xFFFFFF
+    hilited_corner_radius: 0
 
 
 
