@@ -969,7 +969,6 @@ app_options:
     ascii_mode: true
   org.gnu.Emacs:
     ascii_mode: true
-    no_inline: true
   co.zeit.hyper:
     ascii_mode: true
   com.google.Chrome:
