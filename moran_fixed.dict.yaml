@@ -6,7 +6,7 @@
 
 ---
 name: moran_fixed
-version: "20231119"
+version: "20231129"
 sort: by_weight
 columns:
   - text
@@ -28248,7 +28248,7 @@ Bilibili	bvj
 噘嘴	jtzv
 撅嘴	jtzv
 家庭作業	jtzy
-句	ju
+舉	ju
 據	ju
 巨	jua
 濟世安邦	juab
@@ -28316,7 +28316,6 @@ Bilibili	bvj
 建設單位	judw
 郹	jue
 鉅額	juee
-舉	juf
 拒	juf
 句法	jufa
 颶風	jufg
@@ -28333,9 +28332,10 @@ Bilibili	bvj
 精神分裂症	jufv
 揟	jufx
 軍事法院	jufy
-鞠	jug
+句	jug
 聚光	jugd
 橘柑	jugj
+鞠	jugj
 匊	jugm
 技術革命	jugm
 舉國	jugo
@@ -42015,7 +42015,7 @@ PC端	pcdr
 牌子	plzi
 拍子	plzi
 排在	plzl
-騙	pm
+片	pm
 偏愛	pmai
 偏安	pman
 蓬門蓽戶	pmbh
@@ -42074,8 +42074,9 @@ PC端	pcdr
 偏離	pmli
 偏勞	pmlk
 偏流	pmlq
-駢	pmm
+騙	pmm
 騙馬	pmma
+駢	pmmb
 楩	pmmb
 楄	pmmb
 偏門	pmmf
