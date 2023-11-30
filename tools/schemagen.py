@@ -129,7 +129,7 @@ def handle_gen_chars():
 opencc_for_pinyin = None
 def word_to_pinyin(word):
     global opencc_for_pinyin
-    if args and args.opencc_for_pinyin:
+    if args and 'opencc_for_pinyin' in args:
         if not opencc_for_pinyin:
             opencc_for_pinyin = opencc.OpenCC(args.opencc_for_pinyin)
         maybe_pinyin = ' '.join(lazy_pinyin(opencc_for_pinyin.convert(word)))
@@ -368,6 +368,33 @@ def handle_update_compact_dict():
                 print(f'{word}\t{newcode}')
 
 
+def handle_update_char_weight():
+    initialize_pinyin_table()
+    with open(args.rime_dict) as f:
+        for l in f:
+            l = l.strip()
+            m = regex.match(r'^([^\t])\t([a-z][a-z];[a-z][a-z])\t(\d+)(.*)$', l)
+            if not m:
+                print(l)
+            else:
+                char = m[1]
+                code = m[2]
+                weight = int(m[3])
+                comment = m[4]
+
+                sp = code.split(';')[0]
+                wt = pinyin_table.get(char, {})
+                for (py, w) in wt.items():
+                    try:
+                        if to_double_pinyin(py) == sp:
+                            weight = w
+                            break
+                    except:
+                        weight = w
+
+                print(f'{char}\t{code}\t{weight}{comment}')
+
+
 ###############
 ### 程序入口 ###
 ###############
@@ -404,6 +431,9 @@ gen_fixed.add_argument('--aabc', action='store_true', default=False, help='三�
 update_compact_dict = subparsers.add_parser('update-compact-dict', help='更新 *compact* 詞庫中的輔助碼爲新輔助碼')
 update_compact_dict.add_argument('--rime-dict', help='輸入rime格式詞庫（無frontmatter）', required=True)
 
+update_char_weight = subparsers.add_parser('update-char-weight', help='更新 chars 詞庫中的詞頻')
+update_char_weight.add_argument('--rime-dict', help='輸入rime格式詞庫', required=True)
+
 if __name__ == '__main__':
     args = parser.parse_args()
     if args.command == 'gen-chars':
@@ -414,3 +444,5 @@ if __name__ == '__main__':
         handle_gen_fixed()
     elif args.command == 'update-compact-dict':
         handle_update_compact_dict()
+    elif args.command == 'update-char-weight':
+        handle_update_char_weight()

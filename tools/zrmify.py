@@ -63,7 +63,7 @@ def 韻母轉換(pinyin: str) -> str:
         'un': 'p',
         'ang': 'h', 'eng': 'g', 'ing': 'y', 'ong': 's',
         'ia': 'w', 'iao': 'c', 'ian': 'm', 'iang': 'd', 'iong': 's',
-        'ua': 'w', 'uo': 'o', 'uai': 'y', 'uan': 'r', 'uang': 'd'
+        'ua': 'w', 'uo': 'o', 'uai': 'y', 'uan': 'r', 'van': 'r', 'uang': 'd'
     }
     if pinyin in 映射表:
         return 映射表[pinyin]
