@@ -11,9 +11,9 @@ compact_dicts=(
     "../moran.thuocl.dict.yaml"
 )
 
-UPDATE_LINE_RE="^.+\\t"
+UPDATE_LINE_RE=$'^.+\t'
 
-#set -x
+set -x
 
 # Extract the words from foo.dict.yaml into foo.in.
 extract_dict() {
