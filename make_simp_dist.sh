@@ -75,6 +75,9 @@ cd ..
 echo 打包...
 
 if [ x$BUILD_TYPE = x"github" ]; then
+    # GitHub Actions will take over the tarball creation.
+    rm -rf dist/tools
+    rm -rf dist/.git
     exit 0
 fi
 

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-STRICT=x"$1"
+STRICT="$1"
 
 echo Strict about errors? $STRICT
 
@@ -34,11 +34,19 @@ update_compact_dict() {
     extract_dict "$DICT_FILE" "$HEADER_FILE" "$INPUT_FILE"
     python3 schemagen.py update-compact-dict --rime-dict="$INPUT_FILE" > "$OUTPUT_FILE"
 
-    if [ $STRICT = x"yes" ] && grep '^# BAD' "$OUTPUT_FILE"
+    if grep '^# BAD' "$OUTPUT_FILE"
     then
         echo '!!! BAD DICT !!!'
-        rm -f $INPUT_FILE $HEADER_FILE
-        return 1
+
+        # Still allow grep to show bad entries.
+        if [ x$STRICT = x"yes" ]; then
+            rm -f $INPUT_FILE $HEADER_FILE
+            return 1
+        else
+            cat "$HEADER_FILE" "$OUTPUT_FILE" > "$DICT_FILE"
+            rm -f $INPUT_FILE $HEADER_FILE $OUTPUT_FILE
+            return 0
+        fi
     else
         cat "$HEADER_FILE" "$OUTPUT_FILE" > "$DICT_FILE"
         rm -f $INPUT_FILE $HEADER_FILE $OUTPUT_FILE
