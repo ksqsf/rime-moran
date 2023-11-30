@@ -6,8 +6,12 @@ jobs:
       - uses: actions/checkout@v4
       - run: pip3 install opencc pypinyin regex
       - run: sudo apt install opencc p7zip-full
-      - run: ./make_simp_dist.sh
+      - run: ./make_simp_dist.sh github
       - uses: actions/upload-artifact@v3
         with:
-          name: "MoranSimplified"
-          path: MoranSimplified*.7z
+          name: "简体完整配置包"
+          path: dist/**
+      - uses: actions/upload-artifact@v3
+        with:
+          name: "仅简体词库"
+          path: dist/*.dict.yaml
