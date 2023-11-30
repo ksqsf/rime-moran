@@ -32116,6 +32116,8 @@
 𠂈 pj
 𠂈 py
 𠂉 ra
+𠂔 pp
+𠂔 ap
 𠃓 yp
 𠃖 gg
 𠃺 yu
@@ -41420,7 +41422,7 @@
 𨚴 re
 𨚵 yz
 𨚶 ne
-𨛈 qe
+𨛈 eq
 𨛉 se
 𨛋 le
 𨛌 me
@@ -41457,7 +41459,7 @@
 𨜖 oe
 𨜘 we
 𨜜 ue
-𨜩 qe
+𨜩 eq
 𨜰 je
 𨜳 ge
 𨜴 ge
@@ -41525,7 +41527,7 @@
 𨟗 we
 𨟙 ye
 𨟚 xe
-𨟠 qe
+𨟠 eq
 𨟲 yy
 𨟴 yy
 𨟵 yb
