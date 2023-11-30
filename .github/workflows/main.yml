@@ -1,0 +1,13 @@
+on: [push]
+jobs:
+  simplified-moran:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip3 install opencc pypinyin regex
+      - run: sudo apt install opencc p7zip-full
+      - run: ./make_simp_dist.sh
+      - uses: actions/upload-artifact@v3
+        with:
+          name: "MoranSimplified"
+          path: MoranSimplified*.7z

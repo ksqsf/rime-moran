@@ -16,7 +16,6 @@ from collections import *
 from itertools import *
 import zrmify
 import flypyify
-import pandas
 import math
 import opencc
 from pypinyin import lazy_pinyin

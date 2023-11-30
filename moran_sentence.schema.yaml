@@ -189,6 +189,3 @@ __patch:
   - moran.defaults.yaml:/patch?
   - moran_patches.yaml:/fix_opencc_t2s?
   - moran_sentence.custom.yaml:/patch?
-
-grammar:
-  language: zh-hant-t-essay-bgw
