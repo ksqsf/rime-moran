@@ -2,6 +2,7 @@
 
 BUILD_TYPE="$1"
 
+rm -rf dist/
 git archive HEAD -o archive.tar
 mkdir -p dist
 tar xf archive.tar -C dist
@@ -76,14 +77,14 @@ echo 打包...
 
 if [ x$BUILD_TYPE = x"github" ]; then
     # GitHub Actions will take over the tarball creation.
-    rm -rf dist/tools
-    rm -rf dist/.git
+    rm -rf dist/tools dist/.git dist/.github dist/make_simp_dist.sh
     exit 0
 fi
 
 rm -rf dist/tools
 rm -rf dist/.git
-cp 简体版说明.txt 下载与安装说明.txt 更新纪要.txt dist
+cp 下载与安装说明.txt 更新纪要.txt dist
+sedi 's/MORAN_VARIANT/简体/' dist/下载与安装说明.txt
 
 if [ -x "$(command -v 7zz)" ]; then
     ZIP7=7zz

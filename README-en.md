@@ -22,6 +22,7 @@ Moran is an open, community-maintained project. Join us!
 - [Usage](https://github.com/ksqsf/rime-moran/wiki/%E6%95%99%E7%A8%8B#%E5%85%B6%E4%B8%89%E6%9B%B0%E5%96%AE%E5%AD%97%E8%BC%B8%E5%85%A5%E6%96%B9%E5%BC%8F)
 - [Document](https://github.com/ksqsf/rime-moran/wiki)
 - [FAQ](https://github.com/ksqsf/rime-moran/wiki/%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C)
+- [Download Simplified Chinese edition](https://github.com/ksqsf/rime-moran/wiki/%E7%AE%80%E4%BD%93%E7%89%88)
 
 | Quick Code                              | Assisted Sentence Composition                               |
 |-----------------------------------------|--------------------------------------------------------------|
