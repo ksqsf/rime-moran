@@ -151,7 +151,7 @@ function Module.candidate_match(env, cand, aux)
       return false
    end
 
-   for gt in Module.aux_iter(env, cand.text) do
+   for i, gt in pairs(Module.aux_list(env, cand.text)) do
       if aux == gt then
          return true
       end
@@ -159,54 +159,38 @@ function Module.candidate_match(env, cand, aux)
    return false
 end
 
-function Module.aux_iter(env, word)
-   local co = coroutine.create(function()
-         char_list = {}
+function Module.aux_list(env, word)
+   local aux_list = {}
+   local char_list = {}
+   local first = nil
+   local last = nil
 
-         -- Single char
-         for i, c in Module.chars(word) do
-            table.insert(char_list, c)
-            local c_aux_list = env.aux_table[c]
-            if c_aux_list then
-               for i, c_aux in pairs(c_aux_list) do
-                  coroutine.yield(c_aux:sub(1,1))
-                  coroutine.yield(c_aux)
-               end
-            end
+   -- Single char
+   for i, c in Module.chars(word) do
+      if not first then first = c end
+      last = c
+
+      local c_aux_list = env.aux_table[c]
+      if c_aux_list then
+         for i, c_aux in pairs(c_aux_list) do
+            table.insert(aux_list, c_aux:sub(1,1))
+            table.insert(aux_list, c_aux)
          end
-
-         -- First char & last char
-         first = char_list[1]
-         last = char_list[#char_list]
-         f_aux_list = env.aux_table[first]
-         l_aux_list = env.aux_table[last]
-         for i, f_aux in pairs(f_aux_list) do
-            for j, l_aux in pairs(l_aux_list) do
-               coroutine.yield(f_aux:sub(1,1) .. l_aux:sub(1,1))
-               coroutine.yield(l_aux:sub(1,1) .. f_aux:sub(1,1))
-            end
-         end
-
-         return nil
-   end)
-   local finished = false
-   return function()
-      if finished then
-         return nil
-      end
-      local ok, value = coroutine.resume(co)
-      if ok == false then
-         finished = true
-         log.error('moran_aux_translator: aux_iter error ' .. tostring(value))
-         return nil
-      end
-      if value then
-         return value
-      else
-         finished = true
-         return nil
       end
    end
+
+   -- First char & last char
+   f_aux_list = env.aux_table[first]
+   l_aux_list = env.aux_table[last]
+
+   for i, f_aux in pairs(f_aux_list) do
+      for j, l_aux in pairs(l_aux_list) do
+         table.insert(aux_list, f_aux:sub(1,1) .. l_aux:sub(1,1))
+         table.insert(aux_list, l_aux:sub(1,1) .. f_aux:sub(1,1))
+      end
+   end
+
+   return aux_list
 end
 
 function Module.chars(word)
