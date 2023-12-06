@@ -1,0 +1,189 @@
+schema:
+  schema_id: moran_aux
+  name: 魔然·輔篩
+  version: "20231206"
+  author:
+    - 自然碼發明人：周志農
+    - 方案製作：ksqsf
+  description: |
+    在輸入完畢雙拼碼後，可以輸入輔助碼篩選候選項，與「魔然」方案不同。
+  dependencies:
+    - tiger
+    - moran_english
+    #- moran_japanese
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    reset: 1
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+  - options: [ utf8, gbk+emoji, big5+emoji ]
+    reset: 0
+    states:
+    - UTF-8
+    - GBK
+    - BIG5
+  - name: emoji
+    reset: 1
+    states: [ 🈚, 🈶 ]
+  - name: unicode_comment
+    reset: 0
+    states: [ U開, U關 ]
+  - name: dzing
+    reset: 0
+    states: [ 通, 寍 ]
+  - options: [ std_opencc,  std_tw, std_hk, std_dzing ]
+    states: [ 通, 臺, 港, 寍 ]
+
+engine:
+  processors:
+    - key_binder
+    - ascii_composer
+    - recognizer
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - reverse_lookup_translator
+    - table_translator@custom_phrase       # 自定義短語
+    #- table_translator@english             # 英語混輸
+    #- table_translator@japanese            # 日語混輸
+    - lua_translator@*moran_aux_translator
+  filters:
+    #- lua_filter@*moran_aux_hint           # 輔助碼提示需要去掉本行開頭的 # 符號
+    - simplifier
+    - charset_filter@gbk+emoji
+    - charset_filter@big5+emoji
+    - simplifier@emoji
+    - simplifier@std_tw
+    - simplifier@std_hk
+    - simplifier@std_dzing
+    - uniquifier
+
+speller:
+  alphabet: abcdefghijklmnopqrstuvwxyz
+  delimiter: " '"
+  algebra:
+    - derive/^(\w*);(\w)(\w)$/$1/      # 構詞可以用 YY
+
+ascii_composer:
+  switch_key:
+    Shift_L: commit_code
+
+translator:
+  dictionary: moran.extended
+  prism: moran_aux
+  initial_quality: 0
+  preedit_format:
+    - xform/([a-z][a-z][a-z][a-z])o/$1°/
+
+custom_phrase: # 自定義短語
+  dictionary: ""
+  user_dict: moran_custom_phrases
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 10
+
+english:
+  dictionary: moran.english
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+japanese:
+  dictionary: moran.japanese
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+emoji:
+  opencc_config: moran_emoji.json
+  option_name: emoji
+  tips: all
+
+std_hk:
+  opencc_config: t2hk.json
+  option_name: std_hk
+
+std_tw:
+  opencc_config: t2tw.json
+  option_name: std_tw
+
+std_dzing:
+  opencc_config: moran_dzing.json
+  option_name: std_dzing
+  tips: all
+
+reverse_lookup:
+  dictionary: tiger
+  enable_completion: true
+  prefix: "`"
+  suffix: "'"
+  tips: 〔虎碼〕
+
+punctuator:
+  import_preset: symbols
+
+key_binder:
+  import_preset: default
+  bindings:
+    - {when: has_menu, accept: "Control+s", toggle: simplification}
+    - {when: has_menu, accept: "Control+q", toggle: emoji}  # q 表示 表情, 让出 Ctrl+e
+    - {when: has_menu, accept: "Control+Shift+0", toggle: std_opencc}
+    - {when: has_menu, accept: semicolon, send: "2"}
+    - {when: has_menu, accept: "Tab", send: "Control+Right"}
+    - {when: composing, accept: "Tab", send: "Control+Right"}
+    - {when: has_menu, accept: Shift+A, send_sequence: "{Control+Left}a{Control+Right}"}
+    - {when: has_menu, accept: Shift+B, send_sequence: "{Control+Left}b{Control+Right}"}
+    - {when: has_menu, accept: Shift+C, send_sequence: "{Control+Left}c{Control+Right}"}
+    - {when: has_menu, accept: Shift+D, send_sequence: "{Control+Left}d{Control+Right}"}
+    - {when: has_menu, accept: Shift+E, send_sequence: "{Control+Left}e{Control+Right}"}
+    - {when: has_menu, accept: Shift+F, send_sequence: "{Control+Left}f{Control+Right}"}
+    - {when: has_menu, accept: Shift+G, send_sequence: "{Control+Left}g{Control+Right}"}
+    - {when: has_menu, accept: Shift+H, send_sequence: "{Control+Left}h{Control+Right}"}
+    - {when: has_menu, accept: Shift+I, send_sequence: "{Control+Left}i{Control+Right}"}
+    - {when: has_menu, accept: Shift+J, send_sequence: "{Control+Left}j{Control+Right}"}
+    - {when: has_menu, accept: Shift+K, send_sequence: "{Control+Left}k{Control+Right}"}
+    - {when: has_menu, accept: Shift+L, send_sequence: "{Control+Left}l{Control+Right}"}
+    - {when: has_menu, accept: Shift+M, send_sequence: "{Control+Left}m{Control+Right}"}
+    - {when: has_menu, accept: Shift+N, send_sequence: "{Control+Left}n{Control+Right}"}
+    - {when: has_menu, accept: Shift+O, send_sequence: "{Control+Left}o{Control+Right}"}
+    - {when: has_menu, accept: Shift+P, send_sequence: "{Control+Left}p{Control+Right}"}
+    - {when: has_menu, accept: Shift+Q, send_sequence: "{Control+Left}q{Control+Right}"}
+    - {when: has_menu, accept: Shift+R, send_sequence: "{Control+Left}r{Control+Right}"}
+    - {when: has_menu, accept: Shift+S, send_sequence: "{Control+Left}s{Control+Right}"}
+    - {when: has_menu, accept: Shift+T, send_sequence: "{Control+Left}t{Control+Right}"}
+    - {when: has_menu, accept: Shift+U, send_sequence: "{Control+Left}u{Control+Right}"}
+    - {when: has_menu, accept: Shift+V, send_sequence: "{Control+Left}v{Control+Right}"}
+    - {when: has_menu, accept: Shift+W, send_sequence: "{Control+Left}w{Control+Right}"}
+    - {when: has_menu, accept: Shift+X, send_sequence: "{Control+Left}x{Control+Right}"}
+    - {when: has_menu, accept: Shift+Y, send_sequence: "{Control+Left}y{Control+Right}"}
+    - {when: has_menu, accept: Shift+Z, send_sequence: "{Control+Left}z{Control+Right}"}
+    - {when: has_menu, accept: Shift+BackSpace, send_sequence: "{Control+Left}{BackSpace}{Control+Right}"}
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "^`[a-z]*'?$"
+    punct: '^/([0-9]0?|[A-Za-z]+)$'
+
+__patch:
+  - moran.defaults.yaml:/patch?
+  - moran_patches.yaml:/fix_opencc_t2s?
+  - moran_sentence.custom.yaml:/patch?
