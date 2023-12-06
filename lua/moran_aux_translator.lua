@@ -45,12 +45,13 @@ function Module.init(env)
       aux_length = nil
    end
 
-   env.notifier = env.engine.context.select_notifier:connect(on_select_pre, 0)
-   env.notifier = env.engine.context.select_notifier:connect(on_select_post)
+   env.notifier_pre = env.engine.context.select_notifier:connect(on_select_pre, 0)
+   env.notifier_post = env.engine.context.select_notifier:connect(on_select_post)
 end
 
 function Module.fini(env)
-   env.notifier:disconnect()
+   env.notifier_pre:disconnect()
+   env.notifier_post:disconnect()
 end
 
 function Module.func(input, seg, env)
