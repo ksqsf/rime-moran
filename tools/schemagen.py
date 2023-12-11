@@ -25,7 +25,7 @@ import regex
 
 
 double_pinyin_choices = ['zrm', 'flypy']
-auxiliary_code_choices = ['zrm', 'hanxin']
+auxiliary_code_choices = ['zrm', 'hanxin', 'tiger']
 
 args = None
 auxiliary_table = defaultdict(list)
@@ -68,6 +68,8 @@ def to_auxiliary_codes(char):
                 auxiliary_table = read_txt_table('data/zrmdb.txt')
             case 'hanxin':
                 auxiliary_table = read_txt_table('data/hanxindb.txt')
+            case 'tiger':
+                auxiliary_table = read_txt_table('data/tigerdb.txt')
             case _:
                 raise ValueError('Unknown auxiliary code ' + args.auxiliary_code)
     return auxiliary_table[char]
@@ -104,7 +106,10 @@ def iter_char_codes(char, pinyin):
 
 def char_codes(char, pinyin):
     if 'compact' in args and args.compact:
-        return [next(iter_char_codes(char, pinyin))]
+        try:
+            return [next(iter_char_codes(char, pinyin))]
+        except StopIteration:
+            return []
     else:
         return list(iter_char_codes(char, pinyin))
 
@@ -193,8 +198,9 @@ def handle_gen_dict():
                 print(f'{output_word}\t{code}')
             else:
                 # 輔助碼與 output_word 一致, 詞頻由 word 決定
-                weight = pinyin_weight(word, pinyin)
-                weight = int(weight * float(args.freq_scale))
+                if not weight:
+                    weight = pinyin_weight(word, pinyin)
+                    weight = int(weight * float(args.freq_scale))
                 print(f'{output_word}\t{code}\t{weight}')
 
 
@@ -281,9 +287,9 @@ def handle_gen_fixed():
     for (word, pinyin, weight) in read_input_dict():
         if len(word) > 1:
             try:
-                # words.append((pinyin_weight(word, pinyin), word, encode_fixed_word(word, pinyin)))
-                for code in encode_fixed_word_sunshine_strategy(word, pinyin):
-                    words.append((pinyin_weight(word, pinyin), word, code))
+                words.append((pinyin_weight(word, pinyin), word, encode_fixed_word(word, pinyin)))
+                # for code in encode_fixed_word_sunshine_strategy(word, pinyin):
+                #     words.append((pinyin_weight(word, pinyin), word, code))
             except:
                 traceback.print_exc()
 
