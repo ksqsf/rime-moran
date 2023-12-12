@@ -932,6 +932,48 @@ preset_color_schemes:
     text_color: 0xFFFFFF
     hilited_corner_radius: 0
 
+  # https://gist.github.com/zsakvo/fff6e4859265d5d629439d5ccb553f8a
+  wechat:
+    name: '微信' # 配色取自微信键盘
+    author: zsakvo
+    back_color: 0xFFFFFF
+    border_height: 0
+    border_width: 8
+    candidate_format: '%c %@ '
+    comment_text_color: 0x999999
+    corner_radius: 5
+    hilited_corner_radius: 5
+    font_face: PingFangSC
+    font_point: 16
+    hilited_candidate_back_color: 0x75B100
+    hilited_candidate_text_color: 0xFFFFFF
+    horizontal: true
+    inline_preedit: true
+    label_font_point: 12
+    text_color: 0x424242
+
+  # https://gist.github.com/shlroland/78b3af88b993116c6f3e14b30cfefac0#file-yaml
+  wechat_dark:
+    name: '微信·暗' # 配色取自微信键盘
+    author: shlroland
+    back_color: 0x151515
+    border_color: 0x151515
+    border_height: 0
+    border_width: 8
+    candidate_format: '%c %@ '
+    comment_text_color: 0xAEAEAE
+    corner_radius: 5
+    hilited_corner_radius: 5
+    font_face: PingFangSC
+    font_point: 16
+    hilited_candidate_back_color: 0x75B100
+    hilited_candidate_text_color: 0xFFFFFF
+    horizontal: true
+    inline_preedit: true
+    label_font_point: 12
+    label_color: 0x777777
+    text_color: 0xBBBBBB
+
 
 
 app_options:
