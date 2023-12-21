@@ -79,7 +79,7 @@ speller:
   alphabet: abcdefghijklmnopqrstuvwxyz
   delimiter: " '"
   algebra:
-    - derive/^(\w*);(\w)(\w)$/$1/      # 構詞可以用 YY
+    - derive/^(.*);(\w)(\w)$/$1/      # 構詞可以用 YY
 
 ascii_composer:
   switch_key:

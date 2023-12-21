@@ -26,11 +26,11 @@ translator:
 speller:
   alphabet: abcdefghijklmnopqrstuvwxyz
   algebra:
-    - derive/^(\w)(\w);(\w)(\w)$/\1\2\3\4/
-    - derive/^(\w)(\w);(\w)(\w)$/\1\2`/
-    - derive/^(\w)(\w);(\w)(\w)$/\1\2``/
-    - derive/^(\w)(\w);(\w)(\w)$/\1\2\3`/
-    - derive/^(\w)(\w);(\w)(\w)$/\1\2`\4/
-    - derive/^(\w)(\w);(\w)(\w)$/``\3\4/
-    - derive/^(\w)(\w);(\w)(\w)$/``\3/
-    - derive/^(\w)(\w);(\w)(\w)$/```\4/
+    - derive/^(.)(.);(\w)(\w)$/\1\2\3\4/
+    - derive/^(.)(.);(\w)(\w)$/\1\2`/
+    - derive/^(.)(.);(\w)(\w)$/\1\2``/
+    - derive/^(.)(.);(\w)(\w)$/\1\2\3`/
+    - derive/^(.)(.);(\w)(\w)$/\1\2`\4/
+    - derive/^(.)(.);(\w)(\w)$/``\3\4/
+    - derive/^(.)(.);(\w)(\w)$/``\3/
+    - derive/^(.)(.);(\w)(\w)$/```\4/

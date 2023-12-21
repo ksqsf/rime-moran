@@ -79,10 +79,10 @@ speller:
   alphabet: abcdefghijklmnopqrstuvwxyz
   delimiter: " '"
   algebra:
-    - derive/^(\w*);(\w)(\w)$/$1$2$3o/ # 全碼 YYXXo
-    - abbrev/^(\w*);(\w)(\w)$/$1$2$3/  # 全碼 YYXX，優先級更低
-    - derive/^(\w*);(\w)(\w)$/$1$2/    # 構詞可以用 YYX
-    - derive/^(\w*);(\w)(\w)$/$1/      # 構詞可以用 YY
+    - derive/^(.*);(\w)(\w)$/$1$2$3o/ # 全碼 YYXXo
+    - abbrev/^(.*);(\w)(\w)$/$1$2$3/  # 全碼 YYXX，優先級更低
+    - derive/^(.*);(\w)(\w)$/$1$2/    # 構詞可以用 YYX
+    - derive/^(.*);(\w)(\w)$/$1/      # 構詞可以用 YY
     #- abbrev/^([a-z]).+$/$1/           # 首字母簡拼（※ 嚴重影響出字速度，在簡詞完善後可能關閉）
 
 ascii_composer:
