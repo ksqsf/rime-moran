@@ -6,7 +6,7 @@
 
 ---
 name: moran_fixed
-version: "20231129"
+version: "20231221"
 sort: by_weight
 columns:
   - text
@@ -37970,7 +37970,9 @@ Bilibili	bvj
 沒日沒夜	mrmy
 貌若潘安	mrpa
 美人胚子	mrpz
+默認情況下	mrq
 盲人騎瞎馬	mrqm
+默認情況下	mrqx
 茫然若失	mrru
 美人如玉	mrry
 茫然四顧	mrsg
@@ -37980,6 +37982,8 @@ Bilibili	bvj
 貌若天仙	mrtx
 茫然失措	mruc
 盲人說象	mrux
+默認值	mrv
+默認值	mrvi
 魔然整句	mrvj
 泯然衆人	mrvr
 漠然置之	mrvv
@@ -44011,6 +44015,7 @@ PC端	pcdr
 千金一擲	qjyv
 瓊漿玉液	qjyy
 情況	qk
+情況下	qkx
 輕口薄舌	qkbu
 旗開得勝	qkdu
 乾坤大挪移	qkdy
