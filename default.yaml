@@ -63,7 +63,7 @@ recognizer:
 ascii_composer:
   good_old_caps_lock: true
   switch_key:
-    Shift_L: inline_ascii
+    Shift_L: commit_code
     Shift_R: commit_text
     Control_L: noop
     Control_R: noop

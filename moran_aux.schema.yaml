@@ -81,10 +81,6 @@ speller:
   algebra:
     - derive/^(.*);(\w)(\w)$/$1/      # 構詞可以用 YY
 
-ascii_composer:
-  switch_key:
-    Shift_L: commit_code
-
 translator:
   dictionary: moran.extended
   prism: moran_aux

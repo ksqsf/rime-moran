@@ -61,10 +61,6 @@ speller:
   auto_select: true
   auto_clear: max_length # manual | auto | max_length
 
-ascii_composer:
-  switch_key:
-    Shift_L: commit_code
-
 translator:
   dictionary: moran_fixed
   db_class: tabledb
