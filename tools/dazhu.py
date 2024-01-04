@@ -41,7 +41,7 @@ class Table:
         elif len(word) == 3:
             return self.get_long_code(word[0])[0] + self.get_long_code(word[1])[0] + self.get_long_code(word[2])[:2]
         else:
-            return self.get_long_code(word[0])[0] + self.get_long_code(word[1])[0] + self.get_long_code(word[2])[0] + self.get_long_code(word[3])[0]
+            return self.get_long_code(word[0])[0] + self.get_long_code(word[1])[0] + self.get_long_code(word[2])[0] + self.get_long_code(word[-1])[0]
 
     def print_c2w(self, file):
         for code, words in self.c2w.items():
@@ -66,11 +66,11 @@ def main(args):
     # fixed table
     with open('../moran_fixed.dict.yaml', 'r') as f:
         for l in f:
-            matches = re.findall(r'^(\w+)	([a-z]+)$', l)
+            matches = re.findall(r'^(\w+)	([a-z]+)', l)
             if matches:
                 word, code = matches[0]
             else:
-                matches = re.findall(r'^\w\w\w$', l)
+                matches = re.findall(r'^\w+$', l)
                 if not matches: continue
                 word = matches[0]
                 code = None
