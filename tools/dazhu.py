@@ -21,15 +21,26 @@ class Table:
                 return code
         raise KeyError('%s 無長碼' % word)
 
-    def add(self, word, code):
+    def has_quick_code(self, word, code):
+        all_codes = self.w2c[word]
+        for c in all_codes:
+            if code.startswith(c):
+                return True
+        return False
+
+    def add(self, word, code, w=0):
         if not code:
             try:
                 code = self.encode(word)
             except KeyError as e:
                 print('# 無法編碼 %s : %s' % (word, str(e)))
                 return
+        if self.has_quick_code(word, code):
+            # print('讓全', word, code)
+            w = -1
         self.w2c[word].append(code)
-        self.c2w[code].append(word)
+        self.c2w[code].append((word, w))
+        self.c2w[code].sort(key=lambda pair: pair[1], reverse=True)
         # if len(word)== 3:
         #     print('added %s %s' % (word, code))
 
@@ -44,7 +55,8 @@ class Table:
             return self.get_long_code(word[0])[0] + self.get_long_code(word[1])[0] + self.get_long_code(word[2])[0] + self.get_long_code(word[-1])[0]
 
     def print_c2w(self, file):
-        for code, words in self.c2w.items():
+        for code, pairs in self.c2w.items():
+            words = [pair[0] for pair in pairs]
             print(code + '\t' + '\t'.join(words), file=file)
 
 
@@ -64,7 +76,7 @@ def main(args):
     global table
 
     # fixed table
-    with open('../moran_fixed.dict.yaml', 'r') as f:
+    with open(args.dict, 'r') as f:
         for l in f:
             matches = re.findall(r'^(\w+)	([a-z]+)', l)
             if matches:
@@ -80,10 +92,11 @@ def main(args):
     # additional chars
     with open('../moran.chars.dict.yaml', 'r') as f:
         for l in f:
-            matches = re.findall(r'(\w+)	([a-z]+;[a-z]+)', l)
+            matches = re.findall(r'(\w+)	([a-z]+;[a-z]+)	(\d+)', l)
             if not matches: continue
-            char, code = matches[0]
-            table.add(char, ''.join(code.split(';')) + 'o')
+            char, code, w = matches[0]
+            w = int(w)
+            table.add(char, ''.join(code.split(';')) + 'o', w)
 
     # liangfen
     with open('../zrlf.dict.yaml', 'r') as f:
@@ -107,6 +120,7 @@ def main(args):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
+    parser.add_argument('--dict', default='../moran_fixed.dict.yaml', help='簡碼碼表文件')
     parser.add_argument('--opencc', '-c',
                         default='moran_t2s.json',
                         help='轉換詞表（空表示不轉換）')
