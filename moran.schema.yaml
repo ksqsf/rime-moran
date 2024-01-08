@@ -75,6 +75,7 @@ engine:
   filters:
     - lua_filter@*moran_reorder_filter
     - lua_filter@*moran_aux_hint
+    - lua_filter@*moran_quick_code_hint
     - simplifier@emoji
     - charset_filter@gbk+emoji
     - charset_filter@big5+emoji
@@ -272,6 +273,7 @@ moran:  # 兜底默認值；以防用戶不提供任何值
   quick_code_indicator: "⚡️"
   enable_word_filter: false
   enable_aux_hint: false
+  enable_quick_code_hint: false
   ijrq:
     enable: true
     #defer: 5

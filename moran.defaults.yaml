@@ -60,8 +60,12 @@ patch:
       #defer: 5          # 延遲多少位？若不設置该项，則默認值是推遲到第二頁
       show_hint: true    # 若讓全，則提示簡碼打法
 
-    # 輔助碼提示
+    # 單字輔助碼提示
     enable_aux_hint: false
+
+    # 簡快碼提示（包括字和詞）
+    # 例如 輸入 yy te er 英特爾 會提示「⚡yte」
+    enable_quick_code_hint: false
 
 enable_language_model:
   grammar:
