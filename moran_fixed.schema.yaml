@@ -104,7 +104,7 @@ zkci:           # 造詞
   initial_quality: 10
 
 emoji:
-  opencc_config: emoji.json
+  opencc_config: moran_emoji.json
   option_name: emoji
   tips: all
 
