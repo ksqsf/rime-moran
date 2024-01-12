@@ -509,8 +509,8 @@ use_preset_vocabulary: false
 㘈	ni;ky	0	# auto
 㘈	yi;ky	0	# auto
 㘉	jx;kj	0	# auto
-㘊	xi;kv	0	# auto
-㘊	yi;kv	0	# auto
+㘊	xi;ky	0
+㘊	yi;ky	0
 㘋	xm;kx	0	# auto
 㘌	ju;kj	0	# auto
 㘍	ji;kg	0	# auto
@@ -54523,6 +54523,7 @@ use_preset_vocabulary: false
 𠚖	qu;kw	0
 𱍫	qu;aa	0
 𠒑	yr;xy	0
+𭅫	wj;ak	0
 
 #----------
 丆	pp;ap	0

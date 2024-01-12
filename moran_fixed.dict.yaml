@@ -2415,9 +2415,9 @@ AA制	aavi
 苞谷	bkgu
 寶貴	bkgv
 爆	bkh
-炮	bkhb
 煲	bkhb
 薄厚	bkhb
+炮	bkhb
 保皇	bkhd
 飽和	bkhe
 抱恨	bkhf
@@ -6852,7 +6852,7 @@ Bilibili	bvj
 存在主義	czvy
 操作系統	czxt
 的	d	10000
-道	d
+大	d
 打	da
 大	daa
 大礙	daai
@@ -11431,6 +11431,7 @@ Bilibili	bvj
 二連浩特	elht
 鄂倫春族	eliz
 二〇〇	elly
+餓了麼	elm
 俄羅斯	els
 俄羅斯族	elsz
 厄立特里亞	elty
@@ -14187,6 +14188,7 @@ Bilibili	bvj
 佛祖心中留	fzxl
 費縣	fzxm
 費心	fzxn
+犯罪嫌疑人	fzxr
 飛旋	fzxr
 飛雪	fzxt
 廢墟	fzxu
@@ -15293,6 +15295,7 @@ Bilibili	bvj
 高產作物	gizw
 幹	gj
 干	gja
+甘	gjaa
 國家安全部	gjab
 肝癌	gjai
 國家安全局	gjaj
@@ -15312,6 +15315,7 @@ Bilibili	bvj
 肝病	gjby
 乾杯	gjbz
 甘	gjc
+苷	gjcg
 國家測繪局	gjcj
 甘草	gjck
 幹才	gjcl
@@ -15813,6 +15817,7 @@ Bilibili	bvj
 告罪	gkzv
 高空作業	gkzy
 該	gl
+丐	gla
 賅	glb
 歸裏包堆	glbd
 丐幫	glbh
@@ -16980,6 +16985,7 @@ Bilibili	bvj
 古城	guig
 蛄	guig
 軱	guig
+轱	guig
 估產	guij
 鼓出	guiu
 鼓吹	guiv
@@ -21865,6 +21871,7 @@ Bilibili	bvj
 荖	iacl
 差錯	iaco
 苴	iacq
+茬	iacz
 剎	iad
 插兜	iadb
 差等	iadg
@@ -26878,6 +26885,7 @@ Bilibili	bvj
 剪輯	jmji
 鑑	jmjj
 帴	jmjj
+鐧	jmjj
 鑒	jmjl
 漸漸	jmjm
 淺淺	jmjm
@@ -32286,6 +32294,7 @@ Bilibili	bvj
 獠牙	lcya
 療養	lcyh
 燎原	lcyr
+尥	lcyu
 遼	lcz
 流竄作案	lcza
 料子	lczi
@@ -33107,6 +33116,7 @@ Bilibili	bvj
 俐	lirl
 儷	lirl
 俚	lirl
+傈	lirl
 利潤	lirp
 立絨	lirs
 例如	liru
@@ -36843,6 +36853,7 @@ Bilibili	bvj
 沒齒難忘	minw
 眯	mio
 瞇	miom
+脒	miom
 瞴	miow
 獼	miq
 名垂千古	miqg
@@ -38229,6 +38240,7 @@ Bilibili	bvj
 瞞上欺下	muqx
 牧人	murf
 木然	murj
+仫	murm
 慕容	murs
 母乳	muru
 妙手仁心	murx
@@ -39010,6 +39022,7 @@ Bilibili	bvj
 那年	nanm
 妠	nann
 拿捏	nanx
+肭	naon
 哪怕	napa
 那批	napi
 那篇	napm
@@ -44638,6 +44651,7 @@ PC端	pcdr
 麇	qpl
 羣聊	qplc
 前怕狼後怕虎	qplh
+羣裏	qpli
 羣力	qpli
 羣落	qplo
 羣名	qpmy
@@ -45383,6 +45397,7 @@ PC端	pcdr
 氣勢恢宏	quhh
 氣勢恢弘	quhh
 驅寒	quhj
+黢	quhj
 區號	quhk
 取貨	quho
 去火	quho
@@ -47877,6 +47892,7 @@ PC端	pcdr
 三寸之舌	scvu
 似曾相識燕歸來	scxl
 似曾相識	scxu
+三次元	scy
 速度	sd
 色膽包天	sdbt
 隨地大小便	sddb
@@ -65251,7 +65267,7 @@ WiFi	wifi
 鍌	xmjx
 幰	xmjx
 陷阱	xmjy
-啣	xmk
+咸	xmk
 顯卡	xmka
 現況	xmkd
 陷坑	xmkg
@@ -65261,6 +65277,7 @@ WiFi	wifi
 掀開	xmkl
 現款	xmkr
 閒空	xmks
+啣	xmkx
 唌	xmky
 嘕	xmky
 鹹	xml
@@ -65401,6 +65418,7 @@ WiFi	wifi
 邪門歪道	xmwd
 仙翁	xmwg
 先王	xmwh
+咸	xmwk
 嫌惡	xmwu
 纖維	xmwz
 縣委	xmwz
@@ -65449,6 +65467,7 @@ WiFi	wifi
 誸	xmyx
 諴	xmyx
 羬	xmyx
+酰	xmyx
 鮮	xmyy
 顯影	xmyy
 鱻	xmyy
@@ -71179,6 +71198,7 @@ WiFi	wifi
 運	ypz
 運走	ypzb
 一片澤國	ypzg
+右撇子	ypzi
 運載	ypzl
 有朋自遠方來	ypzl
 孕	ypzn
@@ -72595,6 +72615,7 @@ WiFi	wifi
 醫者父母心	yvfx
 羽狀複葉	yvfy
 預製構件	yvgj
+楊枝甘露	yvgl
 遠矚高瞻	yvgv
 一爭高下	yvgx
 宇宙洪荒	yvhh
@@ -74658,6 +74679,7 @@ WiFi	wifi
 做過	zogo
 做官	zogr
 做工	zogs
+左	zogu
 作古	zogu
 做鬼	zogv
 作怪	zogy
@@ -83010,6 +83032,8 @@ WiFi	wifi
 這麼菜
 這麼牛
 重災區
+餓了麼
+三次元
 
 # Some words for testing...
 博麗靈夢

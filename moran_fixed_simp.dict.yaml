@@ -21,6 +21,24 @@ encoder:
     - length_in_range: [4, 32]
       formula: "AaBaCaZa"
 ...
+巳	siaa
+一	yw
+解放军	jfj
+好好好	hhh
+凭什么	psm
+什么	sm
+围	wk 
+味	wkw
+亿	yirv
+依	yird 
+伊	yirp
+越来越	yl
+越来越	yly
+B站	bv
+Bilibili	bv
+C盘	cpj
+怎么样	zmy
+以下	yx
 氏	uipa
 模板	mobj
 直	viuq
@@ -32,9 +50,9 @@ ToDo	todo
 我觉得	
 不	bu
 事	ui
-中州韵	
-小狼豪	xlh
-小狼豪	
+中州韵	vvy
+小狼毫	xlh
+小狼毫	
 鼠须管	uxg
 鼠须管	
 尴	gjj
@@ -172,7 +190,6 @@ Bilibili	bvj
 缩写	sx
 色彩	sc
 索尼	sn
-宿命	sm
 打断	dd
 电脑	dn
 反馈	fk
@@ -262,7 +279,7 @@ Bilibili	bvj
 能	ng
 点	dm
 去	q
-小	x
+下	x
 小	xc
 可以	keyi
 她	ta
@@ -314,7 +331,7 @@ Bilibili	bvj
 所	so
 就是	jqui
 及	ji
-家	jwb
+家	jw
 做	zo
 机	jim
 您	nn
@@ -356,7 +373,7 @@ Bilibili	bvj
 啊	a
 哦哦	oo
 版	bjp
-该	gl
+该	gly
 有限公司	yxgs
 有限责任公司	yxgs
 发布	fabu
@@ -724,7 +741,6 @@ Bilibili	bvj
 酒店	jqdm
 山	uj
 一下	yixw
-以下	yixw
 一下午	
 帖子	txzi
 六	lq
@@ -766,15 +782,15 @@ Bilibili	bvj
 击	jia
 亟	jiaa
 击	jie
-击	jihu
 几乎	jihu
 几乎是	
 革	jihu
 嵇	jihu
-村	cp
+村	cpm
 一百	yibl
 小说	xcuo
-越	yt
+越	ytz
+越	ytw
 问	wf
 可是	keui
 瞌睡虫	
@@ -944,7 +960,7 @@ Bilibili	bvj
 责任	zerf
 便	bmr
 便	pmrg
-价	jw
+价	jwrj
 假	jwr
 伽	jwrj
 戛然	jwrj
@@ -1056,7 +1072,6 @@ Bilibili	bvj
 热门	remf
 自动	zids
 副	fu
-副	pid
 出售	iuub
 坐	zot
 作品	zopn
@@ -1229,7 +1244,7 @@ Bilibili	bvj
 说明	uomy
 人才	rfcl
 声	ugu
-榜	bhm
+榜	bhmp
 求购	qqgb
 今年	jnnm
 甚至	ufvi
@@ -1556,11 +1571,6 @@ Bilibili	bvj
 终点	vsdm
 三星	sjxy
 北	bza
-北	bzb
-北	bzh
-北	boa
-北	bob
-北	boh
 安	anb
 江苏	jdsu
 江苏省	
@@ -1820,7 +1830,6 @@ Bilibili	bvj
 客服	kefu
 克服	kefu
 造成	zkig
-久	jqd
 久	jqp
 江	jdd
 豇	jddg
@@ -1895,7 +1904,6 @@ Bilibili	bvj
 完美	wjmz
 宁波	nybo
 舞	wur
-舞	wux
 意义	yiyi
 颐	yiyi
 弋	yiyi
@@ -2124,7 +2132,7 @@ Bilibili	bvj
 忙	mh
 韩	hju
 韩	hjw
-酒	jqdy
+酒	jqd
 就等于	
 竟然	jyrj
 儆	jyrj
@@ -2700,7 +2708,7 @@ Bilibili	bvj
 嬴	yywf
 有缘无分	yywf
 性感	xygj
-折	uef
+折	uefj
 折	vef
 推	tvf
 互联网	
@@ -3067,8 +3075,6 @@ Bilibili	bvj
 神经	ufjy
 丁	dya
 丁	dyhu
-丁	vga
-丁	vgh
 表演	bcyj
 要是	ykui
 钥匙	ykui
@@ -3748,8 +3754,8 @@ Bilibili	bvj
 扩大	koda
 相同	xdts
 相通	xdts
+盖	glym
 盖	glm
-盖	gly
 篮球	ljqq
 人口	rfkb
 估计	guji
@@ -3779,7 +3785,6 @@ Bilibili	bvj
 栏目	ljmu
 地球	diqq
 住房	vufh
-怀	fux
 怀	hyx
 赢	yyb
 赢	yyw
@@ -4180,7 +4185,6 @@ Bilibili	bvj
 复	fur
 复	fuw
 通常	tsih
-杰	jxd
 杰	jxh
 杰	jxm
 类似	lzsi
@@ -4322,7 +4326,7 @@ Bilibili	bvj
 水晶	uvjy
 管道	grdk
 诊断	vfdr
-棒	bhmf
+棒	bhm
 投稿	tbgk
 允许	ypxu
 字体	ziti
@@ -4729,8 +4733,7 @@ Bilibili	bvj
 姓名	xymy
 厚	hbi
 图书馆	
-存	cpu
-存	cpz
+存	cp
 贾	gubx
 贾	gux
 贾	jwb
@@ -4759,7 +4762,7 @@ Bilibili	bvj
 江南	jdnj
 测量	celd
 泵	bhu
-泵	bg
+泵	bgu
 做法	zofa
 婚礼	hpli
 上述	uhuu
@@ -5324,10 +5327,6 @@ Bilibili	bvj
 肺	fzo
 肺	fzyg
 肺	fzyp
-肺	pzo
-肺	pzyg
-肺	pzyp
-胚	pzyp
 霈	pzyp
 醅	pzyp
 渴望	kewh
@@ -5365,7 +5364,7 @@ Bilibili	bvj
 均价	jpjw
 百科	blke
 武侠	wuxw
-悟	wuxw
+悟	wux
 无线网	
 忤	wuxw
 怃	wuxw
@@ -6271,7 +6270,7 @@ Bilibili	bvj
 不然	burj
 亲自	qnzi
 文档	wfdh
-洁	jxdj
+洁	jxd
 接单	jxdj
 匠心独具	jxdj
 湝	jxdj
@@ -6598,7 +6597,7 @@ Bilibili	bvj
 布局	buju
 侠	xwr
 框	kdm
-摄	uefn
+摄	uef
 原始	yrui
 差距	iaju
 融合	rshe
@@ -6675,7 +6674,7 @@ Bilibili	bvj
 设定	uedy
 曰	yta
 曰	yto
-月	yty
+月	yt
 昌	ihoo
 躺在	thzl
 回事	hvui
@@ -6914,8 +6913,7 @@ Bilibili	bvj
 狮子	uizi
 应急	yyji
 一言既出	yyji
-拔	bafb
-拔	bafy
+拔	baf
 发射	faue
 这张	vevh
 二十七	
@@ -7302,9 +7300,6 @@ Bilibili	bvj
 酏	yiyy
 裛	yiyy
 又臭又硬	yiyy
-乙	vea
-乙	vev
-乙	veyy
 麻	mag
 最早	zvzk
 脸色	lmse
@@ -7386,7 +7381,6 @@ Bilibili	bvj
 庸庸碌碌	yyll
 森	sf
 天真	tmvf
-爸	baf
 扒	bafb
 捌	bafb
 多彩	docl
@@ -9294,7 +9288,7 @@ Bilibili	bvj
 自家	zijw
 走上	zbuh
 蒸	vgc
-蒸	vgdv
+蒸	vgh
 正对	vgdv
 蒸	vghv
 机组	jizu
@@ -9877,10 +9871,8 @@ Bilibili	bvj
 睿	rvb
 睿	rvm
 睿	rvo
-卜	boad
-卜	boud
+卜	boa
 卜	bua
-卜	buud
 不爽	buud
 刚开始	
 更何况是	ghku
@@ -11914,7 +11906,6 @@ Bilibili	bvj
 眼球	yjqq
 最少	zvuk
 磅	bhup
-磅	bgu
 磅	phu
 包子	bkzi
 额头	eetb
@@ -12486,7 +12477,7 @@ Bilibili	bvj
 学年	xtnm
 对称	dvif
 所长	sovh
-覆	fuxf
+覆	fux
 馥	fuxf
 愎	fuxf
 怫	fuxf
@@ -12756,7 +12747,6 @@ Bilibili	bvj
 预备	yubz
 余额	yuee
 披	pif
-赫	iii
 赫	hei
 一品	yipn
 一趟	yith
@@ -12833,7 +12823,7 @@ Bilibili	bvj
 吃喝	iihe
 青云	qyyp
 酝酿	ypnd
-劈	pidb
+劈	pid
 批斗	pidb
 罴	pidb
 淠	pidb
@@ -14049,7 +14039,6 @@ Bilibili	bvj
 丹麦	djml
 喉咙	hbls
 年检	nmjm
-喀	kek
 后退	hbtv
 后腿	hbtv
 长短	ihdr
@@ -15017,7 +15006,6 @@ Bilibili	bvj
 这几年	
 眼下	yjxw
 卟	buk
-卟	jikb
 忌口	jikb
 不免	bumm
 不识庐山真面目	bumm
@@ -15982,7 +15970,7 @@ Bilibili	bvj
 青春期	
 蜻	qyiq
 自理	zili
-崩	bgup
+崩	bg
 不动产	
 不敌	budi
 腾飞	tgfz
@@ -16325,11 +16313,8 @@ Bilibili	bvj
 毛绒	mkrs
 强国	qdgo
 用具	ysju
-咳	hlkh
 嗐	hlkh
-咳	kakh
-咳	klk
-咳	kekh
+咳	kek
 嗑	kekh
 倦	jrr
 何在	hezl
@@ -16964,9 +16949,7 @@ Bilibili	bvj
 领地	lydi
 那件	najm
 站台	vjtl
-役	yiru
 佚	yiru
-昳	yiru
 藏品	chpn
 鳄鱼	eeyu
 反驳	fjbo
@@ -20974,10 +20957,10 @@ Bilibili	bvj
 烛光	vugd
 住址	vuvi
 眩晕	xryp
-矫	jcuq
+矫	jcu
 峤	jcuq
-礁	jcuj
 饺	jcuj
+礁	jcuj
 峧	jcuj
 侬	nsr
 湛	vjdu
@@ -22767,9 +22750,8 @@ Bilibili	bvj
 吟唱	ynih
 作客	zoke
 岱	dlu
-焙	bzhk
+焙	bzh
 备好	bzhk
-焙	bzhp
 焙	pzh
 病痛	byts
 大吼	dahb
@@ -23006,10 +22988,8 @@ Bilibili	bvj
 药性	ykxy
 窈	ykxy
 野战	yevj
-卉	bfcu
 不负此生	bfcu
-卉	bfu
-卉	hvc
+卉	hvcu
 卉	hvuc
 垒	lzst
 垣	hrt
@@ -23621,7 +23601,7 @@ Bilibili	bvj
 选民	xrmn
 隐忍	ynrf
 妒	dun
-胚	pzop
+胚	pzo
 胚	piop
 胚	piyp
 鲏	piyp
@@ -23827,9 +23807,9 @@ Bilibili	bvj
 致函	vihj
 绢	jrs
 歉	qmqj
-蕙	hvch
-荟	hvch
+蕙	hvc
 茴	hvch
+荟	hvch
 点菜	dmcl
 端倪	drni
 告一段落	gydl
@@ -38466,7 +38446,7 @@ Bilibili	bvj
 倌	grr
 旆	pzff
 旆	pzfj
-蚩	iiiu
+蚩	iii
 铑	lkj
 啾	jqkq
 啾	qqkq
@@ -81003,3 +80983,8 @@ Bilibili	bvj
 省	xyou
 蛤蜊	geli
 氏	uip
+为	w
+吧	b
+觉得	j
+朋友	p
+爸	baf
