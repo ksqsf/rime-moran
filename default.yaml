@@ -28,6 +28,7 @@ switcher:
     - full_shape
     - ascii_punct
     - simplification
+    - traditionalization
     - extended_charset
     - zh_hant
     - zh_hans

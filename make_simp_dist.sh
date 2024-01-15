@@ -81,6 +81,9 @@ for f in *.schema.yaml; do
     sedi 's/moran_t2s.json/s2t.json/' $f
 done
 
+# 替换 emoji 用字
+simplifyDict opencc/moran_emoji.txt
+
 cd ..
 
 # 打包
