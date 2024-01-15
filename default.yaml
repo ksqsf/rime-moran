@@ -32,6 +32,9 @@ switcher:
     - zh_hant
     - zh_hans
     - zh_hant_tw
+    - emoji
+    - inflexible
+    - unicode_comment
   fold_options: true
   abbreviate_options: true
   option_list_separator: '／'

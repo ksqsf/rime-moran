@@ -2,16 +2,12 @@ local Module = {}
 
 function Module.init(env)
    env.enable_quick_code_hint = env.engine.schema.config:get_bool("moran/enable_quick_code_hint")
-   log.error("moran_quick_code_hint: init " .. tostring(env.enable_quick_code_hint))
    if env.enable_quick_code_hint then
       -- The user might have changed it.
       local dict = env.engine.schema.config:get_string("fixed/dictionary")
-      log.error("moran_quick_code_hint: using dict" .. dict)
       env.quick_code_hint_reverse = ReverseLookup(dict)
-      log.error("moran_quick_code_hint: enabled")
    else
       env.quick_code_hint_reverse = nil
-      log.error("moran_quick_code_hint: disabled")
    end
 
    env.quick_code_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator")

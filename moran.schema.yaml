@@ -1,7 +1,7 @@
 schema:
   schema_id: moran
   name: 魔然
-  version: "20231125"
+  version: "20240115"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -27,14 +27,14 @@ switches:
     states: [ 漢字, 汉字 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
-  - options: [ utf8, gbk+emoji, big5+emoji ]
-    reset: 1
-    states: [ UTF-8, GBK, BIG5 ]
-  - name: flexible
-    states: [ 固詞, 動詞 ] # 「固詞」表示「固頂詞」
-    reset: 1
+  - options: [ gbk+emoji, utf8, big5+emoji ]
+    states: [ GBK, UTF-8, BIG5 ]
+  - name: inflexible
+    states: [ 動詞, 固詞 ] # 「固詞」表示「固頂詞」
+    # 默認情況下，輸入 4 碼時，會禁止碼表輸出（「動詞」模式）。
+    # 這是因爲碼表最大碼長爲 4，可能會產生較低頻的多字詞，覆蓋過用戶自造的常用詞語。
+    # 當固詞模式啓動後，輸入 4 碼時會優先輸出碼表中的二字詞，這些輸出帶有「⚡️」標記。
   - name: emoji
-    reset: 1
     states: [ 🈚, 🈶 ]
   - name: unicode_comment
     states: [ U關, U開 ]
@@ -91,11 +91,12 @@ speller:
   alphabet: abcdefghijklmnopqrstuvwxyz
   delimiter: " '"
   algebra:
-    - derive/^(.+);(\w)(\w)$/$1$2$3o/ # 全碼 YYXXo
-    - abbrev/^(.+);(\w)(\w)$/$1$2$3/  # 降低 YYXX 優先級
-    - derive/^(.+);(\w)(\w)$/$1$2/    # 構詞可以用 YYX
-    - derive/^(.+);(\w)(\w)$/$1/      # 構詞可以用 YY
-    #- abbrev/^([a-z]).+$/$1/           # 首字母簡拼（※ 嚴重影響出字速度，不建議開啓）
+    __patch:
+      - moran:/algebra/user_force_top?
+      - moran:/algebra/user_sentence_top?
+      - moran:/algebra/generate_code
+      - moran:/algebra/user_sentence_bottom?
+      - moran:/algebra/user_force_bottom?
 
 translator:    # 整句輸入模式設置，在 top_translator 中被調用
   dictionary: moran.extended
@@ -108,8 +109,8 @@ translator:    # 整句輸入模式設置，在 top_translator 中被調用
     - xform/([a-z][a-z][a-z][a-z])o/$1°/
 
 fixed:         # 固頂輸入模式設置，在 top_translator 中被調用
-  initial_quality: 100
   dictionary: moran_fixed
+  initial_quality: 100
   enable_completion: false
   enable_sentence: false
   enable_user_dict: false
@@ -145,6 +146,10 @@ japanese:
   encode_commit_history: false
   comment_format:
     - xform/.*//
+
+simplifier:
+  option_name: simplification
+  opencc_config: moran_t2s.json
 
 emoji:
   opencc_config: moran_emoji.json
@@ -224,40 +229,10 @@ punctuator:
 key_binder:
   import_preset: default
   bindings:
-    - {when: has_menu, accept: "Control+s", toggle: simplification}
-    - {when: has_menu, accept: "Control+u", toggle: unicode_comment}
-    - {when: has_menu, accept: "Control+q", toggle: emoji}  # q 表示表情，讓出 Ctrl+e
-    - {when: has_menu, accept: "Control+Shift+0", toggle: std_opencc}
-    #- {when: has_menu, accept: semicolon, send: "2"}   # 被 moran_semicolon_processor 替換
-    - {when: has_menu, accept: "Tab", send: "Control+Right"}
-    - {when: composing, accept: "Tab", send: "Control+Right"}
-    - {when: has_menu, accept: Shift+A, send_sequence: "{Control+Left}a{Control+Right}"}
-    - {when: has_menu, accept: Shift+B, send_sequence: "{Control+Left}b{Control+Right}"}
-    - {when: has_menu, accept: Shift+C, send_sequence: "{Control+Left}c{Control+Right}"}
-    - {when: has_menu, accept: Shift+D, send_sequence: "{Control+Left}d{Control+Right}"}
-    - {when: has_menu, accept: Shift+E, send_sequence: "{Control+Left}e{Control+Right}"}
-    - {when: has_menu, accept: Shift+F, send_sequence: "{Control+Left}f{Control+Right}"}
-    - {when: has_menu, accept: Shift+G, send_sequence: "{Control+Left}g{Control+Right}"}
-    - {when: has_menu, accept: Shift+H, send_sequence: "{Control+Left}h{Control+Right}"}
-    - {when: has_menu, accept: Shift+I, send_sequence: "{Control+Left}i{Control+Right}"}
-    - {when: has_menu, accept: Shift+J, send_sequence: "{Control+Left}j{Control+Right}"}
-    - {when: has_menu, accept: Shift+K, send_sequence: "{Control+Left}k{Control+Right}"}
-    - {when: has_menu, accept: Shift+L, send_sequence: "{Control+Left}l{Control+Right}"}
-    - {when: has_menu, accept: Shift+M, send_sequence: "{Control+Left}m{Control+Right}"}
-    - {when: has_menu, accept: Shift+N, send_sequence: "{Control+Left}n{Control+Right}"}
-    - {when: has_menu, accept: Shift+O, send_sequence: "{Control+Left}o{Control+Right}"}
-    - {when: has_menu, accept: Shift+P, send_sequence: "{Control+Left}p{Control+Right}"}
-    - {when: has_menu, accept: Shift+Q, send_sequence: "{Control+Left}q{Control+Right}"}
-    - {when: has_menu, accept: Shift+R, send_sequence: "{Control+Left}r{Control+Right}"}
-    - {when: has_menu, accept: Shift+S, send_sequence: "{Control+Left}s{Control+Right}"}
-    - {when: has_menu, accept: Shift+T, send_sequence: "{Control+Left}t{Control+Right}"}
-    - {when: has_menu, accept: Shift+U, send_sequence: "{Control+Left}u{Control+Right}"}
-    - {when: has_menu, accept: Shift+V, send_sequence: "{Control+Left}v{Control+Right}"}
-    - {when: has_menu, accept: Shift+W, send_sequence: "{Control+Left}w{Control+Right}"}
-    - {when: has_menu, accept: Shift+X, send_sequence: "{Control+Left}x{Control+Right}"}
-    - {when: has_menu, accept: Shift+Y, send_sequence: "{Control+Left}y{Control+Right}"}
-    - {when: has_menu, accept: Shift+Z, send_sequence: "{Control+Left}z{Control+Right}"}
-    - {when: has_menu, accept: Shift+BackSpace, send_sequence: "{Control+Left}{BackSpace}{Control+Right}"}
+    __patch:
+      - moran:/key_bindings/moran_capital_for_last_syllable
+      - moran:/key_bindings/moran_tab
+      - moran:/key_bindings/moran_switches
 
 recognizer:
   import_preset: default
@@ -269,19 +244,38 @@ recognizer:
     reverse_zrlf: "^olf[A-Za-z]*$"
     punct: '^/([0-9]0?|[A-Za-z]+)$'
 
-moran:  # 兜底默認值；以防用戶不提供任何值
+moran:
+  # 簡快碼提示符
+  # 修改爲 "" 可取消提示符
+  # 建議在熟悉簡碼後再取消
   quick_code_indicator: "⚡️"
+
+  # 詞輔功能
+  # 當輸入二字或三字詞時，允許末輸入篩選詞語。
+  # 例如輸入 lmjxz 可以篩選「連接」。
+  # 但是與字輔輸入方法不同，詞輔在生效後 *不能* 在句末繼續輸入形成整
+  # 句——這個功能僅用於「篩選」。因此，這個功能僅適合習慣於以詞語爲單
+  # 位輸入的用戶。
   enable_word_filter: false
-  enable_aux_hint: false
-  enable_quick_code_hint: false
+
+  # 「出簡讓全」相關設置
+  # 當一個字具有簡碼時，打其全碼（不論是 yyxx 還是 yyxxo）都會導致該
+  # 字讓出首位，而被推遲到後位。
   ijrq:
-    enable: true
-    #defer: 5
-    show_hint: false
-    suffix: 'o'
+    enable: true       # 是否啓用出簡讓全？
+    #defer: 5          # 延遲多少位？若不設置该项，則默認值是推遲到第二頁
+    show_hint: true    # 若讓全，則提示簡碼打法
 
-__patch:
-  - moran.defaults.yaml:/patch?
-  - moran_patches.yaml:/fix_opencc_t2s?
-  - moran.custom.yaml:/patch?
+  # 單字輔助碼提示
+  # 注：會顯示出所有可能的輔助碼
+  enable_aux_hint: false
 
+  # 簡快碼提示（包括字和詞）
+  # 例如 輸入 yy te er 英特爾 會提示「⚡yte」，即使用 yte 可以打出這個詞
+  enable_quick_code_hint: false
+
+# 默認啓用語言模型
+__include: moran:/octagram/enable_for_sentence
+# 若要禁用，在 custom 文件中寫入：
+# patch:
+#   __include: moran:/octagram/disable

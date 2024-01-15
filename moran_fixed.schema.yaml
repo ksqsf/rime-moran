@@ -1,7 +1,7 @@
 schema:
   schema_id: moran_fixed
   name: 魔然·字詞
-  version: "20231111"
+  version: "20240115"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -10,7 +10,6 @@ schema:
 
 switches:
   - name: ascii_mode
-    reset: 0
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
@@ -19,11 +18,9 @@ switches:
   - name: ascii_punct
     states: [ 。，, ．， ]
   - name: emoji
-    reset: 0
     states: [ 🈚, 🈶 ]
   - name: unicode_comment
-    reset: 0
-    states: [ U開, U關 ]
+    states: [ U關, U開 ]
 
 engine:
   processors:
@@ -60,6 +57,10 @@ speller:
   max_code_length: 4
   auto_select: true
   auto_clear: max_length # manual | auto | max_length
+  algebra:
+    __patch:
+      - moran:/algebra/user_force_top?
+      - moran:/algebra/user_force_bottom?
 
 translator:
   dictionary: moran_fixed
@@ -78,7 +79,7 @@ fixed:
   enable_completion: false
   enable_user_dict: true
   enable_encoder: true
-  encode_commit_history: false
+  encode_commit_history: false   # 是否開啓自動造詞
   initial_quality: 1000
 
 custom_phrase: # 自定義短語
@@ -103,6 +104,10 @@ zkci:           # 造詞
   tips: 〔造詞〕
   initial_quality: 10
 
+simplifier:
+  option_name: simplification
+  opencc_config: moran_t2s.json
+
 emoji:
   opencc_config: moran_emoji.json
   option_name: emoji
@@ -126,14 +131,12 @@ punctuator:
 key_binder:
   import_preset: default
   bindings:
-    - {when: composing, accept: "Control+s", toggle: simplification}
-    - {when: composing, accept: "Control+u", toggle: unicode_comment}
-    - {when: has_menu, accept: "Control+b", toggle: emoji}  # b 表示 表情, 让出 Ctrl+e
-    - {when: has_menu, accept: period, send: period}
-    - {when: has_menu, accept: semicolon, send: "2"}
-    - {when: has_menu, accept: apostrophe, send: "3"}
+    __patch:
+      - moran:/key_bindings/moran_switches
+      - moran:/key_bindings/moran_semicolon_for_2
 
-__patch:
-  - moran_fixed.defaults.yaml:/patch?
-  - moran_patches.yaml:/fix_opencc_t2s?
-  - moran_fixed.custom.yaml:/patch?
+# 默認不開啓語言模型
+# 在 moran_fixed.custom.yaml 中輸入如下內容以開啓
+#   patch:
+#     __include: moran:/octagram/enable_for_fixed
+# 輸入「水滿則」後繼續輸入 yidy 首選爲「溢」則說明已生效。

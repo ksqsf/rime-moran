@@ -55,18 +55,30 @@ sedi () {
 
 # 替換碼表
 echo 替換碼表...
-sedi 's|\&dict moran_fixed|\&dict moran_fixed_simp|' moran_fixed.defaults.yaml
-sedi 's|fixed/dictionary: moran_fixed|fixed/dictionary: moran_fixed_simp|' moran.defaults.yaml
+cat > moran_fixed.custom.yaml <<EOF
+patch:
+  translator/dictionary: &dict moran_fixed_simp
+  fixed/dictionary: *dict
+  zkci/dictionary: *dict
+EOF
+cat > moran.custom.yaml <<EOF
+patch:
+  fixed/dictionary: moran_fixed_simp
+EOF
 
 # 替换简体语法模型
 echo 替换简体语法模型...
 wget 'https://github.com/lotem/rime-octagram-data/raw/hans/zh-hans-t-essay-bgc.gram' -O zh-hans-t-essay-bgc.gram
 wget 'https://github.com/lotem/rime-octagram-data/raw/hans/zh-hans-t-essay-bgw.gram' -O zh-hans-t-essay-bgw.gram
 rm zh-hant-t-essay-bg{c,w}.gram
-for f in *.defaults.yaml 
-do
-    sedi 's/zh-hant-t-essay-bgw/zh-hans-t-essay-bgw/' $f
-    sedi 's/zh-hant-t-essay-bgc/zh-hans-t-essay-bgc/' $f
+sedi 's/zh-hant-t-essay-bgw/zh-hans-t-essay-bgw/' moran.yaml
+sedi 's/zh-hant-t-essay-bgc/zh-hans-t-essay-bgc/' moran.yaml
+
+# 替换 simplification 为 traditionalization
+for f in *.schema.yaml; do
+    sedi 's/simplification/traditionalization/' $f
+    sedi 's/漢字, 汉字/汉字, 漢字/' $f
+    sedi 's/moran_t2s.json/s2t.json/' $f
 done
 
 cd ..

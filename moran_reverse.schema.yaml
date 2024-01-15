@@ -25,7 +25,7 @@ translator:
 
 speller:
   alphabet: abcdefghijklmnopqrstuvwxyz
-  algebra:
+  my_algebra:
     - derive/^(.)(.);(\w)(\w)$/\1\2\3\4/
     - derive/^(.)(.);(\w)(\w)$/\1\2`/
     - derive/^(.)(.);(\w)(\w)$/\1\2``/
@@ -33,4 +33,10 @@ speller:
     - derive/^(.)(.);(\w)(\w)$/\1\2`\4/
     - derive/^(.)(.);(\w)(\w)$/``\3\4/
     - derive/^(.)(.);(\w)(\w)$/``\3/
-    - derive/^(.)(.);(\w)(\w)$/```\4/
+  algebra:
+    __patch:
+      - moran:/algebra/user_force_top?
+      - moran:/algebra/user_sentence_top?
+      - /speller/my_algebra
+      - moran:/algebra/user_sentence_bottom?
+      - moran:/algebra/user_force_bottom?

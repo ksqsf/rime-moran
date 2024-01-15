@@ -1,0 +1,51 @@
+# 該文件邏輯上屬於 moran.yaml，但由於 librime 的限制，只能單獨爲一個文件
+
+# 模糊音定義
+bufen:
+  z_zh:
+    __append:
+      - derive/^z/v/
+      - derive/^v/z/
+  c_ch:
+    __append:
+      - derive/^c/i/
+      - derive/^i/c/
+  s_sh:
+    __append:
+      - derive/^s/u/
+      - derive/^u/s/
+  n_l:
+    __append:
+      - derive/^n/l/
+      - derive/^l/n/
+  h_f:
+    __append:
+      - derive/^h/f/
+      - derive/^f/h/
+  in_ing:
+    __append:
+      - derive/n;/y/
+      - derive/y;/n/
+  en_eng:
+    __append:
+      - derive/f;/g/
+      - derive/g;/f/
+
+# 恢復老自然碼 jv qv xv 打法
+classic_zrm_jqx:
+  __append:
+    - derive/^ju/jv/
+    - derive/^qu/qv/
+    - derive/^xu/xv/
+
+# 19鍵鍵盤映射
+keyboard19:
+  __append:
+    - 'derive/[we]/1/'
+    - 'derive/[rt]/2/'
+    - 'derive/[op]/3/'
+    - 'derive/[fg]/4/'
+    - 'derive/[jk]/5/'
+    - 'derive/[xc]/6/'
+    - 'derive/[bn]/7/'
+

@@ -1,7 +1,7 @@
 schema:
   schema_id: moran_aux
   name: 魔然·輔篩
-  version: "20231206"
+  version: "20240115"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -14,29 +14,23 @@ schema:
 
 switches:
   - name: ascii_mode
-    reset: 0
     states: [ 中文, 西文 ]
   - name: full_shape
     states: [ 半角, 全角 ]
   - name: simplification
-    reset: 1
     states: [ 漢字, 汉字 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
-  - options: [ utf8, gbk+emoji, big5+emoji ]
-    reset: 0
+  - options: [ gbk+emoji, utf8, big5+emoji ]
     states:
     - UTF-8
     - GBK
     - BIG5
   - name: emoji
-    reset: 1
     states: [ 🈚, 🈶 ]
   - name: unicode_comment
-    reset: 0
-    states: [ U開, U關 ]
+    states: [ U關, U開 ]
   - name: dzing
-    reset: 0
     states: [ 通, 寍 ]
   - options: [ std_opencc,  std_tw, std_hk, std_dzing ]
     states: [ 通, 臺, 港, 寍 ]
@@ -78,8 +72,16 @@ engine:
 speller:
   alphabet: abcdefghijklmnopqrstuvwxyz
   delimiter: " '"
+  aux_algebra:
+    __append:
+      - derive/^(.*);(\w)(\w)$/$1/
   algebra:
-    - derive/^(.*);(\w)(\w)$/$1/      # 構詞可以用 YY
+    __patch:
+      - moran:/user_force_top?
+      - moran:/user_sentence_top?
+      - :/speller/aux_algebra
+      - moran:/user_sentence_bottom?
+      - moran:/user_force_bottom?
 
 translator:
   dictionary: moran.extended
@@ -107,6 +109,10 @@ japanese:
   enable_completion: false
   enable_sentence: false
   initial_quality: 1
+
+simplifier:
+  option_name: simplification
+  opencc_config: moran_t2s.json
 
 emoji:
   opencc_config: moran_emoji.json
@@ -139,39 +145,11 @@ punctuator:
 key_binder:
   import_preset: default
   bindings:
-    - {when: has_menu, accept: "Control+s", toggle: simplification}
-    - {when: has_menu, accept: "Control+q", toggle: emoji}  # q 表示 表情, 让出 Ctrl+e
-    - {when: has_menu, accept: "Control+Shift+0", toggle: std_opencc}
-    - {when: has_menu, accept: semicolon, send: "2"}
-    - {when: has_menu, accept: "Tab", send: "Control+Right"}
-    - {when: composing, accept: "Tab", send: "Control+Right"}
-    - {when: has_menu, accept: Shift+A, send_sequence: "{Control+Left}a{Control+Right}"}
-    - {when: has_menu, accept: Shift+B, send_sequence: "{Control+Left}b{Control+Right}"}
-    - {when: has_menu, accept: Shift+C, send_sequence: "{Control+Left}c{Control+Right}"}
-    - {when: has_menu, accept: Shift+D, send_sequence: "{Control+Left}d{Control+Right}"}
-    - {when: has_menu, accept: Shift+E, send_sequence: "{Control+Left}e{Control+Right}"}
-    - {when: has_menu, accept: Shift+F, send_sequence: "{Control+Left}f{Control+Right}"}
-    - {when: has_menu, accept: Shift+G, send_sequence: "{Control+Left}g{Control+Right}"}
-    - {when: has_menu, accept: Shift+H, send_sequence: "{Control+Left}h{Control+Right}"}
-    - {when: has_menu, accept: Shift+I, send_sequence: "{Control+Left}i{Control+Right}"}
-    - {when: has_menu, accept: Shift+J, send_sequence: "{Control+Left}j{Control+Right}"}
-    - {when: has_menu, accept: Shift+K, send_sequence: "{Control+Left}k{Control+Right}"}
-    - {when: has_menu, accept: Shift+L, send_sequence: "{Control+Left}l{Control+Right}"}
-    - {when: has_menu, accept: Shift+M, send_sequence: "{Control+Left}m{Control+Right}"}
-    - {when: has_menu, accept: Shift+N, send_sequence: "{Control+Left}n{Control+Right}"}
-    - {when: has_menu, accept: Shift+O, send_sequence: "{Control+Left}o{Control+Right}"}
-    - {when: has_menu, accept: Shift+P, send_sequence: "{Control+Left}p{Control+Right}"}
-    - {when: has_menu, accept: Shift+Q, send_sequence: "{Control+Left}q{Control+Right}"}
-    - {when: has_menu, accept: Shift+R, send_sequence: "{Control+Left}r{Control+Right}"}
-    - {when: has_menu, accept: Shift+S, send_sequence: "{Control+Left}s{Control+Right}"}
-    - {when: has_menu, accept: Shift+T, send_sequence: "{Control+Left}t{Control+Right}"}
-    - {when: has_menu, accept: Shift+U, send_sequence: "{Control+Left}u{Control+Right}"}
-    - {when: has_menu, accept: Shift+V, send_sequence: "{Control+Left}v{Control+Right}"}
-    - {when: has_menu, accept: Shift+W, send_sequence: "{Control+Left}w{Control+Right}"}
-    - {when: has_menu, accept: Shift+X, send_sequence: "{Control+Left}x{Control+Right}"}
-    - {when: has_menu, accept: Shift+Y, send_sequence: "{Control+Left}y{Control+Right}"}
-    - {when: has_menu, accept: Shift+Z, send_sequence: "{Control+Left}z{Control+Right}"}
-    - {when: has_menu, accept: Shift+BackSpace, send_sequence: "{Control+Left}{BackSpace}{Control+Right}"}
+    __patch:
+      - moran:/key_bindings/moran_switches
+      - moran:/key_bindings/moran_tab
+      - moran:/key_bindings/moran_capital_for_last_syllable
+      - moran:/key_bindings/moran_semicolon_for_2
 
 recognizer:
   import_preset: default
@@ -179,7 +157,5 @@ recognizer:
     reverse_lookup: "^`[a-z]*'?$"
     punct: '^/([0-9]0?|[A-Za-z]+)$'
 
-__patch:
-  - moran.defaults.yaml:/patch?
-  - moran_patches.yaml:/fix_opencc_t2s?
-  - moran_sentence.custom.yaml:/patch?
+# 默認啓用語言模型
+__include: moran:/octagram/enable_for_sentence
