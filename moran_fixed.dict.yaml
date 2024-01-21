@@ -6250,6 +6250,7 @@ Bilibili	bvj
 存戶	cphu
 存查	cpia
 存車	cpie
+寸長	cpih
 存儲	cpiu
 村級	cpji
 寸進	cpjn
@@ -6297,7 +6298,6 @@ Bilibili	bvj
 存摺	cpve
 村鎮	cpvf
 村長	cpvh
-寸長	cpvh
 存執	cpvi
 存照	cpvk
 村寨	cpvl
@@ -9632,6 +9632,7 @@ Bilibili	bvj
 多壞	dohy
 鬌	doi
 多差	doia
+多長	doih
 多喫	doii
 多產	doij
 多重	dois
@@ -9716,7 +9717,6 @@ Bilibili	bvj
 多數	douu
 舵	dov
 躲着	dove
-多長	dovh
 多汁	dovi
 貀	dovi
 奪佔	dovj
@@ -14315,6 +14315,7 @@ Bilibili	bvj
 蚼	gbi
 購車	gbie
 構成	gbig
+夠長	gbih
 夠喫	gbii
 功敗垂成	gbii
 高不成低不就	gbij
@@ -14396,7 +14397,6 @@ Bilibili	bvj
 簼	gbvg
 胳膊肘朝外拐	gbvg
 胳膊肘往外拐	gbvg
-夠長	gbvh
 購置	gbvi
 管鮑之交	gbvj
 笱	gbvj
@@ -14970,6 +14970,7 @@ Bilibili	bvj
 更差	ggia
 更醜	ggib
 公共場合	ggih
+更長	ggih
 公共場所	ggis
 耕畜	ggiu
 改革創新	ggix
@@ -15063,7 +15064,6 @@ Bilibili	bvj
 呱呱墜地	ggvd
 耕者	ggve
 更正	ggvg
-更長	ggvh
 更張	ggvh
 耿直	ggvi
 過關斬將	ggvj
@@ -18586,6 +18586,7 @@ Bilibili	bvj
 很差	hfia
 很醜	hfib
 很沉	hfif
+很長	hfih
 很遲	hfii
 很吵	hfik
 很衝	hfis
@@ -18652,7 +18653,6 @@ Bilibili	bvj
 很少	hfuk
 很熟	hfuu
 很帥	hfuy
-很長	hfvh
 狠招	hfvk
 很窄	hfvl
 後發制人	hfvr
@@ -18918,6 +18918,7 @@ Bilibili	bvj
 航	hhv
 杭州	hhvb
 赫赫之功	hhvg
+行長	hhvh
 航站	hhvj
 笐	hhvk
 黃河之水天上來	hhvl
@@ -18964,6 +18965,7 @@ Bilibili	bvj
 寒窗苦讀	hikd
 酣暢淋漓	hill
 好喫懶做	hilz
+寒蟬鳴泣	himq
 回春妙手	himu
 豁出去了	hiql
 貨暢其流	hiql
@@ -18984,6 +18986,7 @@ Bilibili	bvj
 合成橡膠	hixj
 合成纖維	hixw
 還差一點	hiyd
+很長一段時間	hiyj
 回嗔作喜	hizx
 汗	hj
 闔家安康	hjak
@@ -19330,6 +19333,7 @@ Bilibili	bvj
 好差	hkia
 好醜	hkib
 號稱	hkig
+好長	hkih
 好喫	hkii
 好處	hkiu
 橫空出世	hkiu
@@ -19439,7 +19443,6 @@ Bilibili	bvj
 貉	hkv
 豪壯	hkvd
 毫針	hkvf
-好長	hkvh
 好戰	hkvj
 號召	hkvk
 豪宅	hkvl
@@ -19560,6 +19563,7 @@ Bilibili	bvj
 合理化建議	hlhy
 還差	hlia
 海程	hlig
+還長	hlih
 海產	hlij
 海潮	hlik
 海船	hlir
@@ -19662,7 +19666,6 @@ Bilibili	bvj
 寒來暑往	hluw
 海蜇	hlve
 海震	hlvf
-還長	hlvh
 海戰	hlvj
 海中	hlvs
 虎狼之師	hlvu
@@ -21180,7 +21183,6 @@ Bilibili	bvj
 回事	hvui
 會師	hvui
 回刪	hvuj
-很長時間	hvuj
 毇	hvum
 會說	hvuo
 餯	hvut
@@ -21246,7 +21248,6 @@ Bilibili	bvj
 匯演	hvyj
 翬	hvyj
 諱言	hvyj
-很長一段時間	hvyj
 輝耀	hvyk
 誨	hvym
 迴音	hvyn
@@ -22068,6 +22069,7 @@ Bilibili	bvj
 掫	ibfq
 喘不過氣	ibgq
 持幣觀望	ibgw
+長臂管轄	ibgx
 稠	ibh
 酬和	ibhe
 仇恨	ibhf
@@ -22903,6 +22905,7 @@ Bilibili	bvj
 釵橫鬢亂	ihbl
 長波	ihbo
 厂部	ihbu
+長別	ihbx
 常備	ihbz
 菖	ihc
 長策	ihce
@@ -22913,6 +22916,7 @@ Bilibili	bvj
 春回大地	ihdd
 晨昏顛倒	ihdd
 常德	ihde
+長凳	ihdg
 長凳	ihdg
 傳呼電話	ihdh
 場地	ihdi
@@ -22933,8 +22937,10 @@ Bilibili	bvj
 廠	ihg
 唱歌	ihge
 長庚	ihgg
+長棍	ihgp
 場館	ihgr
 唱功	ihgs
+長骨	ihgu
 常規	ihgv
 場合	ihhe
 悵恨	ihhf
@@ -22956,9 +22962,11 @@ Bilibili	bvj
 長春	ihip
 超乎常人	ihir
 長川	ihir
+長串	ihir
 長蟲	ihis
 長處	ihiu
 常	ihj
+長腳	ihjc
 長江	ihjd
 娼妓	ihji
 長機	ihji
@@ -22994,6 +23002,7 @@ Bilibili	bvj
 喫喝拉撒	ihls
 長龍	ihls
 敞露	ihlu
+長嶺	ihly
 氅	ihm
 長門	ihmf
 閶	ihmi
@@ -23004,6 +23013,7 @@ Bilibili	bvj
 娼	ihn
 嫦	ihni
 常年	ihnm
+長寧	ihny
 場內	ihnz
 昌	iho
 腸	ihoy
@@ -23021,6 +23031,7 @@ Bilibili	bvj
 唱腔	ihqd
 瞠乎其後	ihqh
 長期	ihqi
+長裙	ihqp
 長拳	ihqr
 常去	ihqu
 廠區	ihqu
@@ -23048,6 +23059,7 @@ Bilibili	bvj
 暢通	ihts
 成何體統	ihtt
 長途	ihtu
+長腿	ihtv
 長亭	ihty
 暢	ihu
 長沙	ihua
@@ -23230,7 +23242,6 @@ Bilibili	bvj
 喫緊	iijn
 持久	iijq
 鍉	iiju
-長長見識	iiju
 持家	iijw
 持戒	iijx
 喫驚	iijy
@@ -24462,6 +24473,7 @@ Bilibili	bvj
 衝突	it
 醜態百出	itbi
 醜態畢露	itbl
+長痛不如短痛	itbt
 長途跋涉	itbu
 垂頭不語	itby
 稱體裁衣	itcy
@@ -24501,6 +24513,7 @@ Bilibili	bvj
 長生不老	iubl
 出殯	iubn
 初步	iubu
+長盛不衰	iubu
 出兵	iuby
 儲備	iubz
 成事不足	iubz
@@ -24971,6 +24984,7 @@ Bilibili	bvj
 重修舊好	ixjh
 串行計算機	ixjj
 處心積慮	ixjl
+長效機制	ixjv
 誠信經營	ixjy
 重新開始	ixku
 程序控制	ixkv
@@ -24983,6 +24997,7 @@ Bilibili	bvj
 椎心泣血	ixqx
 稱心如意	ixry
 垂涎三尺	ixsi
+長相廝守	ixsu
 抽象思維	ixsw
 喫相太難看	ixtk
 程序設計	ixuj
@@ -26872,6 +26887,7 @@ Bilibili	bvj
 簡稱	jmig
 建成	jmig
 建廠	jmih
+見長	jmih
 堅持	jmii
 減產	jmij
 兼差	jmil
@@ -27063,7 +27079,6 @@ Bilibili	bvj
 見證	jmvg
 近墨者黑	jmvh
 簡章	jmvh
-見長	jmvh
 簡直	jmvi
 兼職	jmvi
 艦	jmvj
@@ -36091,7 +36106,6 @@ Bilibili	bvj
 螞蚱	mava
 麻疹	mavf
 馬掌	mavh
-碼長	mavh
 瑪	maw
 碼文	mawf
 瓾	maww
@@ -37473,6 +37487,7 @@ Bilibili	bvj
 面陳	mmif
 滿面春風	mmif
 面呈	mmig
+綿長	mmih
 澠池	mmii
 漫漫長路	mmil
 蝒	mmim
@@ -37586,7 +37601,6 @@ Bilibili	bvj
 免稅	mmuv
 明目張膽	mmvd
 免徵	mmvg
-綿長	mmvh
 面值	mmvi
 棉織	mmvi
 面罩	mmvk
@@ -38534,6 +38548,7 @@ Bilibili	bvj
 明晨	myif
 名稱	myig
 鳴唱	myih
+命長	myih
 名產	myij
 明朝	myik
 明春	myip
@@ -38651,7 +38666,6 @@ Bilibili	bvj
 名狀	myvd
 名震	myvf
 明證	myvg
-命長	myvh
 名章	myvh
 明智	myvi
 明知	myvi
@@ -43865,6 +43879,7 @@ PC端	pcdr
 氣態	qitl
 七天	qitm
 氣田	qitm
+埼	qitq
 氣團	qitr
 氣筒	qits
 企圖	qitu
@@ -50188,6 +50203,7 @@ PC端	pcdr
 挺方便的	tfbd
 通風報信	tfbx
 天翻地覆	tfdf
+頭髮長見識短	tfid
 徒費脣舌	tfiu
 挑肥揀瘦	tfju
 聽風就是雨	tfjy
@@ -50197,7 +50213,6 @@ PC端	pcdr
 談鋒甚健	tfuj
 土法上馬	tfum
 聽風是雨	tfuy
-頭髮長見識短	tfvd
 天府之國	tfvg
 徒費心神	tfxu
 天賦異稟	tfyb
@@ -51163,6 +51178,7 @@ PC端	pcdr
 太差	tlia
 太醜	tlib
 檯秤	tlig
+太長	tlih
 太遲	tlii
 太吵	tlik
 擡出	tliu
@@ -51259,7 +51275,6 @@ PC端	pcdr
 箈	tlv
 台州	tlvb
 抬着	tlve
-太長	tlvh
 臺賬	tlvh
 臺長	tlvh
 屠龍之技	tlvj
@@ -51376,6 +51391,7 @@ PC端	pcdr
 天車	tmie
 天秤	tmig
 甜橙	tmig
+天長	tmih
 天池	tmii
 田產	tmij
 天朝	tmik
@@ -51491,7 +51507,6 @@ PC端	pcdr
 田莊	tmvd
 舔着	tmve
 天真	tmvf
-天長	tmvh
 添置	tmvi
 天命之年	tmvn
 天竺	tmvu
@@ -52144,6 +52159,7 @@ PC端	pcdr
 詷	tsyt
 鮦	tsyt
 同素異形體	tsyt
+同餘	tsyu
 通	tsz
 通則	tsze
 吐絲自縛	tszf
@@ -52895,6 +52911,7 @@ PC端	pcdr
 挺差	tyia
 停車	tyie
 聽成	tyig
+挺長	tyih
 停產	tyij
 聽差	tyil
 聽出	tyiu
@@ -53006,7 +53023,6 @@ PC端	pcdr
 聽診	tyvf
 聽證	tyvg
 廳長	tyvh
-挺長	tyvh
 停止	tyvi
 停戰	tyvj
 挺準	tyvp
@@ -55368,6 +55384,7 @@ PC端	pcdr
 山城	ujig
 擅長	ujih
 數據處理	ujil
+時間長了	ujil
 舌劍脣槍	ujiq
 山川	ujir
 刪除	ujiu
@@ -55457,10 +55474,10 @@ PC端	pcdr
 墠	ujtd
 山塘	ujth
 山體	ujti
+時久天長	ujti
 山桃	ujtk
 刪汰	ujtl
 閃退	ujtv
-時久天長	ujtv
 刪帖	ujtx
 數據通信	ujtx
 失節事大	ujud
@@ -55485,7 +55502,6 @@ PC端	pcdr
 世紀之交	ujvj
 生津止渴	ujvk
 山寨	ujvl
-時間長了	ujvl
 實踐證明	ujvm
 嗜痂之癖	ujvp
 山中	ujvs
@@ -57081,6 +57097,7 @@ PC端	pcdr
 稍有差池	uyii
 剩餘產品	uyip
 甩出	uyiu
+師夷長技以制夷	uyiy
 帥	uyj
 殺一儆百	uyjb
 摔跤	uyjc
@@ -57152,7 +57169,6 @@ PC端	pcdr
 甩站	uyvj
 善遊者溺	uyvn
 實用主義	uyvy
-師夷長技以制夷	uyvy
 率	uyw
 衰亡	uywh
 數以萬計	uywj
@@ -57355,7 +57371,6 @@ PC端	pcdr
 周公	vbgs
 張榜公示	vbgu
 轉不過彎	vbgw
-長臂管轄	vbgx
 準備活動	vbhd
 準備好了	vbhl
 州	vbi
@@ -57917,6 +57932,7 @@ PC端	pcdr
 爭風喫醋	vfic
 辴	vfid
 真誠	vfig
+真長	vfih
 振翅	vfii
 震顫	vfij
 轃	vfiq
@@ -58033,7 +58049,6 @@ PC端	pcdr
 陣陣	vfvf
 真正	vfvg
 鎮長	vfvh
-真長	vfvh
 真摯	vfvi
 診治	vfvi
 鎮宅	vfvl
@@ -58383,7 +58398,6 @@ PC端	pcdr
 這還不算	vhbs
 賬簿	vhbu
 瘴	vhbv
-長別	vhbx
 掌兵	vhby
 長輩	vhbz
 賬冊	vhce
@@ -58392,7 +58406,6 @@ PC端	pcdr
 長大	vhda
 長得	vhde
 掌燈	vhdg
-長凳	vhdg
 賬單	vhdj
 漲到	vhdk
 長點	vhdm
@@ -58410,10 +58423,8 @@ PC端	pcdr
 漲幅	vhfu
 張	vhg
 長高	vhgk
-長棍	vhgp
 掌管	vhgr
 掌故	vhgu
-長骨	vhgu
 掌櫃	vhgv
 張掛	vhgw
 掌摑	vhgy
@@ -58426,12 +58437,10 @@ PC端	pcdr
 章程	vhig
 張弛	vhii
 漲潮	vhik
-長串	vhir
 長出	vhiu
 掌廚	vhiu
 帳	vhj
 掌教	vhjc
-長腳	vhjc
 壯懷激烈	vhjl
 仗劍	vhjm
 長進	vhjn
@@ -58454,7 +58463,6 @@ PC端	pcdr
 照葫蘆畫瓢	vhlp
 忠厚老實	vhlu
 賬齡	vhly
-長嶺	vhly
 杖	vhm
 掌門	vhmf
 中華民國	vhmg
@@ -58468,7 +58476,6 @@ PC端	pcdr
 嫜	vhn
 樟腦	vhnk
 長女	vhnv
-長寧	vhny
 脹	vho
 彰	vhp
 帳篷	vhpg
@@ -58479,7 +58486,6 @@ PC端	pcdr
 瘴氣	vhqi
 直呼其名	vhqm
 長親	vhqn
-長裙	vhqp
 掌權	vhqr
 仗	vhr
 長肉	vhrb
@@ -58495,7 +58501,6 @@ PC端	pcdr
 長孫	vhsp
 賬套	vhtk
 脹痛	vhts
-長腿	vhtv
 張貼	vhtx
 漲停	vhty
 掌	vhu
@@ -60266,7 +60271,6 @@ PC端	pcdr
 狀態	vt
 珠胎暗結	vtaj
 遮天蔽日	vtbr
-長痛不如短痛	vtbt
 狀態參數	vtcu
 震天動地	vtdd
 戰天鬥地	vtdd
@@ -60302,7 +60306,6 @@ PC端	pcdr
 主播	vubo
 竹帛	vubo
 逐步	vubu
-長盛不衰	vubu
 疰	vubv
 知識爆炸	vubv
 駐兵	vuby
@@ -60937,7 +60940,6 @@ PC端	pcdr
 中型計算機	vxjj
 秩序井然	vxjr
 忠孝節悌	vxjt
-長效機制	vxjv
 忠孝節義	vxjy
 爭先恐後	vxkh
 轉向離合器	vxlq
@@ -60953,7 +60955,6 @@ PC端	pcdr
 中性染料	vxrl
 中心任務	vxrw
 這些日子	vxrz
-長相廝守	vxsu
 中心思想	vxsx
 哲學思想	vxsx
 重信守諾	vxun
@@ -64121,7 +64122,6 @@ WiFi	wifi
 下得廚房	xdif
 想成	xdig
 香腸	xdih
-鄉長	xdih
 相持	xdii
 香醇	xdip
 香椿	xdip
@@ -64281,6 +64281,7 @@ WiFi	wifi
 向着	xdve
 鄉鎮	xdvf
 象徵	xdvg
+鄉長	xdvh
 相知	xdvi
 巷戰	xdvj
 相對真理	xdvl
@@ -66081,6 +66082,7 @@ WiFi	wifi
 蠉	xrih
 選場	xrih
 蜁	xrip
+小人長慼慼	xriq
 宣傳	xrir
 選重	xris
 選出	xriu
@@ -66176,7 +66178,6 @@ WiFi	wifi
 小人之見	xrvj
 宣戰	xrvj
 血肉之軀	xrvq
-小人長慼慼	xrvq
 旋轉	xrvr
 選中	xrvs
 心如止水	xrvu
@@ -67706,7 +67707,6 @@ WiFi	wifi
 行者	xyve
 刑偵	xyvf
 行政	xyvg
-行長	xyvh
 性質	xyvi
 興致	xyvi
 行棧	xyvj
@@ -68774,10 +68774,10 @@ WiFi	wifi
 一分錢一分貨	yfqh
 一髮千鈞	yfqj
 亦復如是	yfru
+用非所長	yfsi
 有負所託	yfst
 嚴防死守	yfsu
 約法三章	yfsv
-用非所長	yfsv
 用非所學	yfsx
 有福同享	yftx
 義憤填膺	yfty
@@ -72651,7 +72651,7 @@ WiFi	wifi
 演職人員	yvry
 宇宙速度	yvsd
 銀裝素裹	yvsg
-一展所長	yvsv
+一展所長	yvsi
 一致通過	yvtg
 硬着頭皮	yvtp
 硬着頭皮上	yvtu
@@ -73986,6 +73986,7 @@ WiFi	wifi
 自籌	ziib
 自創	ziid
 自稱	ziig
+字長	ziih
 自持	ziii
 資產	ziij
 自嘲	ziik
@@ -74111,7 +74112,6 @@ WiFi	wifi
 笫	ziv
 資政	zivg
 滋長	zivh
-字長	zivh
 資質	zivi
 自找	zivk
 自傳	zivr
@@ -75318,6 +75318,7 @@ WiFi	wifi
 最差	zvia
 最醜	zvib
 再正常不過	zvig
+最長	zvih
 最遲	zvii
 嘴饞	zvij
 嘴脣	zvip
