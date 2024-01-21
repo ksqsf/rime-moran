@@ -26,13 +26,14 @@ translator:
 speller:
   alphabet: abcdefghijklmnopqrstuvwxyz
   my_algebra:
-    - derive/^(.)(.);(\w)(\w)$/\1\2\3\4/
-    - derive/^(.)(.);(\w)(\w)$/\1\2`/
-    - derive/^(.)(.);(\w)(\w)$/\1\2``/
-    - derive/^(.)(.);(\w)(\w)$/\1\2\3`/
-    - derive/^(.)(.);(\w)(\w)$/\1\2`\4/
-    - derive/^(.)(.);(\w)(\w)$/``\3\4/
-    - derive/^(.)(.);(\w)(\w)$/``\3/
+    __append:
+      - derive/^(.)(.);(\w)(\w)$/\1\2\3\4/
+      - derive/^(.)(.);(\w)(\w)$/\1\2`/
+      - derive/^(.)(.);(\w)(\w)$/\1\2``/
+      - derive/^(.)(.);(\w)(\w)$/\1\2\3`/
+      - derive/^(.)(.);(\w)(\w)$/\1\2`\4/
+      - derive/^(.)(.);(\w)(\w)$/``\3\4/
+      - derive/^(.)(.);(\w)(\w)$/``\3/
   algebra:
     __patch:
       - moran:/algebra/user_force_top?
