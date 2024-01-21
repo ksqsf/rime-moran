@@ -4,7 +4,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: pip3 install opencc pypinyin regex
+      - run: pip3 install -r tools/requirements.txt
       - run: sudo apt install opencc p7zip-full
       - run: ./make_simp_dist.sh github
       - uses: actions/upload-artifact@v3

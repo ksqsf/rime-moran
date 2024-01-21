@@ -12,7 +12,7 @@ cd dist
 # 更新单字字频
 echo 更新单字字频...
 cd tools
-python3 schemagen.py --pinyin-table=./data/pinyin_simp.txt  update-char-weight --rime-dict=../moran.chars.dict.yaml > ../moran.chars.dict.yaml.bak
+python3.12 schemagen.py --pinyin-table=./data/pinyin_simp.txt  update-char-weight --rime-dict=../moran.chars.dict.yaml > ../moran.chars.dict.yaml.bak
 mv ../moran.chars.dict.yaml{.bak,}
 cd ..
 
@@ -55,16 +55,8 @@ sedi () {
 
 # 替換碼表
 echo 替換碼表...
-cat > moran_fixed.custom.yaml <<EOF
-patch:
-  translator/dictionary: &dict moran_fixed_simp
-  fixed/dictionary: *dict
-  zkci/dictionary: *dict
-EOF
-cat > moran.custom.yaml <<EOF
-patch:
-  fixed/dictionary: moran_fixed_simp
-EOF
+sedi 's/dictionary: moran_fixed/dictionary: moran_fixed_simp/' moran_fixed.schema.yaml
+sedi 's/dictionary: moran_fixed/dictionary: moran_fixed_simp/' moran.schema.yaml 
 
 # 替换简体语法模型
 echo 替换简体语法模型...
@@ -101,11 +93,5 @@ rm -rf dist/.git
 cp 下载与安装说明.txt 更新纪要.txt dist
 sedi 's/MORAN_VARIANT/简体/' dist/下载与安装说明.txt
 
-if [ -x "$(command -v 7zz)" ]; then
-    ZIP7=7zz
-else
-    ZIP7=7z
-fi
-
-$ZIP7 a -tzip -mx=9 -r "MoranSimplified-$(date +%Y%m%d).7z" dist
+7z a -tzip -mx=9 -r "MoranSimplified-$(date +%Y%m%d).7z" dist
 rm -rf dist
