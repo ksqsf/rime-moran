@@ -1,5 +1,8 @@
 #!/bin/bash
 
+set -e
+set -x
+
 BUILD_TYPE="$1"
 
 rm -rf dist/
@@ -12,7 +15,7 @@ cd dist
 # 更新单字字频
 echo 更新单字字频...
 cd tools
-python3.12 schemagen.py --pinyin-table=./data/pinyin_simp.txt  update-char-weight --rime-dict=../moran.chars.dict.yaml > ../moran.chars.dict.yaml.bak
+python3 schemagen.py --pinyin-table=./data/pinyin_simp.txt  update-char-weight --rime-dict=../moran.chars.dict.yaml > ../moran.chars.dict.yaml.bak
 mv ../moran.chars.dict.yaml{.bak,}
 cd ..
 
