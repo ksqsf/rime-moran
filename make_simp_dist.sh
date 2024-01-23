@@ -78,6 +78,8 @@ done
 
 # 替换 emoji 用字
 simplifyDict opencc/moran_emoji.txt
+sort -k 1,1 -u opencc/moran_emoji.txt > /tmp/moran_emoji.txt
+mv /tmp/moran_emoji.txt opencc/moran_emoji.txt
 
 cd ..
 
