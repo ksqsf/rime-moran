@@ -92,7 +92,8 @@ if [ x$BUILD_TYPE = x"github" ]; then
 fi
 
 rm -rf dist/tools
-rm -rf dist/.git
+rm -rf dist/.git dist/.github dist/.gitignore
+rm -rf dist/make_simp_dist.sh
 cp 下载与安装说明.txt 更新纪要.txt dist
 sedi 's/MORAN_VARIANT/简体/' dist/下载与安装说明.txt
 

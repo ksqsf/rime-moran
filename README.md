@@ -32,6 +32,6 @@
 + 自然碼原始碼表：[rime-zrm](https://github.com/bigshans/rime-zrm)
 + 部分 Lua 腳本：[秃版虎碼 Rime 方案](https://tiger-code.com/)
 + 皮膚：[ssnhd/Rime](https://github.com/ssnhd/rime/)、[KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian/)、秃版虎码方案和零星收集等
-+ 其他詞庫：在詞庫文件中標出，特別感謝呂奉先優化製作的簡體優先詞庫
++ 其他詞庫：在詞庫文件中標出，特別感謝呂奉先、SunShine優化製作的簡體優先詞庫
 
 本方案的製作還得到了铁圈、䑝曻、蹄垫的幫助，在此表示感謝。
