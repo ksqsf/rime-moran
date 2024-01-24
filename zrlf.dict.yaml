@@ -9,6 +9,10 @@ name: "zrlf"
 version: "20230830+5.0"
 sort: original
 use_preset_vocabulary: false
+columns:
+  - text
+  - code
+  - comment
 ...
 
 一	hg
