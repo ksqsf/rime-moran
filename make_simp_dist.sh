@@ -70,7 +70,7 @@ sedi 's/zh-hant-t-essay-bgw/zh-hans-t-essay-bgw/' moran.yaml
 sedi 's/zh-hant-t-essay-bgc/zh-hans-t-essay-bgc/' moran.yaml
 
 # 替换 simplification 为 traditionalization
-for f in *.schema.yaml; do
+for f in *.schema.yaml moran.yaml ; do
     sedi 's/simplification/traditionalization/' $f
     sedi 's/漢字, 汉字/汉字, 漢字/' $f
     sedi 's/moran_t2s.json/s2t.json/' $f

@@ -2440,7 +2440,7 @@ use_preset_vocabulary: false
 㵕	uf;dc	0	# auto
 㵖	nv;dx	0	# auto
 㵗	py;uf	0	# auto
-㵘	mj;vv	0	# auto
+㵘	mj;uu	0
 㵝	yi;dy	0	# auto
 㵞	ib;di	0	# auto
 㵟	wz;dw	0	# auto
@@ -5795,7 +5795,8 @@ use_preset_vocabulary: false
 䥎	ip;ji	0	# auto
 䥏	yu;jy	0	# auto
 䥐	mb;jw	0	# auto
-䥑	wj;jm	0	# auto
+䥑	wj;jm	0
+䥑	ml;jm	0
 䥒	jd;jq	0	# auto
 䥓	qi;jj	0	# auto
 䥔	su;js	0	# auto
