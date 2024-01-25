@@ -67,7 +67,7 @@ use_preset_vocabulary: false
 一二中文部	yi;aa er;aa vs;aa wf;dd bu;ek
 一二粉絲俱樂部	yi;aa er;aa ff;mf si;ss ju;rj le;bm bu;ek
 一二號線篇	yi;aa er;aa hk;hh xm;sq pm;vb
-一二號線重置篇	yi;aa er;aa hk;hh xm;sq vs;pa vi;sv pm;vb
+一二號線重置篇	yi;aa er;aa hk;hh xm;sq is;pa vi;sv pm;vb
 一五一會	yi;aa wu;aa yi;aa hv;ro
 一井透	yi;aa jy;aa tb;zx
 一些	yi;aa xx;ec
@@ -523,7 +523,7 @@ use_preset_vocabulary: false
 一隻名叫痛苦的狗	yi;aa vi;vy my;xk jc;kj ts;by ku;cg de;bu gb;qj
 一隻大哈魚	yi;aa vi;vy da;ad ha;kh yu;dd
 一隻小飄飄	yi;aa vi;vy xc;ad pc;fp pc;fp
-一隻手無法完成吉他的彈奏	yi;aa vi;vy ub;pa wu;da fa;dq wj;by ig;gg ji;ku ta;ry de;bu dj;gd zb;ft
+一隻手無法完成吉他的彈奏	yi;aa vi;vy ub;pa wu;da fa;dq wj;by ig;gg ji;ku ta;ry de;bu tj;gd zb;ft
 一隻羊	yi;aa vi;vy yh;da
 一隻鈴鐺鐺	yi;aa vi;vy ly;jl dh;jd dh;jd
 一隻雛羽喵	yi;aa vi;vy iu;vc yu;xx mc;km
@@ -2457,7 +2457,7 @@ use_preset_vocabulary: false
 世界逆轉	ui;cv jx;tj ni;zn vr;iv
 世界還沒開始	ui;cv jx;tj hl;zh mz;du kl;mk ui;nt
 世界邊緣的拼圖	ui;cv jx;tj bm;zf yr;st de;bu pn;fb tu;kh
-世界重置	ui;cv jx;tj vs;pa vi;sv
+世界重置	ui;cv jx;tj is;pa vi;sv
 世界電子競技大賽	ui;cv jx;tj dm;yd zi;aa jy;jj ji;fv da;ad sl;bb
 世界電子遊戲名人堂	ui;cv jx;tj dm;yd zi;aa yb;zy xi;gd my;xk rf;pd th;tk
 世界革命的算法	ui;cv jx;tj ge;aa my;re de;bu sr;vc fa;dq
@@ -4638,7 +4638,7 @@ use_preset_vocabulary: false
 人生速通法	rf;pd ug;na su;zu ts;zy fa;dq
 人生遊戲	rf;pd ug;na yb;zy xi;gd
 人生重啓鍵	rf;pd ug;na is;pa qi;kw jm;jj
-人生重置鍵	rf;pd ug;na vs;pa vi;sv jm;jj
+人生重置鍵	rf;pd ug;na is;pa vi;sv jm;jj
 人生重開模擬器	rf;pd ug;na vs;pa kl;mk mo;mm ni;fy qi;kk
 人界	rf;pd jx;tj
 人皮啓示錄	rf;pd pi;ad qi;kw ui;ex lu;jl
@@ -9460,7 +9460,7 @@ use_preset_vocabulary: false
 兩世之間	ld;ar ui;cv vi;dd jm;mo
 兩人	ld;ar rf;pd
 兩人三足	ld;ar rf;pd sj;aa zu;kv
-兩人彈奏的音色	ld;ar rf;pd dj;gd zb;ft de;bu yn;lo se;db
+兩人彈奏的音色	ld;ar rf;pd tj;gd zb;ft de;bu yn;lo se;db
 兩人從這裏開始	ld;ar rf;pd cs;xv ve;zy li;dy kl;mk ui;nt
 兩人的戀愛書架	ld;ar rf;pd de;bu lm;xs ai;vw uu;oy jw;mj
 兩人的派對時光	ld;ar rf;pd de;bu pl;dp dv;ct ui;os gd;ea
@@ -17857,7 +17857,7 @@ use_preset_vocabulary: false
 單戀大作戰	dj;kd lm;xs da;ad zo;rv vj;gd
 單戀桑巴	dj;kd lm;xs sh;mr ba;ag
 單手打字	dj;kd ub;pa da;fd zi;bz
-單手拿着無法彈奏的吉他	dj;kd ub;pa na;uh ve;ym wu;da fa;dq dj;gd zb;ft de;bu ji;ku ta;ry
+單手拿着無法彈奏的吉他	dj;kd ub;pa na;uh ve;ym wu;da fa;dq tj;gd zb;ft de;bu ji;ku ta;ry
 單抽	dj;kd ib;fy
 單排輪玩家	dj;kd pl;ff lp;il wj;wy jw;bu
 單推	dj;kd tv;fv
@@ -27766,7 +27766,7 @@ use_preset_vocabulary: false
 害害	hl;bk hl;bk
 害怕	hl;bk pa;xb
 害怕相信	hl;bk pa;xb xd;mo xn;ry
-害怕高清重置	hl;bk pa;xb gk;dk qy;dq vs;pa vi;sv
+害怕高清重置	hl;bk pa;xb gk;dk qy;dq is;pa vi;sv
 害羞	hl;bk xq;yi
 害羞女友	hl;bk xq;yi nv;aa yb;uy
 害羞少女	hl;bk xq;yi uk;xp nv;aa
@@ -34518,7 +34518,7 @@ use_preset_vocabulary: false
 彈丸論破外傳	dj;gd wj;jd lp;yl po;up wl;xb vr;rv
 彈丸論破霧切	dj;gd wj;jd lp;yl po;up wu;yw qx;dq
 彈丸輪舞	dj;gd wj;jd lp;il wu;pa
-彈出式翻頁	dj;gd iu;ck ui;gy fj;yf ye;ab
+彈出式翻頁	tj;gd iu;ck ui;gy fj;yf ye;ab
 彈力手榴彈	tj;gd li;gp ub;pa lq;ml dj;gd
 彈劾凰	tj;gd he;lh hd;jh
 彈劾鳳	tj;gd he;lh fg;jn
@@ -39363,7 +39363,7 @@ use_preset_vocabulary: false
 戰火的殘餘	vj;gd ho;dd de;bu cj;dj yu;uy
 戰火盃	vj;gd ho;dd bz;bm
 戰火英雄	vj;gd ho;dd yy;cy xs;vh
-戰火英雄重置版	vj;gd ho;dd yy;cy xs;vh vs;pa vi;sv bj;pf
+戰火英雄重置版	vj;gd ho;dd yy;cy xs;vh is;pa vi;sv bj;pf
 戰火英雄重製版	vj;gd ho;dd yy;cy xs;vh vs;pa vi;yv bj;pf
 戰熊	vj;gd xs;dn
 戰爭	vj;gd vg;va
@@ -61478,7 +61478,7 @@ use_preset_vocabulary: false
 獨自一人的夜	du;qi zi;pa yi;aa rf;pd de;bu ye;dd
 獨自一人的庭院	du;qi zi;pa yi;aa rf;pd de;bu ty;gt yr;ew
 獨自一人與心之書	du;qi zi;pa yi;aa rf;pd yu;ba xn;dd vi;dd uu;oy
-獨自彈奏	du;qi zi;pa dj;gd zb;ft
+獨自彈奏	du;qi zi;pa tj;gd zb;ft
 獨自捉迷藏	du;qi zi;pa vo;fz mi;zm ch;cg
 獨自搖曳	du;qi zi;pa yk;ff ye;ap
 獨自旅行	du;qi zi;pa lv;fp xy;xd
@@ -85381,7 +85381,7 @@ use_preset_vocabulary: false
 貓郎樂園	mk;vm lh;el le;bm yr;ky
 貓郵社	mk;vm yb;ei ue;ut
 貓里奧	mk;vm li;aa ao;db
-貓重置	mk;vm vs;pa vi;sv
+貓重置	mk;vm is;pa vi;sv
 貓雷	mk;vm lz;yt
 貓靈相冊	mk;vm ly;wl xd;mo ce;aa
 貓面具	mk;vm mm;aa ju;ba
@@ -90220,7 +90220,7 @@ use_preset_vocabulary: false
 重組	is;pa zu;sq
 重組世界	is;pa zu;sq ui;cv jx;tj
 重編碼存活	vs;pa bm;sb ma;um cp;uz ho;du
-重置版	vs;pa vi;sv bj;pf
+重置版	is;pa vi;sv bj;pf
 重聚礦石鎮	is;pa ju;ed kd;ug ui;aa vf;jv
 重蘭德爾	vs;pa lj;cj de;xx er;ay
 重裝上陣	vs;pa vd;yv uh;aa vf;ei

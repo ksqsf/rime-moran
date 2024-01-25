@@ -75,12 +75,14 @@ def to_auxiliary_codes(char):
     return auxiliary_table[char]
 
 
-def initialize_pinyin_table():
+def initialize_pinyin_table(skip_no_pinyin=False):
     global pinyin_table
     with open(args.pinyin_table, 'r') as f:
         for line in f:
             [word, pinyin, freq] = line.strip().split('\t')
-            if not pinyin:
+            if not pinyin and skip_no_pinyin:
+                continue
+            elif not pinyin:
                 pinyin = word_to_pinyin(word)
             pinyin_table[word][pinyin] = int(freq)
 
@@ -450,6 +452,39 @@ def handle_update_char_weight():
                 print(f'{char}\t{code}\t{weight}{comment}')
 
 
+def handle_update_sp():
+    initialize_pinyin_table(skip_no_pinyin=True)
+    with open(args.rime_dict) as f:
+        for l in f:
+            l = l.strip()
+            m = regex.match(r'^(\p{Han}\p{Han}+)\t([a-z; ]+)(.*)$', l)
+            if not m:
+                print(l)
+                continue
+            word = m[1]
+            toreplace = False
+            for c in word:
+                if c in args.find:
+                    toreplace = True
+            if not toreplace:
+                print(l)
+                continue
+            word_code = m[2].split(' ')
+            rest = m[3]
+            if len(word) != len(word_code):
+                print(l)
+                continue
+            readings = list(pinyin_table[word].keys())
+            if len(readings) != 1:
+                print(l)
+                continue
+            real_reading = readings[0]
+            real_word_sp = to_double_pinyin(real_reading).split(' ')
+            word_aux = [ccode.split(';')[1] for ccode in word_code]
+            word_code = ' '.join([csp+';'+caux for (csp, caux) in zip(real_word_sp, word_aux)])
+            print(f'{word}	{word_code}{rest}')
+
+
 ###############
 ### 程序入口 ###
 ###############
@@ -490,6 +525,10 @@ update_compact_dict.add_argument('--rime-dict', help='輸入rime格式詞庫（�
 update_char_weight = subparsers.add_parser('update-char-weight', help='更新 chars 詞庫中的詞頻')
 update_char_weight.add_argument('--rime-dict', help='輸入rime格式詞庫', required=True)
 
+update_sp = subparsers.add_parser('update-sp', help='根據原始數據重新修改詞的註音')
+update_sp.add_argument('--rime-dict', help='輸入rime格式詞庫', required=True)
+update_sp.add_argument('--find', help='只更新含有這些字的詞', default='重長彈阿拗扒蚌薄堡暴辟扁屏剝伯藏禪車稱澄匙臭畜伺攢大單提得都度囤革給合更谷檜巷和虹會奇緝茄嚼僥腳校芥矜勁龜咀殼烙僂綠落脈埋蔓氓秘繆弄瘧娜迫胖稽栖趄色塞厦折說數縮委省削血殷軋')
+
 if __name__ == '__main__':
     args = parser.parse_args()
     if args.command == 'gen-chars':
@@ -502,3 +541,5 @@ if __name__ == '__main__':
         handle_update_compact_dict()
     elif args.command == 'update-char-weight':
         handle_update_char_weight()
+    elif args.command == 'update-sp':
+        handle_update_sp()
