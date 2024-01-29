@@ -11,6 +11,7 @@ sort: by_weight
 columns:
   - text
   - code
+  - stem
   - weight
   - comment
 encoder:
@@ -23,7 +24,7 @@ encoder:
       formula: "AaBaCaZa"
 ...
 
-啊	a
+啊	a	aaka
 啊	aa
 啊啊啊	aaa
 阿爸	aaba
@@ -759,7 +760,7 @@ AA制	aavi
 腌臢潑才	azpc
 暗自慶幸	azqx
 愛咋咋地	azzd
-不	b
+不	b	buad
 把	ba
 巴	baa
 犮	baad
@@ -3308,7 +3309,7 @@ AA制	aavi
 編纂	bmzr
 編組	bmzu
 不鳴則已	bmzy
-濱	bn
+賓	bn
 不能啊	bna
 賓	bnb
 不年不節	bnbj
@@ -3316,10 +3317,11 @@ AA制	aavi
 彬彬	bnbn
 百年不遇	bnby
 賓詞	bnci
-瀕	bnd
+濱	bnd
 殯	bndb
 汃	bndb
 百年大計	bndj
+瀕	bndp
 賓東	bnds
 邠	bne
 擯	bnf
@@ -4222,7 +4224,7 @@ AA制	aavi
 標準大氣壓	bvdy
 不戰而屈人之兵	bveb
 不戰而勝	bveu
-辯證法	bvf
+標識符	bvf
 變着法兒	bvfe
 不知凡幾	bvfj
 把這個	bvg
@@ -5086,7 +5088,7 @@ Bilibili	bvj
 杯子	bzzi
 碑座	bzzo
 備足	bzzu
-才	c
+才	c	clap
 擦	ca
 擦邊	cabm
 擦布	cabu
@@ -6923,8 +6925,7 @@ Bilibili	bvj
 慘遭屠戮	cztl
 存在主義	czvy
 操作系統	czxt
-的	d	10000
-大	d
+的	d	debu	10000
 打	da
 大	daa
 大礙	daai
@@ -11178,6 +11179,8 @@ Bilibili	bvj
 叮嚀	dyny
 盯	dyo
 鼎	dyoa
+腚	dyod
+鼎	dyod
 電影票	dyp
 釘耙	dypa
 訂票	dypc
@@ -11360,7 +11363,7 @@ Bilibili	bvj
 電子音樂	dzyy
 大動作	dzz
 刀子嘴豆腐心	dzzx
-二	e
+二	e	eraa
 恩愛夫妻	eafq
 而不	eb
 二把刀	ebd
@@ -11880,7 +11883,7 @@ Bilibili	bvj
 鱷魚眼淚	eyyl
 兒子	ez
 惡作劇	ezj
-非	f
+非	f	fzaa
 發	fa
 髮	fa
 发	faa
@@ -14411,7 +14414,7 @@ Bilibili	bvj
 肥皂	fzzk
 飛災	fzzl
 飛賊	fzzz
-個	g
+個	g	gerg
 感覺	g
 噶	ga
 嘎巴	gaba
@@ -18074,7 +18077,7 @@ Bilibili	bvj
 工作總結	gzzj
 故作姿態	gzzt
 給足	gzzu
-和	h
+和	h	hehk
 哈	ha
 哈達	hada
 哈佛	hafo
@@ -22157,7 +22160,7 @@ Bilibili	bvj
 黑字	hzzi
 黑子	hzzi
 黑棗	hzzk
-出	i
+出	i	iucc
 查	ia
 察	iab
 插拔	iaba
@@ -25433,7 +25436,7 @@ Bilibili	bvj
 赤子之心	izvx
 創造性	izx
 奼紫嫣紅	izyh
-就	j
+就	j	jqyj
 覺得	j
 驕傲	ja
 桀驁不馴	jabx
@@ -26677,8 +26680,9 @@ Bilibili	bvj
 幾圈	jiqr
 集權	jiqr
 汲取	jiqu
-惎	jiqx
 急切	jiqx
+惎	jiqx
+惎	jiqx
 激情	jiqy
 諅	jiqy
 伎	jir
@@ -26822,8 +26826,8 @@ Bilibili	bvj
 機芯	jixn
 集訓	jixp
 機修	jixq
-懠	jixq
 徛	jixq
+懠	jixq
 雞胸	jixs
 吉凶	jixs
 雞血	jixt
@@ -29702,6 +29706,7 @@ Bilibili	bvj
 妎	jxnj
 鶛	jxnj
 解難	jxnj
+近些年來	jxnl
 鯨吸牛飲	jxny
 界內	jxnz
 睫	jxo
@@ -30283,7 +30288,7 @@ Bilibili	bvj
 君子遠庖廚	jzyi
 近在眼前	jzyq
 君子一言	jzyy
-可	k
+可	k	kedk
 可以	k
 卡	ka
 喀吧	kaba
@@ -32388,7 +32393,7 @@ Bilibili	bvj
 摳字眼	kzy
 摳字眼兒	kzye
 看在眼裏	kzyl
-了	l
+了	l	leaa
 拉	la
 瘌	lab
 喇叭	laba
@@ -36429,12 +36434,12 @@ Bilibili	bvj
 儽	lzrl
 爛醉如泥	lzrn
 羸弱	lzro
-纍	lzs
+累	lzs
 類似	lzsi
 勒死	lzsi
 縲	lzsl
 絫	lzsl
-累	lzst
+纍	lzst
 壘	lzt
 肋條	lztc
 累癱	lztj
@@ -36477,7 +36482,7 @@ Bilibili	bvj
 亂糟糟的	lzzd
 雷子	lzzi
 嫘祖	lzzu
-沒	m
+沒	m	mzdu
 沒有	m
 嗎	ma
 馬	maa
@@ -37556,10 +37561,10 @@ Bilibili	bvj
 漫說	mjuo
 屘	mjuz
 沒記住	mjv
-漫展	mjvj
 滿洲	mjvb
 瞞着	mjve
 幔帳	mjvh
+漫展	mjvj
 滿桌	mjvo
 滿文	mjwf
 墨跡未乾	mjwg
@@ -39528,7 +39533,7 @@ Bilibili	bvj
 民族自決	mzzj
 民族自決權	mzzq
 民族自治	mzzv
-你	n
+你	n	nire
 那	na
 那本	nabf
 那幫	nabh
@@ -39913,7 +39918,6 @@ Bilibili	bvj
 怒火萬丈	nhwv
 那還用說	nhyu
 男孩子	nhz
-攮子	nhzi
 你	ni
 溺愛	niai
 泥巴	niba
@@ -41418,7 +41422,7 @@ Bilibili	bvj
 內在	nzzl
 內阻	nzzu
 念茲在茲	nzzz
-哦	o
+哦	o	ookw
 爾	oaa
 亟	oaaa
 鬲	oaaa
@@ -41592,7 +41596,7 @@ Bilibili	bvj
 嘔心瀝血	oxlx
 歐亞大陸	oydl
 偶一爲之	oywv
-平	p
+平	p	pygb
 怕	pa
 琶	pab
 葩	pac
@@ -43715,8 +43719,7 @@ PC端	pcdr
 配子	pzzi
 配載	pzzl
 賠罪	pzzv
-去	q
-其	q
+去	q	quts
 親愛	qa
 親愛的	qad
 乞哀告憐	qagl
@@ -46937,7 +46940,7 @@ PC端	pcdr
 擒賊先擒王	qzxw
 蜷作一團	qzyt
 千載一時	qzyu
-人	r
+人	r	rfpd
 熱愛	ra
 罖	ras
 肉	rb
@@ -48489,7 +48492,7 @@ PC端	pcdr
 日滋月益	rzyy
 榮宗耀祖	rzyz
 認賊作父	rzzf
-三	s
+三	s	sjaa
 撒	sa
 撒把	saba
 灑遍	sabm
@@ -50369,7 +50372,7 @@ PC端	pcdr
 三自一包	szyb
 嗓子眼兒	szye
 四則運算	szys
-他	t
+他	t	tary
 她	ta
 它	tab
 拓本	tabf
@@ -53895,7 +53898,7 @@ PC端	pcdr
 調嘴學舌	tzxu
 替罪羊	tzy
 投資銀行	tzyh
-是	u
+是	u	uiop
 啥	ua
 痧	uab
 沙壩	uaba
@@ -55357,6 +55360,7 @@ PC端	pcdr
 山河表裏	uhbl
 上邊	uhbm
 上賓	uhbn
+水火不容	uhbr
 水火不相容	uhbr
 上部	uhbu
 社會保障	uhbv
@@ -58103,8 +58107,8 @@ PC端	pcdr
 始作俑者	uzyv
 雙子葉植物	uzyw
 示蹤原子	uzyz
-這	v
-之	v
+這	v	vezy
+之	v	vidd
 渣	va
 治安案件	vaaj
 痄	vab
@@ -61416,7 +61420,6 @@ PC端	pcdr
 櫫	vumv
 櫧	vumv
 櫡	vumv
-掌上明珠	vumv
 誅滅	vumx
 柷	vumx
 竹篾	vumx
@@ -62063,8 +62066,8 @@ PC端	pcdr
 隻字未提	vzwt
 止增笑耳	vzxe
 種子選手	vzxu
-我	w
-爲	w
+我	w	wopd
+爲	w	wzvd
 挖	wa
 瓦	waa
 咼	waak
@@ -64642,8 +64645,8 @@ WiFi	wifi
 踓	wzzv
 逶	wzzw
 躗	wzzw
-小	x
-性	x
+小	x	xcad
+性	x	xyxu
 西安	xa
 西安交大	xajd
 笑傲江湖	xajh
@@ -68849,8 +68852,8 @@ WiFi	wifi
 仙姿玉貌	xzym
 現在在	xzz
 西藏自治區	xzzq
-一	y	100
-又	y
+一	y	yiaa	100
+又	y	ybad
 呀	ya
 牙	yaa
 亞	yaa
@@ -74513,7 +74516,7 @@ WiFi	wifi
 越走越遠	yzyy
 優哉遊哉	yzyz
 悠哉遊哉	yzyz
-在	z
+在	z	zlut
 自己	z
 咋	za
 咋辦	zabj
@@ -76833,6 +76836,7 @@ WiFi	wifi
 自作自受	zzzu
 自自在在	zzzz
 
+充電樁
 手機上
 快樂水
 這麼強
