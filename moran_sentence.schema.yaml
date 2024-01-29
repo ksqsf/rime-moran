@@ -53,7 +53,11 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - reverse_lookup_translator
+    - reverse_lookup_translator@reverse_universal
+    - reverse_lookup_translator@reverse_tiger
+    - reverse_lookup_translator@reverse_stroke
+    - reverse_lookup_translator@reverse_cangjie5
+    - reverse_lookup_translator@reverse_zrlf
     - table_translator@custom_phrase       # 自定義短語
     #- table_translator@english             # 英語混輸
     #- table_translator@japanese            # 日語混輸
@@ -129,12 +133,57 @@ std_dzing:
   option_name: std_dzing
   tips: all
 
-reverse_lookup:
+reverse_format:
+  comment_format:
+    - xform/(\w\w);(\w\w)/$1[$2]/
+  preedit_format:
+    - xform/^o(lf|bh|cj)//
+
+reverse_tiger:
+  tag: reverse_tiger
   dictionary: tiger
   enable_completion: true
   prefix: "`"
-  suffix: "'"
   tips: 〔虎碼〕
+  __include: reverse_format
+
+reverse_universal:
+  tag: reverse_universal
+  dictionary: moran.chars
+  tips: 〔通配〕
+  __include: reverse_format
+
+reverse_stroke:
+  tag: reverse_stroke
+  dictionary: stroke
+  prefix: "obh"
+  enable_completion: true
+  tips: 〔橫h豎s撇p捺n折z〕
+  __include: reverse_format
+
+reverse_cangjie5:
+  tag: reverse_cangjie5
+  dictionary: cangjie5
+  prefix: "ocj"
+  enable_completion: true
+  tips: 〔倉頡五代〕
+  __include: reverse_format
+
+reverse_zrlf:
+  tag: reverse_zrlf
+  dictionary: zrlf
+  prefix: "olf"
+  enable_completion: true
+  tips: 〔兩分〕
+  __include: reverse_format
+
+reverse_lookup:
+  extra_tags:
+    - reverse_tiger
+    - reverse_universal
+    - reverse_stroke
+    - reverse_cangjie5
+    - reverse_zrlf
 
 punctuator:
   import_preset: symbols
@@ -151,7 +200,11 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    reverse_lookup: "^`[a-z]*'?$"
+    reverse_universal: "(^(`[a-z`]+))|(^([a-z]{2}(`[a-z`]?|[a-z`]`)))"
+    reverse_tiger: "(^`$)|(^`[a-zA-Z]+$)"
+    reverse_stroke: "^obh[A-Za-z]*$"
+    reverse_cangjie5: "^ocj[A-Za-z]*$"
+    reverse_zrlf: "^olf[A-Za-z]*$"
     punct: '^/([0-9]0?|[A-Za-z]+)$'
 
 # 默認啓用語言模型

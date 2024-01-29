@@ -269,6 +269,7 @@ AA制	aavi
 哀痛	aits
 愛聽	aity
 矮	aiu
+砹	aiua
 礙手	aiub
 碍	aiuc
 磑	aiud
@@ -24760,7 +24761,7 @@ Bilibili	bvj
 重寫	isxx
 重寫	isxx
 寵幸	isxy
-衶	isy
+翀	isy
 蟲牙	isya
 衝壓	isya
 重遊	isyb
@@ -37436,7 +37437,7 @@ Bilibili	bvj
 迷	miz
 蜜棗	mizk
 迷醉	mizv
-慢	mj
+滿	mj
 漫筆	mjbi
 慢班	mjbj
 瞞報	mjbk
@@ -37445,13 +37446,12 @@ Bilibili	bvj
 滿倉	mjch
 慢詞	mjci
 蔓草	mjck
-滿	mjd
+漫	mjd
 沒精打采	mjdc
 慢的	mjde
 滿地	mjdi
 漫道	mjdk
 慢待	mjdl
-漫	mjdm
 慢點	mjdm
 滿點	mjdm
 摩加迪沙	mjdu
@@ -37556,6 +37556,7 @@ Bilibili	bvj
 漫說	mjuo
 屘	mjuz
 沒記住	mjv
+漫展	mjvj
 滿洲	mjvb
 瞞着	mjve
 幔帳	mjvh
@@ -38719,11 +38720,11 @@ Bilibili	bvj
 沒事就好	mujh
 母雞	muji
 募集	muji
-鉬	mujo
 鉧	mujm
 幙	mujm
 母艦	mujm
 木槿	mujn
+鉬	mujo
 募捐	mujr
 模具	muju
 墓碣	mujx
@@ -40636,6 +40637,7 @@ Bilibili	bvj
 泥菩薩過河	npsh
 你陪我	npw
 女朋友	npy
+男朋友	npy
 牛	nq
 紐埃	nqai
 牛扒	nqba
@@ -42163,6 +42165,7 @@ PC端	pcdr
 劈開	pikl
 疲睏	pikp
 痞塊	piky
+批處理	pil
 紕漏	pilb
 坯料	pilc
 批量	pild
@@ -43713,6 +43716,7 @@ PC端	pcdr
 配載	pzzl
 賠罪	pzzv
 去	q
+其	q
 親愛	qa
 親愛的	qad
 乞哀告憐	qagl
@@ -56295,7 +56299,9 @@ PC端	pcdr
 閃退	ujtv
 刪帖	ujtx
 數據通信	ujtx
-失節事大	ujud
+實際上	uju
+手機上	uju
+禪	ujud
 閃射	ujue
 山神	ujuf
 閃身	ujuf
@@ -56696,6 +56702,7 @@ PC端	pcdr
 聲名遠揚	umyy
 什麼樣子	umyz
 生米做成熟飯	umzf
+少年	un
 少女	un
 少年不努力	unbl
 少年不識愁滋味	unbw
@@ -61043,7 +61050,7 @@ PC端	pcdr
 種苗	vsmc
 指桑罵槐	vsmh
 蛛絲馬跡	vsmj
-中魔	vsmo
+終末	vsmo
 朝三暮四	vsms
 朝思暮想	vsmx
 中美	vsmz
@@ -61391,7 +61398,7 @@ PC端	pcdr
 誅戮	vulu
 豬苓	vuly
 燭淚	vulz
-柱	vum
+駐	vum
 苧麻	vuma
 主謀	vumb
 馵	vumc
@@ -61404,9 +61411,8 @@ PC端	pcdr
 豬毛	vumk
 朝生暮死	vums
 矚目	vumu
-駐	vumv
-柱	vumv
 株	vumv
+柱	vumv
 櫫	vumv
 櫧	vumv
 櫡	vumv
@@ -73184,7 +73190,7 @@ WiFi	wifi
 痏	yuby
 瘉	yuby
 預備	yubz
-尉	yuc
+芋	yuc
 薁	yuca
 預測	yuce
 一手策劃	yuch
@@ -73194,6 +73200,7 @@ WiFi	wifi
 育才	yucl
 漁村	yucp
 遠勝從前	yucq
+尉	yucu
 蘌	yucu
 蒮	yucv
 蔚	yucw
@@ -76825,8 +76832,8 @@ WiFi	wifi
 賊子	zzzi
 自作自受	zzzu
 自自在在	zzzz
-砹	aiua
 
+手機上
 快樂水
 這麼強
 愛不愛
@@ -84586,3 +84593,5 @@ WiFi	wifi
 向量	xlo
 味	wk		#跳過韻母
 圍	wkw		#跳過韻母
+凄	qidn		#取「女」
+沏	qidt		#qid + tea

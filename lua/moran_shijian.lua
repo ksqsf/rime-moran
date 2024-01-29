@@ -780,8 +780,8 @@ end
 
 -- ==================节气计算===================
 local jqB = { -- 节气表
-"春分", "清明", "谷雨", "立夏", "小满", "芒种", "夏至", "小暑", "大暑", "立秋", "处暑", "白露",
-"秋分", "寒露", "霜降", "立冬", "小雪", "大雪", "冬至", "小寒", "大寒", "立春", "雨水", "惊蛰"}
+"春分", "清明", "穀雨", "立夏", "小滿", "芒種", "夏至", "小暑", "大暑", "立秋", "處暑", "白露",
+"秋分", "寒露", "霜降", "立冬", "小雪", "大雪", "冬至", "小寒", "大寒", "立春", "雨水", "驚蟄"}
 
 function JQtest(y) -- 节气使计算范例,y是年分,这是个测试函数
   local i, q, s1, s2
@@ -1165,8 +1165,8 @@ end
 -- ====================以下是测试代码=============
 
 local jqB = { -- 节气表
-"立春", "雨水", "惊蛰", "春分", "清明", "谷雨", "立夏", "小满", "芒种", "夏至", "小暑", "大暑",
-"立秋", "处暑", "白露", "秋分", "寒露", "霜降", "立冬", "小雪", "大雪", "冬至", "小寒", "大寒"}
+"立春", "雨水", "驚蟄", "春分", "清明", "穀雨", "立夏", "小滿", "芒種", "夏至", "小暑", "大暑",
+"立秋", "處暑", "白露", "秋分", "寒露", "霜降", "立冬", "小雪", "大雪", "冬至", "小寒", "大寒"}
 -- 天干
 local tiangan = {'甲', '乙', '丙', '丁', '戊', '己', '庚', '辛', '壬', '癸'}
 
@@ -1203,7 +1203,7 @@ function lunarJzl(y)
   didx = x:getDayGanZhi()
   hidx = x:getHourGanZhi()
   GzData = get60JiaZiStr(yidx) .. '年' .. get60JiaZiStr(midx) .. '月' .. get60JiaZiStr(didx) .. '日' ..
-             get60JiaZiStr(hidx) .. '时'
+             get60JiaZiStr(hidx) .. '時'
   -- print('干支:'  .. GzData)
   return GzData
 end
@@ -1216,7 +1216,7 @@ end
 
 local function chinese_weekday(wday)
   wday_num = tonumber(wday) + 1
-  chinese_weekdays = {"周日", "周一", "周二", "周三", "周四", "周五", "周六"}
+  chinese_weekdays = {"週日", "週一", "週二", "週三", "週四", "週五", "週六"}
   return chinese_weekdays[wday_num]
 end
 local function chinese_weekday2(wday)
@@ -1243,9 +1243,9 @@ end
 
 local GetLunarSichen = function(time, t)
   local time = tonumber(time)
-  local LunarSichen = {"子时(夜半｜三更)", "丑时(鸡鸣｜四更)", "寅时(平旦｜五更)",
-                       "卯时(日出)", "辰时(食时)", "巳时(隅中)", "午时(日中)", "未时(日昳)",
-                       "申时(哺时)", "酉时(日入)", "戌时(黄昏｜一更)", "亥时(人定｜二更)"}
+  local LunarSichen = {"子時(夜半｜三更)", "丑時(雞鳴｜四更)", "寅時(平旦｜五更)",
+                       "卯時(日出)", "辰時(食時)", "巳時(隅中)", "午時(日中)", "未時(日昳)",
+                       "申時(哺時)", "酉時(日入)", "戌時(黄昏｜一更)", "亥時(人定｜二更)"}
   if tonumber(t) == 1 then
     sj = math.floor((time + 1) / 2) + 1
   elseif tonumber(t) == 0 then
@@ -1414,14 +1414,14 @@ function Date2LunarDate(Gregorian)
   -- 地支名称
   local cDiZhi = {"子", "丑", "寅", "卯", "辰", "巳", "午", "未", "申", "酉", "戌", "亥"}
   -- 属相名称
-  local cShuXiang = {"鼠", "牛", "虎", "兔", "龙", "蛇", "马", "羊", "猴", "鸡", "狗", "猪"}
+  local cShuXiang = {"鼠", "牛", "虎", "兔", "龍", "蛇", "馬", "羊", "猴", "雞", "狗", "豬"}
   -- 农历日期名
   local cDayName = {"初一", "初二", "初三", "初四", "初五", "初六", "初七", "初八", "初九", "初十",
                     "十一", "十二", "十三", "十四", "十五", "十六", "十七", "十八", "十九", "二十",
                     "廿一", "廿二", "廿三", "廿四", "廿五", "廿六", "廿七", "廿八", "廿九", "三十"}
   -- 农历月份名
   local cMonName = {"正月", "二月", "三月", "四月", "五月", "六月", "七月", "八月", "九月", "十月",
-                    "冬月", "腊月"}
+                    "冬月", "臘月"}
 
   -- 农历数据
   local wNongliData = {"AB500D2", "4BD0883", "4AE00DB", "A5700D0", "54D0581", "D2600D8", "D9500CC", "655147D",
@@ -1523,7 +1523,7 @@ function Date2LunarDate(Gregorian)
   end
   -- print(LYear .. "-" .. LMonth .. "-" .. LDay)
   if Isleap > 0 then
-    LunarMonth = "闰" .. cMonName[LMonth]
+    LunarMonth = "閏" .. cMonName[LMonth]
   else
     LunarMonth = cMonName[LMonth]
   end
@@ -1781,10 +1781,10 @@ local function QueryLunarInfo(date)
     DateTime = LunarDate2Date(str, 0)
     dateRQ = string.sub(str, 1, 4) .. "年" .. string.sub(str, 5, 6) .. "月" .. string.sub(str, 7, 8) .. "日"
     if LunarGz ~= nil then
-      result = {{dateRQ, "〔公历〕"}, {LunarDate, "〔公历⇉农历〕"}, {LunarGz, "〔公历⇉干支〕"}}
+      result = {{dateRQ, "〔公曆〕"}, {LunarDate, "〔公曆⇉農曆〕"}, {LunarGz, "〔公曆⇉干支〕"}}
       if tonumber(string.sub(str, 7, 8)) < 31 then
-        table.insert(result, {DateTime, "〔农历⇉公历〕"})
-        local leapDate = {LunarDate2Date(str, 1) .. "（闰）", "〔农历⇉公历〕"}
+        table.insert(result, {DateTime, "〔農曆⇉公曆〕"})
+        local leapDate = {LunarDate2Date(str, 1) .. "（閏）", "〔農曆⇉公曆〕"}
         if string.match(leapDate[1], "^(%d+)") ~= nil then
           table.insert(result, leapDate)
         end
@@ -1901,7 +1901,7 @@ local function translator(input, seg)
     -- 星期几 周几
   elseif (input == "oweek" or input == "oxq") then
     weekday = chinese_weekday(os.date("%w"))
-    num_weekday = os.date("第%W周")
+    num_weekday = os.date("第%W週")
     candidate = Candidate("xq", seg.start, seg._end, weekday, num_weekday)
     yield(candidate)
 

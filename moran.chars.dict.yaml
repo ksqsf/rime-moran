@@ -388,7 +388,8 @@ use_preset_vocabulary: false
 㖆	qu;kq	0	# auto
 㖇	er;ke	0	# auto
 㖊	xp;kx	0	# auto
-㖏	nx;kn	0	# auto
+㖏	nx;kn	0
+㖏	nx;kt	0
 㖐	wz;ly	0	# auto
 㖑	xx;kj	0	# auto
 㖒	ti;kd	0	# auto
@@ -54642,6 +54643,7 @@ use_preset_vocabulary: false
 	pp;yy	0
 兀	pp;wu	0
 𡭔	pp;xc	0
+䒑	pp;qm	0
 #----------
 
 # 其他增補
