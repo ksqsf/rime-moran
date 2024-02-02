@@ -1,13 +1,19 @@
 schema:
   schema_id: moran_bj
-  name: 魔然并击版
+  name: 魔然·並擊G
   version: "20240115"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
-    - 双拼并击方案 gaboolic
+    - 双拼并击方案：gaboolic
   description: |
-    双拼并击原理：把右手上左手没有的键，映射到左手，左手键映射到右手。让左手能控制23个声母，右手能控制24个韵母，并击字母表改为左手的字母在前，这样即可保证声母在前，并击不会乱序。例如皮，p在右手需要映射到左手，用qf，所以并击qf就出现p，并击qfi 就出现皮么，m在右手，e在左手，正好相反。需要并击ac出m 并击ji出e，并击acji出么。映射规则基本上就是镜像一下再加个字母，例如yuio镜像到左手分别是trew加上a，p是q加上f
+    双拼并击原理：把右手上左手没有的键，映射到左手，左手键映射到右手，使得让左手能控制23个声母，右手能控制24个韵母。
+    并击字母表改为左手的字母在前，这样即可保证声母在前，并击不会乱序。
+    例如皮，p在右手需要映射到左手qf，所以并击qf就出现p，并击qfi就出现pi。m在右手，e在左手，则正好相反，需要并击ac出m，并击ji出e，并击acji出me。
+
+    字母映射规则：左右对应镜像后再加个字母
+    - 右手字母映射到左手后通常额外加a，如j映射为af。特例：p→qf, m→av, n→ac。
+    - 左手字母映射到右手后通常额外加l或j，如d映射为kl，t映射为ul等。
   dependencies:
     - moran_fixed
     - moran_sentence
@@ -45,7 +51,7 @@ switches:
 engine:
   processors:
     - key_binder
-    - lua_processor@*moran_semicolon_processor
+    #- lua_processor@*moran_semicolon_processor
     - ascii_composer
     - chord_composer
     - recognizer
