@@ -24,12 +24,12 @@ bufen:
       - derive/^f/h/
   in_ing:
     __append:
-      - derive/n;/y/
-      - derive/y;/n/
+      - derive/n;/y;/
+      - derive/y;/n;/
   en_eng:
     __append:
-      - derive/f;/g/
-      - derive/g;/f/
+      - derive/f;/g;/
+      - derive/g;/f;/
 
 # 恢復老自然碼 jv qv xv 打法
 classic_zrm_jqx:
