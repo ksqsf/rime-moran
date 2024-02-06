@@ -5719,7 +5719,7 @@
 䲚 yl
 䲛 ym
 䲜 ss
-䲜 ww
+䲜 yy
 䲝 yc
 䲞 yl
 䲟 yy
@@ -11228,9 +11228,9 @@
 帛 bj
 帛 jb
 帜 jv
+帝 jb
 帝 wj
 帝 dj
-帝 jb
 帝 lj
 帞 jb
 帟 jy
@@ -28192,8 +28192,8 @@
 釉 by
 释 pf
 释 bf
-釋 bx
 釋 px
+釋 bx
 里 aa
 里 tt
 重 pa
@@ -42209,6 +42209,7 @@
 𨩶 jg
 𨩸 jx
 𨩽 jn
+𨪁 jy
 𨪄 jj
 𨪅 pm
 𨪈 jg

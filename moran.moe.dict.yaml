@@ -305,7 +305,7 @@ use_preset_vocabulary: false
 一條	yi;aa tc;rt
 一條同學	yi;aa tc;rt ts;kk xt;jz
 一條和矢	yi;aa tc;rt he;hk ui;pd
-一條寺帝歌	yi;aa tc;rt si;ct di;wj ge;qg
+一條寺帝歌	yi;aa tc;rt si;ct di;jb ge;qg
 一條小山城	yi;aa tc;rt xc;ad uj;aa ig;ti
 一條政宗	yi;aa tc;rt vg;wv zs;bu
 一條晴彥	yi;aa tc;rt qy;oq yj;pi
@@ -618,7 +618,7 @@ use_preset_vocabulary: false
 七十載	qi;ag ui;aa zl;gi
 七千兆億的天空	qi;ag qm;pa vk;ed yi;ry de;bu tm;ad ks;bg
 七千兆億的星空	qi;ag qm;pa vk;ed yi;ry de;bu xy;ou ks;bg
-七原帝子	qi;ag yr;ix di;wj zi;aa
+七原帝子	qi;ag yr;ix di;jb zi;aa
 七原罪	qi;ag yr;ix zv;sf
 七咔拉	qi;ag ka;kk la;fl
 七咲妮可爾	qi;ag xc;kg ni;nn ke;dk er;ay
@@ -1036,7 +1036,7 @@ use_preset_vocabulary: false
 三峽行舟調	sj;aa xw;uj xy;xd vb;pd dc;yv
 三崎一也	sj;aa qi;uq yi;aa ye;gg
 三川華月	sj;aa ir;pa hw;ca yt;oy
-三帝卡伊爾	sj;aa di;wj ka;bx yi;ry er;ay
+三帝卡伊爾	sj;aa di;jb ka;bx yi;ry er;ay
 三年動畫	sj;aa nm;pa ds;lv hw;ya
 三年起步最高死刑	sj;aa nm;pa qi;zj bu;vx zv;oq gk;dk si;db xy;dk
 三幻神	sj;aa hr;yg uf;uu
@@ -1182,7 +1182,7 @@ use_preset_vocabulary: false
 三爺	sj;aa ye;fy
 三片殘片	sj;aa pm;pa cj;dj pm;pa
 三片葉的三葉草	sj;aa pm;pa ye;cm de;bu sj;aa ye;cm ck;cz
-三王寺帝	sj;aa wh;aa si;ct di;wj
+三王寺帝	sj;aa wh;aa si;ct di;jb
 三玖	sj;aa jq;wj
 三珠真夜	sj;aa vu;wv vf;uj ye;wd
 三璃紗傳說	sj;aa li;wl ua;su ir;rv uo;yd
@@ -1487,9 +1487,9 @@ use_preset_vocabulary: false
 上川町人	uh;aa ir;pa ty;td rf;pd
 上川紗矢	uh;aa ir;pa ua;su ui;pd
 上巴	uh;aa ba;ag
-上帝之手	uh;aa di;wj vi;dd ub;pa
-上帝之杖	uh;aa di;wj vi;dd vh;mv
-上帝視角	uh;aa di;wj ui;ju jc;dy
+上帝之手	uh;aa di;jb vi;dd ub;pa
+上帝之杖	uh;aa di;jb vi;dd vh;mv
+上帝視角	uh;aa di;jb ui;ju jc;dy
 上師效應	uh;aa ui;vb xc;wj yy;gx
 上弦	uh;aa xm;gx
 上弦之月	uh;aa xm;gx vi;dd yt;oy
@@ -1700,7 +1700,7 @@ use_preset_vocabulary: false
 下線遁	xw;ab xm;sq dp;zd
 下落不明	xw;ab lo;cl bu;ad my;oo
 下跪吧你等愚民	xw;ab gv;zw ba;kb ni;re dg;vs yu;xy mn;ag
-下達裁決的女帝	xw;ab da;zy cl;gy jt;dd de;bu nv;aa di;wj
+下達裁決的女帝	xw;ab da;zy cl;gy jt;dd de;bu nv;aa di;jb
 下野紘	xw;ab ye;ly hs;sh
 下釜千昌	xw;ab fu;fa qm;pa ih;oo
 下降潮流	xw;ab jd;ef ik;di lq;di
@@ -2215,7 +2215,7 @@ use_preset_vocabulary: false
 不規則性熵	bu;ad gv;fj ze;db xy;xu uh;hu
 不覺得年長的物理系女孩子很可愛嗎	bu;ad jt;jb de;xc nm;pa vh;ad de;bu wu;nw li;wl xi;ps nv;aa hl;zh zi;aa hf;xg ke;dk ai;vw ma;km
 不覺曉	bu;ad jt;jb xc;oy
-不解釋	bu;ad jx;jn ui;bx
+不解釋	bu;ad jx;jn ui;px
 不解風情的空算計	bu;ad jx;jn fg;ji qy;xq de;bu ks;bg sr;vc ji;yu
 不許摸	bu;ad xu;yw mo;fm
 不許罵我爹	bu;ad xu;yw ma;sm wo;pd dx;fd
@@ -2467,7 +2467,7 @@ use_preset_vocabulary: false
 世紀之戰	ui;ca ji;sj vi;dd vj;gd
 世紀之花	ui;ca ji;sj vi;dd hw;ch
 世紀妖精	ui;ca ji;sj yk;ny jy;mq
-世紀帝國	ui;ca ji;sj di;wj go;kh
+世紀帝國	ui;ca ji;sj di;jb go;kh
 世紀末的夏天	ui;ca ji;sj mo;ad de;bu xw;wz tm;ad
 世紀末的魔術師	ui;ca ji;sj mo;ad de;bu mo;gm uu;xi ui;vb
 世紀末超自然學院	ui;ca ji;sj mo;ad ik;zv zi;pa rj;dq xt;jz yr;ew
@@ -2858,7 +2858,7 @@ use_preset_vocabulary: false
 中華少女	vs;aa hw;ca uk;xp nv;aa
 中華少女終	vs;aa hw;ca uk;xp nv;aa vs;sd
 中華最萌大賽	vs;aa hw;ca zv;oq mg;cm da;ad sl;bb
-中華毅力帝	vs;aa hw;ca yi;lu li;gp di;wj
+中華毅力帝	vs;aa hw;ca yi;lu li;gp di;jb
 中華燭火娘	vs;aa hw;ca vu;hi ho;dd nd;nl
 中華白海豚	vs;aa hw;ca bl;pa hl;dm tp;ou
 中華百味令	vs;aa hw;ca bl;ab wz;kw ly;rs
@@ -2986,7 +2986,7 @@ use_preset_vocabulary: false
 丹尼芬頓	dj;pd ni;ub ff;cf dp;yt
 丹布拉克摩亞	dj;pd bu;ju la;fl ke;eg mo;mu ya;aa
 丹希廚房	dj;pd xi;ju iu;gc fh;hf
-丹帝	dj;pd di;wj
+丹帝	dj;pd di;jb
 丹德萊	dj;pd de;xx ll;cl
 丹恆	dj;pd hg;xa
 丹朱	dj;pd vu;pw
@@ -3150,7 +3150,7 @@ use_preset_vocabulary: false
 久川響	jq;pd ir;pa xd;yx
 久川颯	jq;pd ir;pa sa;fl
 久希	jq;pd xi;ju
-久帝	jq;pd di;wj
+久帝	jq;pd di;jb
 久彌直樹	jq;pd mi;ge vi;aa uu;mc
 久徊	jq;pd hy;xh
 久慈川理世	jq;pd ci;xz ir;pa li;wl ui;ca
@@ -3224,7 +3224,7 @@ use_preset_vocabulary: false
 乖乖喵喵汪	gy;pb gy;pb mc;km mc;km wh;dw
 乖離劍	gy;pb li;vl jm;dq
 乖離型四季	gy;pb li;vl xy;tx si;aa ji;hz
-乖離型女帝則天	gy;pb li;vl xy;tx nv;aa di;wj ze;db tm;ad
+乖離型女帝則天	gy;pb li;vl xy;tx nv;aa di;jb ze;db tm;ad
 乖離性百萬亞瑟王	gy;pb li;vl xy;xu bl;ab wj;cy ya;aa se;wb wh;aa
 乘上天球	ig;pb uh;aa tm;ad qq;wq
 乘地鐵去吧	ig;pb di;ty tx;jg qu;ts ba;kb
@@ -3486,8 +3486,8 @@ use_preset_vocabulary: false
 乳頭和	ru;fg tb;dy he;hk
 乳頭被蚊子咬了	ru;fg tb;dy bz;yp wf;iw zi;aa yk;kj le;aa
 乳首兄弟	ru;fg ub;qz xs;ke di;bp
-乳龍帝	ru;fg ls;dg di;wj
-乳龍帝之歌	ru;fg ls;dg di;wj vi;dd ge;qg
+乳龍帝	ru;fg ls;dg di;jb
+乳龍帝之歌	ru;fg ls;dg di;jb vi;dd ge;qg
 乾了這碗恆河水	gj;qu le;aa ve;zy wj;uw hg;xa he;dk uv;ad
 乾坤煉	qm;qu kp;tu lm;hj
 乾坤袋	qm;qu kp;tu dl;yd
@@ -3871,7 +3871,7 @@ use_preset_vocabulary: false
 五島岬	wu;aa dk;nu jw;uj
 五島慎	wu;aa dk;nu uf;xv
 五島潤	wu;aa dk;nu rp;dr
-五帝龍	wu;aa di;wj ls;dg
+五帝龍	wu;aa di;jb ls;dg
 五座流星雨	wu;aa zo;gz lq;di xy;ou yu;ad
 五式試製	wu;aa ui;gy ui;yu vi;yv
 五彩呆鳥咩	wu;aa cl;pc dl;km nc;pd mx;ky
@@ -4076,7 +4076,7 @@ use_preset_vocabulary: false
 亞內文武	ya;aa nz;kr wf;dd wu;vy
 亞內武文	ya;aa nz;kr wu;vy wf;dd
 亞利亞波克天	ya;aa li;dh ya;aa bo;dp ke;eg tm;ad
-亞利加帝國	ya;aa li;dh jw;lk di;wj go;kh
+亞利加帝國	ya;aa li;dh jw;lk di;jb go;kh
 亞利希雅福雷斯萊特	ya;aa li;dh xi;ju ya;vy fu;uf lz;yt si;jq ll;cl te;ns
 亞利桑那	ya;aa li;dh sh;mr na;el
 亞北	ya;aa bz;ap
@@ -4156,7 +4156,7 @@ use_preset_vocabulary: false
 亞歷山大	ya;aa li;iv uj;aa da;ad
 亞歷山大仲馬	ya;aa li;iv uj;aa da;ad vs;rv ma;ad
 亞歷山大卡爾曼雷白克	ya;aa li;iv uj;aa da;ad ka;bx er;ay mj;oy lz;yt bl;pa ke;eg
-亞歷山大大帝	ya;aa li;iv uj;aa da;ad da;ad di;wj
+亞歷山大大帝	ya;aa li;iv uj;aa da;ad da;ad di;jb
 亞歷山大東征	ya;aa li;iv uj;aa da;ad ds;ad vg;xv
 亞歷山大格里戈羅維奇	ya;aa li;iv uj;aa da;ad ge;mg li;aa ge;ad lo;sv wz;sv qi;dk
 亞歷山大格雷漢姆貝爾	ya;aa li;iv uj;aa da;ad ge;mg lz;yt hj;dh mu;nm bz;ad er;ay
@@ -4300,7 +4300,7 @@ use_preset_vocabulary: false
 亞食人	ya;aa ui;pd rf;pd
 亞馬遜	ya;aa ma;ad xp;zs
 亞馬遜之裏	ya;aa ma;ad xp;zs vi;dd li;dy
-亞馬遜女帝	ya;aa ma;ad xp;zs nv;aa di;wj
+亞馬遜女帝	ya;aa ma;ad xp;zs nv;aa di;jb
 亞馬遜寵物虎獅子	ya;aa ma;ad xp;zs is;bl wu;nw hu;hj ui;qu zi;aa
 亞馬遜弩弓隊	ya;aa ma;ad xp;zs nu;gn gs;ag dv;eu
 亞馬遜球	ya;aa ma;ad xp;zs qq;wq
@@ -4498,7 +4498,7 @@ use_preset_vocabulary: false
 人偶學園	rf;pd ou;ry xt;jz yr;ky
 人偶小姐	rf;pd ou;ry xc;ad jx;nq
 人偶少女傳奇	rf;pd ou;ry uk;xp nv;aa ir;rv qi;dk
-人偶帝國	rf;pd ou;ry di;wj go;kh
+人偶帝國	rf;pd ou;ry di;jb go;kh
 人偶師	rf;pd ou;ry ui;vb
 人偶師得意之作	rf;pd ou;ry ui;vb de;xc yi;lx vi;dd zo;rv
 人偶師與碧綠	rf;pd ou;ry ui;vb yu;ba bi;ub lv;sl
@@ -5290,7 +5290,7 @@ use_preset_vocabulary: false
 伊克斯佛利亞	yi;ry ke;eg si;jq fu;rf li;dh ya;aa
 伊克斯艾麗莎貝塔	yi;ry ke;eg si;jq ai;ci li;ll ua;cu bz;ad ta;td
 伊內絲	yi;ry nz;kr si;ss
-伊凡雷帝	yi;ry fj;dj lz;yt di;wj
+伊凡雷帝	yi;ry fj;dj lz;yt di;jb
 伊利	yi;ry li;dh
 伊利丹	yi;ry li;dh dj;pd
 伊利丹怒風	yi;ry li;dh dj;pd nu;xn fg;ji
@@ -7628,7 +7628,7 @@ use_preset_vocabulary: false
 假面騎士夜騎	jw;rj mm;aa qi;mq ui;aa ye;wd qi;mq
 假面騎士大戰	jw;rj mm;aa qi;mq ui;aa da;ad vj;gd
 假面騎士大牙	jw;rj mm;aa qi;mq ui;aa da;ad ya;ap
-假面騎士天帝	jw;rj mm;aa qi;mq ui;aa tm;ad di;wj
+假面騎士天帝	jw;rj mm;aa qi;mq ui;aa tm;ad di;jb
 假面騎士天鬼	jw;rj mm;aa qi;mq ui;aa tm;ad gv;pd
 假面騎士奧丁	jw;rj mm;aa qi;mq ui;aa ao;db dy;aa
 假面騎士女武神	jw;rj mm;aa qi;mq ui;aa nv;aa wu;vy uf;uu
@@ -7641,7 +7641,7 @@ use_preset_vocabulary: false
 假面騎士巴爾坎	jw;rj mm;aa qi;mq ui;aa ba;ag er;ay kj;tq
 假面騎士巴隆	jw;rj mm;aa qi;mq ui;aa ba;ag ls;eu
 假面騎士帕拉德克斯	jw;rj mm;aa qi;mq ui;aa pa;jb la;fl de;xx ke;eg si;jq
-假面騎士帝騎	jw;rj mm;aa qi;mq ui;aa di;wj qi;mq
+假面騎士帝騎	jw;rj mm;aa qi;mq ui;aa di;jb qi;mq
 假面騎士平成世代	jw;rj mm;aa qi;mq ui;aa py;aa ig;gg ui;ca dl;ry
 假面騎士幻夢	jw;rj mm;aa qi;mq ui;aa hr;yg mg;cx
 假面騎士幽靈戰士	jw;rj mm;aa qi;mq ui;aa yb;uy ly;wl vj;gd ui;aa
@@ -7802,7 +7802,7 @@ use_preset_vocabulary: false
 健身菇	jm;rj uf;pp gu;cg
 健速	jm;rj su;zu
 健醬	jm;rj jd;yj
-健音帝	jm;rj yn;lo di;wj
+健音帝	jm;rj yn;lo di;jb
 側乳	ce;rz ru;fg
 側單馬尾	ce;rz dj;kd ma;ad yi;um
 側寫師	ce;rz xx;bd ui;vb
@@ -10142,7 +10142,7 @@ use_preset_vocabulary: false
 再生骰子	zl;aa ug;na tb;gu zi;aa
 再登黃鶴樓	zl;aa dg;dd hd;cb he;nv lb;ml
 再臨	zl;aa ln;ik
-再臨的帝王	zl;aa ln;ik de;bu di;wj wh;aa
+再臨的帝王	zl;aa ln;ik de;bu di;jb wh;aa
 再臨者	zl;aa ln;ik ve;lo
 再融合	zl;aa rs;ig he;rk
 再見	zl;aa jm;me
@@ -10475,7 +10475,7 @@ use_preset_vocabulary: false
 冰水卡組	by;du uv;ad ka;bx zu;sq
 冰水啼	by;du uv;ad ti;kd
 冰水大劍現	by;du uv;ad da;ad jm;dq xm;wj
-冰水帝	by;du uv;ad di;wj
+冰水帝	by;du uv;ad di;jb
 冰水底	by;du uv;ad di;gd
 冰水色	by;du uv;ad se;db
 冰汽時代	by;du qi;dq ui;os dl;ry
@@ -10548,7 +10548,7 @@ use_preset_vocabulary: false
 冰雪奇緣	by;du xt;yx qi;dk yr;st
 冰雪女王	by;du xt;yx nv;aa wh;aa
 冰雪娘	by;du xt;yx nd;nl
-冰雪帝國	by;du xt;yx di;wj go;kh
+冰雪帝國	by;du xt;yx di;jb go;kh
 冰雪悠悠球	by;du xt;yx yb;xw yb;xw qq;wq
 冰雪醬	by;du xt;yx jd;yj
 冰雪雪人	by;du xt;yx xt;yx rf;pd
@@ -10788,7 +10788,7 @@ use_preset_vocabulary: false
 凱拉克斯	kl;jd la;fl ke;eg si;jq
 凱拉梅茲	kl;jd la;fl mz;mm zi;cy
 凱撒	kl;jd sa;fs
-凱撒大帝	kl;jd sa;fs da;ad di;wj
+凱撒大帝	kl;jd sa;fs da;ad di;jb
 凱撒格蘭波爾加	kl;jd sa;fs ge;mg lj;cj bo;dp er;ay jw;lk
 凱撒沙拉	kl;jd sa;fs ua;du la;fl
 凱撒系統	kl;jd sa;fs xi;ps ts;si
@@ -11600,7 +11600,7 @@ use_preset_vocabulary: false
 前院草坪	qm;bd yr;ew ck;cz py;tp
 前面可是地獄啊	qm;bd mm;aa ke;dk ui;op di;ty yu;qq aa;ka
 前鬼	qm;bd gv;pd
-剎帝利	ua;du di;wj li;dh
+剎帝利	ua;du di;jb li;dh
 剎月華	ua;du yt;oy hw;ca
 剎那	ia;du na;el
 剎那之物主義	ia;du na;el vi;dd wu;nw vu;dw yi;yw
@@ -11932,8 +11932,8 @@ use_preset_vocabulary: false
 劍崎梨梨花	jm;dq qi;uq li;ml li;ml hw;ch
 劍崎真琴	jm;dq qi;uq vf;uj qn;wj
 劍巫之聖像騎士	jm;dq wu;gc vi;dd ug;ew xd;rx qi;mq ui;aa
-劍帝	jm;dq di;wj
-劍帝萊恩哈特	jm;dq di;wj ll;cl en;xy ha;kh te;ns
+劍帝	jm;dq di;jb
+劍帝萊恩哈特	jm;dq di;jb ll;cl en;xy ha;kh te;ns
 劍彌代	jm;dq mi;ge dl;ry
 劍影	jm;dq yy;pj
 劍御前	jm;dq yu;xx qm;bd
@@ -12960,7 +12960,7 @@ use_preset_vocabulary: false
 十元的科爾炭	ui;aa yr;aw de;bu ke;hd er;ay tj;uh
 十八歲的責任	ui;aa ba;pd sv;vx de;bu ze;bf rf;rr
 十八銅人陣	ui;aa ba;pd ts;jt rf;pd vf;ei
-十六代目猿帝都	ui;aa lq;wb dl;ry mu;aa yr;qy di;wj du;ev
+十六代目猿帝都	ui;aa lq;wb dl;ry mu;aa yr;qy di;jb du;ev
 十六夜	ui;aa lq;wb ye;wd
 十六夜亞紀	ui;aa lq;wb ye;wd ya;aa ji;sj
 十六夜咲夜	ui;aa lq;wb ye;wd xc;kg ye;wd
@@ -13486,7 +13486,7 @@ use_preset_vocabulary: false
 南北物語	nj;ua bz;ap wu;nw yu;yw
 南北組	nj;ua bz;ap zu;sq
 南十字星戀歌	nj;ua ui;aa zi;bz xy;ou lm;xs ge;qg
-南十字聖帝	nj;ua ui;aa zi;bz ug;ew di;wj
+南十字聖帝	nj;ua ui;aa zi;bz ug;ew di;jb
 南十字船隊	nj;ua ui;aa zi;bz ir;vk dv;eu
 南十字花	nj;ua ui;aa zi;bz hw;ch
 南千秋	nj;ua qm;pa qq;hh
@@ -13832,7 +13832,7 @@ use_preset_vocabulary: false
 卡拉斯奇	ka;bx la;fl si;jq qi;dk
 卡拉普特	ka;bx la;fl pu;ob te;ns
 卡拉比丘	ka;bx la;fl bi;bb qq;pa
-卡拉法爾大帝謠言	ka;bx la;fl fa;dq er;ay da;ad di;wj yk;yf yj;da
+卡拉法爾大帝謠言	ka;bx la;fl fa;dq er;ay da;ad di;jb yk;yf yj;da
 卡拉爾之月	ka;bx la;fl er;ay vi;dd yt;oy
 卡拉瓦喬	ka;bx la;fl wa;ad qc;yk
 卡拉肖克玲	ka;bx la;fl xc;ox ke;eg ly;wl
@@ -13886,7 +13886,7 @@ use_preset_vocabulary: false
 卡涅利安	ka;bx nx;dn li;dh an;bn
 卡爾	ka;bx er;ay
 卡爾卡松城堡	ka;bx er;ay ka;bx ss;mg ig;ti bk;tb
-卡爾大帝	ka;bx er;ay da;ad di;wj
+卡爾大帝	ka;bx er;ay da;ad di;jb
 卡爾帕喬	ka;bx er;ay pa;jb qc;yk
 卡爾弗蘭茲	ka;bx er;ay fu;aa lj;cj zi;cy
 卡爾斯魯厄	ka;bx er;ay si;jq lu;yo ee;ie
@@ -14359,7 +14359,7 @@ use_preset_vocabulary: false
 原惠一	yr;ix hv;hx yi;aa
 原愛紗實	yr;ix ai;vw ua;su ui;bg
 原數天地	yr;ix uu;wl tm;ad di;ty
-原數天帝	yr;ix uu;wl tm;ad di;wj
+原數天帝	yr;ix uu;wl tm;ad di;jb
 原數天靈	yr;ix uu;wl tm;ad ly;wl
 原數天靈原數天地	yr;ix uu;wl tm;ad ly;wl yr;ix uu;wl tm;ad di;ty
 原書原書使	yr;ix uu;oy yr;ix uu;oy ui;rl
@@ -14896,7 +14896,7 @@ use_preset_vocabulary: false
 古月方源	gu;uk yt;oy fh;dg yr;dy
 古朗基語	gu;uk lh;ol ji;tq yu;yw
 古木望	gu;uk mu;ad wh;wo
-古林博斯帝	gu;uk ln;mm bo;uc si;jq di;wj
+古林博斯帝	gu;uk ln;mm bo;uc si;jq di;jb
 古林蘭	gu;uk ln;mm lj;cj
 古椿	gu;uk ip;mi
 古槍頭巾	gu;uk qd;mc tb;dy jn;aa
@@ -15342,7 +15342,7 @@ use_preset_vocabulary: false
 史密斯婆婆	ui;ad mi;bu si;jq po;nb po;nb
 史密斯韋森三號手槍	ui;ad mi;bu si;jq wz;aa sf;ml sj;aa hk;hh ub;pa qd;mc
 史密斯韋森無擊錘手槍	ui;ad mi;bu si;jq wz;aa sf;ml wu;da ji;fu iv;ji ub;pa qd;mc
-史帝芬宇宙	ui;ad di;wj ff;cf yu;by vb;by
+史帝芬宇宙	ui;ad di;jb ff;cf yu;by vb;by
 史庫水	ui;ad ku;gi uv;ad
 史強	ui;ad qd;gi
 史德莉古爾	ui;ad de;xx li;cl gu;uk er;ay
@@ -15982,7 +15982,7 @@ use_preset_vocabulary: false
 名稱	my;xk ig;hr
 名胡桃城	my;xk hu;og tk;mv ig;ti
 名詞	my;xk ci;ys
-名詞解釋	my;xk ci;ys jx;jn ui;bx
+名詞解釋	my;xk ci;ys jx;jn ui;px
 名護啓介	my;xk hu;yh qi;kw jx;ra
 名鄉千惠子	my;xk xd;el qm;pa hv;hx zi;aa
 名雲桂一郎	my;xk yp;yy gv;mg yi;aa lh;el
@@ -16314,7 +16314,7 @@ use_preset_vocabulary: false
 吸血鬼同盟	xi;kj xt;pa gv;pd ts;kk mg;mm
 吸血鬼吸食者	xi;kj xt;pa gv;pd xi;kj ui;pd ve;lo
 吸血鬼女孩	xi;kj xt;pa gv;pd nv;aa hl;zh
-吸血鬼帝國	xi;kj xt;pa gv;pd di;wj go;kh
+吸血鬼帝國	xi;kj xt;pa gv;pd di;jb go;kh
 吸血鬼慾望	xi;kj xt;pa gv;pd yu;xy wh;wo
 吸血鬼渴求	xi;kj xt;pa gv;pd ke;dh qq;ad
 吸血鬼的支配	xi;kj xt;pa gv;pd de;bu vi;uy pz;yj
@@ -16509,7 +16509,7 @@ use_preset_vocabulary: false
 周瑜	vb;kj yu;wy
 周瑜打黃蓋	vb;kj yu;wy da;fd hd;cb gl;ch
 周白英	vb;kj bl;pa yy;cy
-周目	vb;kj mu;aa
+週目	vb;kj mu;aa
 周童	vb;kj ts;ll
 周筆暢	vb;kj bi;vy ih;uy
 周美靈	vb;kj mz;dy ly;wl
@@ -18416,7 +18416,7 @@ use_preset_vocabulary: false
 四格	si;aa ge;mg
 四格漫畫	si;aa ge;mg mj;dm hw;ya
 四條凜香	si;aa tc;rt ln;db xd;ho
-四條帝	si;aa tc;rt di;wj
+四條帝	si;aa tc;rt di;jb
 四條璃生奈	si;aa tc;rt li;wl ug;na nl;du
 四條真妃	si;aa tc;rt vf;uj fz;nj
 四條貴音	si;aa tc;rt gv;bg yn;lo
@@ -18592,7 +18592,7 @@ use_preset_vocabulary: false
 因垂絲汀	yn;kd iv;pa si;ss ty;dd
 因幡天爲	yn;kd fj;jf tm;ad wz;pd
 因幡巡	yn;kd fj;jf xp;zi
-因幡帝	yn;kd fj;jf di;wj
+因幡帝	yn;kd fj;jf di;jb
 因幡月夜	yn;kd fj;jf yt;oy ye;wd
 因幡的白兔	yn;kd fj;jf de;bu bl;pa tu;dd
 因幡輝夜姬	yn;kd fj;jf hv;gj ye;wd ji;ni
@@ -19671,13 +19671,13 @@ use_preset_vocabulary: false
 型月	xy;tx yt;oy
 型月世界	xy;tx yt;oy ui;ca jx;tj
 型月學園	xy;tx yt;oy xt;jz yr;ky
-型月帝國	xy;tx yt;oy di;wj go;kh
+型月帝國	xy;tx yt;oy di;jb go;kh
 型月愚人節企劃	xy;tx yt;oy yu;xy rf;pd jx;vj qi;rv hw;dh
 型月梗	xy;tx yt;oy gg;mg
 型月重工	xy;tx yt;oy vs;pa gs;aa
 型月魔眼	xy;tx yt;oy mo;gm yj;og
 垢嘗	gb;th ih;dv
-垣根帝督	yr;tg gf;mg di;wj du;ou
+垣根帝督	yr;tg gf;mg di;jb du;ou
 埃伊娜祖爾	ai;tu yi;ry na;nn zu;uq er;ay
 埃克塞特	ai;tu ke;eg sl;tb te;ns
 埃克斯	ai;tu ke;eg si;jq
@@ -19774,7 +19774,7 @@ use_preset_vocabulary: false
 埃辛諾斯戰刃	ai;tu xn;lu no;yr si;jq vj;gd rf;dd
 埃阿斯	ai;tu aa;ek si;jq
 埃隆布萊克	ai;tu ls;eu bu;ju ll;cl ke;eg
-埃雷波尼亞帝國	ai;tu lz;yt bo;dp ni;ub ya;aa di;wj go;kh
+埃雷波尼亞帝國	ai;tu lz;yt bo;dp ni;ub ya;aa di;jb go;kh
 埃齊奧	ai;tu qi;we ao;db
 埃齊奧奧迪託雷	ai;tu qi;we ao;db ao;db di;zy to;yq lz;yt
 埋伏破壞	ml;tl fu;rq po;up hy;th
@@ -20075,7 +20075,7 @@ use_preset_vocabulary: false
 堇青石	jn;ca qy;fo ui;kp
 堡壘	bk;tb lz;tl
 堡壘之夜	bk;tb lz;tl vi;dd ye;wd
-堤亞穆帝國物語	di;tu ya;aa mu;hp di;wj go;kh wu;nw yu;yw
+堤亞穆帝國物語	di;tu ya;aa mu;hp di;jb go;kh wu;nw yu;yw
 堤京介	di;tu jy;wx jx;ra
 堤博明	di;tu bo;uc my;oo
 堤豐	di;tu fg;df
@@ -20171,9 +20171,9 @@ use_preset_vocabulary: false
 塔普	ta;td pu;ob
 塔普莉絲	ta;td pu;ob li;cl si;ss
 塔林	ta;td ln;mm
-塔桑大帝國	ta;td sh;mr da;ad di;wj go;kh
+塔桑大帝國	ta;td sh;mr da;ad di;jb go;kh
 塔桑尼斯	ta;td sh;mr ni;ub si;jq
-塔桑帝國	ta;td sh;mr di;wj go;kh
+塔桑帝國	ta;td sh;mr di;jb go;kh
 塔樓物語	ta;td lb;ml wu;nw yu;yw
 塔樓騎士之書	ta;td lb;ml qi;mq ui;aa vi;dd uu;oy
 塔比特	ta;td bi;bb te;ns
@@ -20356,7 +20356,7 @@ use_preset_vocabulary: false
 塞薩爾維阿潘多	sl;tb sa;ci er;ay wz;sv aa;ek pj;df do;xx
 塞西利婭	sl;tb xi;aa li;dh ya;ny
 塞西爾	sl;tb xi;aa er;ay
-塞西爾帝國	sl;tb xi;aa er;ay di;wj go;kh
+塞西爾帝國	sl;tb xi;aa er;ay di;jb go;kh
 塞西爾斯	sl;tb xi;aa er;ay si;jq
 塞西爾斯賽格蒙特	sl;tb xi;aa er;ay si;jq sl;bb ge;mg mg;cm te;ns
 塞西爾霞飛	sl;tb xi;aa er;ay xw;yj fz;ff
@@ -20568,7 +20568,7 @@ use_preset_vocabulary: false
 墮落人類俱樂部	do;to lo;cl rf;pd lz;yl ju;rj le;bm bu;ek
 墮落夢想女孩	do;to lo;cl mg;cx xd;xx nv;aa hl;zh
 墮落天使	do;to lo;cl tm;ad ui;rl
-墮落帝國	do;to lo;cl di;wj go;kh
+墮落帝國	do;to lo;cl di;jb go;kh
 墮落牧師	do;to lo;cl mu;nw ui;vb
 墮落王飛姆託	do;to lo;cl wh;aa fz;ff mu;nm to;yq
 墮落的兔子與沉默旁觀者的手記	do;to lo;cl de;bu tu;dd zi;aa yu;ba if;dj mo;hq ph;wf gr;jv ve;lo de;bu ub;pa ji;yj
@@ -21299,7 +21299,7 @@ use_preset_vocabulary: false
 多彩的故事	do;xx cl;pc de;bu gu;wg ui;aa
 多彩的自由	do;xx cl;pc de;bu zi;pa yb;aa
 多彩聲音	do;xx cl;pc ug;eq yn;lo
-多彩釋放	do;xx cl;pc ui;bx fh;wf
+多彩釋放	do;xx cl;pc ui;px fh;wf
 多情人間	do;xx qy;xq rf;pd jm;mo
 多情善感的愛慕心	do;xx qy;xq uj;yk gj;xx de;bu ai;vw mu;cx xn;dd
 多情妖	do;xx qy;xq yk;ny
@@ -22370,9 +22370,9 @@ use_preset_vocabulary: false
 大川隆法	da;ad ir;pa ls;eu fa;dq
 大工健三郎	da;ad gs;aa jm;rj sj;aa lh;el
 大巨人食人魔	da;ad ju;aa rf;pd ui;pd rf;pd mo;gm
-大帝	da;ad di;wj
-大帝國	da;ad di;wj go;kh
-大帝獎	da;ad di;wj jd;qj
+大帝	da;ad di;jb
+大帝國	da;ad di;jb go;kh
+大帝獎	da;ad di;jb jd;qj
 大師	da;ad ui;vb
 大師之劍	da;ad ui;vb vi;dd jm;dq
 大師劍	da;ad ui;vb jm;dq
@@ -22436,7 +22436,7 @@ use_preset_vocabulary: false
 大日多胞體	da;ad ri;aa do;xx bk;ob ti;gd
 大日女之御巫	da;ad ri;aa nv;aa vi;dd yu;xx wu;gc
 大日斷片	da;ad ri;aa dr;ja pm;pa
-大日本帝國海軍	da;ad ri;aa bf;aa di;wj go;kh hl;dm jp;bi
+大日本帝國海軍	da;ad ri;aa bf;aa di;jb go;kh hl;dm jp;bi
 大日物質	da;ad ri;aa wu;nw vi;bj
 大日素材	da;ad ri;aa su;sf cl;mc
 大日細絲	da;ad ri;aa xi;st si;ss
@@ -23101,7 +23101,7 @@ use_preset_vocabulary: false
 天使小夜曲	tm;ad ui;rl xc;ad ye;wd qu;aa
 天使島區域	tm;ad ui;rl dk;nu qu;kp yu;th
 天使島嶼區域	tm;ad ui;rl dk;nu yu;uy qu;kp yu;th
-天使帝國	tm;ad ui;rl di;wj go;kh
+天使帝國	tm;ad ui;rl di;jb go;kh
 天使彥	tm;ad ui;rl yj;pi
 天使惠	tm;ad ui;rl hv;hx
 天使惡魔	tm;ad ui;rl ee;xy mo;gm
@@ -23183,7 +23183,7 @@ use_preset_vocabulary: false
 天啓坦克	tm;ad qi;kw tj;td ke;eg
 天啓坦克娘	tm;ad qi;kw tj;td ke;eg nd;nl
 天啓宗教	tm;ad qi;kw zs;bu jc;wx
-天啓帝君	tm;ad qi;kw di;wj jp;ky
+天啓帝君	tm;ad qi;kw di;jb jp;ky
 天啓者	tm;ad qi;kw ve;lo
 天啓追隨者	tm;ad qi;kw vv;zv sv;es ve;lo
 天啓鳥	tm;ad qi;kw nc;pd
@@ -23306,7 +23306,7 @@ use_preset_vocabulary: false
 天川那由多	tm;ad ir;pa na;el yb;aa do;xx
 天工藝彩	tm;ad gs;aa yi;cy cl;pc
 天希花音	tm;ad xi;ju hw;ch yn;lo
-天帝絕	tm;ad di;wj jt;sb
+天帝絕	tm;ad di;jb jt;sb
 天底的使徒	tm;ad di;gd de;bu ui;rl tu;xz
 天弓亞歷山德拉	tm;ad gs;ag ya;aa li;iv uj;aa de;xx la;fl
 天弓千亦	tm;ad gs;ag qm;pa yi;wb
@@ -24605,7 +24605,7 @@ use_preset_vocabulary: false
 奧利薇	ao;db li;dh wz;cw
 奧力瓦司亞克特	ao;db li;gp wa;ad si;gk ya;aa ke;eg te;ns
 奧力給	ao;db li;gp gz;sh
-奧匈帝國	ao;db xs;bx di;wj go;kh
+奧匈帝國	ao;db xs;bx di;jb go;kh
 奧友沙絢	ao;db yb;yu ua;du xr;sx
 奧古	ao;db gu;uk
 奧古五王	ao;db gu;uk wu;aa wh;aa
@@ -24642,7 +24642,7 @@ use_preset_vocabulary: false
 奧布朗	ao;db bu;ju lh;ol
 奧布里	ao;db bu;ju li;aa
 奧希金斯	ao;db xi;ju jn;ra si;jq
-奧帝努斯	ao;db di;wj nu;ln si;jq
+奧帝努斯	ao;db di;jb nu;ln si;jq
 奧平風也	ao;db py;aa fg;ji ye;gg
 奧康奈爾法布里克	ao;db kh;gl nl;du er;ay fa;dq bu;ju li;aa ke;eg
 奧德伊茲	ao;db de;xx yi;ry zi;cy
@@ -24721,7 +24721,7 @@ use_preset_vocabulary: false
 奧爾岡馬達克	ao;db er;ay gh;ku ma;ad da;zy ke;eg
 奧爾德	ao;db er;ay de;xx
 奧爾德瓦爾德	ao;db er;ay de;xx wa;ad er;ay de;xx
-奧爾斯帝德	ao;db er;ay si;jq di;wj de;xx
+奧爾斯帝德	ao;db er;ay si;jq di;jb de;xx
 奧爾芬	ao;db er;ay ff;cf
 奧爾芬斯之淚	ao;db er;ay ff;cf si;jq vi;dd lz;dl
 奧爾菲斯	ao;db er;ay fz;cf si;jq
@@ -25019,7 +25019,7 @@ use_preset_vocabulary: false
 女巫的最後審判日	nv;aa wu;gc de;bu zv;oq hb;xw uf;bf pj;db ri;aa
 女巫的餐點	nv;aa wu;gc de;bu cj;uy dm;hv
 女希臘	nv;aa xi;ju la;ol
-女帝	nv;aa di;wj
+女帝	nv;aa di;jb
 女店長	nv;aa dm;gv vh;ad
 女強人奧斯卡	nv;aa qd;gi rf;pd ao;db si;jq ka;bx
 女忍	nv;aa rf;xr
@@ -25789,8 +25789,8 @@ use_preset_vocabulary: false
 始於道別的故事	ui;nt yu;fd dk;zu bx;dd de;bu gu;wg ui;aa
 始業式	ui;nt ye;yl ui;gy
 始源之律者	ui;nt yr;dy vi;dd lv;xy ve;lo
-始源的帝王	ui;nt yr;dy de;bu di;wj wh;aa
-始皇帝	ui;nt hd;bw di;wj
+始源的帝王	ui;nt yr;dy de;bu di;jb wh;aa
+始皇帝	ui;nt hd;bw di;jb
 始祖冰龍	ui;nt zu;uq by;du ls;dg
 始祖向日葵	ui;nt zu;uq xd;pk ri;aa kv;cg
 始祖土豆地雷	ui;nt zu;uq tu;aa db;aa di;ty lz;yt
@@ -26282,7 +26282,7 @@ use_preset_vocabulary: false
 媛澤遙火	yr;ny ze;dx yk;zf ho;dd
 媽問跪	ma;nm wf;km gv;zw
 媽媽	ma;nm ma;nm
-媽媽你聽我解釋	ma;nm ma;nm ni;re ty;ex wo;pd jx;jn ui;bx
+媽媽你聽我解釋	ma;nm ma;nm ni;re ty;ex wo;pd jx;jn ui;px
 媽媽和女友掉水裏先救誰你都回答不出來那就注孤生吧	ma;nm ma;nm he;hk nv;aa yb;yu dc;fv uv;ad li;dy xm;ne jq;wq uv;yv ni;re db;ev hv;kk da;vh bu;ad iu;ck ll;ad na;el jq;yj vu;dv gu;zg ug;na ba;kb
 媽媽把我的辣條藏起來了	ma;nm ma;nm ba;fb wo;pd de;bu la;xu tc;rt ch;cg qi;zj ll;ad le;aa
 媽媽把我的遊戲藏起來了	ma;nm ma;nm ba;fb wo;pd de;bu yb;zy xi;gd ch;cg qi;zj ll;ad le;aa
@@ -29917,7 +29917,7 @@ use_preset_vocabulary: false
 少女理論及其周邊	uk;xp nv;aa li;wl lp;yl ji;nd qi;ba vb;kj bm;zf
 少女的前進	uk;xp nv;aa de;bu qm;bd jn;zv
 少女的十四行詩	uk;xp nv;aa de;bu ui;aa si;aa hh;xd ui;ys
-少女的帝國	uk;xp nv;aa de;bu di;wj go;kh
+少女的帝國	uk;xp nv;aa de;bu di;jb go;kh
 少女的幻想	uk;xp nv;aa de;bu hr;yg xd;xx
 少女的心得	uk;xp nv;aa de;bu xn;dd de;xc
 少女的愛是心照不宣	uk;xp nv;aa de;bu ai;vw ui;op xn;dd vk;dv bu;ad xr;bg
@@ -30307,7 +30307,7 @@ use_preset_vocabulary: false
 尼希茲	ni;ub xi;ju zi;cy
 尼庫拉	ni;ub ku;gi la;fl
 尼弗迦德	ni;ub fu;aa jw;zj de;xx
-尼弗迦德帝國	ni;ub fu;aa jw;zj de;xx di;wj go;kh
+尼弗迦德帝國	ni;ub fu;aa jw;zj de;xx di;jb go;kh
 尼彩	ni;ub cl;pc
 尼德	ni;ub de;xx
 尼德爾	ni;ub de;xx er;ay
@@ -30469,7 +30469,7 @@ use_preset_vocabulary: false
 屍姬玄	ui;us ji;ni xr;wy
 屍生人	ui;us ug;na rf;pd
 屍生人司令官	ui;us ug;na rf;pd si;gk ly;rs gr;bg
-屍者的帝國	ui;us ve;lo de;bu di;wj go;kh
+屍者的帝國	ui;us ve;lo de;bu di;jb go;kh
 屍蠟	ui;us la;il
 屍類魔物	ui;us lz;yl mo;gm wu;nw
 屍骸之舞	ui;us hl;gh vi;dd wu;rf
@@ -31211,7 +31211,7 @@ use_preset_vocabulary: false
 崩壞二	bg;up hy;th er;aa
 崩壞娘	bg;up hy;th nd;nl
 崩壞學園	bg;up hy;th xt;jz yr;ky
-崩壞帝王	bg;up hy;th di;wj wh;aa
+崩壞帝王	bg;up hy;th di;jb wh;aa
 崩壞意志	bg;up hy;th yi;lx vi;ux
 崩壞星穹鐵道	bg;up hy;th xy;ou qs;bg tx;jg dk;zu
 崩壞獸	bg;up hy;th ub;qu
@@ -31320,7 +31320,7 @@ use_preset_vocabulary: false
 巖澤麻美	yj;ug ze;dx ma;gl mz;dy
 巖瀨周平	yj;ug ll;dl vb;kj py;aa
 巖瀨恭子	yj;ug ll;dl gs;gx zi;aa
-巖王帝君	yj;ug wh;aa di;wj jp;ky
+巖王帝君	yj;ug wh;aa di;jb jp;ky
 巖田俊彥	yj;ug tm;aa jp;rj yj;pi
 巖田光央	yj;ug tm;aa gd;ea yh;ad
 巖田和江	yj;ug tm;aa he;hk jd;dg
@@ -32441,7 +32441,7 @@ use_preset_vocabulary: false
 希露菲葉特	xi;ju lu;yl fz;cf ye;cm te;ns
 希露菲葉特格雷拉特	xi;ju lu;yl fz;cf ye;cm te;ns ge;mg lz;yt la;fl te;ns
 希露達	xi;ju lu;yl da;zy
-希靈帝國	xi;ju ly;wl di;wj go;kh
+希靈帝國	xi;ju ly;wl di;jb go;kh
 希靈梓	xi;ju ly;wl zi;mx
 希靈紀元	xi;ju ly;wl ji;sj yr;aw
 希頂娘	xi;ju dy;yd nd;nl
@@ -32575,77 +32575,77 @@ use_preset_vocabulary: false
 帚石楠	vb;jb ui;kp nj;mn
 帚神	vb;jb uf;uu
 帛未	bo;bj wz;ex
-帝丹小學	di;wj dj;pd xc;ad xt;jz
-帝丹小學校	di;wj dj;pd xc;ad xt;jz xc;mj
-帝之敕命	di;wj vi;dd ii;uw my;re
-帝企鵝	di;wj qi;rv ee;nw
-帝具	di;wj ju;ba
-帝利亞	di;wj li;dh ya;aa
-帝卡組	di;wj ka;bx zu;sq
-帝國	di;wj go;kh
-帝國交響樂團	di;wj go;kh jc;wf xd;yx yt;bm tr;kv
-帝國兵長莉潔蘿緹	di;wj go;kh by;qb vh;ad li;cl jx;dj lo;cl ti;su
-帝國單位改動	di;wj go;kh dj;kd wz;rl gl;wj ds;lv
-帝國天馬騎士伊莎貝爾	di;wj go;kh tm;ad ma;ad qi;mq ui;aa yi;ry ua;cu bz;ad er;ay
-帝國少女	di;wj go;kh uk;xp nv;aa
-帝國建築與科技	di;wj go;kh jm;zy vu;vm yu;ba ke;hd ji;fv
-帝國採礦車	di;wj go;kh cl;fc kd;ug ie;aa
-帝國星人	di;wj go;kh xy;ou rf;pd
-帝國時代	di;wj go;kh ui;os dl;ry
-帝國歌劇團	di;wj go;kh ge;qg ju;dj tr;kv
-帝國毀滅	di;wj go;kh hv;ut mx;dh
-帝國獵兵雷塞爾	di;wj go;kh lx;ql by;qb lz;yt sl;tb er;ay
-帝國的毀滅	di;wj go;kh de;bu hv;ut mx;dh
-帝國級殲星艦娘	di;wj go;kh ji;sj jm;dx xy;ou jm;vj nd;nl
-帝國華擊團	di;wj go;kh hw;ca ji;fu tr;kv
-帝國軍事蕾歐娜	di;wj go;kh jp;bi ui;aa lz;cl ou;qq na;nn
-帝國軍團	di;wj go;kh jp;bi tr;kv
-帝國軍團羅馬	di;wj go;kh jp;bi tr;kv lo;sv ma;ad
-帝國非遭遇戰單位	di;wj go;kh fz;aa zk;zc yu;zy vj;gd dj;kd wz;rl
-帝國風暴兵娘	di;wj go;kh fg;ji bk;ou by;qb nd;nl
-帝堂雪華	di;wj th;tk xt;yx hw;ca
-帝奇雷頓	di;wj qi;dk lz;yt dp;yt
-帝女花香夭	di;wj nv;aa hw;ch xd;ho yk;pd
-帝姬	di;wj ji;ni
-帝子	di;wj zi;aa
-帝帝帝大王	di;wj di;wj di;wj dl;ad wh;aa
-帝弓	di;wj gs;ag
-帝弓司命	di;wj gs;ag si;gk my;re
-帝彌託利	di;wj mi;ge to;yq li;dh
-帝彌託利亞歷山大佈雷達德	di;wj mi;ge to;yq li;dh ya;aa li;iv uj;aa da;ad bu;rb lz;yt da;zy de;xx
-帝昂法尼亞	di;wj ah;oe fa;dq ni;ub ya;aa
-帝江	di;wj jd;dg
-帝王	di;wj wh;aa
-帝王光輝	di;wj wh;aa gd;ea hv;gj
-帝王教育	di;wj wh;aa jc;wx yu;os
-帝王的不屈	di;wj wh;aa de;bu bu;ad qu;ui
-帝王的凍志	di;wj wh;aa de;bu ds;dd vi;ux
-帝王的凍氣	di;wj wh;aa de;bu ds;dd qi;qm
-帝王的升級	di;wj wh;aa de;bu ug;pc ji;sj
-帝王的深怨	di;wj wh;aa de;bu uf;dm yr;xe
-帝王的烈旋	di;wj wh;aa de;bu lx;dl xr;fp
-帝王的熔擊	di;wj wh;aa de;bu rs;hr ji;fu
-帝王的轟毅	di;wj wh;aa de;bu hs;ii yi;lu
-帝王的開巖	di;wj wh;aa de;bu kl;mk yj;ug
-帝王花	di;wj wh;aa hw;ch
-帝王蛋糕	di;wj wh;aa dj;ip gk;mg
-帝王蟹	di;wj wh;aa xx;ij
-帝王龍	di;wj wh;aa ls;dg
-帝玖管弦樂團	di;wj jq;wj gr;vg xm;gx yt;bm tr;kv
-帝皇	di;wj hd;bw
-帝皇光輝	di;wj hd;bw gd;ea hv;gj
-帝皇再臨	di;wj hd;bw zl;aa ln;ik
-帝皇龍	di;wj hd;bw ls;dg
-帝笑歌劇	di;wj xc;vy ge;qg ju;dj
-帝納斯	di;wj na;sn si;jq
-帝羅	di;wj lo;sv
-帝血	di;wj xt;pa
-帝都	di;wj du;ev
-帝都羣青	di;wj du;ev qp;yj qy;fo
-帝都聖盃奇譚	di;wj du;ev ug;ew bz;bm qi;dk tj;yt
-帝釋天	di;wj ui;bx tm;ad
-帝陵	di;wj ly;el
-帝鴻	di;wj hs;nj
+帝丹小學	di;jb dj;pd xc;ad xt;jz
+帝丹小學校	di;jb dj;pd xc;ad xt;jz xc;mj
+帝之敕命	di;jb vi;dd ii;uw my;re
+帝企鵝	di;jb qi;rv ee;nw
+帝具	di;jb ju;ba
+帝利亞	di;jb li;dh ya;aa
+帝卡組	di;jb ka;bx zu;sq
+帝國	di;jb go;kh
+帝國交響樂團	di;jb go;kh jc;wf xd;yx yt;bm tr;kv
+帝國兵長莉潔蘿緹	di;jb go;kh by;qb vh;ad li;cl jx;dj lo;cl ti;su
+帝國單位改動	di;jb go;kh dj;kd wz;rl gl;wj ds;lv
+帝國天馬騎士伊莎貝爾	di;jb go;kh tm;ad ma;ad qi;mq ui;aa yi;ry ua;cu bz;ad er;ay
+帝國少女	di;jb go;kh uk;xp nv;aa
+帝國建築與科技	di;jb go;kh jm;zy vu;vm yu;ba ke;hd ji;fv
+帝國採礦車	di;jb go;kh cl;fc kd;ug ie;aa
+帝國星人	di;jb go;kh xy;ou rf;pd
+帝國時代	di;jb go;kh ui;os dl;ry
+帝國歌劇團	di;jb go;kh ge;qg ju;dj tr;kv
+帝國毀滅	di;jb go;kh hv;ut mx;dh
+帝國獵兵雷塞爾	di;jb go;kh lx;ql by;qb lz;yt sl;tb er;ay
+帝國的毀滅	di;jb go;kh de;bu hv;ut mx;dh
+帝國級殲星艦娘	di;jb go;kh ji;sj jm;dx xy;ou jm;vj nd;nl
+帝國華擊團	di;jb go;kh hw;ca ji;fu tr;kv
+帝國軍事蕾歐娜	di;jb go;kh jp;bi ui;aa lz;cl ou;qq na;nn
+帝國軍團	di;jb go;kh jp;bi tr;kv
+帝國軍團羅馬	di;jb go;kh jp;bi tr;kv lo;sv ma;ad
+帝國非遭遇戰單位	di;jb go;kh fz;aa zk;zc yu;zy vj;gd dj;kd wz;rl
+帝國風暴兵娘	di;jb go;kh fg;ji bk;ou by;qb nd;nl
+帝堂雪華	di;jb th;tk xt;yx hw;ca
+帝奇雷頓	di;jb qi;dk lz;yt dp;yt
+帝女花香夭	di;jb nv;aa hw;ch xd;ho yk;pd
+帝姬	di;jb ji;ni
+帝子	di;jb zi;aa
+帝帝帝大王	di;jb di;jb di;jb dl;ad wh;aa
+帝弓	di;jb gs;ag
+帝弓司命	di;jb gs;ag si;gk my;re
+帝彌託利	di;jb mi;ge to;yq li;dh
+帝彌託利亞歷山大佈雷達德	di;jb mi;ge to;yq li;dh ya;aa li;iv uj;aa da;ad bu;rb lz;yt da;zy de;xx
+帝昂法尼亞	di;jb ah;oe fa;dq ni;ub ya;aa
+帝江	di;jb jd;dg
+帝王	di;jb wh;aa
+帝王光輝	di;jb wh;aa gd;ea hv;gj
+帝王教育	di;jb wh;aa jc;wx yu;os
+帝王的不屈	di;jb wh;aa de;bu bu;ad qu;ui
+帝王的凍志	di;jb wh;aa de;bu ds;dd vi;ux
+帝王的凍氣	di;jb wh;aa de;bu ds;dd qi;qm
+帝王的升級	di;jb wh;aa de;bu ug;pc ji;sj
+帝王的深怨	di;jb wh;aa de;bu uf;dm yr;xe
+帝王的烈旋	di;jb wh;aa de;bu lx;dl xr;fp
+帝王的熔擊	di;jb wh;aa de;bu rs;hr ji;fu
+帝王的轟毅	di;jb wh;aa de;bu hs;ii yi;lu
+帝王的開巖	di;jb wh;aa de;bu kl;mk yj;ug
+帝王花	di;jb wh;aa hw;ch
+帝王蛋糕	di;jb wh;aa dj;ip gk;mg
+帝王蟹	di;jb wh;aa xx;ij
+帝王龍	di;jb wh;aa ls;dg
+帝玖管弦樂團	di;jb jq;wj gr;vg xm;gx yt;bm tr;kv
+帝皇	di;jb hd;bw
+帝皇光輝	di;jb hd;bw gd;ea hv;gj
+帝皇再臨	di;jb hd;bw zl;aa ln;ik
+帝皇龍	di;jb hd;bw ls;dg
+帝笑歌劇	di;jb xc;vy ge;qg ju;dj
+帝納斯	di;jb na;sn si;jq
+帝羅	di;jb lo;sv
+帝血	di;jb xt;pa
+帝都	di;jb du;ev
+帝都羣青	di;jb du;ev qp;yj qy;fo
+帝都聖盃奇譚	di;jb du;ev ug;ew bz;bm qi;dk tj;yt
+帝釋天	di;jb ui;px tm;ad
+帝陵	di;jb ly;el
+帝鴻	di;jb hs;nj
 帥不過三秒	uy;jv bu;ad go;zg sj;aa mc;hu
 帥哥帥了	uy;jv ge;kd uy;jv le;aa
 帥戈	uy;jv ge;ad
@@ -32786,7 +32786,7 @@ use_preset_vocabulary: false
 幪面超人古列斯	mg;jm mm;aa ik;zv rf;pd gu;uk lx;dd si;jq
 幪面超人古迦	mg;jm mm;aa ik;zv rf;pd gu;uk jw;zj
 幪面超人和治	mg;jm mm;aa ik;zv rf;pd he;hk vi;dt
-幪面超人帝騎	mg;jm mm;aa ik;zv rf;pd di;wj qi;mq
+幪面超人帝騎	mg;jm mm;aa ik;zv rf;pd di;jb qi;mq
 幪面超人拳蝗	mg;jm mm;aa ik;zv rf;pd qr;uf hd;ih
 幪面超人旋蜂王	mg;jm mm;aa ik;zv rf;pd xr;fp fg;if wh;aa
 幪面超人時王	mg;jm mm;aa ik;zv rf;pd ui;os wh;aa
@@ -34480,7 +34480,7 @@ use_preset_vocabulary: false
 強殺	qd;gi ua;uu
 強氣	qd;gi qi;qm
 強烈地期望	qd;gi lx;dl di;ty qi;oq wh;wo
-強烈地釋放	qd;gi lx;dl di;ty ui;bx fh;wf
+強烈地釋放	qd;gi lx;dl di;ty ui;px fh;wf
 強烈的打落	qd;gi lx;dl de;bu da;fd lo;cl
 強爸	qd;gi ba;fb
 強狼人	qd;gi lh;ql rf;pd
@@ -34692,7 +34692,7 @@ use_preset_vocabulary: false
 彩虹魚	cl;pc hs;ig yu;dd
 彩蛋	cl;pc dj;ip
 彩豆	cl;pc db;aa
-彩賁帝	cl;pc bf;bh di;wj
+彩賁帝	cl;pc bf;bh di;jb
 彩都神社	cl;pc db;ev uf;uu ue;ut
 彩都麒麟	cl;pc db;ev qi;lq ln;ll
 彩鉛	cl;pc qm;jk
@@ -34705,7 +34705,7 @@ use_preset_vocabulary: false
 彩香	cl;pc xd;ho
 彩鳥	cl;pc nc;pd
 彪哥	bc;hp ge;kd
-彪悍的人生不需要解釋	bc;hp hj;xh de;bu rf;pd ug;na bu;ad xu;ye yk;xn jx;jn ui;bx
+彪悍的人生不需要解釋	bc;hp hj;xh de;bu rf;pd ug;na bu;ad xu;ye yk;xn jx;jn ui;px
 彬白夜夜萌	bn;mu bl;pa ye;wd ye;wd mg;cm
 彬美彌	bn;mu mz;dy mi;ge
 彭亦亮	pg;pd yi;wb ld;wj
@@ -34769,7 +34769,7 @@ use_preset_vocabulary: false
 影山蘭丸	yy;pj uj;aa lj;cj wj;jd
 影山飛雄	yy;pj uj;aa fz;ff xs;vh
 影巫	yy;pj wu;gc
-影帝	yy;pj di;wj
+影帝	yy;pj di;jb
 影幕	yy;pj mu;cj
 影拓娘	yy;pj to;fu nd;nl
 影時間	yy;pj ui;os jm;mo
@@ -34864,7 +34864,7 @@ use_preset_vocabulary: false
 彼得	bi;xp de;xc
 彼得克萊門特	bi;xp de;xc ke;eg ll;cl mf;aa te;ns
 彼得史特拉塞	bi;xp de;xc ui;ad te;ns la;fl sl;tb
-彼得大帝夏宮	bi;xp de;xc da;ad di;wj xw;wz gs;bl
+彼得大帝夏宮	bi;xp de;xc da;ad di;jb xw;wz gs;bl
 彼得帕克	bi;xp de;xc pa;jb ke;eg
 彼得戈登克萊門特	bi;xp de;xc ge;ad dg;dd ke;eg ll;cl mf;aa te;ns
 彼得本傑明帕克	bi;xp de;xc bf;aa jx;rj my;oo pa;jb ke;eg
@@ -35266,7 +35266,7 @@ use_preset_vocabulary: false
 御巫的火叢舞	yu;xx wu;gc de;bu ho;dd cs;yq wu;rf
 御巫的誘輪舞	yu;xx wu;gc de;bu yb;yx lp;il wu;rf
 御巫神樂	yu;xx wu;gc uf;uu le;bm
-御帝	yu;xx di;wj
+御帝	yu;xx di;jb
 御幣	yu;xx bi;jb
 御幸真菜	yu;xx xy;tu vf;uj cl;cc
 御庭幻想	yu;xx ty;gt hr;yg xd;xx
@@ -35304,7 +35304,7 @@ use_preset_vocabulary: false
 御用守護者	yu;xx ys;kf ub;bc hu;yh ve;lo
 御用捕食者	yu;xx ys;kf bu;ff ui;pd ve;lo
 御用王	yu;xx ys;kf wh;aa
-御用皇帝	yu;xx ys;kf hd;bw di;wj
+御用皇帝	yu;xx ys;kf hd;bw di;jb
 御用追緝者	yu;xx ys;kf vv;zv ji;se ve;lo
 御用防禦者	yu;xx ys;kf fh;ef yu;ue ve;lo
 御神巫女	yu;xx uf;uu wu;gc nv;aa
@@ -35561,9 +35561,9 @@ use_preset_vocabulary: false
 德律阿得斯	de;xx lv;xy aa;ek de;xc si;jq
 德德德	de;xx de;xx de;xx
 德意志	de;xx yi;lx vi;ux
-德意志帝國軍	de;xx yi;lx vi;ux di;wj go;kh jp;bi
+德意志帝國軍	de;xx yi;lx vi;ux di;jb go;kh jp;bi
 德意志民主共和國國家安全部	de;xx yi;lx vi;ux mn;ag vu;dw gs;bc he;hk go;kh go;kh jw;bu an;bn qr;rw bu;ek
-德意志民族的神聖羅馬帝國	de;xx yi;lx vi;ux mn;ag zu;fu de;bu uf;uu ug;ew lo;sv ma;ad di;wj go;kh
+德意志民族的神聖羅馬帝國	de;xx yi;lx vi;ux mn;ag zu;fu de;bu uf;uu ug;ew lo;sv ma;ad di;jb go;kh
 德意志的憂鬱	de;xx yi;lx vi;ux de;bu yb;xw yu;fp
 德意志科技世界第一	de;xx yi;lx vi;ux ke;hd ji;fv ui;ca jx;tj di;vp yi;aa
 德意志聯邦共和國	de;xx yi;lx vi;ux lm;ea bh;ef gs;bc he;hk go;kh
@@ -36495,7 +36495,7 @@ use_preset_vocabulary: false
 怪盜基德	gy;xu dk;mc ji;tq de;xx
 怪盜委託頻道	gy;xu dk;mc wz;hn to;yq pn;yb dk;zu
 怪盜少女	gy;xu dk;mc uk;xp nv;aa
-怪盜庫洛帝	gy;xu dk;mc ku;gi lo;dg di;wj
+怪盜庫洛帝	gy;xu dk;mc ku;gi lo;dg di;jb
 怪盜洛切團	gy;xu dk;mc lo;dg qx;dq tr;kv
 怪盜窪園千代子絕不會失手	gy;xu dk;mc wa;xw yr;ky qm;pa dl;ry zi;aa jt;sb bu;ad hv;ro ui;pf ub;pa
 怪盜聖少女	gy;xu dk;mc ug;ew uk;xp nv;aa
@@ -37677,7 +37677,7 @@ use_preset_vocabulary: false
 愧疚遊戲的製作方法	kv;xg jq;bj yb;zy xi;gd de;bu vi;yv zo;rv fh;dg fa;dq
 愷撒	kl;xd sa;fs
 愷撒加圖索	kl;xd sa;fs jw;lk tu;kh so;sb
-愷撒大帝	kl;xd sa;fs da;ad di;wj
+愷撒大帝	kl;xd sa;fs da;ad di;jb
 愷撒末日神	kl;xd sa;fs mo;ad ri;aa uf;uu
 慄丸堂	li;xl wj;jd th;tk
 慄原天音	li;xl yr;ix tm;ad yn;lo
@@ -38617,7 +38617,7 @@ use_preset_vocabulary: false
 我妻鐵生	wo;pd qi;na tx;jg ug;na
 我妻雪橙	wo;pd qi;na xt;yx ig;md
 我姓曾	wo;pd xy;nu cg;ob
-我媽是神羅皇帝	wo;pd ma;nm ui;op uf;uu lo;sv hd;bw di;wj
+我媽是神羅皇帝	wo;pd ma;nm ui;op uf;uu lo;sv hd;bw di;jb
 我存在	wo;pd cp;uz zl;ta
 我孤身一人	wo;pd gu;zg uf;pp yi;aa rf;pd
 我家使魔很抱歉	wo;pd jw;bu ui;rl mo;gm hf;xg bk;fb qm;qj
@@ -39224,7 +39224,7 @@ use_preset_vocabulary: false
 我開始扮演同班同學的男朋友	wo;pd kl;mk ui;nt bj;ff yj;dy ts;kk bj;dw ts;kk xt;jz de;bu nj;tl pg;oo yb;yu
 我開始方了	wo;pd kl;mk ui;nt fh;dg le;aa
 我開除了黑心公司	wo;pd kl;mk iu;ey le;aa hz;ad xn;dd gs;sb si;gk
-我闡釋你的夢	wo;pd ij;md ui;bx ni;re de;bu mg;cx
+我闡釋你的夢	wo;pd ij;md ui;px ni;re de;bu mg;cx
 我隔着機器人愛着你	wo;pd ge;eg ve;ym ji;mj qi;kk rf;pd ai;vw ve;ym ni;re
 我隨性的靈魂	wo;pd sv;es xy;xu de;bu ly;wl hp;gy
 我雙	wo;pd ud;vy
@@ -40252,9 +40252,9 @@ use_preset_vocabulary: false
 拉尼艾拉法塔	la;fl ni;ub ai;ci la;fl fa;dq ta;td
 拉巴索	la;fl ba;ag so;sb
 拉希德丁錫南	la;fl xi;ju de;xx dy;aa xi;jy nj;ua
-拉帝亞斯	la;fl di;wj ya;aa si;jq
-拉帝亞斯娘	la;fl di;wj ya;aa si;jq nd;nl
-拉帝歐斯娘	la;fl di;wj ou;qq si;jq nd;nl
+拉帝亞斯	la;fl di;jb ya;aa si;jq
+拉帝亞斯娘	la;fl di;jb ya;aa si;jq nd;nl
+拉帝歐斯娘	la;fl di;jb ou;qq si;jq nd;nl
 拉弓的人魚	la;fl gs;ag de;bu rf;pd yu;dd
 拉彌亞	la;fl mi;ge ya;aa
 拉德福特	la;fl de;xx fu;uf te;ns
@@ -40385,7 +40385,7 @@ use_preset_vocabulary: false
 拉諾塔	la;fl no;yr ta;td
 拉貴爾	la;fl gv;bg er;ay
 拉賽澤璐	la;fl sl;bb ze;dx lu;wl
-拉赫帝國	la;fl he;ii di;wj go;kh
+拉赫帝國	la;fl he;ii di;jb go;kh
 拉赫穆	la;fl he;ii mu;hp
 拉路克羅伊德	la;fl lu;zg ke;eg lo;sv yi;ry de;xx
 拉通哈給頓	la;fl ts;zy ha;kh gz;sh dp;yt
@@ -40484,7 +40484,7 @@ use_preset_vocabulary: false
 拜倫的證明	bl;pa lp;rl de;bu vg;yd my;oo
 拜勒崗魯伊森邦	bl;pa lz;lg gh;ug lu;yo yi;ry sf;ml bh;ef
 拜占庭	bl;pa vj;bk ty;gt
-拜占庭帝國	bl;pa vj;bk ty;gt di;wj go;kh
+拜占庭帝國	bl;pa vj;bk ty;gt di;jb go;kh
 拜厄斯里佩爾	bl;pa ee;ie si;jq li;aa pz;rb er;ay
 拜島武	bl;pa dk;nu wu;vy
 拜師	bl;pa ui;vb
@@ -41204,8 +41204,8 @@ use_preset_vocabulary: false
 撈金魚	lk;fl jn;ra yu;dd
 撐杆殭屍	ig;fi gj;mg jd;dj ui;us
 撒丁	sa;fs dy;aa
-撒丁帝國艦船專屬兵裝	sa;fs dy;aa di;wj go;kh jm;vj ir;vk vr;ac uu;ui by;qb vd;yv
-撒丁帝國陣營設備裝備	sa;fs dy;aa di;wj go;kh vf;ei yy;hl ue;yu bz;ry vd;yv bz;ry
+撒丁帝國艦船專屬兵裝	sa;fs dy;aa di;jb go;kh jm;vj ir;vk vr;ac uu;ui by;qb vd;yv
+撒丁帝國陣營設備裝備	sa;fs dy;aa di;jb go;kh vf;ei yy;hl ue;yu bz;ry vd;yv bz;ry
 撒丁的邀約	sa;fs dy;aa de;bu yk;zj yt;su
 撒切爾	sa;fs qx;dq er;ay
 撒加	sa;fs jw;lk
@@ -41918,7 +41918,7 @@ use_preset_vocabulary: false
 文明	wf;dd my;oo
 文明倒退	wf;dd my;oo dk;rd tv;zg
 文明墳場	wf;dd my;oo ff;tb ih;ty
-文明帝國	wf;dd my;oo di;wj go;kh
+文明帝國	wf;dd my;oo di;jb go;kh
 文明時代	wf;dd my;oo ui;os dl;ry
 文明歲月	wf;dd my;oo sv;vx yt;oy
 文明等級	wf;dd my;oo dg;vs ji;sj
@@ -42177,7 +42177,7 @@ use_preset_vocabulary: false
 斯溫亞貝爾	si;jq wf;dm ya;aa bz;ad er;ay
 斯溫阿貝爾	si;jq wf;dm aa;ek bz;ad er;ay
 斯潘頓大酬賓	si;jq pj;df dp;yt da;ad ib;yv bn;bb
-斯特凡妮婭塞拉帝	si;jq te;ns fj;dj ni;nn ya;ny sl;tb la;fl di;wj
+斯特凡妮婭塞拉帝	si;jq te;ns fj;dj ni;nn ya;ny sl;tb la;fl di;jb
 斯特利烏斯	si;jq te;ns li;dh wu;pd si;jq
 斯特國王子	si;jq te;ns go;kh wh;aa zi;aa
 斯特拉斯堡	si;jq te;ns la;fl si;jq bk;tb
@@ -42404,7 +42404,7 @@ use_preset_vocabulary: false
 新日音色	xn;jq ri;aa yn;lo se;db
 新星	xn;jq xy;ou
 新星主	xn;jq xy;ou vu;dw
-新星之帝環拳士	xn;jq xy;ou vi;dd di;wj hr;wh qr;uf ui;aa
+新星之帝環拳士	xn;jq xy;ou vi;dd di;jb hr;wh qr;uf ui;aa
 新星同盟	xn;jq xy;ou ts;kk mg;mm
 新星散彈槍	xn;jq xy;ou sj;wo dj;gd qd;mc
 新星玲央	xn;jq xy;ou ly;wl yh;ad
@@ -42412,7 +42412,7 @@ use_preset_vocabulary: false
 新春型三千靈變	xn;jq ip;of xy;tx sj;aa qm;pa ly;wl bm;ws
 新春型加荷里斯	xn;jq ip;of xy;tx jw;lk he;ch li;aa si;jq
 新春型四季	xn;jq ip;of xy;tx si;aa ji;hz
-新春型女帝則天	xn;jq ip;of xy;tx nv;aa di;wj ze;db tm;ad
+新春型女帝則天	xn;jq ip;of xy;tx nv;aa di;jb ze;db tm;ad
 新春型安琪	xn;jq ip;of xy;tx an;bn qi;wq
 新春型小龍女	xn;jq ip;of xy;tx xc;ad ls;dg nv;aa
 新春型尤莉	xn;jq ip;of xy;tx yb;ad li;cl
@@ -43053,7 +43053,7 @@ use_preset_vocabulary: false
 日本將棋	ri;aa bf;aa jd;pc qi;mq
 日本小文心蘭	ri;aa bf;aa xc;ad wf;dd xn;dd lj;cj
 日本小檗	ri;aa bf;aa xc;ad bo;mb
-日本帝國海軍	ri;aa bf;aa di;wj go;kh hl;dm jp;bi
+日本帝國海軍	ri;aa bf;aa di;jb go;kh hl;dm jp;bi
 日本忍者世界第一	ri;aa bf;aa rf;xr ve;lo ui;ca jx;tj di;vp yi;aa
 日本戰國	ri;aa bf;aa vj;gd go;kh
 日本戰國時代	ri;aa bf;aa vj;gd go;kh ui;os dl;ry
@@ -43302,7 +43302,7 @@ use_preset_vocabulary: false
 旭子燈	xu;oj zi;aa dg;hd
 旭川娘	xu;oj ir;pa nd;nl
 旭日之心	xu;oj ri;aa vi;dd xn;dd
-旭日帝國	xu;oj ri;aa di;wj go;kh
+旭日帝國	xu;oj ri;aa di;jb go;kh
 旭日採礦車	xu;oj ri;aa cl;fc kd;ug ie;aa
 旭旭寶寶	xu;oj xu;oj bk;bb bk;bb
 旭那由多	xu;oj na;el yb;aa do;xx
@@ -45689,7 +45689,7 @@ use_preset_vocabulary: false
 最初分形	zv;oq iu;yd ff;bd xy;pk
 最初日	zv;oq iu;yd ri;aa
 最初的夢想	zv;oq iu;yd de;bu mg;cx xd;xx
-最初的帝王	zv;oq iu;yd de;bu di;wj wh;aa
+最初的帝王	zv;oq iu;yd de;bu di;jb wh;aa
 最初的聲音	zv;oq iu;yd de;bu ug;eq yn;lo
 最初的言語	zv;oq iu;yd de;bu yj;da yu;yw
 最初的距離	zv;oq iu;yd de;bu ju;zj li;vl
@@ -46377,7 +46377,7 @@ use_preset_vocabulary: false
 有棲川向陽	yb;ou qi;mq ir;pa xd;pk yh;ey
 有棲川夏葉	yb;ou qi;mq ir;pa xw;wz ye;cm
 有棲川姜戈	yb;ou qi;mq ir;pa jd;ny ge;ad
-有棲川帝統	yb;ou qi;mq ir;pa di;wj ts;si
+有棲川帝統	yb;ou qi;mq ir;pa di;jb ts;si
 有棲川未彌美	yb;ou qi;mq ir;pa wz;ex mi;ge mz;dy
 有棲川綾	yb;ou qi;mq ir;pa ly;sl
 有棲川翠	yb;ou qi;mq ir;pa cv;yz
@@ -46653,7 +46653,7 @@ use_preset_vocabulary: false
 朝花夕誓	ik;ou hw;ch xi;pd ui;yv
 朝菜優奈	ik;ou cl;cc yb;rw nl;du
 朝蜘蛛	ik;ou vi;iv vu;iv
-朝辭白帝城	ik;ou ci;xy bl;pa di;wj ig;ti
+朝辭白帝城	ik;ou ci;xy bl;pa di;jb ig;ti
 朝陽冬泳怪鴿	vk;ou yh;ey ds;wd ys;dy gy;xu ge;nh
 朝陽羣衆	vk;ou yh;ey qp;yj vs;xd
 朝雲	ik;ou yp;yy
@@ -48299,8 +48299,8 @@ use_preset_vocabulary: false
 東浦未來	ds;ad pu;df wz;ex ll;ad
 東海仙	ds;ad hl;dm xm;ru
 東海修	ds;ad hl;dm xq;rp
-東海帝王	ds;ad hl;dm di;wj wh;aa
-東海帝皇	ds;ad hl;dm di;wj hd;bw
+東海帝王	ds;ad hl;dm di;jb wh;aa
+東海帝皇	ds;ad hl;dm di;jb hd;bw
 東海林亞祐	ds;ad hl;dm ln;mm ya;aa yb;uy
 東海桐花	ds;ad hl;dm ts;mt hw;ch
 東海篇	ds;ad hl;dm pm;vb
@@ -48325,7 +48325,7 @@ use_preset_vocabulary: false
 東箋紀良	ds;ad jm;vj ji;sj ld;dg
 東線戰場	ds;ad xm;sq vj;gd ih;ty
 東羅馬	ds;ad lo;sv ma;ad
-東羅馬帝國	ds;ad lo;sv ma;ad di;wj go;kh
+東羅馬帝國	ds;ad lo;sv ma;ad di;jb go;kh
 東耀高級中學	ds;ad yk;gd gk;dk ji;sj vs;aa xt;jz
 東花梨	ds;ad hw;ch li;ml
 東華	ds;ad hw;ca
@@ -49098,12 +49098,12 @@ use_preset_vocabulary: false
 查爾斯迪貝爾克特艾爾西亞十一世	ia;md er;ay si;jq di;zy bz;ad er;ay ke;eg te;ns ai;ci er;ay xi;aa ya;aa ui;aa yi;aa ui;ca
 查理	ia;md li;wl
 查理九世	ia;md li;wl jq;py ui;ca
-查理大帝	ia;md li;wl da;ad di;wj
+查理大帝	ia;md li;wl da;ad di;jb
 查理布朗	ia;md li;wl bu;ju lh;ol
 查理布朗的聖誕節	ia;md li;wl bu;ju lh;ol de;bu ug;ew dj;yy jx;vj
 查理曼	ia;md li;wl mj;oy
 查理曼十二勇士	ia;md li;wl mj;oy ui;aa er;aa ys;ly ui;aa
-查理曼大帝	ia;md li;wl mj;oy da;ad di;wj
+查理曼大帝	ia;md li;wl mj;oy da;ad di;jb
 查理約翰洛雪弗	ia;md li;wl yt;su hj;yu lo;dg xt;yx fu;aa
 查理蘇	ia;md li;wl su;ch
 查瑞拉瓦爾加斯	ia;md rv;we la;fl wa;ad er;ay jw;lk si;jq
@@ -50834,7 +50834,7 @@ use_preset_vocabulary: false
 極猩猩	ji;ma xy;qx xy;qx
 極獸聚	ji;ma ub;qu ju;ed
 極神皇	ji;ma uf;uu hd;bw
-極神聖帝	ji;ma uf;uu ug;ew di;wj
+極神聖帝	ji;ma uf;uu ug;ew di;jb
 極端純情	ji;ma dr;le ip;st qy;xq
 極西安保派駐	ji;ma xi;aa an;bn bk;rd pl;dp vu;mv
 極西安保派駐關卡	ji;ma xi;aa an;bn bk;rd pl;dp vu;mv gr;ma qw;bx
@@ -51517,9 +51517,9 @@ use_preset_vocabulary: false
 機甲龍獸	ji;mj jw;aa ls;dg ub;qu
 機界戰隊全開者	ji;mj jx;tj vj;gd dv;eu qr;rw kl;mk ve;lo
 機皇城	ji;mj hd;bw ig;ti
-機皇帝的賜予	ji;mj hd;bw di;wj de;bu ci;by yu;sa
-機皇帝的賜與	ji;mj hd;bw di;wj de;bu ci;by yu;ba
-機皇帝神陸娘	ji;mj hd;bw di;wj uf;uu lu;et nd;nl
+機皇帝的賜予	ji;mj hd;bw di;jb de;bu ci;by yu;sa
+機皇帝的賜與	ji;mj hd;bw di;jb de;bu ci;by yu;ba
+機皇帝神陸娘	ji;mj hd;bw di;jb uf;uu lu;et nd;nl
 機皇廠	ji;mj hd;bw ih;gi
 機神鏡	ji;mj uf;uu jy;jj
 機管局	ji;mj gr;vg ju;uk
@@ -52175,7 +52175,7 @@ use_preset_vocabulary: false
 歐布奧特曼劇場版	ou;qq bu;ju ao;db te;ns mj;oy ju;dj ih;ty bj;pf
 歐布拉迪歐布拉達	ou;qq bu;ju la;fl di;zy ou;qq bu;ju la;fl da;zy
 歐布的祈禱	ou;qq bu;ju de;bu qi;uj dk;uu
-歐帝努斯	ou;qq di;wj nu;ln si;jq
+歐帝努斯	ou;qq di;jb nu;ln si;jq
 歐德奈瑞	ou;qq de;xx nl;du rv;we
 歐忒耳佩	ou;qq te;xy er;aa pz;rb
 歐應萬	ou;qq yy;gx wj;cy
@@ -52798,7 +52798,7 @@ use_preset_vocabulary: false
 死亡實驗	si;db wh;da ui;bg yj;mq
 死亡實驗室	si;db wh;da ui;bg yj;mq ui;bv
 死亡嵌合龍	si;db wh;da qm;uq he;rk ls;dg
-死亡帝王龍	si;db wh;da di;wj wh;aa ls;dg
+死亡帝王龍	si;db wh;da di;jb wh;aa ls;dg
 死亡復甦	si;db wh;da fu;xf su;gu
 死亡微笑	si;db wh;da wz;xw xc;vy
 死亡愛麗絲	si;db wh;da ai;vw li;ll si;ss
@@ -52881,7 +52881,7 @@ use_preset_vocabulary: false
 死獄鄉的導化	si;db yu;qq xd;el de;bu dk;cd hw;rb
 死生之律者	si;db ug;na vi;dd lv;xy ve;lo
 死生活	si;db ug;na ho;du
-死皇帝之陵墓	si;db hd;bw di;wj vi;dd ly;el mu;ct
+死皇帝之陵墓	si;db hd;bw di;jb vi;dd ly;el mu;ct
 死神	si;db uf;uu
 死神之吻乃離別之味	si;db uf;uu vi;dd wf;kw nl;gp li;vl bx;dd vi;dd wz;kw
 死神之眼	si;db uf;uu vi;dd yj;og
@@ -54678,7 +54678,7 @@ use_preset_vocabulary: false
 沙漠的裁決	ua;du mo;dm de;bu cl;gy jt;dd
 沙漠的雪花	ua;du mo;dm de;bu xt;yx hw;ch
 沙漠的青鳥	ua;du mo;dm de;bu qy;fo nc;pd
-沙漠皇帝	ua;du mo;dm hd;bw di;wj
+沙漠皇帝	ua;du mo;dm hd;bw di;jb
 沙漠精靈	ua;du mo;dm jy;mq ly;wl
 沙漠腹地	ua;du mo;dm fu;of di;ty
 沙漠蜻蜓娘	ua;du mo;dm qy;iq ty;it nd;nl
@@ -55058,7 +55058,7 @@ use_preset_vocabulary: false
 泛用型布里	fj;df ys;kf xy;tx bu;ju li;aa
 泛用無界角色扮演系統	fj;df ys;kf wu;da jx;tj jt;dy se;db bj;ff yj;dy xi;ps ts;si
 泛用系統	fj;df ys;kf xi;ps ts;si
-泛神的帝王	fj;df uf;uu de;bu di;wj wh;aa
+泛神的帝王	fj;df uf;uu de;bu di;jb wh;aa
 泠仙	ly;dl xm;ru
 泠月	ly;dl yt;oy
 泠然	ly;dl rj;dq
@@ -55468,7 +55468,7 @@ use_preset_vocabulary: false
 洛倫佐德美第奇	lo;dg lp;rl zo;rz de;xx mz;dy di;vp qi;dk
 洛克	lo;dg ke;eg
 洛克人	lo;dg ke;eg rf;pd
-洛克人信長之野望帝國傳	lo;dg ke;eg rf;pd xn;ry vh;ad vi;dd ye;ly wh;wo di;wj go;kh ir;rv
+洛克人信長之野望帝國傳	lo;dg ke;eg rf;pd xn;ry vh;ad vi;dd ye;ly wh;wo di;jb go;kh ir;rv
 洛克人與佛魯迪	lo;dg ke;eg rf;pd yu;ba fu;rf lu;yo di;zy
 洛克娘	lo;dg ke;eg nd;nl
 洛克巴洛克	lo;dg ke;eg ba;ag lo;dg ke;eg
@@ -55630,7 +55630,7 @@ use_preset_vocabulary: false
 洪堡企鵝	hs;dg bk;tb qi;rv ee;nw
 洪姐	hs;dg jx;nq
 洪暢賢	hs;dg ih;uy xm;by
-洪武皇帝	hs;dg wu;vy hd;bw di;wj
+洪武皇帝	hs;dg wu;vy hd;bw di;jb
 洪浩軒	hs;dg hk;dg xr;ig
 洪海天	hs;dg hl;dm tm;ad
 洪潮之焰	hs;dg ik;di vi;dd yj;hj
@@ -57569,7 +57569,7 @@ use_preset_vocabulary: false
 滅爸	mx;dh ba;fb
 滅盡龍	mx;dh jn;md ls;dg
 滅絕國王鮭	mx;dh jt;sb go;kh wh;aa gv;yg
-滅絕帝王鮭	mx;dh jt;sb di;wj wh;aa gv;yg
+滅絕帝王鮭	mx;dh jt;sb di;jb wh;aa gv;yg
 滅絕師太	mx;dh jt;sb ui;vb tl;dd
 滅絕志願僞裝種	mx;dh jt;sb vi;ux yr;yy wz;rw vd;yv vs;hv
 滅絕戰爭	mx;dh jt;sb vj;gd vg;va
@@ -57808,7 +57808,7 @@ use_preset_vocabulary: false
 漢江戀	hj;dh jd;dg lm;xs
 漢法斯陀夫	hj;dh fa;dq si;jq to;et fu;ad
 漢波德企鵝	hj;dh bo;dp de;xx qi;rv ee;nw
-漢獻帝	hj;dh xm;qg di;wj
+漢獻帝	hj;dh xm;qg di;jb
 漢考克	hj;dh kk;lk ke;eg
 漢莎西門子	hj;dh ua;cu xi;aa mf;aa zi;aa
 漢萱兒	hj;dh xr;cx er;ej
@@ -58853,7 +58853,7 @@ use_preset_vocabulary: false
 炎妃龍	yj;hh fz;nj ls;dg
 炎客	yj;hh ke;bg
 炎巢蜂后	yj;hh ik;ig fg;if hb;pk
-炎帝	yj;hh di;wj
+炎帝	yj;hh di;jb
 炎心	yj;hh xn;dd
 炎戈龍	yj;hh ge;ad ls;dg
 炎拳	yj;hh qr;uf
@@ -59063,7 +59063,7 @@ use_preset_vocabulary: false
 烏托邦	wu;pd to;fq bh;ef
 烏拉吉爾	wu;pd la;fl ji;ku er;ay
 烏拉拉迷路帖	wu;pd la;fl la;fl mi;zm lu;zg tx;jv
-烏拉的帝國	wu;pd la;fl de;bu di;wj go;kh
+烏拉的帝國	wu;pd la;fl de;bu di;jb go;kh
 烏拉諾斯	wu;pd la;fl no;yr si;jq
 烏斯比拉真冬	wu;pd si;jq bi;bb la;fl vf;uj ds;wd
 烏明路	wu;pd my;oo lu;zg
@@ -59297,7 +59297,7 @@ use_preset_vocabulary: false
 無形噬體感染	wu;da xy;pk ui;ku ti;gd gj;xx rj;mg
 無形噬體溶解	wu;da xy;pk ui;ku ti;gd rs;dr jx;jn
 無形巨洞	wu;da xy;pk ju;aa ds;dt
-無形帝國篇登場角色	wu;da xy;pk di;wj go;kh pm;vb dg;dd ih;ty jt;dy se;db
+無形帝國篇登場角色	wu;da xy;pk di;jb go;kh pm;vb dg;dd ih;ty jt;dy se;db
 無形火	wu;da xy;pk ho;dd
 無形矢心靈	wu;da xy;pk ui;pd xn;dd ly;wl
 無形陣假面	wu;da xy;pk vf;ei jw;rj mm;aa
@@ -59407,7 +59407,7 @@ use_preset_vocabulary: false
 無法計算的青春	wu;da fa;dq ji;yu sr;vc de;bu qy;fo ip;of
 無法逃離的行星	wu;da fa;dq tk;zv li;vl de;bu xy;xd xy;ou
 無法醒來的噩夢	wu;da fa;dq xy;yx ll;ad de;bu ee;wk mg;cx
-無法釋懷的夏天	wu;da fa;dq ui;bx hy;xh de;bu xw;wz tm;ad
+無法釋懷的夏天	wu;da fa;dq ui;px hy;xh de;bu xw;wz tm;ad
 無法飛翔的蝴蝶與天空的逆戟鯨	wu;da fa;dq fz;ff xd;yy de;bu hu;ih dx;im yu;ba tm;ad ks;bg de;bu ni;zn ji;gu jy;yj
 無法飛行的深海魚	wu;da fa;dq fz;ff xy;xd de;bu uf;dm hl;dm yu;dd
 無浪漫傾向	wu;da lh;dl mj;dm qy;rq xd;pk
@@ -60497,7 +60497,7 @@ use_preset_vocabulary: false
 牙買加	ya;ap ml;bs jw;lk
 牙音	ya;ap yn;lo
 牙鬥獸娘	ya;ap db;aa ub;qu nd;nl
-牙鮫帝	ya;ap jc;yj di;wj
+牙鮫帝	ya;ap jc;yj di;jb
 牙齒娘	ya;ap ii;vk nd;nl
 牙龍咆哮	ya;ap ls;dg pk;kb xc;kx
 牙龍轉生	ya;ap ls;dg vr;iv ug;na
@@ -61702,7 +61702,7 @@ use_preset_vocabulary: false
 玉琪派	yu;ad qi;wq pl;dp
 玉璽	yu;ad xi;ye
 玉田環	yu;ad tm;aa hr;wh
-玉皇大帝	yu;ad hd;bw da;ad di;wj
+玉皇大帝	yu;ad hd;bw da;ad di;jb
 玉真	yu;ad vf;uj
 玉碎命令	yu;ad sv;uz my;re ly;rs
 玉碎指令	yu;ad sv;uz vi;fv ly;rs
@@ -61847,7 +61847,7 @@ use_preset_vocabulary: false
 王小豫	wh;aa xc;ad yu;yx
 王巍	wh;aa wz;uw
 王帕裏	wh;aa pa;jb li;dy
-王帝君	wh;aa di;wj jp;ky
+王帝君	wh;aa di;jb jp;ky
 王平	wh;aa py;aa
 王座	wh;aa zo;gz
 王座守護者	wh;aa zo;gz ub;bc hu;yh ve;lo
@@ -62533,7 +62533,7 @@ use_preset_vocabulary: false
 琴寄文乃	qn;wj ji;bq wf;dd nl;gp
 琴山	qn;wj uj;aa
 琴川晶	qn;wj ir;pa jy;oo
-琴帝	qn;wj di;wj
+琴帝	qn;wj di;jb
 琴引友裏	qn;wj yn;ga yb;yu li;dy
 琴恩如月	qn;wj en;xy ru;nk yt;oy
 琴慈	qn;wj ci;xz
@@ -65422,16 +65422,16 @@ use_preset_vocabulary: false
 皇家馬德里	hd;bw jw;bu ma;ad de;xx li;aa
 皇家馬德里娘	hd;bw jw;bu ma;ad de;xx li;aa nd;nl
 皇尚	hd;bw uh;xk
-皇帝	hd;bw di;wj
-皇帝內衛	hd;bw di;wj nz;kr wz;xi
-皇帝的新娘	hd;bw di;wj de;bu xn;jq nd;nl
-皇帝的新歌	hd;bw di;wj de;bu xn;jq ge;qg
-皇帝的新裝	hd;bw di;wj de;bu xn;jq vd;yv
-皇帝聖印戰記	hd;bw di;wj ug;ew yn;ey vj;gd ji;yj
-皇帝艾麗婕	hd;bw di;wj ai;ci li;ll jx;nj
-皇帝陛下的隨身女官	hd;bw di;wj bi;eb xw;ab de;bu sv;es uf;pp nv;aa gr;bg
-皇帝電臺音樂	hd;bw di;wj dm;yd tl;uv yn;lo yt;bm
-皇帝鬥技場	hd;bw di;wj db;aa ji;fv ih;ty
+皇帝	hd;bw di;jb
+皇帝內衛	hd;bw di;jb nz;kr wz;xi
+皇帝的新娘	hd;bw di;jb de;bu xn;jq nd;nl
+皇帝的新歌	hd;bw di;jb de;bu xn;jq ge;qg
+皇帝的新裝	hd;bw di;jb de;bu xn;jq vd;yv
+皇帝聖印戰記	hd;bw di;jb ug;ew yn;ey vj;gd ji;yj
+皇帝艾麗婕	hd;bw di;jb ai;ci li;ll jx;nj
+皇帝陛下的隨身女官	hd;bw di;jb bi;eb xw;ab de;bu sv;es uf;pp nv;aa gr;bg
+皇帝電臺音樂	hd;bw di;jb dm;yd tl;uv yn;lo yt;bm
+皇帝鬥技場	hd;bw di;jb db;aa ji;fv ih;ty
 皇族電子競技俱樂部	hd;bw zu;fu dm;yd zi;aa jy;jj ji;fv ju;rj le;bm bu;ek
 皇昴流	hd;bw mk;om lq;di
 皇柚葉	hd;bw yb;my ye;cm
@@ -66203,7 +66203,7 @@ use_preset_vocabulary: false
 真希奈	vf;uj xi;ju nl;du
 真希波	vf;uj xi;ju bo;dp
 真希波瑪麗伊蘭崔亞斯	vf;uj xi;ju bo;dp ma;wm li;ll yi;ry lj;cj cv;uv ya;aa si;jq
-真帝王領域	vf;uj di;wj wh;aa ly;yl yu;th
+真帝王領域	vf;uj di;jb wh;aa ly;yl yu;th
 真幌肆季	vf;uj hd;jh si;yi ji;hz
 真庭人鳥	vf;uj ty;gt rf;pd nc;pd
 真庭狂犬	vf;uj ty;gt kd;qw qr;dd
@@ -66272,7 +66272,7 @@ use_preset_vocabulary: false
 真沒埋	vf;uj mz;du ml;tl
 真海豚	vf;uj hl;dm tp;ou
 真深眠	vf;uj uf;dm mm;om
-真源的帝王	vf;uj yr;dy de;bu di;wj wh;aa
+真源的帝王	vf;uj yr;dy de;bu di;jb wh;aa
 真瀨由子	vf;uj ll;dl yb;aa zi;aa
 真炎幸魂	vf;uj yj;hh xy;tu hp;gy
 真炎的爆發	vf;uj yj;hh de;bu bk;hb fa;du
@@ -68104,7 +68104,7 @@ use_preset_vocabulary: false
 神聖光輝	uf;uu ug;ew gd;ea hv;gj
 神聖分離者	uf;uu ug;ew ff;bd li;vl ve;lo
 神聖天使獸	uf;uu ug;ew tm;ad ui;rl ub;qu
-神聖布里塔尼亞帝國	uf;uu ug;ew bu;ju li;aa ta;td ni;ub ya;aa di;wj go;kh
+神聖布里塔尼亞帝國	uf;uu ug;ew bu;ju li;aa ta;td ni;ub ya;aa di;jb go;kh
 神聖復仇者	uf;uu ug;ew fu;xf ib;rj ve;lo
 神聖放逐樂隊	uf;uu ug;ew fh;wf vu;zu yt;bm dv;eu
 神聖森林	uf;uu ug;ew sf;ml ln;mm
@@ -68117,7 +68117,7 @@ use_preset_vocabulary: false
 神聖精靈	uf;uu ug;ew jy;mq ly;wl
 神聖精靈的祝福	uf;uu ug;ew jy;mq ly;wl de;bu vu;ux fu;uf
 神聖羅馬	uf;uu ug;ew lo;sv ma;ad
-神聖羅馬帝國	uf;uu ug;ew lo;sv ma;ad di;wj go;kh
+神聖羅馬帝國	uf;uu ug;ew lo;sv ma;ad di;jb go;kh
 神聖能量	uf;uu ug;ew ng;sb ld;ol
 神聖連弩	uf;uu ug;ew lm;zi nu;gn
 神聖遺體	uf;uu ug;ew yi;zg ti;gd
@@ -69368,7 +69368,7 @@ use_preset_vocabulary: false
 穿山甲弟弟	ir;by uj;aa jw;aa di;bp di;bp
 穿山鼠	ir;by uj;aa uu;ju
 穿山鼠娘	ir;by uj;aa uu;ju nd;nl
-穿新裝的皇帝	ir;by xn;jq vd;yv de;bu hd;bw di;wj
+穿新裝的皇帝	ir;by xn;jq vd;yv de;bu hd;bw di;jb
 穿書自救指南	ir;by uu;oy zi;pa jq;wq vi;fv nj;ua
 穿牆	ir;by qd;ph
 穿牆術	ir;by qd;ph uu;xi
@@ -69456,7 +69456,7 @@ use_preset_vocabulary: false
 窗邊睦美	id;xx bm;zf mu;ot mz;dy
 窩瓜	wo;bg gw;pd
 窩瓜娘	wo;bg gw;pd nd;nl
-窩窩吧揉臉帝	wo;bg wo;bg ba;kb rb;fr lm;oq di;wj
+窩窩吧揉臉帝	wo;bg wo;bg ba;kb rb;fr lm;oq di;jb
 窩窩頭之歌	wo;bg wo;bg tb;dy vi;dd ge;qg
 窪田等	wa;xw tm;aa dg;vs
 窪田輝昭	wa;xw tm;aa hv;gj vk;ov
@@ -69603,7 +69603,7 @@ use_preset_vocabulary: false
 童夢	ts;ll mg;cx
 童女	ts;ll nv;aa
 童子切	ts;ll zi;aa qx;dq
-童帝	ts;ll di;wj
+童帝	ts;ll di;jb
 童年即景	ts;ll nm;pa ji;eg jy;oj
 童年收	ts;ll nm;pa ub;wj
 童年煙火	ts;ll nm;pa yj;ht ho;dd
@@ -70345,7 +70345,7 @@ use_preset_vocabulary: false
 籠中的我們	ls;vl vs;aa de;bu wo;pd mf;rm
 籠中的鳳凰	ls;vl vs;aa de;bu fg;jn hd;jh
 籠中鳥	ls;vl vs;aa nc;pd
-籠原帝子	ls;vl yr;ix di;wj zi;aa
+籠原帝子	ls;vl yr;ix di;jb zi;aa
 籠夏希	ls;vl xw;wz xi;ju
 籠女籠女	ls;vl nv;aa ls;vl nv;aa
 籠手切江	ls;vl ub;pa qx;dq jd;dg
@@ -70430,7 +70430,7 @@ use_preset_vocabulary: false
 米山舞	mi;dd uj;aa wu;rf
 米島希	mi;dd dk;nu xi;ju
 米希奧蕾	mi;dd xi;ju ao;db lz;cl
-米帝	mi;dd di;wj
+米帝	mi;dd di;jb
 米平令美	mi;dd py;aa ly;rs mz;dy
 米庫修亞娜	mi;dd ku;gi xq;rp ya;aa na;nn
 米庫喵	mi;dd ku;gi mc;km
@@ -70516,7 +70516,7 @@ use_preset_vocabulary: false
 米磨砂	mi;dd mo;mu ua;uu
 米科	mi;dd ke;hd
 米科拉契爾年科	mi;dd ke;hd la;fl qi;dd er;ay nm;pa ke;hd
-米穀忠釋	mi;dd gu;hu vs;xv ui;bx
+米穀忠釋	mi;dd gu;hu vs;xv ui;px
 米穀良知	mi;dd gu;hu ld;dg vi;uk
 米穀莉亞古利歐尼歐	mi;dd gu;hu li;cl ya;aa gu;uk li;dh ou;qq ni;ub ou;qq
 米米	mi;dd mi;dd
@@ -70669,7 +70669,7 @@ use_preset_vocabulary: false
 粗口	cu;mq kb;aa
 粗心的小胖	cu;mq xn;dd de;bu xc;ad ph;ob
 粗心超人	cu;mq xn;dd ik;zv rf;pd
-粗暴帝王	cu;mq bk;ou di;wj wh;aa
+粗暴帝王	cu;mq bk;ou di;jb wh;aa
 粗暴無禮的管制	cu;mq bk;ou wu;da li;ud de;bu gr;vg vi;dg
 粗眉	cu;mq mz;om
 粗眉雪人	cu;mq mz;om xt;yx rf;pd
@@ -71957,7 +71957,7 @@ use_preset_vocabulary: false
 終焉之莉莉	vs;sd yj;vd vi;dd li;cl li;cl
 終焉之霸王	vs;sd yj;vd vi;dd ba;yo wh;aa
 終焉守護者	vs;sd yj;vd ub;bc hu;yh ve;lo
-終焉帝	vs;sd yj;vd di;wj
+終焉帝	vs;sd yj;vd di;jb
 終焉的倒計時	vs;sd yj;vd de;bu dk;rd ji;yu ui;os
 終焉的史黛拉	vs;sd yj;vd de;bu ui;ad dl;hd la;fl
 終焉的斯黛拉	vs;sd yj;vd de;bu si;jq dl;hd la;fl
@@ -72557,7 +72557,7 @@ use_preset_vocabulary: false
 維爾薇	wz;sv er;ay wz;cw
 維爾貝爾	wz;sv er;ay bz;ad er;ay
 維特	wz;sv te;ns
-維特里奧卡塔爾帝	wz;sv te;ns li;aa ao;db ka;bx ta;td er;ay di;wj
+維特里奧卡塔爾帝	wz;sv te;ns li;aa ao;db ka;bx ta;td er;ay di;jb
 維琪亞	wz;sv qi;wq ya;aa
 維琴佐切利	wz;sv qn;wj zo;rz qx;dq li;dh
 維碧加莎	wz;sv bi;ub jw;lk ua;cu
@@ -73405,7 +73405,7 @@ use_preset_vocabulary: false
 羅剎	lo;sv ia;du
 羅剎丸	lo;sv ia;du wj;jd
 羅剎女	lo;sv ia;du nv;aa
-羅剎帝國女孩	lo;sv ia;du di;wj go;kh nv;aa hl;zh
+羅剎帝國女孩	lo;sv ia;du di;jb go;kh nv;aa hl;zh
 羅可蓮	lo;sv ke;dk lm;cl
 羅吉庫斯菲克薩立歐	lo;sv ji;ku ku;gi si;jq fz;cf ke;eg sa;ci li;da ou;qq
 羅吉庫斯菲庫沙里歐	lo;sv ji;ku ku;gi si;jq fz;cf ku;gi ua;du li;aa ou;qq
@@ -73611,7 +73611,7 @@ use_preset_vocabulary: false
 羅馬城大屠殺	lo;sv ma;ad ig;ti da;ad tu;uv ua;uu
 羅馬娘	lo;sv ma;ad nd;nl
 羅馬尼亞	lo;sv ma;ad ni;ub ya;aa
-羅馬帝國	lo;sv ma;ad di;wj go;kh
+羅馬帝國	lo;sv ma;ad di;jb go;kh
 羅馬情路	lo;sv ma;ad qy;xq lu;zg
 羅馬旗幟殭屍	lo;sv ma;ad qi;fq vi;jg jd;dj ui;us
 羅馬殭屍	lo;sv ma;ad jd;dj ui;us
@@ -73833,7 +73833,7 @@ use_preset_vocabulary: false
 美工刀	mz;dy gs;aa dk;gp
 美希	mz;dy xi;ju
 美希提	mz;dy xi;ju ti;fu
-美帝	mz;dy di;wj
+美帝	mz;dy di;jb
 美幸	mz;dy xy;tu
 美幸凱瑟琳	mz;dy xy;tu kl;jd se;wb ln;wl
 美式出埃及記	mz;dy ui;gy iu;ck ai;tu ji;nd ji;yj
@@ -74140,7 +74140,7 @@ use_preset_vocabulary: false
 羽斯緹薩里姿萊希馮愛因茲貝倫	yu;xx si;jq ti;su sa;ci li;aa zi;nc ll;cl xi;ju fg;dm ai;vw yn;kd zi;cy bz;ad lp;rl
 羽方由佳	yu;xx fh;dg yb;aa jw;rg
 羽日	yu;xx ri;aa
-羽月莉音的帝國	yu;xx yt;oy li;cl yn;lo de;bu di;wj go;kh
+羽月莉音的帝國	yu;xx yt;oy li;cl yn;lo de;bu di;jb go;kh
 羽村京平	yu;xx cp;mc jy;wx py;aa
 羽柴夏樹	yu;xx il;mc xw;wz uu;mc
 羽柴林	yu;xx il;mc ln;mm
@@ -75384,7 +75384,7 @@ use_preset_vocabulary: false
 腓尼基拉克曼	fz;of ni;ub ji;tq la;fl ke;eg mj;oy
 腓特烈二世	fz;of te;ns lx;dl er;aa ui;ca
 腓特烈堡城堡	fz;of te;ns lx;dl bk;tb ig;ti bk;tb
-腓特烈大帝	fz;of te;ns lx;dl da;ad di;wj
+腓特烈大帝	fz;of te;ns lx;dl da;ad di;jb
 腕力娘	wj;ow li;gp nd;nl
 腕豪	wj;ow hk;ub
 腕龍	wj;ow ls;dg
@@ -75592,7 +75592,7 @@ use_preset_vocabulary: false
 自奏聖樂的硬核	zi;pa zb;ft ug;ew le;bm de;bu yy;ug he;mh
 自奏聖樂的起音	zi;pa zb;ft ug;ew le;bm de;bu qi;zj yn;lo
 自奏聖樂的通天塔	zi;pa zb;ft ug;ew le;bm de;bu ts;zy tm;ad ta;td
-自奏聖樂的釋音	zi;pa zb;ft ug;ew le;bm de;bu ui;bx yn;lo
+自奏聖樂的釋音	zi;pa zb;ft ug;ew le;bm de;bu ui;px yn;lo
 自奏聖樂管絃樂琴機械樂團	zi;pa zb;ft ug;ew le;bm gr;vg xm;sx yt;bm qn;wj ji;mj xx;mj yt;bm tr;kv
 自娛自樂	zi;pa yu;nw zi;pa le;bm
 自宅警備員	zi;pa vl;bq jy;yj bz;ry yr;kb
@@ -75771,7 +75771,7 @@ use_preset_vocabulary: false
 自鳴天琴巴別塔	zi;pa my;kn tm;ad qn;wj ba;ag bx;dd ta;td
 自鳴天琴朗基爾蘇	zi;pa my;kn tm;ad qn;wj lh;ol ji;tq er;ay su;ch
 自鳴天琴起音	zi;pa my;kn tm;ad qn;wj qi;zj yn;lo
-自鳴天琴釋音	zi;pa my;kn tm;ad qn;wj ui;bx yn;lo
+自鳴天琴釋音	zi;pa my;kn tm;ad qn;wj ui;px yn;lo
 自鳴天琴驟變	zi;pa my;kn tm;ad qn;wj vb;mj bm;ws
 自黯淡之刻的盡頭	zi;pa an;hy dj;dy vi;dd ke;dh de;bu jn;md tb;dy
 臭氧寶貝	ib;zq yh;qy bk;bb bz;ad
@@ -76060,7 +76060,7 @@ use_preset_vocabulary: false
 舊敘	jq;cj xu;wy
 舊旋律	jq;cj xr;fp lv;xy
 舊日支配者頌歌	jq;cj ri;aa vi;uy pz;yj ve;lo ss;yg ge;qg
-舊日本帝國海軍	jq;cj ri;aa bf;aa di;wj go;kh hl;dm jp;bi
+舊日本帝國海軍	jq;cj ri;aa bf;aa di;jb go;kh hl;dm jp;bi
 舊日浮光	jq;cj ri;aa fu;df gd;ea
 舊時約	jq;cj ui;os yt;su
 舊時風月	jq;cj ui;os fg;ji yt;oy
@@ -76418,7 +76418,7 @@ use_preset_vocabulary: false
 艾布拉姆斯娘	ai;ci bu;ju la;fl mu;nm si;jq nd;nl
 艾希	ai;ci xi;ju
 艾希莉	ai;ci xi;ju li;cl
-艾帝美基爾	ai;ci di;wj mz;dy ji;tq er;ay
+艾帝美基爾	ai;ci di;jb mz;dy ji;tq er;ay
 艾庫莉亞菲彌琳絲	ai;ci ku;gi li;cl ya;aa fz;cf mi;ge ln;wl si;ss
 艾弗裏卡林頓	ai;ci fu;aa li;dy ka;bx ln;mm dp;yt
 艾弗裏杜根	ai;ci fu;aa li;dy du;mt gf;mg
@@ -76528,7 +76528,7 @@ use_preset_vocabulary: false
 艾爾毒爆	ai;ci er;ay du;fm bk;hb
 艾爾法	ai;ci er;ay fa;dq
 艾爾海森	ai;ci er;ay hl;dm sf;ml
-艾爾涅斯帝埃切貝里亞	ai;ci er;ay nx;dn si;jq di;wj ai;tu qx;dq bz;ad li;aa ya;aa
+艾爾涅斯帝埃切貝里亞	ai;ci er;ay nx;dn si;jq di;jb ai;tu qx;dq bz;ad li;aa ya;aa
 艾爾溫	ai;ci er;ay wf;dm
 艾爾特娜姆	ai;ci er;ay te;ns na;nn mu;nm
 艾爾瑪	ai;ci er;ay ma;wm
@@ -76893,7 +76893,7 @@ use_preset_vocabulary: false
 芒麥	mh;cw ml;lx
 芙克西婭	fu;cf ke;eg xi;aa ya;ny
 芙凱	fu;cf kl;jd
-芙列雅艾爾格蘭帝吉歐拉爾	fu;cf lx;dd ya;vy ai;ci er;ay ge;mg lj;cj di;wj ji;ku ou;qq la;fl er;ay
+芙列雅艾爾格蘭帝吉歐拉爾	fu;cf lx;dd ya;vy ai;ci er;ay ge;mg lj;cj di;jb ji;ku ou;qq la;fl er;ay
 芙勞	fu;cf lk;hl
 芙勞波	fu;cf lk;hl bo;dp
 芙卡洛斯	fu;cf ka;bx lo;dg si;jq
@@ -79874,7 +79874,7 @@ use_preset_vocabulary: false
 蒙古	mg;cm gu;uk
 蒙古上單	mg;cm gu;uk uh;aa dj;kd
 蒙古入侵	mg;cm gu;uk ru;pd qn;ry
-蒙古帝國	mg;cm gu;uk di;wj go;kh
+蒙古帝國	mg;cm gu;uk di;jb go;kh
 蒙多	mg;cm do;xx
 蒙多醫生	mg;cm do;xx yi;yu ug;na
 蒙大拿	mg;cm da;ad na;uh
@@ -81423,7 +81423,7 @@ use_preset_vocabulary: false
 蘭布達	lj;cj bu;ju da;zy
 蘭希	lj;cj xi;ju
 蘭帕特森	lj;cj pa;jb te;ns sf;ml
-蘭帝亞	lj;cj di;wj ya;aa
+蘭帝亞	lj;cj di;jb ya;aa
 蘭德	lj;cj de;xx
 蘭德爾公司	lj;cj de;xx er;ay gs;sb si;gk
 蘭托馬斯林克	lj;cj to;fq ma;ad si;jq ln;mm ke;eg
@@ -83389,7 +83389,7 @@ use_preset_vocabulary: false
 西絹代	xi;aa jr;so dl;ry
 西維吉尼亞	xi;aa wz;sv ji;ku ni;ub ya;aa
 西維斯	xi;aa wz;sv si;jq
-西羅馬帝國	xi;aa lo;sv ma;ad di;wj go;kh
+西羅馬帝國	xi;aa lo;sv ma;ad di;jb go;kh
 西耶那	xi;aa ye;ee na;el
 西脅保	xi;aa xx;ol bk;rd
 西芹百合	xi;aa qn;cj bl;ab he;rk
@@ -83397,7 +83397,7 @@ use_preset_vocabulary: false
 西莉亞埃爾德	xi;aa li;cl ya;aa ai;tu er;ay de;xx
 西莉卡	xi;aa li;cl ka;bx
 西莉烏斯	xi;aa li;cl wu;pd si;jq
-西莉烏斯羅曼尼康帝	xi;aa li;cl wu;pd si;jq lo;sv mj;oy ni;ub kh;gl di;wj
+西莉烏斯羅曼尼康帝	xi;aa li;cl wu;pd si;jq lo;sv mj;oy ni;ub kh;gl di;jb
 西莉雅佩普西利亞	xi;aa li;cl ya;vy pz;rb pu;ob xi;aa li;dh ya;aa
 西莫斐尼甘	xi;aa mo;cd fz;wf ni;ub gj;aa
 西華	xi;aa hw;ca
@@ -83995,7 +83995,7 @@ use_preset_vocabulary: false
 許願之卵	xu;yw yr;yy vi;dd lr;pd
 許願牆	xu;yw yr;yy qd;ph
 訴訟	su;yi ss;yg
-訶梨帝母	he;yk li;ml di;wj mu;ad
+訶梨帝母	he;yk li;ml di;jb mu;ad
 診所	vf;yp so;hj
 診斷乾眼症	vf;yp dr;ja gj;qu yj;og vg;bv
 註定孤獨一生	vu;yv dy;bp gu;zg du;qi yi;aa ug;na
@@ -85427,7 +85427,7 @@ use_preset_vocabulary: false
 貝利	bz;ad li;dh
 貝利亞	bz;ad li;dh ya;aa
 貝利亞吸血魔獸	bz;ad li;dh ya;aa xi;kj xt;pa mo;gm ub;qu
-貝利亞銀河帝國	bz;ad li;dh ya;aa yn;jg he;dk di;wj go;kh
+貝利亞銀河帝國	bz;ad li;dh ya;aa yn;jg he;dk di;jb go;kh
 貝利亞黃昏	bz;ad li;dh ya;aa hd;cb hp;ou
 貝利可羅	bz;ad li;dh ke;dk lo;sv
 貝利昂	bz;ad li;dh ah;oe
@@ -85479,7 +85479,7 @@ use_preset_vocabulary: false
 貝澤愛	bz;ad ze;dx ai;vw
 貝爺	bz;ad ye;fy
 貝爾	bz;ad er;ay
-貝爾傑尼亞帝國	bz;ad er;ay jx;rj ni;ub ya;aa di;wj go;kh
+貝爾傑尼亞帝國	bz;ad er;ay jx;rj ni;ub ya;aa di;jb go;kh
 貝爾克朗尼	bz;ad er;ay ke;eg lh;ol ni;ub
 貝爾卡	bz;ad er;ay ka;bx
 貝爾娜提塔	bz;ad er;ay na;nn ti;fu ta;td
@@ -85506,7 +85506,7 @@ use_preset_vocabulary: false
 貝爾麥坎	bz;ad er;ay ml;lx kj;tq
 貝特莉亞	bz;ad te;ns li;cl ya;aa
 貝特霍爾德胡佛	bz;ad te;ns ho;yv er;ay de;xx hu;og fu;rf
-貝特魯吉烏斯羅曼尼康帝	bz;ad te;ns lu;yo ji;ku wu;pd si;jq lo;sv mj;oy ni;ub kh;gl di;wj
+貝特魯吉烏斯羅曼尼康帝	bz;ad te;ns lu;yo ji;ku wu;pd si;jq lo;sv mj;oy ni;ub kh;gl di;jb
 貝狄威爾	bz;ad di;qh wz;gn er;ay
 貝琪	bz;ad qi;wq
 貝琳	bz;ad ln;wl
@@ -86014,7 +86014,7 @@ use_preset_vocabulary: false
 贊斯利薩斯	zj;bx si;jq li;dh sa;ci si;jq
 贊迪卡	zj;bx di;zy ka;bx
 贊達拉巨魔	zj;bx da;zy la;fl ju;aa mo;gm
-贍養上帝	uj;bv yh;yl uh;aa di;wj
+贍養上帝	uj;bv yh;yl uh;aa di;jb
 贏到最後	yy;bk dk;dv zv;oq hb;xw
 贏回來	yy;bk hv;kk ll;ad
 贏在起跑線	yy;bk zl;ta qi;zj pk;zb xm;sq
@@ -86272,7 +86272,7 @@ use_preset_vocabulary: false
 赫爾瑞婭	he;ii er;ay rv;we ya;ny
 赫爾莫德	he;ii er;ay mo;cd de;xx
 赫爾薇爾	he;ii er;ay wz;cw er;ay
-赫爾阿克帝	he;ii er;ay aa;ek ke;eg di;wj
+赫爾阿克帝	he;ii er;ay aa;ek ke;eg di;jb
 赫特河	he;ii te;ns he;dk
 赫特潘茲	he;ii te;ns pj;df zi;cy
 赫界龍	he;ii jx;tj ls;dg
@@ -87354,7 +87354,7 @@ use_preset_vocabulary: false
 輕鬆百合	qy;ig ss;is bl;ab he;rk
 輝之季節	hv;gj vi;dd ji;hz jx;vj
 輝光子	hv;gj gd;ea zi;aa
-輝光帝	hv;gj gd;ea di;wj
+輝光帝	hv;gj gd;ea di;jb
 輝光龍	hv;gj gd;ea ls;dg
 輝劍鳥	hv;gj jm;dq nc;pd
 輝劍鳥之影靈衣	hv;gj jm;dq nc;pd vi;dd yy;pj ly;wl yi;dd
@@ -87837,7 +87837,7 @@ use_preset_vocabulary: false
 迪迦奧特曼	di;zy jw;zj ao;db te;ns mj;oy
 迪迪剛	di;zy di;zy gh;dg
 迪達拉	di;zy da;zy la;fl
-迪阿姆帝國物語	di;zy aa;ek mu;nm di;wj go;kh wu;nw yu;yw
+迪阿姆帝國物語	di;zy aa;ek mu;nm di;jb go;kh wu;nw yu;yw
 迪阿馬特	di;zy aa;ek ma;ad te;ns
 迪雅梅克	di;zy ya;vy mz;mm ke;eg
 迪魯古蘭	di;zy lu;yo gu;uk lj;cj
@@ -88627,7 +88627,7 @@ use_preset_vocabulary: false
 連接霧之彼端的世界	lm;zi jx;fq wu;yw vi;dd bi;xp dr;le de;bu ui;ca jx;tj
 連擊	lm;zi ji;fu
 連擊修正	lm;zi ji;fu xq;rp vg;av
-連擊的帝王	lm;zi ji;fu de;bu di;wj wh;aa
+連擊的帝王	lm;zi ji;fu de;bu di;jb wh;aa
 連攜的日之劍士	lm;zi xx;fj de;bu ri;aa vi;dd jm;dq ui;aa
 連攜的日之騎士	lm;zi xx;fj de;bu ri;aa vi;dd qi;mq ui;aa
 連攜的月之劍士	lm;zi xx;fj de;bu yt;oy vi;dd jm;dq ui;aa
@@ -88718,10 +88718,10 @@ use_preset_vocabulary: false
 進化之翼	jn;zv hw;rb vi;dd yi;yg
 進化光焰	jn;zv hw;rb gd;ea yj;hj
 進化增援	jn;zv hw;rb zg;tc yr;fy
-進化帝半鳥龍	jn;zv hw;rb di;wj bj;bf nc;pd ls;dg
-進化帝喙嘴龍	jn;zv hw;rb di;wj hv;kt zv;kj ls;dg
-進化帝索德斯龍	jn;zv hw;rb di;wj so;sb de;xx si;jq ls;dg
-進化帝索德龍	jn;zv hw;rb di;wj so;sb de;xx ls;dg
+進化帝半鳥龍	jn;zv hw;rb di;jb bj;bf nc;pd ls;dg
+進化帝喙嘴龍	jn;zv hw;rb di;jb hv;kt zv;kj ls;dg
+進化帝索德斯龍	jn;zv hw;rb di;jb so;sb de;xx si;jq ls;dg
+進化帝索德龍	jn;zv hw;rb di;jb so;sb de;xx ls;dg
 進化果實	jn;zv hw;rb go;ad ui;bg
 進化理論	jn;zv hw;rb li;wl lp;yl
 進化的人類	jn;zv hw;rb de;bu rf;pd lz;yl
@@ -88743,7 +88743,7 @@ use_preset_vocabulary: false
 進擊	jn;zv ji;fu
 進擊的冰糖	jn;zv ji;fu de;bu by;du th;mt
 進擊的巨人	jn;zv ji;fu de;bu ju;aa rf;pd
-進擊的帝王	jn;zv ji;fu de;bu di;wj wh;aa
+進擊的帝王	jn;zv ji;fu de;bu di;jb wh;aa
 進擊篇	jn;zv ji;fu pm;vb
 進本	jn;zv bf;aa
 進氣口髮型	jn;zv qi;qm kb;aa fa;ib xy;tx
@@ -89441,7 +89441,7 @@ use_preset_vocabulary: false
 邂逅	xx;zj hb;zh
 邂逅少女	xx;zj hb;zh uk;xp nv;aa
 還不可以	hl;zh bu;ad ke;dk yi;rd
-還不快多謝帝騎哥	hl;zh bu;ad ky;xd do;xx xx;yu di;wj qi;mq ge;kd
+還不快多謝帝騎哥	hl;zh bu;ad ky;xd do;xx xx;yu di;jb qi;mq ge;kd
 還不快多謝烏蠅哥	hl;zh bu;ad ky;xd do;xx xx;yu wu;pd yy;im ge;kd
 還原成詩	hr;zh yr;ix ig;gg ui;ys
 還原點控球后衛	hr;zh yr;ix dm;hv ks;fk qq;wq hb;pk wz;xi
@@ -90100,14 +90100,14 @@ use_preset_vocabulary: false
 醬紫	jd;yj zi;sc
 醬紫剪	jd;yj zi;sc jm;dq
 釀了你哦	nd;yx le;aa ni;re oo;kw
-釋放魔法	ui;bx fh;wf mo;gm fa;dq
-釋然	ui;bx rj;dq
-釋英勝	ui;bx yy;cy ug;ol
-釋證嚴	ui;bx vg;yd yj;kg
-釋迦堂裏奈	ui;bx jw;zj th;tk li;dy nl;du
-釋迦牟尼	ui;bx jw;zj mu;sn ni;ub
-釋迦牟尼佛	ui;bx jw;zj mu;sn ni;ub fu;rf
-釋雪二藍	ui;bx xt;yx er;aa lj;cj
+釋放魔法	ui;px fh;wf mo;gm fa;dq
+釋然	ui;px rj;dq
+釋英勝	ui;px yy;cy ug;ol
+釋證嚴	ui;px vg;yd yj;kg
+釋迦堂裏奈	ui;px jw;zj th;tk li;dy nl;du
+釋迦牟尼	ui;px jw;zj mu;sn ni;ub
+釋迦牟尼佛	ui;px jw;zj mu;sn ni;ub fu;rf
+釋雪二藍	ui;px xt;yx er;aa lj;cj
 里亞德錄大地	li;aa ya;aa de;xx lu;jl da;ad di;ty
 里克特	li;aa ke;eg te;ns
 里包恩	li;aa bk;gs en;xy
@@ -91173,8 +91173,8 @@ use_preset_vocabulary: false
 銀河女王	yn;jg he;dk nv;aa wh;aa
 銀河女王之光	yn;jg he;dk nv;aa wh;aa vi;dd gd;ea
 銀河巨神	yn;jg he;dk ju;aa uf;uu
-銀河帝國	yn;jg he;dk di;wj go;kh
-銀河帝王	yn;jg he;dk di;wj wh;aa
+銀河帝國	yn;jg he;dk di;jb go;kh
+銀河帝王	yn;jg he;dk di;jb wh;aa
 銀河影龍	yn;jg he;dk yy;pj ls;dg
 銀河彼岸	yn;jg he;dk bi;xp an;ug
 銀河愛麗絲	yn;jg he;dk ai;vw li;ll si;ss
@@ -92774,7 +92774,7 @@ use_preset_vocabulary: false
 關黑屋	gr;ma hz;ad wu;uv
 闞澤	hj;mg ze;dx
 闡裏鶴喰	ij;md li;dy he;nv cj;ku
-闡釋者	ij;md ui;bx ve;lo
+闡釋者	ij;md ui;px ve;lo
 阪修	bj;ef xq;rp
 阪修	bj;ef xq;rp
 阪口周平	bj;ef kb;aa vb;kj py;aa
@@ -94546,7 +94546,7 @@ use_preset_vocabulary: false
 雙子戀心	ud;vy zi;aa lm;xs xn;dd
 雙子星公主	ud;vy zi;aa xy;ou gs;sb vu;dw
 雙子村	ud;vy zi;aa cp;mc
-雙子皇帝	ud;vy zi;aa hd;bw di;wj
+雙子皇帝	ud;vy zi;aa hd;bw di;jb
 雙子魔眼	ud;vy zi;aa mo;gm yj;og
 雙子麗人	ud;vy zi;aa li;ll rf;pd
 雙字節龍	ud;vy zi;bz jx;vj ls;dg
@@ -96195,7 +96195,7 @@ use_preset_vocabulary: false
 露希妲	lu;yl xi;ju da;nd
 露希安卡魯特	lu;yl xi;ju an;bn ka;bx lu;yo te;ns
 露希爾維克雷斯	lu;yl xi;ju er;ay wz;sv ke;eg lz;yt si;jq
-露帝雅	lu;yl di;wj ya;vy
+露帝雅	lu;yl di;jb ya;vy
 露庫希安	lu;yl ku;gi xi;ju an;bn
 露庫拉齊亞	lu;yl ku;gi la;fl qi;we ya;aa
 露庫拉齊亞佐拉	lu;yl ku;gi la;fl qi;we ya;aa zo;rz la;fl
@@ -96317,7 +96317,7 @@ use_preset_vocabulary: false
 霸刀山莊	ba;yo dk;gp uj;aa vd;cv
 霸劍皇姬的阿爾緹娜	ba;yo jm;dq hd;bw ji;ni de;bu aa;ek er;ay ti;su na;nn
 霸劍皇姬阿爾緹娜	ba;yo jm;dq hd;bw ji;ni aa;ek er;ay ti;su na;nn
-霸劍皇帝與七星姬騎士	ba;yo jm;dq hd;bw di;wj yu;ba qi;ag xy;ou ji;ni qi;mq ui;aa
+霸劍皇帝與七星姬騎士	ba;yo jm;dq hd;bw di;jb yu;ba qi;ag xy;ou ji;ni qi;mq ui;aa
 霸勝星	ba;yo ug;ol xy;ou
 霸權動畫	ba;yo qr;mv ds;lv hw;ya
 霸權番	ba;yo qr;mv fj;tb
@@ -96335,7 +96335,7 @@ use_preset_vocabulary: false
 霸王黑龍	ba;yo wh;aa hz;ad ls;dg
 霸王龍	ba;yo wh;aa ls;dg
 霸王龍之魂	ba;yo wh;aa ls;dg vi;dd hp;gy
-霸瞳皇帝	ba;yo ts;ot hd;bw di;wj
+霸瞳皇帝	ba;yo ts;ot hd;bw di;jb
 霸者的獨攬	ba;yo ve;lo de;bu du;qi lj;fj
 霸道星	ba;yo dk;zu xy;ou
 霸道總裁	ba;yo dk;zu zs;sc cl;gy
@@ -97192,7 +97192,7 @@ use_preset_vocabulary: false
 音樂劇組	yn;lo yt;bm ju;dj zu;sq
 音樂團體	yn;lo yt;bm tr;kv ti;gd
 音樂家	yn;lo yt;bm jw;bu
-音樂家帝王	yn;lo yt;bm jw;bu di;wj wh;aa
+音樂家帝王	yn;lo yt;bm jw;bu di;jb wh;aa
 音樂專輯	yn;lo yt;bm vr;ac ji;ie
 音樂少女	yn;lo yt;bm uk;xp nv;aa
 音樂少女手遊	yn;lo yt;bm uk;xp nv;aa ub;pa yb;zy
@@ -99977,7 +99977,7 @@ use_preset_vocabulary: false
 魔劍但丁	mo;gm jm;dq dj;rd dy;aa
 魔劍卡奧斯	mo;gm jm;dq ka;bx ao;db si;jq
 魔劍士	mo;gm jm;dq ui;aa
-魔劍斬擊皇帝	mo;gm jm;dq vj;ij ji;fu hd;bw di;wj
+魔劍斬擊皇帝	mo;gm jm;dq vj;ij ji;fu hd;bw di;jb
 魔劍斯巴達	mo;gm jm;dq si;jq ba;ag da;zy
 魔劍正宗	mo;gm jm;dq vg;av zs;bu
 魔劍玉	mo;gm jm;dq yu;ad
@@ -100129,8 +100129,8 @@ use_preset_vocabulary: false
 魔導辣妹	mo;gm dk;cd la;xu mz;nw
 魔導院麗華	mo;gm dk;cd yr;ew li;ll hw;ca
 魔導騎士	mo;gm dk;cd qi;mq ui;aa
-魔帝	mo;gm di;wj
-魔帝教師與從屬少女的背德契約	mo;gm di;wj jc;wx ui;vb yu;ba cs;xv uu;ui uk;xp nv;aa de;bu bz;ob de;xx qi;dd yt;su
+魔帝	mo;gm di;jb
+魔帝教師與從屬少女的背德契約	mo;gm di;jb jc;wx ui;vb yu;ba cs;xv uu;ui uk;xp nv;aa de;bu bz;ob de;xx qi;dd yt;su
 魔幻假面喵	mo;gm hr;yg jw;rj mm;aa mc;km
 魔幻列車大冒險	mo;gm hr;yg lx;dd ie;aa da;ad mk;oo xm;eq
 魔幻大陸篇	mo;gm hr;yg da;ad lu;et pm;vb
@@ -101880,7 +101880,7 @@ use_preset_vocabulary: false
 黑市彈幕狂	hz;ad ui;wj dj;gd mu;cj kd;qw
 黑布丁	hz;ad bu;ju dy;aa
 黑布丁怪	hz;ad bu;ju dy;aa gy;xu
-黑帝斯	hz;ad di;wj si;jq
+黑帝斯	hz;ad di;jb si;jq
 黑帽	hz;ad mk;jm
 黑幫搖	hz;ad bh;bf yk;ff
 黑影	hz;ad yy;pj
@@ -101958,7 +101958,7 @@ use_preset_vocabulary: false
 黑暗界	hz;ad an;oy jx;tj
 黑暗的巴洛克	hz;ad an;oy de;bu ba;ag lo;dg ke;eg
 黑暗的羽翼	hz;ad an;oy de;bu yu;xx yi;yg
-黑暗皇帝杰特	hz;ad an;oy hd;bw di;wj jx;hm te;ns
+黑暗皇帝杰特	hz;ad an;oy hd;bw di;jb jx;hm te;ns
 黑暗精靈	hz;ad an;oy jy;mq ly;wl
 黑暗系	hz;ad an;oy xi;ps
 黑暗能源	hz;ad an;oy ng;sb yr;dy
@@ -102093,8 +102093,8 @@ use_preset_vocabulary: false
 黑無常娘	hz;ad wu;da ih;jk nd;nl
 黑熊	hz;ad xs;dn
 黑爆裂破魔導	hz;ad bk;hb lx;yl po;up mo;gm dk;cd
-黑爪會重建你父親的帝國	hz;ad vk;pd hv;ro is;pa jm;zy ni;re fu;bi qn;jq de;bu di;wj go;kh
-黑爪會重建你的帝國	hz;ad vk;pd hv;ro is;pa jm;zy ni;re de;bu di;wj go;kh
+黑爪會重建你父親的帝國	hz;ad vk;pd hv;ro is;pa jm;zy ni;re fu;bi qn;jq de;bu di;jb go;kh
+黑爪會重建你的帝國	hz;ad vk;pd hv;ro is;pa jm;zy ni;re de;bu di;jb go;kh
 黑爾加	hz;ad er;ay jw;lk
 黑特	hz;ad te;ns
 黑犀	hz;ad xi;nu
@@ -102695,7 +102695,7 @@ use_preset_vocabulary: false
 龍之子製作	ls;dg vi;dd zi;aa vi;yv zo;rv
 龍之子製作公司	ls;dg vi;dd zi;aa vi;yv zo;rv gs;sb si;gk
 龍之寶珠	ls;dg vi;dd bk;bb vu;wv
-龍之峯帝人	ls;dg vi;dd fg;uf di;wj rf;pd
+龍之峯帝人	ls;dg vi;dd fg;uf di;jb rf;pd
 龍之束縛	ls;dg vi;dd uu;ad fu;sc
 龍之歌	ls;dg vi;dd ge;qg
 龍之溪谷	ls;dg vi;dd xi;dx gu;bk

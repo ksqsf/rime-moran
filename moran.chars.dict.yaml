@@ -6724,8 +6724,8 @@ use_preset_vocabulary: false
 䲙	jx;yj	0	# auto
 䲚	ll;yl	0	# auto
 䲛	mg;ym	0	# auto
-䲜	ye;ss	0	# auto
-䲜	ye;ww	0	# auto
+䲜	ye;ss	0
+䲜	ye;yy	0
 䲝	ih;yc	0
 䲞	li;yl	0	# auto
 䲟	yn;yy	0	# auto
@@ -13800,9 +13800,9 @@ use_preset_vocabulary: false
 帛	bo;bj	742
 帛	bo;jb	742
 帜	vi;jv	0
+帝	di;jb	2524
 帝	di;wj	2524
 帝	di;dj	2524
-帝	di;jb	2524
 帝	di;lj	2524
 帞	pa;jb	422
 帟	yi;jy	325
@@ -35190,8 +35190,8 @@ use_preset_vocabulary: false
 釉	yb;by	905
 释	ui;pf	0
 释	ui;bf	0
-釋	ui;bx	1374
 釋	ui;px	1374
+釋	ui;bx	1374
 里	li;aa	44140
 里	li;tt	44140
 重	is;pa	4913
@@ -54533,6 +54533,7 @@ use_preset_vocabulary: false
 𦞠	uv;os	0
 𮓼	is;id	0
 𣶒	yr;pa	0
+𨪁	yk;jy	0
 
 #----------
 丆	pp;ap	0
