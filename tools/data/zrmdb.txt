@@ -13532,8 +13532,8 @@
 攼 gw
 攼 wg
 攽 wf
-放 fw
 放 wf
+放 fw
 政 wv
 敀 wb
 敁 pv
@@ -13552,8 +13552,8 @@
 敊 px
 敊 uy
 敋 wg
-敌 uw
 敌 wu
+敌 uw
 敍 py
 敍 yy
 敎 wx
@@ -13733,11 +13733,11 @@
 斷 jy
 斸 ji
 斸 ju
-方 wd
-方 dd
 方 dg
+方 dd
 方 dp
 方 dw
+方 wd
 斺 fj
 斻 fj
 於 fd

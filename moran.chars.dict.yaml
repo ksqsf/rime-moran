@@ -16813,8 +16813,8 @@ use_preset_vocabulary: false
 攼	gj;wg	308
 攽	bj;wf	364
 攽	bn;wf	364
-放	fh;fw	26912
 放	fh;wf	26912
+放	fh;fw	26912
 政	vg;wv	2249
 敀	bo;wb	281
 敁	dm;pv	334
@@ -16836,10 +16836,10 @@ use_preset_vocabulary: false
 敊	iu;px	400
 敊	iu;uy	400
 敋	ge;wg	310
-敌	di;uw	0
 敌	di;wu	0
-敌	hw;uw	5
+敌	di;uw	0
 敌	hw;wu	5
+敌	hw;uw	5
 敍	xu;py	444
 敍	xu;yy	444
 敎	jc;wx	800
@@ -17084,11 +17084,11 @@ use_preset_vocabulary: false
 斷	dr;jy	5782
 斸	vu;ji	295
 斸	vu;ju	295
-方	fh;wd	13669
-方	fh;dd	13669
 方	fh;dg	13669
+方	fh;dd	13669
 方	fh;dp	13669
 方	fh;dw	13669
+方	fh;wd	13669
 斺	xx;fj	395
 斻	hh;fj	320
 斻	kh;fj	320
