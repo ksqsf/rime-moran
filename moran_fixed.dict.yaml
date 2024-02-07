@@ -3103,12 +3103,13 @@ AA制	aavi
 變化	bmhw
 變壞	bmhy
 變黑	bmhz
-蝙	bmi
+編程	bmi
 變差	bmia
+蝙	bmib
 編創	bmid
 便車	bmie
-編程	bmig
 變成	bmig
+編程	bmig
 變長	bmih
 鞭笞	bmii
 貶斥	bmii
@@ -10661,9 +10662,9 @@ Bilibili	bvj
 大勢已去	duyq
 獨院	duyr
 裻	duyu
-讟	duyy
 獨樹一幟	duyv
 多少有些	duyx
+讟	duyy
 獨生子	duz
 獨奏	duzb
 肚子	duzi
@@ -11365,6 +11366,7 @@ Bilibili	bvj
 大動作	dzz
 刀子嘴豆腐心	dzzx
 二	e	eraa
+兒	e
 恩愛夫妻	eafq
 而不	eb
 二把刀	ebd
@@ -16424,8 +16426,7 @@ Bilibili	bvj
 崞	gou
 國手	goub
 過手	goub
-過身	gouf
-過甚	gouf
+過審	gouf
 過剩	goug
 餜	goug
 過上	gouh
@@ -25447,6 +25448,7 @@ Bilibili	bvj
 節哀順變	jaub
 驕傲自大	jazd
 驕傲自滿	jazm
+句柄	jb
 腳本	jb
 驕兵必敗	jbbb
 津巴布韋	jbbw
@@ -28969,7 +28971,6 @@ Bilibili	bvj
 岨	juuq
 極少數人	juur
 精神衰弱	juur
-剪水雙瞳	juut
 拘束	juuu
 精神十足	juuz
 瞿	juv
@@ -30648,6 +30649,7 @@ Bilibili	bvj
 客店	kedm
 刻度	kedu
 客隊	kedv
+克	kee
 搕	kef
 可否	kefb
 客房	kefh
@@ -30770,7 +30772,7 @@ Bilibili	bvj
 客套	ketk
 客土	ketu
 客廳	kety
-克	keu
+殼	keu
 恪守	keub
 客舍	keue
 可身	keuf
@@ -45608,6 +45610,7 @@ PC端	pcdr
 芊芊玉手	qqyu
 遒	qqz
 求全責備	qqzb
+龜茲	qqzi
 逑	qqzq
 趥	qqzq
 全	qr
@@ -47126,6 +47129,7 @@ PC端	pcdr
 捼	ref
 熱風	refg
 熱敷	refu
+寄存器	reg
 熱狗	regb
 熱管	regr
 惹禍	reho
@@ -51709,6 +51713,7 @@ PC端	pcdr
 貪慾	tjyu
 團結一致	tjyv
 團結一心	tjyx
+套接字	tjz
 彈奏	tjzb
 貪贓	tjzh
 攤子	tjzi
@@ -70449,7 +70454,7 @@ WiFi	wifi
 燡	yihx
 扆	yihy
 黓	yihy
-蛇	yii
+軼	yii
 螘	yiid
 翌晨	yiif
 議程	yiig
@@ -70462,7 +70467,6 @@ WiFi	wifi
 齮	yiiq
 遺傳	yiir
 益蟲	yiis
-軼	yiiu
 溢出	yiiu
 蟻	yiiy
 蜴	yiiy
@@ -70692,7 +70696,7 @@ WiFi	wifi
 埶	yitw
 埸	yity
 垼	yity
-尾	yiu
+毅	yiu
 一霎	yiua
 一剎	yiua
 一首	yiub
@@ -70707,13 +70711,13 @@ WiFi	wifi
 言傳身教	yiuj
 衣衫	yiuj
 一勺	yiuk
+尾	yium
 一說	yiuo
 異說	yiuo
 一瞬	yiup
 屹	yiuq
 飴	yiut
 藝術	yiuu
-毅	yiuu
 崺	yiuu
 沂水	yiuv
 禕	yiuw
@@ -76834,8 +76838,9 @@ WiFi	wifi
 賊子	zzzi
 自作自受	zzzu
 自自在在	zzzz
-龜茲	qqzi
 
+寄存器
+馬頭琴
 充電樁
 手機上
 快樂水
@@ -79605,7 +79610,7 @@ WiFi	wifi
 舊金山
 緊接着
 佼佼者
-降降溫
+降降溫	jjwf
 紀檢委
 警戒線
 經濟學
@@ -84295,6 +84300,7 @@ WiFi	wifi
 萬金油
 一窩端
 多面手
+套接字
 
 # Some words for testing...
 博麗靈夢
