@@ -45135,6 +45135,7 @@
 𪚓 lq
 𪚘 ld
 𪚝 lg
+𪚥 ll
 𪞝 df
 𪟝 lz
 𪠽 kd
@@ -45392,6 +45393,7 @@
 𭣇 fd
 𭱊 dx
 𭺾 ta
+𮄿 ll
 𮆏 vl
 𮉧 sl
 𮉨 sw
@@ -45428,6 +45430,7 @@
 𮭦 nc
 𮭨 ny
 𮯙 ik
+𮹝 ll
 𰁸 rd
 𰂎 ro
 𰂎 rx
@@ -45484,6 +45487,7 @@
 𱊬 nu
 𱊳 nl
 𱌮 ij
+𱍂 ll
 𱍫 aa
 𱎼 rg
 𱖇 tg
