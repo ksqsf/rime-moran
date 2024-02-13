@@ -43397,7 +43397,9 @@
 𩙝 fn
 𩙠 fg
 𩙡 ff
-𩙢 fs
+𩙢 fu
+𩙣 fl
+𩙤 fu
 𩙥 fb
 𩙦 fb
 𩙧 fu
@@ -43452,6 +43454,7 @@
 𩛠 uz
 𩛡 ul
 𩛢 uy
+𩛥 uf
 𩛦 ui
 𩛧 uh
 𩛨 um
