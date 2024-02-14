@@ -1457,7 +1457,7 @@ use_preset_vocabulary: false
 㦫	za;xz	0	# auto
 㦬	lo;xl	0	# auto
 㦭	ly;xl	0	# auto
-㦮	qm;ja	0	# auto
+㦮	jm;ja	0	# auto
 㦯	ho;ga	0	# auto
 㦰	jm;gc	0	# auto
 㦱	wo;gt	0	# auto
@@ -12882,8 +12882,8 @@ use_preset_vocabulary: false
 寃	yr;bt	388
 寄	ji;bq	5277
 寅	yn;bb	973
-密	mi;bu	3139
 密	mi;ub	3139
+密	mi;bu	3139
 寇	kb;bp	1112
 寇	kb;by	1112
 寈	jy;bq	338
@@ -30900,8 +30900,8 @@ use_preset_vocabulary: false
 蜙	ss;is	228
 蜚	fz;if	544
 蜛	ju;ij	290
-蜜	mi;bi	1632
 蜜	mi;ib	1632
+蜜	mi;bi	1632
 蜝	qi;iq	225
 蜞	qi;iq	494
 蜟	yu;iy	245
@@ -54727,6 +54727,7 @@ use_preset_vocabulary: false
 龹	pp;jr	0
 龺	pp;uz	0
 龻	pp;lm	0
+㐄	pp;fg	0
 #----------
 
 # 其他增補

@@ -36681,8 +36681,8 @@ Bilibili	bvj
 某日	mbri
 牟	mbs
 面壁思過	mbsg
-繆	mbsl
 謀私	mbsi
+繆	mbsl
 謀算	mbsr
 堥	mbt
 密不透風	mbtf
@@ -37251,12 +37251,12 @@ Bilibili	bvj
 名花有主	mhyv
 眉歡眼笑	mhyx
 盲字	mhzi
-蜜	mi
-爾	mia
-羋	miaf
+米	mi
+羋	mia
 明察暗訪	miaf
 謎案	mian
-密	mib
+爾	miay
+冪	mib
 宓	mibb
 鼏	mibd
 祕本	mibf
@@ -37408,7 +37408,8 @@ Bilibili	bvj
 迷途	mitu
 磨穿鐵硯	mity
 馬齒徒增	mitz
-祕	miu
+密	miu
+祕	miub
 名垂史冊	miuc
 禰	miue
 迷上	miuh
@@ -43101,7 +43102,6 @@ PC端	pcdr
 拍拍馬屁	ppmp
 拍拍屁股	pppg
 噼噼啪啪	pppp
-乒乓球	ppq
 翩翩起舞	ppqw
 普普通通	pptt
 翩翩少年	ppun
@@ -49445,6 +49445,7 @@ PC端	pcdr
 死馬當活馬醫	smdy
 死馬當作活馬醫	smdy
 什麼鬼	smg
+什麼梗	smgg
 四面紅旗	smhq
 四面楚歌	smig
 四面出擊	smij
@@ -49457,12 +49458,13 @@ PC端	pcdr
 駟馬難追	smnv
 素昧平生	smpu
 死貓碰着瞎耗子	smpz
+什麼情況	smqk
 司馬青衫	smqu
 什麼人	smr
-什麼事	sms
 什麼是	smu
 四面受敵	smud
 什么時候	smuh
+什麼事	smui
 三昧真火	smvh
 司馬昭之心	smvx
 三民主義	smvy
@@ -64522,6 +64524,7 @@ WiFi	wifi
 畏怯	wzqx
 外資企業	wzqy
 僞	wzr
+偉	wzr
 爲人	wzrf
 偉人	wzrf
 蔚然	wzrj
@@ -64531,7 +64534,6 @@ WiFi	wifi
 微軟	wzrr
 爲榮	wzrs
 葳蕤	wzrv
-偉	wzr
 偎	wzrw
 儰	wzrw
 偽	wzrw
@@ -71481,10 +71483,10 @@ WiFi	wifi
 腰	yko
 曜	ykov
 夭	ykp
-么	ykps
 藥片	ykpm
 藥品	ykpn
 咬破	ykpo
+么	ykps
 藥鋪	ykpu
 藥瓶	ykpy
 猺	ykq
@@ -72563,7 +72565,7 @@ WiFi	wifi
 遠路	yrlu
 遠慮	yrlv
 圓領	yrly
-杬	yrm
+黿	yrm
 源碼	yrma
 元碼	yrma
 遠謀	yrmb
@@ -72576,9 +72578,10 @@ WiFi	wifi
 淵默	yrmo
 原木	yrmu
 原名	yrmy
-騵	yrmy
-楥	yrmy
 榬	yrmy
+杬	yrmy
+楥	yrmy
+騵	yrmy
 原煤	yrmz
 媛	yrn
 有容乃大	yrnd
@@ -84608,3 +84611,4 @@ WiFi	wifi
 圍	wkw		#跳過韻母
 凄	qidn		#取「女」
 沏	qidt		#qid + tea
+詩	uiyc		#取末尾小部件
