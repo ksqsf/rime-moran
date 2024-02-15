@@ -25,7 +25,7 @@ local kNoop = 2
 local function processor(key_event, env)
    local context = env.engine.context
 
-   if key_event.keycode ~= 0x3B then
+   if key_event.keycode ~= 0x3B or key_event:release() then
       return kNoop
    end
 
