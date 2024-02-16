@@ -1,10 +1,12 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023 ksqsf
 --
--- Ver: 0.5.0
+-- Ver: 0.5.1
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.5.1: 修復「出簡讓全」的性能問題。
 --
 -- 0.5.0: 修復詞庫維護問題。使用簡碼鍵入的字的字頻，不會被增加到
 -- script translator 的用戶詞庫中，導致長時間使用後，生僻字的字頻反而
@@ -114,16 +116,16 @@ function top.func(input, seg, env)
    -- smart 在 fixed 之後輸出。
    local smart_iter = top.raw_query_smart(env, input, seg, false)
    if smart_iter ~= nil then
-      if not env.ijrq_enable then
+      local ijrq_enabled = env.ijrq_enable
+         and (env.engine.context.input == input)
+         and ((input_len == 4) or (input_len == 5 and input:sub(5,5) == env.ijrq_suffix))
+      if not ijrq_enabled then
          -- 不啓用出簡讓全時
          for cand in smart_iter do
             yield(cand)
          end
       else
          -- 啓用出簡讓全時
-         local ijrq_enabled = true
-            and (env.engine.context.input == input)
-            and ((input_len == 4) or (input_len == 5 and input:sub(5,5) == env.ijrq_suffix))
          local immediate_set = {}
          local deferred_set = {}
          for cand in smart_iter do
