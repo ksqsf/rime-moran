@@ -50,6 +50,7 @@ engine:
   filters:
     - simplifier
     - simplifier@emoji
+    #- lua_filter@*moran_quick_code_hint  # 簡碼提示功能，詳見文件末
     - uniquifier
 
 speller:
@@ -153,3 +154,10 @@ key_binder:
 #   patch:
 #     __include: moran:/octagram/enable_for_fixed
 # 輸入「水滿則」後繼續輸入 yidy 首選爲「溢」則說明已生效。
+
+moran:
+  # 簡快碼提示濾鏡
+  # 例如，在輸入 jqrf 時，「機器人」候選會增加「⚡jqr」提示，表示該词有簡碼打法。
+  # 注意：需先解除 engine/filters 中 lua_filter@*moran_quick_code_hint 行的註釋才能生效！！
+  enable_quick_code_hint: true      # 在解除 lua_filter 註釋前不生效！
+  quick_code_hint_skip_chars: true  # 是否跳過單字, 字詞模式中建議不提示單字避免干擾
