@@ -19537,6 +19537,8 @@ use_preset_vocabulary: false
 櫞	yr;my	485
 櫟	li;ml	766
 櫟	li;my	766
+櫟	yt;ml	666
+櫟	yt;my	666
 櫠	fz;mf	344
 櫡	vo;mv	263
 櫡	vu;mv	263
@@ -37394,7 +37396,8 @@ use_preset_vocabulary: false
 鞲	jd;gr	0
 鞳	ta;gd	325
 鞳	ta;gh	325
-鞴	fu;gy	554
+鞴	bz;gy	454
+鞴	fu;gy	100
 鞵	hl;gx	327
 鞵	xx;gx	327
 鞶	pj;gb	361
@@ -55357,7 +55360,6 @@ use_preset_vocabulary: false
 䶼	cs;ox	0
 䶽	zs;ow	0
 䶾	yu;qy	0
-
 
 #----------
 丆	pp;ap	0
