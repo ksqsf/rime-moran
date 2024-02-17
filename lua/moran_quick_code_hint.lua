@@ -53,9 +53,11 @@ function Module.func(translation, env)
             if #codes > 0 then
                -- do not show two indicators
                if gcand.comment == indicator then
-                  gcand.comment = gcand.comment .. table.concat(codes, " ")
+                  local comment = gcand.comment .. table.concat(codes, " ")
+                  cand = ShadowCandidate(gcand, cand.type, word, comment)
                else
-                  gcand.comment = gcand.comment .. indicator .. table.concat(codes, " ")
+                  local comment = gcand.comment .. indicator .. table.concat(codes, " ")
+                  cand = ShadowCandidate(gcand, cand.type, word, comment)
                end
             end
          end

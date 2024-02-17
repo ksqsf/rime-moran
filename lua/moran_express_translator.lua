@@ -1,10 +1,12 @@
 -- Moran Translator (for Express Editor)
--- Copyright (c) 2023 ksqsf
+-- Copyright (c) 2023, 2024 ksqsf
 --
--- Ver: 0.5.1
+-- Ver: 0.5.2
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.5.2: 修復與 quick_code_hint 的兼容性問題。
 --
 -- 0.5.1: 修復「出簡讓全」的性能問題。
 --
@@ -52,6 +54,9 @@ function top.init(env)
    env.ijrq_hint = env.engine.schema.config:get_bool("moran/ijrq/show_hint")
    env.ijrq_suffix = env.engine.schema.config:get_string("moran/ijrq/suffix") or 'o'
    env.enable_word_filter = env.engine.schema.config:get_bool("moran/enable_word_filter")
+
+   -- quick_code_hint 開啓時出簡讓全不應該輸出 comment，簡碼會由 quick_code_hint 輸出。
+   env.enable_quick_code_hint = env.engine.schema.config:get_bool("moran/enable_quick_code_hint") or false
 
    -- 默認情況下 Lua GC 過於保守
    collectgarbage("setpause", 110)
@@ -141,7 +146,7 @@ function top.func(input, seg, env)
                      and string.sub(input, 1, #code) == code
                   then
                      defer = true
-                     if env.ijrq_hint and cand.preedit:sub(1,4) == input:sub(1,4) then
+                     if env.ijrq_hint and cand.preedit:sub(1,4) == input:sub(1,4) and not env.enable_quick_code_hint then
                         cand.comment = code
                      end
                      break
