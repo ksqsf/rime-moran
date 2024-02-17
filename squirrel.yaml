@@ -30,7 +30,7 @@ style:
   font_point: 14
   font_face: LXGW WenKai
   corner_radius: 5
-  hilited_corner_radius: 5
+  # hilited_corner_radius: 5
   line_spacing: 8
   hilite_spacing: 6
   spacing: 12
