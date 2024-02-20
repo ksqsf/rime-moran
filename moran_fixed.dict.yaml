@@ -6,7 +6,7 @@
 
 ---
 name: moran_fixed
-version: "20231221"
+version: "20240220"
 sort: by_weight
 columns:
   - text
@@ -23426,7 +23426,6 @@ Bilibili	bvj
 暢敘	ihxu
 徜	ihxu
 惝	ihxu
-朝花夕拾	ihxu
 嘗	ihxv
 楚漢相爭	ihxv
 超乎想象	ihxx
@@ -38314,8 +38313,8 @@ Bilibili	bvj
 磨刀	modk
 末代	modl
 沫	modm
-瀎	modm
 墨點	modm
+瀎	modm
 末端	modr
 默讀	modu
 歿	modu
@@ -45683,7 +45682,7 @@ PC端	pcdr
 犬齒	qrii
 輇	qriq
 全傳	qrir
-銓	qrj
+拳	qrj
 全角	qrjc
 拳腳	qrjc
 拳擊	qrji
@@ -45693,6 +45692,7 @@ PC端	pcdr
 勸進	qrjn
 全軍	qrjp
 勸酒	qrjq
+銓	qrjq
 親如家人	qrjr
 全局	qrju
 全家	qrjw
@@ -45770,8 +45770,7 @@ PC端	pcdr
 全託	qrto
 欺人太甚	qrtu
 勸退	qrtv
-拳	qru
-泉	qrub
+泉	qru
 拳手	qrub
 全身	qruf
 全省	qrug
@@ -50043,6 +50042,7 @@ PC端	pcdr
 撒手人寰	surh
 素日	suri
 肅然	surj
+似水柔情	surq
 酥軟	surr
 速溶	surs
 僳	surs
@@ -56268,8 +56268,8 @@ PC端	pcdr
 杉	ujmp
 世界末日	ujmr
 神機妙算	ujms
-神經末梢	ujmu
 騸	ujmu
+神經末梢	ujmu
 姍	ujn
 嬗	ujnd
 閃念	ujnm
@@ -57147,8 +57147,8 @@ PC端	pcdr
 漱	uudq
 生殺大權	uudq
 淑	uudu
-沭	uudu
 審時度勢	uudu
+沭	uudu
 世事洞明皆學問	uudw
 豎	uudy
 深山大澤	uudz
@@ -57326,7 +57326,6 @@ PC端	pcdr
 倏然	uurj
 上山容易下山難	uurn
 順水人情	uurq
-似水柔情	uurq
 盛衰榮辱	uurr
 殊榮	uurs
 輸入	uuru
@@ -59521,8 +59520,8 @@ PC端	pcdr
 汦	vidu
 殖	vidv
 沚	vidv
-淔	vidv
 支隊	vidv
+淔	vidv
 止跌	vidx
 制定	vidy
 指定	vidy
@@ -59617,6 +59616,7 @@ PC端	pcdr
 軹	viiv
 輊	viiv
 幟	vij
+彘	vijb
 指教	vijc
 直降	vijd
 觶	vijd
@@ -59812,7 +59812,6 @@ PC端	pcdr
 智商	viuh
 知識	viui
 只是	viui
-彘	viuj
 至少	viuk
 直說	viuo
 直	viuq
@@ -68867,11 +68866,11 @@ WiFi	wifi
 一	y	yiaa	100
 又	y	ybad
 呀	ya
-牙	yaa
 亞	yaa
 亞	yaaa
 襾	yaaa
 雅安	yaan
+牙	yaap
 丫	yab
 啞巴	yaba
 崖壁	yabi
@@ -69323,7 +69322,6 @@ WiFi	wifi
 衣不如新	ybrx
 佑	ybry
 侑	ybry
-也不容易	ybry
 优	ybry
 纋	ybs
 有色	ybse
@@ -71327,8 +71325,8 @@ WiFi	wifi
 一驚一乍	yjyv
 又驚又喜	yjyx
 羬	yjyx
-眼影	yjyy
 諺	yjyy
+眼影	yjyy
 讌	yjyy
 醼	yjyy
 臙	yjyy
@@ -73624,11 +73622,11 @@ WiFi	wifi
 雲山霧罩	yuwv
 敔	yuww
 瑜	yuwy
+衣食無憂	yuwy
 瑀	yuwy
 璵	yuwy
 玗	yuwy
 斔	yuwy
-衣食無憂	yuwy
 譽爲	yuwz
 御	yux
 慾	yux
@@ -75039,10 +75037,10 @@ WiFi	wifi
 藏藍	zhlj
 髒亂	zhlr
 綜合利用	zhly
-駔	zhm
 走後門	zhm
 走後門兒	zhme
 葬埋	zhml
+駔	zhmq
 紫花苜蓿	zhmx
 再好沒有	zhmy
 造化弄人	zhnr
@@ -84613,3 +84611,4 @@ WiFi	wifi
 凄	qidn		#取「女」
 沏	qidt		#qid + tea
 詩	uiyc		#取末尾小部件
+謄	tgy		#簡化字「誊」

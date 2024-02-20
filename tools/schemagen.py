@@ -527,7 +527,7 @@ update_char_weight.add_argument('--rime-dict', help='輸入rime格式詞庫', re
 
 update_sp = subparsers.add_parser('update-sp', help='根據原始數據重新修改詞的註音')
 update_sp.add_argument('--rime-dict', help='輸入rime格式詞庫', required=True)
-update_sp.add_argument('--find', help='只更新含有這些字的詞', default='重長彈阿拗扒蚌薄堡暴辟扁屏剝伯藏禪車稱澄匙臭畜伺攢大單提得都度囤革給合更谷檜巷和虹會奇緝茄嚼僥腳校芥矜勁龜咀殼烙僂綠落脈埋蔓氓秘繆弄瘧娜迫胖稽栖趄色塞厦折說數縮委省削血殷軋')
+update_sp.add_argument('--find', help='只更新含有這些字的詞', default='重長彈阿拗扒蚌薄堡暴辟扁屏剝伯藏禪車稱澄匙臭畜伺攢大單提得都度囤革給合更谷檜巷和虹會奇緝茄嚼僥腳校芥矜勁龜咀殼烙僂綠落脈埋蔓氓秘繆弄瘧娜迫胖稽栖趄色塞厦折說數縮委省削血殷軋行')
 
 if __name__ == '__main__':
     args = parser.parse_args()
