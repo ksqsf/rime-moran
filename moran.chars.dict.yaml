@@ -12780,7 +12780,7 @@ use_preset_vocabulary: false
 孻	nl;zj	329
 孼	nx;zx	330
 孽	nx;cz	863
-孽	nx;zb	863
+孽	nx;zx	863
 孾	yy;zy	250
 孿	lr;yz	591
 孿	lr;zs	591
@@ -16983,6 +16983,7 @@ use_preset_vocabulary: false
 斅	xt;xy	352
 斆	xc;wx	0
 斆	xt;wx	0
+文	wf;wi	12104
 文	wf;dd	12104
 斈	xc;wz	329
 斈	xt;wz	329
@@ -55360,6 +55361,7 @@ use_preset_vocabulary: false
 䶼	cs;ox	0
 䶽	zs;ow	0
 䶾	yu;qy	0
+柵	ui;mc	1
 
 #----------
 丆	pp;ap	0

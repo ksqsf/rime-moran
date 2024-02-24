@@ -21,6 +21,7 @@ encoder:
     - length_in_range: [4, 32]
       formula: "AaBaCaZa"
 ...
+
 啊	a
 阿	aa
 啊啊啊	aaa
@@ -6911,6 +6912,7 @@ encoder:
 大脑	dank
 打奶	danl
 大年	danm
+大牛	danq
 大怒	danu
 大女	danv
 大宁	dany
@@ -13807,14 +13809,14 @@ encoder:
 放在心上	fzxu
 犯罪现象	fzxx
 飞行	fzxy
+霏	fzy
 费油	fzyb
 废油	fzyb
 扉页	fzye
-裴	fzyf
-霏	fzyf
 翡	fzyf
 诽	fzyf
 鲱	fzyf
+霏	fzyf
 飞扬	fzyh
 非议	fzyi
 肺炎	fzyj
@@ -23246,6 +23248,7 @@ encoder:
 朝向	ikxd
 敞开心扉	ikxf
 抄袭	ikxi
+潮汐	ikxi
 朝鲜	ikxm
 潮汛	ikxp
 巢穴	ikxt
@@ -60420,9 +60423,11 @@ encoder:
 蕰	wfcw
 温	wfd
 问答	wfda
+文	wfdd
 文档	wfdh
 问道	wfdk
 温带	wfdl
+温	wfdm
 文段	wfdr
 温度	wfdu
 汶	wfdw
@@ -60566,12 +60571,13 @@ encoder:
 稳重	wfvs
 稳住	wfvu
 万分之一	wfvy
-珉	wfw
+文	wfw
 璺	wfwb
 问问	wfwf
 无法挽回	wfwh
 无法忘怀	wfwh
 温婉	wfwj
+珉	wfwm
 紊	wfws
 无法无天	wfwt
 文物	wfwu
@@ -71772,8 +71778,6 @@ encoder:
 严刑拷打	yxkd
 一向可好	yxkh
 有隙可乘	yxki
-用不了	yxl
-赢不了	yxl
 一系列的	yxld
 用心良苦	yxlk
 月下老人	yxlr
@@ -72649,6 +72653,7 @@ encoder:
 怎敢	zfgj
 怎好	zfhk
 怎会	zfhv
+字符串	zfi
 怎可	zfke
 怎肯	zfkf
 怎么	zfme
