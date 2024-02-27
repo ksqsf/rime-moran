@@ -13,7 +13,7 @@
 
 配方： ℞ ksqsf/rime-moran ([線上試用](https://my-rime.vercel.app/?plum=ksqsf/rime-moran:moran,moran_sentence,moran_fixed))
 
-本項目爲基於自然碼（雙拼和輔助碼）的傳承字優先的 Rime 方案，簡稱「魔然」。具有三種模式、五重反查、四萬字、百萬詞庫和多種快捷輸入功能。詳情請參閱[本項目維基](https://github.com/ksqsf/rime-moran/wiki)。
+本項目爲基於自然碼（雙拼和輔助碼）的傳承字優先的 Rime 方案，簡稱「魔然」。具有三種模式、五重反查、五萬字、百萬詞庫和多種快捷輸入功能。詳情請參閱[本項目維基](https://github.com/ksqsf/rime-moran/wiki)。
 
 魔然是開放的、社區維護的項目。歡迎參與！
 
@@ -32,6 +32,12 @@
 + 自然碼原始碼表：[rime-zrm](https://github.com/bigshans/rime-zrm)
 + 部分 Lua 腳本：[秃版虎碼 Rime 方案](https://tiger-code.com/)
 + 皮膚：[ssnhd/Rime](https://github.com/ssnhd/rime/)、[KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian/)、秃版虎码方案和零星收集等
-+ 其他詞庫：在詞庫文件中標出，特別感謝呂奉先、SunShine優化製作的簡體優先詞庫
++ 其他詞庫：在詞庫文件中標出
 
-本方案的製作還得到了铁圈、䑝曻、蹄垫的幫助，在此表示感謝。
+本方案的製作還得到了許多人的大力協助：
+
+- 方案設計和 Lua 編程：铁圈、䑝曻、蹄垫
+- 簡體詞庫優化：呂奉先、SunShine、小幽幽、sky
+- 超集字數據：呂奉先、吥捨洳楓、聆竹聽風、SunShine
+
+在此表示感謝！

@@ -15,7 +15,7 @@ Plum: ℞ ksqsf/rime-moran ([Try Online](https://my-rime.vercel.app/?plum=ksqsf/
 
 Moran is an advanced Rime schema (based on Ziranma) for fast, precise, and intuitive Chinese typing.  The name "Moran" literally means "highly-customized Ziranma" in Chinese.
 
-Moran emphasizes on the support for Traditional Chinese Characters, and is based on Ziranma's [double pinyin (or _shuangpin_)](https://en.wikipedia.org/wiki/Chinese_input_methods_for_computers#Shuangpin) and [shape-based](https://en.wikipedia.org/wiki/Chinese_input_methods_for_computers#Shape-based) auxiliary code.  Moran features three input modes, five ways to look up characters, \~40,000 Chinese characters, \~1,000,000 words, and multiple quick input conveniences. Please refer to [our wiki](https://github.com/ksqsf/rime-moran/wiki) for details.
+Moran emphasizes on the support for Traditional Chinese Characters, and is based on Ziranma's [double pinyin (or _shuangpin_)](https://en.wikipedia.org/wiki/Chinese_input_methods_for_computers#Shuangpin) and [shape-based](https://en.wikipedia.org/wiki/Chinese_input_methods_for_computers#Shape-based) auxiliary code.  Moran features three input modes, five ways to look up characters, \~50,000 Chinese characters, \~1,000,000 words, and multiple quick input conveniences. Please refer to [our wiki](https://github.com/ksqsf/rime-moran/wiki) for details.
 
 Moran is an open, community-maintained project. Join us!
 
@@ -34,6 +34,12 @@ Moran is an open, community-maintained project. Join us!
 + Original Ziranma data: [rime-zrm](https://github.com/bigshans/rime-zrm);
 + Some of the Lua scripts: [Tu's Tiger-code Rime schema](https://tiger-code.com/);
 + Color schemes: [ssnhd/Rime](https://github.com/ssnhd/rime/), [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian/), Tu's Tiger-code and others;
-+ Other dictionaries: acknowledged in the dictionary files.  Special thanks to 吕奉先 and SunShine for contributing a dictionary for simplified characters.
++ Other dictionaries: acknowledged in the dictionary files.
 
-This schema also received help from 铁圈, 䑝曻, and 蹄垫.  Thank you!
+This project cannot be in its current shape if not for the efforts of many people:
+
+- Schema design and Lua programming: 铁圈, 䑝曻, 蹄垫
+- Optimization of Quick Code for Simplified Characters: 呂奉先, SunShine, 小幽幽, sky
+- Data for Characters in Unicode CJK Extensions: 呂奉先, 吥捨洳楓, 聆竹聽風, SunShine
+
+Sincerely appreciated!
