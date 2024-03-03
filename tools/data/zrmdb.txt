@@ -8076,8 +8076,8 @@
 刦 dq
 刧 dq
 刨 db
-利 dh
 利 hd
+利 dh
 刪 dc
 别 dl
 刬 dj
@@ -32691,8 +32691,8 @@
 鸪 ng
 鸫 nd
 鸬 nl
-鸭 jn
 鸭 nj
+鸭 jn
 鸮 nh
 鸯 ny
 鸰 nl
@@ -61443,7 +61443,6 @@
 𱍃 gd
 𱍐 ei
 𱍐 ee
-𱍒 dy
 𱍛 bh
 𱍫 aa
 𱎂 jl

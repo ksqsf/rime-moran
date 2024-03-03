@@ -8827,8 +8827,8 @@ use_preset_vocabulary: false
 刧	jx;dq	342
 刨	bk;db	47
 刨	pk;db	955
-利	li;dh	5815
 利	li;hd	5815
+利	li;dh	5815
 刪	uj;dc	5161
 别	bx;dl	0
 刬	ij;dj	0
@@ -54226,7 +54226,7 @@ use_preset_vocabulary: false
 𬃊	vi;mv	0
 𬆮	kb;nu	0
 𬆮	kb;un	0
-𬇕	wr;dw	0
+𬇕	wj;dw	0
 𬇙	bz;db	0
 𬇙	pz;db	0
 𬇞	by;db	0
@@ -61034,7 +61034,6 @@ use_preset_vocabulary: false
 𩝽	qd;uq	0	# auto
 𢷾	so;fx	0	# auto
 𢷾	ce;fx	0	# auto
-𱍒	dd;dy	0	# auto
 𪨤	uj;ux	0	# auto
 𪨤	uj;xu	0	# auto
 𫻕	pi;st	0	# auto
@@ -72607,3 +72606,8 @@ use_preset_vocabulary: false
 兣	like;kl	0
 𠒐	wjke;kw	0
 圕	tuuugr;ku	0
+
+# 一些會對正常輸入造成干擾的字
+# 直接禁用掉
+# diang
+#𱍒	dd;dy	0	# auto
