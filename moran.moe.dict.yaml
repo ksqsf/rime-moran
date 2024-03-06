@@ -4779,8 +4779,6 @@ use_preset_vocabulary: false
 什羅浦夏	uf;ru lo;sv pu;df xw;wz
 什麼動漫	uf;ru me;my ds;lv mj;dm
 什麼圖瓦	uf;ru me;my tu;kh wa;ad
-什麼封把你吹來了	uf;ru me;my fg;cg ba;fb ni;re iv;kq ll;ad le;aa
-什麼情況都不知道的轉校生一個勁的湊過來	uf;ru me;my qy;xq kd;dx db;ev bu;ad vi;uk dk;zu de;bu vr;iv xc;mj ug;na yi;aa ge;rg jn;lg de;bu cb;dz go;zg ll;ad
 什麼色彩	uf;ru me;my se;db cl;pc
 什麼都不在乎	uf;ru me;my db;ev bu;ad zl;ta hu;pa
 什麼都做不了的下雨週末	uf;ru me;my db;ev zo;rg bu;ad lc;aa de;bu xw;ab yu;ad vb;zv mo;ad
@@ -20813,7 +20811,7 @@ use_preset_vocabulary: false
 夏川建司	xw;wz ir;pa jm;zy si;gk
 夏川明日香	xw;wz ir;pa my;oo ri;aa xd;ho
 夏川朋子	xw;wz ir;pa pg;oo zi;aa
-夏川椎菜	xw;wz ir;pa iv;mv cl;cc
+夏川椎菜	xw;wz ir;pa vv;mv cl;cc
 夏川玖井菜	xw;wz ir;pa jq;wj jy;aa cl;cc
 夏川玥玥	xw;wz ir;pa yt;wo yt;wo
 夏川真涼	xw;wz ir;pa vf;uj ld;dj
@@ -36827,7 +36825,7 @@ use_preset_vocabulary: false
 惟神晴之介	wz;xv uf;uu qy;oq vi;dd jx;ra
 惠岸	hv;hx an;ug
 惠庭慧海	hv;hx ty;gt hv;xh hl;dm
-惠庭椎	hv;hx ty;gt iv;mv
+惠庭椎	hv;hx ty;gt vv;mv
 惠惠	hv;hx hv;hx
 惠方卷	hv;hx fh;dg jr;ef
 惠比壽	hv;hx bi;bb ub;uc
@@ -38355,8 +38353,6 @@ use_preset_vocabulary: false
 我不會跳花週末而被關了起來	wo;pd bu;ad hv;ro tc;zv hw;ch vb;zv mo;ad er;aa bz;yp gr;ma le;aa qi;zj ll;ad
 我不會離開你的	wo;pd bu;ad hv;ro li;vl kl;mk ni;re de;bu
 我不活在	wo;pd bu;ad ho;du zl;ta
-我不知道妹妹的朋友究竟在想什麼	wo;pd bu;ad vi;uk dk;zu mz;nw mz;nw de;bu pg;oo yb;yu jq;xj jy;le zl;ta xd;xx uf;ru me;my
-我不知道活着的意義	wo;pd bu;ad vi;uk dk;zu ho;du ve;ym de;bu yi;xy yi;yw
 我不聽我不聽	wo;pd bu;ad ty;ex wo;pd bu;ad ty;ex
 我不要看繁星	wo;pd bu;ad yk;xn kj;ou fj;sm xy;ou
 我不配	wo;pd bu;ad pz;yj
@@ -46544,7 +46540,7 @@ use_preset_vocabulary: false
 望月希詠	wh;wo yt;oy xi;ju ys;yy
 望月愛	wh;wo yt;oy ai;vw
 望月杏奈	wh;wo yt;oy xy;km nl;du
-望月椎那	wh;wo yt;oy iv;mv na;el
+望月椎那	wh;wo yt;oy vv;mv na;el
 望月瀧	wh;wo yt;oy ls;dl
 望月理奈	wh;wo yt;oy li;wl nl;du
 望月白枝	wh;wo yt;oy bl;pa vi;mv
@@ -46603,7 +46599,7 @@ use_preset_vocabulary: false
 朝夕日記	vk;ou xi;pd ri;aa ji;yj
 朝天辮	ik;ou tm;ad bm;sx
 朝奈	ik;ou nl;du
-朝宮椎名	ik;ou gs;bl iv;mv my;xk
+朝宮椎名	ik;ou gs;bl vv;mv my;xk
 朝山	ik;ou uj;aa
 朝影悠一郎	ik;ou yy;pj yb;xw yi;aa lh;el
 朝律	ik;ou lv;xy
@@ -47755,7 +47751,7 @@ use_preset_vocabulary: false
 村上巴	cp;mc uh;aa ba;ag
 村上幸平	cp;mc uh;aa xy;tu py;aa
 村上文緒	cp;mc uh;aa wf;wi xu;sv
-村上椎奈	cp;mc uh;aa iv;mv nl;du
+村上椎奈	cp;mc uh;aa vv;mv nl;du
 村上真夏	cp;mc uh;aa vf;uj xw;wz
 村上繪美	cp;mc uh;aa hv;sh mz;dy
 村上聰	cp;mc uh;aa cs;ec
@@ -49643,7 +49639,7 @@ use_preset_vocabulary: false
 桃園奈奈生	tk;mv yr;ky nl;du nl;du ug;na
 桃園愛	tk;mv yr;ky ai;vw
 桃園朝日	tk;mv yr;ky vk;ou ri;aa
-桃園椎名	tk;mv yr;ky iv;mv my;xk
+桃園椎名	tk;mv yr;ky vv;mv my;xk
 桃園結義	tk;mv yr;ky jx;sj yi;yw
 桃地再不斬	tk;mv di;ty zl;aa bu;ad vj;ij
 桃坂真理愛	tk;mv bj;tf vf;uj li;wl ai;vw
@@ -50546,54 +50542,54 @@ use_preset_vocabulary: false
 植竹香菜	vi;mv vu;gg xd;ho cl;cc
 植芝理一	vi;mv vi;cv li;wl yi;aa
 植野直花	vi;mv ye;ly vi;aa hw;ch
-椎原小春	iv;mv yr;ix xc;ad ip;of
-椎名	iv;mv my;xk
-椎名丹希	iv;mv my;xk dj;pd xi;ju
-椎名亞樹	iv;mv my;xk ya;aa uu;mc
-椎名六花	iv;mv my;xk lq;wb hw;ch
-椎名唯華	iv;mv my;xk wz;kv hw;ca
-椎名心實	iv;mv my;xk xn;dd ui;bg
-椎名日和	iv;mv my;xk ri;aa he;hk
-椎名有莎	iv;mv my;xk yb;ou ua;cu
-椎名朧	iv;mv my;xk ls;ol
-椎名未祈	iv;mv my;xk wz;ex qi;uj
-椎名杏子	iv;mv my;xk xy;km zi;aa
-椎名枝裏	iv;mv my;xk vi;mv li;dy
-椎名法子	iv;mv my;xk fa;dq zi;aa
-椎名深夏	iv;mv my;xk uf;dm xw;wz
-椎名由香裏	iv;mv my;xk yb;aa xd;ho li;dy
-椎名町學姊的安全日	iv;mv my;xk ty;td xt;jz zi;nz de;bu an;bn qr;rw ri;aa
-椎名町學姐的安全日	iv;mv my;xk ty;td xt;jz jx;nq de;bu an;bn qr;rw ri;aa
-椎名百合	iv;mv my;xk bl;ab he;rk
-椎名真優	iv;mv my;xk vf;uj yb;rw
-椎名真冬	iv;mv my;xk vf;uj ds;wd
-椎名真晝	iv;mv my;xk vf;uj vb;yd
-椎名真由理	iv;mv my;xk vf;uj yb;aa li;wl
-椎名真由裏	iv;mv my;xk vf;uj yb;aa li;dy
-椎名真白	iv;mv my;xk vf;uj bl;pa
-椎名真緒	iv;mv my;xk vf;uj xu;sv
-椎名真衣	iv;mv my;xk vf;uj yi;dd
-椎名碧流	iv;mv my;xk bi;ub lq;di
-椎名立希	iv;mv my;xk li;da xi;ju
-椎名篝	iv;mv my;xk gb;vg
-椎名繭	iv;mv my;xk jm;ci
-椎名花戀	iv;mv my;xk hw;ch lm;xs
-椎名茉莉	iv;mv my;xk mo;cm li;cl
-椎名菜羽	iv;mv my;xk cl;cc yu;xx
-椎名華穗	iv;mv my;xk hw;ca sv;hh
-椎名豪	iv;mv my;xk hk;ub
-椎名麻由裏	iv;mv my;xk ma;gl yb;aa li;dy
-椎崎雛子	iv;mv qi;uq iu;vc zi;aa
-椎應大學	iv;mv yy;gx da;ad xt;jz
-椎拳崇	iv;mv qr;uf is;uz
-椎橋寬	iv;mv qc;mq kr;bd
-椎葉千波矢	iv;mv ye;cm qm;pa bo;dp ui;pd
-椎葉古杜音	iv;mv ye;cm gu;uk du;mt yn;lo
-椎葉步	iv;mv ye;cm bu;vx
-椎那天	iv;mv na;el tm;ad
-椎野	iv;mv ye;ly
-椎野琴音	iv;mv ye;ly qn;wj yn;lo
-椎野靜	iv;mv ye;ly jy;qv
+椎原小春	vv;mv yr;ix xc;ad ip;of
+椎名	vv;mv my;xk
+椎名丹希	vv;mv my;xk dj;pd xi;ju
+椎名亞樹	vv;mv my;xk ya;aa uu;mc
+椎名六花	vv;mv my;xk lq;wb hw;ch
+椎名唯華	vv;mv my;xk wz;kv hw;ca
+椎名心實	vv;mv my;xk xn;dd ui;bg
+椎名日和	vv;mv my;xk ri;aa he;hk
+椎名有莎	vv;mv my;xk yb;ou ua;cu
+椎名朧	vv;mv my;xk ls;ol
+椎名未祈	vv;mv my;xk wz;ex qi;uj
+椎名杏子	vv;mv my;xk xy;km zi;aa
+椎名枝裏	vv;mv my;xk vi;mv li;dy
+椎名法子	vv;mv my;xk fa;dq zi;aa
+椎名深夏	vv;mv my;xk uf;dm xw;wz
+椎名由香裏	vv;mv my;xk yb;aa xd;ho li;dy
+椎名町學姊的安全日	vv;mv my;xk ty;td xt;jz zi;nz de;bu an;bn qr;rw ri;aa
+椎名町學姐的安全日	vv;mv my;xk ty;td xt;jz jx;nq de;bu an;bn qr;rw ri;aa
+椎名百合	vv;mv my;xk bl;ab he;rk
+椎名真優	vv;mv my;xk vf;uj yb;rw
+椎名真冬	vv;mv my;xk vf;uj ds;wd
+椎名真晝	vv;mv my;xk vf;uj vb;yd
+椎名真由理	vv;mv my;xk vf;uj yb;aa li;wl
+椎名真由裏	vv;mv my;xk vf;uj yb;aa li;dy
+椎名真白	vv;mv my;xk vf;uj bl;pa
+椎名真緒	vv;mv my;xk vf;uj xu;sv
+椎名真衣	vv;mv my;xk vf;uj yi;dd
+椎名碧流	vv;mv my;xk bi;ub lq;di
+椎名立希	vv;mv my;xk li;da xi;ju
+椎名篝	vv;mv my;xk gb;vg
+椎名繭	vv;mv my;xk jm;ci
+椎名花戀	vv;mv my;xk hw;ch lm;xs
+椎名茉莉	vv;mv my;xk mo;cm li;cl
+椎名菜羽	vv;mv my;xk cl;cc yu;xx
+椎名華穗	vv;mv my;xk hw;ca sv;hh
+椎名豪	vv;mv my;xk hk;ub
+椎名麻由裏	vv;mv my;xk ma;gl yb;aa li;dy
+椎崎雛子	vv;mv qi;uq iu;vc zi;aa
+椎應大學	vv;mv yy;gx da;ad xt;jz
+椎拳崇	vv;mv qr;uf is;uz
+椎橋寬	vv;mv qc;mq kr;bd
+椎葉千波矢	vv;mv ye;cm qm;pa bo;dp ui;pd
+椎葉古杜音	vv;mv ye;cm gu;uk du;mt yn;lo
+椎葉步	vv;mv ye;cm bu;vx
+椎那天	vv;mv na;el tm;ad
+椎野	vv;mv ye;ly
+椎野琴音	vv;mv ye;ly qn;wj yn;lo
+椎野靜	vv;mv ye;ly jy;qv
 椒圖	jc;mu tu;kh
 椰子	ye;my zi;aa
 椰子加農炮	ye;my zi;aa jw;lk ns;qi pk;hb
@@ -51711,7 +51707,7 @@ use_preset_vocabulary: false
 櫻井桃華	yy;my jy;aa tk;mv hw;ca
 櫻井梨沙	yy;my jy;aa li;ml ua;du
 櫻井梨穗子	yy;my jy;aa li;ml sv;hh zi;aa
-櫻井椎子	yy;my jy;aa iv;mv zi;aa
+櫻井椎子	yy;my jy;aa vv;mv zi;aa
 櫻井武晴	yy;my jy;aa wu;vy qy;oq
 櫻井水波	yy;my jy;aa uv;ad bo;dp
 櫻井汐裏	yy;my jy;aa xi;dx li;dy
@@ -57200,7 +57196,7 @@ use_preset_vocabulary: false
 渡部俊樹	du;dd bu;ek jp;rj uu;mc
 渡部優衣	du;dd bu;ek yb;rw yi;dd
 渡部惠子	du;dd bu;ek hv;hx zi;aa
-渡部椎菜	du;dd bu;ek iv;mv cl;cc
+渡部椎菜	du;dd bu;ek vv;mv cl;cc
 渡部猛	du;dd bu;ek mg;qm
 渡部穩寬	du;dd bu;ek wf;hj kr;bd
 渡部紗弓	du;dd bu;ek ua;su gs;ag
@@ -60092,7 +60088,7 @@ use_preset_vocabulary: false
 燈臺	dg;hd tl;uv
 燈裏	dg;hd li;dy
 燈裏愛夏	dg;hd li;dy ai;vw xw;wz
-燈露椎	dg;hd lu;yl iv;mv
+燈露椎	dg;hd lu;yl vv;mv
 燈魚龍	dg;hd yu;dd ls;dg
 燒傷	uk;hy uh;rw
 燒死那對異性戀	uk;hy si;db na;el dv;ct yi;tg xy;xu lm;xs
@@ -96828,7 +96824,7 @@ use_preset_vocabulary: false
 青行燈呱	qy;fo xy;xd dg;hd gu;kg
 青行燈輝火	qy;fo xy;xd dg;hd hv;gj ho;dd
 青衫白首	qy;fo uj;yp bl;pa ub;qz
-青襲椎子	qy;fo xi;yl iv;mv zi;aa
+青襲椎子	qy;fo xi;yl vv;mv zi;aa
 青襲錐子	qy;fo xi;yl vv;jv zi;aa
 青谷	qy;fo gu;bk
 青豬	qy;fo vu;uv
@@ -98405,8 +98401,8 @@ use_preset_vocabulary: false
 香格里拉	xd;ho ge;mg li;aa la;fl
 香格里拉的淋浴	xd;ho ge;mg li;aa la;fl de;bu ln;dl yu;dg
 香格里拉開拓異境	xd;ho ge;mg li;aa la;fl kl;mk to;fu yi;tg jy;tj
-香椎愛莉	xd;ho iv;mv ai;vw li;cl
-香椎結衣	xd;ho iv;mv jx;sj yi;dd
+香椎愛莉	xd;ho vv;mv ai;vw li;cl
+香椎結衣	xd;ho vv;mv jx;sj yi;dd
 香椽	xd;ho ir;mt
 香橙薄荷	xd;ho ig;md bo;cc he;ch
 香檳	xd;ho bn;mb
@@ -99072,7 +99068,7 @@ use_preset_vocabulary: false
 高中生	gk;dk vs;aa ug;na
 高中經典文化教材	gk;dk vs;aa jy;sg dm;ba wf;wi hw;rb jc;wx cl;mc
 高中艦隊	gk;dk vs;aa jm;vj dv;eu
-高乃椎凪	gk;dk nl;gp iv;mv vi;jv
+高乃椎凪	gk;dk nl;gp vv;mv vi;jv
 高乃麗	gk;dk nl;gp li;ll
 高二病	gk;dk er;aa by;bb
 高井	gk;dk jy;aa
