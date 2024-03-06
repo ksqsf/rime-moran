@@ -10385,8 +10385,8 @@
 夸 dk
 夹 fb
 夹 ar
-夺 cd
 夺 dc
+夺 cd
 夻 dk
 夼 di
 夽 dy
@@ -23308,8 +23308,8 @@
 耴 eg
 耵 ed
 耶 ee
-耷 de
 耷 ed
+耷 de
 耸 ec
 耹 ej
 耺 ey
