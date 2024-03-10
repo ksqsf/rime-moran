@@ -613,7 +613,7 @@ use_preset_vocabulary: false
 七劍娘	qi;ag jm;dq nd;nl
 七劍戰士	qi;ag jm;dq vj;gd ui;aa
 七十二柱魔神	qi;ag ui;aa er;aa vu;mv mo;gm uf;uu
-七十億分之一的代替品	qi;ag ui;aa yi;ry ff;bd vi;dd yi;aa de;bu dl;ry ti;fo pn;kk
+七十億分之一的代替品	qi;ag ui;aa yi;ry ff;bd vi;dd yi;aa de;bu dl;ry ti;of pn;kk
 七十億的天涯孤獨	qi;ag ui;aa yi;ry de;bu tm;ad ya;dy gu;zg du;qi
 七十載	qi;ag ui;aa zl;gi
 七千兆億的天空	qi;ag qm;pa vk;ed yi;ry de;bu tm;ad ks;xg
@@ -859,7 +859,7 @@ use_preset_vocabulary: false
 三上枝織	sj;aa uh;aa vi;mv vi;sg
 三上瑛士	sj;aa uh;aa yy;wy ui;aa
 三上由佳	sj;aa uh;aa yb;aa jw;rg
-三上由理惠	sj;aa uh;aa yb;aa li;wl hv;hx
+三上由理惠	sj;aa uh;aa yb;aa li;wl hv;xh
 三上真司	sj;aa uh;aa vf;uj si;gk
 三上美嘉	sj;aa uh;aa mz;dy jw;uj
 三上遙香	sj;aa uh;aa yk;zf xd;ho
@@ -1010,7 +1010,7 @@ use_preset_vocabulary: false
 三宅晴佳	sj;aa vl;bq qy;oq jw;rg
 三宅葵依	sj;aa vl;bq kv;cg yi;ry
 三宅貴大	sj;aa vl;bq gv;bg da;ad
-三宅麻理惠	sj;aa vl;bq ma;gl li;wl hv;hx
+三宅麻理惠	sj;aa vl;bq ma;gl li;wl hv;xh
 三室美園	sj;aa ui;bv mz;dy yr;ky
 三宮三葉	sj;aa gs;bl sj;aa ye;cm
 三宮乙女	sj;aa gs;bl yi;aa nv;aa
@@ -1326,7 +1326,7 @@ use_preset_vocabulary: false
 三話效應	sj;aa hw;yu xc;wj yy;gx
 三諸山	sj;aa vu;yv uj;aa
 三谷佳苗	sj;aa gu;bk jw;rg mc;ct
-三谷加奈惠	sj;aa gu;bk jw;lk nl;du hv;hx
+三谷加奈惠	sj;aa gu;bk jw;lk nl;du hv;xh
 三谷步夢	sj;aa gu;bk bu;vx mg;cx
 三谷綾子	sj;aa gu;bk ly;sl zi;aa
 三谷裳千緒	sj;aa gu;bk uh;yk qm;pa xu;sv
@@ -1532,7 +1532,7 @@ use_preset_vocabulary: false
 上條式開門	uh;aa tc;rt ui;gy kl;mk mf;aa
 上條恭介	uh;aa tc;rt gs;gx jx;ra
 上條春菜	uh;aa tc;rt ip;of cl;cc
-上條沙惠子	uh;aa tc;rt ua;du hv;hx zi;aa
+上條沙惠子	uh;aa tc;rt ua;du hv;xh zi;aa
 上條當麻	uh;aa tc;rt dh;dt ma;gl
 上條當麻先生	uh;aa tc;rt dh;dt ma;gl xm;ne ug;na
 上條當麻子	uh;aa tc;rt dh;dt ma;gl zi;aa
@@ -1630,7 +1630,7 @@ use_preset_vocabulary: false
 上赤坂城	uh;aa ii;tb bj;tf ig;ti
 上運天美羅	uh;aa yp;zj tm;ad mz;dy lo;sv
 上過度的發條	uh;aa go;zg du;gy de;bu fa;du tc;rt
-上遠野惠那	uh;aa yr;zy ye;ly hv;hx na;el
+上遠野惠那	uh;aa yr;zy ye;ly hv;xh na;el
 上遠野龍也	uh;aa yr;zy ye;ly ls;dg ye;gg
 上重漫	uh;aa vs;pa mj;dm
 上野	uh;aa ye;ly
@@ -1653,7 +1653,7 @@ use_preset_vocabulary: false
 下一部漫畫大獎	xw;ab yi;aa bu;ek mj;dm hw;ya da;ad jd;qj
 下一部漫畫大賞	xw;ab yi;aa bu;ek mj;dm hw;ya da;ad uh;bk
 下乳	xw;ab ru;fg
-下倉惠	xw;ab ch;rk hv;hx
+下倉惠	xw;ab ch;rk hv;xh
 下個夏天	xw;ab ge;rg xw;wz tm;ad
 下個夏天的煙火	xw;ab ge;rg xw;wz tm;ad de;bu yj;ht ho;dd
 下克上	xw;ab ke;eg uh;aa
@@ -1805,7 +1805,7 @@ use_preset_vocabulary: false
 不可思議美眉	bu;ad ke;dk si;tx yi;yy mz;dy mz;om
 不可思議遊戲	bu;ad ke;dk si;tx yi;yy yb;zy xi;gd
 不可描述	bu;ad ke;dk mc;fm uu;zu
-不可替代的詩	bu;ad ke;dk ti;fo dl;ry de;bu ui;ys
+不可替代的詩	bu;ad ke;dk ti;of dl;ry de;bu ui;ys
 不可次郎	bu;ad ke;dk ci;dq lh;el
 不可燃物	bu;ad ke;dk rj;hr wu;nw
 不可能存在的女神	bu;ad ke;dk ng;sb cp;uz zl;ta de;bu nv;aa uf;uu
@@ -1950,7 +1950,7 @@ use_preset_vocabulary: false
 不敗的愛寄宿於這雙拳	bu;ad bl;wb de;bu ai;vw ji;bq su;bb yu;fd ve;zy ud;vy qr;uf
 不敗的英雄	bu;ad bl;wb de;bu yy;cy xs;vh
 不散的花	bu;ad sj;wo de;bu hw;ch
-不斷被替換的渺小存在	bu;ad dr;ja bz;yp ti;fo hr;fh de;bu mc;dm xc;ad cp;uz zl;ta
+不斷被替換的渺小存在	bu;ad dr;ja bz;yp ti;of hr;fh de;bu mc;dm xc;ad cp;uz zl;ta
 不明白拿着應援扇的女孩的心情	bu;ad my;oo bl;pa na;uh ve;ym yy;gx yr;fy uj;hy de;bu nv;aa hl;zh de;bu xn;dd qy;xq
 不明真相	bu;ad my;oo vf;uj xd;mo
 不明真相的喫瓜羣衆	bu;ad my;oo vf;uj xd;mo de;bu ii;kq gw;pd qp;yj vs;xd
@@ -2289,7 +2289,7 @@ use_preset_vocabulary: false
 世上英雄	ui;ca uh;aa yy;cy xs;vh
 世乃亞	ui;ca nl;gp ya;aa
 世代之力	ui;ca dl;ry vi;dd li;gp
-世代交替	ui;ca dl;ry jc;wf ti;fo
+世代交替	ui;ca dl;ry jc;wf ti;of
 世代飛船	ui;ca dl;ry fz;ff ir;vk
 世俗利益受害者	ui;ca su;rg li;hd yi;mb ub;vy hl;bk ve;lo
 世另我	ui;ca ly;kl wo;pd
@@ -2734,7 +2734,7 @@ use_preset_vocabulary: false
 中心商務區	vs;aa xn;dd uh;wk wu;mw qu;kp
 中心城	vs;aa xn;dd ig;ti
 中性	vs;aa xy;xu
-中惠光城	vs;aa hv;hx gd;ea ig;ti
+中惠光城	vs;aa hv;xh gd;ea ig;ti
 中指袖套	vs;aa vi;fv xq;yy tk;di
 中提琴	vs;aa ti;fu qn;wj
 中文十級	vs;aa wf;wi ui;aa ji;sj
@@ -3118,7 +3118,7 @@ use_preset_vocabulary: false
 久保田光	jq;pd bk;rd tm;aa gd;ea
 久保田凜	jq;pd bk;rd tm;aa ln;db
 久保田吉伸	jq;pd bk;rd tm;aa ji;ku uf;ru
-久保田惠	jq;pd bk;rd tm;aa hv;hx
+久保田惠	jq;pd bk;rd tm;aa hv;xh
 久保田未夢	jq;pd bk;rd tm;aa wz;ex mg;cx
 久保田梨沙	jq;pd bk;rd tm;aa li;ml ua;du
 久保田民榮	jq;pd bk;rd tm;aa mn;ag rs;hm
@@ -3162,7 +3162,7 @@ use_preset_vocabulary: false
 久末紫子	jq;pd mo;ad zi;sc zi;aa
 久本雅美	jq;pd bf;aa ya;vy mz;dy
 久村榮子	jq;pd cp;mc rs;hm zi;aa
-久松日惠	jq;pd ss;mg ri;aa hv;hx
+久松日惠	jq;pd ss;mg ri;aa hv;xh
 久條琥珀	jq;pd tc;rt hu;wh po;wb
 久條翡翠	jq;pd tc;rt fz;yf cv;yz
 久次良	jq;pd ci;dq ld;dg
@@ -4043,7 +4043,7 @@ use_preset_vocabulary: false
 井川葵	jy;aa ir;pa kv;cg
 井料明裏	jy;aa lc;md my;oo li;dy
 井木順二	jy;aa mu;ad up;yi er;aa
-井本惠子	jy;aa bf;aa hv;hx zi;aa
+井本惠子	jy;aa bf;aa hv;xh zi;aa
 井村屋穗乃香	jy;aa cp;mc wu;uv sv;hh nl;gp xd;ho
 井村雪菜	jy;aa cp;mc xt;yx cl;cc
 井浦秀	jy;aa pu;df xq;hn
@@ -4089,7 +4089,7 @@ use_preset_vocabulary: false
 亞咲花	ya;aa xc;kg hw;ch
 亞哈	ya;aa ha;kh
 亞圖姆	ya;aa tu;kh mu;nm
-亞城惠	ya;aa ig;ti hv;hx
+亞城惠	ya;aa ig;ti hv;xh
 亞堤	ya;aa di;tu
 亞多愛登	ya;aa do;xx ai;vw dg;dd
 亞多米尼史特蕾達	ya;aa do;xx mi;dd ni;ub ui;ad te;ns lz;cl da;zy
@@ -4800,7 +4800,7 @@ use_preset_vocabulary: false
 仁禮棲香	rf;re li;ud qi;mq xd;ho
 仁科哲也	rf;re ke;hd ve;kv ye;gg
 仁科洋平	rf;re ke;hd yh;dy py;aa
-仁科理惠	rf;re ke;hd li;wl hv;hx
+仁科理惠	rf;re ke;hd li;wl hv;xh
 仁科綾花	rf;re ke;hd ly;sl hw;ch
 仁科鳥子	rf;re ke;hd nc;pd zi;aa
 仁胡	rf;re hu;og
@@ -5003,7 +5003,7 @@ use_preset_vocabulary: false
 仙劍奇俠傳桌遊卡牌逍遙遊	xm;ru jm;dq qi;dk xw;rj ir;rv vo;mo yb;zy ka;bx pl;pb xc;zx yk;zf yb;zy
 仙台	xm;ru tl;sk
 仙台城	xm;ru tl;sk ig;ti
-仙台惠理	xm;ru tl;sk hv;hx li;wl
+仙台惠理	xm;ru tl;sk hv;xh li;wl
 仙台繪里	xm;ru tl;sk hv;sh li;aa
 仙后座	xm;ru hb;pk zo;gz
 仙地祐裏衣	xm;ru di;ty yb;uy li;dy yi;dd
@@ -5023,7 +5023,7 @@ use_preset_vocabulary: false
 仙子精靈娘	xm;ru zi;aa jy;mq ly;wl nd;nl
 仙客來	xm;ru ke;bg ll;ad
 仙居謠	xm;ru ju;ug yk;yf
-仙崎惠磨	xm;ru qi;uq hv;hx mo;mu
+仙崎惠磨	xm;ru qi;uq hv;xh mo;mu
 仙川流琉	xm;ru ir;pa lq;di lq;wi
 仙師什麼的不幹了啦	xm;ru ui;vb uf;ru me;my de;bu bu;ad gj;gu le;aa la;kl
 仙杜瑞拉	xm;ru du;mt rv;we la;fl
@@ -5056,7 +5056,7 @@ use_preset_vocabulary: false
 代償狂歡	dl;ry ih;ru kd;qw hr;qv
 代初空	dl;ry iu;yd ks;xg
 代我向迷幻劑問好	dl;ry wo;pd xd;pk mi;zm hr;yg ji;dq wf;km hk;nz
-代替我	dl;ry ti;fo wo;pd
+代替我	dl;ry ti;of wo;pd
 代歐奇希斯娘	dl;ry ou;qq qi;dk xi;ju si;jq nd;nl
 代步工具	dl;ry bu;vx gs;aa ju;ba
 代永翼	dl;ry ys;dd yi;yg
@@ -5136,7 +5136,7 @@ use_preset_vocabulary: false
 以自己的步伐前進吧	yi;rd zi;pa ji;ag de;bu bu;vx fa;rg qm;bd jn;zv ba;kb
 以色列	yi;rd se;db lx;dd
 以色列國防軍	yi;rd se;db lx;dd go;kh fh;ef jp;bi
-以花束代替離別	yi;rd hw;ch uu;ad dl;ry ti;fo li;vl bx;dd
+以花束代替離別	yi;rd hw;ch uu;ad dl;ry ti;of li;vl bx;dd
 以藏	yi;rd ch;cg
 以身戮惡	yi;rd uf;pp lu;gl ee;xy
 以逸待勞	yi;rd yi;zt dl;xs lk;hl
@@ -5283,7 +5283,7 @@ use_preset_vocabulary: false
 伊修巴蘭克	yi;ry xq;rp ba;ag lj;cj ke;eg
 伊修巴蘭奎	yi;ry xq;rp ba;ag lj;cj kv;dg
 伊修麥格	yi;ry xq;rp ml;lx ge;mg
-伊倉一惠	yi;ry ch;rk yi;aa hv;hx
+伊倉一惠	yi;ry ch;rk yi;aa hv;xh
 伊優	yi;ry yb;rw
 伊克斯佛利亞	yi;ry ke;eg si;jq fu;rf li;hd ya;aa
 伊克斯艾麗莎貝塔	yi;ry ke;eg si;jq ai;ci li;ll ua;cu bz;ad ta;td
@@ -5668,11 +5668,11 @@ use_preset_vocabulary: false
 伊藤一刀齋	yi;ry tg;ct yi;aa dk;gp vl;wu
 伊藤一毅	yi;ry tg;ct yi;aa yi;lu
 伊藤二三八	yi;ry tg;ct er;aa sj;aa ba;pd
-伊藤伸惠	yi;ry tg;ct uf;ru hv;hx
+伊藤伸惠	yi;ry tg;ct uf;ru hv;xh
 伊藤健太郎	yi;ry tg;ct jm;rj tl;dd lh;el
 伊藤八	yi;ry tg;ct ba;pd
 伊藤出雲	yi;ry tg;ct iu;ck yp;yy
-伊藤加奈惠	yi;ry tg;ct jw;lk nl;du hv;hx
+伊藤加奈惠	yi;ry tg;ct jw;lk nl;du hv;xh
 伊藤千佳	yi;ry tg;ct qm;pa jw;rg
 伊藤博	yi;ry tg;ct bo;uc
 伊藤博之	yi;ry tg;ct bo;uc vi;dd
@@ -5770,7 +5770,7 @@ use_preset_vocabulary: false
 伊閃閃	yi;ry uj;mr uj;mr
 伊阿宋	yi;ry aa;ek ss;bm
 伊集院北斗	yi;ry ji;mv yr;ew bz;ap db;du
-伊集院惠	yi;ry ji;mv yr;ew hv;hx
+伊集院惠	yi;ry ji;mv yr;ew hv;xh
 伊集院玲	yi;ry ji;mv yr;ew ly;wl
 伊集院薰	yi;ry ji;mv yr;ew xp;cx
 伊集院麗	yi;ry ji;mv yr;ew li;ll
@@ -5780,7 +5780,7 @@ use_preset_vocabulary: false
 伊露露	yi;ry lu;yl lu;yl
 伊靈	yi;ry ly;wl
 伊駒友裏繪	yi;ry ju;mj yb;yu li;dy hv;sh
-伊駒由理惠	yi;ry ju;mj yb;aa li;wl hv;hx
+伊駒由理惠	yi;ry ju;mj yb;aa li;wl hv;xh
 伊駒百合繪	yi;ry ju;mj bl;ab he;rk hv;sh
 伊魔崎齋	yi;ry mo;gm qi;uq vl;wu
 伊魯夏的祕密花園	yi;ry lu;yo xw;wz de;bu mi;ub mi;ub hw;ch yr;ky
@@ -5867,7 +5867,7 @@ use_preset_vocabulary: false
 伏魔三太子	fu;rq mo;gm sj;aa tl;dd zi;aa
 伏魔金剛杵	fu;rq mo;gm jn;ra gh;dg iu;mw
 伏黑夜夜	fu;rq hz;ad ye;wd ye;wd
-伏黑惠	fu;rq hz;ad hv;hx
+伏黑惠	fu;rq hz;ad hv;xh
 伏黑津美紀	fu;rq hz;ad jn;dy mz;dy ji;sj
 伏黑甚爾	fu;rq hz;ad uf;qa er;ay
 伏龍的軍師艾莉莎	fu;rq ls;dg de;bu jp;bi ui;vb ai;ci li;cl ua;cu
@@ -6125,7 +6125,7 @@ use_preset_vocabulary: false
 佐佐木康娜	zo;rz zo;rz mu;ad kh;gl na;nn
 佐佐木彩美	zo;rz zo;rz mu;ad cl;pc mz;dy
 佐佐木志乃	zo;rz zo;rz mu;ad vi;ux nl;gp
-佐佐木惠梨	zo;rz zo;rz mu;ad hv;hx li;ml
+佐佐木惠梨	zo;rz zo;rz mu;ad hv;xh li;ml
 佐佐木拓真	zo;rz zo;rz mu;ad to;fu vf;uj
 佐佐木敏	zo;rz zo;rz mu;ad mn;wm
 佐佐木明日	zo;rz zo;rz mu;ad my;oo ri;aa
@@ -6163,7 +6163,7 @@ use_preset_vocabulary: false
 佐倉初	zo;rz ch;rk iu;yd
 佐倉千代	zo;rz ch;rk qm;pa dl;ry
 佐倉城	zo;rz ch;rk ig;ti
-佐倉惠	zo;rz ch;rk hv;hx
+佐倉惠	zo;rz ch;rk hv;xh
 佐倉愛裏	zo;rz ch;rk ai;vw li;dy
 佐倉慈	zo;rz ch;rk ci;xz
 佐倉旬夏	zo;rz ch;rk xp;bo xw;wz
@@ -6195,7 +6195,7 @@ use_preset_vocabulary: false
 佐咲紗花	zo;rz xc;kg ua;su hw;ch
 佐土原城	zo;rz tu;aa yr;ix ig;ti
 佐土原香織	zo;rz tu;aa yr;ix xd;ho vi;sg
-佐城智惠	zo;rz ig;ti vi;ov hv;hx
+佐城智惠	zo;rz ig;ti vi;ov hv;xh
 佐城雪美	zo;rz ig;ti xt;yx mz;dy
 佐天淚子	zo;rz tm;ad lz;dl zi;aa
 佐娜	zo;rz na;nn
@@ -6254,7 +6254,7 @@ use_preset_vocabulary: false
 佐藤心	zo;rz tg;ct xn;dd
 佐藤忍	zo;rz tg;ct rf;xr
 佐藤悠雅	zo;rz tg;ct yb;xw ya;vy
-佐藤惠	zo;rz tg;ct hv;hx
+佐藤惠	zo;rz tg;ct hv;xh
 佐藤愁貴	zo;rz tg;ct ib;xq gv;bg
 佐藤愛	zo;rz tg;ct ai;vw
 佐藤拓也	zo;rz tg;ct to;fu ye;gg
@@ -6262,7 +6262,7 @@ use_preset_vocabulary: false
 佐藤早紀繪	zo;rz tg;ct zk;ou ji;sj hv;sh
 佐藤春夫	zo;rz tg;ct ip;of fu;ad
 佐藤晴男	zo;rz tg;ct qy;oq nj;tl
-佐藤智惠	zo;rz tg;ct vi;ov hv;hx
+佐藤智惠	zo;rz tg;ct vi;ov hv;xh
 佐藤有世	zo;rz tg;ct yb;ou ui;ca
 佐藤未奈子	zo;rz tg;ct wz;ex nl;du zi;aa
 佐藤朱	zo;rz tg;ct vu;pw
@@ -6655,7 +6655,7 @@ use_preset_vocabulary: false
 你的人生是我來遲了	ni;re de;bu rf;pd ug;na ui;op wo;pd ll;ad ii;zn le;aa
 你的人生與此熒光同在	ni;re de;bu rf;pd ug;na yu;ba ci;vb yy;hb gd;ea ts;kk zl;ta
 你的側臉	ni;re de;bu ce;rz lm;oq
-你的兩千個替代品	ni;re de;bu ld;ar qm;pa ge;rg ti;fo dl;ry pn;kk
+你的兩千個替代品	ni;re de;bu ld;ar qm;pa ge;rg ti;of dl;ry pn;kk
 你的名字	ni;re de;bu my;xk zi;bz
 你的名字叫勉強的人	ni;re de;bu my;xk zi;bz jc;kj mm;lm qd;gi de;bu rf;pd
 你的夜空哨戒班	ni;re de;bu ye;wd ks;xg uk;kx jx;gc bj;dw
@@ -7421,7 +7421,7 @@ use_preset_vocabulary: false
 倉田雅世	ch;rk tm;aa ya;vy ui;ca
 倉知玲鳳	ch;rk vi;uk ly;wl fg;jn
 倉知輝美	ch;rk vi;uk hv;gj mz;dy
-倉石惠理子	ch;rk ui;kp hv;hx li;wl zi;aa
+倉石惠理子	ch;rk ui;kp hv;xh li;wl zi;aa
 倉石監督	ch;rk ui;kp jm;mv du;ou
 倉石麻梨	ch;rk ui;kp ma;gl li;ml
 倉科明日香	ch;rk ke;hd my;oo ri;aa xd;ho
@@ -7446,7 +7446,7 @@ use_preset_vocabulary: false
 個這個	ge;rg ve;zy ge;rg
 倍大提琴	bz;rk da;ad ti;fu qn;wj
 倍感寂寞的人	bz;rk gj;xx ji;bu mo;bm de;bu rf;pd
-倍賞千惠子	bz;rk uh;bk qm;pa hv;hx zi;aa
+倍賞千惠子	bz;rk uh;bk qm;pa hv;xh zi;aa
 倍返	bz;rk fj;zf
 倒反之心	dk;rd fj;py vi;dd xn;dd
 倒吊男	dk;rd dc;kj nj;tl
@@ -8552,7 +8552,7 @@ use_preset_vocabulary: false
 先天八卦陣	xm;ne tm;ad ba;pd gw;bg vf;ei
 先天性攻擊女孩	xm;ne tm;ad xy;xu gs;gw ji;fu nv;aa hl;zh
 先審後播	xm;ne uf;bf hb;xw bo;ff
-先導惠美	xm;ne dk;cd hv;hx mz;dy
+先導惠美	xm;ne dk;cd hv;xh mz;dy
 先導愛知	xm;ne dk;cd ai;vw vi;uk
 先憂後樂	xm;ne yb;xw hb;xw le;bm
 先王	xm;ne wh;aa
@@ -8681,7 +8681,7 @@ use_preset_vocabulary: false
 光年神話	gd;ea nm;pa uf;uu hw;yu
 光年重工	gd;ea nm;pa vs;pa gs;aa
 光影	gd;ea yy;pj
-光惠小野田	gd;ea hv;hx xc;ad ye;ly tm;aa
+光惠小野田	gd;ea hv;xh xc;ad ye;ly tm;aa
 光戰隊覆麪人	gd;ea vj;gd dv;eu fu;xf mm;mg rf;pd
 光收容	gd;ea ub;wj rs;bg
 光明	gd;ea my;oo
@@ -9096,7 +9096,7 @@ use_preset_vocabulary: false
 克雷斯尼克	ke;eg lz;yt si;jq ni;ub ke;eg
 克雷斯與戒指	ke;eg lz;yt si;jq yu;ba jx;gc vi;fv
 克雷格	ke;eg lz;yt ge;mg
-克雷格惠爾	ke;eg lz;yt ge;mg hv;hx er;ay
+克雷格惠爾	ke;eg lz;yt ge;mg hv;xh er;ay
 克雷歐	ke;eg lz;yt ou;qq
 克雷色利亞娘	ke;eg lz;yt se;db li;hd ya;aa nd;nl
 克露絲希爾伯	ke;eg lu;yl si;ss xi;ju er;ay bo;rb
@@ -9383,7 +9383,7 @@ use_preset_vocabulary: false
 全息投影的脈搏	qr;rw xi;xz tb;fu yy;pj de;bu ml;op bo;fc
 全息投影者	qr;rw xi;xz tb;fu yy;pj ve;lo
 全息頭影殭屍	qr;rw xi;xz tb;dy yy;pj jd;dj ui;us
-全惠解	qr;rw hv;hx jx;jn
+全惠解	qr;rw hv;xh jx;jn
 全戰三國	qr;rw vj;gd sj;aa go;kh
 全所爲	qr;rw so;hj wz;pd
 全所爲饅頭蟹	qr;rw so;hj wz;pd mj;um tb;dy xx;ij
@@ -9616,7 +9616,7 @@ use_preset_vocabulary: false
 八意思兼神	ba;pd yi;xy si;tx jm;bd uf;uu
 八意永琳	ba;pd yi;xy ys;dd ln;wl
 八戒	ba;pd jx;gc
-八戶時惠	ba;pd hu;pk ui;os hv;hx
+八戶時惠	ba;pd hu;pk ui;os hv;xh
 八手	ba;pd ub;pa
 八方旅人	ba;pd fh;dg lv;fp rf;pd
 八日堂朔莉	ba;pd ri;aa th;tk uo;on li;cl
@@ -11544,7 +11544,7 @@ use_preset_vocabulary: false
 前田剛	qm;bd tm;aa gh;dg
 前田勇氣	qm;bd tm;aa ys;ly qi;qm
 前田弘喜	qm;bd tm;aa hs;gs xi;uk
-前田惠	qm;bd tm;aa hv;hx
+前田惠	qm;bd tm;aa hv;xh
 前田愛	qm;bd tm;aa ai;vw
 前田慶次	qm;bd tm;aa qy;gw ci;dq
 前田憂佳	qm;bd tm;aa yb;xw jw;rg
@@ -12051,7 +12051,7 @@ use_preset_vocabulary: false
 加奈奈廚房	jw;lk nl;du nl;du iu;gc fh;hf
 加奈子	jw;lk nl;du zi;aa
 加奈子的幸福殺手生活	jw;lk nl;du zi;aa de;bu xy;tu fu;uf ua;uu ub;pa ug;na ho;du
-加奈惠	jw;lk nl;du hv;hx
+加奈惠	jw;lk nl;du hv;xh
 加奈日記	jw;lk nl;du ri;aa ji;yj
 加奈美	jw;lk nl;du mz;dy
 加奧	jw;lk ao;db
@@ -12173,7 +12173,7 @@ use_preset_vocabulary: false
 加藤宏美	jw;lk tg;ct hs;bh mz;dy
 加藤將之	jw;lk tg;ct jd;pc vi;dd
 加藤希裏	jw;lk tg;ct xi;ju li;dy
-加藤惠	jw;lk tg;ct hv;hx
+加藤惠	jw;lk tg;ct hv;xh
 加藤拓二	jw;lk tg;ct to;fu er;aa
 加藤文	jw;lk tg;ct wf;wi
 加藤有生子	jw;lk tg;ct yb;ou ug;na zi;aa
@@ -12219,7 +12219,7 @@ use_preset_vocabulary: false
 加速同調士	jw;lk su;zu ts;kk dc;yv ui;aa
 加速墜落	jw;lk su;zu vv;td lo;cl
 加速豬	jw;lk su;zu vu;uv
-加部友惠	jw;lk bu;ek yb;yu hv;hx
+加部友惠	jw;lk bu;ek yb;yu hv;xh
 加里	jw;lk li;aa
 加里奧德曼	jw;lk li;aa ao;db de;xx mj;oy
 加里桑德森	jw;lk li;aa sh;mr de;xx sf;ml
@@ -13238,7 +13238,7 @@ use_preset_vocabulary: false
 千葉俊哉	qm;pa ye;cm jp;rj zl;kg
 千葉凪沙	qm;pa ye;cm vi;jv ua;du
 千葉刑事	qm;pa ye;cm xy;dk ui;aa
-千葉千惠巳	qm;pa ye;cm qm;pa hv;hx si;ag
+千葉千惠巳	qm;pa ye;cm qm;pa hv;xh si;ag
 千葉和伸	qm;pa ye;cm he;hk uf;ru
 千葉市立總武高等學校	qm;pa ye;cm ui;wj li;da zs;sc wu;vy gk;dk dg;vs xt;jz xc;mj
 千葉徹彌	qm;pa ye;cm ie;xw mi;ge
@@ -13357,7 +13357,7 @@ use_preset_vocabulary: false
 半吊子的華爾茲	bj;bf dc;kj zi;aa de;bu hw;ca er;ay zi;cy
 半吸血鬼	bj;bf xi;kj xt;pa gv;pd
 半圓	bj;bf yr;ky
-半場友惠	bj;bf ih;ty yb;yu hv;hx
+半場友惠	bj;bf ih;ty yb;yu hv;xh
 半場開香檳	bj;bf ih;ty kl;mk xd;ho bn;mb
 半壇醋	bj;bf tj;td cu;yx
 半夏	bj;bf xw;wz
@@ -13653,7 +13653,7 @@ use_preset_vocabulary: false
 博伊西	bo;uc yi;ry xi;aa
 博克島的騎手	bo;uc ke;eg dk;nu de;bu qi;mq ub;pa
 博克球狀體	bo;uc ke;eg qq;wq vd;pq ti;gd
-博卓卡斯替	bo;uc vo;bu ka;bx si;jq ti;fo
+博卓卡斯替	bo;uc vo;bu ka;bx si;jq ti;of
 博卞	bo;uc bm;dx
 博卞孤兒院	bo;uc bm;dx gu;zg er;ej yr;ew
 博士	bo;uc ui;aa
@@ -13707,7 +13707,7 @@ use_preset_vocabulary: false
 博麗靈夢	bo;uc li;ll ly;wl mg;cx
 卜塔神	bo;ad ta;td uf;uu
 卜部徵人	bo;ad bu;ek vg;xw rf;pd
-卜部惠美	bo;ad bu;ek hv;hx mz;dy
+卜部惠美	bo;ad bu;ek hv;xh mz;dy
 卜部晶	bo;ad bu;ek jy;oo
 卜部美琴	bo;ad bu;ek mz;dy qn;wj
 卞喜	bm;dx xi;uk
@@ -14354,7 +14354,7 @@ use_preset_vocabulary: false
 原形	yr;ix xy;pk
 原心櫻	yr;ix xn;dd yy;my
 原悠衣	yr;ix yb;xw yi;dd
-原惠一	yr;ix hv;hx yi;aa
+原惠一	yr;ix hv;xh yi;aa
 原愛紗實	yr;ix ai;vw ua;su ui;bg
 原數天地	yr;ix uu;wl tm;ad di;ty
 原數天帝	yr;ix uu;wl tm;ad di;jb
@@ -15982,7 +15982,7 @@ use_preset_vocabulary: false
 名詞	my;xk ci;ys
 名詞解釋	my;xk ci;ys jx;jn ui;px
 名護啓介	my;xk hu;yh qi;kw jx;ra
-名鄉千惠子	my;xk xd;el qm;pa hv;hx zi;aa
+名鄉千惠子	my;xk xd;el qm;pa hv;xh zi;aa
 名雲桂一郎	my;xk yp;yy gv;mg yi;aa lh;el
 后羿	hb;pk yi;cy
 后街女孩	hb;pk jx;ri nv;aa hl;zh
@@ -16228,7 +16228,7 @@ use_preset_vocabulary: false
 吳嶽	wu;kd yt;uq
 吳希裏華	wu;kd xi;ju li;dy hw;ca
 吳彥祖	wu;kd yj;pi zu;uq
-吳惠利央	wu;kd hv;hx li;hd yh;ad
+吳惠利央	wu;kd hv;xh li;hd yh;ad
 吳懿	wu;kd yi;hd
 吳景	wu;kd jy;oj
 吳曉蕾	wu;kd xc;oy lz;cl
@@ -16342,7 +16342,7 @@ use_preset_vocabulary: false
 吹學	iv;kq xt;jz
 吹寄制理	iv;kq ji;bq vi;dg li;wl
 吹揚城	iv;kq yh;fy ig;ti
-吹替	iv;kq ti;fo
+吹替	iv;kq ti;of
 吹死婊活	iv;kq si;db bc;nb ho;du
 吹牛	iv;kq nq;pa
 吹箭筒	iv;kq jm;vq ts;vt
@@ -18040,7 +18040,7 @@ use_preset_vocabulary: false
 嘉味田十萌	jw;uj wz;kw tm;aa ui;aa mg;cm
 嘉味田望	jw;uj wz;kw tm;aa wh;wo
 嘉味田正一	jw;uj wz;kw tm;aa vg;av yi;aa
-嘉味田理惠	jw;uj wz;kw tm;aa li;wl hv;hx
+嘉味田理惠	jw;uj wz;kw tm;aa li;wl hv;xh
 嘉嘉	jw;uj jw;uj
 嘉夜	jw;uj ye;wd
 嘉奈特	jw;uj nl;du te;ns
@@ -18786,14 +18786,14 @@ use_preset_vocabulary: false
 園圃聯盟	yr;ky pu;kf lm;ea mg;mm
 園城寺憐	yr;ky ig;ti si;ct lm;xl
 園山光	yr;ky uj;aa gd;ea
-園崎未惠	yr;ky qi;uq wz;ex hv;hx
+園崎未惠	yr;ky qi;uq wz;ex hv;xh
 園崎法子	yr;ky qi;uq fa;dq zi;aa
 園崎詩音	yr;ky qi;uq ui;ys yn;lo
 園崎魅音	yr;ky qi;uq mz;gw yn;lo
 園庭想空的女少	yr;ky ty;gt xd;xx ks;xg de;bu nv;aa uk;xp
 園庭色灰	yr;ky ty;gt se;db hv;hu
-園智惠理	yr;ky vi;ov hv;hx li;wl
-園智惠裏	yr;ky vi;ov hv;hx li;dy
+園智惠理	yr;ky vi;ov hv;xh li;wl
+園智惠裏	yr;ky vi;ov hv;xh li;dy
 園江治	yr;ky jd;dg vi;dt
 園田乃愛	yr;ky tm;aa nl;gp ai;vw
 園田優	yr;ky tm;aa yb;rw
@@ -19812,7 +19812,7 @@ use_preset_vocabulary: false
 城市紋章	ig;ti ui;wj wf;sw vh;lz
 城市逃離	ig;ti ui;wj tk;zv li;vl
 城市風雲兒	ig;ti ui;wj fg;ji yp;yy er;ej
-城惠	ig;ti hv;hx
+城惠	ig;ti hv;xh
 城戶丈	ig;ti hu;pk vh;ad
 城戶武	ig;ti hu;pk wu;vy
 城戶沙織	ig;ti hu;pk ua;du vi;sg
@@ -20013,7 +20013,7 @@ use_preset_vocabulary: false
 堀越二郎	ku;tq yt;zy er;aa lh;el
 堀越富三郎	ku;tq yt;zy fu;bf sj;aa lh;el
 堀越真己	ku;tq yt;zy vf;uj ji;ag
-堀越知惠	ku;tq yt;zy vi;uk hv;hx
+堀越知惠	ku;tq yt;zy vi;uk hv;xh
 堀越耕平	ku;tq yt;zy gg;lj py;aa
 堀辰雄	ku;tq if;iy xs;vh
 堀込老師	ku;tq yu;zr lk;bl ui;vb
@@ -20036,7 +20036,7 @@ use_preset_vocabulary: false
 堂島遼太郎	th;tk dk;nu lc;zl tl;dd lh;el
 堂島颯人	th;tk dk;nu sa;fl rf;pd
 堂本剛	th;tk bf;aa gh;dg
-堂本知惠美	th;tk bf;aa vi;uk hv;hx mz;dy
+堂本知惠美	th;tk bf;aa vi;uk hv;xh mz;dy
 堂路桐子	th;tk lu;zg ts;mt zi;aa
 堅強	jm;ty qd;gi
 堅書直實	jm;ty uu;oy vi;aa ui;bg
@@ -20792,7 +20792,7 @@ use_preset_vocabulary: false
 夏安與秋	xw;wz an;bn yu;ba qq;hh
 夏宥莉吉黑德	xw;wz yb;by li;cl ji;ku hz;ad de;xx
 夏實	xw;wz ui;bg
-夏實萌惠	xw;wz ui;bg mg;cm hv;hx
+夏實萌惠	xw;wz ui;bg mg;cm hv;xh
 夏小兜	xw;wz xc;ad db;ek
 夏峯伊呂波	xw;wz fg;uf yi;ry lv;kk bo;dp
 夏島懸疑	xw;wz dk;nu xr;xx yi;bp
@@ -21235,7 +21235,7 @@ use_preset_vocabulary: false
 外面世界	wl;xb mm;aa ui;ca jx;tj
 外面的世界	wl;xb mm;aa de;bu ui;ca jx;tj
 外骨骼裝甲	wl;xb gu;go ge;gg vd;yv jw;aa
-夙川惠璃	su;jd ir;pa hv;hx li;wl
+夙川惠璃	su;jd ir;pa hv;xh li;wl
 夙川璃亞	su;jd ir;pa li;wl ya;aa
 夙玉	su;jd yu;ad
 多人在線戰鬥競技場遊戲	do;xx rf;pd zl;ta xm;sq vj;gd db;aa jy;jj ji;fv ih;ty yb;zy xi;gd
@@ -21804,7 +21804,7 @@ use_preset_vocabulary: false
 夢幻遊行演唱會	mg;cx hr;yg yb;zy xy;xd yj;dy ih;ki hv;ro
 夢幻館	mg;cx hr;yg gr;ug
 夢惟依	mg;cx wz;xv yi;ry
-夢惠理	mg;cx hv;hx li;wl
+夢惠理	mg;cx hv;xh li;wl
 夢想	mg;cx xd;xx
 夢想世界	mg;cx xd;xx ui;ca jx;tj
 夢想之地	mg;cx xd;xx vi;dd di;ty
@@ -22094,7 +22094,7 @@ use_preset_vocabulary: false
 大南悠	da;ad nj;ua yb;xw
 大原娜娜子	da;ad yr;ix na;nn na;nn zi;aa
 大原崇	da;ad yr;ix is;uz
-大原惠	da;ad yr;ix hv;hx
+大原惠	da;ad yr;ix hv;xh
 大原沙耶香	da;ad yr;ix ua;du ye;ee xd;ho
 大原滿	da;ad yr;ix mj;dr
 大原琴音	da;ad yr;ix qn;wj yn;lo
@@ -22331,7 +22331,7 @@ use_preset_vocabulary: false
 大尾	da;ad wz;um
 大尾立娘	da;ad wz;um li;da nd;nl
 大屋健	da;ad wu;uv jm;rj
-大山惠比子	da;ad uj;aa hv;hx bi;bb zi;aa
+大山惠比子	da;ad uj;aa hv;xh bi;bb zi;aa
 大山春夏	da;ad uj;aa ip;of xw;wz
 大山版動畫	da;ad uj;aa bj;pf ds;lv hw;ya
 大山猛	da;ad uj;aa mg;qm
@@ -22395,7 +22395,7 @@ use_preset_vocabulary: false
 大成佛	da;ad ig;gg fu;rf
 大戰外星人	da;ad vj;gd wl;xb xy;ou rf;pd
 大戲法	da;ad xi;gd fa;dq
-大戶多惠	da;ad hu;pk do;xx hv;hx
+大戶多惠	da;ad hu;pk do;xx hv;xh
 大戶愛	da;ad hu;pk ai;vw
 大戶英美	da;ad hu;pk yy;cy mz;dy
 大房夕裏	da;ad fh;hf xi;pd li;dy
@@ -22489,7 +22489,7 @@ use_preset_vocabulary: false
 大橋勇人	da;ad qc;mq ys;ly rf;pd
 大橋彩香	da;ad qc;mq cl;pc xd;ho
 大橋步夕	da;ad qc;mq bu;vx xi;pd
-大橋理惠	da;ad qc;mq li;wl hv;hx
+大橋理惠	da;ad qc;mq li;wl hv;xh
 大橋舞子	da;ad qc;mq wu;rf zi;aa
 大橋賢一郎	da;ad qc;mq xm;by yi;aa lh;el
 大橘已定	da;ad ju;mk yi;vg dy;bp
@@ -22929,7 +22929,7 @@ use_preset_vocabulary: false
 大雄與機器人王國	da;ad xs;vh yu;ba ji;mj qi;kk rf;pd wh;aa go;kh
 大雄與綠巨人傳	da;ad xs;vh yu;ba lv;sl ju;aa rf;pd ir;rv
 大雄與鐵人兵團	da;ad xs;vh yu;ba tx;jg rf;pd by;qb tr;kv
-大雅麻理惠	da;ad ya;vy ma;gl li;wl hv;hx
+大雅麻理惠	da;ad ya;vy ma;gl li;wl hv;xh
 大雞嶺茶包	da;ad ji;vx ly;ul ia;cm bk;gs
 大雪梗	da;ad xt;yx gg;mg
 大雪海的凱納	da;ad xt;yx hl;dm de;bu kl;jd na;sn
@@ -23090,7 +23090,7 @@ use_preset_vocabulary: false
 天使島嶼區域	tm;ad ui;rl dk;nu yu;uy qu;kp yu;th
 天使帝國	tm;ad ui;rl di;jb go;kh
 天使彥	tm;ad ui;rl yj;pi
-天使惠	tm;ad ui;rl hv;hx
+天使惠	tm;ad ui;rl hv;xh
 天使惡魔	tm;ad ui;rl ee;xy mo;gm
 天使戀曲	tm;ad ui;rl lm;xs qu;aa
 天使沙依	tm;ad ui;rl ua;du yi;ry
@@ -23301,7 +23301,7 @@ use_preset_vocabulary: false
 天彗龍	tm;ad hv;fx ls;dg
 天影戰記	tm;ad yy;pj vj;gd ji;yj
 天性在眼鏡的裏側	tm;ad xy;xu zl;ta yj;og jy;jj de;bu li;dy ce;rz
-天惠會	tm;ad hv;hx hv;ro
+天惠會	tm;ad hv;xh hv;ro
 天懸星河	tm;ad xr;xx xy;ou he;dk
 天戶屋成	tm;ad hu;pk wu;uv ig;gg
 天戶嶽	tm;ad hu;pk yt;uq
@@ -23769,8 +23769,8 @@ use_preset_vocabulary: false
 天野宏鄉	tm;ad ye;ly hs;bh xd;el
 天野宮彩芽	tm;ad ye;ly gs;bl cl;pc ya;cy
 天野心愛	tm;ad ye;ly xn;dd ai;vw
-天野惠渾身是破綻	tm;ad ye;ly hv;hx hp;dj uf;pp ui;op po;up vj;sd
-天野惠破綻百出	tm;ad ye;ly hv;hx po;up vj;sd bl;ab iu;ck
+天野惠渾身是破綻	tm;ad ye;ly hv;xh hp;dj uf;pp ui;op po;up vj;sd
+天野惠破綻百出	tm;ad ye;ly hv;xh po;up vj;sd bl;ab iu;ck
 天野愛莉	tm;ad ye;ly ai;vw li;cl
 天野明	tm;ad ye;ly my;oo
 天野景太	tm;ad ye;ly jy;oj tl;dd
@@ -24413,7 +24413,7 @@ use_preset_vocabulary: false
 奈法利安	nl;du fa;dq li;hd an;bn
 奈法莉安	nl;du fa;dq li;cl an;bn
 奈波果林	nl;du bo;dp go;ad ln;mm
-奈津惠	nl;du jn;dy hv;hx
+奈津惠	nl;du jn;dy hv;xh
 奈爾克與傳說之鍊金術士們	nl;du er;ay ke;eg yu;ba ir;rv uo;yd vi;dd lm;jj jn;ra uu;xi ui;aa mf;rm
 奈爾克馮露修塔姆	nl;du er;ay ke;eg fg;dm lu;yl xq;rp ta;td mu;nm
 奈爾德克	nl;du er;ay de;xx ke;eg
@@ -26771,7 +26771,7 @@ use_preset_vocabulary: false
 宇內天滿	yu;by nz;kr tm;ad mj;dr
 宇和佐集芽	yu;by he;hk zo;rz ji;mv ya;cy
 宇和島城	yu;by he;hk dk;nu ig;ti
-宇和川惠美	yu;by he;hk ir;pa hv;hx mz;dy
+宇和川惠美	yu;by he;hk ir;pa hv;xh mz;dy
 宇喜多茜	yu;by xi;uk do;xx qm;cx
 宇在拓也	yu;by zl;ta to;fu ye;gg
 宇垣秀成	yu;by yr;tg xq;hn ig;gg
@@ -27313,7 +27313,7 @@ use_preset_vocabulary: false
 安菲特里忒	an;bn fz;cf te;ns li;aa te;xy
 安薇娜	an;bn wz;cw na;nn
 安藝倫也	an;bn yi;cy lp;rl ye;gg
-安藝惠	an;bn yi;cy hv;hx
+安藝惠	an;bn yi;cy hv;xh
 安藝真琴	an;bn yi;cy vf;uj qn;wj
 安藝真鈴	an;bn yi;cy vf;uj ly;jl
 安藝老師	an;bn yi;cy lk;bl ui;vb
@@ -27635,7 +27635,7 @@ use_preset_vocabulary: false
 宮小路瑞穗	gs;bl xc;ad lu;zg rv;we sv;hh
 宮尾美也	gs;bl wz;um mz;dy ye;gg
 宮島依裏	gs;bl dk;nu yi;ry li;dy
-宮島惠美	gs;bl dk;nu hv;hx mz;dy
+宮島惠美	gs;bl dk;nu hv;xh mz;dy
 宮島星矢	gs;bl dk;nu xy;ou ui;pd
 宮島禮吏	gs;bl dk;nu li;ud li;ad
 宮崎	gs;bl qi;uq
@@ -27966,7 +27966,7 @@ use_preset_vocabulary: false
 富永美杜	fu;bf ys;dd mz;dy du;mt
 富永美衣奈	fu;bf ys;dd mz;dy yi;dd nl;du
 富江	fu;bf jd;dg
-富澤美智惠	fu;bf ze;dx mz;dy vi;ov hv;hx
+富澤美智惠	fu;bf ze;dx mz;dy vi;ov hv;xh
 富澤風斗	fu;bf ze;dx fg;ji db;du
 富澤龍也	fu;bf ze;dx ls;dg ye;gg
 富特	fu;bf te;ns
@@ -28203,7 +28203,7 @@ use_preset_vocabulary: false
 寶玉之雙璧	bk;bb yu;ad vi;dd ud;vy bi;wb
 寶玉的契約	bk;bb yu;ad de;bu qi;dd yt;su
 寶玉的引導	bk;bb yu;ad de;bu yn;ga dk;cd
-寶玉的恩惠	bk;bb yu;ad de;bu en;xy hv;hx
+寶玉的恩惠	bk;bb yu;ad de;bu en;xy hv;xh
 寶玉的泛濫	bk;bb yu;ad de;bu fj;df lj;dj
 寶玉的牽絆	bk;bb yu;ad de;bu qm;ns bj;sb
 寶玉的祈禱	bk;bb yu;ad de;bu qi;uj dk;uu
@@ -28275,7 +28275,7 @@ use_preset_vocabulary: false
 寺井黃之助	si;ct jy;aa hd;cb vi;dd vu;lq
 寺依沙織	si;ct yi;ry ua;du vi;sg
 寺傾花	si;ct qy;rq hw;ch
-寺內順惠	si;ct nz;kr up;yi hv;hx
+寺內順惠	si;ct nz;kr up;yi hv;xh
 寺坂龍馬	si;ct bj;tf ls;dg ma;ad
 寺子屋	si;ct zi;aa wu;uv
 寺島惇太	si;ct dk;nu dp;xx tl;dd
@@ -28345,7 +28345,7 @@ use_preset_vocabulary: false
 射命丸文	ue;cu my;re wj;jd wf;wi
 射場美波	ue;cu ih;ty mz;dy bo;dp
 射場鐵左衛門	ue;cu ih;ty tx;jg zo;gu wz;xi mf;aa
-射惠主義	ue;cu hv;hx vu;dw yi;yw
+射惠主義	ue;cu hv;xh vu;dw yi;yw
 射手	ue;cu ub;pa
 射手座	ue;cu ub;pa zo;gz
 射手座之日	ue;cu ub;pa zo;gz vi;dd ri;aa
@@ -28842,10 +28842,10 @@ use_preset_vocabulary: false
 小室千奈美	xc;ad ui;bv qm;pa nl;du mz;dy
 小室正幸	xc;ad ui;bv vg;av xy;tu
 小室真子	xc;ad ui;bv vf;uj zi;aa
-小宮千惠	xc;ad gs;bl qm;pa hv;hx
+小宮千惠	xc;ad gs;bl qm;pa hv;xh
 小宮和枝	xc;ad gs;bl he;hk vi;mv
 小宮山楓乃	xc;ad gs;bl uj;aa fg;mf nl;gp
-小宮惠那	xc;ad gs;bl hv;hx na;el
+小宮惠那	xc;ad gs;bl hv;xh na;el
 小宮有紗	xc;ad gs;bl yb;ou ua;su
 小宮果穗	xc;ad gs;bl go;ad sv;hh
 小宮葉吾	xc;ad gs;bl ye;cm wu;wk
@@ -28945,7 +28945,7 @@ use_preset_vocabulary: false
 小島艾美	xc;ad dk;nu ai;ci mz;dy
 小島英也	xc;ad dk;nu yy;cy ye;gg
 小島英樹	xc;ad dk;nu yy;cy uu;mc
-小島菜菜惠	xc;ad dk;nu cl;cc cl;cc hv;hx
+小島菜菜惠	xc;ad dk;nu cl;cc cl;cc hv;xh
 小島葉	xc;ad dk;nu ye;cm
 小島食品工廠株式會社社歌	xc;ad dk;nu ui;pd pn;kk gs;aa ih;gi vu;mv ui;gy hv;ro ue;ut ue;ut ge;qg
 小島鹿衫	xc;ad dk;nu lu;gb uj;yp
@@ -28997,7 +28997,7 @@ use_preset_vocabulary: false
 小怪獸挼挼	xc;ad gy;xu ub;qu rw;ft rw;ft
 小恐龍	xc;ad ks;xg ls;dg
 小悠	xc;ad yb;xw
-小惠惠	xc;ad hv;hx hv;hx
+小惠惠	xc;ad hv;xh hv;xh
 小惡魔	xc;ad ee;xy mo;gm
 小惡魔之約	xc;ad ee;xy mo;gm vi;dd yt;su
 小惡魔天使	xc;ad ee;xy mo;gm tm;ad ui;rl
@@ -29132,8 +29132,8 @@ use_preset_vocabulary: false
 小林幸子	xc;ad ln;mm xy;tu zi;aa
 小林康介	xc;ad ln;mm kh;gl jx;ra
 小林弘利	xc;ad ln;mm hs;gs li;hd
-小林惠佑	xc;ad ln;mm hv;hx yb;ry
-小林惠祐	xc;ad ln;mm hv;hx yb;uy
+小林惠佑	xc;ad ln;mm hv;xh yb;ry
+小林惠祐	xc;ad ln;mm hv;xh yb;uy
 小林愛	xc;ad ln;mm ai;vw
 小林愛香	xc;ad ln;mm ai;vw xd;ho
 小林抹茶	xc;ad ln;mm mo;fm ia;cm
@@ -29233,7 +29233,7 @@ use_preset_vocabulary: false
 小江岸	xc;ad jd;dg an;ug
 小池一夫	xc;ad ii;dy yi;aa fu;ad
 小池亞希子	xc;ad ii;dy ya;aa xi;ju zi;aa
-小池惠子	xc;ad ii;dy hv;hx zi;aa
+小池惠子	xc;ad ii;dy hv;xh zi;aa
 小池理子	xc;ad ii;dy li;wl zi;aa
 小河坂千波	xc;ad he;dk bj;tf qm;pa bo;dp
 小河映月兒	xc;ad he;dk yy;oy yt;oy er;ej
@@ -29655,7 +29655,7 @@ use_preset_vocabulary: false
 小野早稀	xc;ad ye;ly zk;ou xi;hx
 小野木海鬥	xc;ad ye;ly mu;ad hl;dm db;aa
 小野涼子	xc;ad ye;ly ld;dj zi;aa
-小野田光惠	xc;ad ye;ly tm;aa gd;ea hv;hx
+小野田光惠	xc;ad ye;ly tm;aa gd;ea hv;xh
 小野田坂道	xc;ad ye;ly tm;aa bj;tf dk;zu
 小野町春香	xc;ad ye;ly ty;td ip;of xd;ho
 小野白菊	xc;ad ye;ly bl;pa ju;cj
@@ -30335,7 +30335,7 @@ use_preset_vocabulary: false
 尼米茲麗科	ni;ub mi;dd zi;cy li;ll ke;hd
 尼米雅	ni;ub mi;dd ya;vy
 尼羅	ni;ub lo;sv
-尼羅河的恩惠	ni;ub lo;sv he;dk de;bu en;xy hv;hx
+尼羅河的恩惠	ni;ub lo;sv he;dk de;bu en;xy hv;xh
 尼莫	ni;ub mo;cd
 尼莫林卡爾	ni;ub mo;cd ln;mm ka;bx er;ay
 尼莫船長	ni;ub mo;cd ir;vk vh;ad
@@ -30536,7 +30536,7 @@ use_preset_vocabulary: false
 山下次郎	uj;aa xw;ab ci;dq lh;el
 山下清悟	uj;aa xw;ab qy;dq wu;xw
 山下琢己	uj;aa xw;ab zo;wd ji;ag
-山下百合惠	uj;aa xw;ab bl;ab he;rk hv;hx
+山下百合惠	uj;aa xw;ab bl;ab he;rk hv;xh
 山下真面目	uj;aa xw;ab vf;uj mm;aa mu;aa
 山下美夏	uj;aa xw;ab mz;dy xw;wz
 山下誠一郎	uj;aa xw;ab ig;yi yi;aa lh;el
@@ -30593,14 +30593,14 @@ use_preset_vocabulary: false
 山口如月	uj;aa kb;aa ru;nk yt;oy
 山口山	uj;aa kb;aa uj;aa
 山口崇浩	uj;aa kb;aa is;uz hk;dg
-山口惠	uj;aa kb;aa hv;hx
+山口惠	uj;aa kb;aa hv;xh
 山口愛	uj;aa kb;aa ai;vw
 山口智大	uj;aa kb;aa vi;ov da;ad
 山口智廣	uj;aa kb;aa vi;ov gd;gh
 山口正幸	uj;aa kb;aa vg;av xy;tu
 山口正秀	uj;aa kb;aa vg;av xq;hn
 山口清裕	uj;aa kb;aa qy;dq yu;yg
-山口理惠	uj;aa kb;aa li;wl hv;hx
+山口理惠	uj;aa kb;aa li;wl hv;xh
 山口由裏子	uj;aa kb;aa yb;aa li;dy zi;aa
 山口由規乃	uj;aa kb;aa yb;aa gv;fj nl;gp
 山口真弓	uj;aa kb;aa vf;uj gs;ag
@@ -30660,14 +30660,14 @@ use_preset_vocabulary: false
 山岸由花子	uj;aa an;ug yb;aa hw;ch zi;aa
 山岸知明	uj;aa an;ug vi;uk my;oo
 山岸風花	uj;aa an;ug fg;ji hw;ch
-山崎光惠	uj;aa qi;uq gd;ea hv;hx
+山崎光惠	uj;aa qi;uq gd;ea hv;xh
 山崎功	uj;aa qi;uq gs;gl
 山崎和佳奈	uj;aa qi;uq he;hk jw;rg nl;du
 山崎城	uj;aa qi;uq ig;ti
 山崎宗介	uj;aa qi;uq zs;bu jx;ra
 山崎巧	uj;aa qi;uq qc;gk
 山崎快	uj;aa qi;uq ky;xd
-山崎惠理	uj;aa qi;uq hv;hx li;wl
+山崎惠理	uj;aa qi;uq hv;xh li;wl
 山崎智史	uj;aa qi;uq vi;ov ui;ad
 山崎武則	uj;aa qi;uq wu;vy ze;db
 山崎淳	uj;aa qi;uq ip;dx
@@ -30730,7 +30730,7 @@ use_preset_vocabulary: false
 山本美禰子	uj;aa bf;aa mz;dy mi;ue zi;aa
 山本菜菜子	uj;aa bf;aa cl;cc cl;cc zi;aa
 山本颯侍	uj;aa bf;aa sa;fl ui;rs
-山杉惠子	uj;aa uj;mp hv;hx zi;aa
+山杉惠子	uj;aa uj;mp hv;xh zi;aa
 山村久美子	uj;aa cp;mc jq;pd mz;dy zi;aa
 山村卓也	uj;aa cp;mc vo;bu ye;gg
 山村操	uj;aa cp;mc ck;fz
@@ -30808,7 +30808,7 @@ use_preset_vocabulary: false
 山田君與七個魔女	uj;aa tm;aa jp;ky yu;ba qi;ag ge;rg mo;gm nv;aa
 山田唯菜	uj;aa tm;aa wz;kv cl;cc
 山田外朗	uj;aa tm;aa wl;xb lh;ol
-山田多惠	uj;aa tm;aa do;xx hv;hx
+山田多惠	uj;aa tm;aa do;xx hv;xh
 山田太郎	uj;aa tm;aa tl;dd lh;el
 山田奈都美	uj;aa tm;aa nl;du db;ev mz;dy
 山田妖精	uj;aa tm;aa yk;ny jy;mq
@@ -30921,11 +30921,11 @@ use_preset_vocabulary: false
 岡山	gh;ku uj;aa
 岡山城	gh;ku uj;aa ig;ti
 岡山縣	gh;ku uj;aa xm;xx
-岡峯珠惠	gh;ku fg;uf vu;wv hv;hx
-岡峯美紀惠	gh;ku fg;uf mz;dy ji;sj hv;hx
+岡峯珠惠	gh;ku fg;uf vu;wv hv;xh
+岡峯美紀惠	gh;ku fg;uf mz;dy ji;sj hv;xh
 岡島大河	gh;ku dk;nu da;ad he;dk
 岡島妙	gh;ku dk;nu mc;nu
-岡崎乃理惠	gh;ku qi;uq nl;gp li;wl hv;hx
+岡崎乃理惠	gh;ku qi;uq nl;gp li;wl hv;xh
 岡崎嗣雄	gh;ku qi;uq si;ks xs;vh
 岡崎城	gh;ku qi;uq ig;ti
 岡崎夢美	gh;ku qi;uq mg;cx mz;dy
@@ -30969,7 +30969,7 @@ use_preset_vocabulary: false
 岡田堅二朗	gh;ku tm;aa jm;ty er;aa lh;ol
 岡田夢以	gh;ku tm;aa mg;cx yi;rd
 岡田幸子	gh;ku tm;aa xy;tu zi;aa
-岡田惠	gh;ku tm;aa hv;hx
+岡田惠	gh;ku tm;aa hv;xh
 岡田憐	gh;ku tm;aa lm;xl
 岡田日花裏	gh;ku tm;aa ri;aa hw;ch li;dy
 岡田榮美	gh;ku tm;aa rs;hm mz;dy
@@ -31021,7 +31021,7 @@ use_preset_vocabulary: false
 岸本堇	an;ug bf;aa jn;ca
 岸本實理	an;ug bf;aa ui;bg li;wl
 岸本望	an;ug bf;aa wh;wo
-岸本百惠	an;ug bf;aa bl;ab hv;hx
+岸本百惠	an;ug bf;aa bl;ab hv;xh
 岸本綾瀨	an;ug bf;aa ly;sl ll;dl
 岸本萌佳	an;ug bf;aa mg;cm jw;rg
 岸本齊史	an;ug bf;aa qi;we ui;ad
@@ -31676,7 +31676,7 @@ use_preset_vocabulary: false
 巨機人都市	ju;aa ji;mj rf;pd du;ev ui;wj
 巨浪沙灘	ju;aa lh;dl ua;du tj;dn
 巨浪海灘	ju;aa lh;dl hl;dm tj;dn
-巨瀨惠梨香	ju;aa ll;dl hv;hx li;ml xd;ho
+巨瀨惠梨香	ju;aa ll;dl hv;xh li;ml xd;ho
 巨瀨繪理香	ju;aa ll;dl hv;sh li;wl xd;ho
 巨瀨艾麗卡	ju;aa ll;dl ai;ci li;ll ka;bx
 巨火蟲	ju;aa ho;dd is;ii
@@ -32130,7 +32130,7 @@ use_preset_vocabulary: false
 布萊希特	bu;ju ll;cl xi;ju te;ns
 布萊德	bu;ju ll;cl de;xx
 布萊德利	bu;ju ll;cl de;xx li;hd
-布萊德庫特莎拉惠美	bu;ju ll;cl de;xx ku;gi te;ns ua;cu la;fl hv;hx mz;dy
+布萊德庫特莎拉惠美	bu;ju ll;cl de;xx ku;gi te;ns ua;cu la;fl hv;xh mz;dy
 布萊德諾亞	bu;ju ll;cl de;xx no;yr ya;aa
 布萊恩	bu;ju ll;cl en;xy
 布萊恩安格勞斯	bu;ju ll;cl en;xy an;bn ge;mg lk;hl si;jq
@@ -32171,8 +32171,8 @@ use_preset_vocabulary: false
 布里吉特	bu;ju li;aa ji;ku te;ns
 布里希加曼	bu;ju li;aa xi;ju jw;lk mj;oy
 布里希嘉曼	bu;ju li;aa xi;ju jw;uj mj;oy
-布里德克特莎拉惠美	bu;ju li;aa de;xx ke;eg te;ns ua;cu la;fl hv;hx mz;dy
-布里德卡特塞拉惠美	bu;ju li;aa de;xx ka;bx te;ns sl;tb la;fl hv;hx mz;dy
+布里德克特莎拉惠美	bu;ju li;aa de;xx ke;eg te;ns ua;cu la;fl hv;xh mz;dy
+布里德卡特塞拉惠美	bu;ju li;aa de;xx ka;bx te;ns sl;tb la;fl hv;xh mz;dy
 布里斯托爾	bu;ju li;aa si;jq to;fq er;ay
 布里歐納克	bu;ju li;aa ou;qq na;sn ke;eg
 布里茨託卡	bu;ju li;aa ci;cc to;yq ka;bx
@@ -32762,7 +32762,7 @@ use_preset_vocabulary: false
 幕之內一	mu;jm vi;dd nz;kr yi;aa
 幕張	mu;jm vh;gi
 幕後黑手	mu;jm hb;xw hz;ad ub;pa
-幕末替身傳說	mu;jm mo;ad ti;fo uf;pp ir;rv uo;yd
+幕末替身傳說	mu;jm mo;ad ti;of uf;pp ir;rv uo;yd
 幕澤橘花	mu;jm ze;dx ju;mk hw;ch
 幕澤櫻花	mu;jm ze;dx yy;my hw;ch
 幕間	mu;jm jm;mo
@@ -32809,7 +32809,7 @@ use_preset_vocabulary: false
 平丸一也	py;aa wj;jd yi;aa ye;gg
 平井啓二	py;aa jy;aa qi;kw er;aa
 平井城	py;aa jy;aa ig;ti
-平井祥惠	py;aa jy;aa xd;uy hv;hx
+平井祥惠	py;aa jy;aa xd;uy hv;xh
 平井緣	py;aa jy;aa yr;st
 平井花子	py;aa jy;aa hw;ch zi;aa
 平井貴大	py;aa jy;aa gv;bg da;ad
@@ -33034,7 +33034,7 @@ use_preset_vocabulary: false
 幸村	xy;tu cp;mc
 幸村俊夫	xy;tu cp;mc jp;rj fu;ad
 幸村啓誠	xy;tu cp;mc qi;kw ig;yi
-幸村惠理	xy;tu cp;mc hv;hx li;wl
+幸村惠理	xy;tu cp;mc hv;xh li;wl
 幸村理桜	xy;tu cp;mc li;wl yy;mn
 幸村誠	xy;tu cp;mc ig;yi
 幸村輝彥	xy;tu cp;mc hv;gj yj;pi
@@ -33558,7 +33558,7 @@ use_preset_vocabulary: false
 座敷童子	zo;gz fu;wf ts;ll zi;aa
 座敷童子榻榻米醬	zo;gz fu;wf ts;ll zi;aa ta;my ta;my mi;dd jd;yj
 座敷童子的代理人	zo;gz fu;wf ts;ll zi;aa de;bu dl;ry li;wl rf;pd
-座霸惠美	zo;gz ba;yo hv;hx mz;dy
+座霸惠美	zo;gz ba;yo hv;xh mz;dy
 庫丘林	ku;gi qq;pa ln;mm
 庫伽	ku;gi ga;rj
 庫克	ku;gi ke;eg
@@ -33897,7 +33897,7 @@ use_preset_vocabulary: false
 廣瀨康穗	gd;gh ll;dl kh;gl sv;hh
 廣瀨彰勇	gd;gh ll;dl vh;pv ys;ly
 廣瀨徹	gd;gh ll;dl ie;xw
-廣瀨惠理	gd;gh ll;dl hv;hx li;wl
+廣瀨惠理	gd;gh ll;dl hv;xh li;wl
 廣瀨有紀	gd;gh ll;dl yb;ou ji;sj
 廣瀨有香	gd;gh ll;dl yb;ou xd;ho
 廣瀨正志	gd;gh ll;dl vg;av vi;ux
@@ -33988,7 +33988,7 @@ use_preset_vocabulary: false
 式部	ui;gy bu;ek
 式部帆夏	ui;gy bu;ek fj;jf xw;wz
 式部茉優	ui;gy bu;ek mo;cm yb;rw
-式齋千惠子	ui;gy vl;wu qm;pa hv;hx zi;aa
+式齋千惠子	ui;gy vl;wu qm;pa hv;xh zi;aa
 弒君者	ui;iu jp;ky ve;lo
 弒序神羅	ui;iu xu;gy uf;uu lo;sv
 弒月	ui;iu yt;oy
@@ -34273,9 +34273,9 @@ use_preset_vocabulary: false
 張恆	vh;gi hg;xa
 張恩澤	vh;gi en;xy ze;dx
 張恭	vh;gi gs;gx
-張惠	vh;gi hv;hx
-張惠媛	vh;gi hv;hx yr;ny
-張惠霖	vh;gi hv;hx ln;yl
+張惠	vh;gi hv;xh
+張惠媛	vh;gi hv;xh yr;ny
+張惠霖	vh;gi hv;xh ln;yl
 張惡霸霸	vh;gi ee;xy ba;yo ba;yo
 張愛麗	vh;gi ai;vw li;ll
 張慶歡	vh;gi qy;gw hr;qv
@@ -34328,7 +34328,7 @@ use_preset_vocabulary: false
 張璇	vh;gi xr;wx
 張璐	vh;gi lu;wl
 張甄妮	vh;gi vf;wt ni;nn
-張百惠	vh;gi bl;ab hv;hx
+張百惠	vh;gi bl;ab hv;xh
 張碧玉	vh;gi bi;ub yu;ad
 張磊	vh;gi lz;uu
 張福正	vh;gi fu;uf vg;av
@@ -35011,7 +35011,7 @@ use_preset_vocabulary: false
 後藤宏志	hb;xw tg;ct hs;bh vi;ux
 後藤弘樹	hb;xw tg;ct hs;gs uu;mc
 後藤彩佐	hb;xw tg;ct cl;pc zo;rz
-後藤惠裏菜	hb;xw tg;ct hv;hx li;dy cl;cc
+後藤惠裏菜	hb;xw tg;ct hv;xh li;dy cl;cc
 後藤愛依梨	hb;xw tg;ct ai;vw yi;ry li;ml
 後藤慎太郎	hb;xw tg;ct uf;xv tl;dd lh;el
 後藤朱裏	hb;xw tg;ct vu;pw li;dy
@@ -35048,7 +35048,7 @@ use_preset_vocabulary: false
 徐夢渝	xu;xy mg;cx yu;dy
 徐嬌	xu;xy jc;nq
 徐子珊	xu;xy zi;aa uj;wc
-徐家惠	xu;xy jw;bu hv;hx
+徐家惠	xu;xy jw;bu hv;xh
 徐庶	xu;xy uu;gd
 徐徐	xu;xy xu;xy
 徐必成	xu;xy bi;dd ig;gg
@@ -35284,7 +35284,7 @@ use_preset_vocabulary: false
 御波	yu;xx bo;dp
 御津井芭華	yu;xx jn;dy jy;aa ba;cb hw;ca
 御湯利	yu;xx th;dy li;hd
-御澤萌惠	yu;xx ze;dx mg;cm hv;hx
+御澤萌惠	yu;xx ze;dx mg;cm hv;xh
 御狐神雙熾	yu;xx hu;qg uf;uu ud;vy ii;hg
 御琴羽壽沙都	yu;xx qn;wj yu;xx ub;uc ua;du db;ev
 御用守護娘	yu;xx ys;kf ub;bc hu;yh nd;nl
@@ -35762,7 +35762,7 @@ use_preset_vocabulary: false
 心明	xn;dd my;oo
 心春日和	xn;dd ip;of ri;aa he;hk
 心智不全	xn;dd vi;ov bu;ad qr;rw
-心替換宣言	xn;dd ti;fo hr;fh xr;bg yj;da
+心替換宣言	xn;dd ti;of hr;fh xr;bg yj;da
 心月花戀	xn;dd yt;oy hw;ch lm;xs
 心有靈犀	xn;dd yb;ou ly;wl xi;nu
 心柔柔	xn;dd rb;mm rb;mm
@@ -36038,7 +36038,7 @@ use_preset_vocabulary: false
 志方晶子	vi;ux fh;dg jy;oo zi;aa
 志朗	vi;ux lh;ol
 志木場寢亞	vi;ux mu;ad ih;ty qn;by ya;aa
-志村八惠	vi;ux cp;mc ba;pd hv;hx
+志村八惠	vi;ux cp;mc ba;pd hv;xh
 志村團藏	vi;ux cp;mc tr;kv ch;cg
 志村妙	vi;ux cp;mc mc;nu
 志村新八	vi;ux cp;mc xn;jq ba;pd
@@ -36599,8 +36599,8 @@ use_preset_vocabulary: false
 恩底彌翁	en;xy di;gd mi;ge wg;yg
 恩底彌翁的悲嘆	en;xy di;gd mi;ge wg;yg de;bu bz;xf tj;kh
 恩恩愛愛	en;xy en;xy ai;vw ai;vw
-恩惠之雨	en;xy hv;hx vi;dd yu;ad
-恩惠早點鋪	en;xy hv;hx zk;ou dm;hv pu;jf
+恩惠之雨	en;xy hv;xh vi;dd yu;ad
+恩惠早點鋪	en;xy hv;xh zk;ou dm;hv pu;jf
 恩普莎	en;xy pu;ob ua;cu
 恩格斯	en;xy ge;mg si;jq
 恩梨	en;xy li;ml
@@ -36814,19 +36814,19 @@ use_preset_vocabulary: false
 惟璃	wz;xv li;wl
 惟由	wz;xv yb;aa
 惟神晴之介	wz;xv uf;uu qy;oq vi;dd jx;ra
-惠岸	hv;hx an;ug
-惠庭慧海	hv;hx ty;gt hv;xh hl;dm
-惠庭椎	hv;hx ty;gt vv;mv
-惠惠	hv;hx hv;hx
-惠方卷	hv;hx fh;dg jr;ef
-惠比壽	hv;hx bi;bb ub;uc
-惠比壽司	hv;hx bi;bb ub;uc si;gk
-惠比壽小福	hv;hx bi;bb ub;uc xc;ad fu;uf
-惠比壽澤胡桃	hv;hx bi;bb ub;uc ze;dx hu;og tk;mv
-惠理子	hv;hx li;wl zi;aa
-惠美	hv;hx mz;dy
-惠飛須澤胡桃	hv;hx fz;ff xu;yp ze;dx hu;og tk;mv
-惠龍	hv;hx ls;dg
+惠岸	hv;xh an;ug
+惠庭慧海	hv;xh ty;gt hv;xh hl;dm
+惠庭椎	hv;xh ty;gt vv;mv
+惠惠	hv;xh hv;xh
+惠方卷	hv;xh fh;dg jr;ef
+惠比壽	hv;xh bi;bb ub;uc
+惠比壽司	hv;xh bi;bb ub;uc si;gk
+惠比壽小福	hv;xh bi;bb ub;uc xc;ad fu;uf
+惠比壽澤胡桃	hv;xh bi;bb ub;uc ze;dx hu;og tk;mv
+惠理子	hv;xh li;wl zi;aa
+惠美	hv;xh mz;dy
+惠飛須澤胡桃	hv;xh fz;ff xu;yp ze;dx hu;og tk;mv
+惠龍	hv;xh ls;dg
 惡之	ee;xy vi;dd
 惡之卡組破壞病毒	ee;xy vi;dd ka;bx zu;sq po;up hy;th by;bb du;fm
 惡之召使	ee;xy vi;dd vk;dk ui;rl
@@ -37186,7 +37186,7 @@ use_preset_vocabulary: false
 愛不自由	ai;vw bu;ad zi;pa yb;aa
 愛丫愛丫	ai;vw ya;ba ai;vw ya;ba
 愛乃心	ai;vw nl;gp xn;dd
-愛乃惠	ai;vw nl;gp hv;hx
+愛乃惠	ai;vw nl;gp hv;xh
 愛之上	ai;vw vi;dd uh;aa
 愛之吸血鬼	ai;vw vi;dd xi;kj xt;pa gv;pd
 愛之歌	ai;vw vi;dd ge;qg
@@ -37263,7 +37263,7 @@ use_preset_vocabulary: false
 愛子	ai;vw zi;aa
 愛子雅吾	ai;vw zi;aa ya;vy wu;wk
 愛宕	ai;vw dh;bu
-愛宕絹惠	ai;vw dh;bu jr;so hv;hx
+愛宕絹惠	ai;vw dh;bu jr;so hv;xh
 愛少女波麗安娜物語	ai;vw uk;xp nv;aa bo;dp li;ll an;bn na;nn wu;nw yu;yw
 愛就一個字	ai;vw jq;yj yi;aa ge;rg zi;bz
 愛就是元氣	ai;vw jq;yj ui;op yr;aw qi;qm
@@ -38216,7 +38216,7 @@ use_preset_vocabulary: false
 成年丈槍由紀	ig;gg nm;pa vh;ad qd;mc yb;aa ji;sj
 成年人	ig;gg nm;pa rf;pd
 成年志摩凜	ig;gg nm;pa vi;ux mo;mu ln;db
-成年惠飛須澤胡桃	ig;gg nm;pa hv;hx fz;ff xu;yp ze;dx hu;og tk;mv
+成年惠飛須澤胡桃	ig;gg nm;pa hv;xh fz;ff xu;yp ze;dx hu;og tk;mv
 成年直樹美紀	ig;gg nm;pa vi;aa uu;mc mz;dy ji;sj
 成年禮	ig;gg nm;pa li;ud
 成年若狹悠裏	ig;gg nm;pa ro;cy xw;qj yb;xw li;dy
@@ -39596,8 +39596,8 @@ use_preset_vocabulary: false
 戶松遙	hu;pk ss;mg yk;zf
 戶次菜摘	hu;pk ci;dq cl;cc vl;fd
 戶津大輔	hu;pk jn;dy da;ad fu;if
-戶田惠	hu;pk tm;aa hv;hx
-戶田惠子	hu;pk tm;aa hv;hx zi;aa
+戶田惠	hu;pk tm;aa hv;xh
+戶田惠子	hu;pk tm;aa hv;xh zi;aa
 戶田純	hu;pk tm;aa ip;st
 戶谷菊之介	hu;pk gu;bk ju;cj vi;dd jx;ra
 戶部翔	hu;pk bu;ek xd;yy
@@ -39632,7 +39632,7 @@ use_preset_vocabulary: false
 所尼婭	so;hj ni;ub ya;ny
 所山咲	so;hj uj;aa xc;kg
 所山崎	so;hj uj;aa qi;uq
-所惠美	so;hj hv;hx mz;dy
+所惠美	so;hj hv;xh mz;dy
 所有人	so;hj yb;ou rf;pd
 所有正傳遊戲簡介	so;hj yb;ou vg;av vr;rv yb;zy xi;gd jm;vj jx;ra
 所有者的刻印	so;hj yb;ou ve;lo de;bu ke;dh yn;ey
@@ -39910,7 +39910,7 @@ use_preset_vocabulary: false
 托馬斯	to;fq ma;ad si;jq
 托馬斯切斯特希爾	to;fq ma;ad si;jq qx;dq si;jq te;ns xi;ju er;ay
 托馬斯和朋友	to;fq ma;ad si;jq he;hk pg;oo yb;yu
-托馬斯惠美理	to;fq ma;ad si;jq hv;hx mz;dy li;wl
+托馬斯惠美理	to;fq ma;ad si;jq hv;xh mz;dy li;wl
 托馬斯愛迪生	to;fq ma;ad si;jq ai;vw di;zy ug;na
 托馬斯比爾茲利	to;fq ma;ad si;jq bi;bb er;ay zi;cy li;hd
 托馬斯沃巴達	to;fq ma;ad si;jq wo;dy ba;ag da;zy
@@ -40081,7 +40081,7 @@ use_preset_vocabulary: false
 折戶科美	ve;fj hu;pk ke;hd mz;dy
 折手死亞華憐	ve;fj ub;pa si;db ya;aa hw;ca lm;xl
 折斷的竹光	ve;fj dr;ja de;bu vu;gg gd;ea
-折木供惠	ve;fj mu;ad gs;rg hv;hx
+折木供惠	ve;fj mu;ad gs;rg hv;xh
 折木奉太郎	ve;fj mu;ad fg;ff tl;dd lh;el
 折木奉子	ve;fj mu;ad fg;ff zi;aa
 折木有裏	ve;fj mu;ad yb;ou li;dy
@@ -42236,7 +42236,7 @@ use_preset_vocabulary: false
 新九九八十一	xn;jq jq;py jq;py ba;pd ui;aa yi;aa
 新井圭一	xn;jq jy;aa gv;tt yi;aa
 新井弘明	xn;jq jy;aa hs;gs my;oo
-新井智惠	xn;jq jy;aa vi;ov hv;hx
+新井智惠	xn;jq jy;aa vi;ov hv;xh
 新井田泉	xn;jq jy;aa tm;aa qr;bu
 新井笙子	xn;jq jy;aa ug;vu zi;aa
 新井良平	xn;jq jy;aa ld;dg py;aa
@@ -42299,7 +42299,7 @@ use_preset_vocabulary: false
 新奧爾良	xn;jq ao;db er;ay ld;dg
 新奧特曼	xn;jq ao;db te;ns mj;oy
 新妹魔王的契約者	xn;jq mz;nw mo;gm wh;aa de;bu qi;dd yt;su ve;lo
-新妻八惠	xn;jq qi;na ba;pd hv;hx
+新妻八惠	xn;jq qi;na ba;pd hv;xh
 新妻日和	xn;jq qi;na ri;aa he;hk
 新娘	xn;jq nd;nl
 新娘太好找了我很方	xn;jq nd;nl tl;dd hk;nz vk;fg le;aa wo;pd hf;xg fh;dg
@@ -42475,7 +42475,7 @@ use_preset_vocabulary: false
 新田京助	xn;jq tm;aa jy;wx vu;lq
 新田大地	xn;jq tm;aa da;ad di;ty
 新田忍	xn;jq tm;aa rf;xr
-新田惠海	xn;jq tm;aa hv;hx hl;dm
+新田惠海	xn;jq tm;aa hv;xh hl;dm
 新田日和	xn;jq tm;aa ri;aa he;hk
 新田早規	xn;jq tm;aa zk;ou gv;fj
 新田杏樹	xn;jq tm;aa xy;km uu;mc
@@ -43193,7 +43193,7 @@ use_preset_vocabulary: false
 早乙女和子	zk;ou yi;aa nv;aa he;hk zi;aa
 早乙女希子	zk;ou yi;aa nv;aa xi;ju zi;aa
 早乙女彩華	zk;ou yi;aa nv;aa cl;pc hw;ca
-早乙女惠	zk;ou yi;aa nv;aa hv;hx
+早乙女惠	zk;ou yi;aa nv;aa hv;xh
 早乙女月乃	zk;ou yi;aa nv;aa yt;oy nl;gp
 早乙女有人	zk;ou yi;aa nv;aa yb;ou rf;pd
 早乙女由香	zk;ou yi;aa nv;aa yb;aa xd;ho
@@ -44353,7 +44353,7 @@ use_preset_vocabulary: false
 春日風暴	ip;of ri;aa fg;ji bk;ou
 春映	ip;of yy;oy
 春月	ip;of yt;oy
-春木惠	ip;of mu;ad hv;hx
+春木惠	ip;of mu;ad hv;xh
 春村奈奈	ip;of cp;mc nl;du nl;du
 春枯	ip;of ku;mg
 春歌	ip;of ge;qg
@@ -44577,7 +44577,7 @@ use_preset_vocabulary: false
 時光鐘擺	ui;os gd;ea vs;jt bl;fb
 時光齒輪	ui;os gd;ea ii;vk lp;il
 時劫者	ui;os jx;lq ve;lo
-時南朱鷺惠	ui;os nj;ua vu;pw lu;nl hv;hx
+時南朱鷺惠	ui;os nj;ua vu;pw lu;nl hv;xh
 時吟	ui;os yn;kj
 時國劍界時	ui;os go;kh jm;dq jx;tj ui;os
 時國宙	ui;os go;kh vb;by
@@ -44722,7 +44722,7 @@ use_preset_vocabulary: false
 時限	ui;os xm;eg
 時限機巧爆彈	ui;os xm;eg ji;mj qc;gk bk;hb dj;gd
 時雨	ui;os yu;ad
-時雨澤惠一	ui;os yu;ad ze;dx hv;hx yi;aa
+時雨澤惠一	ui;os yu;ad ze;dx hv;xh yi;aa
 時雨燈	ui;os yu;ad dg;hd
 時雨綺羅	ui;os yu;ad qi;sq lo;sv
 時雨羽衣	ui;os yu;ad yu;xx yi;dd
@@ -44999,7 +44999,7 @@ use_preset_vocabulary: false
 智醬是女生	vi;ov jd;yj ui;op nv;aa ug;na
 智障	vi;ov vh;ev
 智靈奇傳	vi;ov ly;wl qi;dk ir;rv
-智麻惠隊	vi;ov ma;gl hv;hx dv;eu
+智麻惠隊	vi;ov ma;gl hv;xh dv;eu
 智龍迷城	vi;ov ls;dg mi;zm ig;ti
 暇憶	xw;oj yi;xy
 暈動症	yp;oj ds;lv vg;bv
@@ -45627,7 +45627,7 @@ use_preset_vocabulary: false
 曾想去往桃源鄉	cg;ob xd;xx qu;ts wh;xv tk;mv yr;dy xd;el
 曾想成爲你	cg;ob xd;xx ig;gg wz;pd ni;re
 曾想拯救的是	cg;ob xd;xx vg;fi jq;wq de;bu ui;op
-曾我部惠	cg;ob wo;pd bu;ek hv;hx
+曾我部惠	cg;ob wo;pd bu;ek hv;xh
 曾我部英理	cg;ob wo;pd bu;ek yy;cy li;wl
 曾方羿	cg;ob fh;dg yi;cy
 曾是那樣的夜晚	cg;ob ui;op na;el yh;my de;bu ye;wd wj;om
@@ -45646,16 +45646,16 @@ use_preset_vocabulary: false
 曾經的記憶	cg;ob jy;sg de;bu ji;yj yi;xy
 曾經透明的世界	cg;ob jy;sg tb;zx my;oo de;bu ui;ca jx;tj
 曾蓉	cg;ob rs;cr
-替代	ti;fo dl;ry
-替罪羊	ti;fo zv;sf yh;da
-替身	ti;fo uf;pp
-替身之歌	ti;fo uf;pp vi;dd ge;qg
-替身之箭	ti;fo uf;pp vi;dd jm;vq
-替身使者	ti;fo uf;pp ui;rl ve;lo
-替身能力	ti;fo uf;pp ng;sb li;gp
-替身術	ti;fo uf;pp uu;xi
-替身遊戲	ti;fo uf;pp yb;zy xi;gd
-替雙親還債的條件是和全日本最可愛的女高中生一起生活	ti;fo ud;vy qn;jq hr;zh vl;rz de;bu tc;rt jm;rn ui;op he;hk qr;rw ri;aa bf;aa zv;oq ke;dk ai;vw de;bu nv;aa gk;dk vs;aa ug;na yi;aa qi;zj ug;na ho;du
+替代	ti;of dl;ry
+替罪羊	ti;of zv;sf yh;da
+替身	ti;of uf;pp
+替身之歌	ti;of uf;pp vi;dd ge;qg
+替身之箭	ti;of uf;pp vi;dd jm;vq
+替身使者	ti;of uf;pp ui;rl ve;lo
+替身能力	ti;of uf;pp ng;sb li;gp
+替身術	ti;of uf;pp uu;xi
+替身遊戲	ti;of uf;pp yb;zy xi;gd
+替雙親還債的條件是和全日本最可愛的女高中生一起生活	ti;of ud;vy qn;jq hr;zh vl;rz de;bu tc;rt jm;rn ui;op he;hk qr;rw ri;aa bf;aa zv;oq ke;dk ai;vw de;bu nv;aa gk;dk vs;aa ug;na yi;aa qi;zj ug;na ho;du
 最上	zv;oq uh;aa
 最上啓示	zv;oq uh;aa qi;kw ui;ex
 最上嗣生	zv;oq uh;aa si;ks ug;na
@@ -45869,7 +45869,7 @@ use_preset_vocabulary: false
 會川	hv;ro ir;pa
 會心一擊	hv;ro xn;dd yi;aa ji;fu
 會放晴吧	hv;ro fh;wf qy;oq ba;kb
-會有天使替我愛你	hv;ro yb;ou tm;ad ui;rl ti;fo wo;pd ai;vw ni;re
+會有天使替我愛你	hv;ro yb;ou tm;ad ui;rl ti;of wo;pd ai;vw ni;re
 會澤紗彌	hv;ro ze;dx ua;su mi;ge
 會玩	hv;ro wj;wy
 會田健	hv;ro tm;aa jm;rj
@@ -47137,7 +47137,7 @@ use_preset_vocabulary: false
 末日餘生	mo;ad ri;aa yu;uy ug;na
 末日魔犬	mo;ad ri;aa mo;gm qr;dd
 末日龍	mo;ad ri;aa ls;dg
-末柄裏惠	mo;ad by;mb li;dy hv;hx
+末柄裏惠	mo;ad by;mb li;dy hv;xh
 末次徹	mo;ad ci;dq ie;xw
 末永未來	mo;ad ys;dd wz;ex ll;ad
 末永未來日本萌化地圖	mo;ad ys;dd wz;ex ll;ad ri;aa bf;aa mg;cm hw;rb di;ty tu;kh
@@ -47194,7 +47194,7 @@ use_preset_vocabulary: false
 本多正純	bf;aa do;xx vg;av ip;st
 本多沙耶香	bf;aa do;xx ua;du ye;ee xd;ho
 本多真梨子	bf;aa do;xx vf;uj li;ml zi;aa
-本多知惠子	bf;aa do;xx vi;uk hv;hx zi;aa
+本多知惠子	bf;aa do;xx vi;uk hv;xh zi;aa
 本多陽子	bf;aa do;xx yh;ey zi;aa
 本子	bf;aa zi;aa
 本子節	bf;aa zi;aa jx;vj
@@ -47447,7 +47447,7 @@ use_preset_vocabulary: false
 杉山大	uj;mp uj;aa da;ad
 杉山太一	uj;mp uj;aa tl;dd yi;aa
 杉山清美	uj;mp uj;aa qy;dq mz;dy
-杉山由惠	uj;mp uj;aa yb;aa hv;hx
+杉山由惠	uj;mp uj;aa yb;aa hv;xh
 杉山紀彰	uj;mp uj;aa ji;sj vh;pv
 杉山裏穗	uj;mp uj;aa li;dy sv;hh
 杉山高志	uj;mp uj;aa gk;dk vi;ux
@@ -47569,7 +47569,7 @@ use_preset_vocabulary: false
 李星珠	li;mz xy;ou vu;wv
 李星雲	li;mz xy;ou yp;yy
 李春胤	li;mz ip;of yn;eo
-李景惠	li;mz jy;oj hv;hx
+李景惠	li;mz jy;oj hv;xh
 李晶	li;mz jy;oo
 李曄	li;mz ye;oh
 李曉峯	li;mz xc;oy fg;uf
@@ -48049,7 +48049,7 @@ use_preset_vocabulary: false
 東山小紅	ds;ad uj;aa xc;ad hs;sg
 東山文化	ds;ad uj;aa wf;wi hw;rb
 東山源次	ds;ad uj;aa yr;dy ci;dq
-東山美惠	ds;ad uj;aa mz;dy hv;hx
+東山美惠	ds;ad uj;aa mz;dy hv;xh
 東峯司	ds;ad fg;uf si;gk
 東弓奈	ds;ad gs;ag nl;du
 東德娘	ds;ad de;xx nd;nl
@@ -48172,7 +48172,7 @@ use_preset_vocabulary: false
 東方求聞史紀	ds;ad fh;dg qq;ad wf;em ui;ad ji;sj
 東方求聞史記	ds;ad fh;dg qq;ad wf;em ui;ad ji;yj
 東方活動寫真館	ds;ad fh;dg ho;du ds;lv xx;bd vf;uj gr;ug
-東方海惠堂	ds;ad fh;dg hl;dm hv;hx th;tk
+東方海惠堂	ds;ad fh;dg hl;dm hv;xh th;tk
 東方深祕錄	ds;ad fh;dg uf;dm mi;ub lu;jl
 東方清泉饗	ds;ad fh;dg qy;dq qr;bu xd;ux
 東方漫畫	ds;ad fh;dg mj;dm hw;ya
@@ -48350,7 +48350,7 @@ use_preset_vocabulary: false
 東雲彰人	ds;ad yp;yy vh;pv rf;pd
 東雲心菜	ds;ad yp;yy xn;dd cl;cc
 東雲悟	ds;ad yp;yy wu;xw
-東雲惠	ds;ad yp;yy hv;hx
+東雲惠	ds;ad yp;yy hv;xh
 東雲校長	ds;ad yp;yy xc;mj vh;ad
 東雲楚方	ds;ad yp;yy iu;mp fh;dg
 東雲皋月	ds;ad yp;yy gk;bu yt;oy
@@ -48386,7 +48386,7 @@ use_preset_vocabulary: false
 松久博記	ss;mg jq;pd bo;uc ji;yj
 松井	ss;mg jy;aa
 松井優徵	ss;mg jy;aa yb;rw vg;xw
-松井惠理子	ss;mg jy;aa hv;hx li;wl zi;aa
+松井惠理子	ss;mg jy;aa hv;xh li;wl zi;aa
 松井摩味	ss;mg jy;aa mo;mu wz;kw
 松井敬子	ss;mg jy;aa jy;wg zi;aa
 松井曉波	ss;mg jy;aa xc;oy bo;dp
@@ -48398,7 +48398,7 @@ use_preset_vocabulary: false
 松來未佑	ss;mg ll;ad wz;ex yb;ry
 松來未祐	ss;mg ll;ad wz;ex yb;uy
 松傘	ss;mg sj;ru
-松元惠	ss;mg yr;aw hv;hx
+松元惠	ss;mg yr;aw hv;xh
 松元環季	ss;mg yr;aw hr;wh ji;hz
 松元由樹	ss;mg yr;aw yb;aa uu;mc
 松前城	ss;mg qm;bd ig;ti
@@ -48438,7 +48438,7 @@ use_preset_vocabulary: false
 松岡七海	ss;mg gh;ku qi;ag hl;dm
 松岡修造	ss;mg gh;ku xq;rp zk;zg
 松岡凜	ss;mg gh;ku ln;db
-松岡千惠	ss;mg gh;ku qm;pa hv;hx
+松岡千惠	ss;mg gh;ku qm;pa hv;xh
 松岡律	ss;mg gh;ku lv;xy
 松岡愛衣催婚協會	ss;mg gh;ku ai;vw yi;dd cv;rc hp;nh xx;ul hv;ro
 松岡文雄	ss;mg gh;ku wf;wi xs;vh
@@ -48488,10 +48488,10 @@ use_preset_vocabulary: false
 松本泉	ss;mg bf;aa qr;bu
 松本清長	ss;mg bf;aa qy;dq vh;ad
 松本理世	ss;mg bf;aa li;wl ui;ca
-松本理惠	ss;mg bf;aa li;wl hv;hx
+松本理惠	ss;mg bf;aa li;wl hv;xh
 松本美	ss;mg bf;aa mz;dy
 松本美冬	ss;mg bf;aa mz;dy ds;wd
-松本美知惠	ss;mg bf;aa mz;dy vi;uk hv;hx
+松本美知惠	ss;mg bf;aa mz;dy vi;uk hv;xh
 松本花雪	ss;mg bf;aa hw;ch xt;yx
 松本英子	ss;mg bf;aa yy;cy zi;aa
 松本裏子	ss;mg bf;aa li;dy zi;aa
@@ -48519,7 +48519,7 @@ use_preset_vocabulary: false
 松浦宏明	ss;mg pu;df hs;bh my;oo
 松浦愛弓	ss;mg pu;df ai;vw gs;ag
 松浦果南	ss;mg pu;df go;ad nj;ua
-松浦知惠	ss;mg pu;df vi;uk hv;hx
+松浦知惠	ss;mg pu;df vi;uk hv;xh
 松浦義之	ss;mg pu;df yi;yw vi;dd
 松浦裕曉	ss;mg pu;df yu;yg xc;oy
 松浦裕美子	ss;mg pu;df yu;yg mz;dy zi;aa
@@ -48592,7 +48592,7 @@ use_preset_vocabulary: false
 板倉大二郎	bj;mf ch;rk da;ad er;aa lh;el
 板垣伸	bj;mf yr;tg uf;ru
 板垣巴留	bj;mf yr;tg ba;ag lq;td
-板垣惠介	bj;mf yr;tg hv;hx jx;ra
+板垣惠介	bj;mf yr;tg hv;xh jx;ra
 板垣李光人	bj;mf yr;tg li;mz gd;ea rf;pd
 板場弓美	bj;mf ih;ty gs;ag mz;dy
 板島丸串城	bj;mf dk;nu wj;jd ir;aa ig;ti
@@ -48646,8 +48646,8 @@ use_preset_vocabulary: false
 林勇	ln;mm ys;ly
 林動	ln;mm ds;lv
 林博	ln;mm bo;uc
-林原惠	ln;mm yr;ix hv;hx
-林原惠美	ln;mm yr;ix hv;hx mz;dy
+林原惠	ln;mm yr;ix hv;xh
+林原惠美	ln;mm yr;ix hv;xh mz;dy
 林友樹	ln;mm yb;yu uu;mc
 林可羅德艾根	ln;mm ke;dk lo;sv de;xx ai;ci gf;mg
 林和夜	ln;mm he;hk ye;wd
@@ -48875,7 +48875,7 @@ use_preset_vocabulary: false
 柊鏡	vs;md jy;jj
 柊雪	vs;md xt;yx
 柊音夢	vs;md yn;lo mg;cx
-柊香惠	vs;md xd;ho hv;hx
+柊香惠	vs;md xd;ho hv;xh
 柏修斯的神域	bl;mb xq;rp si;jq de;bu uf;uu yu;th
 柏原美衣	bl;mb yr;ix mz;dy yi;dd
 柏喙	bl;mb hv;kt
@@ -50014,7 +50014,7 @@ use_preset_vocabulary: false
 梅津泰臣	mz;mm jn;dy tl;fu if;aa
 梅津秀行	mz;mm jn;dy xq;hn xy;xd
 梅漣所羅門	mz;mm lm;dl so;hj lo;sv mf;aa
-梅澤惠	mz;mm ze;dx hv;hx
+梅澤惠	mz;mm ze;dx hv;xh
 梅澤愛子	mz;mm ze;dx ai;vw zi;aa
 梅爾	mz;mm er;ay
 梅爾修德羅姆	mz;mm er;ay xq;rp de;xx lo;sv mu;nm
@@ -50303,7 +50303,7 @@ use_preset_vocabulary: false
 棘冠鱷	ji;cc gr;bc ee;ye
 棘刺	ji;cc ci;dc
 棘刺公交	ji;cc ci;dc gs;sb jc;wf
-棘田惠那	ji;cc tm;aa hv;hx na;el
+棘田惠那	ji;cc tm;aa hv;xh na;el
 棘輪扳手	ji;cc lp;il bj;ff ub;pa
 棘鰭	ji;cc qi;yo
 棘龍	ji;cc ls;dg
@@ -50434,7 +50434,7 @@ use_preset_vocabulary: false
 森羅的姬芽君	sf;ml lo;sv de;bu ji;ni ya;cy jp;ky
 森羅的姬芽宮	sf;ml lo;sv de;bu ji;ni ya;cy gs;bl
 森羅的守神	sf;ml lo;sv de;bu ub;bc uf;uu
-森羅的恩惠	sf;ml lo;sv de;bu en;xy hv;hx
+森羅的恩惠	sf;ml lo;sv de;bu en;xy hv;xh
 森羅的施捨	sf;ml lo;sv de;bu ui;fy ue;fu
 森羅的瀧滑	sf;ml lo;sv de;bu ls;dl hw;dg
 森羅的鎮神	sf;ml lo;sv de;bu vf;jv uf;uu
@@ -50859,7 +50859,7 @@ use_preset_vocabulary: false
 榕葉毛茛	rs;mr ye;cm mk;pg gf;cg
 榛原七香	vf;mq yr;ix qi;ag xd;ho
 榛名	vf;mq my;xk
-榛名仁惠	vf;mq my;xk rf;re hv;hx
+榛名仁惠	vf;mq my;xk rf;re hv;xh
 榛名日和	vf;mq my;xk ri;aa he;hk
 榛名的時間	vf;mq my;xk de;bu ui;os jm;mo
 榛有希	vf;mq yb;ou xi;ju
@@ -51233,7 +51233,7 @@ use_preset_vocabulary: false
 橘彌生	ju;mk mi;ge ug;na
 橘御伽	ju;mk yu;xx ga;rj
 橘志狼	ju;mk vi;ux lh;ql
-橘惠美	ju;mk hv;hx mz;dy
+橘惠美	ju;mk hv;xh mz;dy
 橘愛子	ju;mk ai;vw zi;aa
 橘愛莉絲	ju;mk ai;vw li;cl si;ss
 橘愛麗絲	ju;mk ai;vw li;ll si;ss
@@ -51775,7 +51775,7 @@ use_preset_vocabulary: false
 櫻川九郎	yy;my ir;pa jq;py lh;el
 櫻川六花	yy;my ir;pa lq;wb hw;ch
 櫻川尊	yy;my ir;pa zp;cq
-櫻川惠	yy;my ir;pa hv;hx
+櫻川惠	yy;my ir;pa hv;xh
 櫻川曉	yy;my ir;pa xc;oy
 櫻川未央	yy;my ir;pa wz;ex yh;ad
 櫻川菊繪	yy;my ir;pa ju;cj hv;sh
@@ -51793,7 +51793,7 @@ use_preset_vocabulary: false
 櫻庭萌美	yy;my ty;gt mg;cm mz;dy
 櫻庭薰	yy;my ty;gt xp;cx
 櫻庭館	yy;my ty;gt gr;ug
-櫻彌惠	yy;my mi;ge hv;hx
+櫻彌惠	yy;my mi;ge hv;xh
 櫻彩	yy;my cl;pc
 櫻愛音	yy;my ai;vw yn;lo
 櫻才學園	yy;my cl;ap xt;jz yr;ky
@@ -53372,7 +53372,7 @@ use_preset_vocabulary: false
 氏家睦	ui;pg jw;bu mu;ot
 氏族	ui;pg zu;fu
 民安友繪	mn;ag an;bn yb;yu hv;sh
-民安智惠	mn;ag an;bn vi;ov hv;hx
+民安智惠	mn;ag an;bn vi;ov hv;xh
 民工勇者	mn;ag gs;aa ys;ly ve;lo
 民工漫	mn;ag gs;aa mj;dm
 民族風	mn;ag zu;fu fg;ji
@@ -53998,7 +53998,7 @@ use_preset_vocabulary: false
 永恆進化爆裂光	ys;dd hg;xa jn;zv hw;rb bk;hb lx;yl gd;ea
 永恆達利亞	ys;dd hg;xa da;zy li;hd ya;aa
 永恩	ys;dd en;xy
-永惠由彩	ys;dd hv;hx yb;aa cl;pc
+永惠由彩	ys;dd hv;xh yb;aa cl;pc
 永晝	ys;dd vb;yd
 永木櫻	ys;dd mu;ad yy;my
 永木步實	ys;dd mu;ad bu;vx ui;bg
@@ -54193,7 +54193,7 @@ use_preset_vocabulary: false
 江川央生	jd;dg ir;pa yh;ad ug;na
 江川樟美	jd;dg ir;pa vh;mv mz;dy
 江川正吾	jd;dg ir;pa vg;av wu;wk
-江惠惠	jd;dg hv;hx hv;hx
+江惠惠	jd;dg hv;xh hv;xh
 江戶	jd;dg hu;pk
 江戶前的廢柴精靈	jd;dg hu;pk qm;bd de;bu fz;gf il;mc jy;mq ly;wl
 江戶前精靈	jd;dg hu;pk qm;bd jy;mq ly;wl
@@ -54211,7 +54211,7 @@ use_preset_vocabulary: false
 江時暖	jd;dg ui;os nr;oy
 江月	jd;dg yt;oy
 江本州輝	jd;dg bf;aa vb;da hv;gj
-江本智惠	jd;dg bf;aa vi;ov hv;hx
+江本智惠	jd;dg bf;aa vi;ov hv;xh
 江村由菜	jd;dg cp;mc yb;aa cl;cc
 江森浩子	jd;dg sf;ml hk;dg zi;aa
 江楠楠	jd;dg nj;mn nj;mn
@@ -54738,7 +54738,7 @@ use_preset_vocabulary: false
 河內亞也子	he;dk nz;kr ya;aa ye;gg zi;aa
 河內孝博	he;dk nz;kr xc;zl bo;uc
 河內美里	he;dk nz;kr mz;dy li;aa
-河北智惠	he;dk bz;ap vi;ov hv;hx
+河北智惠	he;dk bz;ap vi;ov hv;xh
 河北精英動漫文化傳播股份有限公司	he;dk bz;ap jy;mq yy;cy ds;lv mj;dm wf;wi hw;rb ir;rv bo;ff gu;ou ff;rf yb;ou xm;eg gs;sb si;gk
 河南娘	he;dk nj;ua nd;nl
 河南子	he;dk nj;ua zi;aa
@@ -54772,7 +54772,7 @@ use_preset_vocabulary: false
 河本邦弘	he;dk bf;aa bh;ef hs;gs
 河村友美	he;dk cp;mc yb;yu mz;dy
 河村智之	he;dk cp;mc vi;ov vi;dd
-河村梨惠	he;dk cp;mc li;ml hv;hx
+河村梨惠	he;dk cp;mc li;ml hv;xh
 河村螢	he;dk cp;mc yy;hi
 河東碧梧桐	he;dk ds;ad bi;ub wu;mw ts;mt
 河森正治	he;dk sf;ml vg;av vi;dt
@@ -54802,7 +54802,7 @@ use_preset_vocabulary: false
 河西忍	he;dk xi;aa rf;xr
 河西慎二	he;dk xi;aa uf;xv er;aa
 河豚刺身	he;dk tp;ou ci;dc uf;pp
-河野惠美	he;dk ye;ly hv;hx mz;dy
+河野惠美	he;dk ye;ly hv;xh mz;dy
 河野日和	he;dk ye;ly ri;aa he;hk
 河野智之	he;dk ye;ly vi;ov vi;dd
 河野櫻	he;dk ye;ly yy;my
@@ -55845,7 +55845,7 @@ use_preset_vocabulary: false
 浦和小調	pu;df he;hk xc;ad dc;yv
 浦和小調永不停歇	pu;df he;hk xc;ad dc;yv ys;dd bu;ad ty;rt xx;qh
 浦和希	pu;df he;hk xi;ju
-浦和惠	pu;df he;hk hv;hx
+浦和惠	pu;df he;hk hv;xh
 浦和花子	pu;df he;hk hw;ch zi;aa
 浦城笑	pu;df ig;ti xc;vy
 浦塔羅斯	pu;df ta;td lo;sv si;jq
@@ -56091,7 +56091,7 @@ use_preset_vocabulary: false
 海忍	hl;dm rf;xr
 海怒	hl;dm nu;xn
 海恩	hl;dm en;xy
-海惠堂	hl;dm hv;hx th;tk
+海惠堂	hl;dm hv;xh th;tk
 海惡龍	hl;dm ee;xy ls;dg
 海想列車	hl;dm xd;xx lx;dd ie;aa
 海戰	hl;dm vj;gd
@@ -56421,7 +56421,7 @@ use_preset_vocabulary: false
 消失的天堂	xc;dx ui;pf de;bu tm;ad th;tk
 消失的後者	xc;dx ui;pf de;bu hb;xw ve;lo
 消失的繼承人	xc;dx ui;pf de;bu ji;sy ig;ad rf;pd
-消失與代替的救贖之歌	xc;dx ui;pf yu;ba dl;ry ti;fo de;bu jq;wq uu;bm vi;dd ge;qg
+消失與代替的救贖之歌	xc;dx ui;pf yu;ba dl;ry ti;of de;bu jq;wq uu;bm vi;dd ge;qg
 消失點	xc;dx ui;pf dm;hv
 消散於晚風中的神	xc;dx sj;wo yu;fd wj;om fg;ji vs;aa de;bu uf;uu
 消極標籤	xc;dx ji;ma bc;mp qm;vg
@@ -56906,7 +56906,7 @@ use_preset_vocabulary: false
 淺上藤乃	qm;dj uh;aa tg;ct nl;gp
 淺井孝行	qm;dj jy;aa xc;zl xy;xd
 淺井宏輔	qm;dj jy;aa hs;bh fu;if
-淺井惠	qm;dj jy;aa hv;hx
+淺井惠	qm;dj jy;aa hv;xh
 淺井慶一郎	qm;dj jy;aa qy;gw yi;aa lh;el
 淺井成實	qm;dj jy;aa ig;gg ui;bg
 淺井清己	qm;dj jy;aa qy;dq ji;ag
@@ -57019,7 +57019,7 @@ use_preset_vocabulary: false
 清水夕日	qy;dq uv;ad xi;pd ri;aa
 清水幸利	qy;dq uv;ad xy;tu li;hd
 清水彩香	qy;dq uv;ad cl;pc xd;ho
-清水惠	qy;dq uv;ad hv;hx
+清水惠	qy;dq uv;ad hv;xh
 清水愛	qy;dq uv;ad ai;vw
 清水春香	qy;dq uv;ad ip;of xd;ho
 清水楓	qy;dq uv;ad fg;mf
@@ -57057,7 +57057,7 @@ use_preset_vocabulary: false
 清瞳	qy;dq ts;ot
 清秀佳人	qy;dq xq;hn jw;rg rf;pd
 清秀佳人前傳	qy;dq xq;hn jw;rg rf;pd qm;bd ir;rv
-清秋院惠那	qy;dq qq;hh yr;ew hv;hx na;el
+清秋院惠那	qy;dq qq;hh yr;ew hv;xh na;el
 清純女孩計劃	qy;dq ip;st nv;aa hl;zh ji;yu hw;dh
 清純正直	qy;dq ip;st vg;av vi;aa
 清純碧池	qy;dq ip;st bi;ub ii;dy
@@ -57186,7 +57186,7 @@ use_preset_vocabulary: false
 渡邊麻友	du;dd bm;zf ma;gl yb;yu
 渡部俊樹	du;dd bu;ek jp;rj uu;mc
 渡部優衣	du;dd bu;ek yb;rw yi;dd
-渡部惠子	du;dd bu;ek hv;hx zi;aa
+渡部惠子	du;dd bu;ek hv;xh zi;aa
 渡部椎菜	du;dd bu;ek vv;mv cl;cc
 渡部猛	du;dd bu;ek mg;qm
 渡部穩寬	du;dd bu;ek wf;hj kr;bd
@@ -57964,8 +57964,8 @@ use_preset_vocabulary: false
 潘尼懷斯娘	pj;df ni;ub hy;xh si;jq nd;nl
 潘延	pj;df yj;zv
 潘德莫妮卡	pj;df de;xx mo;cd ni;nn ka;bx
-潘惠子	pj;df hv;hx zi;aa
-潘惠美	pj;df hv;hx mz;dy
+潘惠子	pj;df hv;xh zi;aa
+潘惠美	pj;df hv;xh mz;dy
 潘敏	pj;df mn;wm
 潘朵拉	pj;df do;mj la;fl
 潘朵拉之心	pj;df do;mj la;fl vi;dd xn;dd
@@ -58100,7 +58100,7 @@ use_preset_vocabulary: false
 澤丁施奈德	ze;dx dy;aa ui;fy nl;du de;xx
 澤井夏葉	ze;dx jy;aa xw;wz ye;cm
 澤井幸次	ze;dx jy;aa xy;tu ci;dq
-澤井惠美	ze;dx jy;aa hv;hx mz;dy
+澤井惠美	ze;dx jy;aa hv;xh mz;dy
 澤井笑美	ze;dx jy;aa xc;vy mz;dy
 澤井美空	ze;dx jy;aa mz;dy ks;xg
 澤井麻耶	ze;dx jy;aa ma;gl ye;ee
@@ -58126,7 +58126,7 @@ use_preset_vocabulary: false
 澤木亞里紗	ze;dx mu;ad ya;aa li;aa ua;su
 澤木修一郎	ze;dx mu;ad xq;rp yi;aa lh;el
 澤木口美崎	ze;dx mu;ad kb;aa mz;dy qi;uq
-澤木桃惠	ze;dx mu;ad tk;mv hv;hx
+澤木桃惠	ze;dx mu;ad tk;mv hv;xh
 澤木鬱也	ze;dx mu;ad yu;fp ye;gg
 澤村史賓瑟英梨梨	ze;dx cp;mc ui;ad bn;bb se;wb yy;cy li;ml li;ml
 澤村唯依	ze;dx cp;mc wz;kv yi;ry
@@ -58298,7 +58298,7 @@ use_preset_vocabulary: false
 濱海葉苞菊	bn;db hl;dm ye;cm bk;cb ju;cj
 濱添伸也	bn;db tm;dt uf;ru ye;gg
 濱田城	bn;db tm;aa ig;ti
-濱田惠子	bn;db tm;aa hv;hx zi;aa
+濱田惠子	bn;db tm;aa hv;xh zi;aa
 濱田洋平	bn;db tm;aa yh;dy py;aa
 濱田浩輔	bn;db tm;aa hk;dg fu;if
 濱田知幸	bn;db tm;aa vi;uk xy;tu
@@ -58379,7 +58379,7 @@ use_preset_vocabulary: false
 瀨尾晶	ll;dl wz;um jy;oo
 瀨尾結月	ll;dl wz;um jx;sj yt;oy
 瀨尾靜音	ll;dl wz;um jy;qv yn;lo
-瀨崎利惠	ll;dl qi;uq li;hd hv;hx
+瀨崎利惠	ll;dl qi;uq li;hd hv;xh
 瀨崎未來	ll;dl qi;uq wz;ex ll;ad
 瀨川彌	ll;dl ir;pa mi;ge
 瀨川彩愛	ll;dl ir;pa cl;pc ai;vw
@@ -58393,9 +58393,9 @@ use_preset_vocabulary: false
 瀨川茜	ll;dl ir;pa qm;cx
 瀨川雛	ll;dl ir;pa iu;vc
 瀨川音符	ll;dl ir;pa yn;lo fu;vf
-瀨戶乃麻裏惠	ll;dl hu;pk nl;gp ma;gl li;dy hv;hx
+瀨戶乃麻裏惠	ll;dl hu;pk nl;gp ma;gl li;dy hv;xh
 瀨戶之花嫁	ll;dl hu;pk vi;dd hw;ch jw;nj
-瀨戶內智惠	ll;dl hu;pk nz;kr vi;ov hv;hx
+瀨戶內智惠	ll;dl hu;pk nz;kr vi;ov hv;xh
 瀨戶口優	ll;dl hu;pk kb;aa yb;rw
 瀨戶口廉也	ll;dl hu;pk kb;aa lm;gj ye;gg
 瀨戶圖圖妮	ll;dl hu;pk tu;kh tu;kh ni;nn
@@ -58421,7 +58421,7 @@ use_preset_vocabulary: false
 瀨能名津流	ll;dl ng;sb my;xk jn;dy lq;di
 瀨能逸美	ll;dl ng;sb yi;zt mz;dy
 瀨良亞由美	ll;dl ld;dg ya;aa yb;aa mz;dy
-瀨良垣多惠	ll;dl ld;dg yr;tg do;xx hv;hx
+瀨良垣多惠	ll;dl ld;dg yr;tg do;xx hv;xh
 瀨良垣生	ll;dl ld;dg yr;tg ug;na
 瀨良垣蒼葉	ll;dl ld;dg yr;tg ch;cc ye;cm
 瀨良垣遙	ll;dl ld;dg yr;tg yk;zf
@@ -60407,7 +60407,7 @@ use_preset_vocabulary: false
 片岡健太	pm;pa gh;ku jm;rj tl;dd
 片岡優希	pm;pa gh;ku yb;rw xi;ju
 片岡富枝	pm;pa gh;ku fu;bf vi;mv
-片岡惠	pm;pa gh;ku hv;hx
+片岡惠	pm;pa gh;ku hv;xh
 片岡智	pm;pa gh;ku vi;ov
 片岡玉子	pm;pa gh;ku yu;ad zi;aa
 片岡萌	pm;pa gh;ku mg;cm
@@ -60586,7 +60586,7 @@ use_preset_vocabulary: false
 牧場大叔	mu;nw ih;ty da;ad uu;yx
 牧場物語	mu;nw ih;ty wu;nw yu;yw
 牧場物語	mu;nw ih;ty wu;nw yu;yw
-牧場野惠	mu;nw ih;ty ye;ly hv;hx
+牧場野惠	mu;nw ih;ty ye;ly hv;xh
 牧奈中島	mu;nw nl;du vs;aa dk;nu
 牧奴嬌	mu;nw nu;ny jc;nq
 牧島有希	mu;nw dk;nu yb;ou xi;ju
@@ -61202,7 +61202,7 @@ use_preset_vocabulary: false
 狸兮	li;ql xi;bk
 狸貓	li;ql mk;vm
 狹井雪嗣	xw;qj jy;aa xt;yx si;ks
-狹山千惠	xw;qj uj;aa qm;pa hv;hx
+狹山千惠	xw;qj uj;aa qm;pa hv;xh
 狹山杏子	xw;qj uj;aa xy;km zi;aa
 狹山椿	xw;qj uj;aa ip;mi
 狹山民世	xw;qj uj;aa mn;ag ui;ca
@@ -63444,7 +63444,7 @@ use_preset_vocabulary: false
 田中健大	tm;aa vs;aa jm;rj da;ad
 田中優美清春香菜	tm;aa vs;aa yb;rw mz;dy qy;dq ip;of xd;ho cl;cc
 田中光	tm;aa vs;aa gd;ea
-田中千惠美	tm;aa vs;aa qm;pa hv;hx mz;dy
+田中千惠美	tm;aa vs;aa qm;pa hv;xh mz;dy
 田中吉竹	tm;aa vs;aa ji;ku vu;gg
 田中君總是如此慵懶	tm;aa vs;aa jp;ky zs;sc ui;op ru;nk ci;vb ys;xy lj;xl
 田中啓太郎	tm;aa vs;aa qi;kw tl;dd lh;el
@@ -63481,7 +63481,7 @@ use_preset_vocabulary: false
 田中水菜	tm;aa vs;aa uv;ad cl;cc
 田中沙耶	tm;aa vs;aa ua;du ye;ee
 田中涼子	tm;aa vs;aa ld;dj zi;aa
-田中理惠	tm;aa vs;aa li;wl hv;hx
+田中理惠	tm;aa vs;aa li;wl hv;xh
 田中琴葉	tm;aa vs;aa qn;wj ye;cm
 田中由由子	tm;aa vs;aa yb;aa yb;aa zi;aa
 田中的異世界稱霸	tm;aa vs;aa de;bu yi;tg ui;ca jx;tj ig;hr ba;yo
@@ -63547,7 +63547,7 @@ use_preset_vocabulary: false
 田志仁	tm;aa vi;ux rf;re
 田志鵬	tm;aa vi;ux pg;np
 田恩雅	tm;aa en;xy ya;vy
-田所惠	tm;aa so;hj hv;hx
+田所惠	tm;aa so;hj hv;xh
 田所梓	tm;aa so;hj zi;mx
 田所浩二	tm;aa so;hj hk;dg er;aa
 田所陽向	tm;aa so;hj yh;ey xd;pk
@@ -64694,7 +64694,7 @@ use_preset_vocabulary: false
 白漫城	bl;pa mj;dm ig;ti
 白澄常花	bl;pa ig;dd ih;jk hw;ch
 白澤	bl;pa ze;dx
-白澤加奈惠	bl;pa ze;dx jw;lk nl;du hv;hx
+白澤加奈惠	bl;pa ze;dx jw;lk nl;du hv;xh
 白澤千歲	bl;pa ze;dx qm;pa sv;vx
 白澤球	bl;pa ze;dx qq;wq
 白澤由梨	bl;pa ze;dx yb;aa li;ml
@@ -65076,7 +65076,7 @@ use_preset_vocabulary: false
 白鳥	bl;pa nc;pd
 白鳥三久	bl;pa nc;pd sj;aa jq;pd
 白鳥任三郎	bl;pa nc;pd rf;rr sj;aa lh;el
-白鳥友惠	bl;pa nc;pd yb;yu hv;hx
+白鳥友惠	bl;pa nc;pd yb;yu hv;xh
 白鳥哲	bl;pa nc;pd ve;kv
 白鳥士郎	bl;pa nc;pd ui;aa lh;el
 白鳥姬	bl;pa nc;pd ji;ni
@@ -65603,7 +65603,7 @@ use_preset_vocabulary: false
 盜賊公會	dk;mc zz;br gs;sb hv;ro
 盜賊哥布林	dk;mc zz;br ge;kd bu;ju ln;mm
 盜賊少女	dk;mc zz;br uk;xp nv;aa
-盜賊山惠	dk;mc zz;br uj;aa hv;hx
+盜賊山惠	dk;mc zz;br uj;aa hv;xh
 盜賊王	dk;mc zz;br wh;aa
 盜賊的七道具	dk;mc zz;br de;bu qi;ag dk;zu ju;ba
 盜賊的極意	dk;mc zz;br de;bu ji;ma yi;xy
@@ -66096,7 +66096,7 @@ use_preset_vocabulary: false
 真人	vf;uj rf;pd
 真人動畫	vf;uj rf;pd ds;lv hw;ya
 真人快打	vf;uj rf;pd ky;xd da;fd
-真仲惠吾	vf;uj vs;rv hv;hx wu;wk
+真仲惠吾	vf;uj vs;rv hv;xh wu;wk
 真侍魂	vf;uj ui;rs hp;gy
 真侍魂霸王丸地獄變	vf;uj ui;rs hp;gy ba;yo wh;aa wj;jd di;ty yu;qq bm;ws
 真假阿綾	vf;uj jw;rj aa;ek ly;sl
@@ -66662,8 +66662,8 @@ use_preset_vocabulary: false
 知己	vi;uk ji;ag
 知己知彼	vi;uk ji;ag vi;uk bi;xp
 知念實也	vi;uk nm;xj ui;bg ye;gg
-知惠留美子	vi;uk hv;hx lq;td mz;dy zi;aa
-知惠袋雪花	vi;uk hv;hx dl;yd xt;yx hw;ch
+知惠留美子	vi;uk hv;xh lq;td mz;dy zi;aa
+知惠袋雪花	vi;uk hv;xh dl;yd xt;yx hw;ch
 知我麻社	vi;uk wo;pd ma;gl ue;ut
 知新	vi;uk xn;jq
 知曉天空之藍的人啊	vi;uk xc;oy tm;ad ks;xg vi;dd lj;cj de;bu rf;pd aa;ka
@@ -66792,7 +66792,7 @@ use_preset_vocabulary: false
 石川一清	ui;kp ir;pa yi;aa qy;dq
 石川乃奈	ui;kp ir;pa nl;gp nl;du
 石川五右衛門	ui;kp ir;pa wu;aa yb;ku wz;xi mf;aa
-石川五惠	ui;kp ir;pa wu;aa hv;hx
+石川五惠	ui;kp ir;pa wu;aa hv;xh
 石川五衛門	ui;kp ir;pa wu;aa wz;xi mf;aa
 石川伍右衛門	ui;kp ir;pa wu;rw yb;ku wz;xi mf;aa
 石川光久	ui;kp ir;pa gd;ea jq;pd
@@ -66934,7 +66934,7 @@ use_preset_vocabulary: false
 石頭說	ui;kp tb;dy uo;yd
 石頭門	ui;kp tb;dy mf;aa
 石風呂	ui;kp fg;ji lv;kk
-石飛惠裏花	ui;kp fz;ff hv;hx li;dy hw;ch
+石飛惠裏花	ui;kp fz;ff hv;xh li;dy hw;ch
 石飛閒無	ui;kp fz;ff xm;mo wu;rh
 石館光太郎	ui;kp gr;ug gd;ea tl;dd lh;el
 石馬戒嚴	ui;kp ma;ad jx;gc yj;kg
@@ -67201,7 +67201,7 @@ use_preset_vocabulary: false
 碧居結衣	bi;ub ju;ug jx;sj yi;dd
 碧山玄宗	bi;ub uj;aa xr;wy zs;bu
 碧川萵苣	bi;ub ir;pa wo;cg ju;cj
-碧志摩惠	bi;ub vi;ux mo;mu hv;hx
+碧志摩惠	bi;ub vi;ux mo;mu hv;xh
 碧昂絲	bi;ub ah;oe si;ss
 碧朋學園	bi;ub pg;oo xt;jz yr;ky
 碧桂園五星上將	bi;ub gv;mg yr;ky wu;aa xy;ou uh;aa jd;pc
@@ -67576,7 +67576,7 @@ use_preset_vocabulary: false
 神之島風太	uf;uu vi;dd dk;nu fg;ji tl;dd
 神之御子薇薇	uf;uu vi;dd yu;xx zi;aa wz;cw wz;cw
 神之忠告	uf;uu vi;dd vs;xv gk;kn
-神之恩惠	uf;uu vi;dd en;xy hv;hx
+神之恩惠	uf;uu vi;dd en;xy hv;xh
 神之息吹	uf;uu vi;dd xi;xz iv;kq
 神之木汐	uf;uu vi;dd mu;ad xi;dx
 神之桎梏	uf;uu vi;dd vi;mv gu;mg
@@ -67738,7 +67738,7 @@ use_preset_vocabulary: false
 神宮寺寂雷	uf;uu gs;bl si;ct ji;bu lz;yt
 神宮寺小也香	uf;uu gs;bl si;ct xc;ad ye;gg xd;ho
 神宮寺幸	uf;uu gs;bl si;ct xy;tu
-神宮寺玖惠澄	uf;uu gs;bl si;ct jq;wj hv;hx ig;dd
+神宮寺玖惠澄	uf;uu gs;bl si;ct jq;wj hv;xh ig;dd
 神宮海藏	uf;uu gs;bl hl;dm ch;cg
 神宮美咲	uf;uu gs;bl mz;dy xc;kg
 神寵傳說	uf;uu is;bl ir;rv uo;yd
@@ -67922,7 +67922,7 @@ use_preset_vocabulary: false
 神樂坂亂花	uf;uu le;bm bj;tf lr;gy hw;ch
 神樂坂倫花	uf;uu le;bm bj;tf lp;rl hw;ch
 神樂坂優樹	uf;uu le;bm bj;tf yb;rw uu;mc
-神樂坂惠理香	uf;uu le;bm bj;tf hv;hx li;wl xd;ho
+神樂坂惠理香	uf;uu le;bm bj;tf hv;xh li;wl xd;ho
 神樂坂菖蒲	uf;uu le;bm bj;tf ih;ci pu;cp
 神樂崎迪波斯琪	uf;uu le;bm qi;uq di;zy bo;dp si;jq qi;wq
 神樂花菜	uf;uu le;bm hw;ch cl;cc
@@ -67994,7 +67994,7 @@ use_preset_vocabulary: false
 神田強	uf;uu tm;aa qd;gi
 神田未來	uf;uu tm;aa wz;ex ll;ad
 神田朱未	uf;uu tm;aa vu;pw wz;ex
-神田橋美惠	uf;uu tm;aa qc;mq mz;dy hv;hx
+神田橋美惠	uf;uu tm;aa qc;mq mz;dy hv;xh
 神田沙也加	uf;uu tm;aa ua;du ye;gg jw;lk
 神田沙希	uf;uu tm;aa ua;du xi;ju
 神田理江	uf;uu tm;aa li;wl jd;dg
@@ -68181,7 +68181,7 @@ use_preset_vocabulary: false
 神都夜行錄	uf;uu db;ev ye;wd xy;xd lu;jl
 神野光	uf;uu ye;ly gd;ea
 神野凪	uf;uu ye;ly vi;jv
-神野惠	uf;uu ye;ly hv;hx
+神野惠	uf;uu ye;ly hv;xh
 神野種	uf;uu ye;ly vs;hv
 神鈴柒柒	uf;uu ly;jl qi;mq qi;mq
 神鍋步夢	uf;uu go;jg bu;vx mg;cx
@@ -68374,7 +68374,7 @@ use_preset_vocabulary: false
 福本莉子	fu;uf bf;aa li;cl zi;aa
 福松進紗	fu;uf ss;mg jn;zv ua;su
 福江	fu;uf jd;dg
-福沙奈惠	fu;uf ua;du nl;du hv;hx
+福沙奈惠	fu;uf ua;du nl;du hv;xh
 福源命	fu;uf yr;dy my;re
 福澤祐巳	fu;uf ze;dx yb;uy si;ag
 福澤諭吉	fu;uf ze;dx yu;yy ji;ku
@@ -68511,7 +68511,7 @@ use_preset_vocabulary: false
 私立常盤臺中學	si;hs li;da ih;jk pj;mb tl;uv vs;aa xt;jz
 私立常盤臺中學校	si;hs li;da ih;jk pj;mb tl;uv vs;aa xt;jz xc;mj
 私立忒彌斯法律學園	si;hs li;da te;xy mi;ge si;jq fa;dq lv;xy xt;jz yr;ky
-私立惠比壽中學	si;hs li;da hv;hx bi;bb ub;uc vs;aa xt;jz
+私立惠比壽中學	si;hs li;da hv;xh bi;bb ub;uc vs;aa xt;jz
 私立月光館學園	si;hs li;da yt;oy gd;ea gr;ug xt;jz yr;ky
 私立格里莫瓦魔法學園	si;hs li;da ge;mg li;aa mo;cd wa;ad mo;gm fa;dq xt;jz yr;ky
 私立櫻丘女子高等學校	si;hs li;da yy;my qq;pa nv;aa zi;aa gk;dk dg;vs xt;jz xc;mj
@@ -68955,7 +68955,7 @@ use_preset_vocabulary: false
 稱呼	ig;hr hu;kh
 稱號	ig;hr hk;hh
 稷下學院	ji;hw xw;ab xt;jz yr;ew
-稻乃神香奈惠	dk;hj nl;gp uf;uu xd;ho nl;du hv;hx
+稻乃神香奈惠	dk;hj nl;gp uf;uu xd;ho nl;du hv;xh
 稻光予夢	dk;hj gd;ea yu;sa mg;cx
 稻叢莉音	dk;hj cs;yq li;cl yn;lo
 稻垣好	dk;hj yr;tg hk;nz
@@ -69500,7 +69500,7 @@ use_preset_vocabulary: false
 立石凜	li;da ui;kp ln;db
 立石彌生	li;da ui;kp mi;ge ug;na
 立石志摩	li;da ui;kp vi;ux mo;mu
-立石惠	li;da ui;kp hv;hx
+立石惠	li;da ui;kp hv;xh
 立神吼	li;da uf;uu hb;kk
 立神葵	li;da uf;uu kv;cg
 立秋	li;da qq;hh
@@ -69529,7 +69529,7 @@ use_preset_vocabulary: false
 立花結那	li;da hw;ch jx;sj na;el
 立花美星	li;da hw;ch mz;dy xy;ou
 立花美里	li;da hw;ch mz;dy li;aa
-立花芽惠夢	li;da hw;ch ya;cy hv;hx mg;cx
+立花芽惠夢	li;da hw;ch ya;cy hv;xh mg;cx
 立花螢	li;da hw;ch yy;hi
 立花誾	li;da hw;ch yn;my
 立花誾千代	li;da hw;ch yn;my qm;pa dl;ry
@@ -69679,7 +69679,7 @@ use_preset_vocabulary: false
 竹內夕己美	vu;gg nz;kr xi;pd ji;ag mz;dy
 竹內夢	vu;gg nz;kr mg;cx
 竹內幸輔	vu;gg nz;kr xy;tu fu;if
-竹內惠美子	vu;gg nz;kr hv;hx mz;dy zi;aa
+竹內惠美子	vu;gg nz;kr hv;xh mz;dy zi;aa
 竹內想	vu;gg nz;kr xd;xx
 竹內榮治	vu;gg nz;kr rs;hm vi;dt
 竹內絢子	vu;gg nz;kr xr;sx zi;aa
@@ -69878,7 +69878,7 @@ use_preset_vocabulary: false
 第一部	di;vp yi;aa bu;ek
 第一隻兔子	di;vp yi;aa vi;vy tu;dd zi;aa
 第一首歌	di;vp yi;aa ub;qz ge;qg
-第七位替身使者	di;vp qi;ag wz;rl ti;fo uf;pp ui;rl ve;lo
+第七位替身使者	di;vp qi;ag wz;rl ti;of uf;pp ui;rl ve;lo
 第七個我	di;vp qi;ag ge;rg wo;pd
 第七史詩	di;vp qi;ag ui;ad ui;ys
 第七女子會彷徨	di;vp qi;ag nv;aa zi;aa hv;ro ph;xf hd;xh
@@ -70149,10 +70149,10 @@ use_preset_vocabulary: false
 筱原世以子	xc;vw yr;ix ui;ca yi;rd zi;aa
 筱原侑	xc;vw yr;ix yb;ry
 筱原俊哉	xc;vw yr;ix jp;rj zl;kg
-筱原友惠	xc;vw yr;ix yb;yu hv;hx
+筱原友惠	xc;vw yr;ix yb;yu hv;xh
 筱原孝太朗	xc;vw yr;ix xc;zl tl;dd lh;ol
 筱原彰宏	xc;vw yr;ix vh;pv hs;bh
-筱原惠美	xc;vw yr;ix hv;hx mz;dy
+筱原惠美	xc;vw yr;ix hv;xh mz;dy
 筱原皋月	xc;vw yr;ix gk;bu yt;oy
 筱原睦雄	xc;vw yr;ix mu;ot xs;vh
 筱宮明留	xc;vw gs;bl my;oo lq;td
@@ -70400,7 +70400,7 @@ use_preset_vocabulary: false
 米娜葉爾	mi;dd na;nn ye;cm er;ay
 米娜馬瑟斯	mi;dd na;nn ma;ad se;wb si;jq
 米婭	mi;dd ya;ny
-米婭惠特洛克	mi;dd ya;ny hv;hx te;ns lo;dg ke;eg
+米婭惠特洛克	mi;dd ya;ny hv;xh te;ns lo;dg ke;eg
 米婭泰勒	mi;dd ya;ny tl;fu lz;lg
 米婭湯森德	mi;dd ya;ny th;dy sf;ml de;xx
 米婭芬迪斯	mi;dd ya;ny ff;cf di;zy si;jq
@@ -72576,7 +72576,7 @@ use_preset_vocabulary: false
 維魯德拉特恩佩斯特	wz;sv lu;yo de;xx la;fl te;ns en;xy pz;rb si;jq te;ns
 維魯莎多	wz;sv lu;yo ua;cu do;xx
 維魯葛蓮多	wz;sv lu;yo ge;ch lm;cl do;xx
-綱島瑞惠	gh;sg dk;nu rv;we hv;hx
+綱島瑞惠	gh;sg dk;nu rv;we hv;xh
 綱彌代時灘	gh;sg mi;ge dl;ry ui;os tj;dn
 綱手	gh;sg ub;pa
 網代慎平	wh;sw dl;ry uf;xv py;aa
@@ -72902,7 +72902,7 @@ use_preset_vocabulary: false
 緒彌之花	xu;sv mi;ge vi;dd hw;ch
 緒方佑奈	xu;sv fh;dg yb;ry nl;du
 緒方修	xu;sv fh;dg xq;rp
-緒方惠美	xu;sv fh;dg hv;hx mz;dy
+緒方惠美	xu;sv fh;dg hv;xh mz;dy
 緒方智繪里	xu;sv fh;dg vi;ov hv;sh li;aa
 緒方理奈	xu;sv fh;dg li;wl nl;du
 緒方理珠	xu;sv fh;dg li;wl vu;wv
@@ -73022,7 +73022,7 @@ use_preset_vocabulary: false
 縛靈魔杖	fu;sc ly;wl mo;gm vh;mv
 縛骨清姬	fu;sc gu;go qy;dq ji;ni
 縞烏冬	gk;sg wu;pd ds;wd
-縞立木乃惠	gk;sg li;da mu;ad nl;gp hv;hx
+縞立木乃惠	gk;sg li;da mu;ad nl;gp hv;xh
 縢秀星	tg;os xq;hn xy;ou
 縣立北高中	xm;xx li;da bz;ap gk;dk vs;aa
 縣立北高校	xm;xx li;da bz;ap gk;dk xc;mj
@@ -73151,7 +73151,7 @@ use_preset_vocabulary: false
 織田達成	vi;sg tm;aa da;zy ig;gg
 織田香	vi;sg tm;aa xd;ho
 織空	vi;sg ks;xg
-織笠花惠	vi;sg li;vl hw;ch hv;hx
+織笠花惠	vi;sg li;vl hw;ch hv;xh
 織節夏實	vi;sg jx;vj xw;wz ui;bg
 織節真冬	vi;sg jx;vj vf;uj ds;wd
 織節秋奈	vi;sg jx;vj qq;hh nl;du
@@ -73833,7 +73833,7 @@ use_preset_vocabulary: false
 美影翼	mz;dy yy;pj yi;yg
 美德花園	mz;dy de;xx hw;ch yr;ky
 美情兔	mz;dy qy;xq tu;dd
-美惠	mz;dy hv;hx
+美惠	mz;dy hv;xh
 美憐	mz;dy lm;xl
 美早美	mz;dy zk;ou mz;dy
 美星明依	mz;dy xy;ou my;oo yi;ry
@@ -73994,7 +73994,7 @@ use_preset_vocabulary: false
 美麗而殘酷的世界	mz;dy li;ll er;aa cj;dj ku;yg de;bu ui;ca jx;tj
 美麗花娘	mz;dy li;ll hw;ch nd;nl
 美麗週日	mz;dy li;ll vb;zv ri;aa
-美齊津惠友	mz;dy qi;we jn;dy hv;hx yb;yu
+美齊津惠友	mz;dy qi;we jn;dy hv;xh yb;yu
 美齋戀翔	mz;dy vl;wu lm;xs xd;yy
 美齡快子	mz;dy ly;il ky;xd zi;aa
 美齡數碼	mz;dy ly;il uu;wl ma;um
@@ -74547,7 +74547,7 @@ use_preset_vocabulary: false
 聖之雪	ug;ew vi;dd xt;yx
 聖也	ug;ew ye;gg
 聖井戶御代	ug;ew jy;aa hu;pk yu;xx dl;ry
-聖人惠	ug;ew rf;pd hv;hx
+聖人惠	ug;ew rf;pd hv;xh
 聖人模式	ug;ew rf;pd mo;mm ui;gy
 聖人遺體	ug;ew rf;pd yi;zg ti;gd
 聖代橋冰織	ug;ew dl;ry qc;mq by;du vi;sg
@@ -75216,7 +75216,7 @@ use_preset_vocabulary: false
 胡蝶忍	hu;og dx;im rf;xr
 胡蝶蘭	hu;og dx;im lj;cj
 胡蝶靜羽	hu;og dx;im jy;qv yu;xx
-胡蝶香奈惠	hu;og dx;im xd;ho nl;du hv;hx
+胡蝶香奈惠	hu;og dx;im xd;ho nl;du hv;xh
 胡言亂語妄想之旅	hu;og yj;da lr;gy yu;yw wh;nw xd;xx vi;dd lv;fp
 胡話	hu;og hw;yu
 胡說樹娘	hu;og uo;yd uu;mc nd;nl
@@ -75873,7 +75873,7 @@ use_preset_vocabulary: false
 臺與	tl;uv yu;ba
 臺虎鉗	tl;uv hu;hj qm;jg
 臺角	tl;uv jc;dy
-臺詞替換	tl;uv ci;ys ti;fo hr;fh
+臺詞替換	tl;uv ci;ys ti;of hr;fh
 臺詞空耳	tl;uv ci;ys ks;xg er;aa
 臺語	tl;uv yu;yw
 臺車	tl;uv ie;aa
@@ -77130,7 +77130,7 @@ use_preset_vocabulary: false
 花圈圈幼稚園	hw;ch qr;kj qr;kj yb;ly vi;hv yr;ky
 花園	hw;ch yr;ky
 花園君與數同學的不可描述放學後	hw;ch yr;ky jp;ky yu;ba uu;wl ts;kk xt;jz de;bu bu;ad ke;dk mc;fm uu;zu fh;wf xt;jz hb;xw
-花園多惠	hw;ch yr;ky do;xx hv;hx
+花園多惠	hw;ch yr;ky do;xx hv;xh
 花園多英	hw;ch yr;ky do;xx yy;cy
 花園妙	hw;ch yr;ky mc;nu
 花園愛美	hw;ch yr;ky ai;vw mz;dy
@@ -77204,7 +77204,7 @@ use_preset_vocabulary: false
 花岡星也	hw;ch gh;ku xy;ou ye;gg
 花岡柚子	hw;ch gh;ku yb;my zi;aa
 花岡芽佳	hw;ch gh;ku ya;cy jw;rg
-花崎千惠	hw;ch qi;uq qm;pa hv;hx
+花崎千惠	hw;ch qi;uq qm;pa hv;xh
 花崎葵	hw;ch qi;uq kv;cg
 花巖怪娘	hw;ch yj;ug gy;xu nd;nl
 花巖香奈	hw;ch yj;ug xd;ho nl;du
@@ -77272,7 +77272,7 @@ use_preset_vocabulary: false
 花水木	hw;ch uv;ad mu;ad
 花江	hw;ch jd;dg
 花江夏樹	hw;ch jd;dg xw;wz uu;mc
-花江惠理	hw;ch jd;dg hv;hx li;wl
+花江惠理	hw;ch jd;dg hv;xh li;wl
 花沫	hw;ch mo;dm
 花洛慄慄子	hw;ch lo;dg li;xl li;xl zi;aa
 花海	hw;ch hl;dm
@@ -77324,7 +77324,7 @@ use_preset_vocabulary: false
 花田菊助	hw;ch tm;aa ju;cj vu;lq
 花畑	hw;ch tm;ht
 花畑佳子	hw;ch tm;ht jw;rg zi;aa
-花畑佳惠	hw;ch tm;ht jw;rg hv;hx
+花畑佳惠	hw;ch tm;ht jw;rg hv;xh
 花畑嘉依卡	hw;ch tm;ht jw;uj yi;ry ka;bx
 花畑良子	hw;ch tm;ht ld;dg zi;aa
 花留	hw;ch lq;td
@@ -77551,7 +77551,7 @@ use_preset_vocabulary: false
 若安	ro;cy an;bn
 若宮伊芙	ro;cy gs;bl yi;ry fu;cf
 若宮安理	ro;cy gs;bl an;bn li;wl
-若宮惠	ro;cy gs;bl hv;hx
+若宮惠	ro;cy gs;bl hv;xh
 若宮明日香	ro;cy gs;bl my;oo ri;aa xd;ho
 若宮陽奈	ro;cy gs;bl yh;ey nl;du
 若對天高歌	ro;cy dv;ct tm;ad gk;dk ge;qg
@@ -78142,7 +78142,7 @@ use_preset_vocabulary: false
 荒木華奈	hd;ci mu;ad hw;ca nl;du
 荒木達也	hd;ci mu;ad da;zy ye;gg
 荒木飛呂彥	hd;ci mu;ad fz;ff lv;kk yj;pi
-荒木香惠	hd;ci mu;ad xd;ho hv;hx
+荒木香惠	hd;ci mu;ad xd;ho hv;xh
 荒木香衣	hd;ci mu;ad xd;ho yi;dd
 荒波杏	hd;ci bo;dp xy;km
 荒浪和沙	hd;ci lh;dl he;hk ua;du
@@ -78171,7 +78171,7 @@ use_preset_vocabulary: false
 荒謬文學	hd;ci mq;yl wf;wi xt;jz
 荒謬現象性	hd;ci mq;yl xm;wj xd;du xy;xu
 荒謬的喝彩	hd;ci mq;yl de;bu he;kh cl;pc
-荒谷朋惠	hd;ci gu;bk pg;oo hv;hx
+荒谷朋惠	hd;ci gu;bk pg;oo hv;xh
 荒那蛇	hd;ci na;el ue;it
 荒野	hd;ci ye;ly
 荒野之息	hd;ci ye;ly vi;dd xi;xz
@@ -79200,7 +79200,7 @@ use_preset_vocabulary: false
 萌少女領域	mg;cm uk;xp nv;aa ly;yl yu;th
 萌屬性	mg;cm uu;ui xy;xu
 萌度	mg;cm du;gy
-萌惠	mg;cm hv;hx
+萌惠	mg;cm hv;xh
 萌想成真	mg;cm xd;xx ig;gg vf;uj
 萌愛	mg;cm ai;vw
 萌戰	mg;cm vj;gd
@@ -79282,7 +79282,7 @@ use_preset_vocabulary: false
 萩原亞美	qq;cq yr;ix ya;aa mz;dy
 萩原千速	qq;cq yr;ix qm;pa su;zu
 萩原子荻	qq;cq yr;ix zi;aa di;cd
-萩原惠美子	qq;cq yr;ix hv;hx mz;dy zi;aa
+萩原惠美子	qq;cq yr;ix hv;xh mz;dy zi;aa
 萩原拉美米	qq;cq yr;ix la;fl mz;dy mi;dd
 萩原朔太郎	qq;cq yr;ix uo;on tl;dd lh;el
 萩原研二	qq;cq yr;ix yj;uk er;aa
@@ -79929,7 +79929,7 @@ use_preset_vocabulary: false
 蒼井優	ch;cc jy;aa yb;rw
 蒼井啓	ch;cc jy;aa qi;kw
 蒼井悠介	ch;cc jy;aa yb;xw jx;ra
-蒼井惠里香	ch;cc jy;aa hv;hx li;aa xd;ho
+蒼井惠里香	ch;cc jy;aa hv;xh li;aa xd;ho
 蒼井樹	ch;cc jy;aa uu;mc
 蒼井渚砂	ch;cc jy;aa vu;dv ua;uu
 蒼井瀨名	ch;cc jy;aa ll;dl my;xk
@@ -80865,7 +80865,7 @@ use_preset_vocabulary: false
 藏匿在夜晚下	ch;cg ni;kr zl;ta ye;wd wj;om xw;ab
 藏匿曖昧	ch;cg ni;kr ai;oa mz;ow
 藏原走	ch;cg yr;ix zb;tv
-藏合紗惠子	ch;cg he;rk ua;su hv;hx zi;aa
+藏合紗惠子	ch;cg he;rk ua;su hv;xh zi;aa
 藏在包裏的事	ch;cg zl;ta bk;gs li;dy de;bu ui;aa
 藏在地下的礦產	ch;cg zl;ta di;ty xw;ab de;bu kd;ug ij;wu
 藏在書包中的心事	ch;cg zl;ta uu;oy bk;gs vs;aa de;bu xn;dd ui;aa
@@ -81131,7 +81131,7 @@ use_preset_vocabulary: false
 藥師丸悅子	yk;cl ui;vb wj;jd yt;xx zi;aa
 藥師丸良太	yk;cl ui;vb wj;jd ld;dg tl;dd
 藥師兜	yk;cl ui;vb db;ek
-藥師寺惠	yk;cl ui;vb si;ct hv;hx
+藥師寺惠	yk;cl ui;vb si;ct hv;xh
 藥師寺朱雀	yk;cl ui;vb si;ct vu;pw qt;vx
 藥師寺涼子	yk;cl ui;vb si;ct ld;dj zi;aa
 藥師寺涼子的怪奇事件簿	yk;cl ui;vb si;ct ld;dj zi;aa de;bu gy;xu qi;dk ui;aa jm;rn bu;vc
@@ -81149,7 +81149,7 @@ use_preset_vocabulary: false
 藥罐子	yk;cl gr;fv zi;aa
 藥谷完治	yk;cl gu;bk wj;by vi;dt
 藥院次郎	yk;cl yr;ew ci;dq lh;el
-藪下幸惠	sb;cu xw;ab xy;tu hv;hx
+藪下幸惠	sb;cu xw;ab xy;tu hv;xh
 藪內滿裏奈	sb;cu nz;kr mj;dr li;dy nl;du
 藪島朱音	sb;cu dk;nu vu;pw yn;lo
 藪春	sb;cu ip;of
@@ -81840,7 +81840,7 @@ use_preset_vocabulary: false
 蛆娘	qu;iq nd;nl
 蛆蟲音	qu;iq is;ii yn;lo
 蛆音娘	qu;iq yn;lo nd;nl
-蛇之目惠梨香	ue;it vi;dd mu;aa hv;hx li;ml xd;ho
+蛇之目惠梨香	ue;it vi;dd mu;aa hv;xh li;ml xd;ho
 蛇使戈爾娜莎	ue;it ui;rl ge;ad er;ay na;nn ua;cu
 蛇倉正太	ue;it ch;rk vg;av tl;dd
 蛇劍	ue;it jm;dq
@@ -82092,7 +82092,7 @@ use_preset_vocabulary: false
 蜥蜴術士	xi;ix yi;iy uu;xi ui;aa
 蜩王	tc;iv wh;aa
 蜩鳴之時	tc;iv my;kn vi;dd ui;os
-蜷守惠理	qr;ij ub;bc hv;hx li;wl
+蜷守惠理	qr;ij ub;bc hv;xh li;wl
 蜷川麻央	qr;ij ir;pa ma;gl yh;ad
 蜻蛉切	qy;iq ly;il qx;dq
 蜻蛉日記	qy;iq ly;il ri;aa ji;yj
@@ -82147,7 +82147,7 @@ use_preset_vocabulary: false
 蝴蝶草	hu;ih dx;im ck;cz
 蝴蝶蘭	hu;ih dx;im lj;cj
 蝴蝶蛻變	hu;ih dx;im tv;id bm;ws
-蝴蝶香奈惠	hu;ih dx;im xd;ho nl;du hv;hx
+蝴蝶香奈惠	hu;ih dx;im xd;ho nl;du hv;xh
 蝴蝶髮飾	hu;ih dx;im fa;ib ui;uj
 蝴蝶鳶尾	hu;ih dx;im yr;ny wz;um
 蝶乃舞花	dx;im nl;gp wu;rf hw;ch
@@ -82860,7 +82860,7 @@ use_preset_vocabulary: false
 裏世界遠足	li;dy ui;ca jx;tj yr;zy zu;kv
 裏世界郊遊	li;dy ui;ca jx;tj jc;ej yb;zy
 裏中之裏	li;dy vs;aa vi;dd li;dy
-裏中千惠	li;dy vs;aa qm;pa hv;hx
+裏中千惠	li;dy vs;aa qm;pa hv;xh
 裏中千枝	li;dy vs;aa qm;pa vi;mv
 裏中美鈴	li;dy vs;aa mz;dy ly;jl
 裏中雨音	li;dy vs;aa yu;ad yn;lo
@@ -83246,7 +83246,7 @@ use_preset_vocabulary: false
 西方稀翁玉	xi;aa fh;dg xi;hx wg;yg yu;ad
 西方苦瓜	xi;aa fh;dg ku;cg gw;pd
 西施	xi;aa ui;fy
-西施惠	xi;aa ui;fy hv;hx
+西施惠	xi;aa ui;fy hv;xh
 西日暮裏	xi;aa ri;aa mu;om li;dy
 西昂	xi;aa ah;oe
 西昂佈雷德	xi;aa ah;oe bu;rb lz;yt de;xx
@@ -83461,7 +83461,7 @@ use_preset_vocabulary: false
 西馮馬克多格爾	xi;aa fg;dm ma;ad ke;eg do;xx ge;mg er;ay
 西魔幽	xi;aa mo;gm yb;uy
 西魯	xi;aa lu;yo
-西鳥惠	xi;aa nc;pd hv;hx
+西鳥惠	xi;aa nc;pd hv;xh
 要下雨的樣子	yk;xn xw;ab yu;ad de;bu yh;my zi;aa
 要不聽聽我的故事	yk;xn bu;ad ty;ex ty;ex wo;pd de;bu gu;wg ui;aa
 要不要死一次試試	yk;xn bu;ad yk;xn si;db yi;aa ci;dq ui;yu ui;yu
@@ -85062,9 +85062,9 @@ use_preset_vocabulary: false
 豐之崎學園	fg;df vi;dd qi;uq xt;jz yr;ky
 豐乳肥臀游泳部	fg;df ru;fg fz;ob tp;od yb;dz ys;dy bu;ek
 豐前江	fg;df qm;bd jd;dg
-豐口惠	fg;df kb;aa hv;hx
-豐口惠美	fg;df kb;aa hv;hx mz;dy
-豐和惠	fg;df he;hk hv;hx
+豐口惠	fg;df kb;aa hv;xh
+豐口惠美	fg;df kb;aa hv;xh mz;dy
+豐和惠	fg;df he;hk hv;xh
 豐多諾亞	fg;df do;xx no;yr ya;aa
 豐姬	fg;df ji;ni
 豐子愷	fg;df zi;aa kl;xd
@@ -85100,7 +85100,7 @@ use_preset_vocabulary: false
 豐裕之角	fg;df yu;yg vi;dd jc;dy
 豐見亞都梨	fg;df jm;me ya;aa db;ev li;ml
 豐見柯託莉	fg;df jm;me ke;mk to;yq li;cl
-豐足惠名	fg;df zu;kv hv;hx my;xk
+豐足惠名	fg;df zu;kv hv;xh my;xk
 豐饒之民	fg;df rk;uy vi;dd mn;ag
 豐饒孽物	fg;df rk;uy nx;cz wu;nw
 豐饒玄鹿	fg;df rk;uy xr;wy lu;gb
@@ -85191,7 +85191,7 @@ use_preset_vocabulary: false
 豬豬島	vu;uv vu;uv dk;nu
 豬野琢真	vu;uv ye;ly zo;wd vf;uj
 豬鎮	vu;uv vf;jv
-豬隊友替身	vu;uv dv;eu yb;yu ti;fo uf;pp
+豬隊友替身	vu;uv dv;eu yb;yu ti;of uf;pp
 豬靈娘	vu;uv ly;wl nd;nl
 豬靈蠻兵娘	vu;uv ly;wl mj;is by;qb nd;nl
 豬鯊	vu;uv ua;yu
@@ -85775,8 +85775,8 @@ use_preset_vocabulary: false
 賠我做夢	pz;bk wo;pd zo;rg mg;cx
 賢人衆	xm;by rf;pd vs;xd
 賢妻良母	xm;by qi;na ld;dg mu;ad
-賢惠幼妻仙狐小姐	xm;by hv;hx yb;ly qi;na xm;ru hu;qg xc;ad jx;nq
-賢惠的仙狐小姐	xm;by hv;hx de;bu xm;ru hu;qg xc;ad jx;nq
+賢惠幼妻仙狐小姐	xm;by hv;xh yb;ly qi;na xm;ru hu;qg xc;ad jx;nq
+賢惠的仙狐小姐	xm;by hv;xh de;bu xm;ru hu;qg xc;ad jx;nq
 賢狼	xm;by lh;ql
 賢狼赫蘿	xm;by lh;ql he;ii lo;cl
 賢者	xm;by ve;lo
@@ -87284,7 +87284,7 @@ use_preset_vocabulary: false
 輕之國度字幕組	qy;ig vi;dd go;kh du;gy zi;bz mu;jm zu;sq
 輕之國度被查事件	qy;ig vi;dd go;kh du;gy bz;yp ia;md ui;aa jm;rn
 輕井澤千枝	qy;ig jy;aa ze;dx qm;pa vi;mv
-輕井澤惠	qy;ig jy;aa ze;dx hv;hx
+輕井澤惠	qy;ig jy;aa ze;dx hv;xh
 輕冰	qy;ig by;du
 輕厲	qy;ig li;iw
 輕型卡車	qy;ig xy;tx ka;bx ie;aa
@@ -87388,7 +87388,7 @@ use_preset_vocabulary: false
 輪式除雪鏟	lp;il ui;gy iu;ey xt;yx ij;ji
 輪惡魔	lp;il ee;xy mo;gm
 輪擺	lp;il bl;fb
-輪替類型活動	lp;il ti;fo lz;yl xy;tx ho;du ds;lv
+輪替類型活動	lp;il ti;of lz;yl xy;tx ho;du ds;lv
 輪椅	lp;il yi;mq
 輪椅上的人需要事先聯繫	lp;il yi;mq uh;aa de;bu rf;pd xu;ye yk;xn ui;aa xm;ne lm;ea xi;su
 輪滑鞋	lp;il hw;dg xx;gg
@@ -87507,7 +87507,7 @@ use_preset_vocabulary: false
 轉轉拳	vr;iv vr;iv qr;uf
 轉轍地點	vr;iv ve;iw di;ty dm;hv
 轟京子	hs;ii jy;wx zi;aa
-轟信惠	hs;ii xn;ry hv;hx
+轟信惠	hs;ii xn;ry hv;xh
 轟八千代	hs;ii ba;pd qm;pa dl;ry
 轟六姬	hs;ii lq;wb ji;ni
 轟力雷樹	hs;ii li;gp lz;yt uu;mc
@@ -88369,7 +88369,7 @@ use_preset_vocabulary: false
 這是我的戰爭	ve;zy ui;op wo;pd de;bu vj;gd vg;va
 這是我的故事	ve;zy ui;op wo;pd de;bu gu;wg ui;aa
 這是我的生存之道	ve;zy ui;op wo;pd de;bu ug;na cp;uz vi;dd dk;zu
-這是替身攻擊	ve;zy ui;op ti;fo uf;pp gs;gw ji;fu
+這是替身攻擊	ve;zy ui;op ti;of uf;pp gs;gw ji;fu
 這是殭屍嗎	ve;zy ui;op jd;dj ui;us ma;km
 這是爲了生存下來的我的掙扎	ve;zy ui;op wz;pd le;aa ug;na cp;uz xw;ab ll;ad de;bu wo;pd de;bu vg;fv va;fg
 這是禁止事項	ve;zy ui;op jn;ul vi;aa ui;aa xd;gy
@@ -88564,7 +88564,7 @@ use_preset_vocabulary: false
 逢坂茜	fg;zf bj;tf qm;cx
 逢妻光	fg;zf qi;na gd;ea
 逢山鬼泣	fg;zf uj;aa gv;pd qi;dl
-逢川惠	fg;zf ir;pa hv;hx
+逢川惠	fg;zf ir;pa hv;xh
 逢河牧野	fg;zf he;dk mu;nw ye;ly
 逢澤由利香	fg;zf ze;dx yb;aa li;hd xd;ho
 逢澤遊宇	fg;zf ze;dx yb;zy yu;by
@@ -88769,7 +88769,7 @@ use_preset_vocabulary: false
 遊仁	yb;zy rf;re
 遊佐	yb;zy zo;rz
 遊佐夢兒	yb;zy zo;rz mg;cx er;ej
-遊佐惠美	yb;zy zo;rz hv;hx mz;dy
+遊佐惠美	yb;zy zo;rz hv;xh mz;dy
 遊佐梢	yb;zy zo;rz uk;mx
 遊佐浩二	yb;zy zo;rz hk;dg er;aa
 遊佐瞳葵	yb;zy zo;rz ts;ot kv;cg
@@ -89597,7 +89597,7 @@ use_preset_vocabulary: false
 那隻好隨心所欲生活下去	na;el vi;vy hk;nz sv;es xn;dd so;hj yu;gq ug;na ho;du xw;ab qu;ts
 那須原安娜史塔希亞	na;el xu;yp yr;ix an;bn na;nn ui;ad ta;td xi;ju ya;aa
 那須島隆志	na;el xu;yp dk;nu ls;eu vi;ux
-那須惠	na;el xu;yp hv;hx
+那須惠	na;el xu;yp hv;xh
 那須玲	na;el xu;yp ly;wl
 那須野紅葉	na;el xu;yp ye;ly hs;sg ye;cm
 那須隊	na;el xu;yp dv;eu
@@ -89890,7 +89890,7 @@ use_preset_vocabulary: false
 鄭渾	vg;ed hp;dj
 鄭玄	vg;ed xr;wy
 鄭珮穎	vg;ed pz;wb yy;hy
-鄭百惠	vg;ed bl;ab hv;hx
+鄭百惠	vg;ed bl;ab hv;xh
 鄭筧晴	vg;ed jm;vj qy;oq
 鄭紅英	vg;ed hs;sg yy;cy
 鄭軒	vg;ed xr;ig
@@ -90281,7 +90281,7 @@ use_preset_vocabulary: false
 野原凜	ye;ly yr;ix ln;db
 野原向日葵	ye;ly yr;ix xd;pk ri;aa kv;cg
 野原廣志	ye;ly yr;ix gd;gh vi;ux
-野原惠	ye;ly yr;ix hv;hx
+野原惠	ye;ly yr;ix hv;xh
 野原新之助	ye;ly yr;ix xn;jq vi;dd vu;lq
 野原琳	ye;ly yr;ix ln;wl
 野原美伢	ye;ly yr;ix mz;dy ya;ry
@@ -90401,7 +90401,7 @@ use_preset_vocabulary: false
 野生的咆哮	ye;ly ug;na de;bu pk;kb xc;kx
 野田哲朗	ye;ly tm;aa ve;kv lh;ol
 野田哲郎	ye;ly tm;aa ve;kv lh;el
-野田惠	ye;ly tm;aa hv;hx
+野田惠	ye;ly tm;aa hv;xh
 野田琴音	ye;ly tm;aa qn;wj yn;lo
 野田真理愛	ye;ly tm;aa vf;uj li;wl ai;vw
 野田美希	ye;ly tm;aa mz;dy xi;ju
@@ -90764,7 +90764,7 @@ use_preset_vocabulary: false
 金赫奎	jn;ra he;ii kv;dg
 金輝戀曲四重奏	jn;ra hv;gj lm;xs qu;aa si;aa is;pa zb;ft
 金酒	jn;ra jq;dy
-金野惠子	jn;ra ye;ly hv;hx zi;aa
+金野惠子	jn;ra ye;ly hv;xh zi;aa
 金野潤	jn;ra ye;ly rp;dr
 金釣竿	jn;ra dc;ju gj;vg
 金鉤釣魚	jn;ra gb;jj dc;ju yu;dd
@@ -90832,7 +90832,7 @@ use_preset_vocabulary: false
 釘子戶大戰拆遷隊	dy;jd zi;aa hu;pk da;ad vj;gd il;fi qm;zs dv;eu
 釘宮四萌	dy;jd gs;bl si;aa mg;cm
 釘宮妮妮	dy;jd gs;bl ni;nn ni;nn
-釘宮理惠	dy;jd gs;bl li;wl hv;hx
+釘宮理惠	dy;jd gs;bl li;wl hv;xh
 釘宮病	dy;jd gs;bl by;bb
 釘宮癌	dy;jd gs;bl ai;bu
 釘崎日花	dy;jd qi;uq ri;aa hw;ch
@@ -90966,8 +90966,8 @@ use_preset_vocabulary: false
 鈴木彩音	ly;jl mu;ad cl;pc yn;lo
 鈴木悟	ly;jl mu;ad wu;xw
 鈴木悠太	ly;jl mu;ad yb;xw tl;dd
-鈴木惠子	ly;jl mu;ad hv;hx zi;aa
-鈴木惠莉央	ly;jl mu;ad hv;hx li;cl yh;ad
+鈴木惠子	ly;jl mu;ad hv;xh zi;aa
+鈴木惠莉央	ly;jl mu;ad hv;xh li;cl yh;ad
 鈴木愛奈	ly;jl mu;ad ai;vw nl;du
 鈴木愛理	ly;jl mu;ad ai;vw li;wl
 鈴木拓也	ly;jl mu;ad to;fu ye;gg
@@ -94014,7 +94014,7 @@ use_preset_vocabulary: false
 陶典	tk;ef dm;ba
 陶夢嫣	tk;ef mg;cx yj;ny
 陶宇傑	tk;ef yu;by jx;rj
-陶山惠實裏	tk;ef uj;aa hv;hx ui;bg li;dy
+陶山惠實裏	tk;ef uj;aa hv;xh ui;bg li;dy
 陶山章央	tk;ef uj;aa vh;lz yh;ad
 陶德霍華德	tk;ef de;xx ho;yv hw;ca de;xx
 陶朱公	tk;ef vu;pw gs;sb
@@ -94613,7 +94613,7 @@ use_preset_vocabulary: false
 雙葉千帆	ud;vy ye;cm qm;pa fj;jf
 雙葉妙	ud;vy ye;cm mc;nu
 雙葉家的姐弟	ud;vy ye;cm jw;bu de;bu jx;nq di;bp
-雙葉文惠	ud;vy ye;cm wf;wi hv;hx
+雙葉文惠	ud;vy ye;cm wf;wi hv;xh
 雙葉杏	ud;vy ye;cm xy;km
 雙葉水月	ud;vy ye;cm uv;ad yt;oy
 雙葉水無月	ud;vy ye;cm uv;ad wu;rh yt;oy
@@ -95189,7 +95189,7 @@ use_preset_vocabulary: false
 雪都沙緒梨	xt;yx db;ev ua;du xu;sv li;ml
 雪鄉遊夢記	xt;yx xd;el yb;zy mg;cx ji;yj
 雪野五月	xt;yx ye;ly wu;aa yt;oy
-雪野加奈惠	xt;yx ye;ly jw;lk nl;du hv;hx
+雪野加奈惠	xt;yx ye;ly jw;lk nl;du hv;xh
 雪野奈賀	xt;yx ye;ly nl;du he;bj
 雪野百香裏	xt;yx ye;ly bl;ab xd;ho li;dy
 雪鈴戴安娜	xt;yx ly;jl dl;gg an;bn na;nn
@@ -96819,7 +96819,7 @@ use_preset_vocabulary: false
 青襲錐子	qy;fo xi;yl vv;jv zi;aa
 青谷	qy;fo gu;bk
 青豬	qy;fo vu;uv
-青野早惠	qy;fo ye;ly zk;ou hv;hx
+青野早惠	qy;fo ye;ly zk;ou hv;xh
 青野武	qy;fo ye;ly wu;vy
 青野菜月	qy;fo ye;ly cl;cc yt;oy
 青金石	qy;fo jn;ra ui;kp
@@ -97199,7 +97199,7 @@ use_preset_vocabulary: false
 音海繭良	yn;lo hl;dm jm;ci ld;dg
 音瀨小玉	yn;lo ll;dl xc;ad yu;ad
 音炫軌道曲目	yn;lo xr;hx gv;ij dk;zu qu;aa mu;aa
-音無一惠	yn;lo wu;rh yi;aa hv;hx
+音無一惠	yn;lo wu;rh yi;aa hv;xh
 音無一愛	yn;lo wu;rh yi;aa ai;vw
 音無伊御	yn;lo wu;rh yi;ry yu;xx
 音無初音	yn;lo wu;rh iu;yd yn;lo
@@ -98142,7 +98142,7 @@ use_preset_vocabulary: false
 食心魔族	ui;pd xn;dd mo;gm zu;fu
 食戟之靈	ui;pd ji;gu vi;dd ly;wl
 食斷	ui;pd dr;ja
-食替	ui;pd ti;fo
+食替	ui;pd ti;of
 食滿留三郎	ui;pd mj;dr lq;td sj;aa lh;el
 食物	ui;pd wu;nw
 食物大戰	ui;pd wu;nw da;ad vj;gd
@@ -98374,7 +98374,7 @@ use_preset_vocabulary: false
 香坂沙希	xd;ho bj;tf ua;du xi;ju
 香太狼	xd;ho tl;dd lh;ql
 香奈乎	xd;ho nl;du hu;pa
-香奈惠	xd;ho nl;du hv;hx
+香奈惠	xd;ho nl;du hv;xh
 香奈拉弗萊特	xd;ho nl;du la;fl fu;aa ll;cl te;ns
 香奈美	xd;ho nl;du mz;dy
 香子	xd;ho zi;aa
@@ -99272,12 +99272,12 @@ use_preset_vocabulary: false
 高木順一郎	gk;dk mu;ad up;yi yi;aa lh;el
 高木順二朗	gk;dk mu;ad up;yi er;aa lh;ol
 高木麻穗	gk;dk mu;ad ma;gl sv;hh
-高本惠	gk;dk bf;aa hv;hx
+高本惠	gk;dk bf;aa hv;xh
 高杉晉助	gk;dk uj;mp jn;ao vu;lq
 高杉浩一	gk;dk uj;mp hk;dg yi;aa
 高杉理奈	gk;dk uj;mp li;wl nl;du
 高杉真宙	gk;dk uj;mp vf;uj vb;by
-高杉秋惠	gk;dk uj;mp qq;hh hv;hx
+高杉秋惠	gk;dk uj;mp qq;hh hv;xh
 高杉義充	gk;dk uj;mp yi;yw is;dy
 高杉薰	gk;dk uj;mp xp;cx
 高村光太郎	gk;dk cp;mc gd;ea tl;dd lh;el
@@ -99309,8 +99309,8 @@ use_preset_vocabulary: false
 高梨謙吾	gk;dk li;ml qm;yj wu;wk
 高棉	gk;dk mm;mb
 高森奈津美	gk;dk sf;ml nl;du jn;dy mz;dy
-高森奈津美和松井惠理子的大致是這樣的	gk;dk sf;ml nl;du jn;dy mz;dy he;hk ss;mg jy;aa hv;hx li;wl zi;aa de;bu da;ad vi;wv ui;op ve;zy yh;my de;bu
-高森奈津美和松井惠理子的大致是這樣的感覺	gk;dk sf;ml nl;du jn;dy mz;dy he;hk ss;mg jy;aa hv;hx li;wl zi;aa de;bu da;ad vi;wv ui;op ve;zy yh;my de;bu gj;xx jt;jb
+高森奈津美和松井惠理子的大致是這樣的	gk;dk sf;ml nl;du jn;dy mz;dy he;hk ss;mg jy;aa hv;xh li;wl zi;aa de;bu da;ad vi;wv ui;op ve;zy yh;my de;bu
+高森奈津美和松井惠理子的大致是這樣的感覺	gk;dk sf;ml nl;du jn;dy mz;dy he;hk ss;mg jy;aa hv;xh li;wl zi;aa de;bu da;ad vi;wv ui;op ve;zy yh;my de;bu gj;xx jt;jb
 高森朝雄	gk;dk sf;ml ik;ou xs;vh
 高森紫音	gk;dk sf;ml zi;sc yn;lo
 高森藍子	gk;dk sf;ml lj;cj zi;aa
@@ -99343,7 +99343,7 @@ use_preset_vocabulary: false
 高橋廣樹	gk;dk qc;mq gd;gh uu;mc
 高橋彌七郎	gk;dk qc;mq mi;ge qi;ag lh;el
 高橋悠也	gk;dk qc;mq yb;xw ye;gg
-高橋惠	gk;dk qc;mq hv;hx
+高橋惠	gk;dk qc;mq hv;xh
 高橋憐香	gk;dk qc;mq lm;xl xd;ho
 高橋智秋	gk;dk qc;mq vi;ov qq;hh
 高橋未奈美	gk;dk qc;mq wz;ex nl;du mz;dy
@@ -99354,7 +99354,7 @@ use_preset_vocabulary: false
 高橋涉	gk;dk qc;mq ue;db
 高橋涼介	gk;dk qc;mq ld;dj jx;ra
 高橋球兒	gk;dk qc;mq qq;wq er;ej
-高橋理惠子	gk;dk qc;mq li;wl hv;hx zi;aa
+高橋理惠子	gk;dk qc;mq li;wl hv;xh zi;aa
 高橋留美子	gk;dk qc;mq lq;td mz;dy zi;aa
 高橋直純	gk;dk qc;mq vi;aa ip;st
 高橋知代子	gk;dk qc;mq vi;uk dl;ry zi;aa
@@ -99440,7 +99440,7 @@ use_preset_vocabulary: false
 高石武	gk;dk ui;kp wu;vy
 高石猛	gk;dk ui;kp mg;qm
 高砂一馬	gk;dk ua;uu yi;aa ma;ad
-高砂智惠	gk;dk ua;uu vi;ov hv;hx
+高砂智惠	gk;dk ua;uu vi;ov hv;xh
 高砂調	gk;dk ua;uu dc;yv
 高社紗雪	gk;dk ue;ut ua;su xt;yx
 高科技協議	gk;dk ke;hd ji;fv xx;ul yi;yy
@@ -99533,8 +99533,8 @@ use_preset_vocabulary: false
 高遠丞	gk;dk yr;zy ig;au
 高遠凜	gk;dk yr;zy ln;db
 高遠城	gk;dk yr;zy ig;ti
-高遠惠輔	gk;dk yr;zy hv;hx fu;if
-高遠由貴惠	gk;dk yr;zy yb;aa gv;bg hv;hx
+高遠惠輔	gk;dk yr;zy hv;xh fu;if
+高遠由貴惠	gk;dk yr;zy yb;aa gv;bg hv;xh
 高遠遙一	gk;dk yr;zy yk;zf yi;aa
 高部守	gk;dk bu;ek ub;bc
 高部愛	gk;dk bu;ek ai;vw
@@ -99908,7 +99908,7 @@ use_preset_vocabulary: false
 魏延	wz;gw yj;zv
 魏彥吾	wz;gw yj;pi wu;wk
 魏思芸	wz;gw si;tx yp;cy
-魏惠娥	wz;gw hv;hx ee;nw
+魏惠娥	wz;gw hv;xh ee;nw
 魏欣琛	wz;gw xn;qj if;wm
 魏涼子	wz;gw ld;dj zi;aa
 魏淑芬	wz;gw uu;du ff;cf
@@ -100695,7 +100695,7 @@ use_preset_vocabulary: false
 鮮血魔女	xm;yy xt;pa mo;gm nv;aa
 鮮血魔娘	xm;yy xt;pa mo;gm nd;nl
 鯉夏	li;yl xw;wz
-鯉川理惠	li;yl ir;pa li;wl hv;hx
+鯉川理惠	li;yl ir;pa li;wl hv;xh
 鯉氏偵探事務所	li;yl ui;pg vf;rv tj;fm ui;aa wu;mw so;hj
 鯉沅	li;yl yr;dy
 鯉魚	li;yl yu;dd
@@ -101033,7 +101033,7 @@ use_preset_vocabulary: false
 鶴傘鈴	he;nv sj;ru ly;jl
 鶴博幸	he;nv bo;uc xy;tu
 鶴城	he;nv ig;ti
-鶴城惠莉奈隴谷佛菲亞	he;nv ig;ti hv;hx li;cl nl;du ls;el gu;bk fu;rf fz;cf ya;aa
+鶴城惠莉奈隴谷佛菲亞	he;nv ig;ti hv;xh li;cl nl;du ls;el gu;bk fu;rf fz;cf ya;aa
 鶴姬	he;nv ji;ni
 鶴姬八千代	he;nv ji;ni ba;pd qm;pa dl;ry
 鶴娘	he;nv nd;nl
@@ -101447,7 +101447,7 @@ use_preset_vocabulary: false
 麻理理	ma;gl li;wl li;wl
 麻瓜	ma;gl gw;pd
 麻生堇	ma;gl ug;na jn;ca
-麻生惠	ma;gl ug;na hv;hx
+麻生惠	ma;gl ug;na hv;xh
 麻生智久	ma;gl ug;na vi;ov jq;pd
 麻生美代子	ma;gl ug;na mz;dy dl;ry zi;aa
 麻生華澄	ma;gl ug;na hw;ca ig;dd
@@ -102600,11 +102600,11 @@ use_preset_vocabulary: false
 齊藤壯馬	qi;we tg;ct vd;pu ma;ad
 齊藤壹護	qi;we tg;ct yi;ud hu;yh
 齊藤孝司	qi;we tg;ct xc;zl si;gk
-齊藤惠那	qi;we tg;ct hv;hx na;el
+齊藤惠那	qi;we tg;ct hv;xh na;el
 齊藤愛麗絲	qi;we tg;ct ai;vw li;ll si;ss
 齊藤明日美	qi;we tg;ct my;oo ri;aa mz;dy
 齊藤朱夏	qi;we tg;ct vu;pw xw;wz
-齊藤梢惠	qi;we tg;ct uk;mx hv;hx
+齊藤梢惠	qi;we tg;ct uk;mx hv;xh
 齊藤梨繪	qi;we tg;ct li;ml hv;sh
 齊藤次郎	qi;we tg;ct ci;dq lh;el
 齊藤正木	qi;we tg;ct vg;av mu;ad
@@ -102631,10 +102631,10 @@ use_preset_vocabulary: false
 齋祀	vl;wu si;us
 齋藤	vl;wu tg;ct
 齋藤一	vl;wu tg;ct yi;aa
-齋藤佳惠	vl;wu tg;ct jw;rg hv;hx
+齋藤佳惠	vl;wu tg;ct jw;rg hv;xh
 齋藤千和	vl;wu tg;ct qm;pa he;hk
 齋藤圭一郎	vl;wu tg;ct gv;tt yi;aa lh;el
-齋藤圭惠	vl;wu tg;ct gv;tt hv;hx
+齋藤圭惠	vl;wu tg;ct gv;tt hv;xh
 齋藤堇	vl;wu tg;ct jn;ca
 齋藤妮可露	vl;wu tg;ct ni;nn ke;dk lu;yl
 齋藤寬仁	vl;wu tg;ct kr;bd rf;re
@@ -102643,7 +102643,7 @@ use_preset_vocabulary: false
 齋藤廣祐	vl;wu tg;ct gd;gh yb;uy
 齋藤彩夏	vl;wu tg;ct cl;pc xw;wz
 齋藤志郎	vl;wu tg;ct vi;ux lh;el
-齋藤惠那	vl;wu tg;ct hv;hx na;el
+齋藤惠那	vl;wu tg;ct hv;xh na;el
 齋藤敦史	vl;wu tg;ct dp;wx ui;ad
 齋藤未空	vl;wu tg;ct wz;ex ks;xg
 齋藤桃子	vl;wu tg;ct tk;mv zi;aa
