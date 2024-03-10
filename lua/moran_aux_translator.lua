@@ -4,12 +4,13 @@
 -- License: GPLv3
 -- Version: 0.1.0
 
+local moran = require("moran")
 local Module = {}
 Module.PREFETCH_THRESHOLD = 50
 
 function Module.init(env)
    collectgarbage("setpause", 110)
-   Module.load_aux_file(env)
+   env.aux_table = moran.load_zrmdb()
    env.translator = Component.Translator(env.engine, "", "script_translator@translator")
 
    local aux_length = nil
@@ -80,21 +81,6 @@ function Module.func(input, seg, env)
 
       for cand in Module.merge_candidates(first_iter, second_iter) do
          yield(cand)
-      end
-   end
-end
-
-function Module.load_aux_file(env)
-   env.aux_table = {}
-   local path = rime_api.get_user_data_dir() .. "/lua/zrmdb.txt"
-   for line in io.open(path):lines() do
-      line = line:match("[^\r\n]+")
-      local key, value = line:match("(.+) (.+)")
-      if key and value then
-         if env.aux_table[key] == nil then
-            env.aux_table[key] = {}
-         end
-         table.insert(env.aux_table[key], value)
       end
    end
 end
