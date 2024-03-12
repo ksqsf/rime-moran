@@ -25,7 +25,7 @@ class Table:
     def has_quick_code(self, word, code):
         all_codes = self.w2c[word]
         for c in all_codes:
-            if code.startswith(c):
+            if code.startswith(c) and len(c) < 4:
                 return True
         return False
 

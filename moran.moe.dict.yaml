@@ -50994,17 +50994,15 @@ use_preset_vocabulary: false
 樂曲徵集活動	yt;bm qu;aa vg;xw ji;mv ho;du ds;lv
 樂樂	le;bm le;bm
 樂樂俠	le;bm le;bm xw;rj
-樂正瀧凜	le;bm vg;av ls;dl ln;db
-樂正玄青	le;bm vg;av xr;wy qy;fo
-樂正瓏音	le;bm vg;av ls;wl yn;lo
-樂正綾	le;bm vg;av ly;sl
-樂正綾大傻逼	le;bm vg;av ly;sl da;ad ua;rw bi;zf
-樂正綾大可愛	le;bm vg;av ly;sl da;ad ke;dk ai;vw
-樂正虎牙	le;bm vg;av hu;hj ya;ap
-樂正零	le;bm vg;av ly;yl
-樂正風純	le;bm vg;av fg;ji ip;st
-樂正鳳翎	le;bm vg;av fg;jn ly;yl
-樂正龍牙	le;bm vg;av ls;dg ya;ap
+樂正瀧凜	yt;bm vg;av ls;dl ln;db
+樂正玄青	yt;bm vg;av xr;wy qy;fo
+樂正瓏音	yt;bm vg;av ls;wl yn;lo
+樂正綾	yt;bm vg;av ly;sl
+樂正虎牙	yt;bm vg;av hu;hj ya;ap
+樂正零	yt;bm vg;av ly;yl
+樂正風純	yt;bm vg;av fg;ji ip;st
+樂正鳳翎	yt;bm vg;av fg;jn ly;yl
+樂正龍牙	yt;bm vg;av ls;dg ya;ap
 樂烯	le;bm xi;hx
 樂玩遊光	le;bm wj;wy yb;zy gd;ea
 樂祈	le;bm qi;uj
@@ -64059,7 +64057,7 @@ use_preset_vocabulary: false
 異界型惡魔焰	yi;tg jx;tj xy;tx ee;xy mo;gm yj;hj
 異界型愛蜜莉雅	yi;tg jx;tj xy;tx ai;vw mi;ib li;cl ya;vy
 異界型拉姆	yi;tg jx;tj xy;tx la;fl mu;nm
-異界型樂正綾	yi;tg jx;tj xy;tx le;bm vg;av ly;sl
+異界型樂正綾	yi;tg jx;tj xy;tx yt;bm vg;av ly;sl
 異界型洛天依	yi;tg jx;tj xy;tx lo;dg tm;ad yi;ry
 異界型海老名	yi;tg jx;tj xy;tx hl;dm lk;bl my;xk
 異界型海老名菜菜	yi;tg jx;tj xy;tx hl;dm lk;bl my;xk cl;cc cl;cc
