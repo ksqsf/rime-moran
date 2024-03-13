@@ -2810,9 +2810,9 @@ use_preset_vocabulary: false
 㻔	do;wi	0	# auto
 㻕	jt;wq	0	# auto
 㻖	dl;wd	0	# auto
-㻗	bz;fy	0	# auto
-㻗	fz;fy	0	# auto
-㻗	pz;fy	0	# auto
+㻗	bz;yf	0
+㻗	fz;yf	0
+㻗	pz;yf	0
 㻝	la;wl	0	# auto
 㻞	bj;wb	0	# auto
 㻞	bn;wb	0	# auto

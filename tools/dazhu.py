@@ -60,6 +60,11 @@ class Table:
             words = [pair[0] for pair in pairs]
             print(code + '\t' + '\t'.join(words), file=file)
 
+    def print_w2c(self, file):
+        for word, codes in self.w2c.items():
+            for code in codes:
+                print(f'{word}	{code}')
+
 
 def make_opencc(config):
     if not config:
@@ -117,6 +122,7 @@ def main(args):
 
     with open('dazhu.txt', 'w') as f:
         table.print_c2w(f)
+        # table.print_w2c(f)
 
 
 if __name__ == '__main__':
