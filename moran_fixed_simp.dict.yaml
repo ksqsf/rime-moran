@@ -725,7 +725,9 @@ encoder:
 暗自庆幸	azqx
 爱咋咋地	azzd
 不	b
-吧	ba
+吧	b
+把	ba
+爸	ba
 巴	baa
 疤	bab
 爸爸	baba
@@ -791,6 +793,7 @@ encoder:
 巴金	bajn
 把酒	bajq
 巴结	bajx
+吧	bak
 叭	bakb
 罢课	bake
 巴	bakg
@@ -1787,6 +1790,7 @@ encoder:
 不成敬意	bijy
 哔	bik
 闭口	bikb
+吡	bikb
 咇	bikb
 秕糠	bikh
 必看	bikj
@@ -2934,7 +2938,7 @@ encoder:
 白做	blzo
 暴戾恣睢	blzs
 白族	blzu
-变	bm
+边	bm
 贬	bmb
 不明不白	bmbb
 𨚕	bmbe
@@ -3150,6 +3154,7 @@ encoder:
 不明真相	bmvx
 笔墨纸砚	bmvy
 不眠之夜	bmvy
+变	bmw
 兵马未动	bmwd
 八面威风	bmwf
 匾文	bmwf
@@ -5293,7 +5298,7 @@ encoder:
 藏在	chzl
 藏踪	chzs
 催化作用	chzy
-词	ci
+此	ci
 慈爱	ciai
 此岸	cian
 赐	cib
@@ -5466,6 +5471,7 @@ encoder:
 雌性	cixy
 磁性	cixy
 慈	cixz
+词	ciy
 词	ciy
 刺痒	ciyh
 词义	ciyi
@@ -13731,6 +13737,7 @@ encoder:
 肥牛	fznq
 发自内心	fznx
 肥	fzo
+肺	fzof
 腓	fzof
 朏	fzoi
 废票	fzpc
@@ -19394,6 +19401,7 @@ encoder:
 藿	hoch
 活	hod
 豁达	hoda
+火	hodd
 获得	hode
 濩	hodh
 劐	hodh
@@ -22632,7 +22640,7 @@ encoder:
 玚	ihwy
 常委	ihwz
 肠胃	ihwz
-常	ihx
+尝	ihx
 畅销	ihxc
 畅想	ihxd
 唱戏	ihxi
@@ -24144,6 +24152,7 @@ encoder:
 抽水马桶	iumt
 触目	iumu
 楮	iumv
+杵	iumw
 出名	iumy
 樗	iumy
 出梅	iumz
@@ -25281,6 +25290,7 @@ encoder:
 将用	jdys
 结党营私	jdys
 降雨	jdyu
+酱	jdyx
 僵硬	jdyy
 酱紫	jdzi
 降噪	jdzk
@@ -26297,6 +26307,8 @@ encoder:
 建党	jmdh
 减低	jmdi
 简单	jmdj
+溅	jmdj
+涧	jmdj
 见到	jmdk
 剪刀	jmdk
 检点	jmdm
@@ -29839,6 +29851,7 @@ encoder:
 克星	kexy
 课	key
 课业	keye
+颗	keyg
 颏	keyh
 可以	keyi
 刻意	keyi
@@ -31552,6 +31565,7 @@ encoder:
 牢不可破	lbkp
 镂空	lbks
 乐不可支	lbkv
+耧	lbl
 漏了	lble
 楼兰	lblj
 露脸	lblm
@@ -33051,6 +33065,7 @@ encoder:
 癞	llb
 来吧	llba
 搂搂抱抱	llbb
+赉	llbl
 来历不明	llbm
 来宾	llbn
 玲珑百窍	llbq
@@ -33680,7 +33695,8 @@ encoder:
 落忍	lorf
 落日	lori
 落入	loru
-络	los
+罗	los
+络	losg
 螺丝	losi
 螺蛳	losi
 啰嗦	loso
@@ -40760,10 +40776,12 @@ encoder:
 批覆	pifu
 髀	pig
 批购	pigb
+鼙	pigb
 皮革	pige
 批改	pigl
 皮辊	pigp
 屁股	pigu
+鼙鼓	pigu
 披挂	pigw
 罴	pih
 皮厚	pihb
@@ -42886,7 +42904,6 @@ encoder:
 䓫	qicq
 气促	qicu
 芪	qicu
-泣	qid
 奇	qid
 漆雕	qidc
 洓	qidc
@@ -42901,6 +42918,8 @@ encoder:
 起点	qidm
 七点	qidm
 漆	qidq
+汽	qidq
+凄	qidq
 淇	qidq
 汔	qidq
 剞	qidq
@@ -43677,7 +43696,7 @@ encoder:
 亲密无间	qmwj
 钱物	qmwu
 前卫	qmwz
-忏	qmx
+愆	qmx
 浅笑	qmxc
 钱箱	qmxd
 前夕	qmxi
@@ -44685,6 +44704,7 @@ encoder:
 驱	qum
 去吗	quma
 取码	quma
+渠	qumj
 阒	qumj
 麹	qumj
 曲面	qumm
@@ -44923,6 +44943,7 @@ encoder:
 掐断	qwdr
 掐	qwf
 恰逢	qwfg
+髂	qwg
 洽购	qwgb
 前无古人	qwgr
 奇文共赏	qwgu
@@ -54275,6 +54296,7 @@ encoder:
 试试	uiui
 饰	uiuj
 山重水复疑无路	uiul
+屎	uium
 实说	uiuo
 实数	uiuu
 史书	uiuu
@@ -57094,6 +57116,7 @@ encoder:
 轸	vfip
 真传	vfir
 鬒	vfiv
+帧	vfj
 阵脚	vfjc
 镇江	vfjd
 政府机关	vfjg
@@ -57961,6 +57984,7 @@ encoder:
 旨	viob
 胝	viod
 炙	vioh
+脂	viov
 肢	viov
 晊	viov
 质	vip
@@ -58049,6 +58073,7 @@ encoder:
 至少	viuk
 直说	viuo
 疐	viup
+直	viuq
 峙	vius
 指数	viuu
 祇	viuu
@@ -59598,6 +59623,7 @@ encoder:
 猪毛	vumk
 朝生暮死	vums
 瞩目	vumu
+驻	vumv
 株	vumv
 橥	vumv
 槠	vumv
@@ -61802,6 +61828,7 @@ encoder:
 郚	wuew
 捂	wuf
 无法	wufa
+於	wufd
 无缝	wufg
 无妨	wufh
 午饭	wufj
@@ -61928,6 +61955,7 @@ encoder:
 屋面	wumm
 乌木	wumu
 骛	wumw
+杌	wumw
 诬蔑	wumx
 无名	wumy
 妩媚	wumz
@@ -62526,6 +62554,7 @@ encoder:
 慰藉	wzjx
 未经	wzjy
 味	wzk
+喂	wzk
 胃口	wzkb
 未可	wzke
 围垦	wzkf
@@ -63025,6 +63054,7 @@ encoder:
 小酌	xcvo
 小篆	xcvr
 小众	xcvs
+箫	xcvs
 效忠	xcvs
 小猪	xcvu
 筱	xcvw
@@ -66814,6 +66844,7 @@ encoder:
 现在在	xzz
 西藏自治区	xzzq
 一	y
+又	y
 呀	ya
 亚	yaa
 雅安	yaan
@@ -67125,6 +67156,8 @@ encoder:
 游船	ybir
 幼虫	ybis
 幼畜	ybiu
+蚴	ybiy
+蚰	ybiy
 铀	ybj
 右脚	ybjc
 幼教	ybjc
@@ -67297,6 +67330,7 @@ encoder:
 鼬	ybuy
 岫	ybuy
 祐	ybuy
+又	ybv
 油炸	ybva
 以暴制暴	ybvb
 也不知道	ybvd
@@ -67957,6 +67991,7 @@ encoder:
 一鼓作气	ygzq
 一棍子打死	ygzs
 样	yh
+羊	yh
 央	yha
 痒	yhb
 氧吧	yhba
@@ -68426,8 +68461,10 @@ encoder:
 一看	yikj
 依靠	yikk
 移开	yikl
+医	yiku
 衣裤	yiku
 一块	yiky
+噫	yiky
 咿	yiky
 匜	yiky
 意	yil
@@ -68697,7 +68734,7 @@ encoder:
 忆	yixy
 异性	yixy
 悒	yixy
-翼	yiy
+议	yiy
 咿呀	yiya
 已有	yiyb
 裛	yiyb
@@ -68708,12 +68745,12 @@ encoder:
 一夜	yiye
 肄业	yiye
 译	yiyf
+翼	yiyg
 一样	yiyh
 异样	yiyh
 一唱一和	yiyh
 意义	yiyi
-弋	yiyi
-乂	yiyi
+颐	yiyi
 遗言	yiyj
 医药	yiyk
 裔	yiyk
@@ -68733,8 +68770,7 @@ encoder:
 诣	yiyv
 宜嗔宜喜	yiyx
 懿	yiyx
-又臭又硬	yiyy
-议	yiyy
+谊	yiyy
 越扯越远	yiyy
 翳	yiyy
 燚	yiyy
@@ -69755,6 +69791,7 @@ encoder:
 因而	yner
 迎难而上	yneu
 由内而外	ynew
+阴	yney
 胤	yney
 引发	ynfa
 银粉	ynff
@@ -70922,6 +70959,7 @@ encoder:
 刖	ytod
 曜	ytov
 乐	ytp
+粤	ytpa
 月票	ytpc
 阅批	ytpi
 乐谱	ytpu
@@ -71067,6 +71105,7 @@ encoder:
 澳	yuda
 语调	yudc
 御史大夫	yudf
+浴	yudg
 移山倒海	yudh
 余地	yudi
 遇到	yudk
@@ -71080,8 +71119,9 @@ encoder:
 鱼肚	yudu
 野生动物	yudw
 渔	yudy
-淤	yudy
 预定	yudy
+淤	yudy
+渝	yudy
 淯	yudy
 滪	yudy
 卸	yuea
@@ -71102,6 +71142,7 @@ encoder:
 鄅	yuey
 鄃	yuey
 隃	yuey
+於	yuf
 语法	yufa
 愈发	yufa
 与否	yufb
@@ -72868,10 +72909,11 @@ encoder:
 脏字	zhzi
 藏族	zhzu
 早婚早育	zhzy
-子	zi
+字	zi
+子	zia
 自爱	ziai
 自傲	ziao
-字	zib
+资	zib
 自拔	ziba
 赀	zibc
 资本	zibf
