@@ -71,7 +71,7 @@ engine:
     #- table_translator@japanese            # 日語混輸
     - lua_translator@*moran_express_translator@with_reorder # 翻譯器
     - lua_translator@*moran_shijian        # 日期orq 節氣ojq 星期oxq 時間osj
-    - lua_translator@*moran_number         # 數字轉大寫
+    - lua_translator@*moran_number         # 數字轉大寫, 大寫S引導, 如 S123
   filters:
     - lua_filter@*moran_reorder_filter
     - lua_filter@*moran_aux_hint
