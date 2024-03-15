@@ -87,7 +87,7 @@ speller:
 translator:
   dictionary: moran.extended
   prism: moran_sentence
-  initial_quality: 0
+  initial_quality: 5
   preedit_format:
     - xform/([a-z][a-z][a-z][a-z])o/$1°/
 
@@ -100,16 +100,26 @@ custom_phrase: # 自定義短語
   initial_quality: 10
 
 english:
-  dictionary: moran.english
-  enable_completion: false
+  dictionary: moran_english
+  enable_completion: true
   enable_sentence: false
+  enable_user_dict: true
   initial_quality: 1
+  enable_encoder: false
+  encode_commit_history: false
+  comment_format:
+    - xform/.*//
 
 japanese:
-  dictionary: moran.japanese
+  dictionary: moran_japanese
   enable_completion: false
-  enable_sentence: false
-  initial_quality: 1
+  enable_sentence: true
+  enable_user_dict: true
+  initial_quality: 0
+  enable_encoder: false
+  encode_commit_history: false
+  comment_format:
+    - xform/.*//
 
 simplifier:
   option_name: simplification
