@@ -10,6 +10,7 @@ sort: original
 columns:
   - text
   - code
+  - stem
   - weight
   - comment
 encoder:
@@ -22,7 +23,7 @@ encoder:
       formula: "AaBaCaZa"
 ...
 
-啊	a
+啊	a	aaka
 阿	aa
 啊啊啊	aaa
 阿爸	aaba
@@ -724,8 +725,8 @@ encoder:
 腌臜泼才	azpc
 暗自庆幸	azqx
 爱咋咋地	azzd
-不	b
-吧	b
+不	b	buad
+吧	b	bakb
 把	ba
 爸	ba
 巴	baa
@@ -4965,7 +4966,7 @@ encoder:
 杯子	bzzi
 碑座	bzzo
 备足	bzzu
-次	c
+次	c	cidq
 擦	ca
 擦边	cabm
 擦布	cabu
@@ -6691,7 +6692,7 @@ encoder:
 惨遭屠戮	cztl
 存在主义	czvy
 操作系统	czxt
-的	d
+的	d	debu
 打	da
 大	daa
 大碍	daai
@@ -10936,7 +10937,7 @@ encoder:
 电子音乐	dzyy
 大动作	dzz
 刀子嘴豆腐心	dzzx
-而	e
+而	e	eraa
 恩爱夫妻	eafq
 而不	eb
 二把刀	ebd
@@ -11421,7 +11422,7 @@ encoder:
 鳄鱼眼泪	eyyl
 儿子	ez
 恶作剧	ezj
-发	f
+发	f	fafd
 法	fa
 发暗	faan
 法案	faan
@@ -13843,7 +13844,7 @@ encoder:
 肥皂	fzzk
 飞灾	fzzl
 飞贼	fzzz
-个	g
+个	g	gera
 感觉	g
 噶	ga
 戛	gaa
@@ -17447,7 +17448,7 @@ encoder:
 工作总结	gzzj
 故作姿态	gzzt
 给足	gzzu
-和	h
+和	h	hehk
 哈	ha
 哈达	hada
 哈佛	hafo
@@ -21419,7 +21420,7 @@ encoder:
 黑字	hzzi
 黑子	hzzi
 黑枣	hzzk
-出	i
+出	i	iuck
 差	ia
 察	iab
 插拔	iaba
@@ -24603,7 +24604,7 @@ encoder:
 赤子之心	izvx
 创造性	izx
 姹紫嫣红	izyh
-就	j
+就	j	jqyj
 觉得	j
 骄傲	ja
 桀骜不驯	jabx
@@ -25761,8 +25762,8 @@ encoder:
 骥	jimg
 急忙	jimh
 机密	jimi
-挤满	jimj
 极	jimj
+挤满	jimj
 骥	jimj
 鸡毛	jimk
 枅	jimk
@@ -29342,7 +29343,7 @@ encoder:
 君子远庖厨	jzyi
 近在眼前	jzyq
 君子一言	jzyy
-可	k
+可	k	kedk
 可以	k
 卡	ka
 喀吧	kaba
@@ -31391,7 +31392,7 @@ encoder:
 抠字眼	kzy
 抠字眼儿	kzye
 看在眼里	kzyl
-了	l
+了	l	leaa
 拉	la
 瘌	lab
 喇叭	laba
@@ -35397,7 +35398,7 @@ encoder:
 乱糟糟的	lzzd
 雷子	lzzi
 嫘祖	lzzu
-没	m
+没	m	mzdu
 没有	m
 吗	ma
 马	maa
@@ -38369,7 +38370,7 @@ encoder:
 民族自决	mzzj
 民族自决权	mzzq
 民族自治	mzzv
-你	n
+你	n	nire
 那	na
 那本	nabf
 那帮	nabh
@@ -40181,7 +40182,7 @@ encoder:
 内在	nzzl
 内阻	nzzu
 念兹在兹	nzzz
-哦	o
+哦	o	ookw
 偶氮染料	odrl
 藕断丝连	odsl
 欧罗巴人种	olbv
@@ -40258,7 +40259,7 @@ encoder:
 呕心沥血	oxlx
 欧亚大陆	oydl
 偶一为之	oywv
-平	p
+平	p	pyaa
 怕	pa
 琶	pab
 葩	pac
@@ -42384,7 +42385,7 @@ encoder:
 配子	pzzi
 配载	pzzl
 赔罪	pzzv
-去	q
+去	q	quts
 亲爱	qa
 亲爱的	qad
 乞哀告怜	qagl
@@ -45479,7 +45480,7 @@ encoder:
 擒贼先擒王	qzxw
 蜷作一团	qzyt
 千载一时	qzyu
-人	r
+人	r	rfpd
 热爱	ra
 肉	rb
 肉案	rban
@@ -46985,7 +46986,7 @@ encoder:
 日滋月益	rzyy
 荣宗耀祖	rzyz
 认贼作父	rzzf
-随	s
+随	s	svez
 卅	saa
 撒把	saba
 洒遍	sabm
@@ -48831,7 +48832,7 @@ encoder:
 三自一包	szyb
 嗓子眼儿	szye
 四则运算	szys
-他	t
+他	t	tary
 她	ta
 它	tab
 拓本	tabf
@@ -52253,7 +52254,7 @@ encoder:
 调嘴学舌	tzxu
 替罪羊	tzy
 投资银行	tzyh
-是	u
+是	u	uiop
 啥	ua
 痧	uab
 沙坝	uaba
@@ -56403,7 +56404,7 @@ encoder:
 始作俑者	uzyv
 双子叶植物	uzyw
 示踪原子	uzyz
-这	v
+这	v	vezw
 炸	va
 治安案件	vaaj
 癿	vab
@@ -60244,7 +60245,7 @@ encoder:
 只字未提	vzwt
 止增笑耳	vzxe
 种子选手	vzxu
-我	w
+我	w	wopd
 挖	wa
 瓦	waa
 凹	waaa
@@ -62752,7 +62753,7 @@ encoder:
 畏罪	wzzv
 逶	wzzw
 踒	wzzw
-下	x
+下	x	xwad
 西安	xa
 西安交大	xajd
 笑傲江湖	xajh
@@ -66843,8 +66844,8 @@ encoder:
 仙姿玉貌	xzym
 现在在	xzz
 西藏自治区	xzzq
-一	y
-又	y
+一	y	yiaa
+又	y	ybad
 呀	ya
 亚	yaa
 雅安	yaan
@@ -72360,7 +72361,7 @@ encoder:
 越走越远	yzyy
 优哉游哉	yzyz
 悠哉游哉	yzyz
-在	z
+在	z	zlut
 自己	z
 咋	za
 咋办	zabj
@@ -74642,6 +74643,7 @@ encoder:
 自作自受	zzzu
 自自在在	zzzz
 
+发行版
 寄存器
 马头琴
 充电桩
