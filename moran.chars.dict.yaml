@@ -10372,10 +10372,10 @@ use_preset_vocabulary: false
 喪	sh;ty	1137
 喪	sh;hd	1137
 喫	ii;kq	65597
-喬	jc;yk	0
-喬	qc;yk	2729
 喬	jc;ph	0
+喬	jc;yk	0
 喬	qc;ph	2729
+喬	qc;yk	2729
 喭	yj;ky	293
 單	dj;kd	13298
 單	ij;kd	14
@@ -13690,12 +13690,10 @@ use_preset_vocabulary: false
 左	zo;gu	8604
 左	zo;ug	8604
 巧	qc;gk	2802
-巨	ju;aa	2722
-巨	ju;hv	2722
 巨	ju;kk	2722
+巨	ju;aa	2722
 巩	gs;gf	100
 巪	ju;ja	0
-巪	ju;jv	0
 巫	wu;gc	1244
 巫	wu;gr	1244
 巬	pu;fj	0

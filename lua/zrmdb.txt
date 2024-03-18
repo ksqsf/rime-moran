@@ -4518,7 +4518,7 @@
 䕪 cz
 䕫 cw
 䕬 cj
-䕭 cx
+䕭 cy
 䕮 cm
 䕯 cp
 䕰 cf
@@ -8012,7 +8012,7 @@
 凸 aa
 凹 aa
 出 ck
-出 uu
+出 aa
 击 aa
 击 eu
 击 fk
@@ -9225,8 +9225,8 @@
 喪 ty
 喪 hd
 喫 kq
-喬 yk
 喬 ph
+喬 yk
 喭 ky
 單 kd
 喯 kb
@@ -11830,9 +11830,8 @@
 左 gu
 左 ug
 巧 gk
-巨 aa
-巨 hv
 巨 kk
+巨 aa
 巩 gf
 巪 ja
 巪 jv

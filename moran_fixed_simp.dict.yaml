@@ -7129,7 +7129,7 @@ encoder:
 兜翻	dbfj
 大部分人	dbfr
 豆腐	dbfu
-调试器	dbg
+打不过	dbg
 逗哏	dbgf
 电报挂号	dbgh
 豆干	dbgj
@@ -7608,7 +7608,6 @@ encoder:
 德望	dewh
 淡而无味	deww
 达尔文主义	dewy
-得	dex
 德	dex
 得悉	dexi
 第二现场	dexi
@@ -10658,7 +10657,7 @@ encoder:
 顶层	dycg
 订餐	dycj
 第一次鸦片战争	dycv
-都有点	dyd
+订	dyd
 大摇大摆	dydb
 定调	dydc
 汀	dydd
@@ -25844,7 +25843,7 @@ encoder:
 即如	jiru
 伎	jirv
 级	jis
-羁	jis
+继	jisa
 罽	jisd
 缉	jise
 给	jish
@@ -25852,6 +25851,7 @@ encoder:
 缉私	jisi
 纪	jisj
 祭扫	jisk
+羁	jism
 脊索	jiso
 缉	jisq
 计算	jisr
@@ -25860,7 +25860,6 @@ encoder:
 急速	jisu
 几岁	jisv
 精诚所至	jisv
-继	jisv
 罽	jisy
 绩	jisz
 基	jit
@@ -27790,7 +27789,7 @@ encoder:
 撅嘴	jtzv
 家庭作业	jtzy
 句	ju
-巨	jua
+车	jua
 济世安邦	juab
 举哀	juai
 济世安民	juam
@@ -27934,7 +27933,7 @@ encoder:
 聚居	juju
 居家	jujw
 具结	jujx
-咀	juk
+巨	juk
 菊科	juke
 精神可嘉	jukj
 噱	jukj
@@ -37402,6 +37401,7 @@ encoder:
 盲人把烛	mrbv
 默然不语	mrby
 骂人不带脏字	mrbz
+魔然繁	mrf
 魔然方案	mrfa
 明日复明日	mrfr
 美如冠玉	mrgy
@@ -37410,7 +37410,7 @@ encoder:
 明日黄花蝶也愁	mrhi
 蓦然回首	mrhu
 美人迟暮	mrim
-美人计	mrj
+魔然简	mrj
 没人了	mrl
 没人理睬	mrlc
 美容美发	mrmf
@@ -62884,8 +62884,8 @@ encoder:
 小姑	xcgu
 小鬼	xcgv
 小褂	xcgw
-小鹤	xche
 小河	xche
+小鹤	xche
 小寒	xchj
 消耗	xchk
 小孩	xchl
@@ -67863,6 +67863,7 @@ encoder:
 鸢飞鱼跃	yfyy
 应付自如	yfzr
 一个	yg
+应该	yg
 一个比一个	ygbg
 雁过拔毛	ygbm
 应该不能	ygbn
@@ -71551,10 +71552,9 @@ encoder:
 预	yuyy
 谕	yuyy
 谀	yuyy
-褕	yuyy
-优生优育	yuyy
 莺声燕语	yuyy
 亦师亦友	yuyy
+褕	yuyy
 一手一足	yuyz
 遇	yuz
 怨声载道	yuzd
