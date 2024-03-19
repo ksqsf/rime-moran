@@ -5964,6 +5964,8 @@ encoder:
 慈眉善目	cmum
 才貌双全	cmuq
 聪明之处	cmvi
+从某种意义上讲	cmvu
+从某种意义上说	cmvu
 摧眉折腰	cmvy
 村民委员会	cmwh
 猜枚行令	cmxl
@@ -13249,7 +13251,7 @@ encoder:
 浮漂	fupc
 父	fupd
 麸皮	fupi
-覆盘	fupj
+复盘	fupj
 复牌	fupl
 俯拍	fupl
 负片	fupm
@@ -25366,7 +25368,6 @@ encoder:
 几个方面	jgfm
 就刚刚	jgg
 机关干部	jggb
-九宫格儿	jgge
 机构改革	jggg
 加工工业	jggy
 几个回合	jghh
@@ -28016,6 +28017,7 @@ encoder:
 居然	jurj
 倨	jurj
 佝	jurj
+蒟蒻	juro
 巨乳	juru
 技术人员	jury
 惧色	juse
@@ -52443,8 +52445,9 @@ encoder:
 收订	ubdy
 首恶	ubee
 首尔	uber
-寿	ubf
+授	ubf
 手法	ubfa
+寿	ubfc
 十步芳草	ubfc
 授粉	ubff
 恕不奉告	ubfg
@@ -58718,6 +58721,7 @@ encoder:
 彰明较著	vmjv
 这么卡	vmk
 芝麻开花节节高	vmkg
+这么快就	vmkj
 众目睽睽	vmkk
 芝麻开门	vmkm
 这么懒	vml
@@ -73821,7 +73825,7 @@ encoder:
 做作	zozo
 坐罪	zozv
 做贼	zozz
-俊	zp
+尊	zp
 尊卑	zpbz
 尊	zpc
 遵从	zpcs

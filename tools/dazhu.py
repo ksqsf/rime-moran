@@ -88,7 +88,7 @@ def main(args):
             if matches:
                 word, code, stem = matches[0]
                 if stem:
-                    code = stem
+                    table.add(word, stem)
             else:
                 matches = re.findall(r'^\w+$', l)
                 if not matches: continue
