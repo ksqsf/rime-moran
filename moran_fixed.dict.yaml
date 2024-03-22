@@ -3716,8 +3716,8 @@ AA制	aavi
 不是	bs
 比薩餅	bsb
 半死不活	bsbh
-百思不解	bsbj
 百思不得其解	bsbj
+百思不解	bsbj
 不三不四	bsbs
 不死不休	bsbx
 波塞冬	bsd
@@ -4238,7 +4238,7 @@ AA制	aavi
 屏住呼吸	bvhx
 部長會議	bvhy
 白紙黑字	bvhz
-標準差	bvi
+不支持	bvi
 扮豬喫老虎	bvih
 不支持了	bvil
 保值儲蓄	bvix
@@ -6725,7 +6725,7 @@ Bilibili	bvj
 簇擁	cuys
 酢	cuyv
 粗硬	cuyy
-趨	cuz
+蹴	cuz
 次生災害	cuzh
 蹴	cuzj
 蹙	cuzq
@@ -24305,7 +24305,7 @@ Bilibili	bvj
 春花	iphw
 純化	iphw
 純黑	iphz
-脣	ipi
+蠢	ipi
 春茶	ipia
 輴	ipid
 春城	ipig
@@ -24350,6 +24350,7 @@ Bilibili	bvj
 春牛	ipnq
 犉	ipnx
 春	ipo
+脣	ipoi
 朐	ipoj
 肫	ipot
 膞	ipov
@@ -76862,7 +76863,10 @@ WiFi	wifi
 賊子	zzzi
 自作自受	zzzu
 自自在在	zzzz
+朙月拼音	mypy
+前方高能	qfgn
 
+標準差
 發行版
 寄存器
 馬頭琴

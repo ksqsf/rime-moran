@@ -1621,7 +1621,7 @@ encoder:
 帮套	bhtk
 帮同	bhts
 绑腿	bhtv
-泵	bhu
+磅	bhu
 帮手	bhub
 百货商店	bhud
 帮上	bhuh
@@ -3622,8 +3622,8 @@ encoder:
 不是	bs
 比萨饼	bsb
 半死不活	bsbh
-百思不解	bsbj
 百思不得其解	bsbj
+百思不解	bsbj
 不三不四	bsbs
 不死不休	bsbx
 波塞冬	bsd
@@ -4139,7 +4139,7 @@ encoder:
 屏住呼吸	bvhx
 部长会议	bvhy
 白纸黑字	bvhz
-标准差	bvi
+不支持	bvi
 扮猪吃老虎	bvih
 不支持了	bvil
 保值储蓄	bvix
@@ -6504,7 +6504,7 @@ encoder:
 簇拥	cuys
 酢	cuyv
 粗硬	cuyy
-趣	cuz
+蹴	cuz
 次生灾害	cuzh
 趋	cuzi
 蹴	cuzj
@@ -74646,7 +74646,10 @@ encoder:
 贼子	zzzi
 自作自受	zzzu
 自自在在	zzzz
+朙月拼音	mypy
+前方高能	qfgn
 
+标准差
 发行版
 寄存器
 马头琴

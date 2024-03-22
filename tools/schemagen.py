@@ -446,6 +446,8 @@ def handle_update_char_weight():
                         if to_double_pinyin(py) == sp:
                             weight = w
                             break
+                        else:
+                            weight = 0
                     except:
                         weight = w
 
