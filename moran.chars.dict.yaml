@@ -20217,6 +20217,7 @@ use_preset_vocabulary: false
 涋	tu;dq	230
 涋	tu;dt	230
 涌	is;dy	551
+涌	ys;dy	0
 涍	xc;dx	305
 涎	xm;dy	671
 涎	yj;dy	671
@@ -72033,6 +72034,8 @@ use_preset_vocabulary: false
 𬦰	bo;zb	0	# auto
 𨁇	tp;zt	0	# auto
 𠝛	qw;td	0	# auto
+𪜐	wa;yh	0
+𪜐	hw;yh	0
 
 #----------
 丆	pp;ap	0
