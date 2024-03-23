@@ -27789,7 +27789,8 @@ encoder:
 噘嘴	jtzv
 撅嘴	jtzv
 家庭作业	jtzy
-句	ju
+举	ju
+据	ju
 车	jua
 济世安邦	juab
 举哀	juai
@@ -27859,14 +27860,13 @@ encoder:
 潏	judy
 聚	jue
 巨额	juee
-据	juf
+拒	juf
 句法	jufa
 飓风	jufg
-举凡	jufj
-拒	jufj
 拘	jufj
 掬	jufj
 飓	jufj
+拒	jufj
 精神分裂	jufl
 掬	jufm
 军事法庭	juft
@@ -27874,6 +27874,7 @@ encoder:
 巨幅	jufu
 精神分裂症	jufv
 军事法院	jufy
+句	jug
 聚光	jugd
 橘柑	jugj
 鞠	jugj
@@ -38030,6 +38031,7 @@ encoder:
 名牌	mypl
 名片	mypm
 名品	mypn
+朙月拼音	mypy
 牧羊犬	myq
 明抢	myqd
 鸣枪	myqd
@@ -42766,6 +42768,7 @@ encoder:
 棋逢对手	qfdu
 情非得已	qfdy
 秋风过耳	qfge
+前方高能	qfgn
 奇峰怪石	qfgu
 前赴后继	qfhj
 勤奋好学	qfhx
@@ -54944,7 +54947,7 @@ encoder:
 筛子	ulzi
 是骡子是马	ulzm
 胜利在望	ulzw
-什么	um
+说明	um
 生命不息	umbx
 睡眠不足	umbz
 是没错	umc
@@ -67445,7 +67448,7 @@ encoder:
 有鼻子有眼	ybzy
 因此	yc
 用词不当	ycbd
-一串串	ycc
+一次次	ycc
 一次的	ycd
 阴曹地府	ycdf
 以词定字	ycdz
@@ -74647,8 +74650,6 @@ encoder:
 贼子	zzzi
 自作自受	zzzu
 自自在在	zzzz
-朙月拼音	mypy
-前方高能	qfgn
 
 标准差
 发行版

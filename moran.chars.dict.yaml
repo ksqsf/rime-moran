@@ -4419,7 +4419,9 @@ use_preset_vocabulary: false
 䑛	ii;ud	0	# auto
 䑜	ta;uy	0	# auto
 䑜	tx;uy	0	# auto
-䑝	jw;il	0	# auto
+䑝	jw;ib	0
+䑝	jw;ki	0
+䑝	jw;kf	0
 䑞	up;ik	0	# auto
 䑟	hd;uh	0	# auto
 䑠	lc;vl	0	# auto
@@ -7417,8 +7419,6 @@ use_preset_vocabulary: false
 亡	wu;dv	9
 亢	gh;wj	0
 亢	kh;wj	806
-亢	gh;dj	0
-亢	kh;dj	806
 亣	da;da	469
 亣	da;wd	469
 亣	dl;da	469
@@ -13753,7 +13753,7 @@ use_preset_vocabulary: false
 币	bi;pj	10
 币	yn;pj	10
 市	ui;wj	19057
-市	ui;dj	19057
+市	ui;dj	0
 布	bu;ju	5026
 布	bu;uj	5026
 帄	dy;jd	277
@@ -22725,7 +22725,7 @@ use_preset_vocabulary: false
 玄	xm;wy	0
 玄	xr;wy	2418
 玄	xm;dy	0
-玄	xr;dy	2418
+玄	xr;dy	0
 玅	mc;xu	118
 玅	xr;xu	118
 玆	zi;xx	114
@@ -27947,7 +27947,6 @@ use_preset_vocabulary: false
 肱	hs;oh	650
 肱	hs;os	650
 育	yu;os	1670
-育	yu;dy	1670
 育	yu;wo	1670
 肳	wf;ow	267
 肴	xc;ou	614
@@ -38143,10 +38142,10 @@ use_preset_vocabulary: false
 髕	bn;gb	566
 髖	kr;gk	676
 髗	lu;gl	272
-高	gk;dk	46097
 高	gk;wk	46097
-髙	gk;dk	561
+高	gk;dk	46097
 髙	gk;wk	561
+髙	gk;dk	561
 髚	qc;gk	167
 髛	kk;gj	184
 髛	kk;gk	184
@@ -67678,8 +67677,6 @@ use_preset_vocabulary: false
 𩢮	xq;rm	0	# auto
 𨢋	hu;yu	0	# auto
 𨢋	hu;ty	0	# auto
-𣤡	xc;aq	0	# auto
-𣤡	yb;aq	0	# auto
 𠏻	rv;ro	0	# auto
 𠏻	rv;rr	0	# auto
 𥮬	xi;vy	0	# auto

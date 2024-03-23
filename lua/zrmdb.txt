@@ -4242,7 +4242,9 @@
 䑚 uo
 䑛 ud
 䑜 uy
-䑝 il
+䑝 ib
+䑝 ki
+䑝 kf
 䑞 ik
 䑟 uh
 䑠 vl
@@ -6958,7 +6960,6 @@
 亡 da
 亡 dv
 亢 wj
-亢 dj
 亣 da
 亣 wd
 交 wf
@@ -11834,7 +11835,6 @@
 巨 aa
 巩 gf
 巪 ja
-巪 jv
 巫 gc
 巫 gr
 巬 fj
@@ -23142,7 +23142,6 @@
 肱 oh
 肱 os
 育 os
-育 dy
 育 wo
 肳 ow
 肴 ou
@@ -31328,10 +31327,10 @@
 髕 gb
 髖 gk
 髗 gl
-高 dk
 高 wk
-髙 dk
+高 dk
 髙 wk
+髙 dk
 髚 gk
 髛 gj
 髛 gk
@@ -41355,7 +41354,6 @@
 𣤞 qb
 𣤞 oq
 𣤡 qa
-𣤡 aq
 𣤢 qj
 𣤢 iq
 𣤢 qu
@@ -56227,6 +56225,7 @@
 𪜇 wq
 𪜋 va
 𪜍 qv
+𪜐 yh
 𪜔 jq
 𪜗 jh
 𪜜 bl
