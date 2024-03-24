@@ -24927,10 +24927,10 @@ use_preset_vocabulary: false
 祫	jw;uh	454
 祫	xw;uh	454
 祬	vi;uv	324
-祭	ji;ou	1462
 祭	ji;uy	1462
-祭	vl;ou	0
+祭	ji;ou	1462
 祭	vl;uy	0
+祭	vl;ou	0
 祮	gk;uj	266
 祯	vf;uv	0
 祰	gk;ug	333
@@ -71754,6 +71754,7 @@ use_preset_vocabulary: false
 𠝛	qw;td	0	# auto
 𪜐	wa;yh	0
 𪜐	hw;yh	0
+𦬫	xc;cq	0
 
 #----------
 丆	pp;ap	0

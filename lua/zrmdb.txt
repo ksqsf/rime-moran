@@ -20665,8 +20665,8 @@
 祪 uw
 祫 uh
 祬 uv
-祭 ou
 祭 uy
+祭 ou
 祮 uj
 祯 uv
 祰 ug
@@ -47511,6 +47511,7 @@
 𦬞 ct
 𦬢 cs
 𦬩 cl
+𦬫 cq
 𦬬 cw
 𦬴 cy
 𦬸 cv

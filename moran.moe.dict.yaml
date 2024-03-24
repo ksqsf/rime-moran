@@ -697,7 +697,7 @@ use_preset_vocabulary: false
 七彩黑陽	qi;ag cl;pc hz;ad yh;ey
 七影蝶	qi;ag yy;pj dx;im
 七怪談	qi;ag gy;xu tj;yy
-七憑之祭	qi;ag py;xf vi;dd ji;ou
+七憑之祭	qi;ag py;xf vi;dd ji;uy
 七日的喰神	qi;ag ri;aa de;bu cj;ku uf;uu
 七星	qi;ag xy;ou
 七星七海	qi;ag xy;ou qi;ag hl;dm
@@ -1124,7 +1124,7 @@ use_preset_vocabulary: false
 三條真琴	sj;aa tc;rt vf;uj qn;wj
 三條野春姬	sj;aa tc;rt ye;ly ip;of ji;ni
 三森愛乃	sj;aa sf;ml ai;vw nl;pg
-三森祭	sj;aa sf;ml ji;ou
+三森祭	sj;aa sf;ml ji;uy
 三森鈴子	sj;aa sf;ml ly;jl zi;aa
 三棱鏡	sj;aa lg;ml jy;jj
 三棲人	sj;aa qi;mq rf;pd
@@ -1964,7 +1964,7 @@ use_preset_vocabulary: false
 不是很懂你們二次元	bu;ad ui;op hf;xg ds;xd ni;re mf;rm er;aa ci;dq yr;aw
 不是很懂你們戰鬥人員	bu;ad ui;op hf;xg ds;xd ni;re mf;rm vj;gd db;aa rf;pd yr;kb
 不是灰姑娘派對的話	bu;ad ui;op hv;hu gu;ng nd;nl pl;dp dv;ct de;bu hw;yu
-不是無色透名祭就出不來的曲子	bu;ad ui;op wu;rh se;db tb;zx my;xk ji;ou jq;yj iu;ck bu;ad ll;ad de;bu qu;aa zi;aa
+不是無色透名祭就出不來的曲子	bu;ad ui;op wu;rh se;db tb;zx my;xk ji;uy jq;yj iu;ck bu;ad ll;ad de;bu qu;aa zi;aa
 不是英雄也沒關係	bu;ad ui;op yy;cy xs;vh ye;gg mz;du gr;ma xi;rx
 不是隻有小學生纔有處男嗎	bu;ad ui;op vi;vy yb;ou xc;ad xt;jz ug;na cl;si yb;ou iu;hi nj;tl ma;km
 不時輕聲地以俄語遮羞的鄰座艾莉同學	bu;ad ui;os qy;ig ug;eq di;ty yi;rd ee;rw yu;yw ve;zd xq;yi de;bu ln;el zo;gz ai;ci li;cl ts;kk xt;jz
@@ -7016,8 +7016,8 @@ use_preset_vocabulary: false
 來鶯兒	ll;ad yy;hn er;ej
 例區	li;rl qu;kp
 例外處理	li;rl wl;xb iu;hi li;wl
-例大祭	li;rl da;ad ji;ou
-例大祭超濃縮版	li;rl da;ad ji;ou ik;zv ns;dn so;ss bj;pf
+例大祭	li;rl da;ad ji;uy
+例大祭超濃縮版	li;rl da;ad ji;uy ik;zv ns;dn so;ss bj;pf
 例如	li;rl ru;nk
 例民	li;rl mn;ag
 例行異常行爲準則	li;rl xy;xd yi;tg ih;jk xy;xd wz;pd vp;uh ze;db
@@ -7848,8 +7848,8 @@ use_preset_vocabulary: false
 偶像	ou;ry xd;rx
 偶像事變	ou;ry xd;rx ui;aa bm;ws
 偶像公主	ou;ry xd;rx gs;sb vu;dw
-偶像夢幻祭	ou;ry xd;rx mg;cx hr;yg ji;ou
-偶像夢幻祭翻唱曲	ou;ry xd;rx mg;cx hr;yg ji;ou fj;yf ih;ki qu;aa
+偶像夢幻祭	ou;ry xd;rx mg;cx hr;yg ji;uy
+偶像夢幻祭翻唱曲	ou;ry xd;rx mg;cx hr;yg ji;uy fj;yf ih;ki qu;aa
 偶像大屍	ou;ry xd;rx da;ad ui;us
 偶像大師	ou;ry xd;rx da;ad ui;vb
 偶像大師孃	ou;ry xd;rx da;ad ui;vb nd;nx
@@ -8145,7 +8145,7 @@ use_preset_vocabulary: false
 傳木凱俄	ir;rv mu;ad kl;jd ee;rw
 傳木凱保	ir;rv mu;ad kl;jd bk;rd
 傳火	ir;rv ho;dd
-傳火祭祀場	ir;rv ho;dd ji;ou si;us ih;ty
+傳火祭祀場	ir;rv ho;dd ji;uy si;us ih;ty
 傳統模式	ir;rv ts;si mo;mm ui;gy
 傳統的系譜	ir;rv ts;si de;bu xi;ps pu;yp
 傳統英雄	ir;rv ts;si yy;cy xs;vh
@@ -8453,7 +8453,7 @@ use_preset_vocabulary: false
 元八荒	yr;aw ba;pd hd;ci
 元吉有希子	yr;aw ji;ku yb;ou xi;ju zi;aa
 元媛舞會	yr;aw yr;ny wu;rf hv;ro
-元宮祭莉	yr;aw gs;bl ji;ou li;cl
+元宮祭莉	yr;aw gs;bl ji;uy li;cl
 元寇合戰記	yr;aw kb;bp he;rk vj;gd ji;yj
 元帥	yr;aw uy;jv
 元意識解碼	yr;aw yi;xy ui;yg jx;jn ma;um
@@ -8465,7 +8465,7 @@ use_preset_vocabulary: false
 元氣	yr;aw qi;qm
 元氣偶像季	yr;aw qi;qm ou;ry xd;rx ji;hz
 元氣全開天	yr;aw qi;qm qr;rw kl;mk tm;ad
-元氣動漫祭	yr;aw qi;qm ds;lv mj;dm ji;ou
+元氣動漫祭	yr;aw qi;qm ds;lv mj;dm ji;uy
 元氣動漫節娘	yr;aw qi;qm ds;lv mj;dm jx;vj nd;nl
 元氣博士	yr;aw qi;qm bo;uc ui;aa
 元氣君	yr;aw qi;qm jp;ky
@@ -8500,7 +8500,7 @@ use_preset_vocabulary: false
 元素充能	yr;aw su;sf is;dy ng;sb
 元素卡組	yr;aw su;sf ka;bx zu;sq
 元素吸收器	yr;aw su;sf xi;kj ub;wj qi;kk
-元素少女武鬥祭	yr;aw su;sf uk;xp nv;aa wu;vy db;aa ji;ou
+元素少女武鬥祭	yr;aw su;sf uk;xp nv;aa wu;vy db;aa ji;uy
 元素師	yr;aw su;sf ui;vb
 元素歌	yr;aw su;sf ge;qg
 元素法師	yr;aw su;sf fa;dq ui;vb
@@ -9807,7 +9807,7 @@ use_preset_vocabulary: false
 公主焊接	gs;sb vu;dw hj;hh jx;fq
 公主病	gs;sb vu;dw by;bb
 公主症候羣	gs;sb vu;dw vg;bv hb;ru qp;yj
-公主的獻祭	gs;sb vu;dw de;bu xm;qg ji;ou
+公主的獻祭	gs;sb vu;dw de;bu xm;qg ji;uy
 公主聯盟	gs;sb vu;dw lm;ea mg;mm
 公主與武士	gs;sb vu;dw yu;ba wu;vy ui;aa
 公主與龍所鍾愛的龍騎士	gs;sb vu;dw yu;ba ls;dg so;hj vs;jv ai;vw de;bu ls;dg qi;mq ui;aa
@@ -11248,7 +11248,7 @@ use_preset_vocabulary: false
 初音未來	iu;yd yn;lo wz;ex ll;ad
 初音未來十週年紀念活動	iu;yd yn;lo wz;ex ll;ad ui;aa vb;zv nm;pa ji;sj nm;xj ho;du ds;lv
 初音未來夢幻歌姬	iu;yd yn;lo wz;ex ll;ad mg;cx hr;yg ge;qg ji;ni
-初音未來日的感謝祭	iu;yd yn;lo wz;ex ll;ad ri;aa de;bu gj;xx xx;yu ji;ou
+初音未來日的感謝祭	iu;yd yn;lo wz;ex ll;ad ri;aa de;bu gj;xx xx;yu ji;uy
 初音未來歌姬計劃	iu;yd yn;lo wz;ex ll;ad ge;qg ji;ni ji;yu hw;dh
 初音未來的事件	iu;yd yn;lo wz;ex ll;ad de;bu ui;aa jm;rn
 初音未來的困惑	iu;yd yn;lo wz;ex ll;ad de;bu kp;km ho;xh
@@ -11731,7 +11731,7 @@ use_preset_vocabulary: false
 創價學會	id;dc jw;rj xt;jz hv;ro
 創口貼	id;dc kb;aa tx;bv
 創可貼	id;dc ke;dk tx;bv
-創天綜合同人祭	id;dc tm;ad zs;sz he;rk ts;kk rf;pd ji;ou
+創天綜合同人祭	id;dc tm;ad zs;sz he;rk ts;kk rf;pd ji;uy
 創始之女	id;dc ui;nt vi;dd nv;aa
 創意糕點部	id;dc yi;xy gk;mg dm;hv bu;ek
 創意蛋糕店	id;dc yi;xy dj;ip gk;mg dm;gv
@@ -11780,7 +11780,7 @@ use_preset_vocabulary: false
 劇情向遊戲	ju;dj qy;xq xd;pk yb;zy xi;gd
 劇情故事模式	ju;dj qy;xq gu;wg ui;aa mo;mm ui;gy
 劇情檔案	ju;dj qy;xq dh;md an;bm
-劇情祭品	ju;dj qy;xq ji;ou pn;kk
+劇情祭品	ju;dj qy;xq ji;uy pn;kk
 劇情角色	ju;dj qy;xq jt;dy se;db
 劇情類遊戲	ju;dj qy;xq lz;yl yb;zy xi;gd
 劇本家	ju;dj bf;aa jw;bu
@@ -12872,7 +12872,7 @@ use_preset_vocabulary: false
 北野更	bz;ap ye;ly gg;ad
 北野泉	bz;ap ye;ly qr;bu
 北長	bz;ap vh;ad
-北陸祭	bz;ap lu;et ji;ou
+北陸祭	bz;ap lu;et ji;uy
 北雁歸遲	bz;ap yj;iv gv;vj ii;zn
 北非前哨	bz;ap fz;aa qm;bd uk;kx
 北非規格	bz;ap fz;aa gv;fj ge;mg
@@ -13149,7 +13149,7 @@ use_preset_vocabulary: false
 千年的黃昏	qm;pa nm;pa de;bu hd;cb hp;ou
 千年盾	qm;pa nm;pa dp;po
 千年眼	qm;pa nm;pa yj;og
-千年眼納祭神	qm;pa nm;pa yj;og na;sn ji;ou uf;uu
+千年眼納祭神	qm;pa nm;pa yj;og na;sn ji;uy uf;uu
 千年神器	qm;pa nm;pa uf;uu qi;kk
 千年科學學園	qm;pa nm;pa ke;hd xt;jz xt;jz yr;ky
 千年積木	qm;pa nm;pa ji;hz mu;ad
@@ -13222,9 +13222,9 @@ use_preset_vocabulary: false
 千界一乘	qm;pa jx;tj yi;aa ig;pb
 千百合	qm;pa bl;ab he;rk
 千盞	qm;pa vj;mj
-千眼納祭神	qm;pa yj;og na;sn ji;ou uf;uu
-千眼納祭神娘	qm;pa yj;og na;sn ji;ou uf;uu nd;nl
-千眼納祭魔	qm;pa yj;og na;sn ji;ou mo;gm
+千眼納祭神	qm;pa yj;og na;sn ji;uy uf;uu
+千眼納祭神娘	qm;pa yj;og na;sn ji;uy uf;uu nd;nl
+千眼納祭魔	qm;pa yj;og na;sn ji;uy mo;gm
 千眼邪教神	qm;pa yj;og xx;ey jc;wx uf;uu
 千眼邪教神娘	qm;pa yj;og xx;ey jc;wx uf;uu nd;nl
 千矢	qm;pa ui;pd
@@ -13681,7 +13681,7 @@ use_preset_vocabulary: false
 博士楊	bo;uc ui;aa yh;my
 博士的家	bo;uc ui;aa de;bu jw;bu
 博士的鯊魚和狗	bo;uc ui;aa de;bu ua;yu yu;dd he;hk gb;qj
-博多東方祭	bo;uc do;xx ds;ad fh;dg ji;ou
+博多東方祭	bo;uc do;xx ds;ad fh;dg ji;uy
 博多藤四郎	bo;uc do;xx tg;ct si;aa lh;el
 博多豚骨拉麪	bo;uc do;xx tp;ou gu;go la;fl mm;mg
 博多豚骨拉麪團	bo;uc do;xx tp;ou gu;go la;fl mm;mg tr;kv
@@ -13718,12 +13718,12 @@ use_preset_vocabulary: false
 博麗二人	bo;uc li;ll er;aa rf;pd
 博麗炎夢	bo;uc li;ll yj;hh mg;cx
 博麗神社	bo;uc li;ll uf;uu ue;ut
-博麗神社例大祭	bo;uc li;ll uf;uu ue;ut li;rl da;ad ji;ou
-博麗神社例大祭超濃縮版	bo;uc li;ll uf;uu ue;ut li;rl da;ad ji;ou ik;zv ns;dn so;ss bj;pf
-博麗神社歌祭	bo;uc li;ll uf;uu ue;ut ge;qg ji;ou
-博麗神社歌謠祭	bo;uc li;ll uf;uu ue;ut ge;qg yk;yf ji;ou
+博麗神社例大祭	bo;uc li;ll uf;uu ue;ut li;rl da;ad ji;uy
+博麗神社例大祭超濃縮版	bo;uc li;ll uf;uu ue;ut li;rl da;ad ji;uy ik;zv ns;dn so;ss bj;pf
+博麗神社歌祭	bo;uc li;ll uf;uu ue;ut ge;qg ji;uy
+博麗神社歌謠祭	bo;uc li;ll uf;uu ue;ut ge;qg yk;yf ji;uy
 博麗神社社務所	bo;uc li;ll uf;uu ue;ut ue;ut wu;mw so;hj
-博麗神社秋季例大祭	bo;uc li;ll uf;uu ue;ut qq;hh ji;hz li;rl da;ad ji;ou
+博麗神社秋季例大祭	bo;uc li;ll uf;uu ue;ut qq;hh ji;hz li;rl da;ad ji;uy
 博麗託奇	bo;uc li;ll to;yq qi;dk
 博麗靈夢	bo;uc li;ll ly;wl mg;cx
 卜塔神	bo;ad ta;td uf;uu
@@ -15491,8 +15491,8 @@ use_preset_vocabulary: false
 司波深雪	si;gk bo;dp uf;dm xt;yx
 司波達也	si;gk bo;dp da;zy ye;gg
 司登	si;gk dg;dd
-司祭	si;gk ji;ou
-司祭騎士帕雪露	si;gk ji;ou qi;mq ui;aa pa;jb xt;yx lu;yl
+司祭	si;gk ji;uy
+司祭騎士帕雪露	si;gk ji;uy qi;mq ui;aa pa;jb xt;yx lu;yl
 司空明	si;gk ks;xg my;oo
 司空琪	si;gk ks;xg qi;wq
 司空見慣的世界征服	si;gk ks;xg jm;me gr;xg de;bu ui;ca jx;tj vg;xv fu;oy
@@ -19197,7 +19197,7 @@ use_preset_vocabulary: false
 在睡不着的夜裏把你喰食	zl;ta uv;oi bu;ad ve;yo de;bu ye;wd li;dy ba;fb ni;re cj;ku ui;pd
 在祕密的前方等待着	zl;ta mi;ub mi;ub de;bu qm;bd fh;dg dg;vs dl;xs ve;yo
 在神聖的夜晚	zl;ta uf;uu ug;ew de;bu ye;wd wj;om
-在祭典上大喊	zl;ta ji;ou dm;ba uh;aa da;ad hj;kx
+在祭典上大喊	zl;ta ji;uy dm;ba uh;aa da;ad hj;kx
 在稻妻城說晚安	zl;ta dk;hj qi;na ig;ti uo;yd wj;om an;bn
 在等待祕密之前	zl;ta dg;vs dl;xs mi;ub mi;ub vi;dd qm;bd
 在終幕裏沒有我的名字	zl;ta vs;sd mu;jm li;dy mz;du yb;ou wo;pd de;bu my;xk zi;bz
@@ -19806,10 +19806,10 @@ use_preset_vocabulary: false
 城堡探險	ig;ti bk;tb tj;fm xm;eq
 城堡與莫梭提斯	ig;ti bk;tb yu;ba mo;cd so;mj ti;fu si;jq
 城壁	ig;ti bi;tb
-城大冬祭	ig;ti da;ad ds;wd ji;ou
-城大夏祭	ig;ti da;ad xw;wz ji;ou
-城大春祭	ig;ti da;ad ip;of ji;ou
-城大秋祭	ig;ti da;ad qq;hh ji;ou
+城大冬祭	ig;ti da;ad ds;wd ji;uy
+城大夏祭	ig;ti da;ad xw;wz ji;uy
+城大春祭	ig;ti da;ad ip;of ji;uy
+城大秋祭	ig;ti da;ad qq;hh ji;uy
 城太郎	ig;ti tl;dd lh;el
 城姬封魔物語	ig;ti ji;ni fg;cg mo;gm wu;nw yu;yw
 城山堅	ig;ti uj;aa jm;ty
@@ -21017,7 +21017,7 @@ use_preset_vocabulary: false
 夏目麻衣	xw;wz mu;aa ma;gl yi;dd
 夏磊	xw;wz lz;uu
 夏祁銘	xw;wz qi;eu my;jm
-夏祭	xw;wz ji;ou
+夏祭	xw;wz ji;uy
 夏禾	xw;wz he;pd
 夏禾潔	xw;wz he;pd jx;dj
 夏秋雪	xw;wz qq;hh xt;yx
@@ -21051,7 +21051,7 @@ use_preset_vocabulary: false
 夏色小町	xw;wz se;db xc;ad ty;td
 夏色戀花火	xw;wz se;db lm;xs hw;ch ho;dd
 夏色牽牛花	xw;wz se;db qm;ns nq;pa hw;ch
-夏色祭	xw;wz se;db ji;ou
+夏色祭	xw;wz se;db ji;uy
 夏色禮物	xw;wz se;db li;ud wu;nw
 夏色笑容	xw;wz se;db xc;vy rs;bg
 夏色花梨	xw;wz se;db hw;ch li;ml
@@ -21232,7 +21232,7 @@ use_preset_vocabulary: false
 外柔內剛	wl;xb rb;mm nz;kr gh;dg
 外法之騎士	wl;xb fa;dq vi;dd qi;mq ui;aa
 外熱內冷	wl;xb re;dv nz;kr lg;dl
-外獸祭獸人們的冒險酒館	wl;xb ub;qu ji;ou ub;qu rf;pd mf;rm de;bu mk;oo xm;eq jq;dy gr;ug
+外獸祭獸人們的冒險酒館	wl;xb ub;qu ji;uy ub;qu rf;pd mf;rm de;bu mk;oo xm;eq jq;dy gr;ug
 外甥	wl;xb ug;un
 外甥女	wl;xb ug;un nv;aa
 外界	wl;xb jx;tj
@@ -21581,7 +21581,7 @@ use_preset_vocabulary: false
 夜神	ye;wd uf;uu
 夜神妝裕	ye;wd uf;uu vd;np yu;yg
 夜神月	ye;wd uf;uu yt;oy
-夜祭	ye;wd ji;ou
+夜祭	ye;wd ji;uy
 夜禮服假面	ye;wd li;ud fu;oy jw;rj mm;aa
 夜空	ye;wd ks;xg
 夜空中最亮的星	ye;wd ks;xg vs;aa zv;oq ld;wj de;bu xy;ou
@@ -21809,7 +21809,7 @@ use_preset_vocabulary: false
 夢幻模擬戰	mg;cx hr;yg mo;mm ni;fy vj;gd
 夢幻泡沫	mg;cx hr;yg pk;db mo;dm
 夢幻的救憐唱	mg;cx hr;yg de;bu jq;wq lm;xl ih;ki
-夢幻祭體操	mg;cx hr;yg ji;ou ti;gd ck;fz
+夢幻祭體操	mg;cx hr;yg ji;uy ti;gd ck;fz
 夢幻老年之家瓦爾哈拉莊	mg;cx hr;yg lk;bl nm;pa vi;dd jw;bu wa;ad er;ay ha;kh la;fl vd;cv
 夢幻聯動	mg;cx hr;yg lm;ea ds;lv
 夢幻聯賽	mg;cx hr;yg lm;ea sl;bb
@@ -22037,7 +22037,7 @@ use_preset_vocabulary: false
 大久保藍子	da;ad jq;pd bk;rd lj;cj zi;aa
 大久保貴	da;ad jq;pd bk;rd gv;bg
 大九	da;ad jq;py
-大九州東方祭	da;ad jq;py vb;da ds;ad fh;dg ji;ou
+大九州東方祭	da;ad jq;py vb;da ds;ad fh;dg ji;uy
 大亂鬥	da;ad lr;gy db;aa
 大事年表	da;ad ui;aa nm;pa bc;fy
 大井	da;ad jy;aa
@@ -22316,7 +22316,7 @@ use_preset_vocabulary: false
 大家差不多	da;ad jw;bu ia;yg bu;ad do;xx
 大家族	da;ad jw;bu zu;fu
 大家晚安	da;ad jw;bu wj;om an;bn
-大家的夏日祭	da;ad jw;bu de;bu xw;wz ri;aa ji;ou
+大家的夏日祭	da;ad jw;bu de;bu xw;wz ri;aa ji;uy
 大家的守護蛋	da;ad jw;bu de;bu ub;bc hu;yh dj;ip
 大家的幻想鄉	da;ad jw;bu de;bu hr;yg xd;xx xd;el
 大家的心情	da;ad jw;bu de;bu xn;dd qy;xq
@@ -22686,7 +22686,7 @@ use_preset_vocabulary: false
 大神美冬	da;ad uf;uu mz;dy ds;wd
 大神與七位夥伴	da;ad uf;uu yu;ba qi;ag wz;rl ho;gd bj;rb
 大神音	da;ad uf;uu yn;lo
-大祭司伊姆霍特普	da;ad ji;ou si;gk yi;ry mu;nm ho;yv te;ns pu;ob
+大祭司伊姆霍特普	da;ad ji;uy si;gk yi;ry mu;nm ho;yv te;ns pu;ob
 大秦寺哲雄	da;ad qn;hf si;ct ve;kv xs;vh
 大秦悍將	da;ad qn;hf hj;xh jd;pc
 大秦話	da;ad qn;hf hw;yu
@@ -23039,7 +23039,7 @@ use_preset_vocabulary: false
 天上空	tm;ad uh;aa ks;xg
 天上美琴	tm;ad uh;aa mz;dy qn;wj
 天上院明日香	tm;ad uh;aa yr;ew my;oo ri;aa xd;ho
-天下一音遊祭	tm;ad xw;ab yi;aa yn;lo yb;zy ji;ou
+天下一音遊祭	tm;ad xw;ab yi;aa yn;lo yb;zy ji;uy
 天下不配我的好	tm;ad xw;ab bu;ad pz;yj wo;pd de;bu hk;nz
 天下局	tm;ad xw;ab ju;uk
 天下布魔	tm;ad xw;ab bu;ju mo;gm
@@ -23131,7 +23131,7 @@ use_preset_vocabulary: false
 天使的鮮血	tm;ad ui;rl de;bu xm;yy xt;pa
 天使真央	tm;ad ui;rl vf;uj yh;ad
 天使破壞者	tm;ad ui;rl po;up hy;th ve;lo
-天使祭祀場	tm;ad ui;rl ji;ou si;us ih;ty
+天使祭祀場	tm;ad ui;rl ji;uy si;us ih;ty
 天使米謝爾	tm;ad ui;rl mi;dd xx;yu er;ay
 天使與惡魔	tm;ad ui;rl yu;ba ee;xy mo;gm
 天使與龍的輪舞	tm;ad ui;rl yu;ba ls;dg de;bu lp;il wu;rf
@@ -23666,7 +23666,7 @@ use_preset_vocabulary: false
 天策	tm;ad ce;vc
 天策府	tm;ad ce;vc fu;gf
 天策槍魂	tm;ad ce;vc qd;mc hp;gy
-天策祭英魂錄	tm;ad ce;vc ji;ou yy;cy hp;gy lu;jl
+天策祭英魂錄	tm;ad ce;vc ji;uy yy;cy hp;gy lu;jl
 天籟人偶	tm;ad ll;vl rf;pd ou;ry
 天結神緣	tm;ad jx;sj uf;uu yr;st
 天網炎上迦具土	tm;ad wh;sw yj;hh uh;aa jw;zj ju;ba tu;aa
@@ -24025,7 +24025,7 @@ use_preset_vocabulary: false
 太陽珊瑚娘	tl;dd yh;ey uj;wc hu;wh nd;nl
 太陽的使者	tl;dd yh;ey de;bu ui;rl ve;lo
 太陽的咒縛	tl;dd yh;ey de;bu vb;kj fu;sc
-太陽的祭壇	tl;dd yh;ey de;bu ji;ou tj;td
+太陽的祭壇	tl;dd yh;ey de;bu ji;uy tj;td
 太陽的航路	tl;dd yh;ey de;bu hh;vk lu;zg
 太陽的距離	tl;dd yh;ey de;bu ju;zj li;vl
 太陽的頻道	tl;dd yh;ey de;bu pn;yb dk;zu
@@ -24335,11 +24335,11 @@ use_preset_vocabulary: false
 奇蹟再現	qi;dk ji;zz zl;aa xm;wj
 奇蹟同調融合	qi;dk ji;zz ts;kk dc;yv rs;ig he;rk
 奇蹟商人	qi;dk ji;zz uh;wk rf;pd
-奇蹟女孩歌舞祭典	qi;dk ji;zz nv;aa hl;zh ge;qg wu;rf ji;ou dm;ba
+奇蹟女孩歌舞祭典	qi;dk ji;zz nv;aa hl;zh ge;qg wu;rf ji;uy dm;ba
 奇蹟小子	qi;dk ji;zz xc;ad zi;aa
 奇蹟少女	qi;dk ji;zz uk;xp nv;aa
 奇蹟少女小鳩	qi;dk ji;zz uk;xp nv;aa xc;ad jq;nj
-奇蹟少女祭	qi;dk ji;zz uk;xp nv;aa ji;ou
+奇蹟少女祭	qi;dk ji;zz uk;xp nv;aa ji;uy
 奇蹟感應	qi;dk ji;zz gj;xx yy;gx
 奇蹟接觸	qi;dk ji;zz jx;fq iu;ji
 奇蹟於你	qi;dk ji;zz yu;fd ni;re
@@ -24466,7 +24466,7 @@ use_preset_vocabulary: false
 奈芊歌	nl;du qm;cq ge;qg
 奈芙	nl;du fu;cf
 奈芙提斯之祈禱者	nl;du fu;cf ti;fu si;jq vi;dd qi;uj dk;uu ve;lo
-奈芙提斯之祭祀者	nl;du fu;cf ti;fu si;jq vi;dd ji;ou si;us ve;lo
+奈芙提斯之祭祀者	nl;du fu;cf ti;fu si;jq vi;dd ji;uy si;us ve;lo
 奈芙提斯之蒼凰神	nl;du fu;cf ti;fu si;jq vi;dd ch;cc hd;jh uf;uu
 奈芙提斯之鳳凰神	nl;du fu;cf ti;fu si;jq vi;dd fg;jn hd;jh uf;uu
 奈芙提斯的希望	nl;du fu;cf ti;fu si;jq de;bu xi;ju wh;wo
@@ -25131,7 +25131,7 @@ use_preset_vocabulary: false
 女神詩蔻蒂的託宣	nv;aa uf;uu ui;ys kb;ck di;cd de;bu to;yq xr;bg
 女神轉生	nv;aa uf;uu vr;iv ug;na
 女神轟炸姬	nv;aa uf;uu hs;ii va;hv ji;ni
-女祭司	nv;aa ji;ou si;gk
+女祭司	nv;aa ji;uy si;gk
 女科學家	nv;aa ke;hd xt;jz jw;bu
 女竈神	nv;aa zk;xm uf;uu
 女童軍	nv;aa ts;ll jp;bi
@@ -25595,7 +25595,7 @@ use_preset_vocabulary: false
 妖精的旋律	yk;ny jy;mq de;bu xr;fp lv;xy
 妖精的禮物	yk;ny jy;mq de;bu li;ud wu;nw
 妖精的贈禮	yk;ny jy;mq de;bu zg;bc li;ud
-妖精祭司諾艾爾	yk;ny jy;mq ji;ou si;gk no;yr ai;ci er;ay
+妖精祭司諾艾爾	yk;ny jy;mq ji;uy si;gk no;yr ai;ci er;ay
 妖精種植手冊	yk;ny jy;mq vs;hv vi;mv ub;pa ce;aa
 妖精行商團	yk;ny jy;mq hh;xd uh;wk tr;kv
 妖精輪	yk;ny jy;mq lp;il
@@ -25809,7 +25809,7 @@ use_preset_vocabulary: false
 始祖巨人	ui;nt zu;uq ju;kk rf;pd
 始祖豌豆射手	ui;nt zu;uq wj;dw db;aa ue;cu ub;pa
 始祖龍	ui;nt zu;uq ls;dg
-始祭者	ui;nt ji;ou ve;lo
+始祭者	ui;nt ji;uy ve;lo
 始終的戀愛煩惱	ui;nt vs;sd de;bu lm;xs ai;vw fj;hy nk;xi
 始見千秋	ui;nt jm;me qm;pa qq;hh
 始麒麟	ui;nt qi;lq ln;ll
@@ -26656,10 +26656,10 @@ use_preset_vocabulary: false
 學園偶像天國	xt;jz yr;ky ou;ry xd;rx tm;ad go;kh
 學園偶像季	xt;jz yr;ky ou;ry xd;rx ji;hz
 學園偶像收藏	xt;jz yr;ky ou;ry xd;rx ub;wj ch;cg
-學園偶像祭	xt;jz yr;ky ou;ry xd;rx ji;ou
-學園偶像祭感謝祭	xt;jz yr;ky ou;ry xd;rx ji;ou gj;xx xx;yu ji;ou
-學園偶像祭活動	xt;jz yr;ky ou;ry xd;rx ji;ou ho;du ds;lv
-學園偶像祭系列感謝祭	xt;jz yr;ky ou;ry xd;rx ji;ou xi;ps lx;dd gj;xx xx;yu ji;ou
+學園偶像祭	xt;jz yr;ky ou;ry xd;rx ji;uy
+學園偶像祭感謝祭	xt;jz yr;ky ou;ry xd;rx ji;uy gj;xx xx;yu ji;uy
+學園偶像祭活動	xt;jz yr;ky ou;ry xd;rx ji;uy ho;du ds;lv
+學園偶像祭系列感謝祭	xt;jz yr;ky ou;ry xd;rx ji;uy xi;ps lx;dd gj;xx xx;yu ji;uy
 學園偶像計劃	xt;jz yr;ky ou;ry xd;rx ji;yu hw;dh
 學園偶像電影	xt;jz yr;ky ou;ry xd;rx dm;yd yy;pj
 學園偶像音樂劇	xt;jz yr;ky ou;ry xd;rx yn;lo yt;bm ju;dj
@@ -26670,12 +26670,12 @@ use_preset_vocabulary: false
 學園少女突襲者	xt;jz yr;ky uk;xp nv;aa tu;xq xi;yl ve;lo
 學園愛麗絲	xt;jz yr;ky ai;vw li;ll si;ss
 學園救援團	xt;jz yr;ky jq;wq yr;fy tr;kv
-學園文化祭	xt;jz yr;ky wf;wi hw;rb ji;ou
+學園文化祭	xt;jz yr;ky wf;wi hw;rb ji;uy
 學園歌劇	xt;jz yr;ky ge;qg ju;dj
 學園烏托邦	xt;jz yr;ky wu;pd to;fq bh;ef
 學園烏托邦學美向前衝	xt;jz yr;ky wu;pd to;fq bh;ef xt;jz mz;dy xd;pk qm;bd is;xi
 學園生活部	xt;jz yr;ky ug;na ho;du bu;ek
-學園祭	xt;jz yr;ky ji;ou
+學園祭	xt;jz yr;ky ji;uy
 學園者	xt;jz yr;ky ve;lo
 學園都市	xt;jz yr;ky du;ev ui;wj
 學園默示錄	xt;jz yr;ky mo;hq ui;ex lu;jl
@@ -26735,7 +26735,7 @@ use_preset_vocabulary: false
 學長	xt;jz vh;ad
 學長只能幫你到這兒了	xt;jz vh;ad vi;kb ng;sb bh;bf ni;re dk;dv ve;zy er;ej le;aa
 學院	xt;jz yr;ew
-學院祭	xt;jz yr;ew ji;ou
+學院祭	xt;jz yr;ew ji;uy
 學院警司	xt;jz yr;ew jy;yj si;gk
 學霸	xt;jz ba;yo
 學霸必勝咒語	xt;jz ba;yo bi;dd ug;ol vb;kj yu;yw
@@ -28343,7 +28343,7 @@ use_preset_vocabulary: false
 封神演義	fg;cg uf;uu yj;dy yi;yw
 封神英雄傳奇	fg;cg uf;uu yy;cy xs;vh ir;rv qi;dk
 封神鏡	fg;cg uf;uu jy;jj
-封祭的假面	fg;cg ji;ou de;bu jw;rj mm;aa
+封祭的假面	fg;cg ji;uy de;bu jw;rj mm;aa
 封禁	fg;cg jn;ul
 封絕	fg;cg jt;sb
 封緘之都古拉塞斯塔	fg;cg jm;sx vi;dd db;ev gu;uk la;fl sl;tb si;jq ta;td
@@ -28766,7 +28766,7 @@ use_preset_vocabulary: false
 小型打磨機	xc;ad xy;tx da;fd mo;mu ji;mj
 小型挖掘機	xc;ad xy;tx wa;fw jt;fq ji;mj
 小型挖溝機	xc;ad xy;tx wa;fw gb;dg ji;mj
-小型東方樂祭	xc;ad xy;tx ds;ad fh;dg le;bm ji;ou
+小型東方樂祭	xc;ad xy;tx ds;ad fh;dg le;bm ji;uy
 小型油壓破碎機	xc;ad xy;tx yb;dy ya;ty po;up sv;uz ji;mj
 小型活動劇情	xc;ad xy;tx ho;du ds;lv ju;dj qy;xq
 小型液壓破碎機	xc;ad xy;tx ye;dy ya;ty po;up sv;uz ji;mj
@@ -28910,7 +28910,7 @@ use_preset_vocabulary: false
 小小的歌聲	xc;ad xc;ad de;bu ge;qg ug;eq
 小小的獨佔欲	xc;ad xc;ad de;bu du;qi vj;rv yu;gq
 小小的祈願	xc;ad xc;ad de;bu qi;uj yr;yy
-小小的祝祭	xc;ad xc;ad de;bu vu;ux ji;ou
+小小的祝祭	xc;ad xc;ad de;bu vu;ux ji;uy
 小小的蛹身在繭中	xc;ad xc;ad de;bu ys;iy uf;pp zl;ta jm;ci vs;aa
 小小的誓言	xc;ad xc;ad de;bu ui;yv yj;da
 小小的輕飄飄	xc;ad xc;ad de;bu qy;ig pc;fp pc;fp
@@ -29416,7 +29416,7 @@ use_preset_vocabulary: false
 小祈	xc;ad qi;uj
 小神晶	xc;ad uf;uu jy;oo
 小神龍俱樂部	xc;ad uf;uu ls;dg ju;rj le;bm bu;ek
-小祭	xc;ad ji;ou
+小祭	xc;ad ji;uy
 小祿心	xc;ad lu;ul xn;dd
 小福	xc;ad fu;uf
 小福蛋娘	xc;ad fu;uf dj;ip nd;nl
@@ -29629,7 +29629,7 @@ use_preset_vocabulary: false
 小連殺	xc;ad lm;zi ua;uu
 小連翹	xc;ad lm;zi qc;yy
 小道消息	xc;ad dk;zu xc;dx xi;xz
-小道里的牲祭	xc;ad dk;zu li;aa de;bu ug;nu ji;ou
+小道里的牲祭	xc;ad dk;zu li;aa de;bu ug;nu ji;uy
 小達	xc;ad da;zy
 小達比	xc;ad da;zy bi;bb
 小遙	xc;ad yk;zf
@@ -30265,7 +30265,7 @@ use_preset_vocabulary: false
 尼亞克斯	ni;ub ya;aa ke;eg si;jq
 尼亞和諾亞	ni;ub ya;aa he;hk no;yr ya;aa
 尼克	ni;ub ke;eg
-尼克司祭	ni;ub ke;eg si;gk ji;ou
+尼克司祭	ni;ub ke;eg si;gk ji;uy
 尼克尾形	ni;ub ke;eg wz;um xy;pk
 尼克弗瑞	ni;ub ke;eg fu;aa rv;we
 尼克楊問號	ni;ub ke;eg yh;my wf;km hk;hh
@@ -30574,7 +30574,7 @@ use_preset_vocabulary: false
 山中故事	uj;aa vs;aa gu;wg ui;aa
 山中歷	uj;aa vs;aa li;iv
 山中真尋	uj;aa vs;aa vf;uj xp;ck
-山中祭	uj;aa vs;aa ji;ou
+山中祭	uj;aa vs;aa ji;uy
 山乃坂上薔薇子	uj;aa nl;pg bj;tf uh;aa qd;ch wz;cw zi;aa
 山乃檸檬	uj;aa nl;pg ny;mn mg;mm
 山之件	uj;aa vi;dd jm;rn
@@ -32091,7 +32091,7 @@ use_preset_vocabulary: false
 布娃娃	bu;ju wa;ng wa;ng
 布娃娃之歌	bu;ju wa;ng wa;ng vi;dd ge;qg
 布子	bu;ju zi;aa
-布巴斯提斯神祭	bu;ju ba;ag si;jq ti;fu si;jq uf;uu ji;ou
+布巴斯提斯神祭	bu;ju ba;ag si;jq ti;fu si;jq uf;uu ji;uy
 布布布丁	bu;ju bu;ju bu;ju dy;aa
 布布種子	bu;ju bu;ju vs;hv zi;aa
 布布路	bu;ju bu;ju lu;zg
@@ -34977,13 +34977,13 @@ use_preset_vocabulary: false
 律者	lv;xy ve;lo
 律花	lv;xy hw;ch
 律隊	lv;xy dv;eu
-後之祭	hb;xw vi;dd ji;ou
+後之祭	hb;xw vi;dd ji;uy
 後付	hb;xw fu;rc
 後勤支援	hb;xw qn;lj vi;uy yr;fy
 後啓示錄	hb;xw qi;kw ui;ex lu;jl
 後坐力斬	hb;xw zo;tc li;gp vj;ij
 後夜	hb;xw ye;wd
-後夜祭	hb;xw ye;wd ji;ou
+後夜祭	hb;xw ye;wd ji;uy
 後宅	hb;xw vl;bq
 後室	hb;xw ui;bv
 後宮	hb;xw gs;bl
@@ -35830,7 +35830,7 @@ use_preset_vocabulary: false
 心的體能鍛鍊	xn;dd de;bu ti;gd ng;sb dr;jd lm;jj
 心眼	xn;dd yj;og
 心眼之矛	xn;dd yj;og vi;dd mk;sp
-心眼之祭殿	xn;dd yj;og vi;dd ji;ou dm;ug
+心眼之祭殿	xn;dd yj;og vi;dd ji;uy dm;ug
 心碎燒酒	xn;dd sv;uz uk;hy jq;dy
 心碎藍調	xn;dd sv;uz lj;cj dc;yv
 心碎頭條	xn;dd sv;uz tb;dy tc;rt
@@ -37482,7 +37482,7 @@ use_preset_vocabulary: false
 愛耶芙	ai;vw ye;ee fu;cf
 愛能做到的還有什麼	ai;vw ng;sb zo;rg dk;dv de;bu hl;zh yb;ou uf;ru me;my
 愛與勇氣與哲學	ai;vw yu;ba ys;ly qi;qm yu;ba ve;kv xt;jz
-愛與和平的聖夜祭	ai;vw yu;ba he;hk py;aa de;bu ug;ew ye;wd ji;ou
+愛與和平的聖夜祭	ai;vw yu;ba he;hk py;aa de;bu ug;ew ye;wd ji;uy
 愛與恨的世界	ai;vw yu;ba hf;xg de;bu ui;ca jx;tj
 愛與感謝	ai;vw yu;ba gj;xx xx;yu
 愛與演唱會	ai;vw yu;ba yj;dy ih;ki hv;ro
@@ -38319,7 +38319,7 @@ use_preset_vocabulary: false
 成語新解	ig;gg yu;yw xn;jq jx;jn
 成都	ig;gg du;ev
 成都分貝塊文化傳播有限公司	ig;gg du;ev ff;bd bz;ad ky;tg wf;wi hw;rb ir;rv bo;ff yb;ou xm;eg gs;sb si;gk
-成都同人祭	ig;gg du;ev ts;kk rf;pd ji;ou
+成都同人祭	ig;gg du;ev ts;kk rf;pd ji;uy
 成都城	ig;gg du;ev ig;ti
 成都娜	ig;gg du;ev na;nn
 成都市	ig;gg du;ev ui;wj
@@ -39357,7 +39357,7 @@ use_preset_vocabulary: false
 戰機世界	vj;gd ji;mj ui;ca jx;tj
 戰機少女	vj;gd ji;mj uk;xp nv;aa
 戰歌	vj;gd ge;qg
-戰歌祭司	vj;gd ge;qg ji;ou si;gk
+戰歌祭司	vj;gd ge;qg ji;uy si;gk
 戰歌起	vj;gd ge;qg qi;zj
 戰火下的小花	vj;gd ho;dd xw;ab de;bu xc;ad hw;ch
 戰火中的燈火	vj;gd ho;dd vs;aa de;bu dg;hd ho;dd
@@ -41891,7 +41891,7 @@ use_preset_vocabulary: false
 文化	wf;wi hw;rb
 文化傳媒有限公司	wf;wi hw;rb ir;rv mz;nm yb;ou xm;eg gs;sb si;gk
 文化傳播有限公司	wf;wi hw;rb ir;rv bo;ff yb;ou xm;eg gs;sb si;gk
-文化祭	wf;wi hw;rb ji;ou
+文化祭	wf;wi hw;rb ji;uy
 文友贊	wf;wi yb;yu zj;bx
 文和亂武	wf;wi he;hk lr;gy wu;vy
 文圖拉灣	wf;wi tu;kh la;fl wj;dg
@@ -42764,7 +42764,7 @@ use_preset_vocabulary: false
 旅行	lv;fp xy;xd
 旅行三大欲求	lv;fp xy;xd sj;aa da;ad yu;gq qq;ad
 旅行日記	lv;fp xy;xd ri;aa ji;yj
-旅行祭司寶拉	lv;fp xy;xd ji;ou si;gk bk;bb la;fl
+旅行祭司寶拉	lv;fp xy;xd ji;uy si;gk bk;bb la;fl
 旅行者	lv;fp xy;xd ve;lo
 旅行者之歌	lv;fp xy;xd ve;lo vi;dd ge;qg
 旅行者的血親	lv;fp xy;xd ve;lo de;bu xt;pa qn;jq
@@ -44229,14 +44229,14 @@ use_preset_vocabulary: false
 映巷鄉	yy;oy xd;gs xd;el
 映月城與電子姬	yy;oy yt;oy ig;ti yu;ba dm;yd zi;aa ji;ni
 映畫	yy;oy hw;ya
-昡祭冥司	xr;ox ji;ou my;bl si;gk
+昡祭冥司	xr;ox ji;uy my;bl si;gk
 春上衿衣	ip;of uh;aa jn;yj yi;dd
 春乃伊呂波	ip;of nl;pg yi;ry lv;kk bo;dp
 春乃彩葉	ip;of nl;pg cl;pc ye;cm
 春之夜	ip;of vi;dd ye;wd
 春之島嶼	ip;of vi;dd dk;nu yu;uy
 春之拼圖	ip;of vi;dd pn;fb tu;kh
-春之祭	ip;of vi;dd ji;ou
+春之祭	ip;of vi;dd ji;uy
 春之聲	ip;of vi;dd ug;eq
 春之遙	ip;of vi;dd yk;zf
 春也	ip;of ye;gg
@@ -45143,8 +45143,8 @@ use_preset_vocabulary: false
 暗田留	an;oy tm;aa lq;td
 暗的來訪	an;oy de;bu ll;ad fh;yf
 暗瞳	an;oy ts;ot
-暗祭	an;oy ji;ou
-暗祭司貝爾蒂納特	an;oy ji;ou si;gk bz;ad er;ay di;cd na;sn te;ns
+暗祭	an;oy ji;uy
+暗祭司貝爾蒂納特	an;oy ji;uy si;gk bz;ad er;ay di;cd na;sn te;ns
 暗箱	an;oy xd;vx
 暗精靈	an;oy jy;mq ly;wl
 暗紅升龍	an;oy hs;sg ug;pc ls;dg
@@ -45911,7 +45911,7 @@ use_preset_vocabulary: false
 月下戲言	yt;oy xw;ab xi;gd yj;da
 月下斬魔之花	yt;oy xw;ab vj;ij mo;gm vi;dd hw;ch
 月下殘響	yt;oy xw;ab cj;dj xd;yx
-月下祭	yt;oy xw;ab ji;ou
+月下祭	yt;oy xw;ab ji;uy
 月下美人	yt;oy xw;ab mz;dy rf;pd
 月下美刃	yt;oy xw;ab mz;dy rf;dd
 月下花開夜笙歌	yt;oy xw;ab hw;ch kl;mk ye;wd ug;vu ge;qg
@@ -46948,7 +46948,7 @@ use_preset_vocabulary: false
 未來世界	wz;ex ll;ad ui;ca jx;tj
 未來世紀的金髮巫女	wz;ex ll;ad ui;ca ji;sj de;bu jn;ra fa;ib wu;gc nv;aa
 未來之境	wz;ex ll;ad vi;dd jy;tj
-未來之日大感謝祭	wz;ex ll;ad vi;dd ri;aa da;ad gj;xx xx;yu ji;ou
+未來之日大感謝祭	wz;ex ll;ad vi;dd ri;aa da;ad gj;xx xx;yu ji;uy
 未來之星	wz;ex ll;ad vi;dd xy;ou
 未來之色的蒲公英	wz;ex ll;ad vi;dd se;db de;bu pu;cp gs;sb yy;cy
 未來人	wz;ex ll;ad rf;pd
@@ -48090,21 +48090,21 @@ use_preset_vocabulary: false
 東方剛欲異聞	ds;ad fh;dg gh;dg yu;gq yi;tg wf;em
 東方劍	ds;ad fh;dg jm;dq
 東方加農炮彈	ds;ad fh;dg jw;lk ns;qi pk;hb dj;gd
-東方北陸祭	ds;ad fh;dg bz;ap lu;et ji;ou
+東方北陸祭	ds;ad fh;dg bz;ap lu;et ji;uy
 東方千夜帖	ds;ad fh;dg qm;pa ye;wd tx;jv
 東方千幻抄	ds;ad fh;dg qm;pa hr;yg ik;fu
 東方合同動畫企劃	ds;ad fh;dg he;rk ts;kk ds;lv hw;ya qi;rv hw;dh
 東方合同動畫企畫	ds;ad fh;dg he;rk ts;kk ds;lv hw;ya qi;rv hw;ya
 東方同人堂	ds;ad fh;dg ts;kk rf;pd th;tk
 東方名異錄	ds;ad fh;dg my;xk yi;tg lu;jl
-東方名華祭	ds;ad fh;dg my;xk hw;ca ji;ou
+東方名華祭	ds;ad fh;dg my;xk hw;ca ji;uy
 東方咒術泡泡	ds;ad fh;dg vb;kj uu;xi pk;db pk;db
 東方地靈殿	ds;ad fh;dg di;ty ly;wl dm;ug
-東方夏夜祭	ds;ad fh;dg xw;wz ye;wd ji;ou
+東方夏夜祭	ds;ad fh;dg xw;wz ye;wd ji;uy
 東方夏淫夢	ds;ad fh;dg xw;wz yn;dr mg;cx
 東方外來韋編	ds;ad fh;dg wl;xb ll;ad wz;aa bm;sb
 東方外來韋編網絡版	ds;ad fh;dg wl;xb ll;ad wz;aa bm;sb wh;sw lo;sg bj;pf
-東方多宴祭	ds;ad fh;dg do;xx yj;bn ji;ou
+東方多宴祭	ds;ad fh;dg do;xx yj;bn ji;uy
 東方夜神雪	ds;ad fh;dg ye;wd uf;uu xt;yx
 東方夜雀食堂	ds;ad fh;dg ye;wd qt;vx ui;pd th;tk
 東方夢工廠	ds;ad fh;dg mg;cx gs;aa ih;gi
@@ -48135,7 +48135,7 @@ use_preset_vocabulary: false
 東方常助	ds;ad fh;dg ih;jk vu;lq
 東方常敏	ds;ad fh;dg ih;jk mn;wm
 東方常秀	ds;ad fh;dg ih;jk xq;hn
-東方幕華祭	ds;ad fh;dg mu;jm hw;ca ji;ou
+東方幕華祭	ds;ad fh;dg mu;jm hw;ca ji;uy
 東方年代記	ds;ad fh;dg nm;pa dl;ry ji;yj
 東方幻仙鄉	ds;ad fh;dg hr;yg xm;ru xd;el
 東方幻夢箋	ds;ad fh;dg hr;yg mg;cx jm;vj
@@ -48178,8 +48178,8 @@ use_preset_vocabulary: false
 東方桃源宮製作組	ds;ad fh;dg tk;mv yr;dy gs;bl vi;yv zo;rv zu;sq
 東方桅子	ds;ad fh;dg wz;mw zi;aa
 東方梔子	ds;ad fh;dg vi;mb zi;aa
-東方樂祭	ds;ad fh;dg le;bm ji;ou
-東方樂祭準備會	ds;ad fh;dg le;bm ji;ou vp;uh bz;ry hv;ro
+東方樂祭	ds;ad fh;dg le;bm ji;uy
+東方樂祭準備會	ds;ad fh;dg le;bm ji;uy vp;uh bz;ry hv;ro
 東方歸言錄	ds;ad fh;dg gv;vj yj;da lu;jl
 東方殺	ds;ad fh;dg ua;uu
 東方永夜抄	ds;ad fh;dg ys;dd ye;wd ik;fu
@@ -48204,7 +48204,7 @@ use_preset_vocabulary: false
 東方真珠島	ds;ad fh;dg vf;uj vu;wv dk;nu
 東方祈華夢	ds;ad fh;dg qi;uj hw;ca mg;cx
 東方神娃	ds;ad fh;dg uf;uu wa;ng
-東方神居祭	ds;ad fh;dg uf;uu ju;ug ji;ou
+東方神居祭	ds;ad fh;dg uf;uu ju;ug ji;uy
 東方神靈廟	ds;ad fh;dg uf;uu ly;wl mc;gi
 東方箱庭解謎	ds;ad fh;dg xd;vx ty;gt jx;jn mi;ym
 東方節日	ds;ad fh;dg jx;vj ri;aa
@@ -48215,9 +48215,9 @@ use_preset_vocabulary: false
 東方紫香花	ds;ad fh;dg zi;sc xd;ho hw;ch
 東方紺珠傳	ds;ad fh;dg gj;sg vu;wv ir;rv
 東方絢文祿	ds;ad fh;dg xr;sx wf;wi lu;ul
-東方絢櫻祭	ds;ad fh;dg xr;sx yy;my ji;ou
-東方絢櫻祭同好會	ds;ad fh;dg xr;sx yy;my ji;ou ts;kk hk;nz hv;ro
-東方絢櫻祭籌備委員會	ds;ad fh;dg xr;sx yy;my ji;ou ib;vu bz;ry wz;hn yr;kb hv;ro
+東方絢櫻祭	ds;ad fh;dg xr;sx yy;my ji;uy
+東方絢櫻祭同好會	ds;ad fh;dg xr;sx yy;my ji;uy ts;kk hk;nz hv;ro
+東方絢櫻祭籌備委員會	ds;ad fh;dg xr;sx yy;my ji;uy ib;vu bz;ry wz;hn yr;kb hv;ro
 東方綠壩異空錄	ds;ad fh;dg lv;sl ba;tb yi;tg ks;xg lu;jl
 東方緋想天	ds;ad fh;dg fz;sf xd;xx tm;ad
 東方舊作	ds;ad fh;dg jq;cj zo;rv
@@ -48248,7 +48248,7 @@ use_preset_vocabulary: false
 東方鈴奈庵	ds;ad fh;dg ly;jl nl;du an;gd
 東方鍵盤遊戲	ds;ad fh;dg jm;jj pj;mb yb;zy xi;gd
 東方鏡	ds;ad fh;dg jy;jj
-東方阿漕祭	ds;ad fh;dg aa;ek ck;dc ji;ou
+東方阿漕祭	ds;ad fh;dg aa;ek ck;dc ji;uy
 東方雪蓮華	ds;ad fh;dg xt;yx lm;cl hw;ca
 東方靈異傳	ds;ad fh;dg ly;wl yi;tg ir;rv
 東方靈靈夢	ds;ad fh;dg ly;wl ly;wl mg;cx
@@ -48880,7 +48880,7 @@ use_preset_vocabulary: false
 柊磁鐵	vs;md ci;uz tx;jg
 柊祀	vs;md si;us
 柊祈	vs;md qi;uj
-柊祭	vs;md ji;ou
+柊祭	vs;md ji;uy
 柊筱婭	vs;md xc;vw ya;ny
 柊紡木	vs;md fh;sf mu;ad
 柊紬希	vs;md ib;sy xi;ju
@@ -49346,7 +49346,7 @@ use_preset_vocabulary: false
 校慶上的熱情款待	xc;mj qy;gw uh;aa de;bu re;dv qy;xq kr;qu dl;xs
 校服	xc;mj fu;oy
 校服敞開	xc;mj fu;oy ih;wu kl;mk
-校條祭	xc;mj tc;rt ji;ou
+校條祭	xc;mj tc;rt ji;uy
 校歌	xc;mj ge;qg
 校歌齊唱	xc;mj ge;qg qi;we ih;ki
 校舍的後方埋藏着天使	xc;mj ue;ru de;bu hb;xw fh;dg ml;tl ch;cg ve;yo tm;ad ui;rl
@@ -49479,7 +49479,7 @@ use_preset_vocabulary: false
 格林達姆	ge;mg ln;mm da;zy mu;nm
 格林達姆短篇	ge;mg ln;mm da;zy mu;nm dr;ud pm;vb
 格林達姆與蒼色童話	ge;mg ln;mm da;zy mu;nm yu;ba ch;cc se;db ts;ll hw;yu
-格林達姆週年祭小動畫	ge;mg ln;mm da;zy mu;nm vb;zv nm;pa ji;ou xc;ad ds;lv hw;ya
+格林達姆週年祭小動畫	ge;mg ln;mm da;zy mu;nm vb;zv nm;pa ji;uy xc;ad ds;lv hw;ya
 格桑拉姆	ge;mg sh;mr la;fl mu;nm
 格洛斯	ge;mg lo;dg si;jq
 格洛瑞	ge;mg lo;dg rv;we
@@ -50902,8 +50902,8 @@ use_preset_vocabulary: false
 榮術翔子	rs;hm uu;xi xd;yy zi;aa
 榮譽勳章	rs;hm yu;jy xp;ld vh;lz
 榮譽在我心	rs;hm yu;jy zl;ta wo;pd xn;dd
-榮譽的祭品	rs;hm yu;jy de;bu ji;ou pn;kk
-榮譽的祭牲	rs;hm yu;jy de;bu ji;ou ug;nu
+榮譽的祭品	rs;hm yu;jy de;bu ji;uy pn;kk
+榮譽的祭牲	rs;hm yu;jy de;bu ji;uy ug;nu
 榮進閃耀	rs;hm jn;zv uj;mr yk;gd
 榴彈	lq;ml dj;gd
 榴彈炮	lq;ml dj;gd pk;hb
@@ -51489,7 +51489,7 @@ use_preset_vocabulary: false
 機殼守護神	ji;mj ke;uj ub;bc hu;yh uf;uu
 機殼的再星	ji;mj ke;uj de;bu zl;aa xy;ou
 機殼的凍結	ji;mj ke;uj de;bu ds;dd jx;sj
-機殼的牲祭	ji;mj ke;uj de;bu ug;nu ji;ou
+機殼的牲祭	ji;mj ke;uj de;bu ug;nu ji;uy
 機殼的要塞	ji;mj ke;uj de;bu yk;xn sl;tb
 機殼靈	ji;mj ke;uj ly;wl
 機炮食屍鬼	ji;mj pk;hb ui;pd ui;us gv;pd
@@ -51916,7 +51916,7 @@ use_preset_vocabulary: false
 櫻花樹下我和你	yy;my hw;ch uu;mc xw;ab wo;pd he;hk ni;re
 櫻花櫻花想見你	yy;my hw;ch yy;my hw;ch xd;xx jm;me ni;re
 櫻花爛漫羅曼史	yy;my hw;ch lj;hj mj;dm lo;sv mj;oy ui;ad
-櫻花爛漫開學祭	yy;my hw;ch lj;hj mj;dm kl;mk xt;jz ji;ou
+櫻花爛漫開學祭	yy;my hw;ch lj;hj mj;dm kl;mk xt;jz ji;uy
 櫻花片落戀模樣	yy;my hw;ch pm;pa lo;cl lm;xs mu;mm yh;my
 櫻花特攻姬	yy;my hw;ch te;ns gs;gw ji;ni
 櫻花的告白	yy;my hw;ch de;bu gk;kn bl;pa
@@ -56192,7 +56192,7 @@ use_preset_vocabulary: false
 海特兒	hl;dm te;ns er;ej
 海獸之子	hl;dm ub;qu vi;dd zi;aa
 海獸的孩子	hl;dm ub;qu de;bu hl;zh zi;aa
-海獸祭司	hl;dm ub;qu ji;ou si;gk
+海獸祭司	hl;dm ub;qu ji;uy si;gk
 海獸魚	hl;dm ub;qu yu;dd
 海王子	hl;dm wh;aa zi;aa
 海王星	hl;dm wh;aa xy;ou
@@ -57022,7 +57022,7 @@ use_preset_vocabulary: false
 清明上河圖	qy;dq my;oo uh;aa he;dk tu;kh
 清明夢	qy;dq my;oo mg;cx
 清明時節雨紛紛	qy;dq my;oo ui;os jx;vj yu;ad ff;sf ff;sf
-清明櫻花祭	qy;dq my;oo yy;my hw;ch ji;ou
+清明櫻花祭	qy;dq my;oo yy;my hw;ch ji;uy
 清明節的鬼很萌	qy;dq my;oo jx;vj de;bu gv;pd hf;xg mg;cm
 清條院靜姬	qy;dq tc;rt yr;ew jy;qv ji;ni
 清楚	qy;dq iu;mp
@@ -59529,7 +59529,7 @@ use_preset_vocabulary: false
 無色煙火	wu;rh se;db yj;ht ho;dd
 無色盟	wu;rh se;db mg;mm
 無色輝火	wu;rh se;db hv;gj ho;dd
-無色透名祭	wu;rh se;db tb;zx my;xk ji;ou
+無色透名祭	wu;rh se;db tb;zx my;xk ji;uy
 無花果美命	wu;rh hw;ch go;ad mz;dy my;re
 無花的薔薇	wu;rh hw;ch de;bu qd;ch wz;cw
 無衣	wu;rh yi;dd
@@ -59604,7 +59604,7 @@ use_preset_vocabulary: false
 無限彈藥	wu;rh xm;eg dj;gd yk;cl
 無限循環	wu;rh xm;eg xp;xd hr;wh
 無限循環的八月	wu;rh xm;eg xp;xd hr;wh de;bu ba;pd yt;oy
-無限循環祭	wu;rh xm;eg xp;xd hr;wh ji;ou
+無限循環祭	wu;rh xm;eg xp;xd hr;wh ji;uy
 無限恐怖	wu;rh xm;eg ks;xg bu;xb
 無限打字理論	wu;rh xm;eg da;fd zi;bz li;wl lp;yl
 無限斯特拉託斯	wu;rh xm;eg si;jq te;ns la;fl to;yq si;jq
@@ -59942,7 +59942,7 @@ use_preset_vocabulary: false
 熱帶雨林的爆笑生活	re;dv dl;jb yu;ad ln;mm de;bu bk;hb xc;vy ug;na ho;du
 熱度	re;dv du;gy
 熱心	re;dv xn;dd
-熱心司祭瑪莉娜	re;dv xn;dd si;gk ji;ou ma;wm li;cl na;nn
+熱心司祭瑪莉娜	re;dv xn;dd si;gk ji;uy ma;wm li;cl na;nn
 熱心市民金先生	re;dv xn;dd ui;wj mn;ag jn;ra xm;ne ug;na
 熱心治癒者瑪莉娜	re;dv xn;dd vi;dt yu;by ve;lo ma;wm li;cl na;nn
 熱心的樵夫	re;dv xn;dd de;bu qc;mj fu;ad
@@ -60670,10 +60670,10 @@ use_preset_vocabulary: false
 物體複製	wu;nw ti;gd fu;yf vi;yv
 物體透明化	wu;nw ti;gd tb;zx my;oo hw;rb
 物體顯形	wu;nw ti;gd xm;ys xy;pk
-牲祭人偶	ug;nu ji;ou rf;pd ou;ry
-牲祭封印之假面	ug;nu ji;ou fg;cg yn;ey vi;dd jw;rj mm;aa
-牲祭懷抱的爆彈	ug;nu ji;ou hy;xh bk;fb de;bu bk;hb dj;gd
-牲祭的祭壇	ug;nu ji;ou de;bu ji;ou tj;td
+牲祭人偶	ug;nu ji;uy rf;pd ou;ry
+牲祭封印之假面	ug;nu ji;uy fg;cg yn;ey vi;dd jw;rj mm;aa
+牲祭懷抱的爆彈	ug;nu ji;uy hy;xh bk;fb de;bu bk;hb dj;gd
+牲祭的祭壇	ug;nu ji;uy de;bu ji;uy tj;td
 特七	te;ns qi;ag
 特二式內火艇	te;ns er;aa ui;gy nz;kr ho;dd ty;vt
 特供版	te;ns gs;rg bj;pf
@@ -61581,8 +61581,8 @@ use_preset_vocabulary: false
 獸魔導	ub;qu mo;gm dk;cd
 獻出心臟	xm;qg iu;ck xn;dd zh;oc
 獻唱舞臺	xm;qg ih;ki wu;rf tl;uv
-獻祭之劍	xm;qg ji;ou vi;dd jm;dq
-獻祭流	xm;qg ji;ou lq;di
+獻祭之劍	xm;qg ji;uy vi;dd jm;dq
+獻祭流	xm;qg ji;uy lq;di
 獻給世界上最努力的你	xm;qg gz;sh ui;ca jx;tj uh;aa zv;oq nu;ln li;gp de;bu ni;re
 獻給今天沒有去死而仍在努力的你	xm;qg gz;sh jn;ra tm;ad mz;du yb;ou qu;ts si;db er;aa rg;rn zl;ta nu;ln li;gp de;bu ni;re
 獻給你愛的魔法	xm;qg gz;sh ni;re ai;vw de;bu mo;gm fa;dq
@@ -61823,7 +61823,7 @@ use_preset_vocabulary: false
 王宮的陷落	wh;aa gs;bl de;bu xm;ej lo;cl
 王家守衛	wh;aa jw;bu ub;bc wz;xi
 王家的守護者	wh;aa jw;bu de;bu ub;bc hu;yh ve;lo
-王家的牲祭	wh;aa jw;bu de;bu ug;nu ji;ou
+王家的牲祭	wh;aa jw;bu de;bu ug;nu ji;uy
 王家的神殿	wh;aa jw;bu de;bu uf;uu dm;ug
 王家的詛咒	wh;aa jw;bu de;bu zu;yq vb;kj
 王家的財寶	wh;aa jw;bu de;bu cl;bc bk;bb
@@ -61831,7 +61831,7 @@ use_preset_vocabulary: false
 王家長眠之谷的玉座	wh;aa jw;bu vh;ad mm;om vi;dd gu;bk de;bu yu;ad zo;gz
 王家長眠之谷的王墓	wh;aa jw;bu vh;ad mm;om vi;dd gu;bk de;bu wh;aa mu;tm
 王家長眠之谷的神殿	wh;aa jw;bu vh;ad mm;om vi;dd gu;bk de;bu uf;uu dm;ug
-王家長眠之谷的祭殿	wh;aa jw;bu vh;ad mm;om vi;dd gu;bk de;bu ji;ou dm;ug
+王家長眠之谷的祭殿	wh;aa jw;bu vh;ad mm;om vi;dd gu;bk de;bu ji;uy dm;ug
 王家麒	wh;aa jw;bu qi;lq
 王富貴	wh;aa fu;bf gv;bg
 王寧	wh;aa ny;bd
@@ -62979,7 +62979,7 @@ use_preset_vocabulary: false
 環凜子	hr;wh ln;db zi;aa
 環古達	hr;wh gu;uk da;zy
 環右金	hr;wh yb;ku jn;ra
-環夏色祭圈	hr;wh xw;wz se;db ji;ou qr;kj
+環夏色祭圈	hr;wh xw;wz se;db ji;uy qr;kj
 環太平洋	hr;wh tl;dd py;aa yh;dy
 環太平洋戰爭	hr;wh tl;dd py;aa yh;dy vj;gd vg;va
 環奈	hr;wh nl;du
@@ -63076,7 +63076,7 @@ use_preset_vocabulary: false
 瓦爾基魯斯之影靈衣	wa;ad er;ay ji;tq lu;yo si;jq vi;dd yy;pj ly;wl yi;dd
 瓦爾塔迪崔西	wa;ad er;ay ta;td di;zy cv;uv xi;aa
 瓦爾普吉斯之夜	wa;ad er;ay pu;ob ji;ku si;jq vi;dd ye;wd
-瓦爾普吉斯的火祭	wa;ad er;ay pu;ob ji;ku si;jq de;bu ho;dd ji;ou
+瓦爾普吉斯的火祭	wa;ad er;ay pu;ob ji;ku si;jq de;bu ho;dd ji;uy
 瓦爾特	wa;ad er;ay te;ns
 瓦爾特喬伊斯	wa;ad er;ay te;ns qc;ph yi;ry si;jq
 瓦爾特堡	wa;ad er;ay te;ns bk;tb
@@ -63153,7 +63153,7 @@ use_preset_vocabulary: false
 甘甜病症	gj;aa tm;ug by;bb vg;bv
 甘神夕奈	gj;aa uf;uu xi;pd nl;du
 甘神夜重	gj;aa uf;uu ye;wd vs;pa
-甘神大人的糖漿戀祭	gj;aa uf;uu da;ad rf;pd de;bu th;mt jd;uj lm;xs ji;ou
+甘神大人的糖漿戀祭	gj;aa uf;uu da;ad rf;pd de;bu th;mt jd;uj lm;xs ji;uy
 甘神家的連理枝	gj;aa uf;uu jw;bu de;bu lm;zi li;wl vi;mv
 甘神朝姬	gj;aa uf;uu ik;ou ji;ni
 甘粕	gj;aa po;mb
@@ -65336,7 +65336,7 @@ use_preset_vocabulary: false
 百鬼幼兒園	bl;ab gv;pd yb;ly er;ej yr;ky
 百鬼惜	bl;ab gv;pd xi;xx
 百鬼櫻花	bl;ab gv;pd yy;my hw;ch
-百鬼祭	bl;ab gv;pd ji;ou
+百鬼祭	bl;ab gv;pd ji;uy
 百鬼綾目	bl;ab gv;pd ly;sl mu;aa
 百鬼繪卷	bl;ab gv;pd hv;sh jr;ef
 百鳥參臨	bl;ab nc;pd cj;sp ln;ik
@@ -65983,7 +65983,7 @@ use_preset_vocabulary: false
 相田愛	xd;mo tm;aa ai;vw
 相田瑪娜	xd;mo tm;aa ma;wm na;nn
 相田裕也	xd;mo tm;aa yu;yg ye;gg
-相約七夜祭	xd;mo yt;su qi;ag ye;wd ji;ou
+相約七夜祭	xd;mo yt;su qi;ag ye;wd ji;uy
 相羽亞衣奈	xd;mo yu;xx ya;aa yi;dd nl;du
 相羽初葉	xd;mo yu;xx iu;yd ye;cm
 相羽愛奈	xd;mo yu;xx ai;vw nl;du
@@ -66446,7 +66446,7 @@ use_preset_vocabulary: false
 眷思量	jr;of si;tx ld;ol
 眷戀你的溫柔	jr;of lm;xs ni;re de;bu wf;dm rb;mm
 眷族編年史	jr;of zu;fu bm;sb nm;pa ui;ad
-眸夜祭歌	mb;om ye;wd ji;ou ge;qg
+眸夜祭歌	mb;om ye;wd ji;uy ge;qg
 眺星瞳	tc;ov xy;ou ts;ot
 眺望翠雨	tc;ov wh;wo cv;yz yu;ad
 眼中	yj;og vs;aa
@@ -67772,7 +67772,7 @@ use_preset_vocabulary: false
 神山飛羽真	uf;uu uj;aa fz;ff yu;xx vf;uj
 神山高中	uf;uu uj;aa gk;wk vs;aa
 神山高校	uf;uu uj;aa gk;wk xc;mj
-神山高校文化祭	uf;uu uj;aa gk;wk xc;mj wf;wi hw;rb ji;ou
+神山高校文化祭	uf;uu uj;aa gk;wk xc;mj wf;wi hw;rb ji;uy
 神峯燈	uf;uu fg;uf dg;hd
 神峯牡丹	uf;uu fg;uf mu;nt dj;pd
 神島風太	uf;uu dk;nu fg;ji tl;dd
@@ -68062,7 +68062,7 @@ use_preset_vocabulary: false
 神祕的術士查理	uf;uu mi;ub de;bu uu;xi ui;aa ia;md li;wl
 神祕磁帶	uf;uu mi;ub ci;uz dl;jb
 神祕礦山區域	uf;uu mi;ub kd;ug uj;aa qu;kp yu;th
-神祕祭壇	uf;uu mi;ub ji;ou tj;td
+神祕祭壇	uf;uu mi;ub ji;uy tj;td
 神祕聖人	uf;uu mi;ub ug;ew rf;pd
 神祕花園	uf;uu mi;ub hw;ch yr;ky
 神祕蛋	uf;uu mi;ub dj;ip
@@ -68248,28 +68248,28 @@ use_preset_vocabulary: false
 票房	pc;xu fh;hf
 票房炸彈	pc;xu fh;hf va;hv dj;gd
 票根	pc;xu gf;mg
-祭典	ji;ou dm;ba
-祭典之詩	ji;ou dm;ba vi;dd ui;ys
-祭典旋律	ji;ou dm;ba xr;fp lv;xy
-祭司	ji;ou si;gk
-祭品	ji;ou pn;kk
-祭品之力	ji;ou pn;kk vi;dd li;gp
-祭品公主與獸之王	ji;ou pn;kk gs;sb vu;dw yu;ba ub;qu vi;dd wh;aa
-祭品公主菲娜的冒險	ji;ou pn;kk gs;sb vu;dw fz;cf na;nn de;bu mk;oo xm;eq
-祭品懷抱的炸彈	ji;ou pn;kk hy;xh bk;fb de;bu va;hv dj;gd
-祭品的困境	ji;ou pn;kk de;bu kp;km jy;tj
-祭品的祭壇	ji;ou pn;kk de;bu ji;ou tj;td
-祭夜繪卷	ji;ou ye;wd hv;sh jr;ef
-祭奠之歌	ji;ou dm;dq vi;dd ge;qg
-祭子	ji;ou zi;aa
-祭彌賽亞	ji;ou mi;ge sl;bb ya;aa
-祭文	ji;ou wf;wi
-祭汪會	ji;ou wh;dw hv;ro
-祭矢津	ji;ou ui;pd jn;dy
-祭神雷	ji;ou uf;uu lz;yt
-祭禮之蛇	ji;ou li;ud vi;dd ue;it
-祭花	ji;ou hw;ch
-祭茉莉花	ji;ou mo;cm li;cl hw;ch
+祭典	ji;uy dm;ba
+祭典之詩	ji;uy dm;ba vi;dd ui;ys
+祭典旋律	ji;uy dm;ba xr;fp lv;xy
+祭司	ji;uy si;gk
+祭品	ji;uy pn;kk
+祭品之力	ji;uy pn;kk vi;dd li;gp
+祭品公主與獸之王	ji;uy pn;kk gs;sb vu;dw yu;ba ub;qu vi;dd wh;aa
+祭品公主菲娜的冒險	ji;uy pn;kk gs;sb vu;dw fz;cf na;nn de;bu mk;oo xm;eq
+祭品懷抱的炸彈	ji;uy pn;kk hy;xh bk;fb de;bu va;hv dj;gd
+祭品的困境	ji;uy pn;kk de;bu kp;km jy;tj
+祭品的祭壇	ji;uy pn;kk de;bu ji;uy tj;td
+祭夜繪卷	ji;uy ye;wd hv;sh jr;ef
+祭奠之歌	ji;uy dm;dq vi;dd ge;qg
+祭子	ji;uy zi;aa
+祭彌賽亞	ji;uy mi;ge sl;bb ya;aa
+祭文	ji;uy wf;wi
+祭汪會	ji;uy wh;dw hv;ro
+祭矢津	ji;uy ui;pd jn;dy
+祭神雷	ji;uy uf;uu lz;yt
+祭禮之蛇	ji;uy li;ud vi;dd ue;it
+祭花	ji;uy hw;ch
+祭茉莉花	ji;uy mo;cm li;cl hw;ch
 禁區邊緣	jn;ul qu;kp bm;zf yr;st
 禁句	jn;ul ju;gk
 禁句能力	jn;ul ju;gk ng;sb li;gp
@@ -68359,7 +68359,7 @@ use_preset_vocabulary: false
 福岡城	fu;uf gh;ku ig;ti
 福岡娘	fu;uf gh;ku nd;nl
 福岡梅保志	fu;uf gh;ku mz;mm bk;rd vi;ux
-福岡祭	fu;uf gh;ku ji;ou
+福岡祭	fu;uf gh;ku ji;uy
 福岡縣	fu;uf gh;ku xm;xx
 福島	fu;uf dk;nu
 福島不適宜人居住	fu;uf dk;nu bu;ad ui;zd yi;bq rf;pd ju;ug vu;rv
@@ -68576,7 +68576,7 @@ use_preset_vocabulary: false
 秋子	qq;hh zi;aa
 秋季	qq;hh ji;hz
 秋季事件	qq;hh ji;hz ui;aa jm;rn
-秋季例大祭	qq;hh ji;hz li;rl da;ad ji;ou
+秋季例大祭	qq;hh ji;hz li;rl da;ad ji;uy
 秋季型柯妮	qq;hh ji;hz xy;tx ke;mk ni;nn
 秋季賽	qq;hh ji;hz sl;bb
 秋山優花裏	qq;hh uj;aa yb;rw hw;ch li;dy
@@ -69290,7 +69290,7 @@ use_preset_vocabulary: false
 空相交匯點下	ks;xg xd;mo jc;wf hv;kh dm;hv xw;ab
 空相面靈氣	ks;xg xd;mo mm;aa ly;wl qi;qm
 空知英秋	ks;xg vi;uk yy;cy qq;hh
-空祭	ks;xg ji;ou
+空祭	ks;xg ji;uy
 空種	ks;xg vs;hv
 空穗夏希	ks;xg sv;hh xw;wz xi;ju
 空空空虛之空	ks;xg ks;xg ks;xg xu;hy vi;dd ks;xg
@@ -69765,7 +69765,7 @@ use_preset_vocabulary: false
 笑容由我來守護	xc;vy rs;bg yb;aa wo;pd ll;ad ub;bc hu;yh
 笑容的代價	xc;vy rs;bg de;bu dl;ry jw;rj
 笑容的寶物	xc;vy rs;bg de;bu bk;bb wu;nw
-笑容的祭典	xc;vy rs;bg de;bu ji;ou dm;ba
+笑容的祭典	xc;vy rs;bg de;bu ji;uy dm;ba
 笑容的魔法	xc;vy rs;bg de;bu mo;gm fa;dq
 笑容管絃樂	xc;vy rs;bg gr;vg xm;sx yt;bm
 笑容逐漸消失	xc;vy rs;bg vu;zu jm;dv xc;dx ui;pf
@@ -69861,7 +69861,7 @@ use_preset_vocabulary: false
 第一型高文	di;vp yi;aa xy;tx gk;wk wf;wi
 第一女子中學	di;vp yi;aa nv;aa zi;aa vs;aa xt;jz
 第一季	di;vp yi;aa ji;hz
-第一屆創天綜合同人祭	di;vp yi;aa jx;uk id;dc tm;ad zs;sz he;rk ts;kk rf;pd ji;ou
+第一屆創天綜合同人祭	di;vp yi;aa jx;uk id;dc tm;ad zs;sz he;rk ts;kk rf;pd ji;uy
 第一序列	di;vp yi;aa xu;gy lx;dd
 第一彈	di;vp yi;aa dj;gd
 第一戰役	di;vp yi;aa vj;gd yi;xu
@@ -69919,7 +69919,7 @@ use_preset_vocabulary: false
 第三十六期	di;vp sj;aa ui;aa lq;wb qi;oq
 第三十四期	di;vp sj;aa ui;aa si;aa qi;oq
 第三十期	di;vp sj;aa ui;aa qi;oq
-第三屆創天綜合同人祭	di;vp sj;aa jx;uk id;dc tm;ad zs;sz he;rk ts;kk rf;pd ji;ou
+第三屆創天綜合同人祭	di;vp sj;aa jx;uk id;dc tm;ad zs;sz he;rk ts;kk rf;pd ji;uy
 第三年的見異思遷	di;vp sj;aa nm;pa de;bu jm;me yi;tg si;tx qm;zs
 第三心臟	di;vp sj;aa xn;dd zh;oc
 第三戰役	di;vp sj;aa vj;gd yi;xu
@@ -69988,7 +69988,7 @@ use_preset_vocabulary: false
 第二型馬洛斯	di;vp er;aa xy;tx ma;ad lo;dg si;jq
 第二型馬爾科	di;vp er;aa xy;tx ma;ad er;ay ke;hd
 第二季	di;vp er;aa ji;hz
-第二屆創天綜合同人祭	di;vp er;aa jx;uk id;dc tm;ad zs;sz he;rk ts;kk rf;pd ji;ou
+第二屆創天綜合同人祭	di;vp er;aa jx;uk id;dc tm;ad zs;sz he;rk ts;kk rf;pd ji;uy
 第二幕	di;vp er;aa mu;jm
 第二年吹奏樂部成員介紹	di;vp er;aa nm;pa iv;kq zb;ft yt;bm bu;ek ig;gg yr;kb jx;ra uk;sv
 第二戰役	di;vp er;aa vj;gd yi;xu
@@ -70076,7 +70076,7 @@ use_preset_vocabulary: false
 第十賽季	di;vp ui;aa sl;bb ji;hz
 第四代東方憲助	di;vp si;aa dl;ry ds;ad fh;dg xm;bx vu;lq
 第四天災流	di;vp si;aa tm;ad zl;hi lq;di
-第四屆創天綜合同人祭	di;vp si;aa jx;uk id;dc tm;ad zs;sz he;rk ts;kk rf;pd ji;ou
+第四屆創天綜合同人祭	di;vp si;aa jx;uk id;dc tm;ad zs;sz he;rk ts;kk rf;pd ji;uy
 第四戰役	di;vp si;aa vj;gd yi;xu
 第四期	di;vp si;aa qi;oq
 第四槐安通路	di;vp si;aa hy;mg an;bn ts;zy lu;zg
@@ -70759,7 +70759,7 @@ use_preset_vocabulary: false
 精靈俏女巫	jy;mq ly;wl qc;rx nv;aa wu;gc
 精靈別歸去	jy;mq ly;wl bx;dd gv;vj qu;ts
 精靈劍士	jy;mq ly;wl jm;dq ui;aa
-精靈劍舞祭	jy;mq ly;wl jm;dq wu;rf ji;ou
+精靈劍舞祭	jy;mq ly;wl jm;dq wu;rf ji;uy
 精靈夢之隊	jy;mq ly;wl mg;cx vi;dd dv;eu
 精靈夢葉羅麗	jy;mq ly;wl mg;cx ye;cm lo;sv li;ll
 精靈女孩小卓瑪	jy;mq ly;wl nv;aa hl;zh xc;ad vo;bu ma;wm
@@ -70915,7 +70915,7 @@ use_preset_vocabulary: false
 約定之種	yt;su dy;bp vi;dd vs;hv
 約定在希望前相會	yt;su dy;bp zl;ta xi;ju wh;wo qm;bd xd;mo hv;ro
 約定就是用來打破的	yt;su dy;bp jq;yj ui;op ys;kf ll;ad da;fd po;up de;bu
-約定的七夜祭	yt;su dy;bp de;bu qi;ag ye;wd ji;ou
+約定的七夜祭	yt;su dy;bp de;bu qi;ag ye;wd ji;uy
 約定的夜想曲	yt;su dy;bp de;bu ye;wd xd;xx qu;aa
 約定的夢幻島	yt;su dy;bp de;bu mg;cx hr;yg dk;nu
 約定的夢想	yt;su dy;bp de;bu mg;cx xd;xx
@@ -70942,7 +70942,7 @@ use_preset_vocabulary: false
 約束	yt;su uu;ad
 約束	yt;su uu;ad
 約束之血	yt;su uu;ad vi;dd xt;pa
-約束的七夜祭	yt;su uu;ad de;bu qi;ag ye;wd ji;ou
+約束的七夜祭	yt;su uu;ad de;bu qi;ag ye;wd ji;uy
 約格莫夫	yt;su ge;mg mo;cd fu;ad
 約爾布萊爾	yt;su er;ay bu;ju ll;cl er;ay
 約爾曼岡德	yt;su er;ay mj;oy gh;ku de;xx
@@ -71331,11 +71331,11 @@ use_preset_vocabulary: false
 納爾遜	na;sn er;ay xp;zs
 納特彌託黛拉	na;sn te;ns mi;ge to;yq dl;hd la;fl
 納甘左輪	na;sn gj;aa zo;gu lp;il
-納祭之劍	na;sn ji;ou vi;dd jm;dq
-納祭之魔	na;sn ji;ou vi;dd mo;gm
-納祭之魔娘	na;sn ji;ou vi;dd mo;gm nd;nl
-納祭之魔阿尼瑪	na;sn ji;ou vi;dd mo;gm aa;ek ni;ub ma;wm
-納祭融合	na;sn ji;ou rs;ig he;rk
+納祭之劍	na;sn ji;uy vi;dd jm;dq
+納祭之魔	na;sn ji;uy vi;dd mo;gm
+納祭之魔娘	na;sn ji;uy vi;dd mo;gm nd;nl
+納祭之魔阿尼瑪	na;sn ji;uy vi;dd mo;gm aa;ek ni;ub ma;wm
+納祭融合	na;sn ji;uy rs;ig he;rk
 納米核心	na;sn mi;dd he;mh xn;dd
 納米病毒娘	na;sn mi;dd by;bb du;fm nd;nl
 納米蜂箱	na;sn mi;dd fg;if xd;vx
@@ -72234,7 +72234,7 @@ use_preset_vocabulary: false
 絡新婦	lo;sg xn;jq fu;nj
 絢文祿	xr;sx wf;wi lu;ul
 絢櫻	xr;sx yy;my
-絢櫻祭	xr;sx yy;my ji;ou
+絢櫻祭	xr;sx yy;my ji;uy
 絢瀨亞里沙	xr;sx ll;dl ya;aa li;aa ua;du
 絢瀨繪里	xr;sx ll;dl hv;sh li;aa
 絢瀨繪里子	xr;sx ll;dl hv;sh li;aa zi;aa
@@ -74270,7 +74270,7 @@ use_preset_vocabulary: false
 翡翠木	fz;yf cv;yz mu;ad
 翡翠森林狼與羊	fz;yf cv;yz sf;ml ln;mm lh;ql yu;ba yh;da
 翡翠海灘	fz;yf cv;yz hl;dm tj;dn
-翡翠祭壇	fz;yf cv;yz ji;ou tj;td
+翡翠祭壇	fz;yf cv;yz ji;uy tj;td
 翡翠色旋律	fz;yf cv;yz se;db xr;fp lv;xy
 翡翠蟲笛	fz;yf cv;yz is;ii di;vy
 翩然起舞	pm;yb rj;hq qi;zj wu;rf
@@ -75872,7 +75872,7 @@ use_preset_vocabulary: false
 臺客	tl;uv ke;bg
 臺式官話	tl;uv ui;gy gr;bg hw;yu
 臺灣	tl;uv wj;dg
-臺灣例大祭	tl;uv wj;dg li;rl da;ad ji;ou
+臺灣例大祭	tl;uv wj;dg li;rl da;ad ji;uy
 臺灣動畫電影票房排行	tl;uv wj;dg ds;lv hw;ya dm;yd yy;pj pc;xu fh;hf pl;ff hh;xd
 臺灣國語	tl;uv wj;dg go;kh yu;yw
 臺灣地區	tl;uv wj;dg di;ty qu;kp
@@ -77078,7 +77078,7 @@ use_preset_vocabulary: false
 花丸茉莉	hw;ch wj;jd mo;cm li;cl
 花丸行板	hw;ch wj;jd xy;xd bj;mf
 花乃	hw;ch nl;pg
-花之司祭愛莉耶塔	hw;ch vi;dd si;gk ji;ou ai;vw li;cl ye;ee ta;td
+花之司祭愛莉耶塔	hw;ch vi;dd si;gk ji;uy ai;vw li;cl ye;ee ta;td
 花之塔	hw;ch vi;dd ta;td
 花之天使的夏日戀歌	hw;ch vi;dd tm;ad ui;rl de;bu xw;wz ri;aa lm;xs ge;qg
 花之安卓學院	hw;ch vi;dd an;bn vo;bu xt;jz yr;ew
@@ -77345,8 +77345,8 @@ use_preset_vocabulary: false
 花碳	hw;ch tj;ut
 花神	hw;ch uf;uu
 花神之靈	hw;ch uf;uu vi;dd ly;wl
-花祭	hw;ch ji;ou
-花祭果凜	hw;ch ji;ou go;ad ln;db
+花祭	hw;ch ji;uy
+花祭果凜	hw;ch ji;uy go;ad ln;db
 花積	hw;ch ji;hz
 花穗	hw;ch sv;hh
 花簪	hw;ch zj;vo
@@ -79470,7 +79470,7 @@ use_preset_vocabulary: false
 萬里谷光	wj;cy li;aa gu;bk gd;ea
 萬里谷祐理	wj;cy li;aa gu;bk yb;uy li;wl
 萬里長城	wj;cy li;aa ih;ad ig;ti
-萬金聖誕祭	wj;cy jn;ra ug;ew dj;yy ji;ou
+萬金聖誕祭	wj;cy jn;ra ug;ew dj;yy ji;uy
 萬震山	wj;cy vf;yi uj;aa
 萬頃風波	wj;cy qy;by fg;ji bo;dp
 萬骨坊	wj;cy gu;go fh;tf
@@ -80007,7 +80007,7 @@ use_preset_vocabulary: false
 蒼紅的回想	ch;cc hs;sg de;bu hv;kk xd;xx
 蒼紅的迴響	ch;cc hs;sg de;bu hv;zh xd;yx
 蒼紅華之舞	ch;cc hs;sg hw;ca vi;dd wu;rf
-蒼綠祭	ch;cc lv;sl ji;ou
+蒼綠祭	ch;cc lv;sl ji;uy
 蒼翠之風靈使	ch;cc cv;yz vi;dd fg;ji ly;wl ui;rl
 蒼翼冠鳥	ch;cc yi;yg gr;bc nc;pd
 蒼翼默示錄	ch;cc yi;yg mo;hq ui;ex lu;jl
@@ -80624,7 +80624,7 @@ use_preset_vocabulary: false
 薩沙雅科夫列娃	sa;ci ua;du ya;vy ke;hd fu;ad lx;dd wa;ng
 薩滿	sa;ci mj;dr
 薩滿之石	sa;ci mj;dr vi;dd ui;kp
-薩滿祭司	sa;ci mj;dr ji;ou si;gk
+薩滿祭司	sa;ci mj;dr ji;uy si;gk
 薩爾	sa;ci er;ay
 薩爾布魯克	sa;ci er;ay bu;ju lu;yo ke;eg
 薩爾法	sa;ci er;ay fa;dq
@@ -81704,7 +81704,7 @@ use_preset_vocabulary: false
 虛無的思考時間	xu;hy wu;rh de;bu si;tx kk;lk ui;os jm;mo
 虛無的波動	xu;hy wu;rh de;bu bo;dp ds;lv
 虛無的結局	xu;hy wu;rh de;bu jx;sj ju;uk
-虛無祭典	xu;hy wu;rh ji;ou dm;ba
+虛無祭典	xu;hy wu;rh ji;uy dm;ba
 虛無空間	xu;hy wu;rh ks;xg jm;mo
 虛無能力	xu;hy wu;rh ng;sb li;gp
 虛無雙刃	xu;hy wu;rh ud;vy rf;dd
@@ -82549,10 +82549,10 @@ use_preset_vocabulary: false
 衍天宗	yj;ri tm;ad zs;bu
 衍生作品	yj;ri ug;na zo;rv pn;kk
 衍生牌	yj;ri ug;na pl;pb
-衍生物復活祭	yj;ri ug;na wu;nw fu;xf ho;du ji;ou
-衍生物收穫祭	yj;ri ug;na wu;nw ub;wj ho;hh ji;ou
-衍生物誕生祭	yj;ri ug;na wu;nw dj;yy ug;na ji;ou
-衍生物謝肉祭	yj;ri ug;na wu;nw xx;yu rb;ad ji;ou
+衍生物復活祭	yj;ri ug;na wu;nw fu;xf ho;du ji;uy
+衍生物收穫祭	yj;ri ug;na wu;nw ub;wj ho;hh ji;uy
+衍生物誕生祭	yj;ri ug;na wu;nw dj;yy ug;na ji;uy
+衍生物謝肉祭	yj;ri ug;na wu;nw xx;yu rb;ad ji;uy
 衍生義	yj;ri ug;na yi;yw
 術力口	uu;xi li;gp kb;aa
 術士	uu;xi ui;aa
@@ -82750,8 +82750,8 @@ use_preset_vocabulary: false
 被吸引的衛星	bz;yp xi;kj yn;ga de;bu wz;xi xy;ou
 被嘲諷者的復仇	bz;yp ik;ki fg;yf ve;lo de;bu fu;xf ib;rj
 被囚禁於過去	bz;yp qq;kr jn;ul yu;fd go;zg qu;ts
-被埋葬的牲祭	bz;yp ml;tl zh;cc de;bu ug;nu ji;ou
-被埋葬的祭品	bz;yp ml;tl zh;cc de;bu ji;ou pn;kk
+被埋葬的牲祭	bz;yp ml;tl zh;cc de;bu ug;nu ji;uy
+被埋葬的祭品	bz;yp ml;tl zh;cc de;bu ji;uy pn;kk
 被埋葬的黑暗	bz;yp ml;tl zh;cc de;bu hz;ad an;oy
 被埋葬的黑暗與少女	bz;yp ml;tl zh;cc de;bu hz;ad an;oy yu;ba uk;xp nv;aa
 被奪走的刻印	bz;yp do;dc zb;tv de;bu ke;dh yn;ey
@@ -83775,7 +83775,7 @@ use_preset_vocabulary: false
 觸痕	iu;ji hf;bg
 觸發器	iu;ji fa;du qi;kk
 觸碰花瓶	iu;ji pg;ub hw;ch py;wb
-觸祭之都	iu;ji ji;ou vi;dd db;ev
+觸祭之都	iu;ji ji;uy vi;dd db;ev
 觸角	iu;ji jc;dy
 言不由衷的冰室同學	yj;da bu;ad yb;aa vs;wy de;bu by;du ui;bv ts;kk xt;jz
 言之葉	yj;da vi;dd ye;cm
@@ -90491,7 +90491,7 @@ use_preset_vocabulary: false
 量子幽靈	ld;ol zi;aa yb;uy ly;wl
 量子流雲	ld;ol zi;aa lq;di yp;yy
 量子破碎	ld;ol zi;aa po;up sv;uz
-量子祭壇	ld;ol zi;aa ji;ou tj;td
+量子祭壇	ld;ol zi;aa ji;uy tj;td
 量子裂痕	ld;ol zi;aa lx;yl hf;bg
 量子記錄固定帶	ld;ol zi;aa ji;yj lu;jl gu;kg dy;bp dl;jb
 量子貓	ld;ol zi;aa mk;vm
@@ -93668,7 +93668,7 @@ use_preset_vocabulary: false
 阿里安娜	aa;ek li;aa an;bn na;nn
 阿里巴巴	aa;ek li;aa ba;ag ba;ag
 阿里巴徹爾德	aa;ek li;aa ba;ag ie;xw er;ay de;xx
-阿里布達年代祭	aa;ek li;aa bu;ju da;zy nm;pa dl;ry ji;ou
+阿里布達年代祭	aa;ek li;aa bu;ju da;zy nm;pa dl;ry ji;uy
 阿里斯特里斯喀穆	aa;ek li;aa si;jq te;ns li;aa si;jq ka;kk mu;hp
 阿里烏斯分校	aa;ek li;aa wu;pd si;jq ff;bd xc;mj
 阿里特	aa;ek li;aa te;ns
@@ -94678,7 +94678,7 @@ use_preset_vocabulary: false
 雙頭雷龍	ud;vy tb;dy lz;yt ls;dg
 雙頭龍	ud;vy tb;dy ls;dg
 雙馬尾	ud;vy ma;ad yi;um
-雙馬尾之日前夜祭	ud;vy ma;ad yi;um vi;dd ri;aa qm;bd ye;wd ji;ou
+雙馬尾之日前夜祭	ud;vy ma;ad yi;um vi;dd ri;aa qm;bd ye;wd ji;uy
 雙馬尾之風	ud;vy ma;ad yi;um vi;dd fg;ji
 雙馬尾日	ud;vy ma;ad yi;um ri;aa
 雙魔法臂束縛	ud;vy mo;gm fa;dq bi;ob uu;ad fu;sc
@@ -94781,7 +94781,7 @@ use_preset_vocabulary: false
 離別淚	li;vl bx;dd lz;dl
 離別的去向	li;vl bx;dd de;bu qu;ts xd;pk
 離別的故事	li;vl bx;dd de;bu gu;wg ui;aa
-離別的祭謠	li;vl bx;dd de;bu ji;ou yk;yf
+離別的祭謠	li;vl bx;dd de;bu ji;uy yk;yf
 離別的行星	li;vl bx;dd de;bu xy;xd xy;ou
 離別的鋼琴奏鳴曲	li;vl bx;dd de;bu gh;jg qn;wj zb;ft my;kn qu;aa
 離去之人們的華爾茲	li;vl qu;ts vi;dd rf;pd mf;rm de;bu hw;ca er;ay zi;cy
@@ -95143,7 +95143,7 @@ use_preset_vocabulary: false
 雪皇	xt;yx hd;bw
 雪碧娘	xt;yx bi;ub nd;nl
 雪碧社	xt;yx bi;ub ue;ut
-雪祭初音鑑	xt;yx ji;ou iu;yd yn;lo jm;jj
+雪祭初音鑑	xt;yx ji;uy iu;yd yn;lo jm;jj
 雪童子	xt;yx ts;ll zi;aa
 雪童子呱	xt;yx ts;ll zi;aa gu;kg
 雪糕	xt;yx gk;mg
@@ -96019,7 +96019,7 @@ use_preset_vocabulary: false
 霜奶仙	ud;yx nl;nn xm;ru
 霜戌蕾娜	ud;yx xu;ga lz;cl na;nn
 霜星	ud;yx xy;ou
-霜月式同人祭	ud;yx yt;oy ui;gy ts;kk rf;pd ji;ou
+霜月式同人祭	ud;yx yt;oy ui;gy ts;kk rf;pd ji;uy
 霜月栗子	ud;yx yt;oy li;xm zi;aa
 霜月紫	ud;yx yt;oy zi;sc
 霜月美佳	ud;yx yt;oy mz;dy jw;rg
@@ -96041,7 +96041,7 @@ use_preset_vocabulary: false
 霞丘詩羽	xw;yj qq;pa ui;ys yu;xx
 霞之丘詩羽	xw;yj vi;dd qq;pa ui;ys yu;xx
 霞之谷的神風	xw;yj vi;dd gu;bk de;bu uf;uu fg;ji
-霞之谷的祭壇	xw;yj vi;dd gu;bk de;bu ji;ou tj;td
+霞之谷的祭壇	xw;yj vi;dd gu;bk de;bu ji;uy tj;td
 霞之谷的雷神鬼	xw;yj vi;dd gu;bk de;bu lz;yt uf;uu gv;pd
 霞光	xw;yj gd;ea
 霞刑部	xw;yj xy;dk bu;ek
@@ -96508,7 +96508,7 @@ use_preset_vocabulary: false
 靈魂的據所	ly;wl hp;gy de;bu ju;fj so;hj
 靈魂的路標	ly;wl hp;gy de;bu lu;zg bc;mp
 靈魂的降神	ly;wl hp;gy de;bu jd;ef uf;uu
-靈魂祭典	ly;wl hp;gy ji;ou dm;ba
+靈魂祭典	ly;wl hp;gy ji;uy dm;ba
 靈魂竊取者	ly;wl hp;gy qx;xs qu;ey ve;lo
 靈魂補充	ly;wl hp;gy bu;yf is;dy
 靈魂觸發者	ly;wl hp;gy iu;ji fa;du ve;lo
@@ -97649,7 +97649,7 @@ use_preset_vocabulary: false
 風嬉	fg;ji xi;nx
 風子	fg;ji zi;aa
 風宮依裏	fg;ji gs;bl yi;ry li;dy
-風宮祭	fg;ji gs;bl ji;ou
+風宮祭	fg;ji gs;bl ji;uy
 風宮茜裏	fg;ji gs;bl qm;cx li;dy
 風小云	fg;ji xc;ad yp;es
 風山絆	fg;ji uj;aa bj;sb
@@ -97665,7 +97665,7 @@ use_preset_vocabulary: false
 風扇	fg;ji uj;hy
 風拂花	fg;ji fu;ff hw;ch
 風振	fg;ji vf;fi
-風捲祭裏	fg;ji jr;fj ji;ou li;dy
+風捲祭裏	fg;ji jr;fj ji;uy li;dy
 風捲花	fg;ji jr;fj hw;ch
 風摩洋介	fg;ji mo;mu yh;dy jx;ra
 風斬冰華	fg;ji vj;ij by;du hw;ca
@@ -97733,17 +97733,17 @@ use_preset_vocabulary: false
 風神錄之音	fg;ji uf;uu lu;jl vi;dd yn;lo
 風神雷神	fg;ji uf;uu lz;yt uf;uu
 風神龍	fg;ji uf;uu ls;dg
-風祭真	fg;ji ji;ou vf;uj
-風祭萌黃	fg;ji ji;ou mg;cm hd;cb
-風祭蓮	fg;ji ji;ou lm;cl
-風祭雅	fg;ji ji;ou ya;vy
+風祭真	fg;ji ji;uy vf;uj
+風祭萌黃	fg;ji ji;uy mg;cm hd;cb
+風祭蓮	fg;ji ji;uy lm;cl
+風祭雅	fg;ji ji;uy ya;vy
 風空花人	fg;ji ks;xg hw;ch rf;pd
 風笛	fg;ji di;vy
 風箏告別的前夜	fg;ji vg;vv gk;kn bx;dd de;bu qm;bd ye;wd
 風箏線	fg;ji vg;vv xm;sq
 風精靈	fg;ji jy;mq ly;wl
 風紀大宮司	fg;ji ji;sj da;ad gs;bl si;gk
-風紀大宮司祭文	fg;ji ji;sj da;ad gs;bl si;gk ji;ou wf;wi
+風紀大宮司祭文	fg;ji ji;sj da;ad gs;bl si;gk ji;uy wf;wi
 風紀委員	fg;ji ji;sj wz;hn yr;kb
 風紀委員長	fg;ji ji;sj wz;hn yr;kb vh;ad
 風紀宮司	fg;ji ji;sj gs;bl si;gk
@@ -99003,7 +99003,7 @@ use_preset_vocabulary: false
 骷髏扎古姬	ku;gg lb;gl va;fg gu;uk ji;ni
 骷髏王	ku;gg lb;gl wh;aa
 骷髏的魔女內文	ku;gg lb;gl de;bu mo;gm nv;aa nz;kr wf;wi
-骷髏祭司	ku;gg lb;gl ji;ou si;gk
+骷髏祭司	ku;gg lb;gl ji;uy si;gk
 骷髏糖	ku;gg lb;gl th;mt
 骷髏騎手	ku;gg lb;gl qi;mq ub;pa
 骷髏騎手的復活	ku;gg lb;gl qi;mq ub;pa de;bu fu;xf ho;du
@@ -99450,7 +99450,7 @@ use_preset_vocabulary: false
 高等仙女	gk;wk dg;vs xm;ru nv;aa
 高等儀式術	gk;wk dg;vs yi;ry ui;gy uu;xi
 高等卒業存在性證明	gk;wk dg;vs zu;wu ye;yl cp;uz zl;ta xy;xu vg;yd my;oo
-高等女祭司	gk;wk dg;vs nv;aa ji;ou si;gk
+高等女祭司	gk;wk dg;vs nv;aa ji;uy si;gk
 高等小愛神	gk;wk dg;vs xc;ad ai;vw uf;uu
 高等暗黑結界	gk;wk dg;vs an;oy hz;ad jx;sj jx;tj
 高等精靈	gk;wk dg;vs jy;mq ly;wl
@@ -99757,7 +99757,7 @@ use_preset_vocabulary: false
 鬼知道我經歷了什麼	gv;pd vi;uk dk;zu wo;pd jy;sg li;iv le;aa uf;ru me;my
 鬼碧	gv;pd bi;ub
 鬼神的連擊	gv;pd uf;uu de;bu lm;zi ji;fu
-鬼祭	gv;pd ji;ou
+鬼祭	gv;pd ji;uy
 鬼童丸	gv;pd ts;ll wj;jd
 鬼符三通	gv;pd fu;vf sj;aa ts;zy
 鬼籤	gv;pd qm;vg
@@ -100103,7 +100103,7 @@ use_preset_vocabulary: false
 魔導法皇	mo;gm dk;cd fa;dq hd;bw
 魔導皇聖	mo;gm dk;cd hd;bw ug;ew
 魔導研究所	mo;gm dk;cd yj;uk jq;xj so;hj
-魔導祭司艾達娜	mo;gm dk;cd ji;ou si;gk ai;ci da;zy na;nn
+魔導祭司艾達娜	mo;gm dk;cd ji;uy si;gk ai;ci da;zy na;nn
 魔導科學家	mo;gm dk;cd ke;hd xt;jz jw;bu
 魔導變換	mo;gm dk;cd bm;ws hr;fh
 魔導辣妹	mo;gm dk;cd la;xu mz;nw
