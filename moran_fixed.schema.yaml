@@ -20,7 +20,7 @@ switches:
   - name: emoji
     states: [ 🈚, 🈶 ]
   - name: chaifen
-    states: [ 扌斥, 不拆 ]
+    states: [ 不拆, 扌斥 ]
   - name: unicode_comment
     states: [ U關, U開 ]
 
