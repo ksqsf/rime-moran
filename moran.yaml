@@ -55,6 +55,7 @@ key_bindings:
       - { when: has_menu, accept: "Control+u", toggle: unicode_comment }
       - { when: has_menu, accept: "Control+q", toggle: emoji }
       - { when: has_menu, accept: "Control+Shift+0", toggle: std_opencc }
+      - { when: has_menu, accept: "Control+i", toggle: chaifen }
 
   # 使用大寫字母追加輸入到上一個音節末尾
   moran_capital_for_last_syllable:

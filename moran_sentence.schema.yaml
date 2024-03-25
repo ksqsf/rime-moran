@@ -28,6 +28,8 @@ switches:
     - BIG5
   - name: emoji
     states: [ 🈚, 🈶 ]
+  - name: chaifen
+    states: [ 扌斥, 不拆 ]
   - name: unicode_comment
     states: [ U開, U關 ]
   - name: dzing
@@ -64,6 +66,7 @@ engine:
     - script_translator
   filters:
     #- lua_filter@*moran_aux_hint           # 輔助碼提示需要去掉本行開頭的 # 符號
+    - simplifier@chaifen
     - simplifier
     - charset_filter@gbk+emoji
     - charset_filter@big5+emoji
@@ -124,6 +127,14 @@ japanese:
 simplifier:
   option_name: simplification
   opencc_config: moran_t2s.json
+
+chaifen:
+  option_name: chaifen
+  opencc_config: moran_chaifen.json
+  tips: char
+  show_in_comment: true
+  comment_form:
+    - "xform/-/ /"
 
 emoji:
   opencc_config: moran_emoji.json

@@ -122,6 +122,12 @@ def main(args):
             char, code = matches[0]
             table.add(char, 'obh' + code)
 
+    # 拆分表
+    with open('../opencc/moran_chaifen.txt', 'r') as f:
+        for l in f:
+            [zi, chai] = l.strip().split('\t')
+            table.add(zi, chai)
+
     with open('dazhu.txt', 'w') as f:
         table.print_c2w(f)
         # table.print_w2c(f)

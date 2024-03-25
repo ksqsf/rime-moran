@@ -19,6 +19,8 @@ switches:
     states: [ 。，, ．， ]
   - name: emoji
     states: [ 🈚, 🈶 ]
+  - name: chaifen
+    states: [ 扌斥, 不拆 ]
   - name: unicode_comment
     states: [ U關, U開 ]
 
@@ -48,6 +50,7 @@ engine:
     - table_translator@zkci
     - history_translator@repeat
   filters:
+    - simplifier@chaifen
     - simplifier
     - simplifier@emoji
     #- lua_filter@*moran_quick_code_hint  # 簡碼提示功能，詳見文件末
@@ -119,6 +122,14 @@ emoji:
   opencc_config: moran_emoji.json
   option_name: emoji
   tips: all
+
+chaifen:
+  option_name: chaifen
+  opencc_config: moran_chaifen.json
+  tips: char
+  show_in_comment: true
+  comment_form:
+    - "xform/-/ /"
 
 reverse_lookup:
   dictionary: moran.chars

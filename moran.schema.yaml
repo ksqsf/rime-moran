@@ -36,6 +36,8 @@ switches:
     # 當固詞模式啓動後，輸入 4 碼時會優先輸出碼表中的二字詞，這些輸出帶有「⚡️」標記。
   - name: emoji
     states: [ 🈚, 🈶 ]
+  - name: chaifen
+    states: [ 扌斥, 不拆 ]
   - name: unicode_comment
     states: [ U關, U開 ]
   - options: [ std_opencc,  std_tw, std_hk, std_dzing ]
@@ -79,6 +81,7 @@ engine:
     - simplifier@emoji
     - charset_filter@gbk+emoji
     - charset_filter@big5+emoji
+    - simplifier@chaifen
     - simplifier@std_hk
     - simplifier@std_tw
     - simplifier@std_dzing
@@ -150,6 +153,14 @@ japanese:
 simplifier:
   option_name: simplification
   opencc_config: moran_t2s.json
+
+chaifen:
+  option_name: chaifen
+  opencc_config: moran_chaifen.json
+  tips: char
+  show_in_comment: true
+  comment_form:
+    - "xform/-/ /"
 
 emoji:
   opencc_config: moran_emoji.json
