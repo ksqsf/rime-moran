@@ -441,15 +441,20 @@ def handle_update_char_weight():
 
                 sp = code.split(';')[0]
                 wt = pinyin_table.get(char, {})
+                found = False
                 for (py, w) in wt.items():
                     try:
                         if to_double_pinyin(py) == sp:
                             weight = w
+                            found = True
                             break
                         else:
                             weight = 0
                     except:
                         weight = w
+
+                if not found:
+                    weight = 0
 
                 print(f'{char}\t{code}\t{weight}{comment}')
 
