@@ -77,7 +77,7 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: abcdefghijklmnopqrstuvwxyz
+  alphabet: abcdefghijklmnopqrstuvwxyz/
   delimiter: " '"
   algebra:
     __patch:
