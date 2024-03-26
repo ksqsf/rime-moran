@@ -6928,8 +6928,8 @@
 互 aa
 互 ea
 互 ev
-亓 ep
 亓 aq
+亓 ed
 五 aa
 井 aa
 井 ep
@@ -7028,7 +7028,7 @@
 今 ra
 今 rv
 介 ra
-介 rp
+介 rd
 仌 rr
 仍 rn
 从 rr
@@ -9922,7 +9922,6 @@
 堅 ty
 堆 tv
 堇 ca
-堇 cj
 堈 tg
 堉 ty
 堊 ty
@@ -11986,7 +11985,6 @@
 幾 yd
 幾 yg
 幾 yu
-幾 zd
 广 dp
 庀 gb
 庁 gd
@@ -12187,7 +12185,7 @@
 引 ga
 弖 ga
 弗 aa
-弗 gp
+弗 gd
 弗 vu
 弘 gs
 弙 gy
@@ -14404,9 +14402,7 @@
 早 ou
 旪 ou
 旫 od
-旬 bo
 旬 go
-旬 ob
 旬 og
 旭 oj
 旭 jo
@@ -14626,7 +14622,6 @@
 暧 oa
 暨 dj
 暨 gd
-暨 zh
 暩 oj
 暪 or
 暫 ov
@@ -15600,7 +15595,6 @@
 槉 mj
 槊 mo
 槊 mu
-槊 my
 構 mg
 構 mr
 槌 mv
@@ -15756,7 +15750,7 @@
 橆 pl
 橆 rl
 橇 mm
-橇 mq
+橇 mc
 橈 my
 橉 ml
 橊 ml
@@ -15766,7 +15760,6 @@
 橎 mf
 橏 mu
 橐 am
-橐 hd
 橐 mu
 橑 ml
 橑 mx
@@ -16472,7 +16465,6 @@
 汦 du
 汧 dk
 汨 do
-汨 dr
 汩 do
 汩 dy
 汪 dw
@@ -17561,7 +17553,6 @@
 濫 dj
 濬 do
 濬 dr
-濬 dm
 濭 dg
 濭 dm
 濮 df
@@ -17778,9 +17769,9 @@
 灿 hu
 炀 hy
 炁 hg
-炁 hj
+炁 hw
 炁 dg
-炁 dj
+炁 dw
 炂 hg
 炃 hf
 炄 hi
@@ -18609,6 +18600,7 @@
 狹 qj
 狺 qy
 狻 qw
+狻 qj
 狼 ql
 狽 qb
 狾 qv
@@ -18771,6 +18763,7 @@
 獼 qm
 獽 qx
 獾 qv
+獾 qg
 獿 qn
 獿 qw
 玀 ql
@@ -18817,7 +18810,7 @@
 玢 wf
 玣 wb
 玤 wf
-玥 wy
+玥 wo
 玦 wd
 玦 wg
 玧 wy
@@ -22288,7 +22281,7 @@
 纙 sw
 纚 sl
 纛 dx
-纛 hd
+纛 fx
 纜 sj
 纜 sl
 纝 sl
@@ -23403,7 +23396,6 @@
 舙 uu
 舚 uv
 舚 uy
-舛 ps
 舛 xf
 舜 vf
 舝 wf
@@ -23622,7 +23614,6 @@
 苙 cl
 苚 cy
 苛 ck
-苜 cm
 苜 co
 苝 cb
 苞 cb
@@ -24731,7 +24722,6 @@
 虡 hb
 虢 hc
 虢 hl
-虢 pz
 虢 vh
 虣 hw
 虤 hh
@@ -25302,7 +25292,6 @@
 蠸 ig
 蠸 iv
 蠹 ai
-蠹 hd
 蠹 iu
 蠺 io
 蠺 ti
@@ -25769,7 +25758,6 @@
 覈 xw
 覉 xq
 覊 xm
-見 me
 見 oe
 覌 yj
 覍 xj
@@ -25929,9 +25917,7 @@
 訄 jy
 訅 yj
 訆 yj
-訇 by
 訇 gy
-訇 yb
 訇 yg
 計 yu
 訉 yf
@@ -27793,6 +27779,7 @@
 速 zu
 造 zg
 逡 zw
+逡 zj
 逢 zf
 連 zi
 逤 zu
@@ -28068,6 +28055,7 @@
 郼 ew
 都 ev
 郾 en
+郾 ey
 郿 em
 鄀 er
 鄁 eb
@@ -28155,6 +28143,7 @@
 酁 et
 酂 ez
 酃 ek
+酃 el
 酄 ev
 酅 ej
 酅 ek
@@ -32301,6 +32290,8 @@
 黑 ha
 黒 ld
 黒 lh
+黒 dl
+黒 hl
 黓 hy
 黔 hj
 黕 hg
@@ -32405,12 +32396,10 @@
 鼎 od
 鼏 bd
 鼐 nd
-鼐 zz
 鼑 bd
 鼑 db
 鼒 cd
 鼒 dc
-鼒 hz
 鼓 vd
 鼓 uv
 鼔 pa
