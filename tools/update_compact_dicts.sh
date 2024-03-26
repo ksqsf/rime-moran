@@ -4,6 +4,10 @@ STRICT="$1"
 
 echo Strict about errors? $STRICT
 
+if [ -d ../.venv ]; then
+    source ../.venv/bin/activate
+fi
+
 compact_dicts=(
     "../moran.essay.dict.yaml"
     "../moran.tencent.dict.yaml"
