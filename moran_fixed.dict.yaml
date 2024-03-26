@@ -5353,11 +5353,9 @@ Bilibili	bvj
 藏	ch
 賶	chb
 藏寶	chbk
-藏胞	chbk
 蒼白	chbl
 殘花敗柳	chbl
 此呼彼應	chby
-藏北	chbz
 蒼	chc
 蒼蒼	chch
 倉促	chcu
@@ -5397,7 +5395,6 @@ Bilibili	bvj
 欌	chm
 艙門	chmf
 蒼茫	chmh
-藏民	chmn
 鶬	chn
 錯恨難返	chnf
 藏匿	chni
@@ -5428,14 +5425,10 @@ Bilibili	bvj
 藏着	chve
 藏拙	chvo
 瑲	chw
-藏文	chwf
 倉位	chwz
 艙位	chwz
-藏香	chxd
-藏學	chxt
 藏掖	chye
 滄海一粟	chys
-藏語	chyu
 蒼鬱	chyu
 滄海遺珠	chyv
 存乎一心	chyx
@@ -9429,7 +9422,6 @@ Bilibili	bvj
 蒧	dmc
 蕇	dmcd
 典藏	dmch
-滇藏	dmch
 電磁	dmci
 點餐	dmcj
 點菜	dmcl
@@ -9651,6 +9643,7 @@ Bilibili	bvj
 詀	dmyv
 電影	dmyy
 踮	dmz
+滇藏	dmzh
 電子	dmzi
 點贊	dmzj
 電竈	dmzk
@@ -24454,7 +24447,6 @@ Bilibili	bvj
 喫軟不喫硬	irby
 川貝	irbz
 成人不自在	irbz
-川藏	irch
 船艙	irch
 穿刺	irci
 川菜	ircl
@@ -24616,6 +24608,7 @@ Bilibili	bvj
 出人意外	iryw
 赤日炎炎	iryy
 遄	irz
+川藏	irzh
 踳	irzi
 椽子	irzi
 傳贊	irzj
@@ -27215,8 +27208,8 @@ Bilibili	bvj
 減	jmdx
 間諜	jmdx
 殲	jmdx
-鑑定	jmdy
 堅定	jmdy
+鑑定	jmdy
 雞毛撣子	jmdz
 健兒	jmer
 簡明扼要	jmey
@@ -29568,8 +29561,9 @@ Bilibili	bvj
 扢	jxfq
 姐夫	jxfu
 劫匪	jxfz
-戒	jxg
+截	jxg
 結構	jxgb
+戒	jxgc
 借光	jxgd
 桔梗	jxgg
 鞂	jxgh
@@ -46050,6 +46044,7 @@ PC端	pcdr
 取	qu
 曲	qua
 輕世傲物	quaw
+癯	qub
 寢食不安	quba
 求生不得	qubd
 求神拜佛	qubf
@@ -46618,7 +46613,6 @@ PC端	pcdr
 去也匆匆	qycc
 清冊	qyce
 清倉	qych
-青藏	qych
 請辭	qyci
 青瓷	qyci
 情操	qyck
@@ -46927,6 +46921,7 @@ PC端	pcdr
 輕盈	qyyy
 起源自	qyz
 輕則	qyze
+青藏	qyzh
 青紫	qyzi
 清早	qyzk
 請坐	qyzo
@@ -59297,8 +59292,8 @@ PC端	pcdr
 正座	vgzo
 正宗	vgzs
 爭嘴	vgzv
-章	vh
-長	vha
+長	vh
+丈	vha
 丈	vhad
 障礙	vhai
 賬	vhb
@@ -59368,6 +59363,7 @@ PC端	pcdr
 張開	vhkl
 賬款	vhkr
 掌控	vhks
+章	vhl
 丈量	vhld
 漲了	vhle
 蟑螂	vhlh
@@ -72462,7 +72458,6 @@ WiFi	wifi
 惌	yrby
 用人不疑，疑人不用	yrby
 苑	yrc
-援藏	yrch
 芫	yrcy
 蒝	yrcy
 蒬	yrcy
@@ -72759,6 +72754,7 @@ WiFi	wifi
 悠然自得	yrzd
 一人做事一人當	yrzd
 原則	yrze
+援藏	yrzh
 院子	yrzi
 邍	yrzl
 遠在	yrzl
@@ -75025,7 +75021,9 @@ WiFi	wifi
 贓	zhb
 再好不過	zhbg
 縱橫捭闔	zhbh
+藏胞	zhbk
 坐懷不亂	zhbl
+藏北	zhbz
 葬	zhc
 藏	zhcz
 奘	zhd
@@ -75065,6 +75063,7 @@ WiFi	wifi
 走後門	zhm
 走後門兒	zhme
 葬埋	zhml
+藏民	zhmn
 駔	zhmq
 紫花苜蓿	zhmx
 再好沒有	zhmy
@@ -75091,9 +75090,12 @@ WiFi	wifi
 贓證	zhvg
 綜合治理	zhvl
 賊喊捉賊	zhvz
+藏文	zhwf
 贓物	zhwu
 最好笑	zhx
+藏香	zhxd
 藏戲	zhxi
+藏學	zhxt
 作何選擇	zhxz
 最後一次	zhyc
 最後一個	zhyg
@@ -75102,6 +75104,7 @@ WiFi	wifi
 藏藥	zhyk
 最後一秒	zhym
 最後一天	zhyt
+藏語	zhyu
 最後一分鐘	zhyv
 組合音響	zhyx
 髒字	zhzi
@@ -76869,6 +76872,7 @@ WiFi	wifi
 自作自受	zzzu
 自自在在	zzzz
 
+二五仔
 豆腐塊
 標準差
 發行版

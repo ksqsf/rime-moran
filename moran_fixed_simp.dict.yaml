@@ -5215,11 +5215,9 @@ encoder:
 曾在	cgzl
 藏	ch
 藏宝	chbk
-藏胞	chbk
 苍白	chbl
 残花败柳	chbl
 此呼彼应	chby
-藏北	chbz
 苍	chc
 苍苍	chch
 仓促	chcu
@@ -5255,7 +5253,6 @@ encoder:
 苍鹭	chlu
 舱门	chmf
 苍茫	chmh
-藏民	chmn
 鸧	chn
 错恨难返	chnf
 藏匿	chni
@@ -5283,14 +5280,10 @@ encoder:
 沧州	chvb
 藏着	chve
 藏拙	chvo
-藏文	chwf
 仓位	chwz
 舱位	chwz
-藏香	chxd
-藏学	chxt
 藏掖	chye
 沧海一粟	chys
-藏语	chyu
 苍郁	chyu
 沧海遗珠	chyv
 存乎一心	chyx
@@ -9109,7 +9102,6 @@ encoder:
 点兵	dmby
 垫背	dmbz
 典藏	dmch
-滇藏	dmch
 电磁	dmci
 点餐	dmcj
 点菜	dmcl
@@ -9325,6 +9317,7 @@ encoder:
 殿宇	dmyu
 电影	dmyy
 踮	dmz
+滇藏	dmzh
 电子	dmzi
 点赞	dmzj
 电灶	dmzk
@@ -23630,7 +23623,6 @@ encoder:
 吃软不吃硬	irby
 川贝	irbz
 成人不自在	irbz
-川藏	irch
 船舱	irch
 穿刺	irci
 川菜	ircl
@@ -23791,6 +23783,7 @@ encoder:
 出人意外	iryw
 赤日炎炎	iryy
 遄	irze
+川藏	irzh
 椽子	irzi
 传赞	irzj
 穿凿	irzk
@@ -44596,7 +44589,7 @@ encoder:
 区	qu
 曲	qua
 轻世傲物	quaw
-疽	qub
+癯	qub
 寝食不安	quba
 求生不得	qubd
 求神拜佛	qubf
@@ -45148,7 +45141,6 @@ encoder:
 去也匆匆	qycc
 清册	qyce
 清仓	qych
-青藏	qych
 请辞	qyci
 青瓷	qyci
 情操	qyck
@@ -45459,6 +45451,7 @@ encoder:
 轻盈	qyyy
 起源自	qyz
 轻则	qyze
+青藏	qyzh
 青紫	qyzi
 清早	qyzk
 请坐	qyzo
@@ -53996,7 +53989,6 @@ encoder:
 世	uic
 失策	uice
 史册	uice
-释藏	uich
 诗词	uici
 食材	uicl
 适才	uicl
@@ -54404,6 +54396,7 @@ encoder:
 适	uiz
 生产资本	uizb
 实则	uize
+释藏	uizh
 狮子	uizi
 师资	uizi
 输出阻抗	uizk
@@ -70333,7 +70326,6 @@ encoder:
 用人不疑，疑人不用	yrby
 宛	yrby
 苑	yrc
-援藏	yrch
 菀	yrcw
 芫	yrcy
 薳	yrcy
@@ -70632,6 +70624,7 @@ encoder:
 悠然自得	yrzd
 一人做事一人当	yrzd
 原则	yrze
+援藏	yrzh
 院子	yrzi
 远在	yrzl
 原作	yrzo
@@ -72837,7 +72830,9 @@ encoder:
 赃	zhb
 再好不过	zhbg
 纵横捭阖	zhbh
+藏胞	zhbk
 坐怀不乱	zhbl
+藏北	zhbz
 葬	zhc
 奘	zhd
 葬地	zhdi
@@ -72877,6 +72872,7 @@ encoder:
 走后门	zhm
 走后门儿	zhme
 葬埋	zhml
+藏民	zhmn
 驵	zhmq
 紫花苜蓿	zhmx
 再好没有	zhmy
@@ -72903,9 +72899,12 @@ encoder:
 赃证	zhvg
 综合治理	zhvl
 贼喊捉贼	zhvz
+藏文	zhwf
 赃物	zhwu
 最好笑	zhx
+藏香	zhxd
 藏戏	zhxi
+藏学	zhxt
 作何选择	zhxz
 最后一次	zhyc
 最后一个	zhyg
@@ -72914,6 +72913,7 @@ encoder:
 藏药	zhyk
 最后一秒	zhym
 最后一天	zhyt
+藏语	zhyu
 最后一分钟	zhyv
 组合音响	zhyx
 脏字	zhzi
@@ -74652,6 +74652,8 @@ encoder:
 自作自受	zzzu
 自自在在	zzzz
 
+二五仔
+豆腐块
 标准差
 发行版
 寄存器

@@ -3405,7 +3405,10 @@ use_preset_vocabulary: false
 䃶	gy;uh	0	# auto
 䃶	hy;uh	0	# auto
 䃷	yy;uy	0	# auto
-䃸	jn;uq	0	# auto
+䃸	xm;ux	0
+䃸	xm;ug	0
+䃸	jn;ux	0
+䃸	jn;ug	0
 䃹	lj;ul	0	# auto
 䃺	mo;um	0	# auto
 䃻	ba;ub	0	# auto
@@ -23297,10 +23300,8 @@ use_preset_vocabulary: false
 當	dh;dt	53829
 當	dh;tk	53829
 當	dh;xt	53829
-畷	io;tu	327
-畷	io;tv	327
-畷	vo;tu	327
-畷	vo;tv	327
+畷	vv;tu	327
+畷	vv;tv	327
 畸	ji;tq	670
 畸	qi;tq	670
 畹	wj;tw	624
@@ -71656,6 +71657,9 @@ use_preset_vocabulary: false
 𪜐	wa;yh	0
 𪜐	hw;yh	0
 𦬫	xc;cq	0
+𩿼	ya;nj	0
+𪀋	ya;nj	0
+𪀌	ya;nj	0
 
 #----------
 丆	pp;ap	0
