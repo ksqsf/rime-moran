@@ -4055,8 +4055,8 @@ encoder:
 布线	buxm
 不信	buxn
 不逊	buxp
+不朽	buxq
 补休	buxq
-不休	buxq
 补选	buxr
 不学	buxt
 补血	buxt
@@ -25604,7 +25604,7 @@ encoder:
 绝尘而去	jieq
 继而	jier
 际	jieu
-技	jif
+挤	jif
 激发	jifa
 揖	jife
 积分	jiff
@@ -25612,11 +25612,11 @@ encoder:
 疾风	jifg
 机房	jifh
 几番	jifj
-挤	jifq
-揖	jifq
 掎	jifq
+挤	jifq
 肌肤	jifu
 绝处逢生	jifu
+技	jifv
 计费	jifz
 即	jig
 机构	jigb
@@ -62156,7 +62156,7 @@ encoder:
 无阻	wuzu
 无罪	wuzv
 乌贼	wuzz
-网站	wv
+为止	wv
 文质彬彬	wvbb
 武装部队	wvbd
 违者必究	wvbj
@@ -62692,7 +62692,7 @@ encoder:
 伪证	wzvg
 违章	wzvh
 位置	wzvi
-为止	wzvi
+未知	wzvi
 围桌	wzvo
 为准	wzvp
 为重	wzvs
@@ -67788,6 +67788,7 @@ encoder:
 养儿育女	yeyn
 也用	yeys
 业余	yeyu
+揶揄	yeyu
 言而有信	yeyx
 野营	yeyy
 裛	yeyy
@@ -68276,7 +68277,7 @@ encoder:
 一步	yibu
 疫	yibu
 异步	yibu
-一别	yibx
+永垂不朽	yibx
 阳春白雪	yibx
 一并	yiby
 疫病	yiby
@@ -72296,6 +72297,7 @@ encoder:
 颍	yyyu
 欲言又止	yyyv
 摇摇欲坠	yyyv
+一言以蔽之	yyyv
 奄奄一息	yyyx
 一言一行	yyyx
 隐隐约约	yyyy
@@ -74653,6 +74655,7 @@ encoder:
 自作自受	zzzu
 自自在在	zzzz
 
+玄简君
 二五仔
 豆腐块
 标准差

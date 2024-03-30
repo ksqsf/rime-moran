@@ -14444,6 +14444,8 @@ use_preset_vocabulary: false
 忒	te;yx	333
 忒	tz;xy	808
 忒	tz;yx	808
+忒	tv;xy	300
+忒	tv;yx	300
 忓	gj;xg	502
 忔	qi;xq	513
 忕	dl;xd	456
@@ -28442,6 +28444,7 @@ use_preset_vocabulary: false
 芒	mh;cw	1194
 芓	zi;cz	476
 芔	hv;cc	375
+芔	hu;cc	0
 芔	ui;cc	375
 芕	sv;cx	293
 芖	vi;cd	316
@@ -28668,6 +28671,7 @@ use_preset_vocabulary: false
 茹	ru;cr	1335
 茺	is;ci	462
 茻	mh;cc	389
+茻	mu;cc	389
 茼	ts;ct	582
 茽	vs;cv	509
 茾	qm;ck	256
@@ -64828,8 +64832,8 @@ use_preset_vocabulary: false
 𤅓	xw;dy	0	# auto
 𥞄	ya;hp	0	# auto
 𫮁	cs;tz	0	# auto
-𣓷	tu;mk	0	# auto
-𣓷	tu;td	0	# auto
+𣓷	tu;mk	0
+𣓷	tu;ud	0
 𦍹	yh;dy	0	# auto
 𡡨	mg;nb	0	# auto
 𧷥	yi;bu	0	# auto
@@ -71660,6 +71664,7 @@ use_preset_vocabulary: false
 𩿼	ya;nj	0
 𪀋	ya;nj	0
 𪀌	ya;nj	0
+𨽕	ty;et	0
 
 #----------
 丆	pp;ap	0
