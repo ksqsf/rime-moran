@@ -3316,7 +3316,8 @@
 䃵 un
 䃶 uh
 䃷 uy
-䃸 uq
+䃸 ux
+䃸 ug
 䃹 ul
 䃺 um
 䃻 ub
@@ -40446,7 +40447,7 @@
 𣓧 ms
 𣓴 lj
 𣓷 mk
-𣓷 td
+𣓷 ud
 𣓹 me
 𣓹 qe
 𣓻 mb
@@ -42420,6 +42421,7 @@
 𤕄 vo
 𤕄 yo
 𤕇 tt
+𤕈 vl
 𤕊 vx
 𤕊 vq
 𤕍 vu
@@ -52110,6 +52112,7 @@
 𨽏 eg
 𨽒 el
 𨽓 ey
+𨽕 et
 𨽖 en
 𨽖 em
 𨽗 ep
@@ -54729,6 +54732,7 @@
 𩿺 nw
 𩿻 bn
 𩿻 nb
+𩿼 nj
 𩿽 tn
 𩿽 ny
 𩿽 rn
@@ -54737,6 +54741,8 @@
 𪀈 ny
 𪀉 nk
 𪀊 nj
+𪀋 nj
+𪀌 nj
 𪀏 nj
 𪀒 nv
 𪀓 nd

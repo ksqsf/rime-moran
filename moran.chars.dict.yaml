@@ -53429,7 +53429,7 @@ use_preset_vocabulary: false
 𫼝	ib;ui	0
 𫼝	vu;ui	0
 𫼝	zb;ui	0
-𬀩	wv;ow	0
+𬀩	wz;ow	0
 𬀪	xm;oj	0
 𬂁	ip;oj	0
 𬂁	tp;oj	0
@@ -53534,7 +53534,7 @@ use_preset_vocabulary: false
 𬭨	vv;jv	0
 𬭩	wg;jw	0
 𬭬	hv;jh	0
-𬭬	wv;jh	0
+𬭬	wz;jh	0
 𬭯	px;jb	0
 𬭳	xi;jx	0
 𬭶	hz;jh	0
@@ -53551,7 +53551,7 @@ use_preset_vocabulary: false
 𬯀	ji;eq	0
 𬯎	tv;eg	0
 𬱖	di;yy	0
-𬱟	wv;yw	0
+𬱟	wz;yw	0
 𬲱	to;ut	0
 𬲽	qi;uq	0
 𬳇	xr;ux	0
@@ -53565,7 +53565,7 @@ use_preset_vocabulary: false
 𬴊	ln;ml	0
 𬶋	ju;yj	0
 𬶍	to;yt	0
-𬶏	wv;yw	0
+𬶏	wz;yw	0
 𬶐	vk;yv	0
 𬶟	la;yl	0
 𬶠	lm;yj	0
@@ -71665,6 +71665,7 @@ use_preset_vocabulary: false
 𪀋	ya;nj	0
 𪀌	ya;nj	0
 𨽕	ty;et	0
+𤕈	lm;vl	0
 
 #----------
 丆	pp;ap	0
