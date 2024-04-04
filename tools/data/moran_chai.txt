@@ -1,3 +1,12 @@
+# moran_chai.txt  魔然方案原始拆分數據
+#
+# Copyright (C) 2024 Project Moran
+# ( https://github.com/ksqsf/rime-moran/ )
+# Licensed under CC-NC-SA 3.0
+#
+# Primary Author: ksqsf
+# Contributors: 吕奉先, SunShine, 吥捨洳楓, 三山剑客
+
 〇 aa {〇}
 の aa {の}
 㐀 aa 一一
@@ -61290,3 +61299,8 @@
 𲎑 ml 麦连
 𲎒 my 麦夜
 𤕈 vl 爫呂
+𩠐 iz 川自
+𩿼 nj 鳥甲
+𪀋 nj 鳥甲
+𪀌 nj 鳥甲
+𨽕 et 阝霆

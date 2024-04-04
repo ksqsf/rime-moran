@@ -6,6 +6,8 @@ from collections import defaultdict
 chaidb = defaultdict(dict)
 with open('data/moran_chai.txt', 'r') as f:
     for l in f:
+        if l == '\n' or l.startswith('#'):
+            continue
         [char, code, chai] = l.strip().split(' ')
         chaidb[char][code] = chai
 
