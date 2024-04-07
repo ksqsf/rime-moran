@@ -13,7 +13,7 @@
 
 配方： ℞ ksqsf/rime-moran ([線上試用](https://my-rime.vercel.app/?plum=ksqsf/rime-moran:moran,moran_sentence,moran_fixed))
 
-本項目爲基於自然碼（雙拼和輔助碼）的傳承字優先的 Rime 方案，簡稱「魔然」。具有三種模式、五重反查、五萬字、百萬詞庫和多種快捷輸入功能。詳情請參閱[本項目維基](https://github.com/ksqsf/rime-moran/wiki)。
+本項目爲基於自然碼（雙拼和輔助碼）的傳承字優先的 Rime 方案，簡稱「魔然」。具有三種模式、五重反查、八萬字、百萬詞庫和多種快捷輸入功能。詳情請參閱[本項目維基](https://github.com/ksqsf/rime-moran/wiki)。
 
 魔然是開放的、社區維護的項目。歡迎參與！
 
