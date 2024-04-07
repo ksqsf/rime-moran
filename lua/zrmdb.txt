@@ -4304,8 +4304,8 @@
 䒎 sm
 䒏 sc
 䒐 sm
-䒑 ba
 䒑 qm
+䒑 ba
 䒒 cd
 䒓 ck
 䒔 cb
