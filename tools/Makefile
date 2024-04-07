@@ -13,4 +13,7 @@ dict: update-compact-dicts
 update-compact-dicts:
 	./update_compact_dicts.sh
 
-.PHONY: quick all dict gen-zrmdb gen-chai-filter update-compact-dicts
+dazhu:
+	python3 dazhu.py ${DAZHU_DICT} > dazhu.txt
+
+.PHONY: quick all dict gen-zrmdb gen-chai-filter update-compact-dicts dazhu
