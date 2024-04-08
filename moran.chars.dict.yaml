@@ -563,9 +563,8 @@ use_preset_vocabulary: false
 亣	dl;wd	469
 亣	tl;da	469
 亣	tl;wd	469
-交	jc;wf	15564
 交	jc;li	15564
-交	jc;lw	15564
+交	jc;wf	15564
 交	jc;df	15564
 亥	hl;dd	825
 亥	hl;dr	825
@@ -1597,12 +1596,12 @@ use_preset_vocabulary: false
 兓	jn;ww	285
 兔	tu;dd	2208
 兕	si;ea	536
-兖	yj;de	0
 兖	yj;ly	0
+兖	yj;de	0
 兖	yj;we	0
 兗	yj;lx	573
-兗	yj;dx	573
 兗	yj;wx	573
+兗	yj;dx	573
 兘	ui;yt	479
 兙	ui;ku	288
 党	dh;xx	1047
@@ -23918,10 +23917,10 @@ use_preset_vocabulary: false
 衫	uj;yp	1764
 衬	if;yc	0
 衭	fu;yf	328
-衮	gp;dy	0
 衮	gp;ly	0
-衮	gp;wy	0
 衮	gp;yg	0
+衮	gp;wy	0
+衮	gp;dy	0
 衯	ff;yf	486
 衰	cv;yv	12
 衰	uy;yv	1934
@@ -24012,10 +24011,10 @@ use_preset_vocabulary: false
 袜	mo;ym	100
 袜	wa;ym	100
 袝	fu;yf	344
-袞	gp;wy	593
-袞	gp;dy	593
 袞	gp;ly	593
 袞	gp;yk	593
+袞	gp;wy	593
+袞	gp;dy	593
 袟	vi;yu	326
 袠	vi;dy	370
 袠	vi;wy	370
@@ -48762,10 +48761,10 @@ use_preset_vocabulary: false
 𦣴	hr;qq	0	# auto
 𦣸	lm;ij	0	# auto
 𦣺	bl;zu	0	# auto
-𦣻	bl;ho	0	# auto
-𦣻	bl;za	0	# auto
-𦣻	ub;ho	0	# auto
-𦣻	ub;za	0	# auto
+𦣻	bl;ao	0
+𦣻	bl;az	0
+𦣻	ub;ao	0
+𦣻	ub;az	0
 𦣾	wj;zw	0	# auto
 𦤂	uu;zu	0	# auto
 𦤇	gv;zf	0	# auto
