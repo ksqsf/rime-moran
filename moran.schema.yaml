@@ -28,6 +28,7 @@ switches:
   - name: ascii_punct
     states: [ 。，, ．， ]
   - options: [ gbk+emoji, utf8, big5+emoji ]
+    reset: 0
     states: [ GBK, UTF-8, BIG5 ]
   - name: inflexible
     states: [ 動詞, 固詞 ] # 「固詞」表示「固頂詞」
@@ -41,6 +42,7 @@ switches:
   - name: unicode_comment
     states: [ U關, U開 ]
   - options: [ std_opencc,  std_tw, std_hk, std_dzing ]
+    reset: 0
     states: [ 通, 臺, 港, 寍 ]
 
 engine:

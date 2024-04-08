@@ -22,10 +22,8 @@ switches:
   - name: ascii_punct
     states: [ 。，, ．， ]
   - options: [ gbk+emoji, utf8, big5+emoji ]
-    states:
-    - UTF-8
-    - GBK
-    - BIG5
+    reset: 0
+    states: [GBK, UTF-8, BIG5]
   - name: emoji
     states: [ 🈚, 🈶 ]
   - name: chaifen
