@@ -10,6 +10,7 @@ local charset = {
    ["[扩F]"] = { first = 0x2ceb0, last = 0x2ebef },
    ["[扩G]"] = { first = 0x30000, last = 0x3134f },
    ["[扩H]"] = { first = 0x31350, last = 0x323af },
+   ["[扩I]"] = { first = 0x2ebf0, last = 0x2ee5f },
    ["[笔画]"] = { first = 0x31c0, last = 0x31ef },
    ["[部首补充]"] = { first = 0x2e80, last = 0x2eff },
    ["[康熙部首]"] = { first = 0x2f00, last = 0x2fdf },
