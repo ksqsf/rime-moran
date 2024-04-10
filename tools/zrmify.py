@@ -55,20 +55,67 @@ def 聲母轉換(pinyin: str) -> str:
             else:
                 raise ValueError('無效拼音聲母序列: ' + pinyin)
 
+映射表 = {
+    'a': 'a', 'o': 'o', 'e': 'e', 'i': 'i', 'u': 'u', 'v': 'v',
+    'ai': 'l', 'ei': 'z', 'ui': 'v', 'ao': 'k', 'ou': 'b', 'iu': 'q',
+    'ie': 'x', 've': 't', 'ue': 't', 'an': 'j', 'en': 'f', 'in': 'n',
+    'un': 'p',
+    'ang': 'h', 'eng': 'g', 'ing': 'y', 'ong': 's',
+    'ia': 'w', 'iao': 'c', 'ian': 'm', 'iang': 'd', 'iong': 's',
+    'ua': 'w', 'uo': 'o', 'uai': 'y', 'uan': 'r', 'van': 'r', 'uang': 'd'
+}
+
 def 韻母轉換(pinyin: str) -> str:
-    映射表 = {
-        'a': 'a', 'o': 'o', 'e': 'e', 'i': 'i', 'u': 'u', 'v': 'v',
-        'ai': 'l', 'ei': 'z', 'ui': 'v', 'ao': 'k', 'ou': 'b', 'iu': 'q',
-        'ie': 'x', 've': 't', 'ue': 't', 'an': 'j', 'en': 'f', 'in': 'n',
-        'un': 'p',
-        'ang': 'h', 'eng': 'g', 'ing': 'y', 'ong': 's',
-        'ia': 'w', 'iao': 'c', 'ian': 'm', 'iang': 'd', 'iong': 's',
-        'ua': 'w', 'uo': 'o', 'uai': 'y', 'uan': 'r', 'van': 'r', 'uang': 'd'
-    }
+    global 映射表
     if pinyin in 映射表:
         return 映射表[pinyin]
     else:
         raise ValueError('無效拼音韻母序列: ' + pinyin)
+
+
+################################################################################
+from collections import defaultdict
+可接i介音聲母 = {'b','p','m','f','d','t','n','l','j','q','x','y'}
+反向映射表 = defaultdict(list)
+
+for (k, v) in 映射表.items():
+    反向映射表[v].append(k)
+
+def unzrmify1(sp: str):
+    '''將一個自然碼雙拼轉換回拼音'''
+    if sp == 'ah': return 'ang'
+    if sp == 'eg': return 'eng'
+    if sp == 'ls': return 'long'
+    if sp == 'nv': return 'nv'
+    if sp == 'lv': return 'lv'
+    if sp[0] in 'aoe':
+        return sp
+
+    聲 = {'v':'zh', 'u':'sh', 'i': 'ch'}.get(sp[0], sp[0])
+    可能的韻 = 反向映射表[sp[1]]
+
+    if len(可能的韻) == 1:
+        res = 聲 + 可能的韻[0]
+    else:
+        if 可能的韻[0][0] == 'i':
+            i韻 = 可能的韻[0]
+            非i韻 = 可能的韻[1]
+        else:
+            i韻 = 可能的韻[1]
+            非i韻 = 可能的韻[0]
+        if 聲 in 可接i介音聲母:
+            res = 聲 + i韻
+        else:
+            res = 聲 + 非i韻
+
+    if len(res) >= 2:
+        if res[1] == 'v' and res[0] in 'dtnljqxy':
+            return res[0] + 'u' + res[2:]
+    return res
+
+
+def unzrmify(sps: str):
+    return ' '.join(unzrmify1(sp) for sp in sps.split())
 
 
 ################################################################################

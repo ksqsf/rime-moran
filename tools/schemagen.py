@@ -50,13 +50,23 @@ def read_txt_table(path):
     return result
 
 
-def to_double_pinyin(pinyin):
+def to_double_pinyin(pinyin, schema=None):
     global args
-    match args.double_pinyin:
+    match schema or args.double_pinyin:
         case 'zrm':
             return zrmify.zrmify(pinyin)
         case 'flypy':
             return flypyify.flypyify(pinyin)
+    raise ValueError('Unknown double pinyin ' + args.double_pinyin)
+
+
+def from_double_pinyin(pinyin, schema=None):
+    global args
+    match schema or args.double_pinyin:
+        case 'zrm':
+            return zrmify.unzrmify(pinyin)
+        case 'flypy':
+            return flypyify.unflypyify(pinyin)
     raise ValueError('Unknown double pinyin ' + args.double_pinyin)
 
 
@@ -492,6 +502,27 @@ def handle_update_sp():
             print(f'{word}	{word_code}{rest}')
 
 
+def handle_convert_sp():
+    def convert_word_sp(from_, to_, word_code):
+        res = []
+        for char_code in word_code.split(' '):
+            [sp, aux] = char_code.split(';')
+            sp = to_double_pinyin(from_double_pinyin(sp, from_), to_)
+            res.append(sp + ';' + aux)
+        return ' '.join(res)
+    with open(args.rime_dict) as f:
+        for l in f:
+            l = l.strip()
+            m = regex.match(r'^(\p{Han}\p{Han}+)\t([a-z; ]+)(.*)$', l)
+            if not m:
+                print(l)
+                continue
+            word = m[1]
+            code = convert_word_sp('zrm', args.to, m[2])
+            rest = m[3]
+            print(f'{word}\t{code}{rest}')
+
+
 ###############
 ### 程序入口 ###
 ###############
@@ -536,6 +567,11 @@ update_sp = subparsers.add_parser('update-sp', help='根據原始數據重新修
 update_sp.add_argument('--rime-dict', help='輸入rime格式詞庫', required=True)
 update_sp.add_argument('--find', help='只更新含有這些字的詞', default='重長彈阿拗扒蚌薄堡暴辟扁屏剝伯藏禪車稱澄匙臭畜伺攢大單提得都度囤革給合更谷檜巷和虹會奇緝茄嚼僥腳校芥矜勁龜咀殼烙僂綠落脈埋蔓氓秘繆弄瘧娜迫胖稽栖趄色塞厦折說數縮委省削血殷軋行')
 
+convert_sp = subparsers.add_parser('convert-sp', help='轉換雙拼')
+convert_sp.add_argument('--rime-dict', help='輸入rime格式詞庫', required=True)
+convert_sp.add_argument('--from', choices=double_pinyin_choices, help='來源雙拼方案', default='zrm')
+convert_sp.add_argument('--to', choices=double_pinyin_choices, help='目的雙拼方案', required=True)
+
 if __name__ == '__main__':
     args = parser.parse_args()
     if args.command == 'gen-chars':
@@ -550,3 +586,5 @@ if __name__ == '__main__':
         handle_update_char_weight()
     elif args.command == 'update-sp':
         handle_update_sp()
+    elif args.command == 'convert-sp':
+        handle_convert_sp()
