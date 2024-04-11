@@ -513,7 +513,7 @@ def handle_convert_sp():
     with open(args.rime_dict) as f:
         for l in f:
             l = l.strip()
-            m = regex.match(r'^(\p{Han}\p{Han}+)\t([a-z; ]+)(.*)$', l)
+            m = regex.match(r'^(\p{Han}+)\t([a-z; ]+)(.*)$', l)
             if not m:
                 print(l)
                 continue
