@@ -125,8 +125,8 @@ use_preset_vocabulary: false
 一剪人間客	yi;aa jm;dq rf;pd jm;mo ke;bg
 一剪梅	yi;aa jm;dq mz;mm
 一劍凌雲山海情	yi;aa jm;dq ly;dl yp;yy uj;aa hl;dm qy;xq
-一劍鎮神州	yi;aa jm;dq vf;jv uf;uu vb;da
-一劍震神州	yi;aa jm;dq vf;yi uf;uu vb;da
+一劍鎮神州	yi;aa jm;dq vf;jv uf;uu vb;id
+一劍震神州	yi;aa jm;dq vf;yi uf;uu vb;id
 一動也不動	yi;aa ds;lv ye;gg bu;ad ds;lv
 一勝之路	yi;aa ug;ol vi;dd lu;zg
 一匙的公主故事	yi;aa ui;bu de;bu gs;sb vu;dw gu;wg ui;aa
@@ -862,7 +862,7 @@ use_preset_vocabulary: false
 三上真司	sj;aa uh;aa vf;uj si;gk
 三上美嘉	sj;aa uh;aa mz;dy jw;uj
 三上遙香	sj;aa uh;aa yk;zf xd;ho
-三世勢州千子右衛門尉村正	sj;aa ui;ca ui;lv vb;da qm;pa zi;aa yb;ku wz;xi mf;aa wz;cu cp;mc vg;av
+三世勢州千子右衛門尉村正	sj;aa ui;ca ui;lv vb;id qm;pa zi;aa yb;ku wz;xi mf;aa wz;cu cp;mc vg;av
 三世村正	sj;aa ui;ca cp;mc vg;av
 三之輪銀	sj;aa vi;dd lp;il yn;jg
 三五二空	sj;aa wu;aa er;aa ks;xg
@@ -2177,7 +2177,7 @@ use_preset_vocabulary: false
 不要輸阿魯	bu;ad yk;xn uu;iy aa;ek lu;yo
 不要醒來	bu;ad yk;xn xy;yx ll;ad
 不要靠近我啊	bu;ad yk;xn kk;fg jn;zj wo;pd aa;ka
-不要餵食猴子	bu;ad yk;xn wz;uw ui;pd hb;qh zi;aa
+不要餵食猴子	bu;ad yk;xn wz;uw ui;rl hb;qh zi;aa
 不見嶽	bu;ad jm;oe yt;uq
 不規則圖形	bu;ad gv;fj ze;db tu;kh xy;pk
 不規則性熵	bu;ad gv;fj ze;db xy;xu uh;hu
@@ -2833,7 +2833,7 @@ use_preset_vocabulary: false
 中華粘土娘	vs;aa hw;ca nm;mv tu;aa nd;nl
 中華純白娘	vs;aa hw;ca ip;st bl;pa nd;nl
 中華緣木娘	vs;aa hw;ca yr;st mu;ad nd;nl
-中華美食謠	vs;aa hw;ca mz;dy ui;pd yk;yf
+中華美食謠	vs;aa hw;ca mz;dy ui;rl yk;yf
 中華聯邦	vs;aa hw;ca lm;ea bh;ef
 中華聯邦政變	vs;aa hw;ca lm;ea bh;ef vg;wv bm;ws
 中華萌國國慶日	vs;aa hw;ca mg;cm go;kh go;kh qy;gw ri;aa
@@ -3039,7 +3039,7 @@ use_preset_vocabulary: false
 主題世界	vu;dw ti;uy ui;ca jx;tj
 主題曲	vu;dw ti;uy qu;aa
 主題醫院	vu;dw ti;uy yi;yu yr;ew
-主食	vu;dw ui;pd
+主食	vu;dw ui;rl
 主鬥	vu;dw db;aa
 乃乃	nl;pg nl;pg
 乃乃星緣	nl;pg nl;pg xy;ou yr;st
@@ -3323,10 +3323,10 @@ use_preset_vocabulary: false
 九尾雨	jq;py wz;um yu;ad
 九層糕	jq;py cg;uc gk;mg
 九崎凜子	jq;py qi;uq ln;db zi;aa
-九州	jq;py vb;da
-九州方言	jq;py vb;da fh;dg yj;da
-九州腔	jq;py vb;da qd;ok
-九州話	jq;py vb;da hw;yu
+九州	jq;py vb;id
+九州方言	jq;py vb;id fh;dg yj;da
+九州腔	jq;py vb;id qd;ok
+九州話	jq;py vb;id hw;yu
 九年義務教育漏網之魚	jq;py nm;pa yi;yw wu;mw jc;wx yu;os lb;dl wh;sw vi;dd yu;dd
 九式	jq;py ui;gy
 九張機	jq;py vh;gi ji;mj
@@ -4265,7 +4265,7 @@ use_preset_vocabulary: false
 亞非正燃燒	ya;aa fz;aa vg;av rj;hr uk;hy
 亞非燃燒吧	ya;aa fz;aa rj;hr uk;hy ba;kb
 亞頓之矛	ya;aa dp;yt vi;dd mk;sp
-亞食人	ya;aa ui;pd rf;pd
+亞食人	ya;aa ui;rl rf;pd
 亞馬遜	ya;aa ma;ad xp;zs
 亞馬遜之裏	ya;aa ma;ad xp;zs vi;dd li;dy
 亞馬遜女帝	ya;aa ma;ad xp;zs nv;aa di;jb
@@ -4390,7 +4390,7 @@ use_preset_vocabulary: false
 京子	jy;wx zi;aa
 京寶梵姬	jy;wx bk;bb fj;fl ji;ni
 京小烏丸	jy;wx xc;ad wu;pd wj;jd
-京州地區	jy;wx vb;da di;ty qu;kp
+京州地區	jy;wx vb;id di;ty qu;kp
 京巷	jy;wx xd;gs
 京弓	jy;wx gs;ag
 京彌	jy;wx mi;ge
@@ -4449,7 +4449,7 @@ use_preset_vocabulary: false
 亮血條	ld;wj xt;pa tc;rt
 亮鑽電光	ld;wj zr;jz dm;yd gd;ea
 亮閃閃星期一	ld;wj uj;mr uj;mr xy;ou qi;oq yi;aa
-亳州夏侯中學	bo;dq vb;da xw;wz hb;ru vs;aa xt;jz
+亳州夏侯中學	bo;dq vb;id xw;wz hb;ru vs;aa xt;jz
 人世間	rf;pd ui;ca jm;mo
 人中之龍	rf;pd vs;aa vi;dd ls;dg
 人中之龍工作室	rf;pd vs;aa vi;dd ls;dg gs;aa zo;rv ui;bv
@@ -4960,7 +4960,7 @@ use_preset_vocabulary: false
 仙劍奇俠傳七	xm;ru jm;dq qi;dk xw;rj ir;rv qi;ag
 仙劍奇俠傳三	xm;ru jm;dq qi;dk xw;rj ir;rv sj;aa
 仙劍奇俠傳三外傳問情篇	xm;ru jm;dq qi;dk xw;rj ir;rv sj;aa wl;xb vr;rv wf;km qy;xq pm;vb
-仙劍奇俠傳之一劍震神州	xm;ru jm;dq qi;dk xw;rj ir;rv vi;dd yi;aa jm;dq vf;yi uf;uu vb;da
+仙劍奇俠傳之一劍震神州	xm;ru jm;dq qi;dk xw;rj ir;rv vi;dd yi;aa jm;dq vf;yi uf;uu vb;id
 仙劍奇俠傳九野	xm;ru jm;dq qi;dk xw;rj ir;rv jq;py ye;ly
 仙劍奇俠傳二	xm;ru jm;dq qi;dk xw;rj ir;rv er;aa
 仙劍奇俠傳五	xm;ru jm;dq qi;dk xw;rj ir;rv wu;aa
@@ -6305,7 +6305,7 @@ use_preset_vocabulary: false
 佔守	vj;rv ub;bc
 佔棲美久	vj;rv qi;mq mz;dy jq;pd
 何不試着化蛹爲蝶	he;rk bu;ad ui;yu ve;yo hw;rb ys;iy wz;pd dx;im
-何不食肉糜	he;rk bu;ad ui;pd rb;ad mi;mm
+何不食肉糜	he;rk bu;ad ui;rl rb;ad mi;mm
 何了了	he;rk lc;aa lc;aa
 何人來戰	he;rk rf;pd ll;ad vj;gd
 何佳易	he;rk jw;rg yi;ow
@@ -7020,7 +7020,7 @@ use_preset_vocabulary: false
 侏羅紀路障殭屍	vu;rv lo;sv ji;sj lu;zg vh;ev jd;dj ui;us
 侏羅紀鐵桶殭屍	vu;rv lo;sv ji;sj tx;jg ts;my jd;dj ui;us
 侏羅紀隕石獸	vu;rv lo;sv ji;sj yp;ey ui;kp ub;qu
-侏食蟻獸	vu;rv ui;pd yi;iy ub;qu
+侏食蟻獸	vu;rv ui;rl yi;iy ub;qu
 侑爺	yb;ry ye;fy
 供奉	gs;rg fg;ff
 供奉院亞里沙	gs;rg fg;ff yr;ew ya;aa li;aa ua;du
@@ -7740,7 +7740,7 @@ use_preset_vocabulary: false
 偏差之舞	pm;rb ia;yg vi;dd wu;rf
 偏心率	pm;rb xn;dd lv;wu
 偏科生	pm;rb ke;hd ug;na
-偏食	pm;rb ui;pd
+偏食	pm;rb ui;rl
 做一個默默無聞的普通人是一種怎樣的體驗	zo;rg yi;aa ge;rg mo;hq mo;hq wu;rh wf;em de;bu pu;ob ts;zy rf;pd ui;op yi;aa vs;hv zf;xv yh;my de;bu ti;gd yj;mq
 做不了自己	zo;rg bu;ad lc;aa zi;pa ji;ag
 做不到	zo;rg bu;ad dk;dv
@@ -7927,7 +7927,7 @@ use_preset_vocabulary: false
 傑克阿特拉斯	jx;rj ke;eg aa;ek te;ns la;fl si;jq
 傑克霜精	jx;rj ke;eg ud;yx jy;mq
 傑克龍	jx;rj ke;eg ls;dg
-傑出食人魔	jx;rj iu;ck ui;pd rf;pd mo;gm
+傑出食人魔	jx;rj iu;ck ui;rl rf;pd mo;gm
 傑哥	jx;rj ge;kd
 傑哥不要	jx;rj ge;kd bu;ad yk;xn
 傑哥不要啊	jx;rj ge;kd bu;ad yk;xn aa;ka
@@ -8085,7 +8085,7 @@ use_preset_vocabulary: false
 傲氣雄鷹	ao;ra qi;qm xs;vh yy;gn
 傲沉	ao;ra if;dj
 傲涵	ao;ra hj;dh
-傲神州	ao;ra uf;uu vb;da
+傲神州	ao;ra uf;uu vb;id
 傲笑紅塵	ao;ra xc;vy hs;sg if;tl
 傲蘭	ao;ra lj;cj
 傲遊娘	ao;ra yb;zy nd;nl
@@ -8162,7 +8162,7 @@ use_preset_vocabulary: false
 傷害機制	uh;rw hl;bk ji;mj vi;dg
 傷害減量	uh;rw hl;bk jm;dx ld;ol
 傷害瘦身	uh;rw hl;bk ub;bs uf;pp
-傷害節食	uh;rw hl;bk jx;vj ui;pd
+傷害節食	uh;rw hl;bk jx;vj ui;rl
 傷害轉化	uh;rw hl;bk vr;iv hw;rb
 傷害轉移	uh;rw hl;bk vr;iv yi;hd
 傷害電容器	uh;rw hl;bk dm;yd rs;bg qi;kk
@@ -8550,7 +8550,7 @@ use_preset_vocabulary: false
 先知	xm;ne vi;uk
 先知的衣鉢	xm;ne vi;uk de;bu yi;dd bo;jb
 先祖	xm;ne zu;uq
-先祖神州	xm;ne zu;uq uf;uu vb;da
+先祖神州	xm;ne zu;uq uf;uu vb;id
 先行者	xm;ne xy;xd ve;lo
 先行量產型鐵球姬	xm;ne xy;xd ld;ol ij;wu xy;tx tx;jg qq;wq ji;ni
 先進導彈匣協議	xm;ne jn;zv dk;cd dj;gd xw;kj xx;ul yi;yy
@@ -8746,7 +8746,7 @@ use_preset_vocabulary: false
 光米布朗	gd;ea mi;dd bu;ju lh;ol
 光粒	gd;ea li;ml
 光線娘	gd;ea xm;sq nd;nl
-光耀神州	gd;ea yk;gd uf;uu vb;da
+光耀神州	gd;ea yk;gd uf;uu vb;id
 光耀還家鄉	gd;ea yk;gd hl;zh jw;bu xd;el
 光能人	gd;ea ng;sb rf;pd
 光能使者	gd;ea ng;sb ui;rl ve;lo
@@ -8930,7 +8930,7 @@ use_preset_vocabulary: false
 克洛斯	ke;eg lo;dg si;jq
 克洛斯貝爾國防軍	ke;eg lo;dg si;jq bz;ad er;ay go;kh fh;ef jp;bi
 克洛斯貝爾市解放作戰	ke;eg lo;dg si;jq bz;ad er;ay ui;wj jx;jn fh;wf zo;rv vj;gd
-克洛斯貝爾自治州	ke;eg lo;dg si;jq bz;ad er;ay zi;pa vi;dt vb;da
+克洛斯貝爾自治州	ke;eg lo;dg si;jq bz;ad er;ay zi;pa vi;dt vb;id
 克洛斯貝爾警備隊	ke;eg lo;dg si;jq bz;ad er;ay jy;yj bz;ry dv;eu
 克洛斯貝爾警察局	ke;eg lo;dg si;jq bz;ad er;ay jy;yj ia;bj ju;uk
 克洛涅	ke;eg lo;dg nx;dn
@@ -9876,7 +9876,7 @@ use_preset_vocabulary: false
 六尾	lq;wb wz;um
 六尾娘	lq;wb wz;um nd;nl
 六尾犀犬	lq;wb wz;um xi;nu qr;dd
-六州歌頭萬曆朝鮮役	lq;wb vb;da ge;qg tb;dy wj;cy li;io ik;ou xm;yy yi;xu
+六州歌頭萬曆朝鮮役	lq;wb vb;id ge;qg tb;dy wj;cy li;io ik;ou xm;yy yi;xu
 六平銀次郎	lq;wb py;aa yn;jg ci;dq lh;el
 六度分隔理論	lq;wb du;gy ff;bd ge;eg li;wl lp;yl
 六式	lq;wb ui;gy
@@ -10102,7 +10102,7 @@ use_preset_vocabulary: false
 再會	zl;aa hv;ro
 再會了再見	zl;aa hv;ro le;aa zl;aa jm;oe
 再會吧	zl;aa hv;ro ba;kb
-再會愛的食譜	zl;aa hv;ro ai;vw de;bu ui;pd pu;yp
+再會愛的食譜	zl;aa hv;ro ai;vw de;bu ui;rl pu;yp
 再會櫻吹雪	zl;aa hv;ro yy;my iv;kq xt;yx
 再會江湖	zl;aa hv;ro jd;dg hu;dh
 再會無期	zl;aa hv;ro wu;rh qi;oq
@@ -12054,11 +12054,11 @@ use_preset_vocabulary: false
 加山舒貝爾	jw;lk uj;aa uu;yu bz;ad er;ay
 加山雄一	jw;lk uj;aa xs;vh yi;aa
 加島櫻	jw;lk dk;nu yy;my
-加州大學伯克利分校娘	jw;lk vb;da da;ad xt;jz bo;rb ke;eg li;hd ff;bd xc;mj nd;nl
-加州大牀	jw;lk vb;da da;ad id;pm
-加州海獅	jw;lk vb;da hl;dm ui;qu
-加州海獺	jw;lk vb;da hl;dm ta;ql
-加州清光	jw;lk vb;da qy;dq gd;ea
+加州大學伯克利分校娘	jw;lk vb;id da;ad xt;jz bo;rb ke;eg li;hd ff;bd xc;mj nd;nl
+加州大牀	jw;lk vb;id da;ad id;pm
+加州海獅	jw;lk vb;id hl;dm ui;qu
+加州海獺	jw;lk vb;id hl;dm ta;ql
+加州清光	jw;lk vb;id qy;dq gd;ea
 加布	jw;lk bu;ju
 加布獸進化系	jw;lk bu;ju ub;qu jn;zv hw;rb xi;ps
 加布紐維爾	jw;lk bu;ju nq;si wz;sv er;ay
@@ -12504,7 +12504,7 @@ use_preset_vocabulary: false
 勝田久	ug;ol tm;aa jq;pd
 勝田葉菜子	ug;ol tm;aa ye;cm cl;cc zi;aa
 勝矢直樹	ug;ol ui;pd vi;aa uu;mc
-勝者必食	ug;ol ve;lo bi;dd ui;pd
+勝者必食	ug;ol ve;lo bi;dd ui;rl
 勝負內衣	ug;ol fu;db nz;kr yi;dd
 勝龍寺城	ug;ol ls;dg si;ct ig;ti
 勞倫伊羅斯	lk;hl lp;rl yi;ry lo;sv si;jq
@@ -13125,7 +13125,7 @@ use_preset_vocabulary: false
 千年輾轉	qm;pa nm;pa vj;iv vr;iv
 千年錫杖	qm;pa nm;pa xi;jy vh;mv
 千年鑰匙	qm;pa nm;pa yk;jc ui;bu
-千年食譜頌	qm;pa nm;pa ui;pd pu;yp ss;yg
+千年食譜頌	qm;pa nm;pa ui;rl pu;yp ss;yg
 千年首飾	qm;pa nm;pa ub;qz ui;uj
 千年龍	qm;pa nm;pa ls;dg
 千幽	qm;pa yb;uy
@@ -14418,8 +14418,8 @@ use_preset_vocabulary: false
 厭俗法則	yj;iq su;rg fa;dq ze;db
 厭戰	yj;iq vj;gd
 厭煩女孩	yj;iq fj;hy nv;aa hl;zh
-厭食	yj;iq ui;pd
-厭食症	yj;iq ui;pd vg;bv
+厭食	yj;iq ui;rl
+厭食症	yj;iq ui;rl vg;bv
 厲外垃同	li;iw wl;xb la;tl ts;kk
 厲害了我的哥	li;iw hl;bk le;aa wo;pd di;bu ge;kd
 厲巖	li;iw yj;ug
@@ -15292,7 +15292,7 @@ use_preset_vocabulary: false
 可靠	ke;dk kk;fg
 可靠的守護者	ke;dk kk;fg de;bu ub;bc hu;yh ve;lo
 可頌	ke;dk ss;yg
-可食用	ke;dk ui;pd ys;kf
+可食用	ke;dk ui;rl ys;kf
 可魯波	ke;dk lu;yo bo;dp
 可魯貝洛斯	ke;dk lu;yo bz;ad lo;dg si;jq
 可麗兒	ke;dk li;ll er;ej
@@ -16177,10 +16177,10 @@ use_preset_vocabulary: false
 吞武裏	tp;kt wu;vy li;dy
 吞田菊三	tp;kt tm;aa ju;cj sj;aa
 吞雲吐霧	tp;kt yp;yy tu;kt wu;yw
-吞食清風	tp;kt ui;pd qy;dq fg;ji
-吞食着	tp;kt ui;pd ve;yo
-吞食花	tp;kt ui;pd hw;ch
-吞食魚	tp;kt ui;pd yu;dd
+吞食清風	tp;kt ui;rl qy;dq fg;ji
+吞食着	tp;kt ui;rl ve;yo
+吞食花	tp;kt ui;rl hw;ch
+吞食魚	tp;kt ui;rl yu;dd
 吞龍	tp;kt ls;dg
 吟唱開始	yn;kj ih;ki kl;mk ui;nt
 吟河由依	yn;kj he;dk yb;aa yi;ry
@@ -16299,7 +16299,7 @@ use_preset_vocabulary: false
 吸血鬼倖存者	xi;kj xt;pa gv;pd xy;rx cp;uz ve;lo
 吸血鬼公主	xi;kj xt;pa gv;pd gs;sb vu;dw
 吸血鬼同盟	xi;kj xt;pa gv;pd ts;kk mg;mm
-吸血鬼吸食者	xi;kj xt;pa gv;pd xi;kj ui;pd ve;lo
+吸血鬼吸食者	xi;kj xt;pa gv;pd xi;kj ui;rl ve;lo
 吸血鬼女孩	xi;kj xt;pa gv;pd nv;aa hl;zh
 吸血鬼帝國	xi;kj xt;pa gv;pd di;jb go;kh
 吸血鬼慾望	xi;kj xt;pa gv;pd yu;xy wh;wo
@@ -17726,7 +17726,7 @@ use_preset_vocabulary: false
 喫貨	ii;kq ho;bh
 喫貨也想談戀愛	ii;kq ho;bh ye;gg xd;xx tj;yy lm;xs ai;vw
 喫貨公主和見習女巫	ii;kq ho;bh gs;sb vu;dw he;hk jm;oe xi;by nv;aa wu;gc
-喫貨大食堂	ii;kq ho;bh da;ad ui;pd th;tk
+喫貨大食堂	ii;kq ho;bh da;ad ui;rl th;tk
 喫貨女僕	ii;kq ho;bh nv;aa pu;rd
 喫貨少女	ii;kq ho;bh uk;xp nv;aa
 喫貨過大年	ii;kq ho;bh go;zg da;ad nm;pa
@@ -17963,7 +17963,7 @@ use_preset_vocabulary: false
 喵隱	mc;km yn;ej
 喵零	mc;km ly;yl
 喵露朵露薇	mc;km lu;yl do;mj lu;yl wz;cw
-喻文州	yu;ky wf;wi vb;da
+喻文州	yu;ky wf;wi vb;id
 喻文波	yu;ky wf;wi bo;dp
 嗒啦啦	da;kd la;kl la;kl
 嗒啦啦的奇妙冒險	da;kd la;kl la;kl de;bu qi;dk mc;nu mk;oo xm;eq
@@ -17996,7 +17996,7 @@ use_preset_vocabulary: false
 嗜酸性粒細胞	ui;ko sr;yj xy;xu li;ml xi;st bk;ob
 嗜鹼性粒細胞	ui;ko jm;lq xy;xu li;ml xi;st bk;ob
 嗣音殼殼	si;ks yn;lo ke;uj ke;uj
-嗤笑的食人之月	ii;ki xc;vy de;bu ui;pd rf;pd vi;dd yt;oy
+嗤笑的食人之月	ii;ki xc;vy de;bu ui;rl rf;pd vi;dd yt;oy
 嗤笑着的人體模型	ii;ki xc;vy ve;yo de;bu rf;pd ti;gd mo;mm xy;tx
 嗨元素	hl;kh yr;aw su;sf
 嗨呀好氣啊	hl;kh ya;ky hk;nz qi;qm aa;ka
@@ -18183,7 +18183,7 @@ use_preset_vocabulary: false
 噴氣式飛機	pf;kb qi;qm ui;gy fz;ff ji;mj
 噴氣彈藥	pf;kb qi;qm dj;gd yk;cl
 噴氣戰士	pf;kb qi;qm vj;gd ui;aa
-噴氣食人魔	pf;kb qi;qm ui;pd rf;pd mo;gm
+噴氣食人魔	pf;kb qi;qm ui;rl rf;pd mo;gm
 噴水引擎	pf;kb uv;ad yn;ga qy;uj
 噴流球	pf;kb lq;di qq;wq
 噴濺飛魚	pf;kb jm;dj fz;ff yu;dd
@@ -18638,7 +18638,7 @@ use_preset_vocabulary: false
 困在這個雨季	kp;km zl;ta ve;zy ge;rg yu;ad ji;hz
 困境	kp;km jy;tj
 困惑的心靈感應	kp;km ho;xh de;bu xn;dd ly;wl gj;xx yy;gx
-困惑食譜	kp;km ho;xh ui;pd pu;yp
+困惑食譜	kp;km ho;xh ui;rl pu;yp
 困獸	kp;km ub;qu
 困獸島	kp;km ub;qu dk;nu
 困病之籠	kp;km by;bb vi;dd ls;vl
@@ -19162,7 +19162,7 @@ use_preset_vocabulary: false
 在相思樹下	zl;ta xd;mo si;tx uu;mc xw;ab
 在眉心點火	zl;ta mz;om xn;dd dm;hv ho;dd
 在看不見的地方死去	zl;ta kj;ou bu;ad jm;oe de;bu di;ty fh;dg si;db qu;ts
-在睡不着的夜裏把你喰食	zl;ta uv;oi bu;ad ve;yo de;bu ye;wd li;dy ba;fb ni;re cj;ku ui;pd
+在睡不着的夜裏把你喰食	zl;ta uv;oi bu;ad ve;yo de;bu ye;wd li;dy ba;fb ni;re cj;ku ui;rl
 在祕密的前方等待着	zl;ta mi;ub mi;ub de;bu qm;bd fh;dg dg;vs dl;xs ve;yo
 在神聖的夜晚	zl;ta uf;uu ug;ew de;bu ye;wd wj;om
 在祭典上大喊	zl;ta ji;uy dm;ba uh;aa da;ad hj;kx
@@ -20647,7 +20647,7 @@ use_preset_vocabulary: false
 壺男	hu;ua nj;tl
 壽克特	ub;uc ke;eg te;ns
 壽司	ub;uc si;gk
-壽司強食者	ub;uc si;gk qd;gi ui;pd ve;lo
+壽司強食者	ub;uc si;gk qd;gi ui;rl ve;lo
 壽司道之路	ub;uc si;gk dk;zu vi;dd lu;zg
 壽命論	ub;uc my;re lp;yl
 壽喜燒	ub;uc xi;uk uk;hy
@@ -21635,7 +21635,7 @@ use_preset_vocabulary: false
 夜間獨行	ye;wd jm;mo du;qi xy;xd
 夜隱重霞	ye;wd yn;ej vs;pa xw;yj
 夜雀	ye;wd qt;vx
-夜雀食堂	ye;wd qt;vx ui;pd th;tk
+夜雀食堂	ye;wd qt;vx ui;rl th;tk
 夜雨	ye;wd yu;ad
 夜雨聲煩	ye;wd yu;ad ug;eq fj;hy
 夜雷	ye;wd lz;yt
@@ -22005,7 +22005,7 @@ use_preset_vocabulary: false
 大久保藍子	da;ad jq;pd bk;rd lj;cj zi;aa
 大久保貴	da;ad jq;pd bk;rd gv;bg
 大九	da;ad jq;py
-大九州東方祭	da;ad jq;py vb;da ds;ad fh;dg ji;uy
+大九州東方祭	da;ad jq;py vb;id ds;ad fh;dg ji;uy
 大亂鬥	da;ad lr;gy db;aa
 大事年表	da;ad ui;aa nm;pa bc;fy
 大井	da;ad jy;aa
@@ -22346,7 +22346,7 @@ use_preset_vocabulary: false
 大川透	da;ad ir;pa tb;zx
 大川隆法	da;ad ir;pa ls;eu fa;dq
 大工健三郎	da;ad gs;aa jm;rj sj;aa lh;el
-大巨人食人魔	da;ad ju;kk rf;pd ui;pd rf;pd mo;gm
+大巨人食人魔	da;ad ju;kk rf;pd ui;rl rf;pd mo;gm
 大帝	da;ad di;jb
 大帝國	da;ad di;jb go;kh
 大帝獎	da;ad di;jb jd;qj
@@ -22942,8 +22942,8 @@ use_preset_vocabulary: false
 大風暴	da;ad fg;ji bk;ou
 大飛	da;ad fz;ff
 大飛燕草	da;ad fz;ff yj;ch ck;cz
-大食花	da;ad ui;pd hw;ch
-大食蟻獸	da;ad ui;pd yi;iy ub;qu
+大食花	da;ad ui;rl hw;ch
+大食蟻獸	da;ad ui;rl yi;iy ub;qu
 大餛飩	da;ad hp;uk tp;ut
 大餛飩娘	da;ad hp;uk tp;ut nd;nl
 大馬猴	da;ad ma;ad hb;qh
@@ -23115,7 +23115,7 @@ use_preset_vocabulary: false
 天使騷騷	tm;ad ui;rl sk;mz sk;mz
 天使體操	tm;ad ui;rl ti;gd ck;fz
 天使魚	tm;ad ui;rl yu;dd
-天依投食歌	tm;ad yi;ry tb;fu ui;pd ge;qg
+天依投食歌	tm;ad yi;ry tb;fu ui;rl ge;qg
 天依藍	tm;ad yi;ry lj;cj
 天倉澪	tm;ad ch;rk ly;dl
 天元	tm;ad yr;aw
@@ -23481,7 +23481,7 @@ use_preset_vocabulary: false
 天王寺美麗	tm;ad wh;aa si;ct mz;dy li;ll
 天王寺裕吾	tm;ad wh;aa si;ct yu;yg wu;wk
 天王寺雫	tm;ad wh;aa si;ct na;yx
-天王州雅典娜	tm;ad wh;aa vb;da ya;vy dm;ba na;nn
+天王州雅典娜	tm;ad wh;aa vb;id ya;vy dm;ba na;nn
 天王星	tm;ad wh;aa xy;ou
 天王星渦芽	tm;ad wh;aa xy;ou wo;dg ya;cy
 天王路博史	tm;ad wh;aa lu;zg bo;uc ui;ad
@@ -23498,7 +23498,7 @@ use_preset_vocabulary: false
 天生壞種	tm;ad ug;na hy;th vs;hv
 天生完美	tm;ad ug;na wj;by mz;dy
 天生尤物	tm;ad ug;na yb;ad wu;nw
-天生翅粉食譜頌	tm;ad ug;na ii;vy ff;mf ui;pd pu;yp ss;yg
+天生翅粉食譜頌	tm;ad ug;na ii;vy ff;mf ui;rl pu;yp ss;yg
 天田南	tm;ad tm;aa nj;ua
 天田士郎	tm;ad tm;aa ui;aa lh;el
 天田益男	tm;ad tm;aa yi;mb nj;tl
@@ -23695,7 +23695,7 @@ use_preset_vocabulary: false
 天蠍座	tm;ad xx;ix zo;gz
 天蠍號	tm;ad xx;ix hk;hh
 天行九歌	tm;ad xy;xd jq;py ge;qg
-天行九歌之馭鼎九州	tm;ad xy;xd jq;py ge;qg vi;dd yu;my dy;oa jq;py vb;da
+天行九歌之馭鼎九州	tm;ad xy;xd jq;py ge;qg vi;dd yu;my dy;oa jq;py vb;id
 天行健	tm;ad xy;xd jm;rj
 天衍四九	tm;ad yj;ri si;aa jq;py
 天衝	tm;ad is;xi
@@ -23843,7 +23843,7 @@ use_preset_vocabulary: false
 天體英雄	tm;ad ti;gd yy;cy xs;vh
 天體觀測	tm;ad ti;gd gr;jv ce;dz
 天體運行式	tm;ad ti;gd yp;zj xy;xd ui;gy
-天高少女食慾之秋	tm;ad gk;wk uk;xp nv;aa ui;pd yu;xy vi;dd qq;hh
+天高少女食慾之秋	tm;ad gk;wk uk;xp nv;aa ui;rl yu;xy vi;dd qq;hh
 天高遠兮風吟唱	tm;ad gk;wk yr;zy xi;bk fg;ji yn;kj ih;ki
 天高雲闊風語如歌	tm;ad gk;wk yp;yy ko;mh fg;ji yu;yw ru;nk ge;qg
 天鬥輝巧極	tm;ad db;aa hv;gj qc;gk ji;ma
@@ -26507,7 +26507,7 @@ use_preset_vocabulary: false
 孤獨的番人	gu;zg du;qi de;bu fj;tb rf;pd
 孤獨的盡頭	gu;zg du;qi de;bu jn;md tb;dy
 孤獨的看守人	gu;zg du;qi de;bu kj;ou ub;bc rf;pd
-孤獨的美食家	gu;zg du;qi de;bu mz;dy ui;pd jw;bu
+孤獨的美食家	gu;zg du;qi de;bu mz;dy ui;rl jw;bu
 孤獨的聲明	gu;zg du;qi de;bu ug;eq my;oo
 孤獨的迴廊	gu;zg du;qi de;bu hv;zh lh;gl
 孤獨的造物主	gu;zg du;qi de;bu zk;zg wu;nw vu;dw
@@ -28613,7 +28613,7 @@ use_preset_vocabulary: false
 小倉紫苑	xc;ad ch;rk zi;sc yr;ce
 小倉結衣	xc;ad ch;rk jx;sj yi;dd
 小倉詩音	xc;ad ch;rk ui;ys yn;lo
-小倩投食計劃	xc;ad qm;rq tb;fu ui;pd ji;yu hw;dh
+小倩投食計劃	xc;ad qm;rq tb;fu ui;rl ji;yu hw;dh
 小傘	xc;ad sj;ru
 小傘一把	xc;ad sj;ru yi;aa ba;fb
 小優	xc;ad yb;rw
@@ -28935,7 +28935,7 @@ use_preset_vocabulary: false
 小島英樹	xc;ad dk;nu yy;cy uu;mc
 小島菜菜惠	xc;ad dk;nu cl;cc cl;cc hv;xh
 小島葉	xc;ad dk;nu ye;cm
-小島食品工廠株式會社社歌	xc;ad dk;nu ui;pd pn;kk gs;aa ih;gi vu;mv ui;gy hv;ro ue;ut ue;ut ge;qg
+小島食品工廠株式會社社歌	xc;ad dk;nu ui;rl pn;kk gs;aa ih;gi vu;mv ui;gy hv;ro ue;ut ue;ut ge;qg
 小島鹿衫	xc;ad dk;nu lu;gb uj;yp
 小嶺幸	xc;ad ly;ul xy;tu
 小巖井吉乃	xc;ad yj;ug jy;aa ji;ku nl;pg
@@ -29714,7 +29714,7 @@ use_preset_vocabulary: false
 小飛象	xc;ad fz;ff xd;du
 小飛雞	xc;ad fz;ff ji;vx
 小飛龍	xc;ad fz;ff ls;dg
-小食蟻獸	xc;ad ui;pd yi;iy ub;qu
+小食蟻獸	xc;ad ui;rl yi;iy ub;qu
 小飯中年事件簿	xc;ad fj;uf vs;aa nm;pa ui;aa jm;rn bu;vc
 小養	xc;ad yh;yl
 小餛飩娘	xc;ad hp;uk tp;ut nd;nl
@@ -31582,7 +31582,7 @@ use_preset_vocabulary: false
 巧克力旋律巧克力規則	qc;gk ke;eg li;gp xr;fp lv;xy qc;gk ke;eg li;gp gv;fj ze;db
 巧克力波斯菊	qc;gk ke;eg li;gp bo;dp si;jq ju;cj
 巧克力牛奶	qc;gk ke;eg li;gp nq;pa nl;nn
-巧克力的低音食譜	qc;gk ke;eg li;gp de;bu di;rd yn;lo ui;pd pu;yp
+巧克力的低音食譜	qc;gk ke;eg li;gp de;bu di;rd yn;lo ui;rl pu;yp
 巧克力的魔女	qc;gk ke;eg li;gp de;bu mo;gm nv;aa
 巧克力秋英	qc;gk ke;eg li;gp qq;hh yy;cy
 巧克力與隕石	qc;gk ke;eg li;gp yu;ba yp;ey ui;kp
@@ -31618,7 +31618,7 @@ use_preset_vocabulary: false
 巨人武器	ju;kk rf;pd wu;vy qi;kk
 巨人王	ju;kk rf;pd wh;aa
 巨人類魔物	ju;kk rf;pd lz;yl mo;gm wu;nw
-巨人食人魔	ju;kk rf;pd ui;pd rf;pd mo;gm
+巨人食人魔	ju;kk rf;pd ui;rl rf;pd mo;gm
 巨人鬥士	ju;kk rf;pd db;aa ui;aa
 巨像	ju;kk xd;rx
 巨兵長城傳	ju;kk by;qb ih;ad ig;ti ir;rv
@@ -33074,7 +33074,7 @@ use_preset_vocabulary: false
 幸福的語言	xy;tu fu;uf de;bu yu;yw yj;da
 幸福的謝幕	xy;tu fu;uf de;bu xx;yu mu;jm
 幸福的遺失物	xy;tu fu;uf de;bu yi;zg ui;pf wu;nw
-幸福的食譜	xy;tu fu;uf de;bu ui;pd pu;yp
+幸福的食譜	xy;tu fu;uf de;bu ui;rl pu;yp
 幸福的魔女	xy;tu fu;uf de;bu mo;gm nv;aa
 幸福的魔法	xy;tu fu;uf de;bu mo;gm fa;dq
 幸福者	xy;tu fu;uf ve;lo
@@ -33674,7 +33674,7 @@ use_preset_vocabulary: false
 康乃馨	kh;gl nl;pg xn;ux
 康仙雲	kh;gl xm;ru yp;yy
 康克德	kh;gl ke;eg de;xx
-康克德與甜食	kh;gl ke;eg de;xx yu;ba tm;ug ui;pd
+康克德與甜食	kh;gl ke;eg de;xx yu;ba tm;ug ui;rl
 康兒	kh;gl er;ej
 康威	kh;gl wz;gn
 康威城堡	kh;gl wz;gn ig;ti bk;tb
@@ -33841,24 +33841,24 @@ use_preset_vocabulary: false
 廣島話	gd;gh dk;nu hw;yu
 廣崎美奈	gd;gh qi;uq mz;dy nl;du
 廣川卯月	gd;gh ir;pa mk;ep yt;oy
-廣州	gd;gh vb;da
-廣州九五年動畫有限公司	gd;gh vb;da jq;py wu;aa nm;pa ds;lv hw;ya yb;ou xm;eg gs;sb si;gk
-廣州二中娘	gd;gh vb;da er;aa vs;aa nd;nl
-廣州執信中學娘	gd;gh vb;da vi;wx xn;ry vs;aa xt;jz nd;nl
-廣州外國語學校娘	gd;gh vb;da wl;xb go;kh yu;yw xt;jz xc;mj nd;nl
-廣州大火鳥文化傳媒有限公司	gd;gh vb;da da;ad ho;dd nc;pd wf;wi hw;rb ir;rv mz;nm yb;ou xm;eg gs;sb si;gk
-廣州奧飛動漫文化傳播有限公司	gd;gh vb;da ao;db fz;ff ds;lv mj;dm wf;wi hw;rb ir;rv bo;ff yb;ou xm;eg gs;sb si;gk
-廣州奧飛文化傳播有限公司	gd;gh vb;da ao;db fz;ff wf;wi hw;rb ir;rv bo;ff yb;ou xm;eg gs;sb si;gk
-廣州娘	gd;gh vb;da nd;nl
-廣州宅報	gd;gh vb;da vl;bq bk;ex
-廣州市	gd;gh vb;da ui;wj
-廣州市聲優音畫文化傳播有限公司	gd;gh vb;da ui;wj ug;eq yb;rw yn;lo hw;ya wf;wi hw;rb ir;rv bo;ff yb;ou xm;eg gs;sb si;gk
-廣州庫洛科技有限公司	gd;gh vb;da ku;gi lo;dg ke;hd ji;fv yb;ou xm;eg gs;sb si;gk
-廣州日報	gd;gh vb;da ri;aa bk;ex
-廣州百漫文化傳播有限公司	gd;gh vb;da bl;ab mj;dm wf;wi hw;rb ir;rv bo;ff yb;ou xm;eg gs;sb si;gk
-廣州紅小豆動畫有限公司	gd;gh vb;da hs;sg xc;ad db;aa ds;lv hw;ya yb;ou xm;eg gs;sb si;gk
-廣州衝鋒隊	gd;gh vb;da is;xi fg;jf dv;eu
-廣州隊娘	gd;gh vb;da dv;eu nd;nl
+廣州	gd;gh vb;id
+廣州九五年動畫有限公司	gd;gh vb;id jq;py wu;aa nm;pa ds;lv hw;ya yb;ou xm;eg gs;sb si;gk
+廣州二中娘	gd;gh vb;id er;aa vs;aa nd;nl
+廣州執信中學娘	gd;gh vb;id vi;wx xn;ry vs;aa xt;jz nd;nl
+廣州外國語學校娘	gd;gh vb;id wl;xb go;kh yu;yw xt;jz xc;mj nd;nl
+廣州大火鳥文化傳媒有限公司	gd;gh vb;id da;ad ho;dd nc;pd wf;wi hw;rb ir;rv mz;nm yb;ou xm;eg gs;sb si;gk
+廣州奧飛動漫文化傳播有限公司	gd;gh vb;id ao;db fz;ff ds;lv mj;dm wf;wi hw;rb ir;rv bo;ff yb;ou xm;eg gs;sb si;gk
+廣州奧飛文化傳播有限公司	gd;gh vb;id ao;db fz;ff wf;wi hw;rb ir;rv bo;ff yb;ou xm;eg gs;sb si;gk
+廣州娘	gd;gh vb;id nd;nl
+廣州宅報	gd;gh vb;id vl;bq bk;ex
+廣州市	gd;gh vb;id ui;wj
+廣州市聲優音畫文化傳播有限公司	gd;gh vb;id ui;wj ug;eq yb;rw yn;lo hw;ya wf;wi hw;rb ir;rv bo;ff yb;ou xm;eg gs;sb si;gk
+廣州庫洛科技有限公司	gd;gh vb;id ku;gi lo;dg ke;hd ji;fv yb;ou xm;eg gs;sb si;gk
+廣州日報	gd;gh vb;id ri;aa bk;ex
+廣州百漫文化傳播有限公司	gd;gh vb;id bl;ab mj;dm wf;wi hw;rb ir;rv bo;ff yb;ou xm;eg gs;sb si;gk
+廣州紅小豆動畫有限公司	gd;gh vb;id hs;sg xc;ad db;aa ds;lv hw;ya yb;ou xm;eg gs;sb si;gk
+廣州衝鋒隊	gd;gh vb;id is;xi fg;jf dv;eu
+廣州隊娘	gd;gh vb;id dv;eu nd;nl
 廣播劇	gd;gh bo;ff ju;dj
 廣播室	gd;gh bo;ff ui;bv
 廣播節目	gd;gh bo;ff jx;vj mu;aa
@@ -34172,7 +34172,7 @@ use_preset_vocabulary: false
 弱者爲何要戰鬥	ro;gd ve;lo wz;pd he;rk yk;xn vj;gd db;aa
 弱者的意志	ro;gd ve;lo de;bu yi;xy vi;ux
 弱肉一色	ro;gd rb;ad yi;aa se;db
-弱肉共食	ro;gd rb;ad gs;bc ui;pd
+弱肉共食	ro;gd rb;ad gs;bc ui;rl
 弱蟲的腳踏板	ro;gd is;ii de;bu jc;oq ta;zt bj;mf
 弱蟲腳踏板	ro;gd is;ii jc;oq ta;zt bj;mf
 弱視少女	ro;gd ui;ju uk;xp nv;aa
@@ -35278,7 +35278,7 @@ use_preset_vocabulary: false
 御琴羽壽沙都	yu;xx qn;wj yu;xx ub;uc ua;du db;ev
 御用守護娘	yu;xx ys;kf ub;bc hu;yh nd;nl
 御用守護者	yu;xx ys;kf ub;bc hu;yh ve;lo
-御用捕食者	yu;xx ys;kf bu;ff ui;pd ve;lo
+御用捕食者	yu;xx ys;kf bu;ff ui;rl ve;lo
 御用王	yu;xx ys;kf wh;aa
 御用皇帝	yu;xx ys;kf hd;bw di;jb
 御用追緝者	yu;xx ys;kf vv;zv ji;se ve;lo
@@ -35524,8 +35524,8 @@ use_preset_vocabulary: false
 德川杯面禁止令	de;xx ir;pa bz;mb mm;aa jn;ul vi;aa ly;rs
 德川深根	de;xx ir;pa uf;dm gf;mg
 德川茉莉	de;xx ir;pa mo;cm li;cl
-德州扒雞	de;xx vb;da pa;fb ji;vx
-德州撲克	de;xx vb;da pu;fd ke;eg
+德州扒雞	de;xx vb;id pa;fb ji;vx
+德州撲克	de;xx vb;id pu;fd ke;eg
 德希梅洛笛	de;xx xi;ju mz;mm lo;dg di;vy
 德式背摔	de;xx ui;gy bz;ob uy;fl
 德式英語	de;xx ui;gy yy;cy yu;yw
@@ -36888,8 +36888,8 @@ use_preset_vocabulary: false
 惡靈的衆神	ee;xy ly;wl de;bu vs;xd uf;uu
 惡靈附身	ee;xy ly;wl fu;ef uf;pp
 惡靈騎士	ee;xy ly;wl qi;mq ui;aa
-惡食娘	ee;xy ui;pd nd;nl
-惡食娘空琪塔	ee;xy ui;pd nd;nl ks;xg qi;wq ta;td
+惡食娘	ee;xy ui;rl nd;nl
+惡食娘空琪塔	ee;xy ui;rl nd;nl ks;xg qi;wq ta;td
 惡鬼	ee;xy gv;pd
 惡鬼羅剎	ee;xy gv;pd lo;sv ia;du
 惡鬼薊歌	ee;xy gv;pd ji;cd ge;qg
@@ -37300,7 +37300,7 @@ use_preset_vocabulary: false
 愛情是烤肉的滋味	ai;vw qy;xq ui;op kk;hk rb;ad de;bu zi;dz wz;kw
 愛情是盲目的	ai;vw qy;xq ui;op mh;ow mu;aa di;bu
 愛情狂現	ai;vw qy;xq kd;qw xm;wj
-愛情異食症	ai;vw qy;xq yi;tg ui;pd vg;bv
+愛情異食症	ai;vw qy;xq yi;tg ui;rl vg;bv
 愛情突襲	ai;vw qy;xq tu;xq xi;yl
 愛情靈藥調配中	ai;vw qy;xq ly;wl yk;cl dc;yv pz;yj vs;aa
 愛惜等級制度	ai;vw xi;xx dg;vs ji;sj vi;dg du;gy
@@ -37832,7 +37832,7 @@ use_preset_vocabulary: false
 應徵入伍	yy;gx vg;xw ru;pd wu;rw
 應急修理女神	yy;gx ji;xi xq;rp li;wl nv;aa uf;uu
 應急修理要員	yy;gx ji;xi xq;rp li;wl yk;xn yr;kb
-應急食品	yy;gx ji;xi ui;pd pn;kk
+應急食品	yy;gx ji;xi ui;rl pn;kk
 應援	yy;gx yr;fy
 應援色	yy;gx yr;fy se;db
 應是故人來	yy;gx ui;op gu;wg rf;pd ll;ad
@@ -37935,7 +37935,7 @@ use_preset_vocabulary: false
 戀姬無雙	lm;xs ji;ni wu;rh ud;vy
 戀姬物語	lm;xs ji;ni wu;nw yu;yw
 戀守歌	lm;xs ub;bc ge;qg
-戀屍川同學是肉食系	lm;xs ui;us ir;pa ts;kk xt;jz ui;op rb;ad ui;pd xi;ps
+戀屍川同學是肉食系	lm;xs ui;us ir;pa ts;kk xt;jz ui;op rb;ad ui;rl xi;ps
 戀屍癖	lm;xs ui;us pi;bb
 戀崎桃	lm;xs qi;uq tk;mv
 戀川志穗	lm;xs ir;pa vi;ux sv;hh
@@ -38069,7 +38069,7 @@ use_preset_vocabulary: false
 戀愛陷阱	lm;xs ai;vw xm;ej jy;ej
 戀愛隨意鏈接	lm;xs ai;vw sv;es yi;xy lm;jl jx;fq
 戀愛預演	lm;xs ai;vw yu;yy yj;dy
-戀愛食譜五星級	lm;xs ai;vw ui;pd pu;yp wu;aa xy;ou ji;sj
+戀愛食譜五星級	lm;xs ai;vw ui;rl pu;yp wu;aa xy;ou ji;sj
 戀慕之心的交織方式	lm;xs mu;cx vi;dd xn;dd de;bu jc;li vi;sg fh;dg ui;gy
 戀慕之心的假面舞會	lm;xs mu;cx vi;dd xn;dd de;bu jw;rj mm;aa wu;rf hv;ro
 戀慕之心的化妝舞會	lm;xs mu;cx vi;dd xn;dd de;bu hw;rb vd;np wu;rf hv;ro
@@ -38116,7 +38116,7 @@ use_preset_vocabulary: false
 戀色空模樣	lm;xs se;db ks;xg mu;mm yh;my
 戀色能量	lm;xs se;db ng;sb ld;ol
 戀色花開之時	lm;xs se;db hw;ch kl;mk vi;dd ui;os
-戀色食譜	lm;xs se;db ui;pd pu;yp
+戀色食譜	lm;xs se;db ui;rl pu;yp
 戀色鳶尾	lm;xs se;db yr;ny wz;um
 戀花	lm;xs hw;ch
 戀花綻放櫻飛時	lm;xs hw;ch vj;sd fh;wf yy;my fz;ff ui;os
@@ -39054,7 +39054,7 @@ use_preset_vocabulary: false
 我的音頭	wo;pd de;bu yn;lo tb;dy
 我的頓知力	wo;pd de;bu dp;yt vi;uk li;gp
 我的風箏離家出走	wo;pd de;bu fg;ji vg;vv li;vl jw;bu iu;ck zb;tv
-我的食物看起來很可愛	wo;pd de;bu ui;pd wu;nw kj;ou qi;zj ll;ad hf;xg ke;dk ai;vw
+我的食物看起來很可愛	wo;pd de;bu ui;rl wu;nw kj;ou qi;zj ll;ad hf;xg ke;dk ai;vw
 我的首推是惡役大小姐	wo;pd de;bu ub;qz tv;fv ui;op ee;xy yi;xu da;ad xc;ad jx;nq
 我的魔塔	wo;pd de;bu mo;gm ta;td
 我的鯨魚男友	wo;pd de;bu jy;yj yu;dd nj;tl yb;yu
@@ -39464,7 +39464,7 @@ use_preset_vocabulary: false
 戰鬥瞬間移動	vj;gd db;aa up;ou jm;mo yi;hd ds;lv
 戰鬥碉堡	vj;gd db;aa dc;uv bk;tb
 戰鬥種族	vj;gd db;aa vs;hv zu;fu
-戰鬥糧食	vj;gd db;aa ld;ml ui;pd
+戰鬥糧食	vj;gd db;aa ld;ml ui;rl
 戰鬥系統	vj;gd db;aa xi;ps ts;si
 戰鬥義肢	vj;gd db;aa yi;yw vi;ov
 戰鬥翔鷹	vj;gd db;aa xd;yy yy;gn
@@ -40033,7 +40033,7 @@ use_preset_vocabulary: false
 投稿作品	tb;fu gk;hg zo;rv pn;kk
 投身光芒	tb;fu uf;pp gd;ea mh;cw
 投降輸一半	tb;fu xd;ef uu;iy yi;aa bj;bf
-投食歌	tb;fu ui;pd ge;qg
+投食歌	tb;fu ui;rl ge;qg
 抖抖村	db;fd db;fd cp;mc
 抖機靈	db;fd ji;mj ly;wl
 抖艾斯斯基	db;fd ai;ci si;jq si;jq ji;tq
@@ -40613,7 +40613,7 @@ use_preset_vocabulary: false
 挑染	tc;fv rj;mg
 挑染哥	tc;fv rj;mg ge;kd
 挑釁	tc;fv xn;fy
-挑食	tc;fv ui;pd
+挑食	tc;fv ui;rl
 挖地瓜機器人	wa;fw di;ty gw;pd ji;mj qi;kk rf;pd
 挖地瓜機器人大叔	wa;fw di;ty gw;pd ji;mj qi;kk rf;pd da;ad uu;yx
 挖坑	wa;fw kg;tk
@@ -40661,14 +40661,14 @@ use_preset_vocabulary: false
 捕捉閃耀的瞬間	bu;ff vo;fz uj;mr yk;gd de;bu up;ou jm;mo
 捕肉手	bu;ff rb;ad ub;pa
 捕蟲少年	bu;ff is;ii uk;xp nm;pa
-捕食嫁接	bu;ff ui;pd jw;nj jx;fq
-捕食惑星	bu;ff ui;pd ho;xh xy;ou
-捕食植物	bu;ff ui;pd vi;mv wu;nw
-捕食生成	bu;ff ui;pd ug;na ig;gg
-捕食者	bu;ff ui;pd ve;lo
-捕食花盆	bu;ff ui;pd hw;ch pf;mf
-捕食遊星	bu;ff ui;pd yb;zy xy;ou
-捕食遊星威爾帕	bu;ff ui;pd yb;zy xy;ou wz;gn er;ay pa;jb
+捕食嫁接	bu;ff ui;rl jw;nj jx;fq
+捕食惑星	bu;ff ui;rl ho;xh xy;ou
+捕食植物	bu;ff ui;rl vi;mv wu;nw
+捕食生成	bu;ff ui;rl ug;na ig;gg
+捕食者	bu;ff ui;rl ve;lo
+捕食花盆	bu;ff ui;rl hw;ch pf;mf
+捕食遊星	bu;ff ui;rl yb;zy xy;ou
+捕食遊星威爾帕	bu;ff ui;rl yb;zy xy;ou wz;gn er;ay pa;jb
 捕鼠夾	bu;ff uu;ju jw;dc
 捧心蘭	pg;ff xn;dd lj;cj
 捧讀	pg;ff du;ym
@@ -40760,7 +40760,7 @@ use_preset_vocabulary: false
 掘地求升	jt;fq di;ty qq;ad ug;pc
 掘地蟲	jt;fq di;ty is;ii
 掘墓人	jt;fq mu;tm rf;pd
-掘墓的食屍鬼	jt;fq mu;tm de;bu ui;pd ui;us gv;pd
+掘墓的食屍鬼	jt;fq mu;tm de;bu ui;rl ui;us gv;pd
 掘墓者	jt;fq mu;tm ve;lo
 掛居美早	gw;fg ju;ug mz;dy zk;ou
 掛川城	gw;fg ir;pa ig;ti
@@ -40943,9 +40943,9 @@ use_preset_vocabulary: false
 插頭人	ia;fi tb;dy rf;pd
 揚威	yh;fy wz;gn
 揚尼	yh;fy ni;ub
-揚州姑娘	yh;fy vb;da gu;ng nd;nl
-揚州殤	yh;fy vb;da uh;dw
-揚州炒飯	yh;fy vb;da ik;hu fj;uf
+揚州姑娘	yh;fy vb;id gu;ng nd;nl
+揚州殤	yh;fy vb;id uh;dw
+揚州炒飯	yh;fy vb;id ik;hu fj;uf
 揚旗鳴鼓	yh;fy qi;fq my;kn gu;vd
 揚波	yh;fy bo;dp
 揚番長	yh;fy fj;tb vh;ad
@@ -41256,7 +41256,7 @@ use_preset_vocabulary: false
 擁有愛的錯想	ys;fv yb;ou ai;vw de;bu co;jx xd;xx
 擁有未來	ys;fv yb;ou wz;ex ll;ad
 擁有翅膀的人們	ys;fv yb;ou ii;vy bh;op de;bu rf;pd mf;rm
-擁有超常技能的異世界流浪美食家	ys;fv yb;ou ik;zv ih;jk ji;fv ng;sb de;bu yi;tg ui;ca jx;tj lq;di lh;dl mz;dy ui;pd jw;bu
+擁有超常技能的異世界流浪美食家	ys;fv yb;ou ik;zv ih;jk ji;fv ng;sb de;bu yi;tg ui;ca jx;tj lq;di lh;dl mz;dy ui;rl jw;bu
 擂臺	lz;fl tl;uv
 擂臺的熾天使	lz;fl tl;uv de;bu ii;hg tm;ad ui;rl
 擄我走	lu;fl wo;pd zb;tv
@@ -41670,7 +41670,7 @@ use_preset_vocabulary: false
 敗犬至上主義	bl;wb qr;dd vi;tv uh;aa vu;dw yi;yw
 敗絮其中	bl;wb xu;sr qi;ba vs;aa
 敗者	bl;wb ve;lo
-敗者食塵	bl;wb ve;lo ui;pd if;tl
+敗者食塵	bl;wb ve;lo ui;rl if;tl
 敗走	bl;wb zb;tv
 敗走出產日	bl;wb zb;tv iu;ck ij;wu ri;aa
 敗醬	bl;wb jd;yj
@@ -42250,7 +42250,7 @@ use_preset_vocabulary: false
 新創華	xn;jq id;dc hw;ca
 新創華翻譯梗	xn;jq id;dc hw;ca fj;yf yi;yx gg;mg
 新加坡	xn;jq jw;lk po;tp
-新加州共和國	xn;jq jw;lk vb;da gs;bc he;hk go;kh
+新加州共和國	xn;jq jw;lk vb;id gs;bc he;hk go;kh
 新動車組篇	xn;jq ds;lv ie;aa zu;sq pm;vb
 新卡	xn;jq ka;bx
 新吉恩	xn;jq ji;ku en;xy
@@ -42857,7 +42857,7 @@ use_preset_vocabulary: false
 日光狼	ri;aa gd;ea lh;ql
 日光耀耀	ri;aa gd;ea yk;gd yk;gd
 日光航線	ri;aa gd;ea hh;vk xm;sq
-日全食之書	ri;aa qr;rw ui;pd vi;dd uu;oy
+日全食之書	ri;aa qr;rw ui;rl vi;dd uu;oy
 日冕	ri;aa mm;om
 日冕之華	ri;aa mm;om vi;dd hw;ca
 日冕花開	ri;aa mm;om hw;ch kl;mk
@@ -44094,7 +44094,7 @@ use_preset_vocabulary: false
 星遺物的機憶	xy;ou yi;zg wu;nw de;bu ji;mj yi;xy
 星遺物的繼承者	xy;ou yi;zg wu;nw de;bu ji;sy ig;ad ve;lo
 星遺物的醒存	xy;ou yi;zg wu;nw de;bu xy;yx cp;uz
-星邪的神食	xy;ou xx;ey de;bu uf;uu ui;pd
+星邪的神食	xy;ou xx;ey de;bu uf;uu ui;rl
 星都琪艾米	xy;ou db;ev qi;wq ai;ci mi;dd
 星野	xy;ou ye;ly
 星野一生	xy;ou ye;ly yi;aa ug;na
@@ -45294,7 +45294,7 @@ use_preset_vocabulary: false
 暴君的威壓	bk;ou jp;ky de;bu wz;gn ya;ty
 暴君的暴力	bk;ou jp;ky de;bu bk;ou li;gp
 暴君的暴言	bk;ou jp;ky de;bu bk;ou yj;da
-暴君的暴飲暴食	bk;ou jp;ky de;bu bk;ou yn;uq bk;ou ui;pd
+暴君的暴飲暴食	bk;ou jp;ky de;bu bk;ou yn;uq bk;ou ui;rl
 暴君的自暴自棄	bk;ou jp;ky de;bu zi;pa bk;ou zi;pa qi;dd
 暴君翼	bk;ou jp;ky yi;yg
 暴太郎戰隊咚兄弟	bk;ou tl;dd lh;el vj;gd dv;eu ds;kd xs;ke di;bp
@@ -45363,11 +45363,11 @@ use_preset_vocabulary: false
 暴風雪山莊	bk;ou fg;ji xt;yx uj;aa vd;cv
 暴風魔術師	bk;ou fg;ji mo;gm uu;xi ui;vb
 暴飛龍	bk;ou fz;ff ls;dg
-暴食	bk;ou ui;pd
-暴食依	bk;ou ui;pd yi;ry
-暴食妃之劍	bk;ou ui;pd fz;nj vi;dd jm;dq
-暴食狂戰士	bk;ou ui;pd kd;qw vj;gd ui;aa
-暴食的狂戰士	bk;ou ui;pd de;bu kd;qw vj;gd ui;aa
+暴食	bk;ou ui;rl
+暴食依	bk;ou ui;rl yi;ry
+暴食妃之劍	bk;ou ui;rl fz;nj vi;dd jm;dq
+暴食狂戰士	bk;ou ui;rl kd;qw vj;gd ui;aa
+暴食的狂戰士	bk;ou ui;rl de;bu kd;qw vj;gd ui;aa
 暴龍	bk;ou ls;dg
 暴龍劍	bk;ou ls;dg jm;dq
 暹羅	xm;zv lo;sv
@@ -45530,8 +45530,8 @@ use_preset_vocabulary: false
 曹嬰	ck;oc yy;nb
 曹安民	ck;oc an;bn mn;ag
 曹嵩	ck;oc ss;ug
-曹州礦工	ck;oc vb;da kd;ug gs;aa
-曹州金礦	ck;oc vb;da jn;ra kd;ug
+曹州礦工	ck;oc vb;id kd;ug gs;aa
+曹州金礦	ck;oc vb;id jn;ra kd;ug
 曹彰	ck;oc vh;pv
 曹德智	ck;oc de;xx vi;ov
 曹志順	ck;oc vi;ux up;yi
@@ -45978,7 +45978,7 @@ use_preset_vocabulary: false
 月光輪迴舞蹈	yt;oy gd;ea lp;il hv;zh wu;rf dk;zj
 月光靜靜灑下來的夜晚	yt;oy gd;ea jy;qv jy;qv sa;dl xw;ab ll;ad de;bu ye;wd wj;om
 月光風暴	yt;oy gd;ea fg;ji bk;ou
-月光食堂	yt;oy gd;ea ui;pd th;tk
+月光食堂	yt;oy gd;ea ui;rl th;tk
 月光館學園	yt;oy gd;ea gr;ug xt;jz yr;ky
 月光香	yt;oy gd;ea xd;ho
 月光騎士	yt;oy gd;ea qi;mq ui;aa
@@ -46904,7 +46904,7 @@ use_preset_vocabulary: false
 木頭	mu;ad tb;dy
 木頭姑娘	mu;ad tb;dy gu;ng nd;nl
 木頭與柴火	mu;ad tb;dy yu;ba il;mc ho;dd
-木食	mu;ad ui;pd
+木食	mu;ad ui;rl
 木馨	mu;ad xn;ux
 木魅	mu;ad mz;gw
 木魚水心	mu;ad yu;dd uv;ad xn;dd
@@ -47868,17 +47868,17 @@ use_preset_vocabulary: false
 杭冬岑	hh;mk ds;wd cf;uj
 杭吳姬	hh;mk wu;kd ji;ni
 杭吳越	hh;mk wu;kd yt;zy
-杭州	hh;mk vb;da
-杭州娃娃魚動畫	hh;mk vb;da wa;ng wa;ng yu;dd ds;lv hw;ya
-杭州娃娃魚動畫工作室	hh;mk vb;da wa;ng wa;ng yu;dd ds;lv hw;ya gs;aa zo;rv ui;bv
-杭州娃娃魚動畫設計有限公司	hh;mk vb;da wa;ng wa;ng yu;dd ds;lv hw;ya ue;yu ji;yu yb;ou xm;eg gs;sb si;gk
-杭州市	hh;mk vb;da ui;wj
-杭州掌派科技有限公司	hh;mk vb;da vh;uk pl;dp ke;hd ji;fv yb;ou xm;eg gs;sb si;gk
-杭州掌派董事長	hh;mk vb;da vh;uk pl;dp ds;cv ui;aa vh;ad
-杭州玄機科技	hh;mk vb;da xr;wy ji;mj ke;hd ji;fv
-杭州玄機科技信息技術有限公司	hh;mk vb;da xr;wy ji;mj ke;hd ji;fv xn;ry xi;xz ji;fv uu;xi yb;ou xm;eg gs;sb si;gk
-杭州第十四中學娘	hh;mk vb;da di;vp ui;aa si;aa vs;aa xt;jz nd;nl
-杭州閃電隊	hh;mk vb;da uj;mr dm;yd dv;eu
+杭州	hh;mk vb;id
+杭州娃娃魚動畫	hh;mk vb;id wa;ng wa;ng yu;dd ds;lv hw;ya
+杭州娃娃魚動畫工作室	hh;mk vb;id wa;ng wa;ng yu;dd ds;lv hw;ya gs;aa zo;rv ui;bv
+杭州娃娃魚動畫設計有限公司	hh;mk vb;id wa;ng wa;ng yu;dd ds;lv hw;ya ue;yu ji;yu yb;ou xm;eg gs;sb si;gk
+杭州市	hh;mk vb;id ui;wj
+杭州掌派科技有限公司	hh;mk vb;id vh;uk pl;dp ke;hd ji;fv yb;ou xm;eg gs;sb si;gk
+杭州掌派董事長	hh;mk vb;id vh;uk pl;dp ds;cv ui;aa vh;ad
+杭州玄機科技	hh;mk vb;id xr;wy ji;mj ke;hd ji;fv
+杭州玄機科技信息技術有限公司	hh;mk vb;id xr;wy ji;mj ke;hd ji;fv xn;ry xi;xz ji;fv uu;xi yb;ou xm;eg gs;sb si;gk
+杭州第十四中學娘	hh;mk vb;id di;vp ui;aa si;aa vs;aa xt;jz nd;nl
+杭州閃電隊	hh;mk vb;id uj;mr dm;yd dv;eu
 杭白菊	hh;mk bl;pa ju;cj
 杭苫珊	hh;mk uj;cv uj;wc
 杭錢潮	hh;mk qm;jj ik;di
@@ -47966,7 +47966,7 @@ use_preset_vocabulary: false
 東京電機大學	ds;ad jy;wx dm;yd ji;mj da;ad xt;jz
 東京電腦偵探團	ds;ad jy;wx dm;yd nk;oi vf;rv tj;fm tr;kv
 東京電視臺最強傳說	ds;ad jy;wx dm;yd ui;ju tl;uv zv;oq qd;gi ir;rv uo;yd
-東京食屍鬼	ds;ad jy;wx ui;pd ui;us gv;pd
+東京食屍鬼	ds;ad jy;wx ui;rl ui;us gv;pd
 東仙要	ds;ad xm;ru yk;xn
 東仙隊長	ds;ad xm;ru dv;eu vh;ad
 東儀白	ds;ad yi;ry bl;pa
@@ -48074,7 +48074,7 @@ use_preset_vocabulary: false
 東方外來韋編網絡版	ds;ad fh;dg wl;xb ll;ad wz;aa bm;sb wh;sw lo;sg bj;pf
 東方多宴祭	ds;ad fh;dg do;xx yj;bn ji;uy
 東方夜神雪	ds;ad fh;dg ye;wd uf;uu xt;yx
-東方夜雀食堂	ds;ad fh;dg ye;wd qt;vx ui;pd th;tk
+東方夜雀食堂	ds;ad fh;dg ye;wd qt;vx ui;rl th;tk
 東方夢工廠	ds;ad fh;dg mg;cx gs;aa ih;gi
 東方夢想曲	ds;ad fh;dg mg;cx xd;xx qu;aa
 東方夢日記	ds;ad fh;dg mg;cx ri;aa ji;yj
@@ -48439,7 +48439,7 @@ use_preset_vocabulary: false
 松岡茉優	ss;mg gh;ku mo;cm yb;rw
 松岡讓	ss;mg gh;ku rh;yx
 松岡重三	ss;mg gh;ku vs;pa sj;aa
-松岡食堂	ss;mg gh;ku ui;pd th;tk
+松岡食堂	ss;mg gh;ku ui;rl th;tk
 松島杏實	ss;mg dk;nu xy;km ui;bg
 松島滿	ss;mg dk;nu mj;dr
 松崎麗	ss;mg qi;uq li;ll
@@ -49710,7 +49710,7 @@ use_preset_vocabulary: false
 桃音夕音的輕小說日記	tk;mv yn;lo xi;pd yn;lo de;bu qy;ig xc;ad uo;yd ri;aa ji;yj
 桃音桃	tk;mv yn;lo tk;mv
 桃音汐音的輕小說日記	tk;mv yn;lo xi;dx yn;lo de;bu qy;ig xc;ad uo;yd ri;aa ji;yj
-桃食綺羅莉	tk;mv ui;pd qi;sq lo;sv li;cl
+桃食綺羅莉	tk;mv ui;rl qi;sq lo;sv li;cl
 案件來了啦	an;bm jm;rn ll;ad le;aa la;kl
 桉樹	an;ma uu;mc
 桌上游戲	vo;mo uh;aa yb;dz xi;gd
@@ -51460,7 +51460,7 @@ use_preset_vocabulary: false
 機殼的牲祭	ji;mj ke;uj de;bu ug;nu ji;uy
 機殼的要塞	ji;mj ke;uj de;bu yk;xn sl;tb
 機殼靈	ji;mj ke;uj ly;wl
-機炮食屍鬼	ji;mj pk;hb ui;pd ui;us gv;pd
+機炮食屍鬼	ji;mj pk;hb ui;rl ui;us gv;pd
 機炮龍	ji;mj pk;hb ls;dg
 機獸新世紀	ji;mj ub;qu xn;jq ui;ca ji;sj
 機甲	ji;mj jw;aa
@@ -52858,7 +52858,7 @@ use_preset_vocabulary: false
 死神小學生	si;db uf;uu xc;ad xt;jz ug;na
 死神少女	si;db uf;uu uk;xp nv;aa
 死神少爺與黑女僕	si;db uf;uu uk;xp ye;fy yu;ba hz;ad nv;aa pu;rd
-死神是偏食者	si;db uf;uu ui;op pm;rb ui;pd ve;lo
+死神是偏食者	si;db uf;uu ui;op pm;rb ui;rl ve;lo
 死神永生	si;db uf;uu ys;dd ug;na
 死神界	si;db uf;uu jx;tj
 死神的呼聲	si;db uf;uu de;bu hu;kh ug;eq
@@ -53097,7 +53097,7 @@ use_preset_vocabulary: false
 毀滅菇	hv;ut mx;dh gu;cg
 毀滅菇娘	hv;ut mx;dh gu;cg nd;nl
 毀滅隆音	hv;ut mx;dh ls;eu yn;lo
-毀滅食人魔	hv;ut mx;dh ui;pd rf;pd mo;gm
+毀滅食人魔	hv;ut mx;dh ui;rl rf;pd mo;gm
 毀滅鳳凰人	hv;ut mx;dh fg;jn hd;jh rf;pd
 毀滅龍	hv;ut mx;dh ls;dg
 毀童年	hv;ut ts;ll nm;pa
@@ -53659,7 +53659,7 @@ use_preset_vocabulary: false
 水母音頭	uv;ad mu;ad yn;lo tb;dy
 水母領唱	uv;ad mu;ad ly;yl ih;ki
 水母頭	uv;ad mu;ad tb;dy
-水母食堂	uv;ad mu;ad ui;pd th;tk
+水母食堂	uv;ad mu;ad ui;rl th;tk
 水水	uv;ad uv;ad
 水水獺娘	uv;ad uv;ad ta;ql nd;nl
 水汐	uv;ad xi;dx
@@ -54193,7 +54193,7 @@ use_preset_vocabulary: false
 江星辰	jd;dg xy;ou if;iy
 江時暖	jd;dg ui;os nr;oy
 江月	jd;dg yt;oy
-江本州輝	jd;dg bf;aa vb;da hv;gj
+江本州輝	jd;dg bf;aa vb;id hv;gj
 江本智惠	jd;dg bf;aa vi;ov hv;xh
 江村由菜	jd;dg cp;mc yb;aa cl;cc
 江森浩子	jd;dg sf;ml hk;dg zi;aa
@@ -54571,7 +54571,7 @@ use_preset_vocabulary: false
 沙丁魚從地裏鑽出來了	ua;du dy;aa yu;dd cs;xv di;ty li;dy zr;jz iu;ck ll;ad le;aa
 沙丁魚從地面裏鑽了出來	ua;du dy;aa yu;dd cs;xv di;ty mm;aa li;dy zr;jz le;aa iu;ck ll;ad
 沙上樓閣	ua;du uh;aa lb;ml ge;mg
-沙上的食夢少女	ua;du uh;aa de;bu ui;pd mg;cx uk;xp nv;aa
+沙上的食夢少女	ua;du uh;aa de;bu ui;rl mg;cx uk;xp nv;aa
 沙丘	ua;du qq;pa
 沙之城邦區域	ua;du vi;dd ig;ti bh;ef qu;kp yu;th
 沙之精靈使梅芙娜秀	ua;du vi;dd jy;mq ly;wl ui;rl mz;mm fu;cf na;nn xq;hn
@@ -54862,7 +54862,7 @@ use_preset_vocabulary: false
 泉卡迪斯	qr;bu ka;bx di;zy si;jq
 泉宗次郎	qr;bu zs;bu ci;dq lh;el
 泉尚摯	qr;bu uh;xk vi;uv
-泉州第五中學娘	qr;bu vb;da di;vp wu;aa vs;aa xt;jz nd;nl
+泉州第五中學娘	qr;bu vb;id di;vp wu;aa vs;aa xt;jz nd;nl
 泉彼方	qr;bu bi;xp fh;dg
 泉戶琥珀	qr;bu hu;pk hu;wh po;wb
 泉戶真白	qr;bu hu;pk vf;uj bl;pa
@@ -55465,7 +55465,7 @@ use_preset_vocabulary: false
 洛天二	lo;dg tm;ad er;aa
 洛天依	lo;dg tm;ad yi;ry
 洛天依你到底把我家鑰匙放在哪裏了	lo;dg tm;ad yi;ry ni;re dk;dv di;gd ba;fb wo;pd jw;bu yk;jc ui;bu fh;wf zl;ta na;kn li;dy le;aa
-洛天依投食歌	lo;dg tm;ad yi;ry tb;fu ui;pd ge;qg
+洛天依投食歌	lo;dg tm;ad yi;ry tb;fu ui;rl ge;qg
 洛天依新曲排行榜	lo;dg tm;ad yi;ry xn;jq qu;aa pl;ff hh;xd bh;mp
 洛天依的小作業	lo;dg tm;ad yi;ry de;bu xc;ad zo;rv ye;yl
 洛天依的小賣部	lo;dg tm;ad yi;ry de;bu xc;ad ml;bs bu;ek
@@ -56353,7 +56353,7 @@ use_preset_vocabulary: false
 浸溼雙翅的懷舊	jn;dy ui;dt ud;vy ii;vy de;bu hy;xh jq;cj
 浸潤行刑者	jn;dy rp;dr xy;xd xy;dk ve;lo
 浸透壓	jn;dy tb;zx ya;ty
-浸食	jn;dy ui;pd
+浸食	jn;dy ui;rl
 涅亞巴拉哈	nx;dn ya;aa ba;ag la;fl ha;kh
 涅伽爾	nx;dn ga;rj er;ay
 涅可羅	nx;dn ke;dk lo;sv
@@ -56462,7 +56462,7 @@ use_preset_vocabulary: false
 涼宮遙	ld;dj gs;bl yk;zf
 涼宮雨	ld;dj gs;bl yu;ad
 涼川鈴	ld;dj ir;pa ly;jl
-涼州詞	ld;dj vb;da ci;ys
+涼州詞	ld;dj vb;id ci;ys
 涼月	ld;dj yt;oy
 涼月奏	ld;dj yt;oy zb;ft
 涼月英里歌	ld;dj yt;oy yy;cy li;aa ge;qg
@@ -56635,9 +56635,9 @@ use_preset_vocabulary: false
 深夜裏的糖果	uf;dm ye;wd li;dy de;bu th;mt go;ad
 深夜詩人	uf;dm ye;wd ui;ys rf;pd
 深夜遨遊	uf;dm ye;wd ao;za yb;zy
-深夜雀食堂	uf;dm ye;wd qt;vx ui;pd th;tk
+深夜雀食堂	uf;dm ye;wd qt;vx ui;rl th;tk
 深夜電視	uf;dm ye;wd dm;yd ui;ju
-深夜食堂	uf;dm ye;wd ui;pd th;tk
+深夜食堂	uf;dm ye;wd ui;rl th;tk
 深子	uf;dm zi;aa
 深層人魚	uf;dm cg;uc rf;pd yu;dd
 深層心理	uf;dm cg;uc xn;dd li;wl
@@ -57738,7 +57738,7 @@ use_preset_vocabulary: false
 漢堡	hj;dh bk;tb
 漢堡包	hj;dh pu;tb bk;gs
 漢堡排	hj;dh bk;tb pl;ff
-漢堡的食譜	hj;dh bk;tb de;bu ui;pd pu;yp
+漢堡的食譜	hj;dh bk;tb de;bu ui;rl pu;yp
 漢堡肉	hj;dh bk;tb rb;ad
 漢塞爾格萊特	hj;dh sl;tb er;ay ge;mg ll;cl te;ns
 漢娜	hj;dh na;nn
@@ -58016,7 +58016,7 @@ use_preset_vocabulary: false
 潛隱黃昏的乖孩子	qm;do yn;ej hd;cb hp;ou de;bu gy;pb hl;zh zi;aa
 潛龍	qm;do ls;dg
 潛龍諜影	qm;do ls;dg dx;ym yy;pj
-潤州鏡	rp;dr vb;da jy;jj
+潤州鏡	rp;dr vb;id jy;jj
 潤物定格動畫	rp;dr wu;nw dy;bp ge;mg ds;lv hw;ya
 潤物定格動畫工作室	rp;dr wu;nw dy;bp ge;mg ds;lv hw;ya gs;aa zo;rv ui;bv
 潤羽露西婭	rp;dr yu;xx lu;yl xi;aa ya;ny
@@ -58161,7 +58161,7 @@ use_preset_vocabulary: false
 澤祖魯	ze;dx zu;uq lu;yo
 澤科拉	ze;dx ke;hd la;fl
 澤精	ze;dx jy;mq
-澤精九州行	ze;dx jy;mq jq;py vb;da xy;xd
+澤精九州行	ze;dx jy;mq jq;py vb;id xy;xd
 澤維爾	ze;dx wz;sv er;ay
 澤蓮也	ze;dx lm;cl ye;gg
 澤蘭	ze;dx lj;cj
@@ -58234,7 +58234,7 @@ use_preset_vocabulary: false
 濛濛	mg;dm mg;dm
 濟世之樹	ji;dq ui;ca vi;dd uu;mc
 濟南屁王	ji;dq nj;ua pi;ub wh;aa
-濟州	ji;dq vb;da
+濟州	ji;dq vb;id
 濟遠	ji;dq yr;zy
 濡女子	ru;dx nv;aa zi;aa
 濡烏	ru;dx wu;pd
@@ -58881,7 +58881,7 @@ use_preset_vocabulary: false
 炫舞銀	xr;hx wu;rf yn;jg
 炫迪	xr;hx di;zy
 炭吉	tj;uh ji;ku
-炭州市學子路小學	tj;uh vb;da ui;wj xt;jz zi;aa lu;zg xc;ad xt;jz
+炭州市學子路小學	tj;uh vb;id ui;wj xt;jz zi;aa lu;zg xc;ad xt;jz
 炭治郎	tj;uh vi;dt lh;el
 炭燒戰士	tj;uh uk;hy vj;gd ui;aa
 炭燒海星	tj;uh uk;hy hl;dm xy;ou
@@ -60331,7 +60331,7 @@ use_preset_vocabulary: false
 爲那個笨蛋打上腳燈	wz;pd na;el ge;rg bf;vb dj;ip da;fd uh;aa jc;oq dg;hd
 爲那女孩獻上吻與白百合	wz;pd na;el nv;aa hl;zh xm;qg uh;aa wf;kw yu;ba bl;pa bl;ab he;rk
 爲邪九九八十一	wz;pd xx;ey jq;py jq;py ba;pd ui;aa yi;aa
-爲食龍少爺	wz;pd ui;pd ls;dg uk;xp ye;fy
+爲食龍少爺	wz;pd ui;rl ls;dg uk;xp ye;fy
 爲龍	wz;pd ls;dg
 爵士樂部	jt;vc ui;aa yt;bm bu;ek
 爵牀	jt;vc id;pm
@@ -61133,7 +61133,7 @@ use_preset_vocabulary: false
 狙擊步槍	ju;qq ji;fu bu;vx qd;mc
 狙擊特裝型吉姆娘	ju;qq ji;fu te;ns vd;yv xy;tx ji;ku mu;nm nd;nl
 狙擊王	ju;qq ji;fu wh;aa
-狙擊食蟻獸	ju;qq ji;fu ui;pd yi;iy ub;qu
+狙擊食蟻獸	ju;qq ji;fu ui;rl yi;iy ub;qu
 狠人	hf;qg rf;pd
 狠繪社	hf;qg hv;sh ue;ut
 狠西遊	hf;qg xi;aa yb;zy
@@ -63203,10 +63203,10 @@ use_preset_vocabulary: false
 甜辣女孩	tm;ug la;xu nv;aa hl;zh
 甜頭	tm;ug tb;dy
 甜頭兒蛋糕	tm;ug tb;dy er;ej dj;ip gk;mg
-甜食別腹	tm;ug ui;pd bx;dd fu;of
-甜食控	tm;ug ui;pd ks;fk
-甜食是裝在另一個胃裏的	tm;ug ui;pd ui;op vd;yv zl;ta ly;kl yi;aa ge;rg wz;ot li;dy de;bu
-甜食黨	tm;ug ui;pd dh;hk
+甜食別腹	tm;ug ui;rl bx;dd fu;of
+甜食控	tm;ug ui;rl ks;fk
+甜食是裝在另一個胃裏的	tm;ug ui;rl ui;op vd;yv zl;ta ly;kl yi;aa ge;rg wz;ot li;dy de;bu
+甜食黨	tm;ug ui;rl dh;hk
 甜鹹戰爭	tm;ug xm;lx vj;gd vg;va
 甜麥炮彈	tm;ug ml;lx pk;hb dj;gd
 甜點	tm;ug dm;hv
@@ -63642,7 +63642,7 @@ use_preset_vocabulary: false
 甲基溴化苄娘	jw;aa ji;tq xq;di hw;rb bm;cb nd;nl
 甲娘	jw;aa nd;nl
 甲子園	jw;aa zi;aa yr;ky
-甲州院葉月	jw;aa vb;da yr;ew ye;cm yt;oy
+甲州院葉月	jw;aa vb;id yr;ew ye;cm yt;oy
 甲斐哲彥	jw;aa fz;wf ve;kv yj;pi
 甲斐崎光	jw;aa fz;wf qi;uq gd;ea
 甲斐田幸	jw;aa fz;wf tm;aa xy;tu
@@ -63936,7 +63936,7 @@ use_preset_vocabulary: false
 異世界料理道	yi;tg ui;ca jx;tj lc;md li;wl dk;zu
 異世界最強卡車召喚	yi;tg ui;ca jx;tj zv;oq qd;gi ka;bx ie;aa vk;dk hr;kh
 異世界歸來的舅舅	yi;tg ui;ca jx;tj gv;vj ll;ad de;bu jq;jn jq;jn
-異世界求食的開掛旅程	yi;tg ui;ca jx;tj qq;ad ui;pd de;bu kl;mk gw;fg lv;fp ig;hi
+異世界求食的開掛旅程	yi;tg ui;ca jx;tj qq;ad ui;rl de;bu kl;mk gw;fg lv;fp ig;hi
 異世界漫步	yi;tg ui;ca jx;tj mj;dm bu;vx
 異世界舅舅	yi;tg ui;ca jx;tj jq;jn jq;jn
 異世界藥局	yi;tg ui;ca jx;tj yk;cl ju;uk
@@ -63944,7 +63944,7 @@ use_preset_vocabulary: false
 異世界迷宮最深部爲目標	yi;tg ui;ca jx;tj mi;zm gs;bl zv;oq uf;dm bu;ek wz;pd mu;aa bc;mp
 異世界迷宮裏的後宮生活	yi;tg ui;ca jx;tj mi;zm gs;bl li;dy de;bu hb;xw gs;bl ug;na ho;du
 異世界迷宮黑心企業	yi;tg ui;ca jx;tj mi;zm gs;bl hz;ad xn;dd qi;rv ye;yl
-異世界食堂	yi;tg ui;ca jx;tj ui;pd th;tk
+異世界食堂	yi;tg ui;ca jx;tj ui;rl th;tk
 異世界魔王與召喚少女的奴隸魔術	yi;tg ui;ca jx;tj mo;gm wh;aa yu;ba vk;dk hr;kh uk;xp nv;aa de;bu nu;ny li;lu mo;gm uu;xi
 異世的肖像	yi;tg ui;ca de;bu xc;ox xd;rx
 異人	yi;tg rf;pd
@@ -63989,7 +63989,7 @@ use_preset_vocabulary: false
 異性戀	yi;tg xy;xu lm;xs
 異性過敏症	yi;tg xy;xu go;zg mn;wm vg;bv
 異想天開	yi;tg xd;xx tm;ad kl;mk
-異想食堂	yi;tg xd;xx ui;pd th;tk
+異想食堂	yi;tg xd;xx ui;rl th;tk
 異想魅惑	yi;tg xd;xx mz;gw ho;xh
 異教	yi;tg jc;wx
 異星之神	yi;tg xy;ou vi;dd uf;uu
@@ -64058,7 +64058,7 @@ use_preset_vocabulary: false
 異界契約	yi;tg jx;tj qi;dd yt;su
 異界女王	yi;tg jx;tj nv;aa wh;aa
 異界少女召喚術	yi;tg jx;tj uk;xp nv;aa vk;dk hr;kh uu;xi
-異界美食評鑑	yi;tg jx;tj mz;dy ui;pd py;yp jm;jj
+異界美食評鑑	yi;tg jx;tj mz;dy ui;rl py;yp jm;jj
 異界羣敵	yi;tg jx;tj qp;yj di;wd
 異界賣藥續命記	yi;tg jx;tj ml;bs yk;cl xu;sm my;re ji;yj
 異界鎖鏈	yi;tg jx;tj so;jb lm;jl
@@ -64116,13 +64116,13 @@ use_preset_vocabulary: false
 異蟲零	yi;tg is;ii ly;yl
 異見者	yi;tg jm;oe ve;lo
 異議	yi;tg yi;yy
-異變食靈	yi;tg bm;ws ui;pd ly;wl
+異變食靈	yi;tg bm;ws ui;rl ly;wl
 異邦人	yi;tg bh;ef rf;pd
 異靈術	yi;tg ly;wl uu;xi
 異類與羣羊	yi;tg lz;yl yu;ba qp;yj yh;da
 異類重生	yi;tg lz;yl vs;pa ug;na
 異類電王	yi;tg lz;yl dm;yd wh;aa
-異食癖	yi;tg ui;pd pi;bb
+異食癖	yi;tg ui;rl pi;bb
 異魔神動畫	yi;tg mo;gm uf;uu ds;lv hw;ya
 當不成勇者的我	dh;dt bu;ad ig;gg ys;ly ve;lo de;bu wo;pd
 當不成勇者的我只好認真找工作了	dh;dt bu;ad ig;gg ys;ly ve;lo de;bu wo;pd vi;kb hk;nz rf;yr vf;uj vk;fg gs;aa zo;rv le;aa
@@ -64266,7 +64266,7 @@ use_preset_vocabulary: false
 病院	by;bb yr;ew
 病院坂黑貓	by;bb yr;ew bj;tf hz;ad mk;vm
 痕跡	hf;bg ji;zy
-痕食龍	hf;bg ui;pd ls;dg
+痕食龍	hf;bg ui;rl ls;dg
 痛並渴痛	ts;by by;qy ke;dh ts;by
 痛恨的控訴	ts;by hf;xg de;bu ks;fk su;yi
 痛恨的訴苦	ts;by hf;xg de;bu su;yi ku;cg
@@ -65700,7 +65700,7 @@ use_preset_vocabulary: false
 盧迪	lu;hm di;zy
 盧迪烏斯格雷拉特	lu;hm di;zy wu;pd si;jq ge;mg lz;yt la;fl te;ns
 盧錫安	lu;hm xi;jy an;bn
-盧食傳說	lu;hm ui;pd ir;rv uo;yd
+盧食傳說	lu;hm ui;rl ir;rv uo;yd
 盪漾	dh;mt yh;dy
 盪漾生命	dh;mt yh;dy ug;na my;re
 目不轉睛	mu;aa bu;ad vr;iv jy;oq
@@ -67768,15 +67768,15 @@ use_preset_vocabulary: false
 神崎隆二	uf;uu qi;uq ls;eu er;aa
 神崎颯馬	uf;uu qi;uq sa;fl ma;ad
 神崎香苗	uf;uu qi;uq xd;ho mc;ct
-神州	uf;uu vb;da
-神州上古十大神器	uf;uu vb;da uh;aa gu;uk ui;aa da;ad uf;uu qi;kk
-神州丸	uf;uu vb;da wj;jd
-神州協議	uf;uu vb;da xx;ul yi;yy
-神州折劍錄	uf;uu vb;da ve;fj jm;dq lu;jl
-神州生產建築	uf;uu vb;da ug;na ij;wu jm;zy vu;vm
-神州科技升級	uf;uu vb;da ke;hd ji;fv ug;pc ji;sj
-神州防禦建築	uf;uu vb;da fh;ef yu;ue jm;zy vu;vm
-神州非遭遇戰單位	uf;uu vb;da fz;aa zk;zc yu;zy vj;gd dj;kd wz;rl
+神州	uf;uu vb;id
+神州上古十大神器	uf;uu vb;id uh;aa gu;uk ui;aa da;ad uf;uu qi;kk
+神州丸	uf;uu vb;id wj;jd
+神州協議	uf;uu vb;id xx;ul yi;yy
+神州折劍錄	uf;uu vb;id ve;fj jm;dq lu;jl
+神州生產建築	uf;uu vb;id ug;na ij;wu jm;zy vu;vm
+神州科技升級	uf;uu vb;id ke;hd ji;fv ug;pc ji;sj
+神州防禦建築	uf;uu vb;id fh;ef yu;ue jm;zy vu;vm
+神州非遭遇戰單位	uf;uu vb;id fz;aa zk;zc yu;zy vj;gd dj;kd wz;rl
 神巫詞	uf;uu wu;gc ci;ys
 神度	uf;uu du;gy
 神座出流	uf;uu zo;gz iu;ck lq;di
@@ -68342,7 +68342,7 @@ use_preset_vocabulary: false
 福島祐一	fu;uf dk;nu yb;uy yi;aa
 福島縣	fu;uf dk;nu xm;xx
 福島諾亞	fu;uf dk;nu no;yr ya;aa
-福州話娘	fu;uf vb;da hw;yu nd;nl
+福州話娘	fu;uf vb;id hw;yu nd;nl
 福布斯	fu;uf bu;ju si;jq
 福布斯土壤娘	fu;uf bu;ju si;jq tu;aa rh;tx nd;nl
 福建艦	fu;uf jm;zy jm;vj
@@ -71541,8 +71541,8 @@ use_preset_vocabulary: false
 素輦府娘	su;sf nm;if fu;gf nd;nl
 素還真	su;sf hl;zh vf;uj
 素顏	su;sf yj;yy
-素食主義	su;sf ui;pd vu;dw yi;yw
-素食主義者	su;sf ui;pd vu;dw yi;yw ve;lo
+素食主義	su;sf ui;rl vu;dw yi;yw
+素食主義者	su;sf ui;rl vu;dw yi;yw ve;lo
 素點	su;sf dm;hv
 紡唄	fh;sf bz;kb
 紡唄	fh;sf bz;kb
@@ -72632,8 +72632,8 @@ use_preset_vocabulary: false
 網絡釣魚	wh;sw lo;sg dc;ju yu;dd
 網絡錨定效應	wh;sw lo;sg mk;jm dy;bp xc;wj yy;gx
 網襪	wh;sw wa;ym
-網購技能開啓奇幻世界美食之旅	wh;sw gb;bg ji;fv ng;sb kl;mk qi;kw qi;dk hr;yg ui;ca jx;tj mz;dy ui;pd vi;dd lv;fp
-網購技能開啓異世界美食之旅	wh;sw gb;bg ji;fv ng;sb kl;mk qi;kw yi;tg ui;ca jx;tj mz;dy ui;pd vi;dd lv;fp
+網購技能開啓奇幻世界美食之旅	wh;sw gb;bg ji;fv ng;sb kl;mk qi;kw qi;dk hr;yg ui;ca jx;tj mz;dy ui;rl vi;dd lv;fp
+網購技能開啓異世界美食之旅	wh;sw gb;bg ji;fv ng;sb kl;mk qi;kw yi;tg ui;ca jx;tj mz;dy ui;rl vi;dd lv;fp
 網走慕情	wh;sw zb;tv mu;cx qy;xq
 網路偶像	wh;sw lu;zg ou;ry xd;rx
 網路勝利組	wh;sw lu;zg ug;ol li;hd zu;sq
@@ -73938,14 +73938,14 @@ use_preset_vocabulary: false
 美雲杏	mz;dy yp;yy xy;km
 美音	mz;dy yn;lo
 美音之歌	mz;dy yn;lo vi;dd ge;qg
-美食作家王剛	mz;dy ui;pd zo;rv jw;bu wh;aa gh;dg
-美食夢物語	mz;dy ui;pd mg;cx wu;nw yu;yw
-美食大冒險第一季	mz;dy ui;pd da;ad mk;oo xm;eq di;vp yi;aa ji;hz
-美食大戰老鼠	mz;dy ui;pd da;ad vj;gd lk;bl uu;ju
-美食家	mz;dy ui;pd jw;bu
-美食殿堂	mz;dy ui;pd dm;ug th;tk
-美食類魂器	mz;dy ui;pd lz;yl hp;gy qi;kk
-美食香波	mz;dy ui;pd xd;ho bo;dp
+美食作家王剛	mz;dy ui;rl zo;rv jw;bu wh;aa gh;dg
+美食夢物語	mz;dy ui;rl mg;cx wu;nw yu;yw
+美食大冒險第一季	mz;dy ui;rl da;ad mk;oo xm;eq di;vp yi;aa ji;hz
+美食大戰老鼠	mz;dy ui;rl da;ad vj;gd lk;bl uu;ju
+美食家	mz;dy ui;rl jw;bu
+美食殿堂	mz;dy ui;rl dm;ug th;tk
+美食類魂器	mz;dy ui;rl lz;yl hp;gy qi;kk
+美食香波	mz;dy ui;rl xd;ho bo;dp
 美香	mz;dy xd;ho
 美馬	mz;dy ma;ad
 美鳥	mz;dy nc;pd
@@ -74374,7 +74374,7 @@ use_preset_vocabulary: false
 老爹煎餅店	lk;bl dx;fd jm;hq by;ub dm;gv
 老爹路易	lk;bl dx;fd lu;zg yi;ow
 老爹路易的朋友們	lk;bl dx;fd lu;zg yi;ow de;bu pg;oo yb;yu mf;rm
-老爹餅乾聖代店出現的食材	lk;bl dx;fd by;ub gj;qu ug;ew dl;ry dm;gv iu;ck xm;wj de;bu ui;pd cl;mc
+老爹餅乾聖代店出現的食材	lk;bl dx;fd by;ub gj;qu ug;ew dl;ry dm;gv iu;ck xm;wj de;bu ui;rl cl;mc
 老爹餐廳	lk;bl dx;fd cj;uy ty;gt
 老爺級海星男孩	lk;bl ye;fy ji;sj hl;dm xy;ou nj;tl hl;zh
 老番茄	lk;bl fj;tb qx;cj
@@ -74951,7 +74951,7 @@ use_preset_vocabulary: false
 肉山大魔王	rb;ad uj;aa da;ad mo;gm wh;aa
 肉抖抖	rb;ad db;fd db;fd
 肉排	rb;ad pl;ff
-肉料理的食譜	rb;ad lc;md li;wl de;bu ui;pd pu;yp
+肉料理的食譜	rb;ad lc;md li;wl de;bu ui;rl pu;yp
 肉桂	rb;ad gv;mg
 肉桂卷娘	rb;ad gv;mg jr;ef nd;nl
 肉桂狗	rb;ad gv;mg gb;qj
@@ -74961,8 +74961,8 @@ use_preset_vocabulary: false
 肉臉橙	rb;ad lm;oq ig;md
 肉身魔像	rb;ad uf;pp mo;gm xd;rx
 肉頭	rb;ad tb;dy
-肉食系	rb;ad ui;pd xi;ps
-肉食靈	rb;ad ui;pd ly;wl
+肉食系	rb;ad ui;rl xi;ps
+肉食靈	rb;ad ui;rl ly;wl
 肉鬆麪包娘	rb;ad ss;is mm;mg bk;gs nd;nl
 肉鴿	rb;ad ge;nh
 肌理	ji;oj li;wl
@@ -77420,7 +77420,7 @@ use_preset_vocabulary: false
 花音	hw;ch yn;lo
 花頭臺	hw;ch tb;dy tl;uv
 花類魔物	hw;ch lz;yl mo;gm wu;nw
-花食蟲	hw;ch ui;pd is;ii
+花食蟲	hw;ch ui;rl is;ii
 花香人落淚	hw;ch xd;ho rf;pd lo;cl lz;dl
 花香垂葉	hw;ch xd;ho iv;pa ye;cm
 花騎士	hw;ch qi;mq ui;aa
@@ -78060,7 +78060,7 @@ use_preset_vocabulary: false
 草野春人	ck;cz ye;ly ip;of rf;pd
 草間花音	ck;cz jm;mo hw;ch yn;lo
 草間莓	ck;cz jm;mo mz;cm
-草食系	ck;cz ui;pd xi;ps
+草食系	ck;cz ui;rl xi;ps
 草餅	ck;cz by;ub
 荊卿嘆刺秦	jy;cx qy;mg tj;kh ci;dc qn;hf
 荊天明	jy;cx tm;ad my;oo
@@ -78551,7 +78551,7 @@ use_preset_vocabulary: false
 莫凡	mo;cd fj;dj
 莫吉托女孩的盛夏	mo;cd ji;ku to;fq nv;aa hl;zh de;bu ug;mi xw;wz
 莫名	mo;cd my;xk
-莫名成爲邪龍的五千歲草食龍	mo;cd my;xk ig;gg wz;pd xx;ey ls;dg de;bu wu;aa qm;pa sv;vx ck;cz ui;pd ls;dg
+莫名成爲邪龍的五千歲草食龍	mo;cd my;xk ig;gg wz;pd xx;ey ls;dg de;bu wu;aa qm;pa sv;vx ck;cz ui;rl ls;dg
 莫名的嘔吐感	mo;cd my;xk de;bu ou;kq tu;kt gj;xx
 莫名的眼鏡	mo;cd my;xk de;bu yj;og jy;jj
 莫向北	mo;cd xd;pk bz;ap
@@ -79155,7 +79155,7 @@ use_preset_vocabulary: false
 萌單	mg;cm dj;kd
 萌太奇	mg;cm tl;dd qi;dk
 萌妹教你孫子兵法這樣讀	mg;cm mz;nw jc;wx ni;re sp;zx zi;aa by;qb fa;dq ve;zy yh;my du;ym
-萌妻食神	mg;cm qi;na ui;pd uf;uu
+萌妻食神	mg;cm qi;na ui;rl uf;uu
 萌娘	mg;cm nd;nl
 萌娘化	mg;cm nd;nl hw;rb
 萌娘圖書館	mg;cm nd;nl tu;kh uu;oy gr;ug
@@ -81188,9 +81188,9 @@ use_preset_vocabulary: false
 蘇寧電子競技俱樂部	su;ch ny;bd dm;yd zi;aa jy;jj ji;fv ju;rj le;bm bu;ek
 蘇小真	su;ch xc;ad vf;uj
 蘇尚卿	su;ch uh;xk qy;mg
-蘇州	su;ch vb;da
-蘇州戀慕	su;ch vb;da lm;xs mu;cx
-蘇州樂志	su;ch vb;da le;bm vi;ux
+蘇州	su;ch vb;id
+蘇州戀慕	su;ch vb;id lm;xs mu;cx
+蘇州樂志	su;ch vb;id le;bm vi;ux
 蘇帕爾莎的看板娘	su;ch pa;jb er;ay ua;cu de;bu kj;ou bj;mf nd;nl
 蘇幕遮	su;ch mu;jm ve;zd
 蘇德戰爭	su;ch de;xx vj;gd vg;va
@@ -81334,8 +81334,8 @@ use_preset_vocabulary: false
 蘇飛	su;ch fz;ff
 蘇魯特	su;ch lu;yo te;ns
 蘇鳳棠	su;ch fg;jn th;dd
-蘇黎世州	su;ch li;hu ui;ca vb;da
-蘇黎世州娘	su;ch li;hu ui;ca vb;da nd;nl
+蘇黎世州	su;ch li;hu ui;ca vb;id
+蘇黎世州娘	su;ch li;hu ui;ca vb;id nd;nl
 蘊味審判	yp;cw wz;kw uf;bf pj;db
 蘋果	py;cp go;ad
 蘋果傑克	py;cp go;ad jx;rj ke;eg
@@ -81379,7 +81379,7 @@ use_preset_vocabulary: false
 蘭卡之蟲惑魔	lj;cj ka;bx vi;dd is;ii ho;xh mo;gm
 蘭堂	lj;cj th;tk
 蘭姆葡萄鬆餅	lj;cj mu;nm pu;cp tk;cf ss;is by;ub
-蘭州艦娘	lj;cj vb;da jm;vj nd;nl
+蘭州艦娘	lj;cj vb;id jm;vj nd;nl
 蘭巴拉爾	lj;cj ba;ag la;fl er;ay
 蘭巴涅因	lj;cj ba;ag nx;dn yn;kd
 蘭布莎三世	lj;cj bu;ju ua;cu sj;aa ui;ca
@@ -81478,7 +81478,7 @@ use_preset_vocabulary: false
 蘿莉塔篇	lo;cl li;cl ta;td pm;vb
 蘿莉大媽	lo;cl li;cl da;ad ma;nm
 蘿莉控	lo;cl li;cl ks;fk
-蘿莉控捕食者	lo;cl li;cl ks;fk bu;ff ui;pd ve;lo
+蘿莉控捕食者	lo;cl li;cl ks;fk bu;ff ui;rl ve;lo
 蘿莉控是不允許的喲	lo;cl li;cl ks;fk ui;op bu;ad yp;se xu;yw de;bu yo;ky
 蘿莉棒棒糖	lo;cl li;cl bh;mf bh;mf th;mt
 蘿莉楓糖漿	lo;cl li;cl fg;mf th;mt jd;uj
@@ -82317,7 +82317,7 @@ use_preset_vocabulary: false
 蟲長者	is;ii vh;ad ve;lo
 蟲類操控	is;ii lz;yl ck;fz ks;fk
 蟲類魔物	is;ii lz;yl mo;gm wu;nw
-蟲食迷幻旋律	is;ii ui;pd mi;zm hr;yg xr;fp lv;xy
+蟲食迷幻旋律	is;ii ui;rl mi;zm hr;yg xr;fp lv;xy
 蟲餌	is;ii er;ue
 蟹名靜	xx;ij my;xk jy;qv
 蟹堡王	xx;ij bk;tb wh;aa
@@ -84325,7 +84325,7 @@ use_preset_vocabulary: false
 請享用特殊甜點	qy;yq xd;dz ys;kf te;ns uu;dv tm;ug dm;hv
 請享用特製甜品	qy;yq xd;dz ys;kf te;ns vi;yv tm;ug pn;kk
 請享用特製甜點	qy;yq xd;dz ys;kf te;ns vi;yv tm;ug dm;hv
-請享用秋季美食	qy;yq xd;dz ys;kf qq;hh ji;hz mz;dy ui;pd
+請享用秋季美食	qy;yq xd;dz ys;kf qq;hh ji;hz mz;dy ui;rl
 請仙	qy;yq xm;ru
 請你回答	qy;yq ni;re hv;kk da;vh
 請你留下	qy;yq ni;re lq;td xw;ab
@@ -84527,8 +84527,8 @@ use_preset_vocabulary: false
 諾曼盔	no;yr mj;oy kv;mh
 諾曼麥克拉倫	no;yr mj;oy ml;lx ke;eg la;fl lp;rl
 諾森比亞大公國	no;yr sf;ml bi;bb ya;aa da;ad gs;sb go;kh
-諾森比亞州	no;yr sf;ml bi;bb ya;aa vb;da
-諾森比亞自治州	no;yr sf;ml bi;bb ya;aa zi;pa vi;dt vb;da
+諾森比亞州	no;yr sf;ml bi;bb ya;aa vb;id
+諾森比亞自治州	no;yr sf;ml bi;bb ya;aa zi;pa vi;dt vb;id
 諾沃女王	no;yr wo;dy nv;aa wh;aa
 諾爾史塔吉亞	no;yr er;ay ui;ad ta;td ji;ku ya;aa
 諾爾達	no;yr er;ay da;zy
@@ -85153,7 +85153,7 @@ use_preset_vocabulary: false
 豬牙花粉	vu;uv ya;ap hw;ch ff;mf
 豬狩禮生	vu;uv ub;qu li;ud ug;na
 豬玀之王	vu;uv lo;ql vi;dd wh;aa
-豬的飯食	vu;uv de;bu fj;uf ui;pd
+豬的飯食	vu;uv de;bu fj;uf ui;rl
 豬神	vu;uv uf;uu
 豬突猛進	vu;uv tu;xq mg;qm jn;zv
 豬突猛進女孩	vu;uv tu;xq mg;qm jn;zv nv;aa hl;zh
@@ -85605,10 +85605,10 @@ use_preset_vocabulary: false
 貪玩藍月	tj;bj wj;wy lj;cj yt;oy
 貪睡蝙蝠	tj;bj uv;oi bm;ib fu;if
 貪財	tj;bj cl;bc
-貪食	tj;bj ui;pd
-貪食的食屍鬼	tj;bj ui;pd de;bu ui;pd ui;us gv;pd
-貪食花	tj;bj ui;pd hw;ch
-貪食蛇	tj;bj ui;pd ue;it
+貪食	tj;bj ui;rl
+貪食的食屍鬼	tj;bj ui;rl de;bu ui;rl ui;us gv;pd
+貪食花	tj;bj ui;rl hw;ch
+貪食蛇	tj;bj ui;rl ue;it
 貫井柚佳	gr;bm jy;aa yb;my jw;rg
 貫井波遊	gr;bm jy;aa bo;dp yb;zy
 貫井羽優	gr;bm jy;aa yu;xx yb;rw
@@ -85627,7 +85627,7 @@ use_preset_vocabulary: false
 貴宮無意味	gv;bg gs;bl wu;rh yi;xy wz;kw
 貴家堂子	gv;bg jw;bu th;tk zi;aa
 貴島沙希	gv;bg dk;nu ua;du xi;ju
-貴州娘	gv;bg vb;da nd;nl
+貴州娘	gv;bg vb;id nd;nl
 貴志佑介	gv;bg vi;ux yb;ry jx;ra
 貴志涼介	gv;bg vi;ux ld;dj jx;ra
 貴志祐介	gv;bg vi;ux yb;uy jx;ra
@@ -85975,7 +85975,7 @@ use_preset_vocabulary: false
 贊克	zj;bx ke;eg
 贊妮可	zj;bx ni;nn ke;dk
 贊岐薰	zj;bx qi;uv xp;cx
-贊州中學勇者部	zj;bx vb;da vs;aa xt;jz ys;ly ve;lo bu;ek
+贊州中學勇者部	zj;bx vb;id vs;aa xt;jz ys;ly ve;lo bu;ek
 贊恩	zj;bx en;xy
 贊斯利薩斯	zj;bx si;jq li;hd sa;ci si;jq
 贊迪卡	zj;bx di;zy ka;bx
@@ -87057,7 +87057,7 @@ use_preset_vocabulary: false
 跳躍王	tc;zv yt;zd wh;aa
 跳躍閃電傑克	tc;zv yt;zd uj;mr dm;yd jx;rj ke;eg
 踏上勝利的人生	ta;zt uh;aa ug;ol li;hd de;bu rf;pd ug;na
-踏九州	ta;zt jq;py vb;da
+踏九州	ta;zt jq;py vb;id
 踏切時間	ta;zt qx;dq ui;os jm;mo
 踏尋往昔之風	ta;zt xp;ck wh;xv xi;co vi;dd fg;ji
 踏弦	ta;zt xm;gx
@@ -88515,8 +88515,8 @@ use_preset_vocabulary: false
 速見圭	su;zu jm;oe gv;tt
 速記原典	su;zu ji;yj yr;ix dm;ba
 速通	su;zu ts;zy
-速食主義	su;zu ui;pd vu;dw yi;yw
-速食炒麪現象	su;zu ui;pd ik;hu mm;mg xm;wj xd;du
+速食主義	su;zu ui;rl vu;dw yi;yw
+速食炒麪現象	su;zu ui;rl ik;hu mm;mg xm;wj xd;du
 速龍	su;zu ls;dg
 造反劇	zk;zg fj;py ju;dj
 造墓者殭屍	zk;zg mu;tm ve;lo jd;dj ui;us
@@ -88726,8 +88726,8 @@ use_preset_vocabulary: false
 進退兩難	jn;zv tv;zg ld;ar nj;vh
 進退自如	jn;zv tv;zg zi;pa ru;nk
 進階資料	jn;zv jx;ej zi;bc lc;md
-進食之人	jn;zv ui;pd vi;dd rf;pd
-進食睡眠凝視者	jn;zv ui;pd uv;oi mm;om ny;dy ui;ju ve;lo
+進食之人	jn;zv ui;rl vi;dd rf;pd
+進食睡眠凝視者	jn;zv ui;rl uv;oi mm;om ny;dy ui;ju ve;lo
 進餐練習	jn;zv cj;uy lm;sj xi;by
 逸仙	yi;zt xm;ru
 逸仙羈絆	yi;zt xm;ru ji;sm bj;sb
@@ -88748,7 +88748,7 @@ use_preset_vocabulary: false
 遇見海岸線	yu;zy jm;oe hl;dm an;ug xm;sq
 遇見自己的聲優	yu;zy jm;oe zi;pa ji;ag de;bu ug;eq yb;rw
 遇見逆水寒	yu;zy jm;oe ni;zn uv;ad hj;bd
-遊九州	yb;zy jq;py vb;da
+遊九州	yb;zy jq;py vb;id
 遊井薰	yb;zy jy;aa xp;cx
 遊仁	yb;zy rf;re
 遊佐	yb;zy zo;rz
@@ -88998,8 +88998,8 @@ use_preset_vocabulary: false
 過街	go;zg jx;ri
 過足橙香	go;zg zu;kv ig;md xd;ho
 過量散播	go;zg ld;ol sj;wo bo;ff
-過食性	go;zg ui;pd xy;xu
-過食性偶像症候羣	go;zg ui;pd xy;xu ou;ry xd;rx vg;bv hb;ru qp;yj
+過食性	go;zg ui;rl xy;xu
+過食性偶像症候羣	go;zg ui;rl xy;xu ou;ry xd;rx vg;bv hb;ru qp;yj
 過馬路的李叔叔	go;zg ma;ad lu;zg de;bu li;mz uu;yx uu;yx
 道不得經	dk;zu bu;ad de;xc jy;sg
 道井悠	dk;zu jy;aa yb;xw
@@ -89608,7 +89608,7 @@ use_preset_vocabulary: false
 邪導桃白魔製作組	xx;ey dk;cd tk;mv bl;pa mo;gm vi;yv zo;rv zu;sq
 邪導桃製作組	xx;ey dk;cd tk;mv vi;yv zo;rv zu;sq
 邪影夢魘	xx;ey yy;pj mg;cx yj;gy
-邪影食人魔	xx;ey yy;pj ui;pd rf;pd mo;gm
+邪影食人魔	xx;ey yy;pj ui;rl rf;pd mo;gm
 邪心爆破	xx;ey xn;dd bk;hb po;up
 邪心英雄	xx;ey xn;dd yy;cy xs;vh
 邪惡	xx;ey ee;xy
@@ -89663,16 +89663,16 @@ use_preset_vocabulary: false
 邪見	xx;ey jm;oe
 邪視	xx;ey ui;ju
 邪道讚歌	xx;ey dk;zu zj;yz ge;qg
-邪道食人魔	xx;ey dk;zu ui;pd rf;pd mo;gm
+邪道食人魔	xx;ey dk;zu ui;rl rf;pd mo;gm
 邪遺式人魚幽靈	xx;ey yi;zg ui;gy rf;pd yu;dd yb;uy ly;wl
 邪遺式人魚風靈	xx;ey yi;zg ui;gy rf;pd yu;dd fg;ji ly;wl
 邪遺式四臂噬人魔	xx;ey yi;zg ui;gy si;aa bi;ob ui;ku rf;pd mo;gm
 邪遺式幽風烏賊怪	xx;ey yi;zg ui;gy yb;uy fg;ji wu;pd zz;br gy;xu
-邪遺式心靈女食人魔	xx;ey yi;zg ui;gy xn;dd ly;wl nv;aa ui;pd rf;pd mo;gm
+邪遺式心靈女食人魔	xx;ey yi;zg ui;gy xn;dd ly;wl nv;aa ui;rl rf;pd mo;gm
 邪遺式海龍魂	xx;ey yi;zg ui;gy hl;dm ls;dg hp;gy
 邪遺式薰風烏賊怪	xx;ey yi;zg ui;gy xp;cx fg;ji wu;pd zz;br gy;xu
 邪遺式雙魂海龍	xx;ey yi;zg ui;gy ud;vy hp;gy hl;dm ls;dg
-邪遺式靈魂食人魔	xx;ey yi;zg ui;gy ly;wl hp;gy ui;pd rf;pd mo;gm
+邪遺式靈魂食人魔	xx;ey yi;zg ui;gy ly;wl hp;gy ui;rl rf;pd mo;gm
 邪遺式魂靈座甲魔	xx;ey yi;zg ui;gy hp;gy ly;wl zo;gz jw;aa mo;gm
 邪遺式魂靈甲妖	xx;ey yi;zg ui;gy hp;gy ly;wl jw;aa yk;ny
 邪遺式魂魄巨靈	xx;ey yi;zg ui;gy hp;gy po;bg ju;kk ly;wl
@@ -94710,7 +94710,7 @@ use_preset_vocabulary: false
 雜賀讓二	za;vm he;bj rh;yx er;aa
 雜音	za;vm yn;lo
 雜音未來	za;vm yn;lo wz;ex ll;ad
-雜食	za;vm ui;pd
+雜食	za;vm ui;rl
 雜魚	za;vm yu;dd
 雜魚西賀蜂	za;vm yu;dd xi;aa he;bj fg;if
 雞丸	ji;vx wj;jd
@@ -95364,7 +95364,7 @@ use_preset_vocabulary: false
 零重祈願	ly;yl vs;pa qi;uj yr;yy
 零離飄落	ly;yl li;vl pc;fp lo;cl
 零零封鎖	ly;yl ly;yl fg;cg so;jb
-零食的魔女	ly;yl ui;pd de;bu mo;gm nv;aa
+零食的魔女	ly;yl ui;rl de;bu mo;gm nv;aa
 零餘子	ly;yl yu;uy zi;aa
 零鳥姬	ly;yl nc;pd ji;ni
 零鳥獸	ly;yl nc;pd ub;qu
@@ -95588,7 +95588,7 @@ use_preset_vocabulary: false
 雷霆放電	lz;yt ty;yt fh;wf dm;yd
 雷霆歸來	lz;yt ty;yt gv;vj ll;ad
 雷霆終結龍	lz;yt ty;yt vs;sd jx;sj ls;dg
-雷霆食人魔	lz;yt ty;yt ui;pd rf;pd mo;gm
+雷霆食人魔	lz;yt ty;yt ui;rl rf;pd mo;gm
 雷震子	lz;yt vf;yi zi;aa
 雷音	lz;yt yn;lo
 雷音權現	lz;yt yn;lo qr;mv xm;wj
@@ -95703,7 +95703,7 @@ use_preset_vocabulary: false
 電子音樂	dm;yd zi;aa yn;lo yt;bm
 電子顯示屏	dm;yd zi;aa xm;ys ui;ex py;ub
 電子風暴訪問	dm;yd zi;aa fg;ji bk;ou fh;yf wf;km
-電子食人魔	dm;yd zi;aa ui;pd rf;pd mo;gm
+電子食人魔	dm;yd zi;aa ui;rl rf;pd mo;gm
 電子飽和器	dm;yd zi;aa bk;ub he;hk qi;kk
 電子鬥蛐蛐	dm;yd zi;aa db;aa qu;iq qu;iq
 電子龍凱旋	dm;yd zi;aa ls;dg kl;jd xr;fp
@@ -96912,7 +96912,7 @@ use_preset_vocabulary: false
 非常行爲準則	fz;aa ih;jk xy;xd wz;pd vp;uh ze;db
 非常規綠色戰士必死	fz;aa ih;jk gv;fj lv;sl se;db vj;gd ui;aa bi;dd si;db
 非常非議	fz;aa ih;jk fz;aa yi;yy
-非常食	fz;aa ih;jk ui;pd
+非常食	fz;aa ih;jk ui;rl
 非情式	fz;aa qy;xq ui;gy
 非情式憐句	fz;aa qy;xq ui;gy lm;xl ju;gk
 非情式祿	fz;aa qy;xq ui;gy lu;ul
@@ -98089,67 +98089,67 @@ use_preset_vocabulary: false
 飛龍騎臉	fz;ff ls;dg qi;mq lm;oq
 飛龍騎臉了你告訴我怎麼輸	fz;ff ls;dg qi;mq lm;oq le;aa ni;re gk;kn su;yi wo;pd zf;xv me;my uu;iy
 飛龍騎臉怎麼輸	fz;ff ls;dg qi;mq lm;oq zf;xv me;my uu;iy
-食下役	ui;pd xw;ab yi;xu
-食之契約	ui;pd vi;dd qi;dd yt;su
-食之歌	ui;pd vi;dd ge;qg
-食事	ui;pd ui;aa
-食人	ui;pd rf;pd
-食人植物	ui;pd rf;pd vi;mv wu;nw
-食人玩偶	ui;pd rf;pd wj;wy ou;ry
-食人的大鷲	ui;pd rf;pd de;bu da;ad jq;nj
-食人花	ui;pd rf;pd hw;ch
-食人花娘	ui;pd rf;pd hw;ch nd;nl
-食人魔姬	ui;pd rf;pd mo;gm ji;ni
-食人魔龍鬼	ui;pd rf;pd mo;gm ls;dg gv;pd
-食人魚	ui;pd rf;pd yu;dd
-食人鯊與朋友	ui;pd rf;pd ua;yu yu;ba pg;oo yb;yu
-食光之龍輝巧	ui;pd gd;ea vi;dd ls;dg hv;gj qc;gk
-食友教室	ui;pd yb;yu jc;wx ui;bv
-食品	ui;pd pn;kk
-食品卡	ui;pd pn;kk ka;bx
-食堂	ui;pd th;tk
-食堂搶飯	ui;pd th;tk qd;fc fj;uf
-食堂潑辣醬	ui;pd th;tk po;df la;xu jd;yj
-食夢女	ui;pd mg;cx nv;aa
-食夢妖	ui;pd mg;cx yk;ny
-食夢者	ui;pd mg;cx ve;lo
-食夢者梅莉	ui;pd mg;cx ve;lo mz;mm li;cl
-食夢者瑪利	ui;pd mg;cx ve;lo ma;wm li;hd
-食夢者瑪莉	ui;pd mg;cx ve;lo ma;wm li;cl
-食夢者瑪麗	ui;pd mg;cx ve;lo ma;wm li;ll
-食夢貘	ui;pd mg;cx mo;vm
-食夢黑白貘	ui;pd mg;cx hz;ad bl;pa mo;vm
-食大食蟻獸蟻	ui;pd da;ad ui;pd yi;iy ub;qu yi;iy
-食屍鬼	ui;pd ui;us gv;pd
-食屍鬼街	ui;pd ui;us gv;pd jx;ri
-食己少女	ui;pd ji;ag uk;xp nv;aa
-食心魔族	ui;pd xn;dd mo;gm zu;fu
-食戟之靈	ui;pd ji;gu vi;dd ly;wl
-食斷	ui;pd dr;ja
-食替	ui;pd ti;of
-食滿留三郎	ui;pd mj;dr lq;td sj;aa lh;el
-食物	ui;pd wu;nw
-食物大戰	ui;pd wu;nw da;ad vj;gd
-食物語	ui;pd wu;nw yu;yw
-食物語手遊	ui;pd wu;nw yu;yw ub;pa yb;zy
-食玩	ui;pd wj;wy
-食發鬼	ui;pd fa;du gv;pd
-食神魂	ui;pd uf;uu hp;gy
-食腦奈羅	ui;pd nk;oi nl;du lo;sv
-食腿者	ui;pd tv;ot ve;lo
-食色迷魂記	ui;pd se;db mi;zm hp;gy ji;yj
-食草男	ui;pd ck;cz nj;tl
-食草老龍被冠以惡龍之名	ui;pd ck;cz lk;bl ls;dg bz;yp gr;bc yi;rd ee;xy ls;dg vi;dd my;xk
-食蜂操祈	ui;pd fg;if ck;fz qi;uj
-食蜂派閥	ui;pd fg;if pl;dp fa;mf
-食蟲植物	ui;pd is;ii vi;mv wu;nw
-食蟻獸	ui;pd yi;iy ub;qu
-食鏽末世錄	ui;pd xq;js mo;ad ui;ca lu;jl
-食鐵獸	ui;pd tx;jg ub;qu
-食霸	ui;pd ba;yo
-食靈	ui;pd ly;wl
-食靈零	ui;pd ly;wl ly;yl
-食魂的魔刀	ui;pd hp;gy de;bu mo;gm dk;gp
+食下役	ui;rl xw;ab yi;xu
+食之契約	ui;rl vi;dd qi;dd yt;su
+食之歌	ui;rl vi;dd ge;qg
+食事	ui;rl ui;aa
+食人	ui;rl rf;pd
+食人植物	ui;rl rf;pd vi;mv wu;nw
+食人玩偶	ui;rl rf;pd wj;wy ou;ry
+食人的大鷲	ui;rl rf;pd de;bu da;ad jq;nj
+食人花	ui;rl rf;pd hw;ch
+食人花娘	ui;rl rf;pd hw;ch nd;nl
+食人魔姬	ui;rl rf;pd mo;gm ji;ni
+食人魔龍鬼	ui;rl rf;pd mo;gm ls;dg gv;pd
+食人魚	ui;rl rf;pd yu;dd
+食人鯊與朋友	ui;rl rf;pd ua;yu yu;ba pg;oo yb;yu
+食光之龍輝巧	ui;rl gd;ea vi;dd ls;dg hv;gj qc;gk
+食友教室	ui;rl yb;yu jc;wx ui;bv
+食品	ui;rl pn;kk
+食品卡	ui;rl pn;kk ka;bx
+食堂	ui;rl th;tk
+食堂搶飯	ui;rl th;tk qd;fc fj;uf
+食堂潑辣醬	ui;rl th;tk po;df la;xu jd;yj
+食夢女	ui;rl mg;cx nv;aa
+食夢妖	ui;rl mg;cx yk;ny
+食夢者	ui;rl mg;cx ve;lo
+食夢者梅莉	ui;rl mg;cx ve;lo mz;mm li;cl
+食夢者瑪利	ui;rl mg;cx ve;lo ma;wm li;hd
+食夢者瑪莉	ui;rl mg;cx ve;lo ma;wm li;cl
+食夢者瑪麗	ui;rl mg;cx ve;lo ma;wm li;ll
+食夢貘	ui;rl mg;cx mo;vm
+食夢黑白貘	ui;rl mg;cx hz;ad bl;pa mo;vm
+食大食蟻獸蟻	ui;rl da;ad ui;rl yi;iy ub;qu yi;iy
+食屍鬼	ui;rl ui;us gv;pd
+食屍鬼街	ui;rl ui;us gv;pd jx;ri
+食己少女	ui;rl ji;ag uk;xp nv;aa
+食心魔族	ui;rl xn;dd mo;gm zu;fu
+食戟之靈	ui;rl ji;gu vi;dd ly;wl
+食斷	ui;rl dr;ja
+食替	ui;rl ti;of
+食滿留三郎	ui;rl mj;dr lq;td sj;aa lh;el
+食物	ui;rl wu;nw
+食物大戰	ui;rl wu;nw da;ad vj;gd
+食物語	ui;rl wu;nw yu;yw
+食物語手遊	ui;rl wu;nw yu;yw ub;pa yb;zy
+食玩	ui;rl wj;wy
+食發鬼	ui;rl fa;du gv;pd
+食神魂	ui;rl uf;uu hp;gy
+食腦奈羅	ui;rl nk;oi nl;du lo;sv
+食腿者	ui;rl tv;ot ve;lo
+食色迷魂記	ui;rl se;db mi;zm hp;gy ji;yj
+食草男	ui;rl ck;cz nj;tl
+食草老龍被冠以惡龍之名	ui;rl ck;cz lk;bl ls;dg bz;yp gr;bc yi;rd ee;xy ls;dg vi;dd my;xk
+食蜂操祈	ui;rl fg;if ck;fz qi;uj
+食蜂派閥	ui;rl fg;if pl;dp fa;mf
+食蟲植物	ui;rl is;ii vi;mv wu;nw
+食蟻獸	ui;rl yi;iy ub;qu
+食鏽末世錄	ui;rl xq;js mo;ad ui;ca lu;jl
+食鐵獸	ui;rl tx;jg ub;qu
+食霸	ui;rl ba;yo
+食靈	ui;rl ly;wl
+食靈零	ui;rl ly;wl ly;yl
+食魂的魔刀	ui;rl hp;gy de;bu mo;gm dk;gp
 飢腸轆轆的瑪麗	ji;uj ih;oy lu;il lu;il de;bu ma;wm li;ll
 飢餓值	ji;uj ee;uw vi;rv
 飢餓度	ji;uj ee;uw du;gy
@@ -98367,8 +98367,8 @@ use_preset_vocabulary: false
 香水草	xd;ho uv;ad ck;cz
 香水菇	xd;ho uv;ad gu;cg
 香波城堡	xd;ho bo;dp ig;ti bk;tb
-香波美食	xd;ho bo;dp mz;dy ui;pd
-香波美食家	xd;ho bo;dp mz;dy ui;pd jw;bu
+香波美食	xd;ho bo;dp mz;dy ui;rl
+香波美食家	xd;ho bo;dp mz;dy ui;rl jw;bu
 香波羣島篇登場角色	xd;ho bo;dp qp;yj dk;nu pm;vb dg;dd ih;ty jt;dy se;db
 香波護髮素	xd;ho bo;dp hu;yh fa;ib su;sf
 香海高中	xd;ho hl;dm gk;wk vs;aa
@@ -99892,7 +99892,7 @@ use_preset_vocabulary: false
 魔人	mo;gm rf;pd
 魔人之歌	mo;gm rf;pd vi;dd ge;qg
 魔人偵探腦齧涅羅	mo;gm rf;pd vf;rv tj;fm nk;oi nx;id nx;dn lo;sv
-魔人偵探食腦奈羅	mo;gm rf;pd vf;rv tj;fm ui;pd nk;oi nl;du lo;sv
+魔人偵探食腦奈羅	mo;gm rf;pd vf;rv tj;fm ui;rl nk;oi nl;du lo;sv
 魔人執行官	mo;gm rf;pd vi;wx xy;xd gr;bg
 魔仙女王	mo;gm xm;ru nv;aa wh;aa
 魔仙小藍	mo;gm xm;ru xc;ad lj;cj
@@ -99997,7 +99997,7 @@ use_preset_vocabulary: false
 魔女的教室	mo;gm nv;aa de;bu jc;wx ui;bv
 魔女的舞宴	mo;gm nv;aa de;bu wu;rf yj;bn
 魔女的花園	mo;gm nv;aa de;bu hw;ch yr;ky
-魔女的食譜	mo;gm nv;aa de;bu ui;pd pu;yp
+魔女的食譜	mo;gm nv;aa de;bu ui;rl pu;yp
 魔女盛開於滿月之下	mo;gm nv;aa ug;mi kl;mk yu;fd mj;dr yt;oy vi;dd xw;ab
 魔女眷屬	mo;gm nv;aa jr;of uu;ui
 魔女福克西	mo;gm nv;aa fu;uf ke;eg xi;aa
@@ -101129,7 +101129,7 @@ use_preset_vocabulary: false
 鸞鳳和鳴劍	lr;ns fg;jn he;hk my;kn jm;dq
 鹵族元素姐妹	lu;ad zu;fu yr;aw su;sf jx;nq mz;nw
 鹹水鹽雕	xm;lx uv;ad yj;ml dc;vv
-鹹食控	xm;lx ui;pd ks;fk
+鹹食控	xm;lx ui;rl ks;fk
 鹹魚	xm;lx yu;dd
 鹹魚味的米粉兒	xm;lx yu;dd wz;kw de;bu mi;dd ff;mf er;ej
 鹹魚哥	xm;lx yu;dd ge;kd
@@ -102213,7 +102213,7 @@ use_preset_vocabulary: false
 黑色衝擊	hz;ad se;db is;xi ji;fu
 黑色連褲襪	hz;ad se;db lm;zi ku;yk wa;ym
 黑色過膝襪	hz;ad se;db go;zg xi;oq wa;ym
-黑色食人鯊	hz;ad se;db ui;pd rf;pd ua;yu
+黑色食人鯊	hz;ad se;db ui;rl rf;pd ua;yu
 黑色騎士團	hz;ad se;db qi;mq ui;aa tr;kv
 黑色高塔的王子	hz;ad se;db gk;wk ta;td de;bu wh;aa zi;aa
 黑芝香苗	hz;ad vi;cv xd;ho mc;ct

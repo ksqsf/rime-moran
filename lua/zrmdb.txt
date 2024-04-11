@@ -11755,8 +11755,8 @@
 巜 ky
 巜 vv
 川 pa
-州 da
 州 id
+州 da
 巟 wi
 巠 ag
 巠 gi
@@ -30469,8 +30469,8 @@
 飜 ff
 飝 ff
 飞 yd
-食 pd
 食 rl
+食 pd
 飠 rl
 飠 ui
 飡 du
