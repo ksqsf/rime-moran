@@ -22,9 +22,9 @@ style:
   translucency: true      # 透明度總開關
 
   # 淺色主题
-  color_scheme: ayaya_day
+  color_scheme: wechat
   # 深色主题
-  color_scheme_dark: ayaya_night
+  color_scheme_dark: wechat_dark
 
   # 默認界面設置 (會被具體主題覆寫)
   font_point: 14
