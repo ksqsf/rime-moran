@@ -3,7 +3,7 @@
 
 ---
 name: moran.extended
-version: "20230913"
+version: "20240414"
 sort: by_weight
 use_preset_vocabulary: false
 import_tables:
@@ -18,3 +18,4 @@ import_tables:
 ...
 
 # 用戶自定義詞庫
+# 此處可無碼加詞

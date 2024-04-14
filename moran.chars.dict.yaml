@@ -17,7 +17,7 @@
 
 ---
 name: moran.chars
-version: "20240227"
+version: "20240414"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -11051,7 +11051,7 @@ use_preset_vocabulary: false
 栛	li;mx	300
 栜	su;mc	238
 栝	gw;mu	473
-栞	kj;mq	419
+栞	kj;mj	419
 栟	by;mb	375
 栟	py;mb	375
 栠	rf;mr	324

@@ -6,7 +6,7 @@
 
 ---
 name: moran.moe
-version: "20230917"
+version: "20240414"
 sort: by_weight
 use_preset_vocabulary: false
 ...

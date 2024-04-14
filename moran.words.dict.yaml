@@ -4,7 +4,7 @@
 
 ---
 name: moran.words
-version: "20230926"
+version: "20240414"
 sort: by_weight
 use_preset_vocabulary: false
 columns:
