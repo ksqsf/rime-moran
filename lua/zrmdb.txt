@@ -1363,7 +1363,6 @@
 㥦 xq
 㥧 xy
 㥨 xw
-㥩 xd
 㥩 xv
 㥪 xl
 㥫 xo
@@ -39686,13 +39685,13 @@
 𡥅 fz
 𡥅 zf
 𡥆 zi
-𡥈 zx
+𡥈 zy
 𡥉 iz
 𡥉 za
 𡥊 zm
 𡥋 bz
 𡥋 zp
-𡥍 zx
+𡥍 zy
 𡥎 zc
 𡥏 uz
 𡥏 zd
@@ -39716,7 +39715,7 @@
 𡥜 bz
 𡥝 yz
 𡥝 zy
-𡥞 zv
+𡥞 zb
 𡥠 zx
 𡥡 zj
 𡥢 zk
@@ -39812,8 +39811,7 @@
 𡦨 xh
 𡦩 oz
 𡦩 zg
-𡦪 jj
-𡦪 zm
+𡦪 zz
 𡦬 oz
 𡦬 zh
 𡦭 ih
