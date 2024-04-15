@@ -70,6 +70,16 @@ def from_double_pinyin(pinyin, schema=None):
     raise ValueError('Unknown double pinyin ' + args.double_pinyin)
 
 
+def convert_sp1(sp, to_):
+    '''轉換一個雙拼碼 @sp 到 to_ 方案
+
+    如：默認雙拼爲自然碼，sp="xc", to="flypy" 時輸出 "xn"'''
+    global args
+    py = from_double_pinyin(sp, args.double_pinyin)
+    sp = to_double_pinyin(py, to_)
+    return sp
+
+
 def to_auxiliary_codes(char):
     global auxiliary_table
     if not auxiliary_table:
@@ -518,9 +528,45 @@ def handle_convert_sp():
                 print(l)
                 continue
             word = m[1]
-            code = convert_word_sp('zrm', args.to, m[2])
+            code = convert_word_sp(args.double_pinyin, args.to, m[2])
             rest = m[3]
             print(f'{word}\t{code}{rest}')
+
+
+def handle_convert_fixed_sp():
+    with open(args.rime_dict) as f:
+        for l in f:
+            l = l.strip()
+            m = regex.match(r'^(\p{Han}+)\t([a-z]+)(.*)$', l)
+            if not m:
+                print(l)
+                continue
+            word = m[1]
+            code = m[2]
+            rest = m[3]
+            # NOTE: 部分簡碼無法得到完整的雙拼形式，因此簡單地假設聲母部分不變，只需轉換韻母。
+            # 該假設對小鶴轉換是成立的。
+            if len(word) == 1 and len(code) > 1 and code[0] != 'o':  # 含有韻母的單字
+                sp, aux = code[:2], code[2:]
+                newsp = convert_sp1(sp, args.to)
+                print(f'{word}\t{newsp + aux}{rest}')
+            elif len(word) == 2 and len(code) == 4:  # 二字詞全碼
+                sp1, sp2 = code[:2], code[2:]
+                newsp1 = convert_sp1(sp1, args.to)
+                newsp2 = convert_sp1(sp2, args.to)
+                print(f'{word}\t{newsp1 + newsp2}{rest}')
+            elif len(word) == 2 and len(code) == 3:  # 可能是簡碼，也可能是無理碼，直接略過
+                continue
+            elif len(word) == 3 and len(code) == 4:  # 三字詞全碼
+                first2 = code[:2]
+                last = code[2:]
+                newlast = convert_sp1(last, args.to)
+                print(f'{word}\t{first2 + newlast}{rest}')
+            else:
+                # 在上述假設下，其餘情況可原樣返回
+                print(l)
+
+    print('''# ⚠️ 請注意：機器轉換過程無法處理無理碼，這些編碼仍需手動處理（或刪除）''')
 
 
 ###############
@@ -567,10 +613,13 @@ update_sp = subparsers.add_parser('update-sp', help='根據原始數據重新修
 update_sp.add_argument('--rime-dict', help='輸入rime格式詞庫', required=True)
 update_sp.add_argument('--find', help='只更新含有這些字的詞', default='重長彈阿拗扒蚌薄堡暴辟扁屏剝伯藏禪車稱澄匙臭畜伺攢大單提得都度囤革給合更谷檜巷和虹會奇緝茄嚼僥腳校芥矜勁龜咀殼烙僂綠落脈埋蔓氓秘繆弄瘧娜迫胖稽栖趄色塞厦折說數縮委省削血殷軋行')
 
-convert_sp = subparsers.add_parser('convert-sp', help='轉換雙拼')
+convert_sp = subparsers.add_parser('convert-sp', help='轉換雙拼（整句詞庫）')
 convert_sp.add_argument('--rime-dict', help='輸入rime格式詞庫', required=True)
-convert_sp.add_argument('--from', choices=double_pinyin_choices, help='來源雙拼方案', default='zrm')
 convert_sp.add_argument('--to', choices=double_pinyin_choices, help='目的雙拼方案', required=True)
+
+convert_fixed_sp = subparsers.add_parser('convert-fixed-sp', help='轉換雙拼（fixed碼表）')
+convert_fixed_sp.add_argument('--rime-dict', help='輸入rime格式詞庫', required=True)
+convert_fixed_sp.add_argument('--to', choices=double_pinyin_choices, help='目的雙拼方案', required=True)
 
 if __name__ == '__main__':
     args = parser.parse_args()
@@ -588,3 +637,5 @@ if __name__ == '__main__':
         handle_update_sp()
     elif args.command == 'convert-sp':
         handle_convert_sp()
+    elif args.command == 'convert-fixed-sp':
+        handle_convert_fixed_sp()
