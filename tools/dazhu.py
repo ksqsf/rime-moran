@@ -20,7 +20,7 @@ class Table:
         for code in self.w2c[word]:
             if len(code) >= 2:
                 return code
-        raise KeyError('%s 無長碼' % word)
+        raise KeyError(f'{word} 無長碼, codes = {self.w2c[word]}')
 
     def has_quick_code(self, word, code):
         all_codes = self.w2c[word]
@@ -83,12 +83,14 @@ def main(args):
 
     # fixed table
     with open(args.dict, 'r') as f:
+        deferred = []
         for l in f:
             matches = re.findall(r'^(\w+)	([a-z]+)	?([a-z]+)?', l)
             if matches:
                 word, code, stem = matches[0]
                 if stem:
-                    table.add(word, stem)
+                    # stem should be added at the end of the list of codes of this char
+                    deferred.append((word, stem))
             else:
                 matches = re.findall(r'^\w+$', l)
                 if not matches: continue
@@ -96,6 +98,8 @@ def main(args):
                 code = None
             word = cc.convert(word)
             table.add(word, code)
+            for (word, stem) in deferred:
+                table.add(word, code)
 
     # additional chars
     with open('../moran.chars.dict.yaml', 'r') as f:
