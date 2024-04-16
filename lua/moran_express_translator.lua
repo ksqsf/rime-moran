@@ -196,12 +196,11 @@ function top.func(input, seg, env)
       end
    end
 
-   -- 如果 smart 輸出爲空，並且 fixed 之前沒有調用過，此時再嘗試調用一下
-   if smart_iter == nil and not fixed_triggered then
-      env.output_injected_secondary = {}  -- 此時不再輸出 show_chars_anyway 結果
-      for cand in moran.query_translation(env.fixed, input, seg) do
+   -- 最后：如果 smart 輸出爲空，並且 fixed 之前沒有調用過，此時再嘗試調用一下
+   if env.output_i == 0 then
+      for cand in moran.query_translation(env.fixed, input, seg, nil) do
          cand.comment = indicator
-         top.output(env, cand)
+         yield(cand)
       end
    end
 end
