@@ -410,7 +410,7 @@ def print_table(table):
 def handle_update_compact_dict():
     with open(args.rime_dict) as f:
         for l in f:
-            l = l.strip()
+            l = l.rstrip('\n')
             matches = regex.findall(r'^([^\t]+)\t([a-z; ]*)(\t\d+)?', l)
 
             # This line is weird and needs addressing
@@ -449,7 +449,7 @@ def handle_update_char_weight():
     initialize_pinyin_table()
     with open(args.rime_dict) as f:
         for l in f:
-            l = l.strip()
+            l = l.rstrip('\n')
             m = regex.match(r'^([^\t])\t([a-z][a-z];[a-z][a-z])\t(\d+)(.*)$', l)
             if not m:
                 print(l)
@@ -483,7 +483,7 @@ def handle_update_sp():
     initialize_pinyin_table(skip_no_pinyin=True)
     with open(args.rime_dict) as f:
         for l in f:
-            l = l.strip()
+            l = l.rstrip('\n')
             m = regex.match(r'^(\p{Han}\p{Han}+)\t([a-z; ]+)(.*)$', l)
             if not m:
                 print(l)
@@ -522,7 +522,7 @@ def handle_convert_sp():
         return ' '.join(res)
     with open(args.rime_dict) as f:
         for l in f:
-            l = l.strip()
+            l = l.rstrip('\n')
             m = regex.match(r'^(\p{Han}+)\t([a-z; ]+)(.*)$', l)
             if not m:
                 print(l)
@@ -536,7 +536,7 @@ def handle_convert_sp():
 def handle_convert_fixed_sp():
     with open(args.rime_dict) as f:
         for l in f:
-            l = l.strip()
+            l = l.rstrip('\n')
             m = regex.match(r'^(\p{Han}+)\t([a-z]+)(.*)$', l)
             if not m:
                 print(l)
