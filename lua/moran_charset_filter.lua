@@ -30,7 +30,7 @@ end
 -- For each Chinese char in text, if it is not in charset, return false.
 function Top.InCharset(env, text)
    for i, char in moran.chars(text) do
-      log.error("char="..char..": " .. env.charset:lookup(char))
+      -- log.error("char="..char..": " .. env.charset:lookup(char))
       if moran.unicode_code_point_is_chinese(utf8.codepoint(char)) and env.charset:lookup(char) == "" then
          return false
       end
