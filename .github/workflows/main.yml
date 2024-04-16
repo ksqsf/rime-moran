@@ -22,3 +22,27 @@ jobs:
             dist/moran.computer.dict.yaml
             dist/moran.hanyu.dict.yaml
             dist/moran.words.dict.yaml
+  traditional-moran:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          git archive HEAD -o archive.tar
+          mkdir -p dist
+          tar xf archive.tar -C dist
+          rm -rf dist/tools dist/.git dist/.github dist/make_simp_dist.sh
+      - uses: actions/upload-artifact@v3
+        with:
+          name: "繁體完整配置包"
+          path: dist/**
+      - uses: actions/upload-artifact@v3
+        with:
+          name: "僅繁體詞庫"
+          path: |
+            dist/moran.essay.dict.yaml
+            dist/moran.tencent.dict.yaml
+            dist/moran.moe.dict.yaml
+            dist/moran.thuocl.dict.yaml
+            dist/moran.computer.dict.yaml
+            dist/moran.hanyu.dict.yaml
+            dist/moran.words.dict.yaml
