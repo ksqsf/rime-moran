@@ -291,6 +291,10 @@ moran:
   # 例如 輸入 yy te er 英特爾 會提示「⚡yte」，即使用 yte 可以打出這個詞
   enable_quick_code_hint: false
 
+  # 輸入四碼時，如果簡碼碼表中含有對應條目，則放置在第二選項。
+  show_chars_anyway: false   # 是否輸出簡碼碼表單字，例：輸入 jwrg 時，次選爲「佳」
+  show_words_anyway: false   # 是否輸出簡碼碼表詞語，例：輸入 lmsd 時，次選爲「兩面三刀」
+
 # 默認啓用語言模型
 __include: moran:/octagram/enable_for_sentence
 # 若要禁用，可直接刪掉上面的 __include，或在 custom 文件中寫入：

@@ -1,10 +1,13 @@
 -- Moran Reorder Filter
--- Copyright (c) 2023 ksqsf
+-- Copyright (c) 2023, 2024 ksqsf
 --
--- Ver: 0.1.1
+-- Ver: 0.1.2
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.1.2: 配合 show_chars_anyway 設置。從 show_chars_anyway 設置起，
+-- fixed 輸出有可能出現在 script 之後！此情況只覆寫 comment 而不做重排。
 --
 -- 0.1.1: 要求候選項合併時 preedit 也匹配，以防禦一種邊角情況（掛接某
 -- 些第三方碼表時可能出現）。
@@ -60,7 +63,11 @@ function Top.func(t_input, env)
             reorder_phase = 2
          end
       else
-         -- All candidates are from the script translator.
+         -- All candidates are either from the script translator, or
+         -- injected secondary candidates.
+         if cand.comment == "`F" then
+            cand.comment = env.quick_code_indicator
+         end
          yield(cand)
       end
 
@@ -106,6 +113,9 @@ function Top.ClearEntries(env, reorder_phase, fixed_list, smart_list)
       fixed_list[i] = nil
    end
    for i, cand in ipairs(smart_list) do
+      if cand.comment == "`F" then
+         cand.comment = env.quick_code_indicator
+      end
       yield(cand)
       smart_list[i] = nil
    end
