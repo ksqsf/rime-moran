@@ -21,11 +21,8 @@ switches:
     states: [ 漢字, 汉字 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
-  - options: [ gbk+emoji, utf8, big5+emoji ]
-    states:
-    - UTF-8
-    - GBK
-    - BIG5
+  - name: extended_charset
+    states: [ 通用, 增廣 ]
   - name: emoji
     states: [ 🈚, 🈶 ]
   - name: unicode_comment
@@ -60,9 +57,8 @@ engine:
     - lua_translator@*moran_aux_translator
   filters:
     #- lua_filter@*moran_aux_hint           # 輔助碼提示需要去掉本行開頭的 # 符號
+    - lua_filter@*moran_charset_filter     # 字集過濾需要去掉本行開頭的 # 符號
     - simplifier
-    - charset_filter@gbk+emoji
-    - charset_filter@big5+emoji
     - simplifier@emoji
     - simplifier@std_tw
     - simplifier@std_hk
