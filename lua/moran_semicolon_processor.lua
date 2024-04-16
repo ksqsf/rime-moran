@@ -7,16 +7,7 @@
 -- NOTE: This processor depends on, and thus should be placed before,
 -- the built-in "selector" processor.
 
-local function unicode_code_point_is_chinese(codepoint)
-   return (codepoint >= 0x4E00 and codepoint <= 0x9FFF)
-      or (codepoint >= 0x3400 and codepoint <= 0x4DBF)
-      or (codepoint >= 0x20000 and codepoint <= 0x2A6DF)
-      or (codepoint >= 0x2A700 and codepoint <= 0x2B73F)
-      or (codepoint >= 0x2B740 and codepoint <= 0x2B81F)
-      or (codepoint >= 0x2B820 and codepoint <= 0x2CEAF)
-      or (codepoint >= 0xF900 and codepoint <= 0xFAFF)
-      or (codepoint >= 0x2F800 and codepoint <= 0x2FA1F)
-end
+local moran = require("moran")
 
 local kReject = 0
 local kAccepted = 1
@@ -51,7 +42,7 @@ local function processor(key_event, env)
       local cand = menu:get_candidate_at(i)
       local cand_text = cand.text
       local codepoint = utf8.codepoint(cand_text, 1)
-      if unicode_code_point_is_chinese(codepoint) then
+      if moran.unicode_code_point_is_chinese(codepoint) then
          env.engine:process_key(KeyEvent(tostring(i+1)))
          return kAccepted
       end

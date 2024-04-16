@@ -48,4 +48,30 @@ function Module.drain_translation(translator, input, seg, transform)
    return results
 end
 
+function Module.unicode_code_point_is_chinese(codepoint)
+   return (codepoint >= 0x4E00 and codepoint <= 0x9FFF)   -- basic
+      or (codepoint >= 0x3400 and codepoint <= 0x4DBF)    -- ext a
+      or (codepoint >= 0x20000 and codepoint <= 0x2A6DF)  -- ext b
+      or (codepoint >= 0x2A700 and codepoint <= 0x2B73F)  -- ext c
+      or (codepoint >= 0x2B740 and codepoint <= 0x2B81F)  -- ext d
+      or (codepoint >= 0x2B820 and codepoint <= 0x2CEAF)  -- ext e
+      or (codepoint >= 0x2CEB0 and codepoint <= 0x2EBE0)  -- ext f
+      or (codepoint >= 0x30000 and codepoint <= 0x3134A)  -- ext g
+      or (codepoint >= 0x31350 and codepoint <= 0x323AF)  -- ext h
+      or (codepoint >= 0x2EBF0 and codepoint <= 0x2EE5F)  -- ext i
+end
+
+-- | Returns a stateful iterator of each char in word.
+function Module.chars(word)
+   local f, s, i = utf8.codes(word)
+   return function()
+      i, value = f(s, i)
+      if i then
+         return i, utf8.char(value)
+      else
+         return nil
+      end
+   end
+end
+
 return Module

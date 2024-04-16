@@ -12,6 +12,7 @@ schema:
     - moran_sentence
     - moran_reverse
     - moran_english
+    - moran_charset
     #- moran_japanese # 日語混輸
     - stroke
     - tiger
@@ -27,9 +28,8 @@ switches:
     states: [ 漢字, 汉字 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
-  - options: [ gbk+emoji, utf8, big5+emoji ]
-    reset: 0
-    states: [ GBK, UTF-8, BIG5 ]
+  - name: extended_charset
+    states: [ 通用, 增廣 ]
   - name: inflexible
     states: [ 動詞, 固詞 ] # 「固詞」表示「固頂詞」
     # 默認情況下，輸入 4 碼時，會禁止碼表輸出（「動詞」模式）。
@@ -77,12 +77,11 @@ engine:
     - lua_translator@*moran_shijian        # 日期orq 節氣ojq 星期oxq 時間osj
     - lua_translator@*moran_number         # 數字轉大寫, 大寫S引導, 如 S123
   filters:
+    - lua_filter@*moran_charset_filter
     - lua_filter@*moran_reorder_filter
     - lua_filter@*moran_aux_hint
     - lua_filter@*moran_quick_code_hint
     - simplifier@emoji
-    - charset_filter@gbk+emoji
-    - charset_filter@big5+emoji
     - simplifier@chaifen
     - simplifier@std_hk
     - simplifier@std_tw

@@ -152,7 +152,7 @@ function Module.aux_list(env, word)
    local last = nil
 
    -- Single char
-   for i, c in Module.chars(word) do
+   for i, c in moran.chars(word) do
       if not first then first = c end
       last = c
 
@@ -177,18 +177,6 @@ function Module.aux_list(env, word)
    end
 
    return aux_list
-end
-
-function Module.chars(word)
-   local f, s, i = utf8.codes(word)
-   return function()
-      i, value = f(s, i)
-      if i then
-         return i, utf8.char(value)
-      else
-         return nil
-      end
-   end
 end
 
 function Module.merge_candidates(iter, jter)
