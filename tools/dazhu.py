@@ -98,8 +98,8 @@ def main(args):
                 code = None
             word = cc.convert(word)
             table.add(word, code)
-            for (word, stem) in deferred:
-                table.add(word, code)
+        for (word, stem) in deferred:
+            table.add(word, stem)
 
     # additional chars
     with open('../moran.chars.dict.yaml', 'r') as f:

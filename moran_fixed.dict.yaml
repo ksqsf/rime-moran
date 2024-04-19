@@ -25278,6 +25278,7 @@ Bilibili	bvj
 查無實據	iwuj
 常務委員會	iwwh
 常務委員	iwwy
+臭味相投	iwxt
 成爲一個	iwyg
 程序	ix
 插線板	ixb
@@ -63176,7 +63177,6 @@ WiFi	wifi
 外話	wlhw
 物理化學	wlhx
 網絡會議	wlhy
-無理	wli
 外城	wlig
 外場	wlih
 萬里長城	wlii
@@ -70988,6 +70988,7 @@ WiFi	wifi
 用進廢退	yjft
 眼福	yjfu
 豔福	yjfu
+研究發現	yjfx
 掞	yjfy
 魘	yjg
 煙垢	yjgb
@@ -74502,7 +74503,6 @@ WiFi	wifi
 隱隱作痛	yyzt
 有孕在身	yyzu
 有言在先	yyzx
-越	yz
 睚眥必報	yzbb
 一字不差	yzbi
 一字不漏	yzbl
@@ -84624,6 +84624,7 @@ WiFi	wifi
 
 ##隨心碼
 #（本質上是無理碼）
+越	yz		#手感強於ytz
 莊	vdg		#來自簡化字寫法 庄；以空碼加
 豬	vuq		#來自簡化字寫法 猪；以空碼加
 議	yiyw		#取末尾的「我」
@@ -84631,10 +84632,11 @@ WiFi	wifi
 左	zou		#取上部
 右	ybu		#取上部
 須	xup		#取左
-向量	xlo
 味	wk		#跳過韻母
 圍	wkw		#跳過韻母
 凄	qidn		#取「女」
 沏	qidt		#qid + tea
 詩	uiyc		#取末尾小部件
 謄	tgy		#簡化字「誊」
+無理	wli
+向量	xlo
