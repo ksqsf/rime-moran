@@ -3,7 +3,8 @@ local Module = {}
 -- |Load zrmdb.txt bundled with the standard Moran distribution.
 function Module.load_zrmdb()
    local aux_table = {}
-   local path = rime_api.get_user_data_dir() .. "/lua/zrmdb.txt"
+   local pathsep = package.config:sub(1, 1)
+   local path = rime_api.get_user_data_dir() .. pathsep .. "lua" .. pathsep .. "zrmdb.txt"
    for line in io.open(path):lines() do
       line = line:match("[^\r\n]+")
       local key, value = line:match("(.+) (.+)")
