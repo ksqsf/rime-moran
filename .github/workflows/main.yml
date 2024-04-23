@@ -15,10 +15,9 @@ jobs:
         with:
           name: "仅简体词库"
           path: |
-            dist/moran.essay.dict.yaml
+            dist/moran.base.dict.yaml
             dist/moran.tencent.dict.yaml
             dist/moran.moe.dict.yaml
-            dist/moran.thuocl.dict.yaml
             dist/moran.computer.dict.yaml
             dist/moran.hanyu.dict.yaml
             dist/moran.words.dict.yaml
@@ -39,10 +38,9 @@ jobs:
         with:
           name: "僅繁體詞庫"
           path: |
-            dist/moran.essay.dict.yaml
+            dist/moran.base.dict.yaml
             dist/moran.tencent.dict.yaml
             dist/moran.moe.dict.yaml
-            dist/moran.thuocl.dict.yaml
             dist/moran.computer.dict.yaml
             dist/moran.hanyu.dict.yaml
             dist/moran.words.dict.yaml

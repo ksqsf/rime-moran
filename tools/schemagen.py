@@ -25,7 +25,7 @@ import regex
 
 
 double_pinyin_choices = ['zrm', 'flypy']
-auxiliary_code_choices = ['zrm', 'hanxin', 'tiger']
+auxiliary_code_choices = ['zrm', 'hanxin', 'tiger', 'mogic']
 
 args = None
 auxiliary_table = defaultdict(list)
@@ -90,6 +90,8 @@ def to_auxiliary_codes(char):
                 auxiliary_table = read_txt_table('data/hanxindb.txt')
             case 'tiger':
                 auxiliary_table = read_txt_table('data/tigerdb.txt')
+            case 'mogic':
+                auxiliary_table = read_txt_table('data/mogicdb.txt')
             case _:
                 raise ValueError('Unknown auxiliary code ' + args.auxiliary_code)
     return auxiliary_table[char]
@@ -246,6 +248,12 @@ def encode_fixed_word(word, pinyin=None, short=False):
     if not pinyin:
         pinyin = word_to_pinyin(word)
     double_pinyin = to_double_pinyin(pinyin).split()
+    # if len(word) == 2:
+    #     A = double_pinyin[0][0]
+    #     B = double_pinyin[1][0]
+    #     a = to_auxiliary_codes(word[0])[0][0]
+    #     b = to_auxiliary_codes(word[1])[0][0]
+    #     return A+B+b+a
     if len(word) == 2:
         if not short:
             return ''.join(double_pinyin)
@@ -413,9 +421,9 @@ def handle_update_compact_dict():
             l = l.rstrip('\n')
             matches = regex.findall(r'^([^\t]+)\t([a-z; ]*)(\t\d+)?', l)
 
-            # This line is weird and needs addressing
+            # Not a word
             if len(matches) == 0:
-                print('# BAD1:', l)
+                print(l)
                 continue
 
             [word, code, weight] = matches[0]
@@ -428,7 +436,7 @@ def handle_update_compact_dict():
             
             sps = [fc.split(';')[0] for fc in code.split(' ')]
             acs = []
-            for zi in word:
+            for zi in word.replace("·", "").replace("，", ""):
                 try:
                     acs.append(to_auxiliary_codes(zi)[0])
                 except:

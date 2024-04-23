@@ -8,9 +8,8 @@ sort: by_weight
 use_preset_vocabulary: false
 import_tables:
   - moran.chars      # 自然碼單字表
+  - moran.base       # 基礎詞庫
   - moran.words      # 本方案補充詞
-  - moran.essay      # Rime 八股文詞庫
-  - moran.thuocl     # THUOCL 詞庫
   - moran.tencent    # 騰訊詞庫
   - moran.computer   # 計算機術語
 # - moran.hanyu      # 漢語大詞典（都是些很生僻的詞）

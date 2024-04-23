@@ -23,10 +23,9 @@ cd ..
 # 替换辅助码
 echo 替换辅助码...
 compact_dicts=(
-    "moran.essay.dict.yaml"
+    "moran.base.dict.yaml"
     "moran.tencent.dict.yaml"
     "moran.moe.dict.yaml"
-    "moran.thuocl.dict.yaml"
     "moran.computer.dict.yaml"
     "moran.hanyu.dict.yaml"
     "moran.words.dict.yaml"

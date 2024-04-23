@@ -9,33 +9,21 @@ if [ -d ../.venv ]; then
 fi
 
 compact_dicts=(
-    "../moran.essay.dict.yaml"
+    "../moran.base.dict.yaml"
     "../moran.tencent.dict.yaml"
     "../moran.moe.dict.yaml"
-    "../moran.thuocl.dict.yaml"
 )
 
 UPDATE_LINE_RE=$'^.+\t'
 
 set -x
 
-# Extract the words from foo.dict.yaml into foo.in.
-extract_dict() {
-    DICT_FILE="$1"
-    HEADER_FILE="$2"
-    BODY_FILE="$3"
-
-    grep -E "$UPDATE_LINE_RE" "$DICT_FILE" > "$BODY_FILE"
-    grep -v -E "$UPDATE_LINE_RE" "$DICT_FILE" > "$HEADER_FILE"
-}
-
 update_compact_dict() {
     DICT_FILE="$1"
-    HEADER_FILE="${DICT_FILE%.dict.yaml}.header"
     INPUT_FILE="${DICT_FILE%.dict.yaml}.in"
     OUTPUT_FILE="${DICT_FILE%.dict.yaml}.out"
 
-    extract_dict "$DICT_FILE" "$HEADER_FILE" "$INPUT_FILE"
+    cp $DICT_FILE $INPUT_FILE
     python3 schemagen.py update-compact-dict --rime-dict="$INPUT_FILE" > "$OUTPUT_FILE"
 
     if grep '^# BAD' "$OUTPUT_FILE"
@@ -44,16 +32,16 @@ update_compact_dict() {
 
         # Still allow grep to show bad entries.
         if [ x$STRICT = x"yes" ]; then
-            rm -f $INPUT_FILE $HEADER_FILE
+            rm -f $INPUT_FILE
             return 1
         else
-            cat "$HEADER_FILE" "$OUTPUT_FILE" > "$DICT_FILE"
-            rm -f $INPUT_FILE $HEADER_FILE $OUTPUT_FILE
+            mv $OUTPUT_FILE $DICT_FILE
+            rm -f $INPUT_FILE $OUTPUT_FILE
             return 0
         fi
     else
-        cat "$HEADER_FILE" "$OUTPUT_FILE" > "$DICT_FILE"
-        rm -f $INPUT_FILE $HEADER_FILE $OUTPUT_FILE
+        mv $OUTPUT_FILE $DICT_FILE
+        rm -f $INPUT_FILE $OUTPUT_FILE
         return 0
     fi
 }
