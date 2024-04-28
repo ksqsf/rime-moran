@@ -31,12 +31,13 @@ bufen:
       - derive/f;/g;/
       - derive/g;/f;/
 
-# 恢復老自然碼 jv qv xv 打法
+# 恢復老自然碼 jv qv xv yv 打法
 classic_zrm_jqx:
   __append:
     - derive/^ju/jv/
     - derive/^qu/qv/
     - derive/^xu/xv/
+    - derive/^yu/yv/
 
 # 19鍵鍵盤映射
 keyboard19:
