@@ -11,7 +11,7 @@ end
 function Top.func(t_input, env)
    local extended = env.engine.context:get_option("extended_charset")
 
-   if extended then
+   if extended or env.charset == nil then
       for cand in t_input:iter() do
          yield(cand)
       end
