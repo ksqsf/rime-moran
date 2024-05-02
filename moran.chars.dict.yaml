@@ -117473,6 +117473,9 @@ use_preset_vocabulary: false
 𲎫	za;iz	0	# auto
 𲎭	ls;lu	0	# auto
 
+# 增補3
+𢎧	nl;ag	0
+
 # 一些會對正常輸入造成干擾的字
 # 直接禁用掉
 # diang
