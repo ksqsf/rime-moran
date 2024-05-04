@@ -26932,7 +26932,7 @@ encoder:
 尽在	jnzl
 禁阻	jnzu
 卺	jnzz
-奇偶	jo
+几	jo
 佳偶天成	joti
 军	jp
 窘	jpb
@@ -62030,6 +62030,7 @@ encoder:
 物色	wuse
 武僧	wusg
 无私	wusi
+无线	wusm
 无所	wuso
 无损	wusp
 武松	wuss
@@ -62116,8 +62117,8 @@ encoder:
 无效	wuxc
 五香	wuxd
 无锡	wuxi
-无线	wuxm
 无限	wuxm
+无线	wuxm
 诬陷	wuxm
 无心	wuxn
 午休	wuxq
@@ -67302,6 +67303,7 @@ encoder:
 有色	ybse
 夜半三更	ybsg
 忧思	ybsi
+有线	ybsm
 有所	ybso
 有损	ybsp
 油松	ybss
