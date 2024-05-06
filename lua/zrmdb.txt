@@ -1624,6 +1624,7 @@
 㩨 fh
 㩩 fy
 㩪 fx
+㩪 fy
 㩫 fv
 㩬 fx
 㩭 fx
@@ -6887,8 +6888,8 @@
 买 vt
 乱 ug
 乲 yc
-乳 fg
 乳 gf
+乳 fg
 乴 yv
 乵 xg
 乶 yf
@@ -6899,8 +6900,8 @@
 乻 yy
 乼 yv
 乽 yv
-乾 qu
 乾 uq
+乾 qu
 乿 gs
 亀 dd
 亀 pg
@@ -42618,6 +42619,7 @@
 𢎥 ge
 𢎦 gr
 𢎦 rg
+𢎧 ag
 𢎨 ap
 𢎨 gp
 𢎩 gj
@@ -78448,7 +78450,6 @@
 𪟜 ul
 𪟜 lu
 𪟝 lz
-𪟝 zl
 𪟟 lg
 𪟟 pl
 𪟠 ly
