@@ -35989,7 +35989,8 @@ use_preset_vocabulary: false
 㩧	bo;fb	2	# auto
 㩨	hv;fh	0	# auto
 㩩	qy;fy	0	# auto
-㩪	xx;fx	0	# auto
+㩪	xx;fx	0
+㩪	xx;fy	0
 㩭	bo;fx	0	# auto
 㩮	qm;fj	0	# auto
 㩯	po;ff	0	# auto
@@ -117475,12 +117476,6 @@ use_preset_vocabulary: false
 
 # 增補3
 𢎧	nl;ag	0
-
-# 有限的尖團音區分（實驗性）
-# 注：i可區分，ü不可區分。
-# {z,s,c} * {iang, iao, ie, in, ing, iu}
-# sian(sm), 無限-無線, 有限-有線
-線	sm;sq	0
 
 # 整句可用的無理碼
 幾	jo;yd	0
