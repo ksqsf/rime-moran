@@ -15,7 +15,7 @@ Plum: ℞ ksqsf/rime-moran ([Try Online](https://my-rime.vercel.app/?plum=ksqsf/
 
 Moran is an advanced Rime schema (based on Ziranma) for fast, precise, and intuitive Chinese typing.  The name "Moran" literally means "highly-customized Ziranma" in Chinese.
 
-Moran emphasizes on the support for Traditional Chinese Characters, and is based on Ziranma's [double pinyin (or _shuangpin_)](https://en.wikipedia.org/wiki/Chinese_input_methods_for_computers#Shuangpin) and [shape-based](https://en.wikipedia.org/wiki/Chinese_input_methods_for_computers#Shape-based) auxiliary code.  Moran features three input modes, five ways to look up characters, \~80,000 Chinese characters, \~1,000,000 words, and multiple quick input conveniences. Please refer to [our wiki](https://github.com/ksqsf/rime-moran/wiki) for details.
+Moran emphasizes on the support for Traditional Chinese Characters, and is based on Ziranma's [double pinyin (or _shuangpin_)](https://en.wikipedia.org/wiki/Chinese_input_methods_for_computers#Shuangpin) and [shape-based](https://en.wikipedia.org/wiki/Chinese_input_methods_for_computers#Shape-based) auxiliary code.  Moran features [multiple input modes](https://github.com/ksqsf/rime-moran/wiki/%E5%90%84%E8%BC%B8%E5%85%A5%E6%A8%A1%E5%BC%8F%E8%AA%AA%E6%98%8E), [five ways to look up characters](https://github.com/ksqsf/rime-moran/wiki/%E6%95%99%E7%A8%8B#%E5%85%B6%E4%BA%94%E6%9B%B0%E4%BA%94%E9%87%8D%E5%8F%8D%E6%9F%A5), \~80,000 Chinese characters, \~1,000,000 words, and multiple quick input conveniences. Please refer to [our wiki](https://github.com/ksqsf/rime-moran/wiki) for details.
 
 Moran is an open, community-maintained project. Join us!
 
