@@ -42,7 +42,10 @@ local function processor(key_event, env)
       local cand = menu:get_candidate_at(i)
       local cand_text = cand.text
       local codepoint = utf8.codepoint(cand_text, 1)
-      if moran.unicode_code_point_is_chinese(codepoint) then
+      if moran.unicode_code_point_is_chinese(codepoint)
+         or (codepoint >= 97 and codepoint <= 122)
+         or (codepoint >= 65 and codepoint <= 90)
+      then
          env.engine:process_key(KeyEvent(tostring(i+1)))
          return kAccepted
       end
