@@ -92,8 +92,10 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: abcdefghijklmnopqrstuvwxyz/
+  alphabet: abcdefghijklmnopqrstuvwxyz/;
   delimiter: " '"
+  auto_select: true
+  auto_select_pattern: ^;(\w+|;)
   algebra:
     __patch:
       - moran:/algebra/user_force_top?

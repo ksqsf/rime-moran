@@ -85,7 +85,7 @@ def main(args):
     with open(args.dict, 'r') as f:
         deferred = []
         for l in f:
-            matches = re.findall(r'^(\w+)	([a-z]+)	?([a-z]+)?', l)
+            matches = re.findall(r'^([^\t\]+)\t([a-z;]+)\t?([a-z]+)?', l)
             if matches:
                 word, code, stem = matches[0]
                 if stem:

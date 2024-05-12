@@ -2,8 +2,6 @@
 # encoding: utf-8
 # license: CC-BY-SA 4.0
 
-# 注意：三字詞編碼應該留空，否則 moran_fixed_aabc 詞庫無法生成 AaBC 格式編碼！
-
 ---
 name: moran_fixed
 version: "20240414"
@@ -24,6 +22,38 @@ encoder:
       formula: "AaBaCaZa"
 ...
 
+#----------標點符號----------#
+# 第一排
+：“	;q
+？	;w
+（	;e
+）	;r
+！	;t
+@	;i
+~	;u
+〖	;o
+〗	;p
+# 第二排
+/	;a
+……	;s
+·	;d
+“	;f
+”	;g
+『	;h
+』	;j
+——	;k
+%	;l
+；	;;
+# 第三排
+。”	;z
+？”	;x
+！”	;c
+【	;v
+】	;b
+《	;n
+》	;m
+
+#----------詞庫----------#
 啊	a	aaka
 啊	aa
 啊啊啊	aaa
