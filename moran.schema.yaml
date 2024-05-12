@@ -11,8 +11,8 @@ schema:
     - moran_fixed
     - moran_sentence
     - moran_reverse
-    - moran_english
     - moran_charset
+    - moran_english
     #- moran_japanese # 日語混輸
     - stroke
     - tiger
@@ -292,7 +292,7 @@ moran:
 
   # 輸入四碼時，如果簡碼碼表中含有對應條目，則放置在第二選項。
   show_chars_anyway: false   # 是否輸出簡碼碼表單字，例：輸入 jwrg 時，次選爲「佳」
-  show_words_anyway: false   # 是否輸出簡碼碼表詞語，例：輸入 lmsd 時，次選爲「兩面三刀」
+  show_words_anyway: true   # 是否輸出簡碼碼表詞語，例：輸入 lmsd 時，次選爲「兩面三刀」
 
 # 默認啓用語言模型
 __include: moran:/octagram/enable_for_sentence

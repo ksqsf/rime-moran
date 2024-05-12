@@ -18,6 +18,7 @@ schema:
     - moran_fixed
     - moran_sentence
     - moran_reverse
+    - moran_charset
     - moran_english
     #- moran_japanese # 日語混輸
     - stroke

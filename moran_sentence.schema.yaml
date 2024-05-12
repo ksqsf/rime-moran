@@ -9,6 +9,7 @@ schema:
     無簡快碼的輸入純粹整句輸入模式。
   dependencies:
     - tiger
+    - moran_charset
     - moran_english
     #- moran_japanese
 
