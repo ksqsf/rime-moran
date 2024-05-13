@@ -74,11 +74,11 @@ speller:
       - derive/^(.*);(\w)(\w)$/$1/
   algebra:
     __patch:
-      - moran:/user_force_top?
-      - moran:/user_sentence_top?
+      - moran:/algebra/user_force_top?
+      - moran:/algebra/user_sentence_top?
       - :/speller/aux_algebra
-      - moran:/user_sentence_bottom?
-      - moran:/user_force_bottom?
+      - moran:/algebra/user_sentence_bottom?
+      - moran:/algebra/user_force_bottom?
 
 translator:
   dictionary: moran.extended
