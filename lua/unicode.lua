@@ -16,11 +16,11 @@ local function unicode(input, seg, env)
                 return
             end
             local text = utf8.char(code)
-            yield(Candidate("unicode", seg.start, seg._end, text, string.format("U%x", code)))
+            yield(Candidate("unicode", seg.start, seg._end, text, string.format("U+%x", code)))
             if code < 0x10000 then
                 for i = 0, 15 do
                     local text = utf8.char(code * 16 + i)
-                    yield(Candidate("unicode", seg.start, seg._end, text, string.format("U%x~%x", code, i)))
+                    yield(Candidate("unicode", seg.start, seg._end, text, string.format("U+%x~%x", code, i)))
                 end
             end
         end
