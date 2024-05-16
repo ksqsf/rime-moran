@@ -76,7 +76,7 @@ engine:
     - lua_translator@*moran_express_translator@with_reorder # 翻譯器
     - lua_translator@*moran_shijian        # 日期orq 節氣ojq 星期oxq 時間osj
     - lua_translator@*moran_number         # 數字轉大寫, 大寫S引導, 如 S123
-    - lua_translator@*unicode              # Unicode輸入, 大寫U引導, 如 U9b54
+    - lua_translator@*moran_unicode        # Unicode輸入, 大寫U引導, 如 U9b54
   filters:
     - lua_filter@*moran_charset_filter
     - lua_filter@*moran_reorder_filter
@@ -257,7 +257,7 @@ recognizer:
     reverse_stroke: "^obh[A-Za-z]*$"
     reverse_cangjie5: "^ocj[A-Za-z]*$"
     reverse_zrlf: "^olf[A-Za-z]*$"
-    unicode: "^U[a-f0-9]+"
+    unicode: "^U[a-fA-F0-9]+"
     punct: '^/([0-9]0?|[A-Za-z]+)$'
 
 moran:
