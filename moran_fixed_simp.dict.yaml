@@ -3527,6 +3527,7 @@ encoder:
 跛	bozp
 踣	bozp
 跛足	bozu
+不怕	bp
 保平安	bpa
 不怕不识货	bpbh
 不破不立	bpbl
@@ -3612,7 +3613,6 @@ encoder:
 不然的话	brdh
 勃然大怒	brdn
 哺乳动物	brdw
-不入耳	bre
 并日而食	breu
 不容分说	brfu
 白日飞升	brfu
@@ -11689,6 +11689,7 @@ encoder:
 封闭系统	fbxt
 否则	fbze
 法不责众	fbzv
+讽刺	fc
 方寸不乱	fcbl
 方寸大乱	fcdl
 非此即彼	fcjb
@@ -38572,6 +38573,7 @@ encoder:
 乸	naym
 拿走	nazb
 那座	nazo
+牛逼	nb
 拿不动	nbd
 南北对话	nbdh
 拿不定主意	nbdy
@@ -39497,10 +39499,11 @@ encoder:
 挪移	noyi
 诺言	noyj
 挪用	noys
-嫩	np
+哪怕	np
 女怕嫁错郎	npjl
 年平均增长率	npjl
 年平均增长	npjv
+黁	npm
 男怕入错行	nprh
 泥菩萨过河	npsh
 你陪我	npw
@@ -40566,6 +40569,8 @@ encoder:
 平地一声雷	pdyl
 排毒养颜	pdyy
 碰钉子	pdz
+配额	pe
+普洱	pe
 破而后立	pehl
 盆	pf
 喷薄	pfbo
@@ -45719,6 +45724,7 @@ encoder:
 如堕烟海	rdyh
 热带雨林	rdyl
 人多嘴杂	rdzz
+不入耳	re
 热	re
 热爱	reai
 热播	rebo
@@ -46298,7 +46304,7 @@ encoder:
 绕了一圈	rlyq
 肉烂在锅里	rlzl
 人力资源	rlzy
-入门	rm
+人们	rm
 人民币	rmb
 人们的	rmd
 人民代表大会制度	rmdd
@@ -48448,7 +48454,7 @@ encoder:
 送葬	sszh
 松子	sszi
 松嘴	sszv
-色图	st
+⭐️	st
 四通八达	stbd
 四体不勤	stbq
 四通八达上房揭瓦	stbw
@@ -56933,8 +56939,9 @@ encoder:
 装卸	vdxx
 壮行	vdxy
 直到现在	vdxz
-猪队友	vdy
+装	vdy
 装有	vdyb
+猪队友	vdyb
 壮阳	vdyh
 渣打银行	vdyh
 庄严	vdyj
@@ -60182,7 +60189,7 @@ encoder:
 专心一志	vxyv
 只羡鸳鸯不羡仙	vxyx
 直性子	vxz
-拽	vy
+這樣	vy
 桌椅板凳	vybd
 直言不讳	vybh
 中央办公厅	vybt
@@ -60199,6 +60206,7 @@ encoder:
 中央电视台	vydt
 中英对照	vydv
 这样都行	vydx
+拽	vyf
 这有个	vyg
 直言贾祸	vygh
 专业公司	vygs
@@ -67991,6 +67999,7 @@ encoder:
 一个方面	ygfm
 有关方面	ygfm
 异国风情	ygfq
+一个个	ygg
 一改故辙	yggv
 因果关系	yggx
 云贵高原	yggy
@@ -74751,7 +74760,6 @@ encoder:
 贼子	zzzi
 自作自受	zzzu
 自自在在	zzzz
-一个个	ygg
 
 爱不爱	abai
 熬不过	abgo
