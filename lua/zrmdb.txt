@@ -27488,6 +27488,7 @@
 輦 if
 輧 ib
 輨 ig
+輩 if
 輩 fi
 輪 il
 輫 if
@@ -72843,8 +72844,7 @@
 𩓭 yp
 𩓮 ym
 𩓮 hy
-𩓯 vy
-𩓯 yp
+𩓯 yx
 𩓰 cy
 𩓰 yc
 𩓱 uy
@@ -72937,8 +72937,7 @@
 𩔣 dy
 𩔣 vy
 𩔣 yv
-𩔤 vy
-𩔤 yp
+𩔤 yx
 𩔥 ys
 𩔦 yv
 𩔧 jy
@@ -73032,8 +73031,7 @@
 𩕖 vy
 𩕗 ty
 𩕗 yt
-𩕘 ay
-𩕘 yp
+𩕘 yx
 𩕛 sy
 𩕛 ys
 𩕜 yk
@@ -73059,8 +73057,7 @@
 𩕦 dy
 𩕦 yo
 𩕧 yl
-𩕨 vy
-𩕨 yp
+𩕨 yx
 𩕩 oy
 𩕩 yj
 𩕪 yq

@@ -24994,7 +24994,7 @@ encoder:
 教徒	jctu
 角铁	jctx
 叫停	jcty
-矫	jcu
+礁	jcu
 绞杀	jcua
 教授	jcub
 交涉	jcue
@@ -25004,10 +25004,10 @@ encoder:
 教师	jcui
 教室	jcui
 饺	jcuj
-礁	jcuj
 峧	jcuj
 较少	jcuk
 紧蹙双眉	jcum
+矫	jcuq
 峤	jcuq
 教书	jcuu
 胶水	jcuv
@@ -30633,14 +30633,14 @@ encoder:
 卡那霉素	knms
 可能是	knu
 可能有	kny
+扩	ko
 扩版	kobj
 扩编	kobm
 阔步	kobu
 阔别	kobx
 漷	kod
 扩大	koda
-扩	kof
-括	kofu
+括	kof
 廓	kog
 扩股	kogu
 括号	kohk
@@ -32238,6 +32238,7 @@ encoder:
 冷脸	lglm
 利国利民	lglm
 冷落	lglo
+拉格朗日	lglr
 楞	lgm
 冷门	lgmf
 棱	lgml
@@ -34762,7 +34763,7 @@ encoder:
 粮食作物	luzw
 流水作业	luzy
 老神在在	luzz
-率	lv
+绿	lv
 氯苯	lvbf
 来者不拒	lvbj
 旅伴	lvbj
@@ -34882,9 +34883,10 @@ encoder:
 笼中之鸟	lvvn
 绿竹	lvvu
 聊斋志异	lvvy
-珒	lvw
+率	lvw
 滤网	lvwh
 廉正无私	lvws
+珒	lvwy
 律	lvx
 闾巷	lvxd
 虑	lvxh
@@ -35103,7 +35105,6 @@ encoder:
 酃	lyek
 聆	lyel
 略有耳闻	lyew
-六月份	lyf
 拎	lyf
 乱云飞渡	lyfd
 零分	lyff
@@ -47024,6 +47025,8 @@ encoder:
 人仰马翻	rymf
 人以群分	ryqf
 日月齐光	ryqg
+人与人	ryr
+人与人之间	ryrj
 日月如梭	ryrs
 若要人不知	ryrv
 若有若无	ryrw
@@ -55136,7 +55139,6 @@ encoder:
 蒴	uoco
 蒴	uocu
 蒴	uocy
-率	uod
 硕大	uoda
 说得	uode
 说的	uode
@@ -56430,11 +56432,12 @@ encoder:
 甩站	uyvj
 善游者溺	uyvn
 实用主义	uyvy
-衰	uyw
+率	uyw
 衰亡	uywh
 数以万计	uywj
 深以为然	uywr
 双眼无神	uywu
+衰	uywy
 甩尾	uywz
 衰微	uywz
 试一下	uyx
@@ -61972,6 +61975,7 @@ encoder:
 万事亨通	wuht
 呜呼	wuhu
 误会	wuhv
+污秽	wuhv
 无话	wuhw
 物化	wuhw
 焐	wuhw
@@ -64810,8 +64814,8 @@ encoder:
 心思	xnsi
 寻思	xnsi
 心酸	xnsr
-心算	xnsr
 辛酸	xnsr
+心算	xnsr
 心碎	xnsv
 心头	xntb
 心跳	xntc
@@ -66302,7 +66306,7 @@ encoder:
 霞	xwyj
 下药	xwyk
 下腰	xwyk
-夏耘	xwyp
+吓晕	xwyp
 下院	xwyr
 下月	xwyt
 吓我一跳	xwyt
@@ -69744,6 +69748,7 @@ encoder:
 妖里妖气	ylyq
 一冷一热	ylyr
 摇了摇头	ylyt
+有利于	ylyu
 越来越少	ylyu
 有零有整	ylyv
 有来有往	ylyw
@@ -72199,6 +72204,7 @@ encoder:
 嘤	yyk
 营口	yykb
 硬壳	yyke
+硬啃	yykf
 狺狺狂吠	yykf
 隐约可见	yykj
 应考	yykk
@@ -77898,6 +77904,7 @@ encoder:
 口水战	kuvj
 枯水位	kuwz
 抗税罪	kuzv
+夔	kvq
 看着办	kvbj
 控制论	kvlp
 空置率	kvlv
@@ -81729,7 +81736,6 @@ encoder:
 娱乐性	ylxy
 有理由	ylyb
 越来越	ylyt
-有利于	ylyu
 一揽子	ylzi
 有毛病	ymby
 益母草	ymck

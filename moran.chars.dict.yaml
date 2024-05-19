@@ -26612,6 +26612,7 @@ use_preset_vocabulary: false
 輦	nm;if	645
 輧	py;ib	317
 輨	gr;ig	320
+輩	bz;if	1168
 輩	bz;fi	1168
 輪	lp;il	3859
 輫	pl;if	350
@@ -96161,10 +96162,8 @@ use_preset_vocabulary: false
 𩓩	dc;yy	0	# auto
 𩓭	pi;py	0	# auto
 𩓭	pi;yp	0	# auto
-𩓯	bn;vy	0	# auto
-𩓯	bn;yp	0	# auto
-𩓯	pn;vy	0	# auto
-𩓯	pn;yp	0	# auto
+𩓯	bn;yx	0	# auto
+𩓯	pn;yx	0	# auto
 𩓰	kv;cy	0	# auto
 𩓰	kv;yc	0	# auto
 𩓱	hj;uy	0	# auto
@@ -96200,8 +96199,7 @@ use_preset_vocabulary: false
 𩔜	ss;yr	0	# auto
 𩔞	hj;ay	0	# auto
 𩔞	hj;yg	0	# auto
-𩔤	bn;vy	0	# auto
-𩔤	bn;yp	0	# auto
+𩔤	bn;yx	0	# auto
 𩔧	lz;jy	0	# auto
 𩔧	lz;yj	0	# auto
 𩔨	xn;xy	0	# auto
@@ -96254,10 +96252,8 @@ use_preset_vocabulary: false
 𩕗	qn;yt	0	# auto
 𩕗	vf;ty	0	# auto
 𩕗	vf;yt	0	# auto
-𩕘	bn;ay	0	# auto
-𩕘	bn;yp	0	# auto
-𩕘	pn;ay	0	# auto
-𩕘	pn;yp	0	# auto
+𩕘	bn;yx	0	# auto
+𩕘	pn;yx	0	# auto
 𩕛	xm;sy	0	# auto
 𩕛	xm;ys	0	# auto
 𩕝	yj;yy	0	# auto
@@ -96268,8 +96264,7 @@ use_preset_vocabulary: false
 𩕣	ao;iy	0	# auto
 𩕣	ao;yf	0	# auto
 𩕧	xp;yl	0	# auto
-𩕨	bn;vy	0	# auto
-𩕨	bn;yp	0	# auto
+𩕨	bn;yx	0	# auto
 𩕩	dy;oy	0	# auto
 𩕩	dy;yj	0	# auto
 𩕫	mg;cy	0	# auto
