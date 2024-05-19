@@ -12434,8 +12434,8 @@
 忉 xd
 忊 xd
 忋 xj
-忌 jx
 忌 xj
+忌 jx
 忍 xr
 忎 qx
 忎 xq
@@ -17907,8 +17907,8 @@
 烪 hg
 烫 ht
 烬 hj
-热 dv
 热 hv
+热 dv
 烮 hl
 烯 hx
 烰 hf
@@ -18171,8 +18171,8 @@
 熮 hp
 熯 hh
 熰 hq
-熱 dv
 熱 hv
+熱 dv
 熲 yh
 熳 hm
 熴 hk
