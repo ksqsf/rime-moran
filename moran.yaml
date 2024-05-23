@@ -55,7 +55,7 @@ key_bindings:
       - { when: has_menu, accept: "Control+s", toggle: simplification }
       - { when: has_menu, accept: "Control+u", toggle: unicode_comment }
       - { when: has_menu, accept: "Control+q", toggle: emoji }
-      - { when: has_menu, accept: "Control+x", toggle: extended_charset }
+      - { when: composing, accept: "Control+x", toggle: extended_charset }
       - { when: has_menu, accept: "Control+Shift+0", toggle: std_opencc }
       - { when: has_menu, accept: "Control+i", toggle: chaifen }
 
