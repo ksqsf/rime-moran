@@ -1,10 +1,12 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023, 2024 ksqsf
 --
--- Ver: 0.6.0
+-- Ver: 0.6.1
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.6.1: show_words_anyway 在四碼時跳過二字詞。
 --
 -- 0.6.0: 增加 show_chars_anyway 和 show_words_anyway 設置，允許將
 -- fixed 碼表的單字全碼放置在第二位，不再需要打全碼。如輸入「jwrg」就
@@ -121,7 +123,7 @@ function top.func(input, seg, env)
    env.output_injected_secondary = {}
    if (not fixed_triggered and input_len == 4) then
       for cand in moran.query_translation(env.fixed, input, seg, nil) do
-         if (env.show_chars_anyway and utf8.len(cand.text) == 1) or (env.show_words_anyway and utf8.len(cand.text) > 1) then
+         if (env.show_chars_anyway and utf8.len(cand.text) == 1) or (env.show_words_anyway and utf8.len(cand.text) > 1 and input_len ~= 4) then
             cand:get_genuine().comment = indicator
             table.insert(env.output_injected_secondary, cand)
          end
