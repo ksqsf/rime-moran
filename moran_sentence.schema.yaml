@@ -30,8 +30,6 @@ switches:
     states: [ 不拆, 扌斥 ]
   - name: unicode_comment
     states: [ U開, U關 ]
-  - name: dzing
-    states: [ 通, 寍 ]
   - options: [ std_opencc,  std_tw, std_hk, std_dzing ]
     states: [ 通, 臺, 港, 寍 ]
 
