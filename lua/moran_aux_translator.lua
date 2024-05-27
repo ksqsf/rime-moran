@@ -6,7 +6,7 @@
 
 local moran = require("moran")
 local Module = {}
-Module.PREFETCH_THRESHOLD = 50
+Module.PREFETCH_THRESHOLD = 12
 
 function Module.init(env)
    collectgarbage("setpause", 110)
@@ -62,6 +62,13 @@ function Module.func(input, seg, env)
       for cand, _ in Module.translate_without_aux(env, seg, input) do
          yield(cand)
       end
+   elseif input_len == 3 then
+      local sp = input:sub(1, input_len-1)
+      local aux = input:sub(input_len, input_len)
+      local iter = Module.translate_with_aux(env, seg, sp, aux)
+      for cand in iter do
+         yield(cand)
+      end
    elseif input_len % 2 == 0 then
       local first_iter = Module.translate_without_aux(env, seg, input)
 
@@ -69,17 +76,21 @@ function Module.func(input, seg, env)
       local aux = input:sub(input_len-1, input_len)
       local second_iter = Module.translate_with_aux(env, seg, sp, aux)
 
-      for cand in Module.merge_candidates(first_iter, second_iter) do
+      local iter = Module.merge_candidates(first_iter, second_iter)
+      -- iter = Module.prioritize_sentence(iter)
+      for cand in iter do
          yield(cand)
       end
-   else
+   else  -- input_len >= 5
       local first_iter = Module.translate_without_aux(env, seg, input)
 
       local sp = input:sub(1, input_len-1)
       local aux = input:sub(input_len, input_len)
       local second_iter = Module.translate_with_aux(env, seg, sp, aux)
 
-      for cand in Module.merge_candidates(first_iter, second_iter) do
+      local iter = Module.merge_candidates(first_iter, second_iter)
+      -- iter = Module.prioritize_sentence(iter)
+      for cand in iter do
          yield(cand)
       end
    end
@@ -129,6 +140,28 @@ function Module.translate_without_aux(env, seg, sp)
    return function()
       local c = advance(obj)
       return c, nil
+   end
+end
+
+function Module.prioritize_sentence(env, iter)
+   local pred = function(cand)
+      return cand.type == "sentence"
+   end
+   local init, sentence_cand = moran.iter_find_first(iter, pred, Module.PREFETCH_THRESHOLD)
+
+   if sentence_cand ~= nil then
+      return moran.iter_compose(
+         moran.iter_singleton(sentence_cand),
+         moran.iter_compose(
+            moran.iter_table(init),
+            iter
+         )
+      )
+   else
+      return moran.iter_compose(
+         moran.iter_table(init),
+         iter
+      )
    end
 end
 

@@ -75,4 +75,55 @@ function Module.chars(word)
    end
 end
 
+-- Given a stateful iterator it, a predicative f, and a search limit n
+-- Returns a list of searched, non-matching elements and the first matching element
+function Module.iter_find_first(it, f, n)
+   local i = 0
+   local init = {}
+   while i < n do
+      local cur = it()
+      if cur == nil or f(cur) then
+         return init, cur
+      else
+         table.insert(init, cur)
+      end
+   end
+   return init, nil
+end
+
+function Module.iter_singleton(x)
+   local taken = false
+   return function()
+      if not taken then
+         taken = true
+         return x
+      else
+         return nil
+      end
+   end
+end
+
+function Module.iter_compose(it1, it2)
+   return function()
+      local x = it1()
+      if x ~= nil then
+         return x
+      end
+      return it2()
+   end
+end
+
+function Module.iter_table(tbl)
+   local cur = next(tbl, nil)
+   return function()
+      if cur == nil then
+         return nil
+      else
+         local ret = cur
+         cur = next(tbl, cur)
+         return ret
+      end
+   end
+end
+
 return Module
