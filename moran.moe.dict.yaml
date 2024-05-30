@@ -4112,7 +4112,7 @@ use_preset_vocabulary: false
 亞次圓	ya;aa ci;dq yr;ky
 亞歷克斯	ya;aa li;iv ke;eg si;jq
 亞歷克斯佩普西利亞	ya;aa li;iv ke;eg si;jq pz;rb pu;ob xi;aa li;hd ya;aa
-亞歷克斯凱勒	ya;aa li;iv ke;eg si;jq kl;jd lz;lg
+亞歷克斯凱勒	ya;aa li;iv ke;eg si;jq kl;jd le;lg
 亞歷克斯墨瑟	ya;aa li;iv ke;eg si;jq mo;th se;wb
 亞歷克斯雷斯吉寧	ya;aa li;iv ke;eg si;jq lz;yt si;jq ji;ku ny;bd
 亞歷克西斯凱利夫	ya;aa li;iv ke;eg xi;aa si;jq kl;jd li;hd fu;ad
@@ -4243,7 +4243,7 @@ use_preset_vocabulary: false
 亞里士多德	ya;aa li;aa ui;aa do;xx de;xx
 亞里歐斯馬克萊因	ya;aa li;aa ou;qq si;jq ma;ad ke;eg ll;cl yn;kd
 亞里沙	ya;aa li;aa ua;du
-亞里砂艾洛伊絲博勒加德	ya;aa li;aa ua;uu ai;ci lo;dg yi;ry si;ss bo;uc lz;lg jw;lk de;xx
+亞里砂艾洛伊絲博勒加德	ya;aa li;aa ua;uu ai;ci lo;dg yi;ry si;ss bo;uc le;lg jw;lk de;xx
 亞里紗	ya;aa li;aa ua;su
 亞里莎	ya;aa li;aa ua;cu
 亞門丈	ya;aa mf;aa vh;ad
@@ -4578,9 +4578,9 @@ use_preset_vocabulary: false
 人狼村之謎	rf;pd lh;ql cp;mc vi;dd mi;ym
 人狼類魔物	rf;pd lh;ql lz;yl mo;gm wu;nw
 人猿星球	rf;pd yr;qy xy;ou qq;wq
-人理保障機構迦勒底	rf;pd li;wl bk;rd vh;ev ji;mj gb;mg jw;zj lz;lg di;gd
+人理保障機構迦勒底	rf;pd li;wl bk;rd vh;ev ji;mj gb;mg jw;zj le;lg di;gd
 人理定礎	rf;pd li;wl dy;bp iu;ui
-人理續存保障機構菲尼斯迦勒底	rf;pd li;wl xu;sm cp;uz bk;rd vh;ev ji;mj gb;mg fz;cf ni;ub si;jq jw;zj lz;lg di;gd
+人理續存保障機構菲尼斯迦勒底	rf;pd li;wl xu;sm cp;uz bk;rd vh;ev ji;mj gb;mg fz;cf ni;ub si;jq jw;zj le;lg di;gd
 人生	rf;pd ug;na
 人生三大錯覺	rf;pd ug;na sj;aa da;ad co;jx jt;jb
 人生不過一百年	rf;pd ug;na bu;ad go;zg yi;aa bl;ab nm;pa
@@ -5323,7 +5323,7 @@ use_preset_vocabulary: false
 伊塔庫亞的暴風	yi;ry ta;td ku;gi ya;aa de;bu bk;ou fg;ji
 伊塔黎卡防衛戰	yi;ry ta;td li;hu ka;bx fh;ef wz;xi vj;gd
 伊塞亞費藍德	yi;ry sl;tb ya;aa fz;bf lj;cj de;xx
-伊塞勒	yi;ry sl;tb lz;lg
+伊塞勒	yi;ry sl;tb le;lg
 伊塞爾達	yi;ry sl;tb er;ay da;zy
 伊夏波利斯塔切爾	yi;ry xw;wz bo;dp li;hd si;jq ta;td qx;dq er;ay
 伊夏班納	yi;ry xw;wz bj;dw na;sn
@@ -5402,7 +5402,7 @@ use_preset_vocabulary: false
 伊旺傑爾	yi;ry wh;ow jx;rj er;ay
 伊昂	yi;ry ah;oe
 伊書亞	yi;ry uu;oy ya;aa
-伊書亞拿撒勒努斯	yi;ry uu;oy ya;aa na;uh sa;fs lz;lg nu;ln si;jq
+伊書亞拿撒勒努斯	yi;ry uu;oy ya;aa na;uh sa;fs le;lg nu;ln si;jq
 伊月曉人	yi;ry yt;oy xc;oy rf;pd
 伊月貓凜	yi;ry yt;oy mk;vm ln;db
 伊月麻裏	yi;ry yt;oy ma;gl li;dy
@@ -5798,7 +5798,7 @@ use_preset_vocabulary: false
 伏摩	fu;rq mo;mu
 伏瀨	fu;rq ll;dl
 伏爾加	fu;rq er;ay jw;lk
-伏爾加格勒	fu;rq er;ay jw;lk ge;mg lz;lg
+伏爾加格勒	fu;rq er;ay jw;lk ge;mg le;lg
 伏爾塔	fu;rq er;ay ta;td
 伏特	fu;rq te;ns
 伏特加	fu;rq te;ns jw;lk
@@ -7451,7 +7451,7 @@ use_preset_vocabulary: false
 倒逆之蝶	dk;rd ni;zn vi;dd dx;im
 倒閉	dk;rd bi;mc
 倒黴	dk;rd mz;xw
-倒黴死勒	dk;rd mz;xw si;db lz;lg
+倒黴死勒	dk;rd mz;xw si;db le;lg
 倒黴熊	dk;rd mz;xw xs;dn
 倔強	jt;rq jd;gi
 倔強的小紅	jt;rq jd;gi de;bu xc;ad hs;sg
@@ -7911,10 +7911,10 @@ use_preset_vocabulary: false
 傑克森布里吉斯	jx;rj ke;eg sf;ml bu;ju li;aa ji;ku si;jq
 傑克樸	jx;rj ke;eg pu;md
 傑克燈籠	jx;rj ke;eg dg;hd ls;vl
-傑克特艾勒羅斯	jx;rj ke;eg te;ns ai;ci lz;lg lo;sv si;jq
+傑克特艾勒羅斯	jx;rj ke;eg te;ns ai;ci le;lg lo;sv si;jq
 傑克特艾爾羅斯	jx;rj ke;eg te;ns ai;ci er;ay lo;sv si;jq
 傑克瑞安	jx;rj ke;eg rv;we an;bn
-傑克穆勒	jx;rj ke;eg mu;hp lz;lg
+傑克穆勒	jx;rj ke;eg mu;hp le;lg
 傑克範馬	jx;rj ke;eg fj;ve ma;ad
 傑克莫里森	jx;rj ke;eg mo;cd li;aa sf;ml
 傑克豪利特	jx;rj ke;eg hk;ub li;hd te;ns
@@ -8333,7 +8333,7 @@ use_preset_vocabulary: false
 億千萬的回憶	yi;ry qm;pa wj;cy de;bu hv;kk yi;xy
 億果實	yi;ry go;ad ui;bg
 億萬富翁少女	yi;ry wj;cy fu;bf wg;yg uk;xp nv;aa
-儒勒凡爾納	ru;rx lz;lg fj;dj er;ay na;sn
+儒勒凡爾納	ru;rx le;lg fj;dj er;ay na;sn
 儒家	ru;rx jw;bu
 儒林外史	ru;rx ln;mm wl;xb ui;ad
 儒風訴骨	ru;rx fg;ji su;yi gu;go
@@ -8910,7 +8910,7 @@ use_preset_vocabulary: false
 克格莫	ke;eg ge;mg mo;cd
 克洛	ke;eg lo;dg
 克洛伊	ke;eg lo;dg yi;ry
-克洛伊勒梅爾	ke;eg lo;dg yi;ry lz;lg mz;mm er;ay
+克洛伊勒梅爾	ke;eg lo;dg yi;ry le;lg mz;mm er;ay
 克洛伊巴尼特	ke;eg lo;dg yi;ry ba;ag ni;ub te;ns
 克洛伊帕克	ke;eg lo;dg yi;ry pa;jb ke;eg
 克洛伊約翰遜	ke;eg lo;dg yi;ry yt;su hj;yu xp;zs
@@ -8994,7 +8994,7 @@ use_preset_vocabulary: false
 克萊恩莫雷蒂	ke;eg ll;cl en;xy mo;cd lz;yt di;cd
 克萊拉加西亞	ke;eg ll;cl la;fl jw;lk xi;aa ya;aa
 克萊斯卡爾	ke;eg ll;cl si;jq ka;bx er;ay
-克萊斯汀盧庫勒斯	ke;eg ll;cl si;jq ty;dd lu;hm ku;gi lz;lg si;jq
+克萊斯汀盧庫勒斯	ke;eg ll;cl si;jq ty;dd lu;hm ku;gi le;lg si;jq
 克萊曼	ke;eg ll;cl mj;oy
 克萊曼婷	ke;eg ll;cl mj;oy ty;nt
 克萊歐尼	ke;eg ll;cl ou;qq ni;ub
@@ -10749,7 +10749,7 @@ use_preset_vocabulary: false
 凱克望遠鏡	kl;jd ke;eg wh;wo yr;zy jy;jj
 凱克雙子	kl;jd ke;eg ud;vy zi;aa
 凱兮	kl;jd xi;bk
-凱勒裏塔斯流明	kl;jd lz;lg li;dy ta;td si;jq lq;di my;oo
+凱勒裏塔斯流明	kl;jd le;lg li;dy ta;td si;jq lq;di my;oo
 凱南	kl;jd nj;ua
 凱吉	kl;jd ji;ku
 凱奇	kl;jd qi;dk
@@ -12020,8 +12020,8 @@ use_preset_vocabulary: false
 加利爾步槍	jw;lk li;hd er;ay bu;vx qd;mc
 加利福尼亞	jw;lk li;hd fu;uf ni;ub ya;aa
 加加見綾	jw;lk jw;lk jm;oe ly;sl
-加勒比兄弟會	jw;lk lz;lg bi;bb xs;ke di;bp hv;ro
-加勒比刺客兄弟會	jw;lk lz;lg bi;bb ci;dc ke;bg xs;ke di;bp hv;ro
+加勒比兄弟會	jw;lk le;lg bi;bb xs;ke di;bp hv;ro
+加勒比刺客兄弟會	jw;lk le;lg bi;bb ci;dc ke;bg xs;ke di;bp hv;ro
 加半反擊	jw;lk bj;bf fj;py ji;fu
 加古	jw;lk gu;uk
 加古川飛流	jw;lk gu;uk ir;pa fz;ff lq;di
@@ -12076,7 +12076,7 @@ use_preset_vocabulary: false
 加斯娜	jw;lk si;jq na;nn
 加斯帕弗拉迪	jw;lk si;jq pa;jb fu;aa la;fl di;zy
 加斯特維諾姆	jw;lk si;jq te;ns wz;sv no;yr mu;nm
-加斯特阿德勒	jw;lk si;jq te;ns aa;ek de;xx lz;lg
+加斯特阿德勒	jw;lk si;jq te;ns aa;ek de;xx le;lg
 加斯科涅	jw;lk si;jq ke;hd nx;dn
 加斯頓	jw;lk si;jq dp;yt
 加杰特	jw;lk jx;hm te;ns
@@ -12126,7 +12126,7 @@ use_preset_vocabulary: false
 加百列的飛踢	jw;lk bl;ab lx;dd de;bu fz;ff ti;zy
 加百利	jw;lk bl;ab li;hd
 加百利恩	jw;lk bl;ab li;hd en;xy
-加百利阿格勒斯特	jw;lk bl;ab li;hd aa;ek ge;mg lz;lg si;jq te;ns
+加百利阿格勒斯特	jw;lk bl;ab li;hd aa;ek ge;mg le;lg si;jq te;ns
 加百利阿格萊斯特	jw;lk bl;ab li;hd aa;ek ge;mg ll;cl si;jq te;ns
 加米拉斯星	jw;lk mi;dd la;fl si;jq xy;ou
 加納	jw;lk na;sn
@@ -12137,7 +12137,7 @@ use_preset_vocabulary: false
 加羅亞	jw;lk lo;sv ya;aa
 加羅莎地獄咆哮	jw;lk lo;sv ua;cu di;ty yu;qq pk;kb xc;kx
 加美拉	jw;lk mz;dy la;fl
-加美西耶勒	jw;lk mz;dy xi;aa ye;ee lz;lg
+加美西耶勒	jw;lk mz;dy xi;aa ye;ee le;lg
 加茂憲倫	jw;lk mk;cw xm;bx lp;rl
 加茂憲紀	jw;lk mk;cw xm;bx ji;sj
 加菲爾汀澤爾	jw;lk fz;cf er;ay ty;dd ze;dx er;ay
@@ -12328,17 +12328,17 @@ use_preset_vocabulary: false
 勇闖四季城	ys;ly id;mm si;aa ji;hz ig;ti
 勇闖天下	ys;ly id;mm tm;ad xw;ab
 勉強遮住的片桐同學	mm;lm qd;gi ve;zd vu;rv de;bu pm;pa ts;mt ts;kk xt;jz
-勒克斯	lz;lg ke;eg si;jq
-勒克斯西比拉	lz;lg ke;eg si;jq xi;aa bi;bb la;fl
-勒克萊爾	lz;lg ke;eg ll;cl er;ay
-勒克萊爾娘	lz;lg ke;eg ll;cl er;ay nd;nl
-勒忒	lz;lg te;xy
-勒忒病毒	lz;lg te;xy by;bb du;fm
-勒忒瘟疫	lz;lg te;xy wf;bm yi;bu
-勒忒細菌	lz;lg te;xy xi;st jp;ch
+勒克斯	le;lg ke;eg si;jq
+勒克斯西比拉	le;lg ke;eg si;jq xi;aa bi;bb la;fl
+勒克萊爾	le;lg ke;eg ll;cl er;ay
+勒克萊爾娘	le;lg ke;eg ll;cl er;ay nd;nl
+勒忒	le;lg te;xy
+勒忒病毒	le;lg te;xy by;bb du;fm
+勒忒瘟疫	le;lg te;xy wf;bm yi;bu
+勒忒細菌	le;lg te;xy xi;st jp;ch
 勒索之路	le;lg so;sb vi;dd lu;zg
-勒菲	lz;lg fz;cf
-勒馬爾	lz;lg ma;ad er;ay
+勒菲	le;lg fz;cf
+勒馬爾	le;lg ma;ad er;ay
 動作冒險遊戲	ds;lv zo;rv mk;oo xm;eq yb;zy xi;gd
 動作女主	ds;lv zo;rv nv;aa vu;dw
 動作女英雄	ds;lv zo;rv nv;aa yy;cy xs;vh
@@ -13726,9 +13726,9 @@ use_preset_vocabulary: false
 卡利扎	ka;bx li;hd va;fg
 卡利昂	ka;bx li;hd ah;oe
 卡努拉	ka;bx nu;ln la;fl
-卡勒伯弗蘭普頓	ka;bx lz;lg bo;rb fu;aa lj;cj pu;ob dp;yt
-卡勒博弗蘭普頓	ka;bx lz;lg bo;uc fu;aa lj;cj pu;ob dp;yt
-卡勒多爾	ka;bx lz;lg do;xx er;ay
+卡勒伯弗蘭普頓	ka;bx le;lg bo;rb fu;aa lj;cj pu;ob dp;yt
+卡勒博弗蘭普頓	ka;bx le;lg bo;uc fu;aa lj;cj pu;ob dp;yt
+卡勒多爾	ka;bx le;lg do;xx er;ay
 卡卡	ka;bx ka;bx
 卡卡羅特	ka;bx ka;bx lo;sv te;ns
 卡卡西	ka;bx ka;bx xi;aa
@@ -14677,7 +14677,7 @@ use_preset_vocabulary: false
 叛軍	pj;fb jp;bi
 叛逆之刃	pj;fb ni;zn vi;dd rf;dd
 叛逆性百萬亞瑟王	pj;fb ni;zn xy;xu bl;ab wj;cy ya;aa se;wb wh;aa
-叛逆的勒魯什	pj;fb ni;zn de;bu lz;lg lu;yo uf;ru
+叛逆的勒魯什	pj;fb ni;zn de;bu le;lg lu;yo uf;ru
 叛逆的同一性	pj;fb ni;zn de;bu ts;kk yi;aa xy;xu
 叛逆的噬魂者	pj;fb ni;zn de;bu ui;ku hp;gy ve;lo
 叛逆的物語	pj;fb ni;zn de;bu wu;nw yu;yw
@@ -15577,7 +15577,7 @@ use_preset_vocabulary: false
 吉利花	ji;ku li;hd hw;ch
 吉利蛋娘	ji;ku li;hd dj;ip nd;nl
 吉北梨乃	ji;ku bz;ap li;ml nl;pg
-吉卜利勒	ji;ku bo;ad li;hd lz;lg
+吉卜利勒	ji;ku bo;ad li;hd le;lg
 吉卜力	ji;ku bo;ad li;gp
 吉卜力工作室	ji;ku bo;ad li;gp gs;aa zo;rv ui;bv
 吉原哀歌	ji;ku yr;ix ai;wy ge;qg
@@ -17784,7 +17784,7 @@ use_preset_vocabulary: false
 喬治王阿巴雷	qc;ph vi;dt wh;aa aa;ek ba;ag lz;yt
 喬治皓	qc;ph vi;dt hk;bg
 喬治華盛頓	qc;ph vi;dt hw;ca ug;mi dp;yt
-喬潔特勒馬爾	qc;ph jx;dj te;ns lz;lg ma;ad er;ay
+喬潔特勒馬爾	qc;ph jx;dj te;ns le;lg ma;ad er;ay
 喬潔特萊馬爾	qc;ph jx;dj te;ns ll;cl ma;ad er;ay
 喬爾喬托夫	qc;ph er;ay qc;ph to;fq fu;ad
 喬爾喬斯	qc;ph er;ay qc;ph si;jq
@@ -18017,7 +18017,7 @@ use_preset_vocabulary: false
 嘆息街的路口	tj;kh xi;xz jx;ri de;bu lu;zg kb;aa
 嘆江湖	tj;kh jd;dg hu;dh
 嘉依卡	jw;uj yi;ry ka;bx
-嘉依卡托勒龐特	jw;uj yi;ry ka;bx to;fq lz;lg ph;gl te;ns
+嘉依卡托勒龐特	jw;uj yi;ry ka;bx to;fq le;lg ph;gl te;ns
 嘉內特	jw;uj nz;kr te;ns
 嘉利	jw;uj li;hd
 嘉味田十萌	jw;uj wz;kw tm;aa ui;aa mg;cm
@@ -19657,7 +19657,7 @@ use_preset_vocabulary: false
 埃克西奧	ai;tu ke;eg xi;aa ao;db
 埃克賽特	ai;tu ke;eg sl;bb te;ns
 埃內斯托薩拉斯	ai;tu nz;kr si;jq to;fq sa;ci la;fl si;jq
-埃列什基伽勒	ai;tu lx;dd uf;ru ji;tq ga;rj lz;lg
+埃列什基伽勒	ai;tu lx;dd uf;ru ji;tq ga;rj le;lg
 埃利奧特奈特雷伊	ai;tu li;hd ao;db te;ns nl;du te;ns lz;yt yi;ry
 埃利希	ai;tu li;hd xi;ju
 埃力格	ai;tu li;gp ge;mg
@@ -19674,7 +19674,7 @@ use_preset_vocabulary: false
 埃及豔后遊太空	ai;tu ji;nd yj;dm hb;pk yb;zy tl;dd ks;xg
 埃及集結殭屍	ai;tu ji;nd ji;mv jx;sj jd;dj ui;us
 埃吉爾	ai;tu ji;ku er;ay
-埃圖瓦勒	ai;tu tu;kh wa;ad lz;lg
+埃圖瓦勒	ai;tu tu;kh wa;ad le;lg
 埃塞俄比亞	ai;tu sl;tb ee;rw bi;bb ya;aa
 埃塞克斯	ai;tu sl;tb ke;eg si;jq
 埃姆林懷特	ai;tu mu;nm ln;mm hy;xh te;ns
@@ -20221,7 +20221,7 @@ use_preset_vocabulary: false
 塞伯拉斯	sl;tb bo;rb la;fl si;jq
 塞倫特賽文斯塔	sl;tb lp;rl te;ns sl;bb wf;wi si;jq ta;td
 塞克羅姆娘	sl;tb ke;eg lo;sv mu;nm nd;nl
-塞勒斯埃爾格特	sl;tb lz;lg si;jq ai;tu er;ay ge;mg te;ns
+塞勒斯埃爾格特	sl;tb le;lg si;jq ai;tu er;ay ge;mg te;ns
 塞可	sl;tb ke;dk
 塞哥維亞城堡	sl;tb ge;kd wz;sv ya;aa ig;ti bk;tb
 塞坦塔	sl;tb tj;td ta;td
@@ -20299,7 +20299,7 @@ use_preset_vocabulary: false
 塞納菲納阿什克羅夫特	sl;tb na;sn fz;cf na;sn aa;ek uf;ru ke;eg lo;sv fu;ad te;ns
 塞維爾	sl;tb wz;sv er;ay
 塞維達漢	sl;tb wz;sv da;zy hj;dh
-塞繆爾泰勒	sl;tb mb;sl er;ay tl;fu lz;lg
+塞繆爾泰勒	sl;tb mb;sl er;ay tl;fu le;lg
 塞繆爾羅伯茨	sl;tb mb;sl er;ay lo;sv bo;rb ci;cc
 塞繆爾羅德里格斯	sl;tb mb;sl er;ay lo;sv de;xx li;aa ge;mg si;jq
 塞羅	sl;tb lo;sv
@@ -20309,7 +20309,7 @@ use_preset_vocabulary: false
 塞茜爾諾伊艾絲	sl;tb qm;cx er;ay no;yr yi;ry ai;ci si;ss
 塞茜莉亞	sl;tb qm;cx li;cl ya;aa
 塞莫文特	sl;tb mo;cd wf;wi te;ns
-塞菈庫勒斯	sl;tb la;cl ku;gi lz;lg si;jq
+塞菈庫勒斯	sl;tb la;cl ku;gi le;lg si;jq
 塞菲娜	sl;tb fz;cf na;nn
 塞菲拉蘇	sl;tb fz;cf la;fl su;ch
 塞萊希法娜	sl;tb ll;cl xi;ju fa;dq na;nn
@@ -20318,7 +20318,7 @@ use_preset_vocabulary: false
 塞萊諾	sl;tb ll;cl no;yr
 塞蓮	sl;tb lm;cl
 塞蕾娜	sl;tb lz;cl na;nn
-塞蕾斯汀盧庫勒斯	sl;tb lz;cl si;jq ty;dd lu;hm ku;gi lz;lg si;jq
+塞蕾斯汀盧庫勒斯	sl;tb lz;cl si;jq ty;dd lu;hm ku;gi le;lg si;jq
 塞蕾絲緹雅羅登貝克	sl;tb lz;cl si;ss ti;su ya;vy lo;sv dg;dd bz;ad ke;eg
 塞蕾西婭尤比蒂利亞	sl;tb lz;cl xi;aa ya;ny yb;ad bi;bb di;cd li;hd ya;aa
 塞蕾西婭的弗格爾騎士	sl;tb lz;cl xi;aa ya;ny de;bu fu;aa ge;mg er;ay qi;mq ui;aa
@@ -20934,7 +20934,7 @@ use_preset_vocabulary: false
 夏爾凡多姆海伍	xw;wz er;ay fj;dj do;xx mu;nm hl;dm wu;rw
 夏爾凡多姆海威	xw;wz er;ay fj;dj do;xx mu;nm hl;dm wz;gn
 夏爾凡多姆海恩	xw;wz er;ay fj;dj do;xx mu;nm hl;dm en;xy
-夏爾勒克萊爾	xw;wz er;ay lz;lg ke;eg ll;cl er;ay
+夏爾勒克萊爾	xw;wz er;ay le;lg ke;eg ll;cl er;ay
 夏爾店員	xw;wz er;ay dm;gv yr;kb
 夏爾特琉威斯提亞	xw;wz er;ay te;ns lq;wi wz;gn si;jq ti;fu ya;aa
 夏爾米	xw;wz er;ay mi;dd
@@ -24403,7 +24403,7 @@ use_preset_vocabulary: false
 奈特彌託黛拉	nl;du te;ns mi;ge to;yq dl;hd la;fl
 奈特梅爾	nl;du te;ns mz;mm er;ay
 奈特洛斯	nl;du te;ns lo;dg si;jq
-奈特莉勒克萊爾	nl;du te;ns li;cl lz;lg ke;eg ll;cl er;ay
+奈特莉勒克萊爾	nl;du te;ns li;cl le;lg ke;eg ll;cl er;ay
 奈理	nl;du li;wl
 奈璐	nl;du lu;wl
 奈留	nl;du lq;td
@@ -24581,7 +24581,7 @@ use_preset_vocabulary: false
 奧古五王	ao;db gu;uk wu;aa wh;aa
 奧古斯	ao;db gu;uk si;jq
 奧古斯塔	ao;db gu;uk si;jq ta;td
-奧古斯塔芙蕾德利嘉艾戴爾阿德勒	ao;db gu;uk si;jq ta;td fu;cf lz;cl de;xx li;hd jw;uj ai;ci dl;gg er;ay aa;ek de;xx lz;lg
+奧古斯塔芙蕾德利嘉艾戴爾阿德勒	ao;db gu;uk si;jq ta;td fu;cf lz;cl de;xx li;hd jw;uj ai;ci dl;gg er;ay aa;ek de;xx le;lg
 奧古斯特馮帕塞瓦爾	ao;db gu;uk si;jq te;ns fg;dm pa;jb sl;tb wa;ad er;ay
 奧古斯特魯思文	ao;db gu;uk si;jq te;ns lu;yo si;tx wf;wi
 奧古斯都	ao;db gu;uk si;jq db;ev
@@ -24797,7 +24797,7 @@ use_preset_vocabulary: false
 奧蓮姬	ao;db lm;cl ji;ni
 奧蓮斯涅克伯爵上將	ao;db lm;cl si;jq nx;dn ke;eg bo;rb jt;vc uh;aa jd;pc
 奧蕾莉亞	ao;db lz;cl li;cl ya;aa
-奧蕾莉亞勒瑰恩	ao;db lz;cl li;cl ya;aa lz;lg gv;wg en;xy
+奧蕾莉亞勒瑰恩	ao;db lz;cl li;cl ya;aa le;lg gv;wg en;xy
 奧蕾莉亞風行者	ao;db lz;cl li;cl ya;aa fg;ji xy;xd ve;lo
 奧蘭	ao;db lj;cj
 奧蘭多	ao;db lj;cj do;xx
@@ -26034,7 +26034,7 @@ use_preset_vocabulary: false
 威爾士的妖精	wz;gn er;ay ui;aa de;bu yk;ny jy;mq
 威爾士親王	wz;gn er;ay ui;aa qn;jq wh;aa
 威爾弗雷德迪恩	wz;gn er;ay fu;aa lz;yt de;xx di;zy en;xy
-威爾斯佩勒姆科德林頓	wz;gn er;ay si;jq pz;rb lz;lg mu;nm ke;hd de;xx ln;mm dp;yt
+威爾斯佩勒姆科德林頓	wz;gn er;ay si;jq pz;rb le;lg mu;nm ke;hd de;xx ln;mm dp;yt
 威爾斯普勞特	wz;gn er;ay si;jq pu;ob lk;hl te;ns
 威爾昂賽汀	wz;gn er;ay ah;oe sl;bb ty;dd
 威爾森	wz;gn er;ay sf;ml
@@ -26121,7 +26121,7 @@ use_preset_vocabulary: false
 娜塔莉亞阿爾洛夫斯卡婭	na;nn ta;td li;cl ya;aa aa;ek er;ay lo;dg fu;ad si;jq ka;bx ya;ny
 娜塔莉亞鮑裏索夫娜	na;nn ta;td li;cl ya;aa bk;yb li;dy so;sb fu;ad na;nn
 娜塔莉婭	na;nn ta;td li;cl ya;ny
-娜塔莉婭休勒	na;nn ta;td li;cl ya;ny xq;rm lz;lg
+娜塔莉婭休勒	na;nn ta;td li;cl ya;ny xq;rm le;lg
 娜塔莉婭安德烈耶夫娜羅斯托娃	na;nn ta;td li;cl ya;ny an;bn de;xx lx;dl ye;ee fu;ad na;nn lo;sv si;jq to;fq wa;ng
 娜塔莉婭沃克	na;nn ta;td li;cl ya;ny wo;dy ke;eg
 娜塔莉婭米哈伊爾烏里揚諾夫	na;nn ta;td li;cl ya;ny mi;dd ha;kh yi;ry er;ay wu;pd li;aa yh;fy no;yr fu;ad
@@ -26274,7 +26274,7 @@ use_preset_vocabulary: false
 嫂子	sk;ns zi;aa
 嫉妒	ji;nj du;nh
 嫉妒心	ji;nj du;nh xn;dd
-嫉妒的伽勒斯	ji;nj du;nh de;bu ga;rj lz;lg si;jq
+嫉妒的伽勒斯	ji;nj du;nh de;bu ga;rj le;lg si;jq
 嫉妒貓步	ji;nj du;nh mk;vm bu;vx
 嫋嫋	nc;nr nc;nr
 嫋嫋漣歌姬的壹世壞	nc;nr nc;nr lm;dl ge;qg ji;ni de;bu yi;ud ui;ca hy;th
@@ -27009,7 +27009,7 @@ use_preset_vocabulary: false
 安吉拉	an;bn ji;ku la;fl
 安吉拉巴爾扎克	an;bn ji;ku la;fl ba;ag er;ay va;fg ke;eg
 安吉拉斯特拉哈伍茲	an;bn ji;ku la;fl si;jq te;ns la;fl ha;kh wu;rw zi;cy
-安吉拉齊格勒	an;bn ji;ku la;fl qi;we ge;mg lz;lg
+安吉拉齊格勒	an;bn ji;ku la;fl qi;we ge;mg le;lg
 安吉爾	an;bn ji;ku er;ay
 安吉爾布萊恩	an;bn ji;ku er;ay bu;ju ll;cl en;xy
 安吉莉卡	an;bn ji;ku li;cl ka;bx
@@ -27136,7 +27136,7 @@ use_preset_vocabulary: false
 安德烈理查森	an;bn de;xx lx;dl li;wl ia;md sf;ml
 安德烈祊玢	an;bn de;xx lx;dl bg;uf bn;wf
 安德烈紛芳	an;bn de;xx lx;dl ff;sf fh;cf
-安德烈羅梅勒楊	an;bn de;xx lx;dl lo;sv mz;mm lz;lg yh;my
+安德烈羅梅勒楊	an;bn de;xx lx;dl lo;sv mz;mm le;lg yh;my
 安德烈芬芳	an;bn de;xx lx;dl ff;cf fh;cf
 安德烈赫岑朵夫	an;bn de;xx lx;dl he;ii cf;uj do;mj fu;ad
 安德瓦	an;bn de;xx wa;ad
@@ -27214,7 +27214,7 @@ use_preset_vocabulary: false
 安洛瑟修奈德	an;bn lo;dg se;wb xq;rp nl;du de;xx
 安潔	an;bn jx;dj
 安潔利亞沙尼亞特	an;bn jx;dj li;hd ya;aa ua;du ni;ub ya;aa te;ns
-安潔勒卡雷	an;bn jx;dj lz;lg ka;bx lz;yt
+安潔勒卡雷	an;bn jx;dj le;lg ka;bx lz;yt
 安潔卡特莉娜	an;bn jx;dj ka;bx te;ns li;cl na;nn
 安潔拉薩拉斯萊拉查寶	an;bn jx;dj la;fl sa;ci la;fl si;jq ll;cl la;fl ia;md bk;bb
 安潔洛特	an;bn jx;dj lo;dg te;ns
@@ -27874,7 +27874,7 @@ use_preset_vocabulary: false
 寅子	yn;bb zi;aa
 寅虎	yn;bb hu;hj
 寅虎娘	yn;bb hu;hj nd;nl
-密勒頓	mi;ub lz;lg dp;yt
+密勒頓	mi;ub le;lg dp;yt
 密卡登	mi;ub ka;bx dg;dd
 密命王牌	mi;ub my;re wh;aa pl;pb
 密客	mi;ub ke;bg
@@ -31797,7 +31797,7 @@ use_preset_vocabulary: false
 巴利索爾的孩子是獨生子	ba;ag li;hd so;sb er;ay de;bu hl;zh zi;aa ui;op du;qi ug;na zi;aa
 巴力	ba;ag li;gp
 巴加的工作室	ba;ag jw;lk de;bu gs;aa zo;rv ui;bv
-巴勒幫	ba;ag lz;lg bh;bf
+巴勒幫	ba;ag le;lg bh;bf
 巴卡洛夫黑掌	ba;ag ka;bx lo;dg fu;ad hz;ad vh;uk
 巴卡爾	ba;ag ka;bx er;ay
 巴吉爾	ba;ag ji;ku er;ay
@@ -31822,7 +31822,7 @@ use_preset_vocabulary: false
 巴大蝴	ba;ag da;ad hu;ih
 巴大蝴娘	ba;ag da;ad hu;ih nd;nl
 巴大蝶娘	ba;ag da;ad dx;im nd;nl
-巴夫勒爾	ba;ag fu;ad lz;lg er;ay
+巴夫勒爾	ba;ag fu;ad le;lg er;ay
 巴奎依	ba;ag kv;dg yi;ry
 巴妮卡空琪塔	ba;ag ni;nn ka;bx ks;xg qi;wq ta;td
 巴尼爾	ba;ag ni;ub er;ay
@@ -32034,7 +32034,7 @@ use_preset_vocabulary: false
 布儡	bu;ju lz;rl
 布克曼	bu;ju ke;eg mj;oy
 布凡希	bu;ju fj;dj xi;ju
-布加勒斯特星娘	bu;ju jw;lk lz;lg si;jq te;ns xy;ou nd;nl
+布加勒斯特星娘	bu;ju jw;lk le;lg si;jq te;ns xy;ou nd;nl
 布加拉提	bu;ju jw;lk la;fl ti;fu
 布加拉提小隊	bu;ju jw;lk la;fl ti;fu xc;ad dv;eu
 布加迪奇龍	bu;ju jw;lk di;zy qi;dk ls;dg
@@ -32116,7 +32116,7 @@ use_preset_vocabulary: false
 布萊德諾亞	bu;ju ll;cl de;xx no;yr ya;aa
 布萊恩	bu;ju ll;cl en;xy
 布萊恩安格勞斯	bu;ju ll;cl en;xy an;bn ge;mg lk;hl si;jq
-布萊恩巴特勒	bu;ju ll;cl en;xy ba;ag te;ns lz;lg
+布萊恩巴特勒	bu;ju ll;cl en;xy ba;ag te;ns le;lg
 布萊澤	bu;ju ll;cl ze;dx
 布萊澤奧特曼	bu;ju ll;cl ze;dx ao;db te;ns mj;oy
 布萊爾	bu;ju ll;cl er;ay
@@ -32335,7 +32335,7 @@ use_preset_vocabulary: false
 希爾達伯雷亞斯格雷拉特	xi;ju er;ay da;zy bo;rb lz;yt ya;aa si;jq ge;mg lz;yt la;fl te;ns
 希爾達莉卡	xi;ju er;ay da;zy li;cl ka;bx
 希爾達莉澤	xi;ju er;ay da;zy li;cl ze;dx
-希特勒	xi;ju te;ns lz;lg
+希特勒	xi;ju te;ns le;lg
 希特拉	xi;ju te;ns la;fl
 希特隆	xi;ju te;ns ls;eu
 希特隆晨練	xi;ju te;ns ls;eu if;oi lm;sj
@@ -33582,11 +33582,11 @@ use_preset_vocabulary: false
 庫斯卡	ku;gi si;jq ka;bx
 庫斯諾博士	ku;gi si;jq no;yr bo;uc ui;aa
 庫曼	ku;gi mj;oy
-庫柏勒	ku;gi bl;mb lz;lg
+庫柏勒	ku;gi bl;mb le;lg
 庫柏思	ku;gi bl;mb si;tx
 庫格穆格爾	ku;gi ge;mg mu;hp ge;mg er;ay
 庫楚萊恩	ku;gi iu;mp ll;cl en;xy
-庫榭德勒	ku;gi xx;mu de;xx lz;lg
+庫榭德勒	ku;gi xx;mu de;xx le;lg
 庫欣	ku;gi xn;qj
 庫法梵皮爾	ku;gi fa;dq fj;fl pi;ad er;ay
 庫洛	ku;gi lo;dg
@@ -33742,7 +33742,7 @@ use_preset_vocabulary: false
 廟不可言	mc;gi bu;ad ke;dk yj;da
 廠商非正式	ih;gi uh;wk fz;aa vg;av ui;gy
 廠長	ih;gi vh;ad
-廢兒勒	fz;gf er;ej lz;lg
+廢兒勒	fz;gf er;ej le;lg
 廢品傀儡	fz;gf pn;kk kv;rg lz;rl
 廢品同調娘	fz;gf pn;kk ts;kk dc;yv nd;nl
 廢品墜擊	fz;gf pn;kk vv;td ji;fu
@@ -34031,7 +34031,7 @@ use_preset_vocabulary: false
 弗利艾露格尼卡	fu;aa li;hd ai;ci lu;yl ge;mg ni;ub ka;bx
 弗利茲	fu;aa li;hd zi;cy
 弗利薩	fu;aa li;hd sa;ci
-弗勒德莉絲	fu;aa lz;lg de;xx li;cl si;ss
+弗勒德莉絲	fu;aa le;lg de;xx li;cl si;ss
 弗圖	fu;aa tu;kh
 弗圖博士	fu;aa tu;kh bo;uc ui;aa
 弗慄多	fu;aa li;xl do;xx
@@ -34050,7 +34050,7 @@ use_preset_vocabulary: false
 弗拉迪米爾澤倫斯基	fu;aa la;fl di;zy mi;dd er;ay ze;dx lp;rl si;jq ji;tq
 弗拉門戈之星	fu;aa la;fl mf;aa ge;ad vi;dd xy;ou
 弗朗索瓦	fu;aa lh;ol so;sb wa;ad
-弗朗索瓦普勒拉蒂	fu;aa lh;ol so;sb wa;ad pu;ob lz;lg la;fl di;cd
+弗朗索瓦普勒拉蒂	fu;aa lh;ol so;sb wa;ad pu;ob le;lg la;fl di;cd
 弗朗索瓦波諾弗瓦	fu;aa lh;ol so;sb wa;ad bo;dp no;yr fu;aa wa;ad
 弗朗索瓦絲波諾弗瓦	fu;aa lh;ol so;sb wa;ad si;ss bo;dp no;yr fu;aa wa;ad
 弗朗西斯	fu;aa lh;ol xi;aa si;jq
@@ -34102,7 +34102,7 @@ use_preset_vocabulary: false
 弗蘭達	fu;aa lj;cj da;zy
 弗裏克帕拉芬	fu;aa li;dy ke;eg pa;jb la;fl ff;cf
 弗裏德	fu;aa li;dy de;xx
-弗裏德里克泰勒	fu;aa li;dy de;xx li;aa ke;eg tl;fu lz;lg
+弗裏德里克泰勒	fu;aa li;dy de;xx li;aa ke;eg tl;fu le;lg
 弗裏德銳珂修茲	fu;aa li;dy de;xx rv;jd ke;wk xq;rp zi;cy
 弗裏摩俠	fu;aa li;dy mo;mu xw;rj
 弗里茲懷斯貝爾克	fu;aa li;aa zi;cy hy;xh si;jq bz;ad er;ay ke;eg
@@ -34113,9 +34113,9 @@ use_preset_vocabulary: false
 弗雷加莫德魯	fu;aa lz;yt jw;lk mo;cd de;xx lu;yo
 弗雷德熊	fu;aa lz;yt de;xx xs;dn
 弗雷德莉卡鮑爾曼	fu;aa lz;yt de;xx li;cl ka;bx bk;yb er;ay mj;oy
-弗雷德裏克凱勒	fu;aa lz;yt de;xx li;dy ke;eg kl;jd lz;lg
+弗雷德裏克凱勒	fu;aa lz;yt de;xx li;dy ke;eg kl;jd le;lg
 弗雷德裏克艾博蘭	fu;aa lz;yt de;xx li;dy ke;eg ai;ci bo;uc lj;cj
-弗雷德里希凱勒	fu;aa lz;yt de;xx li;aa xi;ju kl;jd lz;lg
+弗雷德里希凱勒	fu;aa lz;yt de;xx li;aa xi;ju kl;jd le;lg
 弗雷爾卓德	fu;aa lz;yt er;ay vo;bu de;xx
 弗雷特里西	fu;aa lz;yt te;ns li;aa xi;aa
 弗雷薩爾	fu;aa lz;yt sa;ci er;ay
@@ -34684,7 +34684,7 @@ use_preset_vocabulary: false
 彭大師	pg;pd da;ad ui;vb
 彭太君	pg;pd tl;dd jp;ky
 彭德佛傑	pg;pd de;xx fu;rf jx;rj
-彭忒西勒亞	pg;pd te;xy xi;aa lz;lg ya;aa
+彭忒西勒亞	pg;pd te;xy xi;aa le;lg ya;aa
 彭慧敏	pg;pd hv;xh mn;wm
 彭格列家族	pg;pd ge;mg lx;dd jw;bu zu;fu
 彭立勳	pg;pd li;da xp;ld
@@ -35536,7 +35536,7 @@ use_preset_vocabulary: false
 德意志聯邦共和國	de;xx yi;xy vi;ux lm;ea bh;ef gs;bc he;hk go;kh
 德懷特費菲爾德	de;xx hy;xh te;ns fz;bf fz;cf er;ay de;xx
 德拉伽塞斯	de;xx la;fl ga;rj sl;tb si;jq
-德拉古勒斯	de;xx la;fl gu;uk lz;lg si;jq
+德拉古勒斯	de;xx la;fl gu;uk le;lg si;jq
 德拉婕	de;xx la;fl jx;nj
 德拉敏	de;xx la;fl mn;wm
 德拉曼茲路基	de;xx la;fl mj;oy zi;cy lu;zg ji;tq
@@ -37183,7 +37183,7 @@ use_preset_vocabulary: false
 愛倫坡	ai;vw lp;rl po;tp
 愛倫祈	ai;vw lp;rl qi;uj
 愛克婭	ai;vw ke;eg ya;ny
-愛克雪拉諾亞奧勒	ai;vw ke;eg xt;yx la;fl no;yr ya;aa ao;db lz;lg
+愛克雪拉諾亞奧勒	ai;vw ke;eg xt;yx la;fl no;yr ya;aa ao;db le;lg
 愛內周太	ai;vw nz;kr vb;kj tl;dd
 愛到深處自然黑	ai;vw dk;dv uf;dm iu;hi zi;pa rj;hq hz;ad
 愛原亞里沙	ai;vw yr;ix ya;aa li;aa ua;du
@@ -37578,7 +37578,7 @@ use_preset_vocabulary: false
 愛麗絲菲爾馮愛因茲貝倫	ai;vw li;ll si;ss fz;cf er;ay fg;dm ai;vw yn;kd zi;cy bz;ad lp;rl
 愛麗絲菲茲	ai;vw li;ll si;ss fz;cf zi;cy
 愛麗絲蒂娜	ai;vw li;ll si;ss di;cd na;nn
-愛麗絲蓋恩斯巴勒	ai;vw li;ll si;ss gl;ch en;xy si;jq ba;ag lz;lg
+愛麗絲蓋恩斯巴勒	ai;vw li;ll si;ss gl;ch en;xy si;jq ba;ag le;lg
 愛麗絲薩德梅西	ai;vw li;ll si;ss sa;ci de;xx mz;mm xi;aa
 愛麗絲藍	ai;vw li;ll si;ss lj;cj
 愛麗絲貝德佛德	ai;vw li;ll si;ss bz;ad de;xx fu;rf de;xx
@@ -39867,7 +39867,7 @@ use_preset_vocabulary: false
 打鴨子	da;fd ya;nj zi;aa
 打麻將真有趣啊	da;fd ma;gl jd;pc vf;uj yb;ou qu;zq aa;ka
 打麻將真開心啊	da;fd ma;gl jd;pc vf;uj kl;mk xn;dd aa;ka
-托勒密	to;fq lz;lg mi;ub
+托勒密	to;fq le;lg mi;ub
 托塔天王李靖	to;fq ta;td tm;ad wh;aa li;mz jy;lq
 托爾	to;fq er;ay
 托爾斯泰巴多	to;fq er;ay si;jq tl;fu ba;ag do;xx
@@ -40169,7 +40169,7 @@ use_preset_vocabulary: false
 拉伊莎斯維特蘭娜	la;fl yi;ry ua;cu si;jq wz;sv te;ns lj;cj na;nn
 拉伯克	la;fl bo;rb ke;eg
 拉克什米芭伊	la;fl ke;eg uf;ru mi;dd ba;cb yi;ry
-拉克勒斯哈斯提	la;fl ke;eg lz;lg si;jq ha;kh si;jq ti;fu
+拉克勒斯哈斯提	la;fl ke;eg le;lg si;jq ha;kh si;jq ti;fu
 拉克塔	la;fl ke;eg ta;td
 拉克夏塔恰拉	la;fl ke;eg xw;wz ta;td qw;xh la;fl
 拉克夏達	la;fl ke;eg xw;wz da;zy
@@ -40446,7 +40446,7 @@ use_preset_vocabulary: false
 拜倒在吉太之下	bl;pa dk;rd zl;ta ji;ku tl;dd vi;dd xw;ab
 拜倫	bl;pa lp;rl
 拜倫的證明	bl;pa lp;rl de;bu vg;yd my;oo
-拜勒崗魯伊森邦	bl;pa lz;lg gh;ug lu;yo yi;ry sf;ml bh;ef
+拜勒崗魯伊森邦	bl;pa le;lg gh;ug lu;yo yi;ry sf;ml bh;ef
 拜占庭	bl;pa vj;bk ty;gt
 拜占庭帝國	bl;pa vj;bk ty;gt di;jb go;kh
 拜厄斯里佩爾	bl;pa ee;ie si;jq li;aa pz;rb er;ay
@@ -40540,7 +40540,7 @@ use_preset_vocabulary: false
 拿巴索爾	na;uh ba;ag so;sb er;ay
 拿帕	na;uh pa;jb
 拿德利	na;uh de;xx li;hd
-拿撒勒努斯	na;uh sa;fs lz;lg nu;ln si;jq
+拿撒勒努斯	na;uh sa;fs le;lg nu;ln si;jq
 拿白	na;uh bl;pa
 拿着發條的你要去往何方	na;uh ve;yo fa;du tc;rt de;bu ni;re yk;xn qu;ts wh;xv he;rk fh;dg
 拿破侖波拿巴	na;uh po;up lp;rc bo;dp na;uh ba;ag
@@ -41099,7 +41099,7 @@ use_preset_vocabulary: false
 摩托車	mo;mu to;fq ie;aa
 摩拉克斯	mo;mu la;fl ke;eg si;jq
 摩根	mo;mu gf;mg
-摩根勒菲	mo;mu gf;mg lz;lg fz;cf
+摩根勒菲	mo;mu gf;mg le;lg fz;cf
 摩根石	mo;mu gf;mg ui;kp
 摩格科夫	mo;mu ge;mg ke;hd fu;ad
 摩格科夫哈斯哈斯基	mo;mu ge;mg ke;hd fu;ad ha;kh si;jq ha;kh si;jq ji;tq
@@ -41573,7 +41573,7 @@ use_preset_vocabulary: false
 故作氣惱	gu;wg zo;rv qi;qm nk;xi
 故作清純的她	gu;wg zo;rv qy;dq ip;st de;bu ta;ny
 故劍動君心	gu;wg jm;dq ds;lv jp;ky xn;dd
-故勒頓	gu;wg lz;lg dp;yt
+故勒頓	gu;wg le;lg dp;yt
 故友	gu;wg yb;yu
 故國風信	gu;wg go;kh fg;ji xn;ry
 故園縈夢	gu;wg yr;ky yy;hs mg;cx
@@ -41632,7 +41632,7 @@ use_preset_vocabulary: false
 救祓少女米迦埃莉絲	jq;wq fu;ub uk;xp nv;aa mi;dd jw;zj ai;tu li;cl si;ss
 救祓少女索菲婭	jq;wq fu;ub uk;xp nv;aa so;sb fz;cf ya;ny
 救祓少女連禱	jq;wq fu;ub uk;xp nv;aa lm;zi dk;uu
-救祓少女阿索菲勒	jq;wq fu;ub uk;xp nv;aa aa;ek so;sb fz;cf lz;lg
+救祓少女阿索菲勒	jq;wq fu;ub uk;xp nv;aa aa;ek so;sb fz;cf le;lg
 救祓少女阿門武裝	jq;wq fu;ub uk;xp nv;aa aa;ek mf;aa wu;vy vd;yv
 救祓少女馬爾法	jq;wq fu;ub uk;xp nv;aa ma;ad er;ay fa;dq
 救護巴士	jq;wq hu;yh ba;ag ui;aa
@@ -42033,7 +42033,7 @@ use_preset_vocabulary: false
 斯內普	si;jq nz;kr pu;ob
 斯凱樂	si;jq kl;jd le;bm
 斯卡	si;jq ka;bx
-斯卡伯勒集市	si;jq ka;bx bo;rb lz;lg ji;mv ui;wj
+斯卡伯勒集市	si;jq ka;bx bo;rb le;lg ji;mv ui;wj
 斯卡哈	si;jq ka;bx ha;kh
 斯卡哈斯卡蒂	si;jq ka;bx ha;kh si;jq ka;bx di;cd
 斯卡哈絲卡蒂	si;jq ka;bx ha;kh si;ss ka;bx di;cd
@@ -42081,9 +42081,9 @@ use_preset_vocabulary: false
 斯大林	si;jq da;ad ln;mm
 斯大林娘	si;jq da;ad ln;mm nd;nl
 斯大林娜	si;jq da;ad ln;mm na;nn
-斯大林格勒	si;jq da;ad ln;mm ge;mg lz;lg
-斯大林格勒冬景色	si;jq da;ad ln;mm ge;mg lz;lg ds;wd jy;oj se;db
-斯大林格勒會戰	si;jq da;ad ln;mm ge;mg lz;lg hv;ro vj;gd
+斯大林格勒	si;jq da;ad ln;mm ge;mg le;lg
+斯大林格勒冬景色	si;jq da;ad ln;mm ge;mg le;lg ds;wd jy;oj se;db
+斯大林格勒會戰	si;jq da;ad ln;mm ge;mg le;lg hv;ro vj;gd
 斯大林空軍進行曲	si;jq da;ad ln;mm ks;xg jp;bi jn;zv xy;xd qu;aa
 斯大琳	si;jq da;ad ln;wl
 斯奈德	si;jq nl;du de;xx
@@ -44769,8 +44769,8 @@ use_preset_vocabulary: false
 普利特維採	pu;ob li;hd te;ns wz;sv cl;fc
 普利瑪赫諾諾曼	pu;ob li;hd ma;wm he;ii no;yr no;yr mj;oy
 普利茅斯	pu;ob li;hd mk;cm si;jq
-普勒拉蒂	pu;ob lz;lg la;fl di;cd
-普勒阿得斯英雄傳	pu;ob lz;lg aa;ek de;xc si;jq yy;cy xs;vh ir;rv
+普勒拉蒂	pu;ob le;lg la;fl di;cd
+普勒阿得斯英雄傳	pu;ob le;lg aa;ek de;xc si;jq yy;cy xs;vh ir;rv
 普卡	pu;ob ka;bx
 普吉	pu;ob ji;ku
 普奇神父	pu;ob qi;dk uf;uu fu;bi
@@ -47199,7 +47199,7 @@ use_preset_vocabulary: false
 本條二亞	bf;aa tc;rt er;aa ya;aa
 本條楓	bf;aa tc;rt fg;mf
 本森	bf;aa sf;ml
-本森穆勒	bf;aa sf;ml mu;hp lz;lg
+本森穆勒	bf;aa sf;ml mu;hp le;lg
 本棲高校	bf;aa qi;mq gk;wk xc;mj
 本棲高等學校	bf;aa qi;mq gk;wk dg;vs xt;jz xc;mj
 本橋大輔	bf;aa qc;mq da;ad fu;if
@@ -49098,7 +49098,7 @@ use_preset_vocabulary: false
 柯爾匹斯	ke;mk er;ay pi;ke si;jq
 柯爾奈莉亞	ke;mk er;ay nl;du li;cl ya;aa
 柯爾德	ke;mk er;ay de;xx
-柯爾杜勒	ke;mk er;ay du;mt lz;lg
+柯爾杜勒	ke;mk er;ay du;mt le;lg
 柯爾涅莉雅	ke;mk er;ay nx;dn li;cl ya;vy
 柯爾特	ke;mk er;ay te;ns
 柯爾特左輪	ke;mk er;ay te;ns zo;gu lp;il
@@ -49379,8 +49379,8 @@ use_preset_vocabulary: false
 根羽清心	gf;mg yu;xx qy;dq xn;dd
 根谷美智子	gf;mg gu;bk mz;dy vi;ov zi;aa
 根除娘	gf;mg iu;ey nd;nl
-格修配恩斯澤勒根	ge;mg xq;rp pz;yj en;xy si;jq ze;dx lz;lg gf;mg
-格倫勒達斯	ge;mg lp;rl lz;lg da;zy si;jq
+格修配恩斯澤勒根	ge;mg xq;rp pz;yj en;xy si;jq ze;dx le;lg gf;mg
+格倫勒達斯	ge;mg lp;rl le;lg da;zy si;jq
 格倫維爾	ge;mg lp;rl wz;sv er;ay
 格倫雷達斯	ge;mg lp;rl lz;yt da;zy si;jq
 格列佛兄弟	ge;mg lx;dd fu;rf xs;ke di;bp
@@ -49913,7 +49913,7 @@ use_preset_vocabulary: false
 梅利莎龐巴迪	mz;mm li;hd ua;cu ph;gl ba;ag di;zy
 梅努埃特	mz;mm nu;ln ai;tu te;ns
 梅努埃特福爾摩斯	mz;mm nu;ln ai;tu te;ns fu;uf er;ay mo;mu si;jq
-梅勒芙	mz;mm lz;lg fu;cf
+梅勒芙	mz;mm le;lg fu;cf
 梅博洛夫斯基	mz;mm bo;uc lo;dg fu;ad si;jq ji;tq
 梅博洛斯基	mz;mm bo;uc lo;dg si;jq ji;tq
 梅卡妮可	mz;mm ka;bx ni;nn ke;dk
@@ -50055,10 +50055,10 @@ use_preset_vocabulary: false
 梅莉黛爾阿切洛特	mz;mm li;cl dl;hd er;ay aa;ek qx;dq lo;dg te;ns
 梅莓	mz;mm mz;cm
 梅菲斯	mz;mm fz;cf si;jq
-梅菲斯托費勒斯	mz;mm fz;cf si;jq to;fq fz;bf lz;lg si;jq
+梅菲斯托費勒斯	mz;mm fz;cf si;jq to;fq fz;bf le;lg si;jq
 梅菲斯普羅姆娜	mz;mm fz;cf si;jq pu;ob lo;sv mu;nm na;nn
 梅菲斯特	mz;mm fz;cf si;jq te;ns
-梅菲斯特費勒斯	mz;mm fz;cf si;jq te;ns fz;bf lz;lg si;jq
+梅菲斯特費勒斯	mz;mm fz;cf si;jq te;ns fz;bf le;lg si;jq
 梅蒂亞轉生物語	mz;mm di;cd ya;aa vr;iv ug;na wu;nw yu;yw
 梅蒂可	mz;mm di;cd ke;dk
 梅蒂婭	mz;mm di;cd ya;ny
@@ -50662,7 +50662,7 @@ use_preset_vocabulary: false
 楓緹璐姆	fg;mf ti;su lu;wl mu;nm
 楓美里	fg;mf mz;dy li;aa
 楓聆月	fg;mf ly;el yt;oy
-楓若昂努韋勒	fg;mf ro;cy ah;oe nu;ln wz;aa lz;lg
+楓若昂努韋勒	fg;mf ro;cy ah;oe nu;ln wz;aa le;lg
 楓若昂努韋爾	fg;mf ro;cy ah;oe nu;ln wz;aa er;ay
 楓茗	fg;mf my;cm
 楓莊	fg;mf vd;cv
@@ -54661,7 +54661,7 @@ use_preset_vocabulary: false
 沙盤遊戲	ua;du pj;mb yb;zy xi;gd
 沙石怪	ua;du ui;kp gy;xu
 沙礫娘	ua;du li;ul nd;nl
-沙米勒沃爾科夫	ua;du mi;dd lz;lg wo;dy er;ay ke;hd fu;ad
+沙米勒沃爾科夫	ua;du mi;dd le;lg wo;dy er;ay ke;hd fu;ad
 沙織	ua;du vi;sg
 沙織事件	ua;du vi;sg ui;aa jm;rn
 沙織巴吉納	ua;du vi;sg ba;ag ji;ku na;sn
@@ -54886,8 +54886,8 @@ use_preset_vocabulary: false
 法典	fa;dq dm;ba
 法利亞格尼	fa;dq li;hd ya;aa ge;mg ni;ub
 法力無邊	fa;dq li;gp wu;rh bm;zf
-法勒伊絲梅基斯	fa;dq lz;lg yi;ry si;ss mz;mm ji;tq si;jq
-法勒艾伍士	fa;dq lz;lg ai;ci wu;rw ui;aa
+法勒伊絲梅基斯	fa;dq le;lg yi;ry si;ss mz;mm ji;tq si;jq
+法勒艾伍士	fa;dq le;lg ai;ci wu;rw ui;aa
 法厄同	fa;dq ee;ie ts;kk
 法嘉斯神聖王國	fa;dq jw;uj si;jq uf;uu ug;ew wh;aa go;kh
 法國	fa;dq go;kh
@@ -55268,11 +55268,11 @@ use_preset_vocabulary: false
 泰佑	tl;fu yb;ry
 泰凱斯芬利	tl;fu kl;jd si;jq ff;cf li;hd
 泰勇氣	tl;fu ys;ly qi;qm
-泰勒	tl;fu lz;lg
-泰勒巴特利特	tl;fu lz;lg ba;ag te;ns li;hd te;ns
-泰勒巴特萊特	tl;fu lz;lg ba;ag te;ns ll;cl te;ns
-泰勒斯侯米利都斯	tl;fu lz;lg si;jq hb;ru mi;dd li;hd db;ev si;jq
-泰勒斯托望遠鏡	tl;fu lz;lg si;jq to;fq wh;wo yr;zy jy;jj
+泰勒	tl;fu le;lg
+泰勒巴特利特	tl;fu le;lg ba;ag te;ns li;hd te;ns
+泰勒巴特萊特	tl;fu le;lg ba;ag te;ns ll;cl te;ns
+泰勒斯侯米利都斯	tl;fu le;lg si;jq hb;ru mi;dd li;hd db;ev si;jq
+泰勒斯托望遠鏡	tl;fu le;lg si;jq to;fq wh;wo yr;zy jy;jj
 泰哈撒禪雅塔	tl;fu ha;kh sa;fs ij;ud ya;vy ta;td
 泰國	tl;fu go;kh
 泰國傳統服裝	tl;fu go;kh ir;rv ts;si fu;oy vd;yv
@@ -56161,7 +56161,7 @@ use_preset_vocabulary: false
 海瑟姆肯威	hl;dm se;wb mu;nm kf;ov wz;gn
 海瑟姆肯維	hl;dm se;wb mu;nm kf;ov wz;sv
 海瑟斯蕾	hl;dm se;wb si;jq lz;cl
-海瑟斯蕾勒	hl;dm se;wb si;jq lz;cl lz;lg
+海瑟斯蕾勒	hl;dm se;wb si;jq lz;cl le;lg
 海瑟薇	hl;dm se;wb wz;cw
 海田朱音	hl;dm tm;aa vu;pw yn;lo
 海異鯊	hl;dm yi;tg ua;yu
@@ -56219,7 +56219,7 @@ use_preset_vocabulary: false
 海芋	hl;dm yu;cy
 海苔男能行	hl;dm tl;ct nj;tl ng;sb xy;xd
 海茲爾二世	hl;dm zi;cy er;ay er;aa ui;ca
-海茲爾勒	hl;dm zi;cy er;ay lz;lg
+海茲爾勒	hl;dm zi;cy er;ay le;lg
 海茲爾姬	hl;dm zi;cy er;ay ji;ni
 海茲爾姬改	hl;dm zi;cy er;ay ji;ni gl;wj
 海茵莉凱塞因維特根斯坦因親王	hl;dm yn;cy li;cl kl;jd sl;tb yn;kd wz;sv te;ns gf;mg si;jq tj;td yn;kd qn;jq wh;aa
@@ -57283,7 +57283,7 @@ use_preset_vocabulary: false
 湯姆克蘭西	th;dy mu;nm ke;eg lj;cj xi;aa
 湯姆克蘭西系列遊戲	th;dy mu;nm ke;eg lj;cj xi;aa xi;ps lx;dd yb;zy xi;gd
 湯姆和傑瑞	th;dy mu;nm he;hk jx;rj rv;we
-湯姆希德勒斯頓	th;dy mu;nm xi;ju de;xx lz;lg si;jq dp;yt
+湯姆希德勒斯頓	th;dy mu;nm xi;ju de;xx le;lg si;jq dp;yt
 湯姆康納斯	th;dy mu;nm kh;gl na;sn si;jq
 湯姆斯	th;dy mu;nm si;jq
 湯姆森	th;dy mu;nm sf;ml
@@ -57379,7 +57379,7 @@ use_preset_vocabulary: false
 溪蓀	xi;dx sp;cs
 溪谷王國	xi;dx gu;bk wh;aa go;kh
 溫之九	wf;dm vi;dd jq;py
-溫倫富勒	wf;dm lp;rl fu;bf lz;lg
+溫倫富勒	wf;dm lp;rl fu;bf le;lg
 溫卡沃茲	wf;dm ka;bx wo;dy zi;cy
 溫哥華泰坦隊	wf;dm ge;kd hw;ca tl;fu tj;td dv;eu
 溫妮莎	wf;dm ni;nn ua;cu
@@ -57464,7 +57464,7 @@ use_preset_vocabulary: false
 溫蒂拉布蕾絲	wf;dm di;cd la;fl bu;ju lz;cl si;ss
 溫蒂漢堡	wf;dm di;cd hj;dh bk;tb
 溫蒂瑪貝爾	wf;dm di;cd ma;wm bz;ad er;ay
-溫蒂那布勒斯	wf;dm di;cd na;el bu;ju lz;lg si;jq
+溫蒂那布勒斯	wf;dm di;cd na;el bu;ju le;lg si;jq
 溫蘅	wf;dm hg;ch
 溫迪	wf;dm di;zy
 溫迪戈	wf;dm di;zy ge;ad
@@ -57911,7 +57911,7 @@ use_preset_vocabulary: false
 潔蜜妮桑萊茲	jx;dj mi;ib ni;nn sh;mr ll;cl zi;cy
 潔西卡	jx;dj xi;aa ka;bx
 潔西卡席爾巴貝兒	jx;dj xi;aa ka;bx xi;jc er;ay ba;ag bz;ad er;ej
-潔西卡戴姆勒	jx;dj xi;aa ka;bx dl;gg mu;nm lz;lg
+潔西卡戴姆勒	jx;dj xi;aa ka;bx dl;gg mu;nm le;lg
 潔西卡施萊登	jx;dj xi;aa ka;bx ui;fy ll;cl dg;dd
 潘丹妮	pj;df dj;pd ni;nn
 潘光琳	pj;df gd;ea ln;wl
@@ -61195,7 +61195,7 @@ use_preset_vocabulary: false
 狼人戀愛了	lh;ql rf;pd lm;xs ai;vw le;aa
 狼人殺	lh;ql rf;pd ua;uu
 狼人遊戲	lh;ql rf;pd yb;zy xi;gd
-狼人露卡貝恩霍勒	lh;ql rf;pd lu;yl ka;bx bz;ad en;xy ho;yv lz;lg
+狼人露卡貝恩霍勒	lh;ql rf;pd lu;yl ka;bx bz;ad en;xy ho;yv le;lg
 狼們的夜晚	lh;ql mf;rm de;bu ye;wd wj;om
 狼外婆	lh;ql wl;xb po;nb
 狼大龍	lh;ql da;ad ls;dg
@@ -61474,7 +61474,7 @@ use_preset_vocabulary: false
 獵殺九人	lx;ql ua;uu jq;py rf;pd
 獵殺紅十月號	lx;ql ua;uu hs;sg ui;aa yt;oy hk;hh
 獵犬修女	lx;ql qr;dd xq;rp nv;aa
-獵犬塞勒斯	lx;ql qr;dd sl;tb lz;lg si;jq
+獵犬塞勒斯	lx;ql qr;dd sl;tb le;lg si;jq
 獵犬子	lx;ql qr;dd zi;aa
 獵狼犬直升機	lx;ql lh;ql qr;dd vi;aa ug;pc ji;mj
 獵獸神兵	lx;ql ub;qu uf;uu by;qb
@@ -62614,7 +62614,7 @@ use_preset_vocabulary: false
 瑟琳娜	se;wb ln;wl na;nn
 瑟瑞斯蒂亞娜梅吉斯特斯	se;wb rv;we si;jq di;cd ya;aa na;nn mz;mm ji;ku si;jq te;ns si;jq
 瑟皮亞蘭德斯塔	se;wb pi;ad ya;aa lj;cj de;xx si;jq ta;td
-瑟維勒羅伊	se;wb wz;sv lz;lg lo;sv yi;ry
+瑟維勒羅伊	se;wb wz;sv le;lg lo;sv yi;ry
 瑟莉亞	se;wb li;cl ya;aa
 瑟莉亞庫列爾	se;wb li;cl ya;aa ku;gi lx;dd er;ay
 瑟莉卡阿爾佛聶亞	se;wb li;cl ka;bx aa;ek er;ay fu;rf nx;ee ya;aa
@@ -62865,7 +62865,7 @@ use_preset_vocabulary: false
 瑪麗娜	ma;wm li;ll na;nn
 瑪麗娜阿爾斯通	ma;wm li;ll na;nn aa;ek er;ay si;jq ts;zy
 瑪麗安	ma;wm li;ll an;bn
-瑪麗安勒席拉	ma;wm li;ll an;bn lz;lg xi;jc la;fl
+瑪麗安勒席拉	ma;wm li;ll an;bn le;lg xi;jc la;fl
 瑪麗安奴	ma;wm li;ll an;bn nu;ny
 瑪麗安威廉莎士比亞	ma;wm li;ll an;bn wz;gn lm;gj ua;cu ui;aa bi;bb ya;aa
 瑪麗安娜	ma;wm li;ll an;bn na;nn
@@ -62884,7 +62884,7 @@ use_preset_vocabulary: false
 瑪麗琪斯皮爾庫艾特	ma;wm li;ll qi;wq si;jq pi;ad er;ay ku;gi ai;ci te;ns
 瑪麗的綿羊們被困在圍欄裏	ma;wm li;ll de;bu mm;sb yh;da mf;rm bz;yp kp;km zl;ta wz;kw lj;mj li;dy
 瑪麗的電話	ma;wm li;ll de;bu dm;yd hw;yu
-瑪麗穆勒	ma;wm li;ll mu;hp lz;lg
+瑪麗穆勒	ma;wm li;ll mu;hp le;lg
 瑪麗絲史黛拉	ma;wm li;ll si;ss ui;ad dl;hd la;fl
 瑪麗翁羣	ma;wm li;ll wg;yg qp;yj
 瑪麗與魔女之花	ma;wm li;ll yu;ba mo;gm nv;aa vi;dd hw;ch
@@ -70322,10 +70322,10 @@ use_preset_vocabulary: false
 米利亞爾特匹斯克拉福特	mi;dd li;hd ya;aa er;ay te;ns pi;ke si;jq ke;eg la;fl fu;uf te;ns
 米利安康斯坦丁	mi;dd li;hd an;bn kh;gl si;jq tj;td dy;aa
 米利歐	mi;dd li;hd ou;qq
-米勒	mi;dd lz;lg
-米勒娃麥格	mi;dd lz;lg wa;ng ml;lx ge;mg
-米勒山莊	mi;dd lz;lg uj;aa vd;cv
-米勒山谷狼人	mi;dd lz;lg uj;aa gu;bk lh;ql rf;pd
+米勒	mi;dd le;lg
+米勒娃麥格	mi;dd le;lg wa;ng ml;lx ge;mg
+米勒山莊	mi;dd le;lg uj;aa vd;cv
+米勒山谷狼人	mi;dd le;lg uj;aa gu;bk lh;ql rf;pd
 米卡	mi;dd ka;bx
 米卡利斯	mi;dd ka;bx li;hd si;jq
 米卡嘉沃坎	mi;dd ka;bx jw;uj wo;dy kj;tq
@@ -70369,7 +70369,7 @@ use_preset_vocabulary: false
 米娜馬瑟斯	mi;dd na;nn ma;ad se;wb si;jq
 米婭	mi;dd ya;ny
 米婭惠特洛克	mi;dd ya;ny hv;xh te;ns lo;dg ke;eg
-米婭泰勒	mi;dd ya;ny tl;fu lz;lg
+米婭泰勒	mi;dd ya;ny tl;fu le;lg
 米婭湯森德	mi;dd ya;ny th;dy sf;ml de;xx
 米婭芬迪斯	mi;dd ya;ny ff;cf di;zy si;jq
 米婭莉	mi;dd ya;ny li;cl
@@ -70433,7 +70433,7 @@ use_preset_vocabulary: false
 米法	mi;dd fa;dq
 米津玄師	mi;dd jn;dy xr;wy ui;vb
 米浴	mi;dd yu;dg
-米海爾梅勒	mi;dd hl;dm er;ay mz;mm lz;lg
+米海爾梅勒	mi;dd hl;dm er;ay mz;mm le;lg
 米海爾羅亞法丹楊	mi;dd hl;dm er;ay lo;sv ya;aa fa;dq dj;pd yh;my
 米涅亞聖圖斯	mi;dd nx;dn ya;aa ug;ew tu;kh si;jq
 米涅德溫	mi;dd nx;dn de;xx wf;dm
@@ -70505,7 +70505,7 @@ use_preset_vocabulary: false
 米莉安波柯	mi;dd li;cl an;bn bo;dp ke;mk
 米莉琳克爾	mi;dd li;cl ln;wl ke;eg er;ay
 米莉貝利	mi;dd li;cl bz;ad li;hd
-米莉雅勒克萊爾	mi;dd li;cl ya;vy lz;lg ke;eg ll;cl er;ay
+米莉雅勒克萊爾	mi;dd li;cl ya;vy le;lg ke;eg ll;cl er;ay
 米莎	mi;dd ua;cu
 米莫莎	mi;dd mo;cd ua;cu
 米莫薩凡米里歐	mi;dd mo;cd sa;ci fj;dj mi;dd li;aa ou;qq
@@ -70535,11 +70535,11 @@ use_preset_vocabulary: false
 米諾高分少女	mi;dd no;yr gk;wk ff;bd uk;xp nv;aa
 米豐博士	mi;dd fg;df bo;uc ui;aa
 米赫	mi;dd he;ii
-米迦勒	mi;dd jw;zj lz;lg
+米迦勒	mi;dd jw;zj le;lg
 米遊姬	mi;dd yb;zy ji;ni
 米里一	mi;dd li;aa yi;aa
 米雅	mi;dd ya;vy
-米雅泰勒	mi;dd ya;vy tl;fu lz;lg
+米雅泰勒	mi;dd ya;vy tl;fu le;lg
 米雅盧娜堤亞穆	mi;dd ya;vy lu;hm na;nn di;tu ya;aa mu;hp
 米雪兒李	mi;dd xt;yx er;ej li;mz
 米雷優	mi;dd lz;yt yb;rw
@@ -71630,7 +71630,7 @@ use_preset_vocabulary: false
 索裏多納索	so;sb li;dy do;xx na;sn so;sb
 索裏特納索	so;sb li;dy te;ns na;sn so;sb
 索西雅	so;sb xi;aa ya;vy
-索西雅埃勒敏	so;sb xi;aa ya;vy ai;tu lz;lg mn;wm
+索西雅埃勒敏	so;sb xi;aa ya;vy ai;tu le;lg mn;wm
 索西雅艾爾敏	so;sb xi;aa ya;vy ai;ci er;ay mn;wm
 索諾亞	so;sb no;yr ya;aa
 索諾伊	so;sb no;yr yi;ry
@@ -71876,7 +71876,7 @@ use_preset_vocabulary: false
 終末月夜抄	vs;sd mo;ad yt;oy ye;wd ik;fu
 終末的伊澤塔	vs;sd mo;ad de;bu yi;ry ze;dx ta;td
 終末的初始之歌	vs;sd mo;ad de;bu iu;yd ui;nt vi;dd ge;qg
-終末的哈勒姆	vs;sd mo;ad de;bu ha;kh lz;lg mu;nm
+終末的哈勒姆	vs;sd mo;ad de;bu ha;kh le;lg mu;nm
 終末的女武神	vs;sd mo;ad de;bu nv;aa wu;vy uf;uu
 終末的後宮	vs;sd mo;ad de;bu hb;xw gs;bl
 終末的後宮奇想曲	vs;sd mo;ad de;bu hb;xw gs;bl qi;dk xd;xx qu;aa
@@ -72156,7 +72156,7 @@ use_preset_vocabulary: false
 絕望男子與中國娘	jt;sb wh;wo nj;tl zi;aa yu;ba vs;aa go;kh nd;nl
 絕望的魔女	jt;sb wh;wo de;bu mo;gm nv;aa
 絕望皇	jt;sb wh;wo hd;bw
-絕望皇霍普勒斯	jt;sb wh;wo hd;bw ho;yv pu;ob lz;lg si;jq
+絕望皇霍普勒斯	jt;sb wh;wo hd;bw ho;yv pu;ob le;lg si;jq
 絕望粉碎少女	jt;sb wh;wo ff;mf sv;uz uk;xp nv;aa
 絕望罪	jt;sb wh;wo zv;sf
 絕望老師	jt;sb wh;wo lk;bl ui;vb
@@ -73485,7 +73485,7 @@ use_preset_vocabulary: false
 羅索	lo;sv so;sb
 羅絲	lo;sv si;ss
 羅絲克娃	lo;sv si;ss ke;eg wa;ng
-羅絲泰勒	lo;sv si;ss tl;fu lz;lg
+羅絲泰勒	lo;sv si;ss tl;fu le;lg
 羅絲蕾朵娘	lo;sv si;ss lz;cl do;mj nd;nl
 羅絲薇瑟	lo;sv si;ss wz;cw se;wb
 羅絲雷朵娘	lo;sv si;ss lz;yt do;mj nd;nl
@@ -74649,7 +74649,7 @@ use_preset_vocabulary: false
 聖盞	ug;ew vj;mj
 聖盾姬	ug;ew dp;po ji;ni
 聖石小子	ug;ew ui;kp xc;ad zi;aa
-聖米勒	ug;ew mi;dd lz;lg
+聖米勒	ug;ew mi;dd le;lg
 聖米歇爾山	ug;ew mi;dd xx;qh er;ay uj;aa
 聖精靈	ug;ew jy;mq ly;wl
 聖精靈的祝福	ug;ew jy;mq ly;wl de;bu vu;ux fu;uf
@@ -75131,7 +75131,7 @@ use_preset_vocabulary: false
 胡姑姑	hu;og gu;ng gu;ng
 胡婷婷	hu;og ty;nt ty;nt
 胡安加西亞科特斯	hu;og an;bn jw;lk xi;aa ya;aa ke;hd te;ns si;jq
-胡安斯特里克勒	hu;og an;bn si;jq te;ns li;aa ke;eg lz;lg
+胡安斯特里克勒	hu;og an;bn si;jq te;ns li;aa ke;eg le;lg
 胡安科爾內利亞	hu;og an;bn ke;hd er;ay nz;kr li;hd ya;aa
 胡安考特茲	hu;og an;bn kk;lk te;ns zi;cy
 胡巴娘	hu;og ba;ag nd;nl
@@ -76315,9 +76315,9 @@ use_preset_vocabulary: false
 艾利西亞亞丁	ai;ci li;hd xi;aa ya;aa ya;aa dy;aa
 艾利西亞梅露姬奧特	ai;ci li;hd xi;aa ya;aa mz;mm lu;yl ji;ni ao;db te;ns
 艾力南	ai;ci li;gp nj;ua
-艾勒	ai;ci lz;lg
-艾勒布拉德	ai;ci lz;lg bu;ju la;fl de;xx
-艾勒梅斯蓋爾	ai;ci lz;lg mz;mm si;jq gl;ch er;ay
+艾勒	ai;ci le;lg
+艾勒布拉德	ai;ci le;lg bu;ju la;fl de;xx
+艾勒梅斯蓋爾	ai;ci le;lg mz;mm si;jq gl;ch er;ay
 艾卡	ai;ci ka;bx
 艾卡澤露	ai;ci ka;bx ze;dx lu;yl
 艾卡西亞	ai;ci ka;bx xi;aa ya;aa
@@ -76390,12 +76390,12 @@ use_preset_vocabulary: false
 艾恩梅德	ai;ci en;xy mz;mm de;xx
 艾恩梅登貞德	ai;ci en;xy mz;mm dg;dd vf;bb de;xx
 艾恩葛朗特解放軍	ai;ci en;xy ge;ch lh;ol te;ns jx;jn fh;wf jp;bi
-艾扎克雷佩勒姆威斯考特	ai;ci va;fg ke;eg lz;yt pz;rb lz;lg mu;nm wz;gn si;jq kk;lk te;ns
-艾扎克雷佩勒姆維斯考特	ai;ci va;fg ke;eg lz;yt pz;rb lz;lg mu;nm wz;sv si;jq kk;lk te;ns
+艾扎克雷佩勒姆威斯考特	ai;ci va;fg ke;eg lz;yt pz;rb le;lg mu;nm wz;gn si;jq kk;lk te;ns
+艾扎克雷佩勒姆維斯考特	ai;ci va;fg ke;eg lz;yt pz;rb le;lg mu;nm wz;sv si;jq kk;lk te;ns
 艾扎力	ai;ci va;fg li;gp
 艾拉	ai;ci la;fl
 艾拉伊爾瑪塔爾尤蒂萊南	ai;ci la;fl yi;ry er;ay ma;wm ta;td er;ay yb;ad di;cd ll;cl nj;ua
-艾拉戴姆勒	ai;ci la;fl dl;gg mu;nm lz;lg
+艾拉戴姆勒	ai;ci la;fl dl;gg mu;nm le;lg
 艾拉溢彩	ai;ci la;fl yi;dy cl;pc
 艾摩訶	ai;ci mo;mu he;yk
 艾斯	ai;ci si;jq
@@ -76516,7 +76516,7 @@ use_preset_vocabulary: false
 艾爾麗	ai;ci er;ay li;ll
 艾特	ai;ci te;ns
 艾特利亞斯納茲多拉格尼爾	ai;ci te;ns li;hd ya;aa si;jq na;sn zi;cy do;xx la;fl ge;mg ni;ub er;ay
-艾特勒斯	ai;ci te;ns lz;lg si;jq
+艾特勒斯	ai;ci te;ns le;lg si;jq
 艾特康寧漢	ai;ci te;ns kh;gl ny;bd hj;dh
 艾特柏傑安德魯	ai;ci te;ns bl;mb jx;rj an;bn de;xx lu;yo
 艾狄爾	ai;ci di;qh er;ay
@@ -76530,7 +76530,7 @@ use_preset_vocabulary: false
 艾琳娜伊萬諾娃	ai;ci ln;wl na;nn yi;ry wj;cy no;yr wa;ng
 艾琳學園	ai;ci ln;wl xt;jz yr;ky
 艾琳懷特	ai;ci ln;wl hy;xh te;ns
-艾琳艾德勒	ai;ci ln;wl ai;ci de;xx lz;lg
+艾琳艾德勒	ai;ci ln;wl ai;ci de;xx le;lg
 艾琳芙蕾奧露潔爾	ai;ci ln;wl fu;cf lz;cl ao;db lu;yl jx;dj er;ay
 艾琴	ai;ci qn;wj
 艾瑞克特薩瑪雅	ai;ci rv;we ke;eg te;ns sa;ci ma;wm ya;vy
@@ -76582,7 +76582,7 @@ use_preset_vocabulary: false
 艾米莉卡爾德溫	ai;ci mi;dd li;cl ka;bx er;ay de;xx wf;dm
 艾米莉婭	ai;ci mi;dd li;cl ya;ny
 艾米莉斯圖亞特	ai;ci mi;dd li;cl si;jq tu;kh ya;aa te;ns
-艾米莉阿格勒斯特	ai;ci mi;dd li;cl aa;ek ge;mg lz;lg si;jq te;ns
+艾米莉阿格勒斯特	ai;ci mi;dd li;cl aa;ek ge;mg le;lg si;jq te;ns
 艾米華德	ai;ci mi;dd hw;ca de;xx
 艾米阿爾弗努	ai;ci mi;dd aa;ek er;ay fu;aa nu;ln
 艾米麗	ai;ci mi;dd li;ll
@@ -76678,7 +76678,7 @@ use_preset_vocabulary: false
 艾莉絲格雷拉特	ai;ci li;cl si;ss ge;mg lz;yt la;fl te;ns
 艾莉絲法蘭格爾託	ai;ci li;cl si;ss fa;dq lj;cj ge;mg er;ay to;yq
 艾莉絲泰莉雅	ai;ci li;cl si;ss tl;fu li;cl ya;vy
-艾莉絲蓋恩斯巴勒	ai;ci li;cl si;ss gl;ch en;xy si;jq ba;ag lz;lg
+艾莉絲蓋恩斯巴勒	ai;ci li;cl si;ss gl;ch en;xy si;jq ba;ag le;lg
 艾莉絲蕾恩安普蕾拉	ai;ci li;cl si;ss lz;cl en;xy an;bn pu;ob lz;cl la;fl
 艾莉絲要認真磨礪爪牙	ai;ci li;cl si;ss yk;xn rf;yr vf;uj mo;mu li;ul vk;pd ya;ap
 艾莉茜雅馮奧賽雷絲	ai;ci li;cl qm;cx ya;vy fg;dm ao;db sl;bb lz;yt si;ss
@@ -76787,7 +76787,7 @@ use_preset_vocabulary: false
 艾露米鄧尼茨	ai;ci lu;yl mi;dd dg;ed ni;ub ci;cc
 艾露茨亞	ai;ci lu;yl ci;cc ya;aa
 艾露莎卡巴納瓦	ai;ci lu;yl ua;cu ka;bx ba;ag na;sn wa;ad
-艾露莎舒卡勒託	ai;ci lu;yl ua;cu uu;yu ka;bx lz;lg to;yq
+艾露莎舒卡勒託	ai;ci lu;yl ua;cu uu;yu ka;bx le;lg to;yq
 艾露莎諾艾姆	ai;ci lu;yl ua;cu no;yr ai;ci mu;nm
 艾露西	ai;ci lu;yl xi;aa
 艾露貓	ai;ci lu;yl mk;vm
@@ -76816,7 +76816,7 @@ use_preset_vocabulary: false
 艾麗茜亞	ai;ci li;ll qm;cx ya;aa
 艾麗莎	ai;ci li;ll ua;cu
 艾麗莎不列顛	ai;ci li;ll ua;cu bu;ad lx;dd dm;yv
-艾麗莎戴姆勒	ai;ci li;ll ua;cu dl;gg mu;nm lz;lg
+艾麗莎戴姆勒	ai;ci li;ll ua;cu dl;gg mu;nm le;lg
 艾麗莎斯雷因	ai;ci li;ll ua;cu si;jq lz;yt yn;kd
 艾麗莎貝蘿	ai;ci li;ll ua;cu bz;ad lo;cl
 艾麗葉夜姬安碧尤奇	ai;ci li;ll ye;cm ye;wd ji;ni an;bn bi;ub yb;ad qi;dk
@@ -76927,7 +76927,7 @@ use_preset_vocabulary: false
 芙蘭達賽維倫	fu;cf lj;cj da;zy sl;bb wz;sv lp;rl
 芙蘿拉	fu;cf lo;cl la;fl
 芙蜜爾	fu;cf mi;ib er;ay
-芙里尼賈米勒	fu;cf li;aa ni;ub jw;bx mi;dd lz;lg
+芙里尼賈米勒	fu;cf li;aa ni;ub jw;bx mi;dd le;lg
 芙鈴	fu;cf ly;jl
 芙雷米史披德洛	fu;cf lz;yt mi;dd ui;ad pi;fp de;xx lo;dg
 芙露卡拉	fu;cf lu;yl ka;bx la;fl
@@ -78374,7 +78374,7 @@ use_preset_vocabulary: false
 莉莉艾爾與祈禱之國	li;cl li;cl ai;ci er;ay yu;ba qi;uj dk;uu vi;dd go;kh
 莉莉芭	li;cl li;cl ba;cb
 莉莉阿克阿麗亞	li;cl li;cl aa;ek ke;eg aa;ek li;ll ya;aa
-莉莉阿德勒	li;cl li;cl aa;ek de;xx lz;lg
+莉莉阿德勒	li;cl li;cl aa;ek de;xx le;lg
 莉莉雅娜賽爾芬	li;cl li;cl ya;vy na;nn sl;bb er;ay ff;cf
 莉莉雅格雷拉特	li;cl li;cl ya;vy ge;mg lz;yt la;fl te;ns
 莉莉雅萊茵華茲	li;cl li;cl ya;vy ll;cl yn;cy hw;ca zi;cy
@@ -78474,7 +78474,7 @@ use_preset_vocabulary: false
 莎拉達奧丁	ua;cu la;fl da;zy ao;db dy;aa
 莎月	ua;cu yt;oy
 莎朗	ua;cu lh;ol
-莎朗戴姆勒	ua;cu lh;ol dl;gg mu;nm lz;lg
+莎朗戴姆勒	ua;cu lh;ol dl;gg mu;nm le;lg
 莎朗溫亞德	ua;cu lh;ol wf;dm ya;aa de;xx
 莎朗牛排	ua;cu lh;ol nq;pa pl;ff
 莎朗荷莉格蕾爾	ua;cu lh;ol he;ch li;cl ge;mg lz;cl er;ay
@@ -80029,8 +80029,8 @@ use_preset_vocabulary: false
 蓋倫	gl;ch lp;rl
 蓋倫冕衛	gl;ch lp;rl mm;om wz;xi
 蓋儂多夫	gl;ch ns;rn do;xx fu;ad
-蓋勒克西恩	gl;ch lz;lg ke;eg xi;aa en;xy
-蓋勒特格林德沃	gl;ch lz;lg te;ns ge;mg ln;mm de;xx wo;dy
+蓋勒克西恩	gl;ch le;lg ke;eg xi;aa en;xy
+蓋勒特格林德沃	gl;ch le;lg te;ns ge;mg ln;mm de;xx wo;dy
 蓋喬姆	gl;ch qc;ph mu;nm
 蓋坦	gl;ch tj;td
 蓋塔機器人	gl;ch ta;td ji;mj qi;kk rf;pd
@@ -80516,7 +80516,7 @@ use_preset_vocabulary: false
 薩克森王國	sa;ci ke;eg sf;ml wh;aa go;kh
 薩克裏	sa;ci ke;eg li;dy
 薩利	sa;ci li;hd
-薩勒芬妮	sa;ci lz;lg ff;cf ni;nn
+薩勒芬妮	sa;ci le;lg ff;cf ni;nn
 薩卡茲百夫長	sa;ci ka;bx zi;cy bl;ab fu;ad vh;ad
 薩卡薩卡班班甲魚魚	sa;ci ka;bx sa;ci ka;bx bj;dw bj;dw jw;aa yu;dd yu;dd
 薩可波絲	sa;ci ke;dk bo;dp si;ss
@@ -80569,7 +80569,7 @@ use_preset_vocabulary: false
 薩斯利爾	sa;ci si;jq li;hd er;ay
 薩斯奴	sa;ci si;jq nu;ny
 薩曼莎馬西斯	sa;ci mj;oy ua;cu ma;ad xi;aa si;jq
-薩格勒布學派	sa;ci ge;mg lz;lg bu;ju xt;jz pl;dp
+薩格勒布學派	sa;ci ge;mg le;lg bu;ju xt;jz pl;dp
 薩格羅斯	sa;ci ge;mg lo;sv si;jq
 薩比家	sa;ci bi;bb jw;bu
 薩比萌	sa;ci bi;bb mg;cm
@@ -81453,7 +81453,7 @@ use_preset_vocabulary: false
 蘿碧妮斯達林	lo;cl bi;ub ni;nn si;jq da;zy ln;mm
 蘿絲	lo;cl si;ss
 蘿絲伯恩斯坦	lo;cl si;ss bo;rb en;xy si;jq tj;td
-蘿絲勒維耶	lo;cl si;ss lz;lg wz;sv ye;ee
+蘿絲勒維耶	lo;cl si;ss le;lg wz;sv ye;ee
 蘿絲灰原	lo;cl si;ss hv;hu yr;ix
 蘿絲盧瓦里埃	lo;cl si;ss lu;hm wa;ad li;aa ai;tu
 蘿絲蕾雅	lo;cl si;ss lz;cl ya;vy
@@ -83098,7 +83098,7 @@ use_preset_vocabulary: false
 西凜太朗	xi;aa ln;db tl;dd lh;ol
 西利歐	xi;aa li;hd ou;qq
 西前忠久	xi;aa qm;bd vs;xv jq;pd
-西勒諾斯	xi;aa lz;lg no;yr si;jq
+西勒諾斯	xi;aa le;lg no;yr si;jq
 西北老漢	xi;aa bz;ap lk;bl hj;dh
 西北風	xi;aa bz;ap fg;ji
 西南官話	xi;aa nj;ua gr;bg hw;yu
@@ -83195,7 +83195,7 @@ use_preset_vocabulary: false
 西布莉	xi;aa bu;ju li;cl
 西希莉	xi;aa xi;ju li;cl
 西希莉馮克洛德	xi;aa xi;ju li;cl fg;dm ke;eg lo;dg de;xx
-西弗勒斯斯內普	xi;aa fu;aa lz;lg si;jq si;jq nz;kr pu;ob
+西弗勒斯斯內普	xi;aa fu;aa le;lg si;jq si;jq nz;kr pu;ob
 西弗吉尼亞	xi;aa fu;aa ji;ku ni;ub ya;aa
 西弗爾	xi;aa fu;aa er;ay
 西御門多美	xi;aa yu;xx mf;aa do;xx mz;dy
@@ -84501,9 +84501,9 @@ use_preset_vocabulary: false
 諾拉芙蘿莉安蕾歐莉亞	no;yr la;fl fu;cf lo;cl li;cl an;bn lz;cl ou;qq li;cl ya;aa
 諾拉茨溫利	no;yr la;fl ci;cc wf;dm li;hd
 諾拉薩歐特爾	no;yr la;fl sa;ci ou;qq te;ns er;ay
-諾提勒斯	no;yr ti;fu lz;lg si;jq
+諾提勒斯	no;yr ti;fu le;lg si;jq
 諾提拉斯	no;yr ti;fu la;fl si;jq
-諾提麗達諾提勒絲	no;yr ti;fu li;ll da;zy no;yr ti;fu lz;lg si;ss
+諾提麗達諾提勒絲	no;yr ti;fu li;ll da;zy no;yr ti;fu le;lg si;ss
 諾敏	no;yr mn;wm
 諾斯	no;yr si;jq
 諾斯特拉傳說	no;yr si;jq te;ns la;fl ir;rv uo;yd
@@ -85473,7 +85473,7 @@ use_preset_vocabulary: false
 貝璐璐	bz;ad lu;wl lu;wl
 貝瓦爾德烏克森謝納	bz;ad wa;ad er;ay de;xx wu;pd ke;eg sf;ml xx;yu na;sn
 貝皮可倫坡號	bz;ad pi;ad ke;dk lp;rl po;tp hk;hh
-貝納勒斯	bz;ad na;sn lz;lg si;jq
+貝納勒斯	bz;ad na;sn le;lg si;jq
 貝納威	bz;ad na;sn wz;gn
 貝絲	bz;ad si;ss
 貝絲比厄	bz;ad si;ss bi;bb ee;ie
@@ -85728,7 +85728,7 @@ use_preset_vocabulary: false
 賓克斯的酒	bn;bb ke;eg si;jq de;bu jq;dy
 賓利歐陸	bn;bb li;hd ou;qq lu;et
 賓卡瓦茲	bn;bb ka;bx wa;ad zi;cy
-賓坦德斯多勒	bn;bb tj;td de;xx si;jq do;xx lz;lg
+賓坦德斯多勒	bn;bb tj;td de;xx si;jq do;xx le;lg
 賓夕法尼亞	bn;bb xi;pd fa;dq ni;ub ya;aa
 賓奇	bn;bb qi;dk
 賜我	ci;by wo;pd
@@ -85820,7 +85820,7 @@ use_preset_vocabulary: false
 賽亞人	sl;bb ya;aa rf;pd
 賽亞斯	sl;bb ya;aa si;jq
 賽伊朝霧	sl;bb yi;ry ik;ou wu;yw
-賽佛勒斯石內卜	sl;bb fu;rf lz;lg si;jq ui;kp nz;kr bo;ad
+賽佛勒斯石內卜	sl;bb fu;rf le;lg si;jq ui;kp nz;kr bo;ad
 賽佛哈定	sl;bb fu;rf ha;kh dy;bp
 賽依連瓦恩薩	sl;bb yi;ry lm;zi wa;ad en;xy sa;ci
 賽倫特賽文絲塔	sl;bb lp;rl te;ns sl;bb wf;wi si;ss ta;td
@@ -86165,7 +86165,7 @@ use_preset_vocabulary: false
 赤龍之吼	ii;tb ls;dg vi;dd hb;kk
 赤龍戰役	ii;tb ls;dg vj;gd yi;xu
 赦免	ue;iw mm;de
-赫丘勒巴頓	he;ii qq;pa lz;lg ba;ag dp;yt
+赫丘勒巴頓	he;ii qq;pa le;lg ba;ag dp;yt
 赫之聖女	he;ii vi;dd ug;ew nv;aa
 赫伊爾	he;ii yi;ry er;ay
 赫倫	he;ii lp;rl
@@ -86192,7 +86192,7 @@ use_preset_vocabulary: false
 赫密士	he;ii mi;ub ui;aa
 赫德拉姆約阿其姆柏格斯統	he;ii de;xx la;fl mu;nm yt;su aa;ek qi;ba mu;nm bl;mb ge;mg si;jq ts;si
 赫德雷	he;ii de;xx lz;yt
-赫拉克勒斯	he;ii la;fl ke;eg lz;lg si;jq
+赫拉克勒斯	he;ii la;fl ke;eg le;lg si;jq
 赫拉克留斯安錨甲蟲	he;ii la;fl ke;eg lq;td si;jq an;bn mk;jm jw;aa is;ii
 赫拉格	he;ii la;fl ge;mg
 赫敏	he;ii mn;wm
@@ -87687,8 +87687,8 @@ use_preset_vocabulary: false
 迢柳娟	tc;zv lq;mm jr;no
 迦伊洛	jw;zj yi;ry lo;dg
 迦具土	jw;zj ju;ba tu;aa
-迦勒底	jw;zj lz;lg di;gd
-迦勒底廣播局	jw;zj lz;lg di;gd gd;gh bo;ff ju;uk
+迦勒底	jw;zj le;lg di;gd
+迦勒底廣播局	jw;zj le;lg di;gd gd;gh bo;ff ju;uk
 迦南	jw;zj nj;ua
 迦古	jw;zj gu;uk
 迦太基	jw;zj tl;dd ji;tq
@@ -92470,7 +92470,7 @@ use_preset_vocabulary: false
 開放式結局	kl;mk fh;wf ui;gy jx;sj ju;uk
 開放的大地	kl;mk fh;wf de;bu da;ad di;ty
 開明	kl;mk my;oo
-開普勒	kl;mk pu;ob lz;lg
+開普勒	kl;mk pu;ob le;lg
 開朗的殯葬師	kl;mk lh;ol de;bu bn;db zh;cc ui;vb
 開演時刻的支配者	kl;mk yj;dy ui;os ke;dh de;bu vi;uy pz;yj ve;lo
 開無雙	kl;mk wu;rh ud;vy
@@ -92806,7 +92806,7 @@ use_preset_vocabulary: false
 阿亂	aa;ek lr;gy
 阿什弗德學院	aa;ek uf;ru fu;aa de;xx xt;jz yr;ew
 阿什莉格拉漢姆	aa;ek uf;ru li;cl ge;mg la;fl hj;dh mu;nm
-阿什莉泰勒	aa;ek uf;ru li;cl tl;fu lz;lg
+阿什莉泰勒	aa;ek uf;ru li;cl tl;fu le;lg
 阿伊	aa;ek yi;ry
 阿伊莎貝勒卡	aa;ek yi;ry ua;cu bz;ad le;lg ka;bx
 阿伊莎貝爾卡	aa;ek yi;ry ua;cu bz;ad er;ay ka;bx
@@ -92874,8 +92874,8 @@ use_preset_vocabulary: false
 阿努比斯神	aa;ek nu;ln bi;bb si;jq uf;uu
 阿努比斯神殿	aa;ek nu;ln bi;bb si;jq uf;uu dm;ug
 阿勃梭魯	aa;ek bo;lb so;mj lu;yo
-阿勒坎	aa;ek lz;lg kj;tq
-阿勒夫	aa;ek lz;lg fu;ad
+阿勒坎	aa;ek le;lg kj;tq
+阿勒夫	aa;ek le;lg fu;ad
 阿匹卜之化神	aa;ek pi;ke bo;ad vi;dd hw;rb uf;uu
 阿南朵雪	aa;ek nj;ua do;mj xt;yx
 阿南西	aa;ek nj;ua xi;aa
@@ -93052,7 +93052,7 @@ use_preset_vocabulary: false
 阿德曼動畫	aa;ek de;xx mj;oy ds;lv hw;ya
 阿德爾海特馮貝格施特拉瑟	aa;ek de;xx er;ay hl;dm te;ns fg;dm bz;ad ge;mg ui;fy te;ns la;fl se;wb
 阿德琉斯	aa;ek de;xx lq;wi si;jq
-阿德瓦勒	aa;ek de;xx wa;ad lz;lg
+阿德瓦勒	aa;ek de;xx wa;ad le;lg
 阿德瓦萊	aa;ek de;xx wa;ad ll;cl
 阿德里安	aa;ek de;xx li;aa an;bn
 阿德里安謝潑德	aa;ek de;xx li;aa an;bn xx;yu po;df de;xx
@@ -93102,14 +93102,14 @@ use_preset_vocabulary: false
 阿提米特	aa;ek ti;fu mi;dd te;ns
 阿提米絲	aa;ek ti;fu mi;dd si;ss
 阿摩耳	aa;ek mo;mu er;aa
-阿撒塞勒	aa;ek sa;fs sl;tb lz;lg
-阿撒瀉勒	aa;ek sa;fs xx;dd lz;lg
-阿撒茲勒	aa;ek sa;fs zi;cy lz;lg
+阿撒塞勒	aa;ek sa;fs sl;tb le;lg
+阿撒瀉勒	aa;ek sa;fs xx;dd le;lg
+阿撒茲勒	aa;ek sa;fs zi;cy le;lg
 阿撒託斯	aa;ek sa;fs to;yq si;jq
 阿撒託絲	aa;ek sa;fs to;yq si;ss
 阿散井戀次	aa;ek sj;wo jy;aa lm;xs ci;dq
 阿斯伯格綜合徵	aa;ek si;jq bo;rb ge;mg zs;sz he;rk vg;xw
-阿斯克勒庇俄斯	aa;ek si;jq ke;eg lz;lg bi;gb ee;rw si;jq
+阿斯克勒庇俄斯	aa;ek si;jq ke;eg le;lg bi;gb ee;rw si;jq
 阿斯卡綸	aa;ek si;jq ka;bx lp;sl
 阿斯垂德	aa;ek si;jq iv;pa de;xx
 阿斯塔利斯克	aa;ek si;jq ta;td li;hd si;jq ke;eg
@@ -93192,7 +93192,7 @@ use_preset_vocabulary: false
 阿楓	aa;ek fg;mf
 阿武隈	aa;ek wu;vy wz;ew
 阿比	aa;ek bi;bb
-阿比拉瑪勒達	aa;ek bi;bb la;fl ma;wm lz;lg da;zy
+阿比拉瑪勒達	aa;ek bi;bb la;fl ma;wm le;lg da;zy
 阿比斯	aa;ek bi;bb si;jq
 阿比斯奧尼爾沙曼	aa;ek bi;bb si;jq ao;db ni;ub er;ay ua;du mj;oy
 阿比蓋爾	aa;ek bi;bb gl;ch er;ay
@@ -93226,7 +93226,7 @@ use_preset_vocabulary: false
 阿泰爾	aa;ek tl;fu er;ay
 阿泰爾之劍	aa;ek tl;fu er;ay vi;dd jm;dq
 阿洛娜	aa;ek lo;dg na;nn
-阿洛美勒絲之蟲惑魔	aa;ek lo;dg mz;dy lz;lg si;ss vi;dd is;ii ho;xh mo;gm
+阿洛美勒絲之蟲惑魔	aa;ek lo;dg mz;dy le;lg si;ss vi;dd is;ii ho;xh mo;gm
 阿消	aa;ek xc;dx
 阿渡	aa;ek du;dd
 阿準	aa;ek vp;uh
@@ -93482,7 +93482,7 @@ use_preset_vocabulary: false
 阿茹茉妮	aa;ek ru;cr mo;cm ni;nn
 阿荻法爾瑪	aa;ek di;cd fa;dq er;ay ma;wm
 阿莉亞	aa;ek li;cl ya;aa
-阿莉塞萊韋耶勒爾	aa;ek li;cl sl;tb ll;cl wz;aa ye;ee lz;lg er;ay
+阿莉塞萊韋耶勒爾	aa;ek li;cl sl;tb ll;cl wz;aa ye;ee le;lg er;ay
 阿莉娜	aa;ek li;cl na;nn
 阿莉娜格雷	aa;ek li;cl na;nn ge;mg lz;yt
 阿莉婭	aa;ek li;cl ya;ny
@@ -93517,7 +93517,7 @@ use_preset_vocabulary: false
 阿薩	aa;ek sa;ci
 阿薩多	aa;ek sa;ci do;xx
 阿薩姆	aa;ek sa;ci mu;nm
-阿薩茲勒艾梅莉	aa;ek sa;ci zi;cy lz;lg ai;ci mz;mm li;cl
+阿薩茲勒艾梅莉	aa;ek sa;ci zi;cy le;lg ai;ci mz;mm li;cl
 阿薩辛	aa;ek sa;ci xn;lu
 阿藍姐	aa;ek lj;cj jx;nq
 阿藤春樹	aa;ek tg;ct ip;of uu;mc
@@ -93578,7 +93578,7 @@ use_preset_vocabulary: false
 阿透	aa;ek tb;zx
 阿速	aa;ek su;zu
 阿道夫佩斯卡羅洛	aa;ek dk;zu fu;ad pz;rb si;jq ka;bx lo;sv lo;dg
-阿道夫希特勒	aa;ek dk;zu fu;ad xi;ju te;ns lz;lg
+阿道夫希特勒	aa;ek dk;zu fu;ad xi;ju te;ns le;lg
 阿道夫莉莎	aa;ek dk;zu fu;ad li;cl ua;cu
 阿達德	aa;ek da;zy de;xx
 阿達悠花	aa;ek da;zy yb;xw hw;ch
@@ -93760,7 +93760,7 @@ use_preset_vocabulary: false
 院田唐音	yr;ew tm;aa th;gk yn;lo
 院長	yr;ew vh;ad
 院長加丁	yr;ew vh;ad jw;lk dy;aa
-陣修勒岡	vf;ei xq;rp lz;lg gh;ku
+陣修勒岡	vf;ei xq;rp le;lg gh;ku
 陣內燕太	vf;ei nz;kr yj;ch tl;dd
 陣型	vf;ei xy;tx
 陣法	vf;ei fa;dq
@@ -95381,8 +95381,8 @@ use_preset_vocabulary: false
 雷加利亞三聖星	lz;yt jw;lk li;hd ya;aa sj;aa ug;ew xy;ou
 雷加爾扎因	lz;yt jw;lk er;ay va;fg yn;kd
 雷古	lz;yt gu;uk
-雷古勒斯柯爾尼亞斯	lz;yt gu;uk lz;lg si;jq ke;mk er;ay ni;ub ya;aa si;jq
-雷古勒斯獅心	lz;yt gu;uk lz;lg si;jq ui;qu xn;dd
+雷古勒斯柯爾尼亞斯	lz;yt gu;uk le;lg si;jq ke;mk er;ay ni;ub ya;aa si;jq
+雷古勒斯獅心	lz;yt gu;uk le;lg si;jq ui;qu xn;dd
 雷古戚德徵海船團國羣	lz;yt gu;uk qi;gx de;xx vg;xw hl;dm ir;vk tr;kv go;kh qp;yj
 雷古洛思	lz;yt gu;uk lo;dg si;tx
 雷吉恩	lz;yt ji;ku en;xy
@@ -96145,7 +96145,7 @@ use_preset_vocabulary: false
 露庫希安	lu;yl ku;gi xi;ju an;bn
 露庫拉齊亞	lu;yl ku;gi la;fl qi;we ya;aa
 露庫拉齊亞佐拉	lu;yl ku;gi la;fl qi;we ya;aa zo;rz la;fl
-露庫莉婭馬爾伯勒	lu;yl ku;gi li;cl ya;ny ma;ad er;ay bo;rb lz;lg
+露庫莉婭馬爾伯勒	lu;yl ku;gi li;cl ya;ny ma;ad er;ay bo;rb le;lg
 露德米拉比爾洛	lu;yl de;xx mi;dd la;fl bi;bb er;ay lo;dg
 露恩	lu;yl en;xy
 露恩艾爾西裘利亞	lu;yl en;xy ai;ci er;ay xi;aa qq;yq li;hd ya;aa
@@ -100073,7 +100073,7 @@ use_preset_vocabulary: false
 魔掃把	mo;gm sk;fj ba;fb
 魔改	mo;gm gl;wj
 魔救之分析者	mo;gm jq;wq vi;dd ff;bd xi;mj ve;lo
-魔救之勒皮他晶石	mo;gm jq;wq vi;dd lz;lg pi;ad ta;ry jy;oo ui;kp
+魔救之勒皮他晶石	mo;gm jq;wq vi;dd le;lg pi;ad ta;ry jy;oo ui;kp
 魔救之奇緣	mo;gm jq;wq vi;dd qi;dk yr;st
 魔救之息吹	mo;gm jq;wq vi;dd xi;xz iv;kq
 魔救之探索者	mo;gm jq;wq vi;dd tj;fm so;sb ve;lo
@@ -101749,7 +101749,7 @@ use_preset_vocabulary: false
 黑太陽	hz;ad tl;dd yh;ey
 黑奈	hz;ad nl;du
 黑奈梅	hz;ad nl;du mz;mm
-黑奈梅菲斯特費勒斯辛那蒙羅爾	hz;ad nl;du mz;mm fz;cf si;jq te;ns fz;bf lz;lg si;jq xn;lu na;el mg;cm lo;sv er;ay
+黑奈梅菲斯特費勒斯辛那蒙羅爾	hz;ad nl;du mz;mm fz;cf si;jq te;ns fz;bf le;lg si;jq xn;lu na;el mg;cm lo;sv er;ay
 黑妖晶	hz;ad yk;ny jy;oo
 黑妻綿流	hz;ad qi;na mm;sb lq;di
 黑姬	hz;ad ji;ni

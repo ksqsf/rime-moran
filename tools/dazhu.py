@@ -85,19 +85,23 @@ def main(args):
     with open(args.dict, 'r') as f:
         deferred = []
         for l in f:
-            matches = re.findall(r'^([^\t\]+)\t([a-z;]+)\t?([a-z]+)?', l)
-            if matches:
-                word, code, stem = matches[0]
-                if stem:
-                    # stem should be added at the end of the list of codes of this char
-                    deferred.append((word, stem))
-            else:
-                matches = re.findall(r'^\w+$', l)
-                if not matches: continue
-                word = matches[0]
-                code = None
-            word = cc.convert(word)
-            table.add(word, code)
+            l = l.rstrip("\n")
+            try:
+                matches = re.findall(r'^([^\t]+)\t([a-z;]+)\t?([a-z]+)?', l)
+                if matches:
+                    word, code, stem = matches[0]
+                    if stem:
+                        # stem should be added at the end of the list of codes of this char
+                        deferred.append((word, stem))
+                else:
+                    matches = re.findall(r'^\w+$', l)
+                    if not matches: continue
+                    word = matches[0]
+                    code = None
+                word = cc.convert(word)
+                table.add(word, code)
+            except ValueError:
+                print("Error reading line: " + l)
         for (word, stem) in deferred:
             table.add(word, stem)
 
