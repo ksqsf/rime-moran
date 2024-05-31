@@ -39,6 +39,8 @@ switches:
     states: [ 🈚, 🈶 ]
   - name: chaifen
     states: [ 不拆, 扌斥 ]
+  - name: pinyinhint
+    states: [ 🕩, 🕪 ]
   - name: unicode_comment
     states: [ U關, U開 ]
   - options: [ std_opencc,  std_tw, std_hk, std_dzing ]
@@ -84,6 +86,7 @@ engine:
     - lua_filter@*moran_quick_code_hint
     - simplifier@emoji
     - simplifier@chaifen
+    - simplifier@pinyinhint
     - simplifier@std_hk
     - simplifier@std_tw
     - simplifier@std_dzing
@@ -165,6 +168,12 @@ chaifen:
   show_in_comment: true
   comment_form:
     - "xform/-/ /"
+
+pinyinhint:
+  option_name: pinyinhint
+  opencc_config: moran_pinyinhint.json
+  tips: char
+  show_in_comment: true
 
 emoji:
   opencc_config: moran_emoji.json
