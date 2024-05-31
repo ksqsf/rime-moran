@@ -40,7 +40,7 @@ switches:
   - name: chaifen
     states: [ 不拆, 扌斥 ]
   - name: pinyinhint
-    states: [ 🕩, 🕪 ]
+    states: [ 🔇, 🔊 ]
   - name: unicode_comment
     states: [ U關, U開 ]
   - options: [ std_opencc,  std_tw, std_hk, std_dzing ]
