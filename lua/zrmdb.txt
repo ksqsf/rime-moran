@@ -7737,6 +7737,7 @@
 儿 pg
 兀 ae
 兀 ag
+兀 wu
 允 se
 兂 ag
 元 aw
@@ -11795,8 +11796,8 @@
 巵 ba
 巵 pb
 巶 sv
-巷 gs
 巷 sg
+巷 gs
 巸 is
 巸 si
 巹 ji
@@ -32689,9 +32690,6 @@
 裏 wy
 裏 yl
 隣 el
-兀 ae
-兀 ag
-兀 wu
 嗀 uk
 﨎 yv
 﨏 tg
