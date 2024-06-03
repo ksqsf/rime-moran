@@ -4257,6 +4257,7 @@ encoder:
 保温杯	bwb
 半文半白	bwbb
 不温不火	bwbh
+不瘟不火	bwbh
 霸王别姬	bwbj
 百闻不如一见	bwbj
 不闻不问	bwbw
@@ -7079,6 +7080,7 @@ encoder:
 大爷	daye
 大业	daye
 大洋	dayh
+打烊	dayh
 褡	dayh
 大意	dayi
 大雁	dayj
@@ -16576,12 +16578,12 @@ encoder:
 孤残	gucj
 谷草	guck
 更上层楼	gucl
-滑	gud
+沽	gud
 骨雕	gudc
 根深蒂固	gudg
-沽	gudg
 涸	gudg
 瀔	gudg
+沽	gudg
 鼓荡	gudh
 故地	gudi
 孤单	gudj
@@ -26404,6 +26406,7 @@ encoder:
 见鬼	jmgv
 见怪	jmgy
 煎	jmh
+加密货币	jmhb
 建行	jmhh
 减号	jmhk
 见好	jmhk
@@ -47978,6 +47981,7 @@ encoder:
 耸了耸肩	slsj
 算了算了	slsl
 三老四严	slsy
+塞	slt
 死里逃生	sltu
 赛艇	slty
 塞上	sluh
