@@ -11971,8 +11971,8 @@
 干 aa
 平 aa
 平 gb
-年 pa
 年 ra
+年 pa
 幵 gg
 并 bk
 并 qc
@@ -18080,8 +18080,8 @@
 煭 dd
 煭 dl
 煭 il
-煮 dv
 煮 hv
+煮 dv
 煯 hj
 煰 hp
 煱 hg
