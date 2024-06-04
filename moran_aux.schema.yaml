@@ -59,6 +59,7 @@ engine:
   filters:
     #- lua_filter@*moran_aux_hint           # 輔助碼提示需要去掉本行開頭的 # 符號
     - lua_filter@*moran_charset_filter     # 字集過濾需要去掉本行開頭的 # 符號
+    - lua_filter@*moran_fix_filter
     - simplifier
     - simplifier@emoji
     - simplifier@std_tw
@@ -153,6 +154,13 @@ recognizer:
   patterns:
     reverse_lookup: "^`[a-z]*'?$"
     punct: '^/([0-9]0?|[A-Za-z]+)$'
+
+moran:
+  quick_code_indicator: "⚡"
+  fix:
+    d: 的
+    l: 了
+    j: 就
 
 # 默認啓用語言模型
 __include: moran:/octagram/enable_for_sentence

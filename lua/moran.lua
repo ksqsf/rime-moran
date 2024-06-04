@@ -18,6 +18,17 @@ function Module.load_zrmdb()
    return aux_table
 end
 
+function Module.iter_translation(xlation)
+   local nxt, thisobj = xlation:iter()
+   return function()
+      local cand = nxt(thisobj)
+      if cand == nil then
+         return nil
+      end
+      return cand
+   end
+end
+
 -- |Returns a stateful iterator of Candidates.
 --
 -- 'transform' can be optionally provided to do post-process.
