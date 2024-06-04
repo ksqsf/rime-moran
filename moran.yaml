@@ -37,7 +37,7 @@ algebra:
       - derive/^(.+);(\w)(\w)$/$1/      # 構詞可以用 YY
       # ZRM-SPECIFIC: 特殊優化：部分音節字極少，幾乎不參與構詞，則提升對應四碼字的優先級
       # ZRM-SPECIFIC: （僅對自然碼雙拼有效，其他雙拼方案需作對應修改）
-      - derive/^(.+);(bd|dw|df|dw|yl|rw)$/$1$2/  # ZRM-SPECIFIC
+      - derive/^(.+);(bd|dw|df|dw|yl|rw|fs)$/$1$2/  # ZRM-SPECIFIC
       - erase/^(.+);(.+)$/              # 刪除原始編碼以加速檢索
 
 key_bindings:
@@ -101,8 +101,8 @@ octagram:
   enable_for_sentence:
     __patch:
       grammar:
-        language: zh-hant-t-essay-bgw
-        #language: zh-hant-t-huayu-bgw
+        # language: zh-hant-t-essay-bgw
+        language: zh-hant-t-huayu-bgw
         collocation_max_length: 4
         collocation_min_length: 2
   enable_for_fixed:
