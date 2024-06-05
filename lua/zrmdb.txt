@@ -6974,8 +6974,8 @@
 产 li
 产 wp
 亨 wl
-亨 dl
 亨 lk
+亨 dl
 亩 wt
 亩 dt
 亪 yy
@@ -7700,7 +7700,6 @@
 儤 rb
 儥 rm
 儦 rb
-儦 rd
 儦 rh
 儧 rz
 儨 rv
@@ -7960,7 +7959,6 @@
 凜 db
 凜 dh
 凝 dy
-凞 dd
 凞 dh
 凞 dx
 凟 dm
@@ -8317,7 +8315,6 @@
 勱 lw
 勲 dd
 勲 hd
-勳 ld
 勳 lh
 勳 lx
 勴 ll
@@ -8442,8 +8439,8 @@
 卑 pa
 卑 up
 卒 wu
-卒 du
 卒 uc
+卒 du
 卓 bu
 卓 uo
 協 ul
@@ -8904,8 +8901,8 @@
 咾 kl
 咿 ky
 哀 wy
-哀 dy
 哀 yk
+哀 dy
 品 kk
 哂 kx
 哃 kt
@@ -9172,9 +9169,7 @@
 喠 kv
 喡 kw
 喢 ki
-喣 dj
 喣 hj
-喣 kd
 喣 kh
 喤 kh
 喥 kd
@@ -11158,7 +11153,6 @@
 寨 bm
 審 bf
 寪 bw
-寫 bd
 寫 bh
 寬 bd
 寬 bj
@@ -11857,8 +11851,8 @@
 帜 jv
 帝 jb
 帝 wj
-帝 dj
 帝 lj
+帝 dj
 帞 jb
 帟 jy
 帟 yj
@@ -12053,7 +12047,6 @@
 庴 gx
 庵 gd
 庵 gy
-庶 gd
 庶 gh
 康 gl
 庸 ga
@@ -12080,7 +12073,6 @@
 廉 gj
 廊 gl
 廋 gs
-廌 gd
 廌 gh
 廍 gb
 廎 gq
@@ -13862,7 +13854,6 @@
 摪 fj
 摫 fg
 摬 fj
-摭 fd
 摭 fh
 摭 fu
 摮 ua
@@ -14352,8 +14343,8 @@
 斿 fz
 旀 fx
 旁 wf
-旁 df
 旁 lf
+旁 df
 旂 fj
 旃 fd
 旄 fm
@@ -14894,9 +14885,7 @@
 杮 mj
 杯 mb
 杰 hm
-杰 md
 杰 mh
-杰 dm
 東 ad
 東 mo
 杲 om
@@ -15651,7 +15640,6 @@
 槮 mc
 槯 mc
 槰 mf
-槱 md
 槱 mh
 槲 mh
 槳 mj
@@ -17375,7 +17363,6 @@
 潝 dx
 潝 dy
 潞 dl
-潟 dd
 潟 dh
 潠 dg
 潡 dd
@@ -17597,7 +17584,6 @@
 瀇 dg
 瀈 dh
 瀈 dj
-瀉 dd
 瀉 dh
 瀉 dx
 瀊 dm
@@ -17660,7 +17646,6 @@
 瀱 dy
 瀲 dl
 瀲 dw
-瀳 dd
 瀳 dh
 瀳 dj
 瀴 dy
@@ -17777,8 +17762,6 @@
 炀 hy
 炁 hg
 炁 hw
-炁 dg
-炁 dw
 炂 hg
 炃 hf
 炄 hi
@@ -17830,7 +17813,6 @@
 炭 uh
 炮 hb
 炯 hk
-炰 db
 炰 hb
 炱 ht
 炱 sh
@@ -17841,9 +17823,7 @@
 炶 hv
 炷 hv
 炸 hv
-点 dv
 点 hv
-為 dd
 為 dh
 炻 hu
 炼 hd
@@ -17860,17 +17840,14 @@
 烅 hx
 烆 hx
 烇 hq
-烈 dl
 烈 hl
 烉 dh
 烉 hb
 烊 hy
 烋 hx
-烋 dx
 烌 hx
 烍 hx
 烎 hk
-烏 pd
 烏 ph
 烐 hv
 烑 hv
@@ -17892,7 +17869,6 @@
 烛 hi
 烜 hg
 烝 hi
-烝 di
 烞 hp
 烟 hy
 烠 hy
@@ -17909,7 +17885,6 @@
 烫 ht
 烬 hj
 热 hv
-热 dv
 烮 hl
 烯 hx
 烰 hf
@@ -17924,7 +17899,6 @@
 烷 hw
 烸 hm
 烹 hh
-烹 dh
 烺 hl
 烻 hy
 烼 hu
@@ -17937,13 +17911,11 @@
 焂 hy
 焃 hi
 焄 hj
-焄 dj
 焅 hg
 焆 ho
 焆 hy
 焇 hx
 焈 hs
-焉 vd
 焉 vh
 焊 hh
 焋 hv
@@ -17986,9 +17958,7 @@
 焤 hf
 焥 hw
 焦 hv
-焦 dv
 焦 vh
-焦 vd
 焧 hx
 焨 ho
 焩 hp
@@ -18010,7 +17980,6 @@
 焴 hy
 焵 hg
 然 hq
-然 dq
 焷 hb
 焸 ho
 焹 hw
@@ -18035,7 +18004,6 @@
 煌 hh
 煍 hq
 煎 hq
-煎 dq
 煏 hf
 煏 ht
 煐 hy
@@ -18044,7 +18012,6 @@
 煓 he
 煔 yv
 煕 hs
-煕 ds
 煖 hy
 煗 hd
 煘 hx
@@ -18056,7 +18023,6 @@
 煜 hy
 煝 hm
 煞 hw
-煞 dw
 煟 hw
 煠 hm
 煡 hj
@@ -18066,9 +18032,7 @@
 煤 hm
 煥 hd
 煥 hh
-煦 dx
 煦 hx
-照 dv
 照 hv
 煨 hw
 煩 hy
@@ -18081,7 +18045,6 @@
 煭 dl
 煭 il
 煮 hv
-煮 dv
 煯 hj
 煰 hp
 煱 hg
@@ -18118,14 +18081,12 @@
 熈 hs
 熈 ds
 熉 hy
-熊 dn
 熊 hn
 熋 hn
 熌 hu
 熍 hg
 熎 hf
 熏 ha
-熏 da
 熏 ph
 熐 hl
 熐 hm
@@ -18139,7 +18100,6 @@
 熗 hc
 熘 hl
 熙 hs
-熙 ds
 熚 hb
 熛 hp
 熜 hc
@@ -18147,7 +18107,6 @@
 熝 hl
 熞 hj
 熟 hu
-熟 du
 熠 hb
 熡 hl
 熢 hf
@@ -18165,15 +18124,12 @@
 熫 hu
 熬 ha
 熬 hw
-熬 da
-熬 dw
 熭 hh
 熮 hl
 熮 hp
 熯 hh
 熰 hq
 熱 hv
-熱 dv
 熲 yh
 熳 hm
 熴 hk
@@ -18225,9 +18181,7 @@
 燓 yh
 燔 hf
 燕 ch
-燕 cd
 燕 hb
-燕 db
 燖 hx
 燗 hx
 燘 hm
@@ -18281,7 +18235,6 @@
 燼 hj
 燽 hu
 燾 hu
-燾 du
 燿 hd
 燿 hv
 爀 hh
@@ -18297,7 +18250,6 @@
 爈 hl
 爉 hl
 爊 hb
-爊 hd
 爊 hh
 爋 hd
 爋 hh
@@ -18336,8 +18288,6 @@
 爠 hv
 爡 hi
 爢 hm
-爢 dm
-爢 md
 爢 mh
 爣 hd
 爤 hj
@@ -18361,8 +18311,6 @@
 爯 vr
 爰 vy
 爱 vy
-爲 pd
-爲 vd
 爲 vh
 爳 lw
 爳 wl
@@ -19771,7 +19719,6 @@
 皪 bl
 皪 by
 皫 bb
-皫 bd
 皫 bh
 皬 bh
 皭 bj
@@ -19846,7 +19793,6 @@
 盟 mm
 盠 mt
 盠 mu
-盡 md
 盡 mh
 盡 ym
 盢 mq
@@ -20720,8 +20666,8 @@
 禹 pd
 禺 ad
 禺 od
-离 wl
 离 ws
+离 wl
 离 dl
 离 ds
 禼 bd
@@ -20834,8 +20780,8 @@
 稝 hp
 稞 hg
 稟 wh
-稟 dh
 稟 hh
+稟 dh
 稠 hv
 稡 hz
 稢 hh
@@ -20937,7 +20883,6 @@
 穬 hg
 穭 hl
 穮 hb
-穮 hd
 穮 hh
 穯 hh
 穰 hx
@@ -21441,7 +21386,6 @@
 篙 vg
 篚 vf
 篛 vr
-篜 vd
 篜 vh
 篜 vv
 篝 vg
@@ -22547,9 +22491,7 @@
 罱 sn
 署 sv
 罳 ss
-罴 db
 罴 hb
-罴 sd
 罴 sh
 罵 sm
 罶 sl
@@ -22590,7 +22532,6 @@
 羑 yj
 羒 yf
 羓 yb
-羔 dy
 羔 hy
 羔 yd
 羔 yh
@@ -23296,7 +23237,6 @@
 臓 oc
 臔 ox
 臕 ob
-臕 od
 臕 oh
 臖 ox
 臗 ok
@@ -23368,7 +23308,6 @@
 舂 jf
 舃 jd
 舃 jh
-舄 jd
 舄 jh
 舅 jn
 舆 ba
@@ -24174,9 +24113,7 @@
 蒶 cf
 蒷 cy
 蒸 hv
-蒸 cd
 蒸 ch
-蒸 dv
 蒹 cj
 蒺 cj
 蒻 cr
@@ -24471,7 +24408,6 @@
 薤 cj
 薥 ci
 薥 cu
-薦 cd
 薦 ch
 薦 cv
 薧 cs
@@ -24561,7 +24497,6 @@
 藦 cm
 藧 ch
 藨 cb
-藨 cd
 藨 ch
 藩 cf
 藩 cp
@@ -25446,8 +25381,8 @@
 袜 ym
 袝 yf
 袞 ly
-袞 yk
 袞 wy
+袞 yk
 袞 dy
 袟 yu
 袠 dy
@@ -25517,8 +25452,8 @@
 裐 yy
 裑 yu
 裒 wy
-裒 dy
 裒 yj
+裒 dy
 裓 yj
 裔 yk
 裕 yg
@@ -25569,8 +25504,8 @@
 裷 yj
 裸 yg
 裹 wy
-裹 dy
 裹 yg
+裹 dy
 裺 yd
 裺 yy
 裻 yu
@@ -27869,7 +27804,6 @@
 遬 zi
 遬 zw
 遭 zc
-遮 zd
 遮 zh
 遮 zu
 遯 zt
@@ -29064,7 +28998,6 @@
 鑡 ji
 鑢 jl
 鑣 jb
-鑣 jd
 鑣 jh
 鑤 jb
 鑥 jl
@@ -29751,7 +29684,6 @@
 隭 ex
 隮 eq
 隯 eu
-隰 ed
 隰 eh
 隱 ej
 隱 ex
@@ -30117,7 +30049,6 @@
 韈 gm
 韉 gj
 韉 gh
-韉 gd
 韊 gj
 韊 gl
 韋 aa
@@ -30707,7 +30638,6 @@
 馩 xb
 馪 xb
 馫 xx
-馬 ad
 馬 ah
 馭 my
 馮 dm
@@ -31218,7 +31148,6 @@
 魘 gq
 魘 ig
 魙 gj
-魚 dd
 魚 dh
 魛 yd
 魜 yr
@@ -31661,7 +31590,6 @@
 鳢 yl
 鳣 yd
 鳤 yg
-鳥 pd
 鳥 ph
 鳦 ny
 鳧 nj
@@ -32188,7 +32116,6 @@
 麁 dl
 麁 ld
 麂 lj
-麃 ld
 麃 lh
 麄 lf
 麅 lb
@@ -32289,9 +32216,7 @@
 黐 lu
 黑 ad
 黑 ha
-黒 ld
 黒 lh
-黒 dl
 黒 hl
 黓 hy
 黔 hj
@@ -32300,7 +32225,6 @@
 黖 hw
 黗 ht
 默 hq
-黙 dq
 黙 hq
 黚 hg
 黛 hd
@@ -32470,10 +32394,10 @@
 齊 de
 齊 dh
 齋 wu
-齋 ds
-齋 dx
 齋 qx
 齋 wx
+齋 ds
+齋 dx
 齌 hq
 齌 qh
 齌 wh
