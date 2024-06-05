@@ -199,8 +199,8 @@ function Module.aux_list(env, word)
    end
 
    -- First char & last char
-   f_aux_list = env.aux_table[first]
-   l_aux_list = env.aux_table[last]
+   local f_aux_list = env.aux_table[first]
+   local l_aux_list = env.aux_table[last]
 
    for i, f_aux in pairs(f_aux_list) do
       for j, l_aux in pairs(l_aux_list) do

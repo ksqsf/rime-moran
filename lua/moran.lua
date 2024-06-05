@@ -76,6 +76,7 @@ end
 -- | Returns a stateful iterator of each char in word.
 function Module.chars(word)
    local f, s, i = utf8.codes(word)
+   local value = nil
    return function()
       i, value = f(s, i)
       if i then

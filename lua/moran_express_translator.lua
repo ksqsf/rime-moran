@@ -136,7 +136,7 @@ function top.func(input, seg, env)
       local user_ac = input:sub(input_len, input_len)
       local iter = top.raw_query_smart(env, real_input, seg, true)
       for cand in iter do
-         idx = cand.comment:find(user_ac)
+         local idx = cand.comment:find(user_ac)
          if idx ~= nil and ((input_len == 5) or (input_len == 7 and idx ~= 1)) then
             cand._end = cand._end + 1
             cand.preedit = input
@@ -221,8 +221,8 @@ function top.output(env, cand)
       -- drain injected cands
       local cands = env.output_injected_secondary
       env.output_injected_secondary = {}
-      for i, cand in pairs(cands) do
-         top.output(env, cand)
+      for i, c in pairs(cands) do
+         top.output(env, c)
       end
    end
 end
