@@ -6975,7 +6975,6 @@
 产 wp
 亨 wl
 亨 lk
-亨 dl
 亩 wt
 亩 dt
 亪 yy
@@ -7806,8 +7805,8 @@
 公 sb
 公 bs
 六 wb
-六 db
 六 dd
+六 db
 兮 bk
 兯 be
 兰 bs
@@ -8440,7 +8439,6 @@
 卑 up
 卒 wu
 卒 uc
-卒 du
 卓 bu
 卓 uo
 協 ul
@@ -8902,7 +8900,6 @@
 咿 ky
 哀 wy
 哀 yk
-哀 dy
 品 kk
 哂 kx
 哃 kt
@@ -10278,8 +10275,6 @@
 夛 xa
 夜 wd
 夜 ww
-夜 dd
-夜 dw
 夝 xu
 夞 wi
 夞 xb
@@ -11807,7 +11802,6 @@
 帀 aj
 币 pj
 市 wj
-市 dj
 布 ju
 布 uj
 帄 jd
@@ -11852,7 +11846,6 @@
 帝 jb
 帝 wj
 帝 lj
-帝 dj
 帞 jb
 帟 jy
 帟 yj
@@ -14344,7 +14337,6 @@
 旀 fx
 旁 wf
 旁 lf
-旁 df
 旂 fj
 旃 fd
 旄 fm
@@ -18729,11 +18721,9 @@
 玃 qj
 玃 qy
 玄 wy
-玄 dy
 玅 xu
 玆 xx
 率 wu
-率 du
 玈 xp
 玉 ad
 玉 wd
@@ -20668,8 +20658,6 @@
 禺 od
 离 ws
 离 wl
-离 dl
-离 ds
 禼 bd
 禼 br
 禼 sd
@@ -20781,7 +20769,6 @@
 稞 hg
 稟 wh
 稟 hh
-稟 dh
 稠 hv
 稡 hz
 稢 hh
@@ -23149,7 +23136,6 @@
 膏 og
 膏 ok
 膏 wo
-膏 do
 膐 rl
 膑 ob
 膒 oq
@@ -25383,7 +25369,6 @@
 袞 ly
 袞 wy
 袞 yk
-袞 dy
 袟 yu
 袠 dy
 袠 wy
@@ -25453,7 +25438,6 @@
 裑 yu
 裒 wy
 裒 yj
-裒 dy
 裓 yj
 裔 yk
 裕 yg
@@ -25505,7 +25489,6 @@
 裸 yg
 裹 wy
 裹 yg
-裹 dy
 裺 yd
 裺 yy
 裻 yu
@@ -29732,7 +29715,6 @@
 雋 vg
 雌 vc
 雍 wv
-雍 dv
 雎 qv
 雎 vq
 雏 iv
@@ -30986,9 +30968,7 @@
 髖 gk
 髗 gl
 高 wk
-高 dk
 髙 wk
-髙 dk
 髚 gk
 髛 gj
 髛 gk
@@ -32391,13 +32371,9 @@
 齈 bn
 齉 bn
 齊 we
-齊 de
-齊 dh
+齋 wx
 齋 wu
 齋 qx
-齋 wx
-齋 ds
-齋 dx
 齌 hq
 齌 qh
 齌 wh

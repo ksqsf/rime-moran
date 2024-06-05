@@ -577,10 +577,8 @@ use_preset_vocabulary: false
 产	ij;wp	0
 亨	hg;wl	1175
 亨	hg;lk	1175
-亨	hg;dl	1175
 亨	pg;wl	0
 亨	pg;lk	0
-亨	pg;dl	0
 亩	mu;wt	0
 亩	mu;dt	0
 亪	ye;yy	320
@@ -1638,7 +1636,6 @@ use_preset_vocabulary: false
 公	gs;sb	5893
 公	gs;bs	5893
 六	lq;wb	9020
-六	lq;db	9020
 六	lq;dd	9020
 六	lu;wb	10
 六	lu;db	10
@@ -2408,10 +2405,8 @@ use_preset_vocabulary: false
 卑	bz;up	1164
 卒	cu;wu	21
 卒	cu;uc	21
-卒	cu;du	21
 卒	zu;wu	1058
 卒	zu;uc	1058
-卒	zu;du	1058
 卓	vo;bu	2133
 卓	vo;uo	2133
 協	xx;ul	1682
@@ -3084,7 +3079,6 @@ use_preset_vocabulary: false
 咿	yi;ky	693
 哀	ai;wy	1290
 哀	ai;yk	1290
-哀	ai;dy	1290
 品	pn;kk	5638
 哂	uf;kx	641
 哃	ts;kt	570
@@ -4874,8 +4868,6 @@ use_preset_vocabulary: false
 夛	do;xa	466
 夜	ye;wd	6027
 夜	ye;ww	6027
-夜	ye;dd	6027
-夜	ye;dw	6027
 夝	qy;xu	341
 夞	wl;wi	0
 夞	wl;xb	0
@@ -6806,7 +6798,6 @@ use_preset_vocabulary: false
 币	bi;pj	10
 币	yn;pj	10
 市	ui;wj	19057
-市	ui;dj	0
 布	bu;ju	5026
 布	bu;uj	5026
 帄	dy;jd	277
@@ -6854,7 +6845,6 @@ use_preset_vocabulary: false
 帝	di;jb	2524
 帝	di;wj	2524
 帝	di;lj	2524
-帝	di;dj	2524
 帞	pa;jb	422
 帟	yi;jy	325
 帟	yi;yj	325
@@ -10123,10 +10113,8 @@ use_preset_vocabulary: false
 旀	mx;fx	444
 旁	bh;wf	8
 旁	bh;lf	8
-旁	bh;df	8
 旁	ph;wf	3315
 旁	ph;lf	3315
-旁	ph;df	3315
 旂	qi;fj	492
 旃	dj;fd	604
 旃	vj;fd	604
@@ -15619,18 +15607,13 @@ use_preset_vocabulary: false
 玃	jt;qj	317
 玃	jt;qy	317
 玄	xr;wy	2418
-玄	xr;dy	0
 玄	xm;wy	0
-玄	xm;dy	0
 玅	mc;xu	118
 玅	xr;xu	118
 玆	zi;xx	114
 率	lv;wu	7080
 率	uo;wu	0
 率	uy;wu	452
-率	lv;du	7080
-率	uo;du	0
-率	uy;du	452
 玈	lu;xp	337
 玉	yu;ad	6500
 玉	yu;wd	6500
@@ -18082,10 +18065,6 @@ use_preset_vocabulary: false
 离	ii;wl	130
 离	li;ws	130
 离	li;wl	130
-离	ii;dl	0
-离	ii;ds	0
-离	li;dl	0
-离	li;ds	0
 禼	xx;bd	0
 禼	xx;br	0
 禼	xx;sd	0
@@ -18217,9 +18196,6 @@ use_preset_vocabulary: false
 稟	bn;hh	726
 稟	by;hh	726
 稟	ln;hh	726
-稟	ln;dh	726
-稟	bn;dh	726
-稟	by;dh	726
 稠	ib;hv	1001
 稡	zu;hz	278
 稢	yu;hh	263
@@ -21110,7 +21086,6 @@ use_preset_vocabulary: false
 膏	gk;og	1477
 膏	gk;ok	1477
 膏	gk;wo	1477
-膏	gk;do	1477
 膐	lv;rl	233
 膑	bn;ob	0
 膒	ou;oq	286
@@ -23937,7 +23912,6 @@ use_preset_vocabulary: false
 袞	gp;ly	593
 袞	gp;wy	593
 袞	gp;yk	593
-袞	gp;dy	593
 袟	vi;yu	326
 袠	vi;dy	370
 袠	vi;wy	370
@@ -24033,7 +24007,6 @@ use_preset_vocabulary: false
 裑	uf;yu	590
 裒	pb;wy	453
 裒	pb;yj	453
-裒	pb;dy	453
 裓	ge;yj	359
 裔	yi;yk	963
 裕	yu;yg	1394
@@ -24110,7 +24083,6 @@ use_preset_vocabulary: false
 裸	lo;yg	1565
 裹	go;wy	1207
 裹	go;yg	1207
-裹	go;dy	1207
 裺	yj;yd	294
 裺	yj;yy	294
 裻	du;yu	227
@@ -29355,7 +29327,6 @@ use_preset_vocabulary: false
 雋	jr;vg	281
 雌	ci;vc	1058
 雍	ys;wv	1002
-雍	ys;dv	1002
 雎	ju;qv	601
 雎	ju;vq	601
 雎	sv;qv	601
@@ -30864,9 +30835,7 @@ use_preset_vocabulary: false
 髖	kr;gk	676
 髗	lu;gl	272
 高	gk;wk	46097
-高	gk;dk	46097
 髙	gk;wk	561
-髙	gk;dk	561
 髚	qc;gk	167
 髛	kk;gj	184
 髛	kk;gk	184
@@ -32526,19 +32495,9 @@ use_preset_vocabulary: false
 齊	qi;we	4998
 齊	vl;we	0
 齊	zi;we	0
-齊	ji;de	0
-齊	ji;dh	0
-齊	qi;de	499
-齊	qi;dh	499
-齊	vl;de	0
-齊	vl;dh	0
-齊	zi;de	0
-齊	zi;dh	0
+齋	vl;wx	1522
 齋	vl;wu	1522
 齋	vl;qx	1522
-齋	vl;wx	1522
-齋	vl;ds	1522
-齋	vl;dx	1522
 齌	ji;hq	322
 齌	ji;qh	322
 齌	ji;wh	322
