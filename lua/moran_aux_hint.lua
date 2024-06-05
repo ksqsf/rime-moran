@@ -1,3 +1,15 @@
+-- Matrix of aux_hint and qc_hint
+--        | qc=t   |   qc=f
+-- -------+--------|----------
+-- aux=t  | q&a    |   &a
+-- aux=f  |  &q    |   &
+--
+-- aux_hint MUST be placed before qc_hint
+-- aux_hint will always prepend aux to the current comment
+-- then qc will decide how to place itself
+--
+-- assume that after aux_hint, the `&a` part will be ready.
+
 local moran = require("moran")
 local Module = {}
 
@@ -35,7 +47,7 @@ function Module.func(translation, env)
 
       local codes = env.aux_table[cand_text]
       if codes ~= nil then
-         cand:get_genuine().comment = table.concat(codes, " ")
+         cand:get_genuine().comment = cand:get_genuine().comment .. table.concat(codes, " ")
       end
       yield(cand)
 
