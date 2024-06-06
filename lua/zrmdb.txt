@@ -6964,9 +6964,8 @@
 交 li
 交 wf
 交 df
-亥 dd
-亥 dr
 亥 wr
+亥 dd
 亦 wb
 亦 wy
 亦 dd
@@ -6976,18 +6975,14 @@
 亨 wl
 亨 lk
 亩 wt
-亩 dt
 亪 yy
-享 dz
 享 wz
 享 zk
 京 wx
-京 dx
 亭 wd
 亭 db
 亭 dd
 亮 wj
-亮 dj
 亮 jb
 亯 dr
 亯 wo
@@ -6996,22 +6991,17 @@
 亱 dd
 亱 wd
 亲 lm
-亳 dq
-亳 dt
 亳 wq
 亳 wt
 亴 dj
 亴 wj
-亵 dy
 亵 wy
 亵 yv
 亶 wd
-亶 dd
 亷 ij
 亷 lj
 亸 dx
 亸 xd
-亹 dq
 亹 wq
 人 pd
 亻 rf
@@ -7775,7 +7765,6 @@
 兖 we
 兗 lx
 兗 wx
-兗 dx
 兘 yt
 兙 ku
 党 xx
@@ -12141,7 +12130,6 @@
 异 cs
 异 sc
 弃 cw
-弃 dc
 弃 wc
 弄 cw
 弄 wc
@@ -14324,10 +14312,9 @@
 斸 ji
 斸 ju
 方 dg
-方 dd
+方 wd
 方 dp
 方 dw
-方 wd
 斺 fj
 斻 fj
 於 fd
@@ -15260,8 +15247,6 @@
 棁 md
 棂 ml
 棃 md
-棄 dd
-棄 dm
 棄 wd
 棄 wm
 棅 mb
@@ -16293,7 +16278,6 @@
 毪 mm
 毪 mn
 毫 mb
-毫 dm
 毫 wm
 毬 mq
 毭 dm
@@ -18395,7 +18379,6 @@
 牼 ng
 牼 nj
 牽 ns
-牽 dn
 牽 wn
 牾 nw
 牿 ng
@@ -19291,7 +19274,6 @@
 畚 sf
 畛 tp
 畜 tx
-畜 dt
 畜 wt
 畝 jm
 畝 mj
@@ -25310,7 +25292,6 @@
 衮 dy
 衯 yf
 衰 yv
-衰 dy
 衰 wy
 衱 yj
 衲 yn
@@ -25323,9 +25304,9 @@
 衷 yv
 衸 yj
 衹 yu
-衺 dy
 衺 wy
 衺 yy
+衺 dy
 衻 ya
 衻 ye
 衻 yr
@@ -25370,14 +25351,12 @@
 袞 wy
 袞 yk
 袟 yu
-袠 dy
 袠 wy
 袠 yu
 袡 yr
 袢 yb
 袣 yu
 袤 ym
-袤 dy
 袤 wy
 袥 yu
 袦 yi
@@ -25430,7 +25409,6 @@
 裌 yj
 裍 yk
 裎 yi
-裏 dy
 裏 wy
 裏 yl
 裐 yo
@@ -25446,7 +25424,6 @@
 裘 yq
 裙 yj
 裚 yv
-裛 dy
 裛 wy
 裛 yb
 裛 yy
@@ -25554,7 +25531,6 @@
 褪 yt
 褫 yh
 褬 ys
-褭 dy
 褭 wy
 褭 ym
 褮 hy
@@ -25562,7 +25538,6 @@
 褯 yx
 褰 by
 褰 yb
-褱 dy
 褱 wy
 褱 yu
 褲 yk
@@ -25576,7 +25551,6 @@
 褸 yl
 褹 yv
 褺 yv
-褻 dy
 褻 wy
 褻 yv
 褼 ys
@@ -25589,7 +25563,6 @@
 襃 dy
 襃 wy
 襃 yd
-襄 dy
 襄 wy
 襄 ya
 襅 yb
@@ -26548,7 +26521,6 @@
 豨 ux
 豩 uu
 豪 ub
-豪 du
 豪 wu
 豫 yx
 豬 uv
