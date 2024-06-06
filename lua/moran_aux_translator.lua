@@ -10,12 +10,17 @@
 --
 -- 0.1.0: 實作。
 
+-- Test cases:
+-- 1. fal -> 乏了
+-- 2. fan -> 姂
+-- 3. mzhwr -> 美化
+-- 4. vshwd -> 种花的
+
 local moran = require("moran")
 local Module = {}
 Module.PREFETCH_THRESHOLD = 50
 
 function Module.init(env)
-   collectgarbage("setpause", 110)
    env.aux_table = moran.load_zrmdb()
    env.translator = Component.Translator(env.engine, "", "script_translator@translator")
 
@@ -72,8 +77,17 @@ function Module.func(input, seg, env)
       local sp = input:sub(1, input_len-1)
       local aux = input:sub(input_len, input_len)
       local iter = Module.translate_with_aux(env, seg, sp, aux)
-      for cand in iter do
-         yield(cand)
+      local char_cand = iter()
+      if char_cand.comment ~= "" then
+         yield(char_cand)
+         for cand in iter do
+            yield(cand)
+         end
+      else
+         local second_iter = Module.translate_without_aux(env, seg, input)
+         for cand in second_iter do
+            yield(cand)
+         end
       end
    elseif input_len % 2 == 0 then
       local first_iter = Module.translate_without_aux(env, seg, input)
