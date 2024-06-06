@@ -2,11 +2,17 @@
 --
 -- Author: ksqsf
 -- License: GPLv3
--- Version: 0.1.0
+-- Version: 0.1.2
+--
+-- 0.1.2：句子優先，避免輸入過程中首選長度大幅波動。一定程度上提高性能。
+--
+-- 0.1.1：三碼優先單字。
+--
+-- 0.1.0: 實作。
 
 local moran = require("moran")
 local Module = {}
-Module.PREFETCH_THRESHOLD = 12
+Module.PREFETCH_THRESHOLD = 50
 
 function Module.init(env)
    collectgarbage("setpause", 110)
@@ -71,26 +77,55 @@ function Module.func(input, seg, env)
       end
    elseif input_len % 2 == 0 then
       local first_iter = Module.translate_without_aux(env, seg, input)
+      local first_cand = first_iter()
+      if first_cand then
+         yield(first_cand)
+      end
 
       local sp = input:sub(1, input_len-2)
       local aux = input:sub(input_len-1, input_len)
       local second_iter = Module.translate_with_aux(env, seg, sp, aux)
+      local second_cand = second_iter()
+      if second_cand then
+         -- drop the sentence candidate which is too similar to first_cand
+         if second_cand.type ~= "sentence" then
+            yield(second_cand)
+         end
+      end
 
-      local iter = Module.merge_candidates(first_iter, second_iter)
-      -- iter = Module.prioritize_sentence(iter)
-      for cand in iter do
+      for cand in second_iter do
          yield(cand)
       end
    else  -- input_len >= 5
       local first_iter = Module.translate_without_aux(env, seg, input)
+      local first_cand = first_iter()
 
       local sp = input:sub(1, input_len-1)
       local aux = input:sub(input_len, input_len)
       local second_iter = Module.translate_with_aux(env, seg, sp, aux)
+      local second_cand = second_iter()
+      if second_cand then
+         local typ = second_cand.type
+         local second_len = utf8.len(second_cand.text)
+         local second_is_lifted = second_cand.comment ~= ""
+         -- this is a lifted word, drop first_cand then.
+         if (typ == "phrase" or typ == "user_phrase") and second_len > 1 and second_is_lifted then
+            yield(second_cand)
+         else
+            if first_cand then
+               yield(first_cand)
+            end
+            if typ ~= "sentence" then
+               yield(second_cand)
+            end
+         end
+      else
+         if first_cand then
+            yield(first_cand)
+         end
+      end
 
-      local iter = Module.merge_candidates(first_iter, second_iter)
-      -- iter = Module.prioritize_sentence(iter)
-      for cand in iter do
+      for cand in second_iter do
          yield(cand)
       end
    end
@@ -143,29 +178,6 @@ function Module.translate_without_aux(env, seg, sp)
    end
 end
 
-function Module.prioritize_sentence(env, iter)
-   return iter
-   -- local pred = function(cand)
-   --    return cand.type == "sentence"
-   -- end
-   -- local init, sentence_cand = moran.iter_find_first(iter, pred, Module.PREFETCH_THRESHOLD)
-
-   -- if sentence_cand ~= nil then
-   --    return moran.iter_compose(
-   --       moran.iter_singleton(sentence_cand),
-   --       moran.iter_compose(
-   --          moran.iter_table(init),
-   --          iter
-   --       )
-   --    )
-   -- else
-   --    return moran.iter_compose(
-   --       moran.iter_table(init),
-   --       iter
-   --    )
-   -- end
-end
-
 function Module.candidate_match(env, cand, aux)
    if not (cand.type == "phrase" or cand.type == "user_phrase") then
       return false
@@ -213,52 +225,54 @@ function Module.aux_list(env, word)
    return aux_list
 end
 
-function Module.merge_candidates(iter, jter)
-   local i, iaux = iter()
-   local j, jaux = jter()
-   local function advance_i(value)
-      --log.error("i " .. value.text .. "  " .. tostring(value:get_genuine().quality) .. " " .. value.comment)
-      i, iaux = iter()
-      return value
-   end
-   local function advance_j(value)
-      --log.error("j " .. value.text .. "  " .. tostring(value:get_genuine().quality) .. " " .. value.comment)
-      j, jaux = jter()
-      return value
-   end
-   return function()
-      if i == nil then return advance_j(j) end
-      if j == nil then return advance_i(i) end
-      if iaux ~= nil and jaux == nil then
-         if utf8.len(i.text) ~= 1 then
-            return advance_i(i)
-         else
-            if j:get_genuine().quality > i:get_genuine().quality then
-               return advance_j(j)
-            else
-               return advance_i(i)
-            end
-         end
-      elseif iaux == nil and jaux ~= nil then
-         if utf8.len(j.text) ~= 1 then
-            return advance_j(j)
-         else
-            if i:get_genuine().quality > j:get_genuine().quality then
-               return advance_i(i)
-            else
-               return advance_j(j)
-            end
-         end
-      elseif utf8.len(i:get_genuine().text) > utf8.len(j:get_genuine().text) then
-         return advance_i(i)
-      elseif utf8.len(j:get_genuine().text) > utf8.len(i:get_genuine().text) then
-         return advance_j(j)
-      elseif i:get_genuine().quality > j:get_genuine().quality then
-         return advance_i(i)
-      else
-         return advance_j(j)
-      end
-   end
-end
+-- Not used currently. Kept for reservation.
+--
+-- function Module.merge_candidates(iter, jter)
+--    local i, iaux = iter()
+--    local j, jaux = jter()
+--    local function advance_i(value)
+--       --log.error("i " .. value.text .. "  " .. tostring(value:get_genuine().quality) .. " " .. value.comment)
+--       i, iaux = iter()
+--       return value
+--    end
+--    local function advance_j(value)
+--       --log.error("j " .. value.text .. "  " .. tostring(value:get_genuine().quality) .. " " .. value.comment)
+--       j, jaux = jter()
+--       return value
+--    end
+--    return function()
+--       if i == nil then return advance_j(j) end
+--       if j == nil then return advance_i(i) end
+--       if iaux ~= nil and jaux == nil then
+--          if utf8.len(i.text) ~= 1 then
+--             return advance_i(i)
+--          else
+--             if j:get_genuine().quality > i:get_genuine().quality then
+--                return advance_j(j)
+--             else
+--                return advance_i(i)
+--             end
+--          end
+--       elseif iaux == nil and jaux ~= nil then
+--          if utf8.len(j.text) ~= 1 then
+--             return advance_j(j)
+--          else
+--             if i:get_genuine().quality > j:get_genuine().quality then
+--                return advance_i(i)
+--             else
+--                return advance_j(j)
+--             end
+--          end
+--       elseif utf8.len(i:get_genuine().text) > utf8.len(j:get_genuine().text) then
+--          return advance_i(i)
+--       elseif utf8.len(j:get_genuine().text) > utf8.len(i:get_genuine().text) then
+--          return advance_j(j)
+--       elseif i:get_genuine().quality > j:get_genuine().quality then
+--          return advance_i(i)
+--       else
+--          return advance_j(j)
+--       end
+--    end
+-- end
 
 return Module
