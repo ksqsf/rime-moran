@@ -2848,6 +2848,7 @@ use_preset_vocabulary: false
 吵	ik;ku	3348
 吶	na;kn	2560
 吶	ne;kn	259
+吶	nz;kn	10
 吷	io;kd	424
 吷	io;kg	424
 吷	jt;kd	424
@@ -2895,6 +2896,7 @@ use_preset_vocabulary: false
 呏	ug;ku	339
 呐	na;kn	0
 呐	ne;kn	0
+呐	nz;kn	0
 呑	tp;ky	459
 呑	tp;yk	459
 呒	fu;kw	1
