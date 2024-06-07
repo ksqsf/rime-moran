@@ -82,8 +82,8 @@ engine:
   filters:
     - lua_filter@*moran_charset_filter
     - lua_filter@*moran_reorder_filter
-    - lua_filter@*moran_aux_hint
     - lua_filter@*moran_quick_code_hint
+    - lua_filter@*moran_aux_hint
     - simplifier@emoji
     - simplifier@chaifen
     - simplifier@pinyinhint

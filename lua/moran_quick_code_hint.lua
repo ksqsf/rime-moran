@@ -1,5 +1,3 @@
--- Please see also moran_aux_hint.lua
-
 local Module = {}
 
 function Module.init(env)
@@ -12,9 +10,7 @@ function Module.init(env)
    else
       env.quick_code_hint_reverse = nil
    end
-
    env.quick_code_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator")
-   env.enable_aux_hint = env.engine.schema.config:get_bool("moran/enable_aux_hint")
 end
 
 function Module.fini(env)
@@ -27,11 +23,6 @@ function Module.func(translation, env)
          yield(cand)
       end
       return
-   end
-
-   local separator = "⚡"
-   if env.quick_code_indicator ~= nil and env.quick_code_indicator ~= "" then
-      separator = ""
    end
 
    -- Look up if the "geniune" candidate is already in the qc dict
@@ -54,13 +45,14 @@ function Module.func(translation, env)
                goto continue
             end
             local codes_hint = table.concat(codes, " ")
-            if env.enable_aux_hint then
-               local comment = codes_hint .. separator .. gcand.comment
-               cand = ShadowCandidate(gcand, cand.type, word, comment)
+            local comment = ""
+            if gcand.comment == env.quick_code_indicator and env.quick_code_indicator ~= "" then
+               -- Avoid double ⚡
+               comment = gcand.comment .. codes_hint
             else
-               local comment = gcand.comment .. codes_hint
-               cand = ShadowCandidate(gcand, cand.type, word, comment)
+               comment = gcand.comment .. "⚡" .. codes_hint
             end
+            cand = ShadowCandidate(gcand, cand.type, word, comment)
          end
          ::continue::
          yield(cand)

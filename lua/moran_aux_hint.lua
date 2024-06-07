@@ -1,15 +1,3 @@
--- Matrix of aux_hint and qc_hint
---        | qc=t   |   qc=f
--- -------+--------|----------
--- aux=t  | q&a    |   &a
--- aux=f  |  &q    |   &
---
--- aux_hint MUST be placed before qc_hint
--- aux_hint will always prepend aux to the current comment
--- then qc will decide how to place itself
---
--- assume that after aux_hint, the `&a` part will be ready.
-
 local moran = require("moran")
 local Module = {}
 
@@ -37,19 +25,22 @@ function Module.func(translation, env)
 
    -- Retrieve aux codes from aux_table
    -- We use the 'genuine' candidate (before simplifier) here
-   for cand in translation:iter() do
-      local cand_text = cand:get_genuine().text
+   for gcand in translation:iter() do
+      local cand_text = gcand:get_genuine().text
       local cand_len = utf8.len(cand_text)
       if cand_len ~= 1 then
-         yield(cand)
+         yield(gcand)
          goto continue
       end
 
       local codes = env.aux_table[cand_text]
       if codes ~= nil then
-         cand:get_genuine().comment = cand:get_genuine().comment .. table.concat(codes, " ")
+         local comment = table.concat(codes, " ") .. gcand.comment
+         local cand = ShadowCandidate(gcand, gcand.type, cand_text, comment)
+         yield(cand)
+      else
+         yield(gcand)
       end
-      yield(cand)
 
       ::continue::
    end
