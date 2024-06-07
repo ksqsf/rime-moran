@@ -84,7 +84,7 @@ speller:
 
 translator:
   dictionary: moran.extended
-  prism: moran_sentence
+  prism: moran
   initial_quality: 5
   preedit_format:
     - xform/([a-z][a-z][a-z][a-z])o/$1°/
