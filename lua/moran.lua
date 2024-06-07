@@ -1,13 +1,18 @@
 local Module = {}
 
--- |Load zrmdb.txt bundled with the standard Moran distribution.
+---Load zrmdb.txt bundled with the standard Moran distribution.
+---@return table<integer,table<string>>
 function Module.load_zrmdb()
+   if Module.aux_table then
+      return Module.aux_table
+   end
    local aux_table = {}
    local pathsep = (package.config or '/'):sub(1, 1)
    local path = rime_api.get_user_data_dir() .. pathsep .. "lua" .. pathsep .. "zrmdb.txt"
    for line in io.open(path):lines() do
       line = line:match("[^\r\n]+")
       local key, value = line:match("(.+) (.+)")
+      key = utf8.codepoint(key)
       if key and value then
          if aux_table[key] == nil then
             aux_table[key] = {}
@@ -15,7 +20,8 @@ function Module.load_zrmdb()
          table.insert(aux_table[key], value)
       end
    end
-   return aux_table
+   Module.aux_table = aux_table
+   return Module.aux_table
 end
 
 function Module.iter_translation(xlation)

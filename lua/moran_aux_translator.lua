@@ -217,7 +217,7 @@ function Module.aux_list(env, word)
    local last = nil
 
    -- Single char
-   for i, c in moran.chars(word) do
+   for i, c in utf8.codes(word) do
       if not first then first = c end
       last = c
 
