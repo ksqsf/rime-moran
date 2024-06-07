@@ -110,7 +110,7 @@ function top.func(input, seg, env)
             end
          else
             for cand in fixed_res:iter() do
-               if utf8.len(cand.text) ~= 1 or env.quick_code_indicator_skip_chars == false then
+               if utf8.len(cand.text) ~= 1 or not env.quick_code_indicator_skip_chars then
                   cand.comment = indicator
                end
                top.output(env, cand)
