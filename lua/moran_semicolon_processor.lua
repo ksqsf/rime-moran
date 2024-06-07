@@ -2,7 +2,7 @@
 -- Synopsis: 選擇第二個首選項，但可用於跳過 emoji 濾鏡產生的候選
 -- Author: ksqsf
 -- License: MIT license
--- Version: 0.1.1
+-- Version: 0.1.2
 
 -- NOTE: This processor depends on, and thus should be placed before,
 -- the built-in "selector" processor.
@@ -27,6 +27,12 @@ local function processor(key_event, env)
 
    local segment = composition:back()
    local menu = segment.menu
+
+   -- Special case: if there is only one candidate, just select it!
+   if menu:candidate_count() == 1 then
+      env.engine:process_key(KeyEvent("1"))
+      return kAccepted
+   end
 
    -- If it is not the first page, simply send 2.
    local page_size = env.engine.schema.page_size
