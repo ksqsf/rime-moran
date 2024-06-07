@@ -25,21 +25,22 @@ function Module.func(translation, env)
 
    -- Retrieve aux codes from aux_table
    -- We use the 'genuine' candidate (before simplifier) here
-   for gcand in translation:iter() do
-      local cand_text = gcand:get_genuine().text
+   for cand in translation:iter() do
+      local gcand = cand:get_genuine()
+      local cand_text = cand.text
       local cand_len = utf8.len(cand_text)
       if cand_len ~= 1 then
-         yield(gcand)
+         yield(cand)
          goto continue
       end
 
       local codes = env.aux_table[cand_text]
       if codes ~= nil then
          local comment = table.concat(codes, " ") .. gcand.comment
-         local cand = ShadowCandidate(gcand, gcand.type, cand_text, comment)
+         gcand.comment = comment
          yield(cand)
       else
-         yield(gcand)
+         yield(cand)
       end
 
       ::continue::

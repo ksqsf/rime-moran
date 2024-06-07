@@ -52,7 +52,7 @@ function Module.func(translation, env)
             else
                comment = gcand.comment .. "⚡" .. codes_hint
             end
-            cand = ShadowCandidate(gcand, cand.type, word, comment)
+            gcand.comment = comment
          end
          ::continue::
          yield(cand)
