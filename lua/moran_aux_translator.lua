@@ -67,6 +67,11 @@ function Module.fini(env)
 end
 
 function Module.func(input, seg, env)
+   -- 每 10% 的翻譯觸發一次 GC
+   if math.random() < 0.1 then
+      collectgarbage()
+   end
+
    local input_len = utf8.len(input)
 
    if input_len <= 2 then
