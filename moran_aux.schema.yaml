@@ -142,8 +142,12 @@ punctuator:
 
 key_binder:
   import_preset: default
+  custom_bindings:
+    __append:
+      # 在這裏添加只在本方案中生效的按鍵綁定
   bindings:
     __patch:
+      - :/key_binder/custom_bindings?
       - moran:/key_bindings/moran_switches
       - moran:/key_bindings/moran_tab
       - moran:/key_bindings/moran_capital_for_last_syllable

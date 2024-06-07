@@ -149,15 +149,14 @@ punctuator:
 
 key_binder:
   import_preset: default
-  # 取消下面的註釋後，按住 = 不放可以連續重複上屏
-  # my_bindings:
-  #   __append:
-  #     - when: has_menu
-  #       accept: '='
-  #       send: 4     # 對應於 history_translator 的輸出位置，修改 symbols.yaml 後需要作相應修改
+  custom_bindings:
+    __append:
+      # 在這裏添加只在本方案中生效的按鍵綁定
+      # 取消下行註釋，按住 = 不放可以連續上屏
+      # - { when: has_menu, accept: '=', send: 4 }  # 4 對應於 history_translator 的輸出位置，修改 symbols.yaml 後需要作相應修改
   bindings:
     __patch:
-      - key_binder/my_bindings?
+      - :/key_binder/custom_bindings?
       - moran:/key_bindings/moran_switches
       - moran:/key_bindings/moran_semicolon_for_2
 
