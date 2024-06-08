@@ -95,24 +95,41 @@ function Module.func(input, seg, env)
          end
       end
    elseif input_len % 2 == 0 then
+      -- first_iter 对应于无辅助码的候选
       local first_iter = Module.translate_without_aux(env, seg, input)
       local first_cand = first_iter()
       if first_cand then
-         yield(first_cand)
+         -- 优先输出句子
+         if first_cand.type == "sentence" then
+            yield(first_cand)
+            first_cand = nil
+         end
       end
 
+      -- second_iter 对应于有辅助码的候选
+      -- 当 input_len == 4 时，second_iter 里应该只有单字
+      -- 这里只从里面取出匹配的候选（phrase or user_phrase），并前置
       local sp = input:sub(1, input_len-2)
       local aux = input:sub(input_len-1, input_len)
       local second_iter = Module.translate_with_aux(env, seg, sp, aux)
       local second_cand = second_iter()
-      if second_cand then
-         -- drop the sentence candidate which is too similar to first_cand
-         if second_cand.type ~= "sentence" then
-            yield(second_cand)
-         end
+      if second_cand and second_cand.type == "sentence" then
+         -- 跳过句子，这个句子和 first_iter 的句子只差一个字
+         second_cand = second_iter()
+      end
+      while second_cand
+         and (second_cand.type == "phrase" or second_cand.type == "user_phrase")
+         and second_cand.comment ~= ""
+      do
+         yield(second_cand)
+         second_cand = second_iter()
       end
 
-      for cand in second_iter do
+      -- 回头处理的first_iter
+      if first_cand then
+         yield(first_cand)
+      end
+      for cand in first_iter do
          yield(cand)
       end
    else  -- input_len >= 5
