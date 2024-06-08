@@ -55,6 +55,7 @@ engine:
     - table_translator@custom_phrase       # 自定義短語
     #- table_translator@english             # 英語混輸
     #- table_translator@japanese            # 日語混輸
+    #- table_translator@fixed             # 挂接用法
     - lua_translator@*moran_aux_translator
   filters:
     #- lua_filter@*moran_aux_hint           # 輔助碼提示需要去掉本行開頭的 # 符號
@@ -96,17 +97,27 @@ custom_phrase: # 自定義短語
   enable_sentence: false
   initial_quality: 10
 
+# 挂接用法，需解除 translators 中對應的註釋
+fixed:
+  dictionary: moran_fixed
+  initial_quality: 5
+  enable_completion: false
+  enable_sentence: false
+  enable_user_dict: false
+  enable_encoder: false
+  encode_commit_history: true
+
 english:
-  dictionary: moran.english
+  dictionary: moran_english
   enable_completion: false
   enable_sentence: false
   initial_quality: 1
 
 japanese:
-  dictionary: moran.japanese
+  dictionary: moran_japanese
   enable_completion: false
   enable_sentence: false
-  initial_quality: 1
+  initial_quality: 0
 
 simplifier:
   option_name: simplification

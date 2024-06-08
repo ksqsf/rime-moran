@@ -75,6 +75,7 @@ sedi () {
 ########################################################################
 echo 替換碼表...
 sedi 's/dictionary: moran_fixed/dictionary: moran_fixed_simp/' moran_fixed.schema.yaml
+sedi 's/dictionary: moran_fixed/dictionary: moran_fixed_simp/' moran_aux.schema.yaml 
 sedi 's/dictionary: moran_fixed/dictionary: moran_fixed_simp/' moran.schema.yaml 
 
 
