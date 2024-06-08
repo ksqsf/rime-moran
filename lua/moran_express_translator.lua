@@ -50,7 +50,7 @@ local top = {}
 
 function top.init(env)
    env.fixed = Component.Translator(env.engine, "", "table_translator@fixed")
-   env.smart = Component.Translator(env.engine, "", "script_translator@smart")
+   env.smart = Component.Translator(env.engine, "", "script_translator@translator")
    env.rfixed = ReverseLookup(env.engine.schema.config:get_string("fixed/dictionary") or "moran_fixed")
    env.quick_code_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator") or "⚡️"
    if env.name_space == 'with_reorder' then
