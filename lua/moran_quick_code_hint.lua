@@ -10,7 +10,7 @@ function Module.init(env)
    else
       env.quick_code_hint_reverse = nil
    end
-   env.quick_code_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator")
+   env.quick_code_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator") or "⚡"
 end
 
 function Module.fini(env)
@@ -46,11 +46,11 @@ function Module.func(translation, env)
             end
             local codes_hint = table.concat(codes, " ")
             local comment = ""
-            if gcand.comment == env.quick_code_indicator and env.quick_code_indicator ~= "" then
+            if gcand.comment == env.quick_code_indicator then
                -- Avoid double ⚡
                comment = gcand.comment .. codes_hint
             else
-               comment = gcand.comment .. "⚡" .. codes_hint
+               comment = gcand.comment .. env.quick_code_indicator .. codes_hint
             end
             gcand.comment = comment
          end
