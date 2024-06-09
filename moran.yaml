@@ -102,15 +102,13 @@ octagram:
     __patch:
       grammar:
         language: zh-hant-t-essay-bgw
-        # language: zh-hant-t-huayu-bgw
-        # language: zh-hant-t-s1-tgc
         collocation_max_length: 4
-        collocation_min_length: 2
+        collocation_min_length: 3
   enable_for_fixed:
     __patch:
       grammar:
         language: zh-hant-t-essay-bgc
-        collocation_max_length: 6
+        collocation_max_length: 4
         collocation_min_length: 2
       fixed/+:
         contextual_suggestions: true
