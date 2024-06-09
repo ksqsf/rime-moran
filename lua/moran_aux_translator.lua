@@ -261,7 +261,7 @@ function Module.aux_list(env, word)
    end
 
    -- First char & last char
-   if utf8.len(word) > 2 then
+   if utf8.len(word) >= 2 then
       local f_aux_list = env.aux_table[first]
       local l_aux_list = env.aux_table[last]
 
