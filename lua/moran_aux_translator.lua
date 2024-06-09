@@ -2,7 +2,9 @@
 --
 -- Author: ksqsf
 -- License: GPLv3
--- Version: 0.1.2
+-- Version: 0.1.3
+--
+-- 0.1.3: 優化邏輯。
 --
 -- 0.1.2：句子優先，避免輸入過程中首選長度大幅波動。一定程度上提高性能。
 --
@@ -102,7 +104,7 @@ function Module.func(input, seg, env)
          -- 优先输出句子
          if first_cand.type == "sentence" then
             yield(first_cand)
-            first_cand = nil
+            first_cand = first_iter()
          end
       end
 
@@ -117,20 +119,31 @@ function Module.func(input, seg, env)
          -- 跳过句子，这个句子和 first_iter 的句子只差一个字
          second_cand = second_iter()
       end
-      while second_cand
-         and (second_cand.type == "phrase" or second_cand.type == "user_phrase")
-         and second_cand.comment ~= ""
-      do
-         yield(second_cand)
-         second_cand = second_iter()
-      end
 
-      -- 回头处理的first_iter
-      if first_cand then
-         yield(first_cand)
-      end
-      for cand in first_iter do
-         yield(cand)
+      -- 從此開始，依 quality 輸出 first_iter 中的候選 和 second_iter 中匹配的候選
+      while first_cand or second_cand
+      do
+         if (second_cand and second_cand.comment ~= "") and first_cand
+         then
+            if first_cand.quality > second_cand.quality then
+               yield(first_cand)
+               first_cand = first_iter()
+            else
+               yield(second_cand)
+               second_cand = second_iter()
+            end
+         elseif first_cand then   -- second_iter done
+            yield(first_cand)
+            first_cand = first_iter()
+         elseif second_cand then  -- first_iter done
+            if second_cand.comment ~= "" then
+               yield(second_cand)
+               second_cand = second_iter()
+            else
+               -- 没有符合条件的候选了，不再继续探索
+               second_cand = nil
+            end
+         end
       end
    else  -- input_len >= 5
       local first_iter = Module.translate_without_aux(env, seg, input)
