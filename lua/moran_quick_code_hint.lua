@@ -33,15 +33,19 @@ function Module.func(translation, env)
          yield(cand)
       else
          local all_codes = env.quick_code_hint_reverse:lookup(word)
+         local in_use = false
          if all_codes then
             local codes = {}
             for code in all_codes:gmatch("%S+") do
-               if #code < 4 -- and code ~= cand.preedit
-               then
-                  table.insert(codes, code)
+               if #code < 4 then
+                  if code == cand.preedit then
+                     in_use = true
+                  else
+                     table.insert(codes, code)
+                  end
                end
             end
-            if #codes == 0 then
+            if #codes == 0 and not in_use then
                goto continue
             end
             local codes_hint = table.concat(codes, " ")
