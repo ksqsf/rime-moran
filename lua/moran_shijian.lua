@@ -1871,14 +1871,17 @@ local function translator(input, seg)
   elseif (input == "ocdate" or input == "onl") then
     date = Date2LunarDate(os.date("%Y%m%d")) .. JQtest(os.date("%Y%m%d"))
     candidate = Candidate("date", seg.start, seg._end, date, "")
+    candidate.quality = 1.1
     yield(candidate)
 
     date = lunarJzl(os.date("%Y%m%d%H"))
     candidate = Candidate("date", seg.start, seg._end, date, " ")
+    candidate.quality = 1.1
     yield(candidate)
 
     date = Date2LunarDate(os.date("%Y%m%d")) .. GetLunarSichen(os.date("%H"), 1)
     candidate = Candidate("date", seg.start, seg._end, date, "")
+    candidate.quality = 1.1
     yield(candidate)
     -- 时间
   elseif (input == "otime" or input == "osj" or input == "ouj") then

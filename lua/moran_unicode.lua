@@ -1,3 +1,4 @@
+-- Contributed to Project Moran by jack2game (https://github.com/ksqsf/rime-moran/pull/61)
 -- Unicode
 -- 复制自： https://github.com/shewer/librime-lua-script/blob/main/lua/component/unicode.lua
 -- 示例：输入 U62fc 得到「拼」
