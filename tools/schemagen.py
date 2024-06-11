@@ -25,7 +25,7 @@ import regex
 
 
 double_pinyin_choices = ['zrm', 'flypy']
-auxiliary_code_choices = ['zrm', 'hanxin', 'tiger', 'mogic']
+auxiliary_code_choices = ['zrm', 'user']
 
 args = None
 auxiliary_table = defaultdict(list)
@@ -86,12 +86,8 @@ def to_auxiliary_codes(char):
         match args.auxiliary_code:
             case 'zrm':
                 auxiliary_table = read_txt_table('data/zrmdb.txt')
-            case 'hanxin':
-                auxiliary_table = read_txt_table('data/hanxindb.txt')
-            case 'tiger':
-                auxiliary_table = read_txt_table('data/tigerdb.txt')
-            case 'mogic':
-                auxiliary_table = read_txt_table('data/mogicdb.txt')
+            case 'user':
+                auxiliary_table = read_txt_table('data/userdb.txt')
             case _:
                 raise ValueError('Unknown auxiliary code ' + args.auxiliary_code)
     return auxiliary_table[char]

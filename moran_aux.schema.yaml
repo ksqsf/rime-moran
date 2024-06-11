@@ -55,7 +55,7 @@ engine:
     - table_translator@custom_phrase       # 自定義短語
     #- table_translator@english             # 英語混輸
     #- table_translator@japanese            # 日語混輸
-    #- table_translator@fixed             # 挂接用法
+    #- table_translator@fixed             # 掛接用法
     - lua_translator@*moran_aux_translator
   filters:
     #- lua_filter@*moran_aux_hint           # 輔助碼提示需要去掉本行開頭的 # 符號
@@ -97,7 +97,7 @@ custom_phrase: # 自定義短語
   enable_sentence: false
   initial_quality: 10
 
-# 挂接用法，需解除 translators 中對應的註釋
+# 掛接用法，需解除 translators 中對應的註釋
 fixed:
   dictionary: moran_fixed
   initial_quality: 5
