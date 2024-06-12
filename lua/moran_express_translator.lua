@@ -1,7 +1,7 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023, 2024 ksqsf
 --
--- Ver: 0.6.2
+-- Ver: 0.6.2.1
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
@@ -71,12 +71,13 @@ function top.init(env)
    -- output 狀態
    env.output_i = 0
    env.output_injected_secondary = {}
-
-   -- 默認情況下 Lua GC 過於保守
-   collectgarbage("setpause", 110)
 end
 
 function top.fini(env)
+   env.fixed = nil
+   env.smart = nil
+   env.output_injected_secondary = nil
+   collectgarbage()
 end
 
 function top.func(input, seg, env)

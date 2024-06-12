@@ -7,6 +7,9 @@ function Top.init(env)
 end
 
 function Top.fini(env)
+   env.charset = nil
+   env.memo = nil
+   collectgarbage()
 end
 
 function Top.func(t_input, env)

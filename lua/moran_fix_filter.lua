@@ -19,6 +19,11 @@ function Top.init(env)
    env.cache = {}
 end
 
+function Top.fini(env)
+   env.cache = nil
+   collectgarbage()
+end
+
 function Top.func(t_input, env)
    local input = env.engine.context.input
    local input_len = utf8.len(input)
@@ -86,9 +91,6 @@ function Top.get_needle(env, input)
    local val = env.engine.schema.config:get_string("moran/fix/" .. input)
    env.cache[input] = val
    return val
-end
-
-function Top.fini(env)
 end
 
 return Top

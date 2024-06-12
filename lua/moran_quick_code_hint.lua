@@ -15,6 +15,7 @@ end
 
 function Module.fini(env)
    env.quick_code_hint_reverse = nil
+   collectgarbage()
 end
 
 function Module.func(translation, env)

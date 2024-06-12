@@ -12,6 +12,7 @@ end
 
 function Module.fini(env)
    env.enable_aux_hint = false
+   env.aux_table = nil
    collectgarbage()
 end
 
