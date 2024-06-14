@@ -1,10 +1,13 @@
 -- Moran Translator (for Express Editor)
 -- Copyright (c) 2023, 2024 ksqsf
 --
--- Ver: 0.6.2.1
+-- Ver: 0.7.0
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.7.0: 定義 show_words_anyway、show_chars_anyway 和固詞模式同時開啓
+-- 時的語義。
 --
 -- 0.6.1, 0.6.2: show_words_anyway 在四碼時跳過二字詞。
 --
@@ -89,7 +92,6 @@ function top.func(input, seg, env)
    end
 
    local input_len = utf8.len(input)
-   local fixed_triggered = false
    local inflexible = env.engine.context:get_option("inflexible")
    local indicator = env.quick_code_indicator
 
@@ -97,38 +99,61 @@ function top.func(input, seg, env)
    if (env.engine.context.input == input) then
       local fixed_res = env.fixed:query(input, seg)
       -- 如果輸入長度爲 4，只輸出 2 字詞。
-      -- 僅在 inflexible （固詞模式）時才產生這些輸出。
       if fixed_res ~= nil then
          if (input_len == 4) then
-            if inflexible then
+            if inflexible and env.show_words_anyway and env.show_chars_anyway then
+               -- 如果固詞, show_words_anyway 和 show_words_anyway 同時打開，則理解爲掛接用法，直接輸出碼表。
                for cand in fixed_res:iter() do
-                  local cand_len = utf8.len(cand.text)
-                  if (cand_len == 2) then
-                     cand.comment = indicator
-                     top.output(env, cand)
+                  top.output_from_fixed(env, cand)
+               end
+            elseif inflexible and env.show_words_anyway then
+               -- 固詞 + 長詞 = 只有詞
+               for cand in fixed_res:iter() do
+                  if utf8.len(cand.text) > 1 then
+                     top.output_word_from_fixed(env, cand)
                   end
                end
+            elseif inflexible and env.show_chars_anyway then
+               -- 固詞 + 單字 = 只有單字和二字詞
+               for cand in fixed_res:iter() do
+                  local cand_len = utf8.len(cand.text)
+                  if cand_len == 1 then
+                     top.output_char_from_fixed(cand)
+                  elseif cand_len == 2 then
+                     top.output_word_from_fixed(cand)
+                  end
+               end
+            elseif inflexible then
+               -- 如果只打開固詞模式，則 *只* 優先輸出 2 字詞
+               for cand in fixed_res:iter() do
+                  local cand_len = utf8.len(cand.text)
+                  if cand_len == 2 then
+                     top.output_word_from_fixed(env, cand)
+                  end
+               end
+            else
+               -- 否則，什麼都不輸出。
             end
          else
             for cand in fixed_res:iter() do
-               if utf8.len(cand.text) ~= 1 or not env.quick_code_indicator_skip_chars then
-                  cand.comment = indicator
-               end
-               top.output(env, cand)
+               top.output_from_fixed(env, cand)
             end
          end
       end
    end
 
-   fixed_triggered = (env.output_i > 0)
+   local fixed_triggered = env.output_i > 0
 
    -- 注入到首選後的選項
    -- 目前的用例：show_chars_anyway 爲真時，將簡碼碼表中的單字取出來
    env.output_injected_secondary = {}
    if (not fixed_triggered and input_len == 4) then
       for cand in moran.query_translation(env.fixed, input, seg, nil) do
-         if (env.show_chars_anyway and utf8.len(cand.text) == 1) or (env.show_words_anyway and utf8.len(cand.text) > 2) then
-            cand:get_genuine().comment = indicator
+         local cand_len = utf8.len(cand.text)
+         if (env.show_chars_anyway and cand_len == 1) or (env.show_words_anyway and cand_len > 2) then
+            if cand_len ~= 1 or (cand_len == 1 and not env.quick_code_indicator_skip_chars) then
+               cand:get_genuine().comment = indicator
+            end
             table.insert(env.output_injected_secondary, cand)
          end
       end
@@ -228,6 +253,26 @@ function top.output(env, cand)
       for i, c in pairs(cands) do
          top.output(env, c)
       end
+   end
+end
+
+function top.output_char_from_fixed(env, cand)
+   if not env.quick_code_indicator_skip_chars then
+      cand.comment = env.quick_code_indicator
+   end
+   top.output(env, cand)
+end
+
+function top.output_word_from_fixed(env, cand)
+   cand.comment = env.quick_code_indicator
+   top.output(env, cand)
+end
+
+function top.output_from_fixed(env, cand)
+   if utf8.len(cand.text) == 1 then
+      top.output_char_from_fixed(env, cand)
+   else
+      top.output_word_from_fixed(env, cand)
    end
 end
 
