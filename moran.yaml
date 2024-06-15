@@ -21,8 +21,8 @@ algebra:
   user_sentence_top:
     __append:
       __patch:
-        - moran_defs:/fly/qx_qo
-        - moran_defs:/fly/xq_xo
+        - moran_defs:/fly/qx_qo  # ZRM-SPECIFIC
+        - moran_defs:/fly/xq_xo  # ZRM-SPECIFIC
         # 模糊音設置
         # - moran_defs:/bufen/z_zh
         # - moran_defs:/bufen/c_ch
