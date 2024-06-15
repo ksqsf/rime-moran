@@ -50,3 +50,11 @@ keyboard19:
     - 'derive/[xc]/6/'
     - 'derive/[bn]/7/'
 
+# 飛鍵
+fly:
+  qx_qo:
+    __append:
+      - derive/qx;/qo;/
+  xq_xo:
+    __append:
+      - derive/xq;/xo;/
