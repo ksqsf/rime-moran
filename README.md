@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/ksqsf/rime-moran/issues"><img src="https://img.shields.io/badge/%E6%AD%A1%E8%BF%8E-%E5%8F%83%E8%88%87%E8%B2%A2%E7%8D%BB-1dd3b0?style=for-the-badge&logo=github"/></a>
-<a href="https://my-rime.vercel.app/?plum=ksqsf/rime-moran:moran,moran_sentence,moran_fixed"><img src="https://img.shields.io/badge/MyRIME-線上試用-1dd3b0?style=for-the-badge&logo=github"/></a>
+<a href="https://my-rime.vercel.app/?plum=ksqsf/rime-moran:moran,moran_sentence,moran_fixed,moran_aux"><img src="https://img.shields.io/badge/MyRIME-線上試用-1dd3b0?style=for-the-badge&logo=github"/></a>
 </p>
 
 授權協議：方案主體依 [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/) 協議發佈，除非對應文件中另有說明。
