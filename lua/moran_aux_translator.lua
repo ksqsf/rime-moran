@@ -4,6 +4,8 @@
 -- License: GPLv3
 -- Version: 0.1.3
 --
+-- 0.1.4: 繼續優化邏輯。
+--
 -- 0.1.3: 優化邏輯。
 --
 -- 0.1.2：句子優先，避免輸入過程中首選長度大幅波動。一定程度上提高性能。
@@ -21,6 +23,14 @@
 local moran = require("moran")
 local Module = {}
 Module.PREFETCH_THRESHOLD = 50
+Module.WORD_TOLERANCE = 10
+
+-- 一些音節需要較多預取
+local BIG_SYLLABLES = {
+   ["ji"] = 200,
+   ["ui"] = 200,
+   ["yi"] = 200,
+}
 
 function Module.init(env)
    env.aux_table = moran.load_zrmdb()
@@ -43,7 +53,7 @@ function Module.init(env)
       end
 
       local cand = segment:get_selected_candidate()
-      if cand.comment and cand.comment ~= "" then
+      if cand and cand.comment and cand.comment ~= "" then
          aux_length = #cand.comment
       end
    end
@@ -88,7 +98,7 @@ function Module.func(input, seg, env)
       local aux = input:sub(input_len, input_len)
       local iter = Module.translate_with_aux(env, seg, sp, aux)
       local char_cand = iter()
-      if char_cand.comment ~= "" then
+      if char_cand and char_cand.comment ~= "" then
          yield(char_cand)
          for cand in iter do
             yield(cand)
@@ -124,23 +134,43 @@ function Module.func(input, seg, env)
       end
 
       -- 從此開始，依 quality 輸出 first_iter 中的候選 和 second_iter 中匹配的候選
-      while first_cand or second_cand
-      do
-         if (second_cand and second_cand.comment ~= "") and first_cand
-         then
-            if first_cand.quality > second_cand.quality then
-               yield(first_cand)
-               first_cand = first_iter()
-            else
+      local i = 0
+      while first_cand or second_cand do
+         -- 在輸出 first_cand 的 4 個候選之後，無條件先輸出 second_cand 帶輔的候選。
+         -- 也就是允許 WORD_TOLERANCE 個詞出現在被輔的字之前。
+         if i >= Module.WORD_TOLERANCE and second_cand then
+            if second_cand.comment ~= "" then
                yield(second_cand)
+            end
+            for c in second_iter do
+               if c.comment ~= "" then
+                  yield(c)
+               else
+                  break
+               end
+            end
+            second_cand = nil
+         end
+         if (second_cand and second_cand.comment ~= "") and first_cand then
+            if first_cand.text == second_cand.text or first_cand.quality < second_cand.quality
+               or (input_len == 4 and utf8.len(second_cand.text) == 1 and second_cand.comment ~= "" and utf8.len(first_cand.text) == 1)
+            then
+               yield(second_cand)
+               i = i + 1
                second_cand = second_iter()
+            else
+               yield(first_cand)
+               i = i + 1
+               first_cand = first_iter()
             end
          elseif first_cand then   -- second_iter done
             yield(first_cand)
+            i = i + 1
             first_cand = first_iter()
          elseif second_cand then  -- first_iter done
             if second_cand.comment ~= "" then
                yield(second_cand)
+               i = i + 1
                second_cand = second_iter()
             else
                -- 没有符合条件的候选了，不再继续探索
@@ -183,9 +213,18 @@ function Module.func(input, seg, env)
    end
 end
 
+function Module.get_prefetch_threshold(sp)
+   if BIG_SYLLABLES[sp] then
+      return BIG_SYLLABLES[sp]
+   else
+      return Module.PREFETCH_THRESHOLD
+   end
+end
+
 -- Returns a stateful iterator of <Candidate, String?>.
 function Module.translate_with_aux(env, seg, sp, aux)
    local iter = Module.translate_without_aux(env, seg, sp)
+   local threshold = Module.get_prefetch_threshold(sp)
 
    local matched = {}
    local unmatched = {}
@@ -200,7 +239,7 @@ function Module.translate_with_aux(env, seg, sp, aux)
          table.insert(unmatched, cand)
          n_unmatched = n_unmatched + 1
       end
-      if n_matched + n_unmatched > Module.PREFETCH_THRESHOLD then
+      if n_matched + n_unmatched > threshold then
          break
       end
    end
@@ -214,7 +253,14 @@ function Module.translate_with_aux(env, seg, sp, aux)
          i = i + 1
          return unmatched[i - 1 - n_matched], nil
       else
-         return iter(), nil
+         -- late candidates can also be matched.
+         local cand = iter()
+         if Module.candidate_match(env, cand, aux) then
+            cand.comment = aux
+            return cand, aux
+         else
+            return cand, nil
+         end
       end
    end
 end
@@ -231,6 +277,9 @@ function Module.translate_without_aux(env, seg, sp)
 end
 
 function Module.candidate_match(env, cand, aux)
+   if not cand then
+      return nil
+   end
    if not (cand.type == "phrase" or cand.type == "user_phrase") then
       return false
    end
