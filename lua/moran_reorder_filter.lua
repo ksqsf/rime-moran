@@ -32,6 +32,9 @@ function Top.init(env)
    env.quick_code_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator") or "⚡️"
 end
 
+function Top.fini(env)
+end
+
 function Top.func(t_input, env)
    local fixed_list = {}
    local smart_list = {}
@@ -119,9 +122,6 @@ function Top.ClearEntries(env, reorder_phase, fixed_list, smart_list)
       yield(cand)
       smart_list[i] = nil
    end
-end
-
-function Top.fini(env)
 end
 
 return Top

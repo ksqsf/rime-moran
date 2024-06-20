@@ -24,6 +24,9 @@ local function launch(key, env)
    if (input == "ogrwh" or input == 'omorj') then
       generic_open("https://github.com/ksqsf/rime-moran")
       context:clear()
+   elseif (input == "ouomy" or input == "oumu") then
+      generic_open("https://rime-moran.gitbook.io/")
+      context:clear()
    end
    return kNoop
 end

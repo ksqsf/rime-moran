@@ -66,6 +66,9 @@ end
 function Module.fini(env)
    env.notifier_pre:disconnect()
    env.notifier_post:disconnect()
+   env.aux_table = nil
+   env.translator = nil
+   collectgarbage()
 end
 
 function Module.func(input, seg, env)

@@ -1,7 +1,7 @@
 schema:
   schema_id: moran
   name: 魔然
-  version: "20240115"
+  version: "20240616"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -79,6 +79,7 @@ engine:
     - lua_translator@*moran_shijian        # 日期orq 節氣ojq 星期oxq 時間osj
     - lua_translator@*moran_number         # 數字轉大寫, 大寫S引導, 如 S123
     - lua_translator@*moran_unicode        # Unicode輸入, 大寫U引導, 如 U9b54
+    - history_translator@quick_repeat
   filters:
     - lua_filter@*moran_charset_filter
     - lua_filter@*moran_reorder_filter
@@ -156,6 +157,11 @@ japanese:
   encode_commit_history: false
   comment_format:
     - xform/.*//
+
+quick_repeat:  # 快速重複上屏
+  input: ";d"
+  size: 1
+  initial_quality: 0
 
 simplifier:
   option_name: simplification

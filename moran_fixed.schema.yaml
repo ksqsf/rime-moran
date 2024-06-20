@@ -1,7 +1,7 @@
 schema:
   schema_id: moran_fixed
   name: 魔然·字詞
-  version: "20240115"
+  version: "20240616"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -49,6 +49,7 @@ engine:
     - table_translator@fixed
     - table_translator@zkci
     - history_translator@repeat
+    - history_translator@quick_repeat
   filters:
     - simplifier@chaifen
     - simplifier
@@ -112,6 +113,11 @@ zkci:           # 造詞
 
 repeat:        # 重複上屏
   input: "="
+  size: 1
+  initial_quality: 0
+
+quick_repeat:  # 快速重複上屏
+  input: ";d"
   size: 1
   initial_quality: 0
 

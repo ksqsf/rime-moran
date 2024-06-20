@@ -12,6 +12,7 @@ end
 
 function Module.fini(env)
    env.enable_aux_hint = false
+   env.aux_table = nil
    collectgarbage()
 end
 
@@ -39,6 +40,9 @@ function Module.func(translation, env)
       end
 
       local codes = env.aux_table[utf8.codepoint(cand_text)]
+      if not codes then
+         goto continue
+      end
       local codes_str = table.concat(codes, " ")
       if codes and gcand.comment ~= codes_str then
          local comment = codes_str .. gcand.comment
