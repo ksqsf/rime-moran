@@ -97471,7 +97471,7 @@
 𲂧 vt
 𲂨 bh
 𲂩 hb
-𲂫 ab
+𲂫 db
 𲂫 bp
 𲂭 bk
 𲂭 kb
@@ -97481,7 +97481,7 @@
 𲂻 bb
 𲂾 bg
 𲂿 bk
-𲃀 ab
+𲃀 db
 𲃄 bb
 𲃅 bl
 𲃇 ie
