@@ -2,7 +2,9 @@
 --
 -- Author: ksqsf
 -- License: GPLv3
--- Version: 0.1.3
+-- Version: 0.1.5
+--
+-- 0.1.5: 允許自定義預取長度。
 --
 -- 0.1.4: 繼續優化邏輯。
 --
@@ -22,7 +24,6 @@
 
 local moran = require("moran")
 local Module = {}
-Module.PREFETCH_THRESHOLD = 50
 Module.WORD_TOLERANCE = 10
 
 -- 一些音節需要較多預取
@@ -35,6 +36,7 @@ local BIG_SYLLABLES = {
 function Module.init(env)
    env.aux_table = moran.load_zrmdb()
    env.translator = Component.Translator(env.engine, "", "script_translator@translator")
+   env.prefetch_threshold = env.engine.schema.config:get_int("moran/prefetch") or -1
 
    local aux_length = nil
 
@@ -213,18 +215,23 @@ function Module.func(input, seg, env)
    end
 end
 
-function Module.get_prefetch_threshold(sp)
+-- nil = unrestricted
+function Module.get_prefetch_threshold(env, sp)
+   local p = env.prefetch_threshold or -1
+   if p <= 0 then
+      return nil
+   end
    if BIG_SYLLABLES[sp] then
-      return BIG_SYLLABLES[sp]
+      return math.max(BIG_SYLLABLES[sp], p)
    else
-      return Module.PREFETCH_THRESHOLD
+      return p
    end
 end
 
 -- Returns a stateful iterator of <Candidate, String?>.
 function Module.translate_with_aux(env, seg, sp, aux)
    local iter = Module.translate_without_aux(env, seg, sp)
-   local threshold = Module.get_prefetch_threshold(sp)
+   local threshold = Module.get_prefetch_threshold(env, sp)
 
    local matched = {}
    local unmatched = {}
@@ -239,7 +246,7 @@ function Module.translate_with_aux(env, seg, sp, aux)
          table.insert(unmatched, cand)
          n_unmatched = n_unmatched + 1
       end
-      if n_matched + n_unmatched > threshold then
+      if threshold and (n_matched + n_unmatched > threshold) then
          break
       end
    end
