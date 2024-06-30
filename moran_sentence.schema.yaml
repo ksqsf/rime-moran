@@ -12,6 +12,11 @@ schema:
     - moran_charset
     - moran_english
     #- moran_japanese
+    - stroke
+    - tiger
+    - cangjie5
+    - bopomofo
+    - zrlf
 
 switches:
   - name: ascii_mode
@@ -56,6 +61,7 @@ engine:
     - reverse_lookup_translator@reverse_stroke
     - reverse_lookup_translator@reverse_cangjie5
     - reverse_lookup_translator@reverse_zrlf
+    - reverse_lookup_translator@reverse_bopomofo
     - table_translator@custom_phrase       # 自定義短語
     #- table_translator@english             # 英語混輸
     #- table_translator@japanese            # 日語混輸
@@ -153,7 +159,7 @@ reverse_format:
   comment_format:
     - xform/(\w\w);(\w\w)/$1[$2]/
   preedit_format:
-    - xform/^o(lf|bh|cj)//
+    - xform/^o(lf|bh|cj|vy)//
 
 reverse_tiger:
   tag: reverse_tiger
@@ -193,6 +199,19 @@ reverse_zrlf:
   tips: 〔兩分〕
   __include: reverse_format
 
+reverse_bopomofo:
+  tag: reverse_bopomofo
+  dictionary: terra_pinyin
+  prism: bopomofo
+  prefix: "ovy"
+  enable_completion: true
+  tips: 〔注音符號〕
+  comment_format:
+    - xform/(\w\w);(\w\w)/$1[$2]/
+  preedit_format:
+    - xform/^o(lf|bh|cj|vy)//
+    - "xlit|1qaz2wsxedcrfv5tgbyhnujm8ik,9ol.0p;/- 6347'|ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄏㄐㄑㄒㄓㄔㄕㄖㄗㄘㄙㄧㄨㄩㄚㄛㄜㄝㄞㄟㄠㄡㄢㄣㄤㄥㄦˉˊˇˋ˙ |"
+
 reverse_lookup:
   extra_tags:
     - reverse_tiger
@@ -200,6 +219,7 @@ reverse_lookup:
     - reverse_stroke
     - reverse_cangjie5
     - reverse_zrlf
+    - reverse_bopomofo
 
 punctuator:
   import_preset: symbols
@@ -225,6 +245,7 @@ recognizer:
     reverse_stroke: "^obh[A-Za-z]*$"
     reverse_cangjie5: "^ocj[A-Za-z]*$"
     reverse_zrlf: "^olf[A-Za-z]*$"
+    reverse_bopomofo: '^ovy[A-Za-z0-9,.;/\-]*$'
     punct: '^/([0-9]0?|[A-Za-z]+)$'
 
 # 默認啓用語言模型
