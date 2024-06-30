@@ -22823,7 +22823,6 @@ gormand	gormand
 gormandize	gormandize
 gormless	gormless
 goroutine	goroutine
-goroutines	goroutines
 gorse	gorse
 Gorton	gorton
 gory	gory
@@ -57144,3 +57143,5 @@ Unicode	unicode
 online	online
 döner	doner
 wiki	wiki
+coroutine	coroutine
+asynchrounous	asynchronous
