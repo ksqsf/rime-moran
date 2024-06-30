@@ -21340,8 +21340,10 @@ Bilibili	bvj
 滙	hvdv
 匯兌	hvdv
 回跌	hvdx
-隓	hve
+隳	hve
 會兒	hver
+隳	hvex
+隓	hvez
 揮	hvf
 揮發	hvfa
 灰分	hvff
@@ -85687,7 +85689,7 @@ WiFi	wifi
 鐒	oclr
 
 
-# 飛鍵 xq -> xo
+# 開始飛鍵 xq -> xo
 罷休	baxo
 必修	bixo
 半休	bjxo
@@ -85909,8 +85911,9 @@ WiFi	wifi
 二不休	ebxo
 離退休	ltxo
 脫口秀	tkxo
+# 结束飛鍵
 
-# 飛鍵 qx -> qo
+# 開始飛鍵 qx -> qo
 哀切	aiqo
 並且	byqo
 悲切	bzqo
@@ -86059,6 +86062,7 @@ WiFi	wifi
 餘切	yuqo
 暫且	zjqo
 一刀切	ydqo
+# 結束飛鍵
 
 
 ##隨心碼

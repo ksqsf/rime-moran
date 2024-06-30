@@ -40,9 +40,9 @@ switches:
 
 engine:
   processors:
-    - key_binder
     - ascii_composer
     - recognizer
+    - key_binder
     - speller
     - punctuator
     - selector
