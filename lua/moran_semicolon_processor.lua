@@ -28,6 +28,11 @@ local function processor(key_event, env)
    local segment = composition:back()
    local menu = segment.menu
 
+   -- Special case: for 'ovy', just send ';'
+   if context.input:find('^ovy') then
+      return kNoop
+   end
+
    -- Special case: if there is only one candidate, just select it!
    if menu:candidate_count() == 1 then
       env.engine:process_key(KeyEvent("1"))
