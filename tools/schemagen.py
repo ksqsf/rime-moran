@@ -521,7 +521,13 @@ def handle_convert_sp():
         res = []
         for char_code in word_code.split(' '):
             [sp, aux] = char_code.split(';')
-            sp = to_double_pinyin(from_double_pinyin(sp, from_), to_)
+            if sp == 'pp':
+                if args.special_code_policy == 'drop':
+                    continue
+                elif args.special_code_policy == 'keep':
+                    pass
+            else:
+                sp = to_double_pinyin(from_double_pinyin(sp, from_), to_)
             res.append(sp + ';' + aux)
         return ' '.join(res)
     with open(args.rime_dict) as f:
@@ -620,6 +626,7 @@ update_sp.add_argument('--find', help='只更新含有這些字的詞', default=
 convert_sp = subparsers.add_parser('convert-sp', help='轉換雙拼（整句詞庫）')
 convert_sp.add_argument('--rime-dict', help='輸入rime格式詞庫', required=True)
 convert_sp.add_argument('--to', choices=double_pinyin_choices, help='目的雙拼方案', required=True)
+convert_sp.add_argument('--special-code-policy', choices=['keep', 'drop'], default='keep', help='特殊碼如何處理')
 
 convert_fixed_sp = subparsers.add_parser('convert-fixed-sp', help='轉換雙拼（fixed碼表）')
 convert_fixed_sp.add_argument('--rime-dict', help='輸入rime格式詞庫', required=True)
