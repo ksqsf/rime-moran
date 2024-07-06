@@ -87,6 +87,7 @@ engine:
     - lua_filter@*moran_reorder_filter
     - lua_filter@*moran_quick_code_hint
     - lua_filter@*moran_aux_hint
+    - lua_filter@*moran_ijrq_filter
     - simplifier@emoji
     - simplifier@chaifen
     - simplifier@pinyinhint
@@ -318,9 +319,15 @@ moran:
   # 當一個字具有簡碼時，打其全碼（不論是 yyxx 還是 yyxxo）都會導致該
   # 字讓出首位，而被推遲到後位。
   ijrq:
-    enable: true       # 是否啓用出簡讓全？
+    enable: true       # 是否啓用單字的出簡讓全？
     #defer: 5          # 延遲多少位？若不設置该项，或值小於等於 0，則推遲到第二頁的首選
     show_hint: true    # 若讓全，則提示簡碼打法
+
+    # 詞語級「讓全」，對二、三、四字詞有效
+    # 例：假設 lmjx 的輸出是 1.連接 2.鏈接
+    # 想要「鏈接」時，增加 f ，但是由於這兩個候選仍然共享 lmjxf 編碼，因此順序不變。
+    # 若開啓詞語級讓全，則 lmjxf 的首選會被調整爲「鏈接」
+    enable_word: false
 
   # 單字輔助碼提示
   # 注：會顯示出所有可能的輔助碼
