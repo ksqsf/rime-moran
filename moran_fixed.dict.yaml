@@ -2916,6 +2916,7 @@ AA制	aavi
 拜年	blnm
 擺弄	blns
 玻璃瓶	blp
+白嫖	blpc
 白胖	blph
 白皮	blpi
 擺譜	blpu
@@ -3774,6 +3775,7 @@ AA制	aavi
 必死無疑	bswy
 變速運動	bsyd
 不隨意肌	bsyj
+不同	bt
 比特	bt
 变态啊	bta
 不太安全	btaq
@@ -4133,8 +4135,8 @@ AA制	aavi
 餔	buuf
 不勝	buug
 補上	buuh
-不是	buui
 不適	buui
+捕食	buui
 不失時機	buuj
 不少	buuk
 不說	buuo
@@ -5474,6 +5476,7 @@ Bilibili	bvj
 藏蹤	chzs
 催化作用	chzy
 此	ci
+次	ci
 朿	cia
 慈愛	ciai
 此岸	cian
@@ -8916,6 +8919,7 @@ Bilibili	bvj
 丁腈橡膠	djxj
 單線	djxm
 擔心	djxn
+單休	djxq
 單選	djxr
 愖	djxu
 但需	djxu
@@ -10937,7 +10941,6 @@ Bilibili	bvj
 動物纖維	dwxw
 對外友好協會	dwyh
 第五縱隊	dwzd
-爹	dx
 東西	dx
 大興安嶺	dxal
 多行不義必自斃	dxbb
@@ -14040,6 +14043,7 @@ Bilibili	bvj
 富足	fuzu
 負罪	fuzv
 反正	fv
+分鐘	fv
 放這吧	fvb
 風燭殘年	fvcn
 付諸東流	fvdl
@@ -25364,6 +25368,7 @@ Bilibili	bvj
 臭味相投	iwxt
 成爲一個	iwyg
 程序	ix
+出現	ix
 插線板	ixb
 朝鮮半島	ixbd
 癡心不改	ixbg
@@ -28521,6 +28526,7 @@ Bilibili	bvj
 吉人自有天相	jrzx
 矯揉造作	jrzz
 囧	js
+計算	js
 鼏	jsb
 鼏	jsbd
 見死不救	jsbj
@@ -28590,6 +28596,7 @@ Bilibili	bvj
 九死一生	jsyu
 迥	jsz
 覺	jt
+今天	jt
 孓	jta
 剪貼板	jtb
 絕壁	jtbi
@@ -33858,6 +33865,7 @@ Bilibili	bvj
 利嘴	lizv
 亂臣賊子	lizz
 藍	lj
+鏈接	lj
 劣跡斑斑	ljbb
 藍本	ljbf
 屢教不改	ljbg
@@ -41719,6 +41727,7 @@ Bilibili	bvj
 懿	oayx
 偶氮染料	odrl
 藕斷絲連	odsl
+偶爾	oe
 歐羅巴人種	olbv
 歐姆定律	omdl
 哦豁	ooho
@@ -43949,7 +43958,7 @@ PC端	pcdr
 曲不離口	qblk
 拳不離手	qblu
 豈不美哉	qbmz
-去不去	qbq
+瞧不起	qbq
 妻不如妾	qbrq
 妾不如偷	qbrt
 千比特	qbt
@@ -54146,6 +54155,7 @@ PC端	pcdr
 替罪羊	tzy
 投資銀行	tzyh
 是	u	uiop
+時	u
 啥	ua
 痧	uab
 沙壩	uaba
@@ -54547,7 +54557,7 @@ PC端	pcdr
 手鬆	ubss
 手速	ubsu
 守歲	ubsv
-傻白甜	ubt
+雙胞胎	ubt
 手頭	ubtb
 收條	ubtc
 壽堂	ubth
@@ -56215,7 +56225,6 @@ PC端	pcdr
 師生	uiug
 時尚	uiuh
 實施	uiui
-試試	uiui
 蝕	uiui
 飾	uiuj
 山重水複疑無路	uiul
@@ -57339,6 +57348,7 @@ PC端	pcdr
 水天一色	utys
 石頭子兒	utze
 書	uu
+試試	uu
 束	uua
 書案	uuan
 熟諳	uuan
@@ -64501,6 +64511,7 @@ WiFi	wifi
 五項原則	wxyz
 無形資產	wxzi
 無性雜交	wxzj
+唯一	wy
 我也	wy
 晚一步	wyb
 亡羊補牢	wybl
@@ -65739,6 +65750,7 @@ WiFi	wifi
 先發優勢	xfyu
 興風作浪	xfzl
 修改	xg
+習慣	xg
 興國安邦	xgab
 心肝寶貝	xgbb
 縣官不如現管	xgbg
@@ -67900,6 +67912,7 @@ WiFi	wifi
 雪災	xtzl
 小兔崽子	xtzz
 需	xu
+小時	xu
 刑事案件	xuaj
 心神不安	xuba
 序跋	xuba
@@ -74665,7 +74678,7 @@ WiFi	wifi
 罌粟	yysu
 纓	yysy
 悠悠歲月	yysy
-一言堂	yyt
+有一天	yyt
 迎頭	yytb
 硬糖	yyth
 硬體	yyti
@@ -75474,6 +75487,7 @@ WiFi	wifi
 自負	zifu
 子承父業	zify
 資費	zifz
+自費	zifz
 胾	zig
 紫光	zigd
 資格	zige
@@ -83011,6 +83025,7 @@ WiFi	wifi
 十八歲	ubsv
 雙胞胎	ubtl
 傻白甜	ubtm
+傻白甜	ubtq
 說不通	ubts
 傻不傻	ubua
 手把手	ubub
@@ -85700,8 +85715,10 @@ WiFi	wifi
 病休	byxo
 刺繡	cixo
 大修	daxo
+單休	djxo
 倒休	dkxo
 短袖	drxo
+二不休	ebxo
 防鏽	fhxo
 返修	fjxo
 腐朽	fuxo
@@ -85732,6 +85749,7 @@ WiFi	wifi
 離休	lixo
 老朽	lkxo
 輪休	lpxo
+離退休	ltxo
 領袖	lyxo
 苗繡	mcxo
 蒙羞	mgxo
@@ -85752,6 +85770,7 @@ WiFi	wifi
 蘇繡	suxo
 調休	tcxo
 套袖	tkxo
+脫口秀	tkxo
 銅鏽	tsxo
 退休	tvxo
 鐵鏽	txxo
@@ -85908,9 +85927,6 @@ WiFi	wifi
 糟朽	zkxo
 作秀	zoxo
 做秀	zoxo
-二不休	ebxo
-離退休	ltxo
-脫口秀	tkxo
 # 结束飛鍵
 
 # 開始飛鍵 qx -> qo
@@ -85946,9 +85962,6 @@ WiFi	wifi
 迫切	poqo
 妻妾	qiqo
 親切	qnqo
-權且	qrqo
-確切	qtqo
-恰切	qwqo
 且	qo
 疌	qoa
 竊案	qoan
@@ -86005,8 +86018,8 @@ WiFi	wifi
 切片	qopm
 猰	qoq
 朅	qoqh
-竊取	qoqu
 切切	qoqo
+竊取	qoqu
 怯弱	qoro
 切入	qoru
 切絲	qosi
@@ -86042,6 +86055,9 @@ WiFi	wifi
 跙	qozq
 踥	qozq
 竊賊	qozz
+權且	qrqo
+確切	qtqo
+恰切	qwqo
 熱切	reqo
 偷竊	tbqo
 提挈	tiqo
@@ -86057,11 +86073,11 @@ WiFi	wifi
 心切	xnqo
 羞怯	xqqo
 行竊	xyqo
+一刀切	ydqo
 一切	yiqo
 殷切	ynqo
 餘切	yuqo
 暫且	zjqo
-一刀切	ydqo
 # 結束飛鍵
 
 

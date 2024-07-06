@@ -2830,6 +2830,7 @@ encoder:
 摆弄	blns
 玻璃瓶	blp
 拜	blpa
+白嫖	blpc
 白胖	blph
 白皮	blpi
 摆谱	blpu
@@ -3607,6 +3608,7 @@ encoder:
 不然的话	brdh
 勃然大怒	brdn
 哺乳动物	brdw
+不入耳	bre
 并日而食	breu
 不容分说	brfu
 白日飞升	brfu
@@ -3675,6 +3677,7 @@ encoder:
 必死无疑	bswy
 变速运动	bsyd
 不随意肌	bsyj
+不同	bt
 比特	bt
 变态啊	bta
 不太安全	btaq
@@ -4025,8 +4028,8 @@ encoder:
 不慎	buuf
 不胜	buug
 补上	buuh
-不是	buui
 不适	buui
+捕食	buui
 不失时机	buuj
 不少	buuk
 阜	buuk
@@ -8609,6 +8612,7 @@ encoder:
 丁腈橡胶	djxj
 单线	djxm
 担心	djxn
+单休	djxq
 单选	djxr
 但需	djxu
 憺	djxv
@@ -13479,6 +13483,7 @@ encoder:
 负罪	fuzv
 孚	fuzv
 反正	fv
+分钟	fv
 放这吧	fvb
 风烛残年	fvcn
 付诸东流	fvdl
@@ -24506,6 +24511,7 @@ encoder:
 臭味相投	iwxt
 成为一个	iwyg
 程序	ix
+出现	ix
 插线板	ixb
 朝鲜半岛	ixbd
 痴心不改	ixbg
@@ -27578,7 +27584,7 @@ encoder:
 卷宗	jrzs
 吉人自有天相	jrzx
 矫揉造作	jrzz
-炯	js
+计算	js
 窘	jsb
 皛	jsbb
 见死不救	jsbj
@@ -27593,7 +27599,8 @@ encoder:
 聚讼纷纭	jsfy
 就是个	jsg
 集思广益	jsgy
-扃	jsh
+炯	jsh
+扃	jshk
 急三火四	jshs
 脊髓灰质炎	jshy
 计算机	jsj
@@ -27644,6 +27651,7 @@ encoder:
 九死一生	jsyu
 迥	jsz
 觉	jt
+今天	jt
 孓	jta
 夬	jtad
 剪贴板	jtb
@@ -32782,6 +32790,7 @@ encoder:
 跞	lizy
 乱臣贼子	lizz
 蓝	lj
+链接	lj
 兰	ljb
 劣迹斑斑	ljbb
 蓝本	ljbf
@@ -40297,6 +40306,7 @@ encoder:
 哦	o	ookw
 偶氮染料	odrl
 藕断丝连	odsl
+偶尔	oe
 欧罗巴人种	olbv
 欧姆定律	omdl
 哦豁	ooho
@@ -42534,7 +42544,7 @@ encoder:
 曲不离口	qblk
 拳不离手	qblu
 岂不美哉	qbmz
-去不去	qbq
+瞧不起	qbq
 妻不如妾	qbrq
 妾不如偷	qbrt
 千比特	qbt
@@ -45766,7 +45776,6 @@ encoder:
 如堕烟海	rdyh
 热带雨林	rdyl
 人多嘴杂	rdzz
-不入耳	bre
 热	re
 热爱	reai
 热播	rebo
@@ -52401,6 +52410,7 @@ encoder:
 替罪羊	tzy
 投资银行	tzyh
 是	u	uiop
+时	u
 啥	ua
 痧	uab
 沙坝	uaba
@@ -52787,7 +52797,7 @@ encoder:
 手松	ubss
 手速	ubsu
 守岁	ubsv
-傻白甜	ubt
+双胞胎	ubt
 手头	ubtb
 收条	ubtc
 寿堂	ubth
@@ -54439,7 +54449,6 @@ encoder:
 师生	uiug
 时尚	uiuh
 实施	uiui
-试试	uiui
 饰	uiuj
 山重水复疑无路	uiul
 屎	uium
@@ -55410,9 +55419,9 @@ encoder:
 深入人心	urrx
 生荣死哀	ursa
 栓塞	urse
-输入输出	urui
 输入输出设备	urub
 时日尚短	urud
+输入输出	urui
 涮涮	urur
 石蕊试纸	uruv
 水软山温	uruw
@@ -55526,6 +55535,7 @@ encoder:
 水天一色	utys
 石头子儿	utze
 书	uu
+试试	uu
 束	uua
 疏	uuag
 书案	uuan
@@ -62498,6 +62508,7 @@ encoder:
 五项原则	wxyz
 无形资产	wxzi
 无性杂交	wxzj
+唯一	wy
 我也	wy
 晚一步	wyb
 亡羊补牢	wybl
@@ -63660,6 +63671,7 @@ encoder:
 先发优势	xfyu
 兴风作浪	xfzl
 修改	xg
+习惯	xg
 兴国安邦	xgab
 心肝宝贝	xgbb
 县官不如现管	xgbg
@@ -65753,6 +65765,7 @@ encoder:
 雪灾	xtzl
 小兔崽子	xtzz
 需	xu
+小时	xu
 刑事案件	xuaj
 心神不安	xuba
 序跋	xuba
@@ -72285,7 +72298,7 @@ encoder:
 迎送	yyss
 罂粟	yysu
 悠悠岁月	yysy
-一言堂	yyt
+有一天	yyt
 迎头	yytb
 茔	yytb
 硬糖	yyth
@@ -73076,6 +73089,7 @@ encoder:
 自负	zifu
 子承父业	zify
 资费	zifz
+自费	zifz
 紫光	zigd
 资格	zige
 字根	zigf
@@ -80587,6 +80601,7 @@ encoder:
 十八岁	ubsv
 双胞胎	ubtl
 傻白甜	ubtm
+傻白甜	ubtq
 说不通	ubts
 傻不傻	ubua
 手把手	ubub
@@ -83108,8 +83123,10 @@ encoder:
 病休	byxo
 刺绣	cixo
 大修	daxo
+单休	djxo
 倒休	dkxo
 短袖	drxo
+二不休	ebxo
 防锈	fhxo
 返修	fjxo
 腐朽	fuxo
@@ -83140,6 +83157,7 @@ encoder:
 离休	lixo
 老朽	lkxo
 轮休	lpxo
+离退休	ltxo
 领袖	lyxo
 苗绣	mcxo
 蒙羞	mgxo
@@ -83160,6 +83178,7 @@ encoder:
 苏绣	suxo
 调休	tcxo
 套袖	tkxo
+脱口秀	tkxo
 铜锈	tsxo
 退休	tvxo
 铁锈	txxo
@@ -83316,9 +83335,6 @@ encoder:
 糟朽	zkxo
 作秀	zoxo
 做秀	zoxo
-二不休	ebxo
-离退休	ltxo
-脱口秀	tkxo
 # 結束飛濺
 
 # 開始飛鍵 qx -> qo
@@ -83354,9 +83370,6 @@ encoder:
 迫切	poqo
 妻妾	qiqo
 亲切	qnqo
-权且	qrqo
-确切	qtqo
-恰切	qwqo
 且	qo
 且	qoa
 窃案	qoan
@@ -83392,8 +83405,8 @@ encoder:
 切齿	qoii
 切除	qoiu
 锲	qoj
-切记	qoji
 切忌	qoji
+切记	qoji
 切近	qojn
 唼	qok
 切口	qokb
@@ -83405,15 +83418,15 @@ encoder:
 且慢	qomj
 切脉	qoml
 切面	qomm
-切莫	qomo
 且莫	qomo
+切莫	qomo
 妾	qon
 怯懦	qono
 切盼	qopj
 切片	qopm
 切	qoq
-窃取	qoqu
 切切	qoqo
+窃取	qoqu
 伽	qor
 怯弱	qoro
 切入	qoru
@@ -83434,11 +83447,11 @@ encoder:
 切中	qovs
 切勿	qowu
 窃	qox
-窃笑	qoxc
 切削	qoxc
+窃笑	qoxc
 窃喜	qoxi
-慊	qoxj
 惬	qoxj
+慊	qoxj
 切线	qoxm
 怯	qoxq
 惬	qoxq
@@ -83450,6 +83463,9 @@ encoder:
 趄	qoz
 茄子	qozi
 窃贼	qozz
+权且	qrqo
+确切	qtqo
+恰切	qwqo
 热切	reqo
 偷窃	tbqo
 提挈	tiqo
@@ -83465,9 +83481,9 @@ encoder:
 心切	xnqo
 羞怯	xqqo
 行窃	xyqo
+一刀切	ydqo
 一切	yiqo
 殷切	ynqo
 余切	yuqo
 暂且	zjqo
-一刀切	ydqo
 # 結束飛濺
