@@ -1,3 +1,5 @@
+---@dependency lua/zrmdb.txt
+
 local Module = {}
 
 ---Load zrmdb.txt bundled with the standard Moran distribution.
@@ -8,8 +10,14 @@ function Module.load_zrmdb()
    end
    local aux_table = {}
    local pathsep = (package.config or '/'):sub(1, 1)
-   local path = rime_api.get_user_data_dir() .. pathsep .. "lua" .. pathsep .. "zrmdb.txt"
-   for line in io.open(path):lines() do
+   local filename = 'zrmdb.txt'
+   local path = rime_api.get_user_data_dir() .. pathsep .. "lua" .. pathsep .. filename
+   local file = io.open(path) or io.open("/rime/lua/" .. filename)
+   if not file then
+      log.error("moran: failed to open aux file at path " .. path)
+      return
+   end
+   for line in file:lines() do
       line = line:match("[^\r\n]+")
       local key, value = line:match("(.+) (.+)")
       key = utf8.codepoint(key)
@@ -20,6 +28,7 @@ function Module.load_zrmdb()
          table.insert(aux_table[key], value)
       end
    end
+   file:close()
    Module.aux_table = aux_table
    return Module.aux_table
 end
