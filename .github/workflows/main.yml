@@ -81,6 +81,6 @@ jobs:
           # 魔然【繁】
           python3 tools/hamsterUpload.py D5C8710C-DF74-4004-B5C6-742344BCDC69 traditional_artifact.zip --variant 繁體
 
-      - name: Setup tmate session
-        if: ${{ failure() }}
-        uses: mxschmitt/action-tmate@v3
+      # - name: Setup tmate session
+      #   if: ${{ failure() }}
+      #   uses: mxschmitt/action-tmate@v3
