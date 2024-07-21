@@ -18,3 +18,4 @@ default.custom.yaml
 pinyin_simp*
 .venv/
 sync/
+.env
