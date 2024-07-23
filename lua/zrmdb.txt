@@ -39896,7 +39896,8 @@
 𡪨 bs
 𡪩 by
 𡪪 bd
-𡪫 bo
+𡪫 bg
+𡪫 bd
 𡪬 be
 𡪭 ba
 𡪮 bc
@@ -61775,7 +61776,7 @@
 𦰥 cb
 𦰧 cm
 𦰨 cy
-𦰩 ce
+𦰩 cd
 𦰪 cq
 𦰫 cn
 𦰬 cb

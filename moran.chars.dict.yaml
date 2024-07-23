@@ -69715,7 +69715,10 @@ use_preset_vocabulary: false
 𤪼	li;wl	0	# auto
 𬒶	io;uu	0	# auto
 𢁲	yp;jy	0	# auto
-𡪫	gv;bo	0	# auto
+𡪫	gv;bg	0
+𡪫	zk;bd	0
+𡪫	zk;bg	0
+𡪫	gv;bd	0
 𠰕	iu;ik	0	# auto
 𫊎	bi;xt	0	# auto
 𥔥	nk;uw	0	# auto
@@ -89379,8 +89382,8 @@ use_preset_vocabulary: false
 𦰢	no;ce	0	# auto
 𦰨	iu;cy	0	# auto
 𦰨	zb;cy	0	# auto
-𦰩	jn;ce	0	# auto
-𦰩	qn;ce	0	# auto
+𦰩	jn;cd	0	# auto
+𦰩	qn;cd	0	# auto
 𦰮	fu;cb	0	# auto
 𦰴	mi;cm	0	# auto
 𦰵	ky;cd	0	# auto
