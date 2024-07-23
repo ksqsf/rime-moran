@@ -45,41 +45,41 @@ jobs:
             dist/moran.hanyu.dict.yaml
             dist/moran.words.dict.yaml
 
-  upload-to-hamster:
-    needs: [simplified-moran, traditional-moran]
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+  # upload-to-hamster:
+  #   needs: [simplified-moran, traditional-moran]
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: Checkout code
+  #       uses: actions/checkout@v4
 
-      - name: Download Simplified Moran Artifact
-        uses: actions/download-artifact@v3
-        with:
-          name: "简体完整配置包"
-          path: simplified_artifact
+  #     - name: Download Simplified Moran Artifact
+  #       uses: actions/download-artifact@v3
+  #       with:
+  #         name: "简体完整配置包"
+  #         path: simplified_artifact
 
-      - name: Archive Simplified Moran Artifact
-        run: ( cd simplified_artifact/ && zip -r ../simplified_artifact.zip . )
+  #     - name: Archive Simplified Moran Artifact
+  #       run: ( cd simplified_artifact/ && zip -r ../simplified_artifact.zip . )
 
-      - name: Download Traditional Moran Artifact
-        uses: actions/download-artifact@v3
-        with:
-          name: "繁體完整配置包"
-          path: traditional_artifact
+  #     - name: Download Traditional Moran Artifact
+  #       uses: actions/download-artifact@v3
+  #       with:
+  #         name: "繁體完整配置包"
+  #         path: traditional_artifact
 
-      - name: Archive Traditional Moran Artifact
-        run: ( cd traditional_artifact/ && zip -r ../traditional_artifact.zip . )
+  #     - name: Archive Traditional Moran Artifact
+  #       run: ( cd traditional_artifact/ && zip -r ../traditional_artifact.zip . )
 
-      - name: Upload artifacts to Hamster
-        env:
-          HTTP_AUTHORIZATION: ${{ secrets.HTTP_AUTHORIZATION }}
-          HTTP_HAMSTER_USERID: ${{ secrets.HTTP_HAMSTER_USERID }}
-        run: |
-          pip3 install -r tools/requirements.txt
-          # 魔然【简】
-          python3 tools/hamsterUpload.py 0AD56D4E-010E-4961-B6AB-4FFDEA4AA5BF simplified_artifact.zip --variant 简体
-          # 魔然【繁】
-          python3 tools/hamsterUpload.py D5C8710C-DF74-4004-B5C6-742344BCDC69 traditional_artifact.zip --variant 繁體
+  #     - name: Upload artifacts to Hamster
+  #       env:
+  #         HTTP_AUTHORIZATION: ${{ secrets.HTTP_AUTHORIZATION }}
+  #         HTTP_HAMSTER_USERID: ${{ secrets.HTTP_HAMSTER_USERID }}
+  #       run: |
+  #         pip3 install -r tools/requirements.txt
+  #         # 魔然【简】
+  #         python3 tools/hamsterUpload.py 0AD56D4E-010E-4961-B6AB-4FFDEA4AA5BF simplified_artifact.zip --variant 简体
+  #         # 魔然【繁】
+  #         python3 tools/hamsterUpload.py D5C8710C-DF74-4004-B5C6-742344BCDC69 traditional_artifact.zip --variant 繁體
 
       # - name: Setup tmate session
       #   if: ${{ failure() }}
