@@ -41,6 +41,7 @@ function Module.func(translation, env)
 
       local codes = env.aux_table[utf8.codepoint(cand_text)]
       if not codes then
+         yield(cand)
          goto continue
       end
       local codes_str = table.concat(codes, " ")
