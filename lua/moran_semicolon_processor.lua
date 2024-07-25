@@ -28,8 +28,8 @@ local function processor(key_event, env)
    local segment = composition:back()
    local menu = segment.menu
 
-   -- Special case: for 'ovy', just send ';'
-   if context.input:find('^ovy') then
+   -- Special cases: for 'ovy' and 快符, just send ';'
+   if context.input:find('^ovy') or context.input:find('^;') then
       return kNoop
    end
 
