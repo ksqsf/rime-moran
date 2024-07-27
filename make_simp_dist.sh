@@ -3,6 +3,8 @@
 set -e
 set -x
 
+PYTHON=${PYTHON:-python3}
+
 # 若 BUILD_TYPE 为 github，则在准备完内容后直接退出，由 GitHub 负责 zip 打包。
 # 否则调用 7z 产生 7z 包。
 BUILD_TYPE="$1"
@@ -25,7 +27,7 @@ cd dist
 ########################################################################
 echo 更新单字字频...
 cd tools
-python3 schemagen.py --pinyin-table=./data/pinyin_simp.txt  update-char-weight --rime-dict=../moran.chars.dict.yaml > ../moran.chars.dict.yaml.bak
+$PYTHON schemagen.py --pinyin-table=./data/pinyin_simp.txt  update-char-weight --rime-dict=../moran.chars.dict.yaml > ../moran.chars.dict.yaml.bak
 mv ../moran.chars.dict.yaml{.bak,}
 cd ..
 

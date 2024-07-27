@@ -19,3 +19,4 @@ pinyin_simp*
 .venv/
 sync/
 .env
+.pdm-python

@@ -4,9 +4,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: pip3 install -r tools/requirements.txt
+      - run: cd tools && python3 -m pip install pdm && pdm install
       - run: sudo apt install opencc p7zip-full
       - run: ./make_simp_dist.sh github
+        env:
+          PYTHON: pdm run python
       - uses: actions/upload-artifact@v3
         with:
           name: "简体完整配置包"
