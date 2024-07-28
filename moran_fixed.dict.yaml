@@ -4737,6 +4737,7 @@ Bilibili	bvj
 秉	byp
 並排	bypl
 冰片	bypm
+兵	byq
 編譯器	byq
 兵	byqb
 冰橇	byqc
@@ -4745,6 +4746,7 @@ Bilibili	bvj
 兵器	byqi
 摒棄	byqi
 屏氣	byqi
+編譯器	byqi
 半夜敲門心不驚	byqj
 不遠千里	byql
 冰球	byqq
@@ -8566,6 +8568,7 @@ C++	cjj
 地政	divg
 抵賬	divh
 地址	divi
+抵制	divi
 抵債	divl
 地磚	divr
 地主	divu
@@ -8749,6 +8752,7 @@ C++	cjj
 對講機	djj
 單交	djjc
 丹江	djjd
+丼	djjd
 等價交換	djjh
 單機	djji
 淡季	djji
@@ -10286,11 +10290,12 @@ C++	cjj
 冬蟲	dsis
 冬初	dsiu
 第三產業	dsiy
-電視劇	dsj
+丼	dsj
 東郊	dsjc
-第四季度	dsjd
 凍僵	dsjd
 第三季度	dsjd
+第四季度 dsjd
+丼	dsjd
 冬季	dsji
 動機	dsji
 洞見	dsjm
@@ -11182,8 +11187,8 @@ C++	cjj
 釘	dyj
 電影劇本	dyjb
 頂角	dyjc
-第一季度	dyjd
 錠	dyjd
+第一季度	dyjd
 答疑解惑	dyjh
 頂級	dyji
 東一句西一句	dyjj
@@ -14507,6 +14512,7 @@ C++	cjj
 噶廈	gaxw
 尬	gay
 苟安一隅	gayy
+曱甴	gaza
 高傲自大	gazd
 嘎子	gazi
 夠	gb
@@ -23961,7 +23967,6 @@ C++	cjj
 產	ijw
 出家爲僧	ijws
 產物	ijwu
-朝九晚五	vjww
 懺	ijx
 產銷	ijxc
 饞涎	ijxm
@@ -24150,6 +24155,7 @@ C++	cjj
 訬	iky
 喫糠咽菜	ikyc
 朝野	ikye
+朝陽	ikyh
 超逸	ikyi
 潮音	ikyn
 超員	ikyr
@@ -27945,6 +27951,7 @@ C++	cjj
 幾乎	johu
 幾句	joju
 幾塊	joky
+幾率	jolv
 幾秒	jomc
 幾名	jomy
 幾年	jonm
@@ -30131,6 +30138,7 @@ C++	cjj
 鏡	jyj
 驚叫	jyjc
 精講	jyjd
+丼	jyjd
 家有家規	jyjg
 經濟	jyji
 競技	jyji
@@ -31031,9 +31039,9 @@ C++	cjj
 開弓不放箭	kgbj
 客觀存在	kgcz
 開國大典	kgdd
-阬	kge
 坑道	kgdk
 坑爹	kgdx
+阬	kge
 客觀規律	kggl
 跨國公司	kggs
 坑害	kghl
@@ -35011,7 +35019,9 @@ C++	cjj
 掄起	lpqi
 倫琴	lpqn
 倫	lpr
+侖	lpr
 侖	lprc
+倫	lprl
 綸	lps
 淪喪	lpsh
 埨	lpt
@@ -49713,13 +49723,13 @@ PC端	pcdr
 三昧真火	smvh
 司馬昭之心	smvx
 三民主義	smvy
+什麼玩意	smwy
 喪門星	smx
 四目相對	smxd
 算命先生	smxu
 什麼樣	smy
 什麼樣的	smyd
 什麼意思	smys
-什麼玩意	smwy
 肆虐	sn
 三年不鳴	snbm
 三年不開張	snbv
@@ -52430,12 +52440,13 @@ PC端	pcdr
 田產	tmij
 天朝	tmik
 填充	tmis
-靦	tmj
+覥	tmj
 天驕	tmjc
 天將	tmjd
 甜醬	tmjd
 天際	tmji
 田間	tmjm
+靦	tmjm
 天津	tmjn
 甜酒	tmjq
 銛	tmju
@@ -60404,6 +60415,7 @@ PC端	pcdr
 助桀爲虐	vjwn
 站務	vjwu
 至今爲止	vjwv
+朝九晚五	vjww
 站位	vjwz
 正襟危坐	vjwz
 怗	vjx
@@ -64058,6 +64070,7 @@ WiFi	wifi
 物產	wuij
 吾儕	wuil
 誤傳	wuir
+無重	wuis
 誤觸	wuiu
 無處	wuiu
 螐	wuiw
@@ -64250,7 +64263,6 @@ WiFi	wifi
 污濁	wuvo
 外生殖器	wuvq
 物種	wuvs
-無重	wuvs
 無助	wuvu
 捂住	wuvu
 萬獸之王	wuvw
@@ -64458,6 +64470,8 @@ WiFi	wifi
 勿忘在莒	wwzj
 嗡嗡作響	wwzx
 微信	wx
+微小	wx
+微笑	wx
 外興安嶺	wxal
 吳下阿蒙	wxam
 戊戌變法	wxbf
@@ -71957,6 +71971,7 @@ WiFi	wifi
 藥皂	ykzk
 瑤族	ykzu
 咬嘴	ykzv
+邀	ykzw
 以來	yl
 一覽表	ylb
 意料不到	ylbd
@@ -73464,7 +73479,6 @@ WiFi	wifi
 約束	ytuu
 礿	ytuu
 籥	ytv
-曱甴	ytva
 勇挑重擔	ytvd
 揚湯止沸	ytvf
 樂章	ytvh
@@ -77216,7 +77230,6 @@ WiFi	wifi
 賊子	zzzi
 自作自受	zzzu
 自自在在	zzzz
-抵制	divi
 
 啊啊啊	aaaa
 愛不愛	abai

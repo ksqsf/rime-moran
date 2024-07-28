@@ -34052,6 +34052,7 @@ use_preset_vocabulary: false
 𨽕	ty;et	0
 𤕈	lm;vl	0
 𩠐	ub;iz	0
+丼	ds;jd	39
 
 # 偏旁部首
 丆	pp;ap	0
@@ -34180,6 +34181,7 @@ use_preset_vocabulary: false
 𠂉	pp;ra	0
 𠃓	pp;yp	0
 𥫗	pp;vd	0
+⻗	pp;yu	0
 
 # 其他增補
 〇	ly;aa	981
@@ -34213,6 +34215,7 @@ use_preset_vocabulary: false
 兣	like;kl	0
 𠒐	wjke;kw	0
 圕	tuuugr;ku	0
+𱕸	tuuugr;ku	0
 
 #---------- 增補1
 㐜	ib;qj	0	# auto

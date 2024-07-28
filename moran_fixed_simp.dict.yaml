@@ -8272,6 +8272,7 @@ C++	cjj
 抵账	divh
 篪	divh
 地址	divi
+抵制	divi
 抵债	divl
 地砖	divr
 地主	divu
@@ -8452,6 +8453,7 @@ C++	cjj
 对讲机	djj
 单交	djjc
 丹江	djjd
+丼	djjd
 等价交换	djjh
 单机	djji
 淡季	djji
@@ -9917,11 +9919,12 @@ C++	cjj
 冬虫	dsis
 冬初	dsiu
 第三产业	dsiy
-电视剧	dsj
+丼	dsj
 东郊	dsjc
-第四季度	dsjd
 冻僵	dsjd
 第三季度	dsjd
+第四季度	dsjd
+丼	dsjd
 冬季	dsji
 动机	dsji
 洞见	dsjm
@@ -10759,6 +10762,7 @@ C++	cjj
 电影剧本	dyjb
 顶角	dyjc
 锭	dyjd
+第一季度	dyjd
 答疑解惑	dyjh
 顶级	dyji
 东一句西一句	dyjj
@@ -13929,6 +13933,7 @@ C++	cjj
 尜	gaxx
 尬	gay
 苟安一隅	gayy
+曱甴	gaza
 高傲自大	gazd
 嘎子	gazi
 够	gb
@@ -23135,7 +23140,6 @@ C++	cjj
 产	ijw
 出家为僧	ijws
 产物	ijwu
-朝九晚五	vjww
 忏	ijx
 产销	ijxc
 馋涎	ijxm
@@ -23321,6 +23325,7 @@ C++	cjj
 吵醒	ikxy
 吃糠咽菜	ikyc
 朝野	ikye
+朝阳	ikyh
 超逸	ikyi
 潮音	ikyn
 超员	ikyr
@@ -27006,6 +27011,7 @@ C++	cjj
 几乎	johu
 几句	joju
 几块	joky
+几率	jolv
 几秒	jomc
 几名	jomy
 几年	jonm
@@ -29143,6 +29149,7 @@ C++	cjj
 镜	jyj
 惊叫	jyjc
 精讲	jyjd
+丼	jyjd
 家有家规	jyjg
 经济	jyji
 竞技	jyji
@@ -33915,7 +33922,9 @@ C++	cjj
 抡起	lpqi
 伦琴	lpqn
 伦	lpr
+仑	lpr
 仑	lprb
+伦	lprl
 纶	lps
 沦丧	lpsh
 论题	lpti
@@ -50740,7 +50749,7 @@ C++	cjj
 天朝	tmik
 蚺	tmir
 填充	tmis
-钿	tmj
+觍	tmj
 天骄	tmjc
 天将	tmjd
 甜酱	tmjd
@@ -58526,6 +58535,7 @@ C++	cjj
 助桀为虐	vjwn
 站务	vjwu
 至今为止	vjwv
+朝九晚五	vjww
 站位	vjwz
 正襟危坐	vjwz
 展销	vjxc
@@ -62073,6 +62083,7 @@ C++	cjj
 物产	wuij
 吾侪	wuil
 误传	wuir
+无重	wuis
 误触	wuiu
 无处	wuiu
 钨	wuj
@@ -62257,7 +62268,6 @@ C++	cjj
 毋	wuvp
 外生殖器	wuvq
 物种	wuvs
-无重	wuvs
 无助	wuvu
 捂住	wuvu
 万兽之王	wuvw
@@ -62459,6 +62469,8 @@ C++	cjj
 勿忘在莒	wwzj
 嗡嗡作响	wwzx
 微信	wx
+微小	wx
+微笑	wx
 外兴安岭	wxal
 吴下阿蒙	wxam
 戊戌变法	wxbf
@@ -71134,7 +71146,6 @@ C++	cjj
 尧天舜日	ytur
 约束	ytuu
 籥	ytv
-曱甴	ytva
 勇挑重担	ytvd
 扬汤止沸	ytvf
 乐章	ytvh
@@ -74794,7 +74805,6 @@ C++	cjj
 贼子	zzzi
 自作自受	zzzu
 自自在在	zzzz
-抵制	divi
 
 啊啊啊	aaaa
 爱不爱	abai
