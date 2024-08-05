@@ -324,8 +324,8 @@ function Module.aux_list(env, word)
       local f_aux_list = env.aux_table[first]
       local l_aux_list = env.aux_table[last]
 
-      for i, f_aux in pairs(f_aux_list) do
-         for j, l_aux in pairs(l_aux_list) do
+      for i, f_aux in pairs(f_aux_list or {}) do
+         for j, l_aux in pairs(l_aux_list or {}) do
             table.insert(aux_list, f_aux:sub(1,1) .. l_aux:sub(1,1))
             table.insert(aux_list, l_aux:sub(1,1) .. f_aux:sub(1,1))
          end
