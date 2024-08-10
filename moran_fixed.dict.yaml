@@ -982,6 +982,7 @@ AA制	aavi
 百步穿楊	bbiy
 步步緊逼	bbjb
 不變價格	bbjg
+白白淨淨	bbjj
 變本加厲	bbjl
 比比皆是	bbju
 標本兼治	bbjv
@@ -1009,6 +1010,7 @@ AA制	aavi
 兵敗如山倒	bbrd
 並不認爲	bbrw
 並不容易	bbry
+白白送死	bbss
 巴比特合金	bbtj
 蹦蹦跳跳	bbtt
 並不是	bbu
@@ -9235,6 +9237,7 @@ C++	cjj
 帶點	dldm
 帶電	dldm
 怠惰	dldo
+頓了頓	dldp
 顛來倒去	dldq
 帶動	dlds
 點了點頭	dldt
@@ -11146,6 +11149,7 @@ C++	cjj
 定額	dyee
 掟	dyf
 等因奉此	dyfc
+獨一份	dyff
 頂峰	dyfg
 頂峯	dyfg
 訂房	dyfh
@@ -35330,6 +35334,7 @@ C++	cjj
 令人尷尬	lrgg
 亂搞	lrgk
 令人感慨	lrgk
+令人感嘆	lrgt
 令人鼓舞	lrgw
 令人高興	lrgx
 卵黃	lrhd
@@ -35710,6 +35715,7 @@ C++	cjj
 量身定做	ludz
 陸	lue
 擼	luf
+路縫	lufg
 錄放	lufh
 擄	lufl
 摝	lufl
@@ -37569,6 +37575,7 @@ C++	cjj
 獼	miq
 名垂千古	miqg
 明察秋毫	miqh
+眯起	miqi
 明察秋毫之末	miqm
 覓求	miqq
 名垂青史	miqu
@@ -40188,6 +40195,7 @@ C++	cjj
 妮	nin
 妳	nine
 婗	nine
+你能	ning
 能喫能喝	ninh
 呢喃	ninj
 泥淖	nink
@@ -42275,6 +42283,7 @@ PC端	pcdr
 旁及	phji
 耪	phl
 澎湖列島	phld
+破壞力	phli
 旁落	phlo
 炮火連天	phlt
 旁路	phlu
@@ -44396,6 +44405,7 @@ PC端	pcdr
 全國第一	qgdy
 全國各地	qggd
 全國冠軍	qggj
+羣公告	qggk
 曲高和寡	qghg
 去國懷鄉	qghx
 氣貫長虹	qgih
@@ -45608,6 +45618,7 @@ PC端	pcdr
 羣友	qpyb
 裙	qpyj
 千篇一律	qpyl
+羣員	qpyr
 羣英	qpyy
 逡	qpz
 裙子	qpzi
@@ -46318,6 +46329,7 @@ PC端	pcdr
 區分	quff
 曲風	qufg
 趨奉	qufg
+取反	qufj
 屈服	qufu
 屈光	qugd
 趨光	qugd
@@ -50649,6 +50661,9 @@ PC端	pcdr
 踏步	tabu
 漯	tad
 塔吊	tadc
+他的	tade
+她的	tade
+它的	tade
 涾	tadt
 塔頂	tady
 拓	taf
@@ -50687,6 +50702,8 @@ PC端	pcdr
 闥	tamd
 榙	tamd
 他們	tamf
+她們	tamf
+它們	tamf
 天安門廣場	tami
 闟	tamx
 闒	tamy
@@ -50719,6 +50736,7 @@ PC端	pcdr
 踏雪	taxt
 鰨	tay
 拓印	tayn
+他用	tays
 誻	tayt
 踏	taz
 遝	tazd
@@ -52238,6 +52256,7 @@ PC端	pcdr
 抬舉	tlju
 擡價	tljw
 臺階	tljx
+太卡	tlka
 太狂	tlkd
 脫離苦海	tlkh
 抬扛	tlkh
@@ -61539,6 +61558,7 @@ PC端	pcdr
 指天誓日	vtur
 知疼着熱	vtvr
 折騰折騰	vtvt
+諸天萬界	vtwj
 針頭線腦	vtxn
 偵探小說	vtxu
 蒸騰作用	vtzy
@@ -61805,6 +61825,7 @@ PC端	pcdr
 主題	vuti
 主體	vuti
 燭臺	vutl
+諸天	vutm
 囑託	vuto
 駐屯	vutp
 竹筒	vuts
@@ -62135,6 +62156,7 @@ PC端	pcdr
 佔爲己有	vwjy
 賺外快	vwk
 抓狂	vwkd
+抓来	vwll
 張王李趙	vwlv
 檛	vwm
 真僞莫辨	vwmb
@@ -63700,6 +63722,7 @@ WiFi	wifi
 臥槽	wock
 薶	wocl
 沃	wod
+我都	wodb
 濣	wodd
 渦	wodg
 濄	wodg
@@ -63720,6 +63743,7 @@ WiFi	wifi
 臥軌	wogv
 倭瓜	wogw
 窩火	woho
+我會	wohv
 臥	woi
 臥牀	woid
 臥車	woie
@@ -63731,6 +63755,7 @@ WiFi	wifi
 幄	woj
 握緊	wojn
 我軍	wojp
+我就	wojq
 蝸居	woju
 萵苣	woju
 窩家	wojw
@@ -63781,10 +63806,12 @@ WiFi	wifi
 窩窩	wowo
 喔喔	wowo
 窩	wox
+我想	woxd
 窩心	woxn
 斡旋	woxr
 握有	woyb
 沃野	woye
+我要	woyk
 踒	woz
 窩贓	wozh
 窩子	wozi
@@ -67556,6 +67583,7 @@ WiFi	wifi
 信任投票	xrtp
 宣統	xrts
 心如鐵石	xrtu
+玄鐵	xrtx
 懸停	xrty
 選手	xrub
 懸賞	xruh
@@ -67893,6 +67921,7 @@ WiFi	wifi
 學術	xtuu
 血水	xtuv
 岤	xtux
+学渣	xtva
 學者	xtve
 血證	xtvg
 學長	xtvh
@@ -74975,6 +75004,7 @@ WiFi	wifi
 雜物	zawu
 雜務	zawu
 雜項	zaxd
+砸下	zaxw
 咋樣	zayh
 雜役	zayi
 雜音	zayn

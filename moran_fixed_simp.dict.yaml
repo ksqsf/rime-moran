@@ -954,6 +954,7 @@ encoder:
 百步穿杨	bbiy
 步步紧逼	bbjb
 不变价格	bbjg
+白白净净	bbjj
 变本加厉	bbjl
 比比皆是	bbju
 标本兼治	bbjv
@@ -981,6 +982,7 @@ encoder:
 兵败如山倒	bbrd
 并不认为	bbrw
 并不容易	bbry
+白白送死	bbss
 巴比特合金	bbtj
 蹦蹦跳跳	bbtt
 并不是	bbu
@@ -8919,6 +8921,7 @@ C++	cjj
 带点	dldm
 带电	dldm
 怠惰	dldo
+顿了顿	dldp
 颠来倒去	dldq
 带动	dlds
 点了点头	dldt
@@ -10723,6 +10726,7 @@ C++	cjj
 耵	dye
 定额	dyee
 等因奉此	dyfc
+独一份	dyff
 顶峰	dyfg
 订房	dyfh
 电影放映机	dyfj
@@ -34216,6 +34220,7 @@ C++	cjj
 令人尴尬	lrgg
 乱搞	lrgk
 令人感慨	lrgk
+令人感叹	lrgt
 令人鼓舞	lrgw
 令人高兴	lrgx
 卵黄	lrhd
@@ -34606,6 +34611,7 @@ C++	cjj
 量身定做	ludz
 陆	lue
 掳	luf
+路缝	lufg
 录放	lufh
 利税分流	lufl
 撸	lufl
@@ -36392,6 +36398,7 @@ C++	cjj
 狝	miqe
 名垂千古	miqg
 明察秋毫	miqh
+眯起	miqi
 明察秋毫之末	miqm
 觅求	miqq
 名垂青史	miqu
@@ -38915,6 +38922,7 @@ C++	cjj
 匿名	nimy
 泥煤	nimz
 妮	nin
+你能	ning
 能吃能喝	ninh
 呢喃	ninj
 泥淖	nink
@@ -40840,6 +40848,7 @@ C++	cjj
 旁及	phji
 旁	phl
 澎湖列岛	phld
+破坏力	phli
 旁落	phlo
 耪	phlp
 尨	phlp
@@ -42952,6 +42961,7 @@ C++	cjj
 全国第一	qgdy
 全国各地	qggd
 全国冠军	qggj
+群公告	qggk
 曲高和寡	qghg
 去国怀乡	qghx
 气贯长虹	qgih
@@ -44104,6 +44114,7 @@ C++	cjj
 裙	qpy
 群友	qpyb
 千篇一律	qpyl
+群员	qpyr
 群英	qpyy
 逡	qpz
 裙子	qpzi
@@ -44786,6 +44797,7 @@ C++	cjj
 区分	quff
 曲风	qufg
 趋奉	qufg
+取反	qufj
 屈服	qufu
 屈光	qugd
 趋光	qugd
@@ -49018,6 +49030,9 @@ C++	cjj
 漯	tad
 塔吊	tadc
 溚	tadd
+他的	tade
+她的	tade
+它的	tade
 溚	tadh
 塔顶	tady
 溻	tady
@@ -49082,6 +49097,7 @@ C++	cjj
 踏雪	taxt
 鳎	tay
 拓印	tayn
+他用	tays
 褟	tayy
 踏	taz
 趿	tazj
@@ -50545,6 +50561,7 @@ C++	cjj
 擡价	tljw
 台阶	tljx
 呔	tlk
+太卡	tlka
 太狂	tlkd
 脱离苦海	tlkh
 抬扛	tlkh
@@ -59622,6 +59639,7 @@ C++	cjj
 指天誓日	vtur
 知疼着热	vtvr
 折腾折腾	vtvt
+诸天万界	vtwj
 针头线脑	vtxn
 侦探小说	vtxu
 蒸腾作用	vtzy
@@ -59873,6 +59891,7 @@ C++	cjj
 主题	vuti
 主体	vuti
 烛台	vutl
+诸天	vutm
 嘱托	vuto
 驻屯	vutp
 竹筒	vuts
@@ -60181,6 +60200,7 @@ C++	cjj
 占为己有	vwjy
 赚外快	vwk
 抓狂	vwkd
+抓来	vwll
 张王李赵	vwlv
 真伪莫辨	vwmb
 转弯抹角	vwmj
@@ -61719,6 +61739,7 @@ C++	cjj
 窝藏	woch
 卧槽	wock
 沃	wod
+我都	wodb
 涡	wodg
 我党	wodh
 卧底	wodi
@@ -61738,6 +61759,7 @@ C++	cjj
 卧轨	wogv
 倭瓜	wogw
 窝火	woho
+我会	wohv
 卧	woi
 卧床	woid
 卧车	woie
@@ -61752,6 +61774,7 @@ C++	cjj
 鋈	woj
 握紧	wojn
 我军	wojp
+我就	wojq
 蜗居	woju
 莴苣	woju
 窝家	wojw
@@ -61794,10 +61817,12 @@ C++	cjj
 窝窝	wowo
 喔喔	wowo
 窝	wox
+我想	woxd
 窝心	woxn
 斡旋	woxr
 握有	woyb
 沃野	woye
+我要	woyk
 踒	woz
 窝赃	wozh
 窝子	wozi
@@ -65409,6 +65434,7 @@ C++	cjj
 信任投票	xrtp
 宣统	xrts
 心如铁石	xrtu
+玄铁	xrtx
 悬停	xrty
 禤	xru
 选手	xrub
@@ -65746,6 +65772,7 @@ C++	cjj
 血栓	xtur
 学术	xtuu
 血水	xtuv
+学渣	xtva
 学者	xtve
 血证	xtvg
 学长	xtvh
@@ -72592,6 +72619,7 @@ C++	cjj
 杂物	zawu
 杂务	zawu
 杂项	zaxd
+砸下	zaxw
 咋样	zayh
 杂役	zayi
 杂音	zayn
