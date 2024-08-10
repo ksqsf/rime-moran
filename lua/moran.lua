@@ -1,4 +1,4 @@
----@dependency lua/zrmdb.txt
+---@dependency zrmdb.txt
 
 local Module = {}
 
