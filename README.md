@@ -22,9 +22,13 @@
 - [常見問題](https://github.com/ksqsf/rime-moran/wiki/%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C)
 - [下載簡體版](https://github.com/ksqsf/rime-moran/wiki/%E7%AE%80%E4%BD%93%E7%89%88)
 
-| 簡快碼                              | 整句輔助                                 |
+| 簡快碼                              | 整句輔助模式                             |
 |-------------------------------------|------------------------------------------|
 | ![簡快碼](./etc/screenshot-bql.png) | ![整句輔助碼](./etc/screenshot-poem.png) |
+
+**輔助碼篩選模式**
+
+https://github.com/user-attachments/assets/ca8a8c1f-d076-47de-94b0-4e935a99a516
 
 ## 鳴謝
 
