@@ -1,3 +1,4 @@
+⻗ yu
 〇 aa
 の aa
 㐀 aa
@@ -6925,7 +6926,6 @@
 亣 wd
 交 li
 交 wf
-交 df
 亥 wr
 亥 dd
 亦 wb
@@ -6943,7 +6943,6 @@
 京 wx
 亭 wd
 亭 db
-亭 dd
 亮 wj
 亮 jb
 亯 dr
@@ -7723,7 +7722,6 @@
 兔 dd
 兕 ea
 兖 ly
-兖 de
 兖 we
 兗 lx
 兗 wx
@@ -25251,7 +25249,6 @@
 衮 ly
 衮 yg
 衮 wy
-衮 dy
 衯 yf
 衰 yv
 衰 wy
