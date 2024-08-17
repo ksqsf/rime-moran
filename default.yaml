@@ -8,7 +8,6 @@ schema_list:
   - schema: moran_fixed
   - schema: moran_sentence
   - schema: moran_aux
-  - schema: moran_bj
   - schema: tiger
   # - schema: luna_pinyin
   # - schema: luna_pinyin_simp
