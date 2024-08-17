@@ -1834,6 +1834,16 @@ end
 
 local function translator(input, seg)
   if (input == "odate" or input == "orq") then
+    date = os.date("%Y-%m-%d")
+    num_year = os.date("%j/") .. IsLeap(os.date("%Y"))
+    candidate = Candidate("date", seg.start, seg._end, date, num_year)
+    yield(candidate)
+
+    date = os.date("%Y/%m/%d")
+    num_year = os.date("%j/") .. IsLeap(os.date("%Y"))
+    candidate = Candidate("date", seg.start, seg._end, date, num_year)
+    yield(candidate)
+
     date = os.date("%Y.%m.%d")
     num_year = os.date("%j/") .. IsLeap(os.date("%Y"))
     candidate = Candidate("date", seg.start, seg._end, date, num_year)
@@ -1841,10 +1851,6 @@ local function translator(input, seg)
 
     date = os.date("%Y年%m月%d日")
     candidate = Candidate("date", seg.start, seg._end, date, num_year)
-    yield(candidate)
-
-    date = os.date("%Y.%m.%d")
-    candidate = Candidate("date", seg.start, seg._end, string.gsub(os.date("%b %d, %Y"), "([^%d])0+", "%1"), num_year)
     yield(candidate)
 
     date = string.gsub(os.date("%m/%d/%Y"), "([^%d])0+", "%1")
