@@ -297,7 +297,7 @@ recognizer:
     reverse_bopomofo: '^ovy[A-Za-z0-9,.;/\-]*$'
     unicode: "^U[a-fA-F0-9]+"
     punct: '^/([0-9]0?|[A-Za-z]+)$'
-    has_emoji: '^[a-np-z][a-z/]*$'  # CAVEAT: exclude ^; and ^o
+    has_emoji: '^[a-z][a-z/]*$'  # CAVEAT: exclude ^;
 
 moran:
   # 簡快碼提示符
