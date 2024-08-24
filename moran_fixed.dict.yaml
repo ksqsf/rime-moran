@@ -20,6 +20,8 @@ encoder:
       formula: "AaBaCaCb"
     - length_in_range: [4, 32]
       formula: "AaBaCaZa"
+import_tables:
+  - moran_fixed.symbols
 ...
 
 #----------標點符號----------#
@@ -6908,6 +6910,7 @@ C++	cjj
 存亡未卜	cwwb
 從未有過	cwyg
 才行	cx
+操作系統	cx
 此消彼長	cxbv
 磁性材料	cxcl
 操心操心	cxcx
@@ -19626,6 +19629,7 @@ C++	cjj
 浩蕩	hkdh
 濠	hkdh
 澔	hkdh
+好滴	hkdi
 會哭的孩子有奶喫	hkdi
 好歹	hkdl
 好點	hkdm
@@ -41765,7 +41769,6 @@ C++	cjj
 喔	ookw
 哦	ookw
 哦哦哦	ooo
-操作系統	os
 歐	ou
 藕	ouc
 藲	oucq
@@ -85781,7 +85784,6 @@ WiFi	wifi
 鍆	ocmd
 鍩	ocno
 鐒	oclr
-
 
 # 開始飛鍵 xq -> xo
 罷休	baxo

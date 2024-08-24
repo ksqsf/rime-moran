@@ -21,6 +21,8 @@ encoder:
       formula: "AaBaCaCb"
     - length_in_range: [4, 32]
       formula: "AaBaCaZa"
+import_tables:
+  - moran_fixed.symbols
 ...
 
 #----------标点符号----------#
@@ -6669,6 +6671,7 @@ C++	cjj
 存亡未卜	cwwb
 从未有过	cwyg
 才行	cx
+操作系统	cx
 此消彼长	cxbv
 磁性材料	cxcl
 操心操心	cxcx
@@ -18955,6 +18958,7 @@ C++	cjj
 浩荡	hkdh
 濠	hkdh
 淏	hkdh
+好滴	hkdi
 会哭的孩子有奶吃	hkdi
 好歹	hkdl
 好点	hkdm
@@ -40348,7 +40352,6 @@ C++	cjj
 喔	ookw
 嚄	ooky
 哦哦哦	ooo
-操作系统	os
 欧	ou
 禺	oua
 藕	ouc
