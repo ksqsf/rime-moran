@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/ca8a8c1f-d076-47de-94b0-4e935a99a516
 
 + Thank Rime for its high-quality input method software and dictionaries;
 + Original Ziranma data: [rime-zrm](https://github.com/bigshans/rime-zrm);
-+ Some of the Lua scripts: [Tu's Tiger-code Rime schema](https://tiger-code.com/);
++ Some of the Lua scripts: [98wubi team](https://98wb.github.io/), and [Tu's Tiger-code Rime schema](https://tiger-code.com/);
 + Color schemes: [ssnhd/Rime](https://github.com/ssnhd/rime/), [KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian/), Tu's Tiger-code and others;
 + Other dictionaries: acknowledged in the dictionary files.
 

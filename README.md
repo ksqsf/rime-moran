@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/ca8a8c1f-d076-47de-94b0-4e935a99a516
 
 + Rime 項目所發佈的高品質輸入法程序和詞庫
 + 自然碼原始碼表：[rime-zrm](https://github.com/bigshans/rime-zrm)
-+ 部分 Lua 腳本：[秃版虎碼 Rime 方案](https://tiger-code.com/)
++ 部分 Lua 腳本：[98五筆小組](https://98wb.github.io/)、[秃版虎碼 Rime 方案](https://tiger-code.com/)
 + 皮膚：[ssnhd/Rime](https://github.com/ssnhd/rime/)、[KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian/)、秃版虎码方案和零星收集等
 + 其他詞庫：在詞庫文件中標出
 
