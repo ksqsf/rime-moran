@@ -37,6 +37,11 @@ function Module.init(env)
    env.aux_table = moran.load_zrmdb()
    env.translator = Component.Translator(env.engine, "", "script_translator@translator")
    env.prefetch_threshold = env.engine.schema.config:get_int("moran/prefetch") or -1
+   -- 四码词组优先
+   env.is_phrase_first = env.engine.schema.config:get_bool("moran_aux/phrase_first") or false
+   env.single_word_code_len = env.is_word_priority and 4 or 3
+   -- 输入辅助码首选后移
+   env.is_aux_priority = env.engine.schema.config:get_bool("moran_aux/aux_priority") or true
 
    local aux_length = nil
 
@@ -84,155 +89,57 @@ function Module.fini(env)
 end
 
 function Module.func(input, seg, env)
-   -- 每 10% 的翻譯觸發一次 GC
-   if math.random() < 0.1 then
-      collectgarbage()
-   end
-
-   local input_len = utf8.len(input)
-
-   if input_len <= 2 then
-      for cand, _ in Module.translate_without_aux(env, seg, input) do
-         yield(cand)
+  -- 每 10% 的翻譯觸發一次 GC
+  if math.random() < 0.1 then
+    collectgarbage()
+  end
+  local input_len = utf8.len(input)
+  if input_len <= env.single_word_code_len then
+    local sp = input:sub(1, 2)
+    local aux = input:sub(3, input_len)
+    local iter = aux.len and Module.translate_with_aux(env, seg, sp, aux) or Module.translate_without_aux(env, seg, input)
+    local char_cand = iter()
+    if char_cand then
+      yield(char_cand)
+      for cand in iter do
+        yield(cand)
       end
-   elseif input_len == 3 then
-      local sp = input:sub(1, input_len-1)
-      local aux = input:sub(input_len, input_len)
-      local iter = Module.translate_with_aux(env, seg, sp, aux)
-      local char_cand = iter()
-      if char_cand and char_cand.comment ~= "" then
-         yield(char_cand)
-         for cand in iter do
-            yield(cand)
-         end
-      else
-         local second_iter = Module.translate_without_aux(env, seg, input)
-         for cand in second_iter do
-            yield(cand)
-         end
+    end
+  elseif input_len % 2 == 1 then
+    local sp = input:sub(1, input_len - 1)
+    local aux = input:sub(input_len, input_len)
+    local iter = Module.translate_with_aux(env, seg, sp, aux)
+    local char_cand = iter()
+    if char_cand then
+      yield(char_cand)
+      for cand in iter do
+        yield(cand)
       end
-   elseif input_len % 2 == 0 then
-      -- first_iter 对应于无辅助码的候选
-      local first_iter = Module.translate_without_aux(env, seg, input)
-      local first_cand = first_iter()
-      if first_cand then
-         -- 优先输出句子
-         if first_cand.type == "sentence" then
-            yield(first_cand)
-            first_cand = first_iter()
-         end
-      end
-
-      -- second_iter 对应于有辅助码的候选
-      -- 当 input_len == 4 时，second_iter 里应该只有单字
-      -- 这里只从里面取出匹配的候选（phrase or user_phrase），并前置
-      local sp = input:sub(1, input_len-2)
-      local aux = input:sub(input_len-1, input_len)
-      local second_iter = Module.translate_with_aux(env, seg, sp, aux)
-      local second_cand = second_iter()
-      if second_cand and second_cand.type == "sentence" then
-         -- 跳过句子，这个句子和 first_iter 的句子只差一个字
-         second_cand = second_iter()
-      end
-
-      -- 從此開始，依 quality 輸出 first_iter 中的候選 和 second_iter 中匹配的候選
-      local i = 0
-      while first_cand or second_cand do
-         -- 在輸出 first_cand 的 4 個候選之後，無條件先輸出 second_cand 帶輔的候選。
-         -- 也就是允許 WORD_TOLERANCE 個詞出現在被輔的字之前。
-         if i >= Module.WORD_TOLERANCE and second_cand then
-            if second_cand.comment ~= "" then
-               yield(second_cand)
-            end
-            for c in second_iter do
-               if c.comment ~= "" then
-                  yield(c)
-               else
-                  break
-               end
-            end
-            second_cand = nil
-         end
-         if (second_cand and second_cand.comment ~= "") and first_cand then
-            if first_cand.text == second_cand.text or first_cand.quality < second_cand.quality
-               or (input_len == 4 and utf8.len(second_cand.text) == 1 and second_cand.comment ~= "" and utf8.len(first_cand.text) == 1)
-            then
-               yield(second_cand)
-               i = i + 1
-               second_cand = second_iter()
-            else
-               yield(first_cand)
-               i = i + 1
-               first_cand = first_iter()
-            end
-         elseif first_cand then   -- second_iter done
-            yield(first_cand)
-            i = i + 1
-            first_cand = first_iter()
-         elseif second_cand then  -- first_iter done
-            if second_cand.comment ~= "" then
-               yield(second_cand)
-               i = i + 1
-               second_cand = second_iter()
-            else
-               -- 没有符合条件的候选了，不再继续探索
-               second_cand = nil
-            end
-         end
-      end
-   else  -- input_len >= 5
-      local first_iter = Module.translate_without_aux(env, seg, input)
-      local first_cand = first_iter()
-
-      local sp = input:sub(1, input_len-1)
-      local aux = input:sub(input_len, input_len)
-      local second_iter = Module.translate_with_aux(env, seg, sp, aux)
-      local second_cand = second_iter()
-      if second_cand then
-         local typ = second_cand.type
-         local second_len = utf8.len(second_cand.text)
-         local second_is_lifted = second_cand.comment ~= ""
-         -- this is a lifted word, drop first_cand then.
-         if (typ == "phrase" or typ == "user_phrase") and second_len > 1 and second_is_lifted then
-            yield(second_cand)
-         else
-            if first_cand then
-               yield(first_cand)
-            end
-            if typ ~= "sentence" then
-               yield(second_cand)
-            end
-         end
-      else
-         if first_cand then
-            yield(first_cand)
-         end
-      end
-
-      for cand in second_iter do
-         yield(cand)
-      end
-   end
+    end
+  elseif input_len % 2 == 0 then
+    for cand, _ in Module.translate_without_aux(env, seg, input) do
+      yield(cand)
+    end
+  end
 end
 
 -- nil = unrestricted
 function Module.get_prefetch_threshold(env, sp)
-   local p = env.prefetch_threshold or -1
-   if p <= 0 then
-      return nil
-   end
-   if BIG_SYLLABLES[sp] then
-      return math.max(BIG_SYLLABLES[sp], p)
-   else
-      return p
-   end
+  local p = env.prefetch_threshold or -1
+  if p <= 0 then
+    return nil
+  end
+  if BIG_SYLLABLES[sp] then
+    return math.max(BIG_SYLLABLES[sp], p)
+  else
+    return p
+  end
 end
 
 -- Returns a stateful iterator of <Candidate, String?>.
 function Module.translate_with_aux(env, seg, sp, aux)
    local iter = Module.translate_without_aux(env, seg, sp)
    local threshold = Module.get_prefetch_threshold(env, sp)
-
    local matched = {}
    local unmatched = {}
    local n_matched = 0
@@ -281,6 +188,15 @@ function Module.translate_without_aux(env, seg, sp)
       local c = advance(obj)
       return c, nil
    end
+end
+
+function Module.aux_for_first(env, seg, sp)
+end
+
+function Module.aux_for_last(env, seg, sp)
+end
+
+function Module.aux_for_any(env, seg, sp)
 end
 
 function Module.candidate_match(env, cand, aux)
@@ -334,55 +250,5 @@ function Module.aux_list(env, word)
 
    return aux_list
 end
-
--- Not used currently. Kept for reservation.
---
--- function Module.merge_candidates(iter, jter)
---    local i, iaux = iter()
---    local j, jaux = jter()
---    local function advance_i(value)
---       --log.error("i " .. value.text .. "  " .. tostring(value:get_genuine().quality) .. " " .. value.comment)
---       i, iaux = iter()
---       return value
---    end
---    local function advance_j(value)
---       --log.error("j " .. value.text .. "  " .. tostring(value:get_genuine().quality) .. " " .. value.comment)
---       j, jaux = jter()
---       return value
---    end
---    return function()
---       if i == nil then return advance_j(j) end
---       if j == nil then return advance_i(i) end
---       if iaux ~= nil and jaux == nil then
---          if utf8.len(i.text) ~= 1 then
---             return advance_i(i)
---          else
---             if j:get_genuine().quality > i:get_genuine().quality then
---                return advance_j(j)
---             else
---                return advance_i(i)
---             end
---          end
---       elseif iaux == nil and jaux ~= nil then
---          if utf8.len(j.text) ~= 1 then
---             return advance_j(j)
---          else
---             if i:get_genuine().quality > j:get_genuine().quality then
---                return advance_i(i)
---             else
---                return advance_j(j)
---             end
---          end
---       elseif utf8.len(i:get_genuine().text) > utf8.len(j:get_genuine().text) then
---          return advance_i(i)
---       elseif utf8.len(j:get_genuine().text) > utf8.len(i:get_genuine().text) then
---          return advance_j(j)
---       elseif i:get_genuine().quality > j:get_genuine().quality then
---          return advance_i(i)
---       else
---          return advance_j(j)
---       end
---    end
--- end
 
 return Module
