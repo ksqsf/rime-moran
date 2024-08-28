@@ -42,6 +42,9 @@ function Module.init(env)
    env.single_word_code_len = env.is_word_priority and 4 or 3
    -- 输入辅助码首选后移
    env.is_aux_priority = env.engine.schema.config:get_bool("moran_aux/aux_priority") or true
+   env.is_aux_for_first = env.engine.schema.config:get_bool("moran_aux/aux_for_first") or false
+   env.is_aux_for_last = env.engine.schema.config:get_bool("moran_aux/aux_for_last") or false
+   env.is_aux_for_any = env.engine.schema.config:get_bool("moran_aux/aux_for_any") or true
 
    local aux_length = nil
 
@@ -190,15 +193,6 @@ function Module.translate_without_aux(env, seg, sp)
    end
 end
 
-function Module.aux_for_first(env, seg, sp)
-end
-
-function Module.aux_for_last(env, seg, sp)
-end
-
-function Module.aux_for_any(env, seg, sp)
-end
-
 function Module.candidate_match(env, cand, aux)
    if not cand then
       return nil
@@ -216,39 +210,42 @@ function Module.candidate_match(env, cand, aux)
 end
 
 function Module.aux_list(env, word)
-   local aux_list = {}
-   local char_list = {}
-   local first = nil
-   local last = nil
-
-   -- Single char
-   for i, c in utf8.codes(word) do
-      if not first then first = c end
-      last = c
-
+  local aux_list = {}
+  local first = nil
+  local last = nil
+  local any_use = env.is_aux_for_any
+  -- any char
+  for _, c in utf8.codes(word) do
+    if not first then first = c end
+    last = c
+    if any_use then
       local c_aux_list = env.aux_table[c]
       if c_aux_list then
-         for i, c_aux in pairs(c_aux_list) do
-            table.insert(aux_list, c_aux:sub(1,1))
-            table.insert(aux_list, c_aux)
-         end
+        for _, c_aux in pairs(c_aux_list) do
+          table.insert(aux_list, c_aux:sub(1, 1))
+          table.insert(aux_list, c_aux)
+        end
       end
-   end
+    end
+  end
 
-   -- First char & last char
-   if utf8.len(word) >= 2 then
-      local f_aux_list = env.aux_table[first]
-      local l_aux_list = env.aux_table[last]
+  -- First char & last char
+  if not any_use and env.is_aux_for_first then
+    local c_aux_list = env.aux_table[first]
+    for i, c_aux in pairs(c_aux_list) do
+      table.insert(aux_list, c_aux:sub(1, 1))
+      table.insert(aux_list, c_aux)
+    end
+  end
 
-      for i, f_aux in pairs(f_aux_list or {}) do
-         for j, l_aux in pairs(l_aux_list or {}) do
-            table.insert(aux_list, f_aux:sub(1,1) .. l_aux:sub(1,1))
-            table.insert(aux_list, l_aux:sub(1,1) .. f_aux:sub(1,1))
-         end
-      end
-   end
-
-   return aux_list
+  if not any_use and env.is_aux_for_last then
+    local c_aux_list = env.aux_table[last]
+    for i, c_aux in pairs(c_aux_list) do
+      table.insert(aux_list, c_aux:sub(1, 1))
+      table.insert(aux_list, c_aux)
+    end
+  end
+  return aux_list
 end
 
 return Module
