@@ -5081,6 +5081,8 @@ import_tables:
 才不信	cbx
 凑兴	cbxy
 凑足	cbzu
+从此	cc
+此次	cc
 措辞不当	ccbd
 寸草不留	ccbl
 参差不齐	ccbq
@@ -5182,7 +5184,7 @@ import_tables:
 策应	ceyy
 册子	cezi
 侧足	cezu
-参	cf
+岑	cf
 此伏彼起	cfbq
 此风不可长	cfbv
 涔涔	cfcf
@@ -5195,8 +5197,9 @@ import_tables:
 餐风露宿	cfls
 梣	cfm
 餐风沐雨	cfmy
-叁	cfs
+参	cfs
 餐风宿露	cfsl
+叁	cfss
 村夫俗子	cfsz
 岑	cfu
 蹿房越脊	cfyj
@@ -5682,8 +5685,8 @@ C++	cjj
 艸	ckc
 草测	ckce
 曹操	ckck
-参考参考	ckck
 草草	ckck
+参考参考	ckck
 草丛	ckcs
 漕	ckd
 草地	ckdi
@@ -26015,6 +26018,7 @@ C++	cjj
 基准	jivp
 箕	jivq
 集中	jivs
+几种	jivs
 就吃这一套	jivt
 记住	jivu
 脊椎	jivv
@@ -27043,6 +27047,7 @@ C++	cjj
 几十	joui
 几周	jovb
 几张	jovh
+几种	jovs
 几万	jowj
 几位	jowz
 几下	joxw
@@ -30683,6 +30688,7 @@ C++	cjj
 困难重重	knii
 卡那霉素	knms
 可能是	knu
+可能性	knx
 可能有	kny
 扩	ko
 扩版	kobj
@@ -53625,6 +53631,7 @@ C++	cjj
 生凑	ugcb
 生词	ugci
 圣餐	ugcj
+生草	ugck
 绳操	ugck
 生菜	ugcl
 剩菜	ugcl
@@ -58943,8 +58950,9 @@ C++	cjj
 专门利人	vmlr
 这么麻烦	vmmf
 这么牛	vmn
-这么穷	vmq
 这么巧	vmq
+这么强	vmq
+这么穷	vmq
 致命弱点	vmrd
 知名人士	vmru
 正面人物	vmrw
