@@ -9,11 +9,11 @@ jobs:
       - run: pdm use -f tools/.venv && $(pdm venv activate) && ./make_simp_dist.sh github
       - uses: actions/upload-artifact@v4
         with:
-          name: "简体完整配置包"
+          name: "Simp-FullPack"
           path: dist/**
       - uses: actions/upload-artifact@v4
         with:
-          name: "仅简体词库"
+          name: "Simp-DictsOnly"
           path: |
             dist/moran.base.dict.yaml
             dist/moran.tencent.dict.yaml
@@ -35,11 +35,11 @@ jobs:
           rm -rf dist/tools dist/.git dist/.github dist/make_simp_dist.sh
       - uses: actions/upload-artifact@v4
         with:
-          name: "繁體完整配置包"
+          name: "Trad-FullPack"
           path: dist/**
       - uses: actions/upload-artifact@v4
         with:
-          name: "僅繁體詞庫"
+          name: "Trad-DictsOnly"
           path: |
             dist/moran.base.dict.yaml
             dist/moran.tencent.dict.yaml
