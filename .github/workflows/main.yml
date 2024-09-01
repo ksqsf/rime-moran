@@ -7,11 +7,11 @@ jobs:
       - run: cd tools && python3 -m pip install pdm && pdm install
       - run: sudo apt install opencc p7zip-full
       - run: pdm use -f tools/.venv && $(pdm venv activate) && ./make_simp_dist.sh github
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: "简体完整配置包"
           path: dist/**
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: "仅简体词库"
           path: |
@@ -33,11 +33,11 @@ jobs:
           mkdir -p dist
           tar xf archive.tar -C dist
           rm -rf dist/tools dist/.git dist/.github dist/make_simp_dist.sh
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: "繁體完整配置包"
           path: dist/**
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: "僅繁體詞庫"
           path: |
