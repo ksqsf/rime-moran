@@ -3811,7 +3811,7 @@
 䋙 se
 䋚 sy
 䋛 sm
-䋜 sh
+䋜 sy
 䋝 sn
 䋞 sw
 䋟 sj
@@ -3883,7 +3883,7 @@
 䌝 sj
 䌞 sj
 䌟 sb
-䌠 sh
+䌠 sq
 䌡 sl
 䌢 sl
 䌣 sg
@@ -23370,8 +23370,9 @@
 艮 xy
 良 dg
 艰 yg
-艱 cg
+艰 gy
 艱 gh
+艱 cg
 色 db
 艳 fs
 艴 fs

@@ -21434,8 +21434,9 @@ use_preset_vocabulary: false
 艮	gf;xy	811
 良	ld;dg	3628
 艰	jm;yg	0
-艱	jm;cg	772
+艰	jm;gy	0
 艱	jm;gh	772
+艱	jm;cg	772
 色	se;db	8484
 色	ue;db	1
 色	ul;db	8
@@ -38027,7 +38028,7 @@ use_preset_vocabulary: false
 䋙	er;se	0	# auto
 䋚	yi;sy	0	# auto
 䋛	mi;sm	0	# auto
-䋜	qy;sh	0	# auto
+䋜	qy;sy	0	# auto
 䋞	wh;sw	0	# auto
 䋟	ji;sj	0	# auto
 䋠	bu;sf	0	# auto
@@ -38102,7 +38103,7 @@ use_preset_vocabulary: false
 䌞	lm;sj	0	# auto
 䌟	bi;sb	0	# auto
 䌟	bo;sb	0	# auto
-䌠	jm;sh	0	# auto
+䌠	jm;sq	0	# auto
 䌡	ti;sl	0	# auto
 䌢	ly;sl	0	# auto
 䌣	zr;sg	0	# auto
@@ -120694,9 +120695,9 @@ use_preset_vocabulary: false
 鳹	qn;nj	0
 鵭	qn;jn	0
 鵭	qn;nj	0
-䌠	qy;sh	0
-䌠	yj;sh	0
-䌠	yn;sh	0
+䌠	qy;sq	0
+䌠	yj;sq	0
+䌠	yn;sq	0
 䔛	qy;cq	0
 儬	qy;rj	0
 儬	qy;rl	0
