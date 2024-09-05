@@ -246,6 +246,12 @@ moran:
     d: 的
     l: 了
     j: 就
+  # 词组优先
+  phrase_first: true
+  # 输入辅助码，首选后移
+  aux_priority: true
+  # 辅助码作用位置, first, last, any
+  aux_position: any
 
 # 默認啓用語言模型
 __include: moran:/octagram/enable_for_sentence
