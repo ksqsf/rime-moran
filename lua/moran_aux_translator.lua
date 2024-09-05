@@ -123,7 +123,7 @@ function Module.func(input, seg, env)
       mv_cnt = mv_cnt - 1
       yield(cand)
     end
-    if mv_cnt > 0 then
+    if mv_cnt >= 0 then
       yield(first_cand)
     end
   elseif input_len % 2 == 1 then
@@ -144,7 +144,7 @@ function Module.func(input, seg, env)
       mv_cnt = mv_cnt - 1
       yield(cand)
     end
-    if mv_cnt > 0 then
+    if mv_cnt >= 0 then
       yield(first_cand)
     end
   elseif input_len % 2 == 0 then
