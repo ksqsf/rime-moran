@@ -121650,9 +121650,6 @@ use_preset_vocabulary: false
 侳	zo;rz	0
 穝	zo;hz	0
 
-# 整句可用的無理碼
-幾	jo;yd	0
-
 # 一些會對正常輸入造成干擾的字
 # 直接禁用掉
 # diang
