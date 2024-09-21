@@ -1,7 +1,7 @@
 schema:
   schema_id: moran
   name: 魔然
-  version: "20240616"
+  version: "20240921"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -63,6 +63,7 @@ engine:
   segmentors:
     - ascii_segmentor
     - matcher
+    - affix_segmentor@japanese_o
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
@@ -76,6 +77,7 @@ engine:
     - reverse_lookup_translator@reverse_bopomofo
     - table_translator@custom_phrase       # 自定義短語
     - table_translator@english             # 英語混輸
+    #- table_translator@japanese_o          # 日語引導輸入
     #- table_translator@japanese            # 日語混輸
     - lua_translator@*moran_express_translator@with_reorder # 翻譯器
     - lua_translator@*moran_shijian        # 日期orq 節氣ojq 星期oxq 時間osj
@@ -152,6 +154,7 @@ english:
 
 japanese:
   dictionary: moran_japanese
+  prism: moran_japanese
   enable_completion: false
   enable_sentence: true
   enable_user_dict: true
@@ -160,6 +163,14 @@ japanese:
   encode_commit_history: false
   comment_format:
     - xform/.*//
+
+japanese_o:
+  __include: japanese
+  tag: japanese_o
+  prefix: ojp
+  suffix: /jp
+  tips: "〔日本語〕"
+  enable_completion: true
 
 quick_repeat:  # 快速重複上屏
   input: ";d"
@@ -289,17 +300,20 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
+    unicode: "^U[a-fA-F0-9]+"
+    punct: '^/([0-9]0?|[A-Za-z]+)$'
+    # 反查
     reverse_universal: "(^(`[a-z`]+))|(^([a-z]{2}(`[a-z`]?|[a-z`]`)))"
     reverse_tiger: "(^`$)|(^`[a-zA-Z]+$)"
     reverse_stroke: "^obh[A-Za-z]*$"
     reverse_cangjie5: "^ocj[A-Za-z]*$"
     reverse_zrlf: "^olf[A-Za-z]*$"
     reverse_bopomofo: '^ovy[A-Za-z0-9,.;/\-]*$'
-    unicode: "^U[a-fA-F0-9]+"
-    punct: '^/([0-9]0?|[A-Za-z]+)$'
     # CAVEAT: 排除 ^; 避免 ;d 無法自動上屏
     # CAVEAT: ^o 只保留 ^ou 和 ^o$，避免反查被干擾
     has_emoji: '^([a-np-z]|ou)*$|^o$'
+    # 引導外語
+    japanese_o: '^ojp[a-z]*$'
 
 moran:
   # 簡快碼提示符

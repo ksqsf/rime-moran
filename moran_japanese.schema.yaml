@@ -2,17 +2,15 @@
 
 schema:
   schema_id: moran_japanese
-  name: 勿用·工具方案
+  name: 簡易日語
   version: "20230830"
 
 switches:
   - name: ascii_mode
     reset: 0
-    states: [ Chi, Eng ]
+    states: [ Jp, En ]
   - name: full_shape
     states: [ Half, Full ]
-  - name: simplification
-    states: [ Trad, Simp ]
 
 engine:
   processors:
@@ -35,27 +33,22 @@ engine:
     - reverse_lookup_translator
     - table_translator
   filters:
-    - simplifier
     - uniquifier
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
+  algebra:
+    - derive/([aeiuo])-/$1$1/
+    - derive/-/q/
 
 translator:
   dictionary: moran_japanese
+  prism: moran_japanese
   enable_sentence: true
-  spelling_hints: 4
-  comment_format:
-    - 'xlit|q|ー|'
-  preedit_format:
-    - 'xlit|q|ー|'
 
 punctuator:
   import_preset: default
-
-menu:
-  page_size: 6
 
 key_binder:
   import_preset: default
