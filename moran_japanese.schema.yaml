@@ -38,9 +38,6 @@ engine:
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
-  algebra:
-    - derive/([aeiuo])-/$1$1/
-    - derive/-/q/
 
 translator:
   dictionary: moran_japanese

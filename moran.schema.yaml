@@ -154,7 +154,6 @@ english:
 
 japanese:
   dictionary: moran_japanese
-  prism: moran_japanese
   enable_completion: false
   enable_sentence: true
   enable_user_dict: true
