@@ -107,6 +107,22 @@ function Module.chars(word)
    end
 end
 
+---Get a stateful iterator of each unicode codepoint in a string
+---@param word string
+---@return function():number?
+function Module.codepoints(word)
+   local f, s, i = utf8.codes(word)
+   local value = nil
+   return function()
+      i, value = f(s, i)
+      if i then
+         return i, value
+      else
+         return nil
+      end
+   end
+end
+
 ---Take elements from a stateful iterator, until the predicate returns true, or reaches the limit.
 ---@generic T
 ---@param iter function():T?

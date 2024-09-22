@@ -33,20 +33,20 @@ end
 
 -- For each Chinese char in text, if it is not in charset, return false.
 function Top.InCharset(env, text)
-   for i, char in moran.chars(text) do
-      if not Top.CharInCharset(env, char) then
+   for i, codepoint in moran.codepoints(text) do
+      if not Top.CharInCharset(env, codepoint) then
          return false
       end
    end
    return true
 end
 
-function Top.CharInCharset(env, char)
-   if env.memo[char] ~= nil then
-      return env.memo[char]
+function Top.CodepointInCharset(env, codepoint)
+   if env.memo[codepoint] ~= nil then
+      return env.memo[codepoint]
    end
-   local res = not moran.unicode_code_point_is_chinese(utf8.codepoint(char)) or env.charset:lookup(char) ~= ""
-   env.memo[char] = res
+   local res = not moran.unicode_code_point_is_chinese(codepoint) or env.charset:lookup(utf8.char(codepoint)) ~= ""
+   env.memo[codepoint] = res
    return res
 end
 
