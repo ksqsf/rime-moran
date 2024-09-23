@@ -34,7 +34,7 @@ end
 -- For each Chinese char in text, if it is not in charset, return false.
 function Top.InCharset(env, text)
    for i, codepoint in moran.codepoints(text) do
-      if not Top.CharInCharset(env, codepoint) then
+      if not Top.CodepointInCharset(env, codepoint) then
          return false
       end
    end
