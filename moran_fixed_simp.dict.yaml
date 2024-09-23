@@ -4458,6 +4458,7 @@ import_tables:
 别为	bxwz
 憋	bxx
 别笑	bxxc
+憋笑	bxxc
 别想	bxxd
 保险系数	bxxu
 鳖	bxy
@@ -4589,7 +4590,8 @@ import_tables:
 病假	byjw
 冰晶	byjy
 必有近忧	byjy
-不要看	byk
+不愉快	byk
+半月刊	byk
 并口	bykb
 病况	bykd
 并可	byke
@@ -7705,6 +7707,7 @@ C++	cjj
 答非所问	dfsw
 答复他	dft
 地覆天翻	dftf
+倒反天罡	dftg
 电风扇	dfu
 打发时间	dfuj
 大幅上升	dfuu
@@ -9241,7 +9244,6 @@ C++	cjj
 垫圈	dmjr
 电锯	dmju
 店家	dmjw
-颠茄	dmjw
 电解	dmjx
 电竞	dmjy
 点睛	dmjy
@@ -9299,6 +9301,7 @@ C++	cjj
 点球	dmqq
 盗名欺世	dmqu
 到目前为止	dmqv
+颠茄	dmqx
 点清	dmqy
 电热	dmre
 点燃	dmrj
@@ -11476,6 +11479,7 @@ C++	cjj
 恩怨是非	eyuf
 恶语伤人	eyur
 恶语中伤	eyvu
+诶呦喂	eyw
 尔虞我诈	eywv
 恶语相加	eyxj
 恶言相向	eyxx
@@ -11950,7 +11954,7 @@ C++	cjj
 分摊	fftj
 酚酞	fftl
 奋发图强	fftq
-发奋图强	fftq
+发愤图强	fftq
 粪桶	ffts
 服服帖帖	fftt
 粪土	fftu
@@ -14942,7 +14946,7 @@ C++	cjj
 功成不居	gibj
 攻城拔寨	gibv
 肝肠寸断	gicd
-滚床单	gid
+共产党	gid
 高潮迭起	gidq
 共产党人	gidr
 共产党员	gidy
@@ -26133,7 +26137,7 @@ C++	cjj
 荆棘丛生	jjcu
 紧急措施	jjcu
 积极参与	jjcy
-就觉得	jjd
+简洁	jjd
 经济担保	jjdb
 简简单单	jjdd
 金鸡独立	jjdl
@@ -29602,6 +29606,7 @@ C++	cjj
 扣肉	kbrb
 刻不容缓	kbrh
 伛	kbrq
+恐怖如斯	kbrs
 抠搜	kbsb
 抠唆	kbso
 口算	kbsr
@@ -30653,6 +30658,7 @@ C++	cjj
 开线	klxm
 开先	klxm
 开心	klxn
+恺	klxq
 忾	klxq
 凯旋	klxr
 开学	klxt
@@ -36279,6 +36285,7 @@ C++	cjj
 茫然	mhrj
 忙死	mhsi
 眠花宿柳	mhsl
+梅花三弄	mhsn
 盲童	mhts
 硭	mhu
 忙啥	mhua
@@ -37964,7 +37971,7 @@ C++	cjj
 渺无音信	mwyx
 目无余子	mwyz
 目无尊长	mwzv
-咩	mx
+灭	mx
 灭	mxa
 蔑	mxc
 某些东西	mxdx
@@ -41028,6 +41035,7 @@ C++	cjj
 皮囊	pinh
 睥睨	pini
 脾	pio
+睥	piob
 胚	piop
 琵琶	pipa
 骗吃骗喝	piph
@@ -47346,6 +47354,7 @@ C++	cjj
 所导致	sdv
 所到之处	sdvi
 僧多粥少	sdvu
+私底下	sdx
 搔到痒处	sdyi
 扫地以尽	sdyj
 三点一线	sdyx
@@ -49001,6 +49010,7 @@ C++	cjj
 岁月不饶人	sybr
 虽远必诛	sybv
 三月不知肉味	sybw
+所言不虚	sybx
 私有财产	syci
 岁月催人老	sycl
 岁月蹉跎	syct
@@ -59670,7 +59680,7 @@ C++	cjj
 遮天盖地	vtgd
 债台高筑	vtgv
 这挺好	vth
-整条街	vtj
+状态机	vtj
 真他妈的	vtmd
 指条明路	vtml
 主题曲	vtq
@@ -67669,7 +67679,7 @@ C++	cjj
 有板有眼	ybyy
 鲉	ybyy
 一兵一卒	ybyz
-遒	ybz
+一辈子	ybz
 游走	ybzb
 一败再败	ybzb
 有责	ybze
@@ -67679,6 +67689,7 @@ C++	cjj
 游子	ybzi
 悠哉	ybzl
 也不怎么	ybzm
+遒	ybzq
 游踪	ybzs
 有罪	ybzv
 拥兵自重	ybzv
@@ -76374,6 +76385,7 @@ C++	cjj
 二元酸	eysr
 二元体	eyti
 鄂豫皖	eywj
+诶呦喂	eywz
 二义性	eyxy
 恶作剧	ezju
 发案率	falv
@@ -77344,6 +77356,7 @@ C++	cjj
 和青海	hqhl
 很清楚	hqiu
 黑旗军	hqjp
+活全家	hqjw
 回去了	hqle
 合情理	hqli
 横切面	hqmm
@@ -81421,6 +81434,7 @@ C++	cjj
 这挺好	vthk
 招贴画	vthw
 直通车	vtie
+状态机	vtji
 整天价	vtjw
 整条街	vtjx
 状态栏	vtlj
@@ -83469,6 +83483,7 @@ C++	cjj
 胆怯	djqo
 盗窃	dkqo
 带挈	dlqo
+颠茄	dmqo
 而且	erqo
 番茄	fjqo
 苟且	gbqo

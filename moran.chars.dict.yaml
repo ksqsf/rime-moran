@@ -17110,6 +17110,7 @@ use_preset_vocabulary: false
 督	du;ou	967
 睤	bi;ob	238
 睤	bi;oq	238
+睥	pi;ob	474
 睥	bi;ob	474
 睦	mu;ot	820
 睧	hp;oh	333
@@ -34058,6 +34059,10 @@ use_preset_vocabulary: false
 丼	ds;jd	39
 𮱜	gv;dl	0
 𮱜	gv;zm	0
+𡆡	qi;kd	0
+𡆡	qu;kd	0
+𡆢	qq;ka	0
+
 
 # 偏旁部首
 丆	pp;ap	0
