@@ -246,11 +246,15 @@ moran:
     d: 的
     l: 了
     j: 就
-  # 词组优先
+
+  # 詞組優先
   phrase_first: true
-  # 输入辅助码，首选后移
+  # 輸入輔助碼，首選後移
   aux_priority: true
-  # 辅助码作用位置, first, last, any
+  # 輔助碼作用位置
+  # first：首字
+  # last：末字
+  # any：任意字
   aux_position: any
 
 # 默認啓用語言模型

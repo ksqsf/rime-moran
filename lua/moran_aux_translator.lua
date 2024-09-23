@@ -107,7 +107,7 @@ function Module.func(input, seg, env)
     local sp = input:sub(1, 2)
     local aux = input:sub(3, input_len)
     local iter = aux.len and Module.translate_with_aux(env, seg, sp, aux) or
-    Module.translate_without_aux(env, seg, input)
+      Module.translate_without_aux(env, seg, input)
     local first_cand = iter()
     local mv_cnt = 0
     if env.is_aux_priority and first_cand.text == env.previous_word and aux ~= env.previous_word_aux then
@@ -280,3 +280,7 @@ function Module.aux_list(env, word)
 end
 
 return Module
+
+-- Local Variables:
+-- lua-indent-level: 2
+-- End:
