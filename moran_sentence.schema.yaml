@@ -1,7 +1,7 @@
 schema:
   schema_id: moran_sentence
   name: 魔然·整句
-  version: "20240616"
+  version: "20240926"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -56,6 +56,7 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
+    - reverse_lookup_translator@reverse_tick
     - reverse_lookup_translator@reverse_universal
     - reverse_lookup_translator@reverse_tiger
     - reverse_lookup_translator@reverse_stroke
@@ -159,13 +160,13 @@ reverse_format:
   comment_format:
     - xform/(\w\w);(\w\w)/$1[$2]/
   preedit_format:
-    - xform/^o(lf|bh|cj|vy)//
+    - xform/^o(lf|bh|cj|vy|hm)//
 
 reverse_tiger:
   tag: reverse_tiger
   dictionary: tiger
   enable_completion: true
-  prefix: "`"
+  prefix: "ohm"
   tips: 〔虎碼〕
   __include: reverse_format
 
@@ -212,10 +213,16 @@ reverse_bopomofo:
     - xform/^o(lf|bh|cj|vy)//
     - "xlit|1qaz2wsxedcrfv5tgbyhnujm8ik,9ol.0p;/- 6347'|ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄏㄐㄑㄒㄓㄔㄕㄖㄗㄘㄙㄧㄨㄩㄚㄛㄜㄝㄞㄟㄠㄡㄢㄣㄤㄥㄦˉˊˇˋ˙ |"
 
+reverse_tick:
+  __include: reverse_tiger
+  tag: reverse_tick
+  prefix: "`"
+
 reverse_lookup:
   extra_tags:
-    - reverse_tiger
+    - reverse_tick
     - reverse_universal
+    - reverse_tiger
     - reverse_stroke
     - reverse_cangjie5
     - reverse_zrlf
