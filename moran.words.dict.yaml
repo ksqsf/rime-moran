@@ -8840,10 +8840,11 @@ columns:
 憋笑	100
 死全家	10
 活全家	10
-誒喲喂	ei;yy yb;ky wz;kw	80
-誒喲喂	ei;yy yo;ky wz;kw	80
+誒喲喂	80	ei;yy yb;ky wz;kw
+誒喲喂	80	ei;yy yo;ky wz;kw
 京爺
 滬爺
+工匠精神	100
 
 # 中西混合詞
 哆啦A夢	100	do;kd la;kl aa mg;cx
