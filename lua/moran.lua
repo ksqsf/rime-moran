@@ -111,35 +111,34 @@ end
 ---@param word string
 ---@return function():number?
 function Module.codepoints(word)
-   local f, s, i = utf8.codes(word)
-   local value = nil
-   return function()
-      i, value = f(s, i)
-      if i then
-         return i, value
-      else
-         return nil
-      end
-   end
+    local f, s, i = utf8.codes(word)
+    local value = nil
+    return function()
+        i, value = f(s, i)
+        if i then
+            return i, value
+        else
+            return nil
+        end
+    end
 end
 
----Take elements from a stateful iterator, until the predicate returns true, or reaches the limit.
+---Take_while but with a limit.
 ---@generic T
 ---@param iter function():T?
 ---@param pred function(T):boolean
 ---@param limit integer
----@return table<T>,T? 
-function Module.iter_take_until_upto(iter, pred, limit)
-   local stash = {}
-   for _ in 1, limit do
-      local cur = iter()
-      if cur == nil or pred(cur) then
-         return stash, cur
+---@return table<T>
+function Module.peekable_iter_take_while_upto(iter, limit, pred)
+   local ret = {}
+   for _ = 1, limit do
+      if iter:peek() and pred(iter:peek()) then
+         table.insert(ret, iter())
       else
-         table.insert(stash, cur)
+         break
       end
    end
-   return stash, nil
+   return ret
 end
 
 ---Create a singleton stateful iterator.
@@ -358,6 +357,14 @@ function Module.get_config_bool(env, key, deflt)
       return deflt
    end
    return val
+end
+
+function Module.map(tbl, f)
+   local ret = {}
+   for k, v in pairs(tbl) do
+      ret[k] = f(v)
+   end
+   return ret
 end
 
 return Module

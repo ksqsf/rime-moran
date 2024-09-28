@@ -34,9 +34,9 @@ function Module.init(env)
    env.translator = Component.Translator(env.engine, "", "script_translator@translator")
    env.prefetch_threshold = env.engine.schema.config:get_int("moran/prefetch") or -1
 
-   -- 四码词组优先
-   env.is_phrase_first = moran.get_config_bool(env, "moran/word_over_char", true)
-   env.single_char_input_len = env.is_phrase_first and 3 or 4
+   -- 詞組和單字優先情況
+   env.word_over_char_tolerance = env.engine.schema.config:get_int("moran/word_over_char_tolerance") or 3
+   env.word_over_char_adaptive = moran.get_config_bool(env, "moran/word_over_char_adaptive", true)
    env.performance_hack = true
 
    -- 固定句子爲首選
@@ -152,8 +152,8 @@ function Module.func(input, seg, env)
    end
 
    local input_len = utf8.len(input) or 0
-   if input_len <= env.single_char_input_len then
-      Module.TranslateSingleChar(env, seg, input, input_len)
+   if input_len <= 2 then
+      env.y:yield_all(Module.translate_without_aux(env, seg, input))
    elseif input_len % 2 == 1 then
       Module.TranslateOdd(env, seg, input, input_len)
    else
@@ -161,27 +161,6 @@ function Module.func(input, seg, env)
    end
 
    env.y:clear()
-end
-
---- 單字輸入情況。單字必出現在首選。
-function Module.TranslateSingleChar(env, seg, input, input_len)
-   local sp = input:sub(1, 2)
-   local aux = input:sub(3)
-   local iter
-   if #aux > 0 then
-      iter = moran.make_peekable(Module.translate_with_aux(env, seg, sp, aux))
-      -- 輔碼沒有匹配到任何字, 如果要求句子, 則輸出 xx'x 翻譯結果.
-      if iter:peek() and iter:peek().comment == "" and env.is_sentence_priority then
-         local nonaux_iter = moran.make_peekable(Module.translate_without_aux(env, seg, input))
-         if nonaux_iter:peek() then
-            env.y:yield(nonaux_iter())
-         end
-      end
-      env.y:yield_all(iter)
-   else
-      iter = Module.translate_without_aux(env, seg, sp)
-      env.y:yield_all(iter)
-   end
 end
 
 --- 應對輸入長度爲奇數的情況。
@@ -196,7 +175,8 @@ function Module.TranslateOdd(env, seg, input, input_len)
    local aux = input:sub(input_len, input_len)
 
    -- 要求首選是句子時，總是先輸出句子。
-   if env.is_sentence_priority then
+   -- 但是在輸入長度爲 3 時，總是不輸出句子。
+   if env.is_sentence_priority and input_len > 3 then
       local nonaux_iter = moran.make_peekable(Module.translate_without_aux(env, seg, input))
       if nonaux_iter:peek() and utf8.len(nonaux_iter:peek().text) >= env.sentence_priority_length then
          env.y:yield(nonaux_iter())
@@ -220,8 +200,6 @@ end
 --- 應對輸入長度爲偶數的情況。
 --- 輸入長度爲偶數時，input 可能被理解爲 (1) 末二碼爲輔 (2) 全雙拼。
 ---
---- word_over_char=true 時，4 碼也會傳遞到這裏。
----
 --- @param env table
 --- @param seg Segment
 --- @param input string 當前輸入段對應的原始輸入
@@ -232,22 +210,37 @@ function Module.TranslateEven(env, seg, input, input_len)
    local nonaux_iter = moran.make_peekable(Module.translate_with_aux(env, seg, input))
    local aux_iter = moran.make_peekable(Module.translate_with_aux(env, seg, sp, aux))
 
-   if -- 要求首選固定是句子，或
-      env.is_sentence_priority or
-      -- 輔碼沒有定位到任何字
-      (aux_iter:peek() and aux_iter:peek().comment ~= aux)
+   if -- 要求首選固定是句子
+      env.is_sentence_priority
    then
-      local c = nonaux_iter()
-      if c and c.type == "sentence" and utf8.len(c.text) >= env.sentence_priority_length then
-         env.y:yield(c)
+      local c = nonaux_iter:peek()
+      local c_len = c and utf8.len(c.text) or 0
+      if c and c.type == "sentence" and c_len >= env.sentence_priority_length then
+         env.y:yield(nonaux_iter:next())
          -- 只輸出一個句子：如果 aux 的第一個候選也是句子，就跳過
          if aux_iter:peek() and aux_iter:peek().type == "sentence" then
             aux_iter:next()
          end
-      elseif c and utf8.len(c.text) == input_len / 2 then
-         -- 若最後兩碼不是雙拼（預期是輔碼），則 nonaux_iter 少輸出一個字
-         env.y:yield(c)
       end
+   end
+
+   -- 遵守 word_over_char_tolerance：取出 tol 個 nonaux 詞語，再把 aux 首選放進去。
+   local pool = moran.peekable_iter_take_while_upto(
+      nonaux_iter,
+      env.word_over_char_tolerance,
+      function(c)
+         return utf8.len(c.text) == input_len / 2
+      end)
+   if aux_iter:peek() and #aux_iter:peek().comment > 0 then
+      table.insert(pool, aux_iter())
+   end
+   -- 遵守調頻要求
+   if env.word_over_char_adaptive then
+      table.sort(pool, function(a, b) return a.quality > b.quality end)
+   end
+   -- 輸出前 tol+1 個候選。
+   for _, c in pairs(pool) do
+      env.y:yield(c)
    end
 
    -- 輸出被輔候選。

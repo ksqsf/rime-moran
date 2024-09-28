@@ -114,14 +114,17 @@ fixed:
 
 english:
   dictionary: moran_english
-  enable_completion: false
+  enable_user_dict: true
+  enable_completion: true
   enable_sentence: false
-  initial_quality: 1
+  initial_quality: 0
+  comment_format:
+    - xform/~[A-Za-z]*//
 
 japanese:
   dictionary: moran_japanese
   enable_completion: false
-  enable_sentence: false
+  enable_sentence: true
   initial_quality: 0
 
 simplifier:
@@ -236,8 +239,11 @@ recognizer:
 moran:
   # 預取個數
   # 設置爲小於等於 0 的數相當於無限制。
-  # 設置爲正數時：數字越小，速度越快；數字越大，能被輔到字就越多。
-  # 默認爲無限制，如果在某些性能較低的設備上使用時感到卡頓，可以設置爲 50 或更小的數字。
+  # 設置爲正數時：數字越小，速度越快，被輔到的字越少；
+  #               數字越大，速度越慢，能被輔到字就越多。
+  # 默認爲無限制。
+  # 如果在某些性能較低的設備上使用時感到卡頓，可以設置爲 50 或更小的數字。
+  # 如果感到被輔生僻字過多，也可以考慮設置爲較小的數字。
   prefetch: -1
 
   # 固定一二級簡碼。參考設置：
@@ -259,10 +265,18 @@ moran:
   # 若設爲 0，則表示不加限制、永遠開啓。
   sentence_priority_length: 0
 
-  # 輸入長度爲 4 時詞組優先
-  # 若爲 true，輸入 xibk 時首選爲「細胞」。
-  # 若爲 false，輸入 xibk 時首選爲「兮」。
-  word_over_char: true
+  # 允許多少詞出現在被輔候選之前（影響輸入長度爲 4 的情況）
+  # 被輔單字太多的情況下，例如 ji'dj li'hl 等，允許一些詞出現在這些字之前。
+  # 若設爲 0，相當於被輔候選永遠在最前，輸入 xibk 時首選會是「兮」而不是細胞。
+  # 若設爲 1，相當於被輔候選會出現在次選。
+  # 必須是正整數。
+  word_over_char_tolerance: 2
+  # 是否允許被輔候選和插入詞語之間調頻
+  # 僅在當 word_over_char_tolerance > 0 時有效
+  # 如 doxx 存在「多謝」和「多」兩個候選，具體順序依據用戶使用頻率而定。
+  # 若設置爲 true，「多謝」可能出現在「多」之前，也可能出現在「多」之後。
+  # 若設置爲 false，則詞語無條件出現在被輔候選之前。
+  word_over_char_adaptive: true
 
   # 輸入輔助碼時，原來匹配的首選後移
   # ※ 該選項也對詞語生效。
@@ -279,6 +293,7 @@ moran:
   # （延遲候選的個數由 aux_priority_defer 指定。）
   # 若爲 false，則 hek 一定仍然是「喝」。
   aux_priority: true
+  # 延遲多少位
   aux_priority_defer: 2
   # 設定 aux_priority 作用時的輔助碼長度
   # 若爲 1，表示允許 he -> hek 時降權「喝」字，即從二碼輸入一碼到三碼時。
