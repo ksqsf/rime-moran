@@ -48,6 +48,7 @@ function Module.init(env)
    env.is_aux_priority = moran.get_config_bool(env, "moran/aux_priority", true)
    env.aux_priority_defer = env.engine.schema.config:get_int("moran/aux_priority_defer") or 3
    env.aux_priority_length = env.engine.schema.config:get_int("moran/aux_priority_length") or 1
+   env.aux_priority_indicator = env.engine.schema.config:get_string("moran/aux_priority_indicator") or "▾"
 
    -- 輔助碼作用位置
    local aux_position = env.engine.schema.config:get_string("moran/aux_position") or "any"
@@ -88,6 +89,7 @@ function Module.init(env)
          cand.text == previous_word and
          previous_word_aux == cand.comment:sub(1, #previous_word_aux)
       if should_defer then
+         cand.comment = cand.comment .. env.aux_priority_indicator
          return env.aux_priority_defer
       else
          return nil
