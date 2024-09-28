@@ -206,10 +206,18 @@ end
 function Module.TranslateOdd(env, seg, input, input_len)
    local sp = input:sub(1, input_len - 1)
    local aux = input:sub(input_len, input_len)
+   local aux_iter = moran.make_peekable(Module.translate_with_aux(env, seg, sp, aux))
 
-   -- 要求首選是句子時，總是先輸出句子。
-   -- 但是在輸入長度爲 3 時，總是不輸出句子。
-   if env.is_sentence_priority and input_len > 3 then
+   -- 處理首選。
+   if env.is_sentence_priority and
+      -- 在輸入較長時，要求首選是句子時，總是先輸出句子
+      (input_len > 5 and env.is_sentence_priority) or
+      -- 在5碼時，檢查是否有帶輔二字詞，如果沒有，才考慮輸出句子
+      (input_len == 5 and
+       not (aux_iter:peek() and
+            utf8.len(aux_iter:peek().text) == 2 and
+            #aux_iter:peek().comment > 0))
+   then
       local nonaux_iter = moran.make_peekable(Module.translate_without_aux(env, seg, input))
       if nonaux_iter:peek() and utf8.len(nonaux_iter:peek().text) >= env.sentence_priority_length then
          env.y:yield(nonaux_iter())
@@ -217,17 +225,12 @@ function Module.TranslateOdd(env, seg, input, input_len)
    end
 
    -- 若之前已經輸出了句子候選，則跳過此後一切句子。
-   local aux_iter = moran.make_peekable(Module.translate_with_aux(env, seg, sp, aux))
    if env.y.index > 0 and aux_iter:peek() and aux_iter:peek().type == "sentence" then
       aux_iter:next()
    end
 
    -- 帶輔翻譯。
-   for cand in aux_iter do
-      if cand.type ~= "sentence" then
-         env.y:yield(cand)
-      end
-   end
+   env.y:yield_all(aux_iter)
 end
 
 --- 應對輸入長度爲偶數的情況。
@@ -306,9 +309,9 @@ end
 -- 當 aux 爲空時，相當於 translate_without_aux。
 -- Returns a stateful iterator of <Candidate, String?>.
 function Module.translate_with_aux(env, seg, sp, aux)
-   if not aux or #aux == 0 then
-      return Module.translate_without_aux(env, seg, sp)
-   end
+    if not aux or #aux == 0 then
+        return Module.translate_without_aux(env, seg, sp)
+    end
 
    local iter = Module.translate_without_aux(env, seg, sp)
    local threshold = Module.get_prefetch_threshold(env, sp)
