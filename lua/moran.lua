@@ -350,7 +350,8 @@ function Module.make_peekable(f)
    return it
 end
 
-
+---Get a bool-typed config value with default value.
+---Due to nil and false both being falsy, 'or' shouldn't be used.
 function Module.get_config_bool(env, key, deflt)
    local val = env.engine.schema.config:get_bool(key)
    if val == nil then

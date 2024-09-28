@@ -62,6 +62,17 @@ function Module.init(env)
    -- ----------------
    -- 讓全相關邏輯
    -- ----------------
+   -- 讓全基於 moran.lua 中的 Yielder 接口實現。
+   -- Yielder 的主要功能是：
+   -- (1) 可以延遲候選，並且可以在正確的時機把之前延遲的候選輸出出來。
+   -- (2) 可以在即將真正 yield 候選時再次確認是否應該延遲。
+   --     —— 下方的 before_cb 檢查首選是否是之前已經出現過的。
+   --          如果是，就延遲 aux_priority_defer 位。
+   -- (3) 可以在真正 yield 之後通知已經 yield 了。
+   --     —— 下方的 after_cb 記錄首選。
+   --
+   -- 具體的 translate 邏輯無需關心讓全，只需調用 env.y:yield 和
+   -- env.y:yield_all 即可。
    local previous_word = ""
    local previous_word_aux = ""
    local before_cb = function(index, cand)
