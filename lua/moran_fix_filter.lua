@@ -14,7 +14,7 @@ local Top = {}
 function Top.init(env)
    -- At most THRESHOLD smart candidates are subject to reordering,
    -- for performance's sake.
-   env.reorder_threshold = 50
+   env.reorder_threshold = 200
    env.quick_code_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator") or "⚡️"
    env.cache = {}
 end
@@ -69,6 +69,7 @@ function Top.func(t_input, env)
    end
 
    if found then
+      found:get_genuine().comment = env.quick_code_indicator
       yield(found)
    end
 
