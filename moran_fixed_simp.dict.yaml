@@ -157,6 +157,7 @@ import_tables:
 爱岗敬业	agjy
 爱国热情	agrq
 爱国人士	agru
+A股	agu
 熬更守夜	aguy
 爱国之心	agvx
 爱国主义	agvy
@@ -661,6 +662,7 @@ import_tables:
 遨	aoz
 安排	ap
 安排安排	apap
+A盘	apj
 安贫乐道	apld
 安排食宿	apus
 安全	aq
@@ -2064,6 +2066,7 @@ import_tables:
 绊倒	bjdk
 半岛	bjdk
 不记得了	bjdl
+不讲道理	bjdl
 斑点	bjdm
 半点	bjdm
 不减当年	bjdn
@@ -4310,6 +4313,7 @@ import_tables:
 别无他求	bwtq
 别无他途	bwtt
 别无他物	bwtw
+保卫战	bwv
 比武招亲	bwvq
 保外执行	bwvx
 不务正业	bwvy
@@ -4948,8 +4952,8 @@ import_tables:
 卑职	bzvi
 百足之虫	bzvi
 备至	bzvi
-北站	bzvj
 备战	bzvj
+北站	bzvj
 被罩	bzvk
 揹债	bzvl
 被捉	bzvo
@@ -6729,6 +6733,7 @@ C++	cjj
 嘈杂纷乱	czfl
 操作方式	czfu
 错综复杂	czfz
+存在感	czg
 操作规程	czgi
 存在即合理	czjl
 才子佳人	czjr
@@ -10076,6 +10081,7 @@ C++	cjj
 点头哈腰	dthy
 点铁成金	dtij
 打铁趁热	dtir
+倒头就睡	dtju
 顶天立地	dtld
 对他来说	dtlu
 动态平衡	dtph
@@ -11770,6 +11776,7 @@ C++	cjj
 法定人数	fdru
 法度森严	fdsy
 风刀霜剑	fduj
+扶大厦之将倾	fduq
 否定之否定	fdvd
 放得下	fdx
 非典型肺炎	fdxy
@@ -31423,6 +31430,7 @@ C++	cjj
 科学教育影片	kxjp
 科学技术	kxju
 苦心经营	kxjy
+开箱即用	kxjy
 可喜可贺	kxkh
 扛下了	kxl
 空心萝卜	kxlb
@@ -43577,8 +43585,9 @@ C++	cjj
 旗开得胜	qkdu
 乾坤大挪移	qkdy
 钳口结舌	qkju
-气哭了	qkl
+巧克力	qkl
 穷困潦倒	qkld
+区块链	qklm
 穷寇莫追	qkmv
 晴空霹雳	qkpl
 穷苦人家	qkrj
@@ -51150,6 +51159,7 @@ C++	cjj
 屯	tpa
 吞剥	tpbo
 填平补齐	tpbq
+图片编辑器	tpbq
 臀部	tpbu
 吞并	tpby
 吞掉	tpdc
@@ -60575,6 +60585,7 @@ C++	cjj
 微博	wb
 无比	wbb
 万般不好	wbbh
+文本编辑器	wbbq
 万般不舍	wbbu
 万变不离其宗	wbbz
 舞弊	wbc
@@ -73837,9 +73848,11 @@ C++	cjj
 自怜自伤	zlzu
 怎么	zm
 怎么办	zmb
+怎么不	zmb
 怎么办啊	zmba
 自命不凡	zmbf
 怎么办呢	zmbn
+怎么不是	zmbs
 琢磨不透	zmbt
 怎么不行	zmbx
 怎么才	zmc
@@ -82939,6 +82952,7 @@ C++	cjj
 载流子	zlzi
 坐落在	zlzl
 怎么办	zmbj
+怎么不	zmbu
 怎么才	zmcl
 走马灯	zmdg
 怎么读	zmdu

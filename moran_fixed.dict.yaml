@@ -159,6 +159,7 @@ AA制	aavi
 嗯	agk
 愛國熱情	agrq
 愛國人士	agru
+A股	agu
 熬更守夜	aguy
 愛國之心	agvx
 愛國主義	agvy
@@ -693,6 +694,7 @@ AA制	aavi
 遨	aoz
 安排	ap
 安排安排	apap
+A盤	apj
 安貧樂道	apld
 安排食宿	apus
 安全	aq
@@ -733,6 +735,7 @@ AA制	aavi
 愛斯基摩人	asjr
 阿司匹林	aspl
 暗送秋波	asqb
+A4紙	asv
 @	at
 艾特	at
 凹凸不平	atbp
@@ -2126,6 +2129,7 @@ AA制	aavi
 絆倒	bjdk
 半島	bjdk
 不記得了	bjdl
+不講道理	bjdl
 斑點	bjdm
 半點	bjdm
 不減當年	bjdn
@@ -4417,6 +4421,7 @@ Bilibili	bvj
 別無他求	bwtq
 別無他途	bwtt
 別無他物	bwtw
+保衛戰	bwv
 比武招親	bwvq
 保外執行	bwvx
 不務正業	bwvy
@@ -5083,8 +5088,8 @@ Bilibili	bvj
 卑職	bzvi
 百足之蟲	bzvi
 備至	bzvi
-北站	bzvj
 備戰	bzvj
+北站	bzvj
 被罩	bzvk
 揹債	bzvl
 被捉	bzvo
@@ -6970,6 +6975,7 @@ C++	cjj
 嘈雜紛亂	czfl
 操作方式	czfu
 錯綜複雜	czfz
+存在感	czg
 操作規程	czgi
 存在即合理	czjl
 才子佳人	czjr
@@ -10451,6 +10457,7 @@ C++	cjj
 點頭哈腰	dthy
 點鐵成金	dtij
 打鐵趁熱	dtir
+倒頭就睡	dtju
 頂天立地	dtld
 對他來說	dtlu
 動態平衡	dtph
@@ -12251,6 +12258,7 @@ C++	cjj
 法定人數	fdru
 法度森嚴	fdsy
 風刀霜劍	fduj
+扶大廈之將傾	fduq
 否定之否定	fdvd
 放得下	fdx
 非典型肺炎	fdxy
@@ -22269,6 +22277,7 @@ C++	cjj
 黑魚	hzyu
 黑影	hzyy
 黑字	hzzi
+黑子	hzzi
 黑子	hzzi
 黑棗	hzzk
 出	i	iucc
@@ -32464,6 +32473,7 @@ C++	cjj
 科學教育影片	kxjp
 科學技術	kxju
 苦心經營	kxjy
+開箱即用	kxjy
 可喜可賀	kxkh
 扛下了	kxl
 空心蘿蔔	kxlb
@@ -45031,8 +45041,9 @@ PC端	pcdr
 旗開得勝	qkdu
 乾坤大挪移	qkdy
 鉗口結舌	qkju
-氣哭了	qkl
+巧克力	qkl
 窮困潦倒	qkld
+區塊鏈	qklm
 窮寇莫追	qkmv
 晴空霹靂	qkpl
 窮苦人家	qkrj
@@ -52866,6 +52877,7 @@ PC端	pcdr
 屯	tpa
 吞剝	tpbo
 填平補齊	tpbq
+圖片編輯器	tpbq
 臀部	tpbu
 吞併	tpby
 芚	tpc
@@ -62542,6 +62554,7 @@ PC端	pcdr
 微博	wb
 無比	wbb
 萬般不好	wbbh
+文本編輯器	wbbq
 萬般不捨	wbbu
 萬變不離其宗	wbbz
 舞弊	wbc
@@ -75670,12 +75683,12 @@ WiFi	wifi
 紫荊	zijy
 鎡	zijz
 咨	zik
-吱	zikv
 咨	zikc
 呰	zikc
 自考	zikk
 自控	ziks
 字庫	ziku
+吱	zikv
 自誇	zikw
 字塊	ziky
 耔	zil
@@ -76253,9 +76266,11 @@ WiFi	wifi
 自憐自傷	zlzu
 怎麼	zm
 怎麼辦	zmb
+怎麼不	zmb
 怎麼辦啊	zmba
 自命不凡	zmbf
 怎麼辦呢	zmbn
+怎麼不是	zmbs
 琢磨不透	zmbt
 怎麼不行	zmbx
 怎麼才	zmc
@@ -85368,6 +85383,7 @@ WiFi	wifi
 載流子	zlzi
 坐落在	zlzl
 怎麼辦	zmbj
+怎麼不	zmbu
 怎麼才	zmcl
 走馬燈	zmdg
 怎麼讀	zmdu
