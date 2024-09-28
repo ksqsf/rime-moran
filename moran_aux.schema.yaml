@@ -58,7 +58,7 @@ engine:
     - reverse_lookup_translator@reverse_cangjie5
     - reverse_lookup_translator@reverse_zrlf
     - table_translator@custom_phrase       # 自定義短語
-    - table_translator@english             # 英語混輸
+    #- table_translator@english             # 英語混輸
     #- table_translator@japanese            # 日語混輸
     #- table_translator@fixed             # 掛接用法
     - lua_translator@*moran_aux_translator
@@ -265,11 +265,19 @@ moran:
   # 若設爲 0，則表示不加限制、永遠開啓。
   sentence_priority_length: 0
 
-  # 允許多少詞出現在被輔候選之前（影響輸入長度爲 4 的情況）
+  # 四碼時是否優先單字
+  # ※ 該設置優先級高於 word_over_char_tolerance
+  #    若本選項爲 true，即使 word_over_char_tolerance 大於 0，四碼仍然是單字優先。
+  char_priority: false
+
+  # 允許多少詞出現在被輔候選之前，影響輸入長度爲偶數的情況
   # 被輔單字太多的情況下，例如 ji'dj li'hl 等，允許一些詞出現在這些字之前。
   # 若設爲 0，相當於被輔候選永遠在最前，輸入 xibk 時首選會是「兮」而不是細胞。
   # 若設爲 1，相當於被輔候選會出現在次選。
   # 必須是正整數。
+  #
+  # ※ 該設置優先級低於 single_char_input_len。
+  #    如果本設置大於 0，而 single_char_input_len=4 ，則
   word_over_char_tolerance: 2
   # 是否允許被輔候選和插入詞語之間調頻
   # 僅在當 word_over_char_tolerance > 0 時有效

@@ -34,16 +34,21 @@ function Module.init(env)
    env.translator = Component.Translator(env.engine, "", "script_translator@translator")
    env.prefetch_threshold = env.engine.schema.config:get_int("moran/prefetch") or -1
 
-   -- 詞組和單字優先情況
+   -- 詞組和單字優先設置
+   env.char_priority = moran.get_config_bool(env, "moran/char_priority", false)
+   if env.char_priority then
+      env.char_code_len = 4
+   else
+      env.char_code_len = 3
+   end
    env.word_over_char_tolerance = env.engine.schema.config:get_int("moran/word_over_char_tolerance") or 3
    env.word_over_char_adaptive = moran.get_config_bool(env, "moran/word_over_char_adaptive", true)
-   env.performance_hack = true
 
-   -- 固定句子爲首選
+   -- 固定句子爲首選?
    env.is_sentence_priority = moran.get_config_bool(env, "moran/sentence_priority", true)
    env.sentence_priority_length = env.engine.schema.config:get_int("moran/sentence_priority_length") or 4
 
-   -- 输入辅助码首选后移
+   -- 輸入輔助碼首選後移?
    env.is_aux_priority = moran.get_config_bool(env, "moran/aux_priority", true)
    env.aux_priority_defer = env.engine.schema.config:get_int("moran/aux_priority_defer") or 3
    env.aux_priority_length = env.engine.schema.config:get_int("moran/aux_priority_length") or 1
@@ -152,8 +157,8 @@ function Module.func(input, seg, env)
    end
 
    local input_len = utf8.len(input) or 0
-   if input_len <= 2 then
-      env.y:yield_all(Module.translate_without_aux(env, seg, input))
+   if input_len <= env.char_code_len then
+      Module.TranslateChar(env, seg, input, input_len)
    elseif input_len % 2 == 1 then
       Module.TranslateOdd(env, seg, input, input_len)
    else
@@ -161,6 +166,25 @@ function Module.func(input, seg, env)
    end
 
    env.y:clear()
+end
+
+function Module.TranslateChar(env, seg, input, input_len)
+   local sp = input:sub(1, 2)
+   local aux = input:sub(3, 4)
+   local iter = moran.make_peekable(Module.translate_with_aux(env, seg, sp, aux))
+
+   -- 特殊情況：若找不到被輔的字，則在用戶要求 sentence_priority 時查詢 nonaux
+   -- 例如 mal 理解成 ma'l，輸出所有二字詞。
+   if env.is_sentence_priority and input_len > 2 and iter:peek() and #iter:peek().comment == 0 then
+      local nonaux_iter = moran.make_peekable(Module.translate_without_aux(env, seg, input))
+      for c in nonaux_iter do
+         if utf8.len(c.text) == 2 then
+            env.y:yield(c)
+         end
+      end
+   end
+
+   env.y:yield_all(iter)
 end
 
 --- 應對輸入長度爲奇數的情況。
@@ -270,8 +294,13 @@ function Module.get_prefetch_threshold(env, sp)
    end
 end
 
+-- 當 aux 爲空時，相當於 translate_without_aux。
 -- Returns a stateful iterator of <Candidate, String?>.
 function Module.translate_with_aux(env, seg, sp, aux)
+   if not aux or #aux == 0 then
+      return Module.translate_without_aux(env, seg, sp)
+   end
+
    local iter = Module.translate_without_aux(env, seg, sp)
    local threshold = Module.get_prefetch_threshold(env, sp)
    local matched = {}
