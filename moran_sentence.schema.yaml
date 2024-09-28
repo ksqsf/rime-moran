@@ -88,6 +88,7 @@ speller:
       - moran:/algebra/generate_code
       - moran:/algebra/user_sentence_bottom?
       - moran:/algebra/user_force_bottom?
+      - moran:/key_bindings/moran_keypad
 
 translator:
   dictionary: moran.extended

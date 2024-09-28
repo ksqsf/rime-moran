@@ -165,6 +165,7 @@ key_binder:
       - :/key_binder/custom_bindings?
       - moran:/key_bindings/moran_switches
       - moran:/key_bindings/moran_semicolon_for_2
+      - moran:/key_bindings/moran_keypad
 
 # 默認不開啓語言模型
 # 在 moran_fixed.custom.yaml 中輸入如下內容以開啓

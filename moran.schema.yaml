@@ -302,6 +302,7 @@ key_binder:
       - moran:/key_bindings/moran_capital_for_last_syllable
       - moran:/key_bindings/moran_tab
       - moran:/key_bindings/moran_switches
+      - moran:/key_bindings/moran_keypad
 
 recognizer:
   import_preset: default
