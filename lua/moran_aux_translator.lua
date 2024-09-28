@@ -309,9 +309,9 @@ end
 -- 當 aux 爲空時，相當於 translate_without_aux。
 -- Returns a stateful iterator of <Candidate, String?>.
 function Module.translate_with_aux(env, seg, sp, aux)
-    if not aux or #aux == 0 then
-        return Module.translate_without_aux(env, seg, sp)
-    end
+   if not aux or #aux == 0 then
+      return Module.translate_without_aux(env, seg, sp)
+   end
 
    local iter = Module.translate_without_aux(env, seg, sp)
    local threshold = Module.get_prefetch_threshold(env, sp)
