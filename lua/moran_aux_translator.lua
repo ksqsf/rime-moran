@@ -36,11 +36,7 @@ function Module.init(env)
 
    -- 詞組和單字優先設置
    env.char_priority = moran.get_config_bool(env, "moran/char_priority", false)
-   if env.char_priority then
-      env.char_code_len = 4
-   else
-      env.char_code_len = 3
-   end
+   env.char_code_len = env.char_priority and 4 or 3
    env.word_over_char_tolerance = env.engine.schema.config:get_int("moran/word_over_char_tolerance") or 3
    env.word_over_char_adaptive = moran.get_config_bool(env, "moran/word_over_char_adaptive", true)
 
