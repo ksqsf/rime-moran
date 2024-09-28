@@ -28,6 +28,11 @@ function Module.func(translation, env)
 
    -- Look up if the "geniune" candidate is already in the qc dict
    for cand in translation:iter() do
+      if cand.type == "punct" then
+         yield(cand)
+         goto outer_continue
+      end
+
       local gcand = cand:get_genuine()
       local word = gcand.text
       if utf8.len(word) == 1 and env.quick_code_hint_skip_chars then
@@ -47,7 +52,7 @@ function Module.func(translation, env)
                end
             end
             if #codes == 0 and not in_use then
-               goto continue
+               goto inner_continue
             end
             local codes_hint = table.concat(codes, " ")
             local comment = ""
@@ -59,9 +64,11 @@ function Module.func(translation, env)
             end
             gcand.comment = comment
          end
-         ::continue::
+         ::inner_continue::
          yield(cand)
       end
+
+      ::outer_continue::
    end
 end
 

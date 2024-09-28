@@ -93,7 +93,7 @@ end
 
 ---Get a stateful iterator of each unicode character in a string.
 ---@param word string
----@return function():string?
+---@return function():(number,string)?
 function Module.chars(word)
    local f, s, i = utf8.codes(word)
    local value = nil

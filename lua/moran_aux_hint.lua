@@ -29,6 +29,7 @@ function Module.func(translation, env)
    for cand in translation:iter() do
       if cand.type == "punct" then
          yield(cand)
+         goto continue
       end
 
       local gcand = cand:get_genuine()
