@@ -361,11 +361,19 @@ function Module.get_config_bool(env, key, deflt)
 end
 
 function Module.map(tbl, f)
-   local ret = {}
-   for k, v in pairs(tbl) do
-      ret[k] = f(v)
+    local ret = {}
+    for k, v in pairs(tbl) do
+        ret[k] = f(v)
+    end
+    return ret
+end
+
+function Module.rstrip(s, suffix)
+   if s:sub(-#suffix) == suffix then
+      return s:sub(1, -#suffix - 1)
+   else
+      return s
    end
-   return ret
 end
 
 return Module

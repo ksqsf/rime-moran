@@ -128,7 +128,7 @@ function Module.init(env)
 
       local cand = segment:get_selected_candidate()
       if cand and cand.comment and cand.comment ~= "" then
-         aux_length = #cand.comment
+         aux_length = moran.rstrip(cand.comment, env.aux_priority_indicator)
       end
    end
 
