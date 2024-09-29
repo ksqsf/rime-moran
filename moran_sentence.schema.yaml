@@ -88,7 +88,6 @@ speller:
       - moran:/algebra/generate_code
       - moran:/algebra/user_sentence_bottom?
       - moran:/algebra/user_force_bottom?
-      - moran:/key_bindings/moran_keypad
 
 translator:
   dictionary: moran.extended
@@ -244,6 +243,7 @@ key_binder:
       - moran:/key_bindings/moran_tab
       - moran:/key_bindings/moran_semicolon_for_2
       - moran:/key_bindings/moran_switches
+      - moran:/key_bindings/moran_keypad
 
 recognizer:
   import_preset: default
