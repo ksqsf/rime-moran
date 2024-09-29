@@ -251,7 +251,7 @@ function Module.TranslateEven(env, seg, input, input_len)
    then
       local c = nonaux_iter:peek()
       local c_len = c and utf8.len(c.text) or 0
-      if c and c.type == "sentence" and c_len >= env.sentence_priority_length then
+      if c and c_len >= env.sentence_priority_length and c_len == input_len / 2 then
          env.y:yield(nonaux_iter:next())
          -- 只輸出一個句子：如果 aux 的第一個候選也是句子，就跳過
          if aux_iter:peek() and aux_iter:peek().type == "sentence" then
