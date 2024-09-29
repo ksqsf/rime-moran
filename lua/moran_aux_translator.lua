@@ -265,7 +265,7 @@ function Module.TranslateEven(env, seg, input, input_len)
       nonaux_iter,
       env.word_over_char_tolerance,
       function(c)
-         return utf8.len(c.text) == input_len / 2
+         return (c.type == "phrase" or c.type == "user_phrase") and utf8.len(c.text) == input_len / 2
       end)
    if aux_iter:peek() and #aux_iter:peek().comment > 0 then
       table.insert(pool, aux_iter())
