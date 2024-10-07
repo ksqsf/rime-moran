@@ -58,7 +58,7 @@ engine:
     - reverse_lookup_translator@reverse_cangjie5
     - reverse_lookup_translator@reverse_zrlf
     - table_translator@custom_phrase       # 自定義短語
-    - table_translator@english             # 英語混輸
+    #- table_translator@english             # 英語混輸
     #- table_translator@japanese            # 日語混輸
     #- table_translator@fixed             # 掛接用法
     - lua_translator@*moran_aux_translator
@@ -114,14 +114,17 @@ fixed:
 
 english:
   dictionary: moran_english
-  enable_completion: false
+  enable_user_dict: true
+  enable_completion: true
   enable_sentence: false
-  initial_quality: 1
+  initial_quality: 0
+  comment_format:
+    - xform/~[A-Za-z]*//
 
 japanese:
   dictionary: moran_japanese
   enable_completion: false
-  enable_sentence: false
+  enable_sentence: true
   initial_quality: 0
 
 simplifier:
@@ -234,10 +237,13 @@ recognizer:
     reverse_zrlf: "^olf[a-z]*$"
 
 moran:
-  # 預取個數。
+  # 預取個數
   # 設置爲小於等於 0 的數相當於無限制。
-  # 設置爲正數時：數字越小，速度越快；數字越大，能被輔到字就越多。
-  # 默認爲無限制，如果在某些性能較低的設備上使用時感到卡頓，可以設置爲 50 或更小的數字。
+  # 設置爲正數時：數字越小，速度越快，被輔到的字越少；
+  #               數字越大，速度越慢，能被輔到字就越多。
+  # 默認爲無限制。
+  # 如果在某些性能較低的設備上使用時感到卡頓，可以設置爲 50 或更小的數字。
+  # 如果感到被輔生僻字過多，也可以考慮設置爲較小的數字。
   prefetch: -1
 
   # 固定一二級簡碼。參考設置：
@@ -246,6 +252,72 @@ moran:
     d: 的
     l: 了
     j: 就
+
+  # 首選固定爲句子，使得在輸入長句時，首選的長度不會跳變
+  # 例如，輸入「不太理解」輸入到 "bu tl l" 時，
+  # 若爲 false，則首選可能是「郶」（l 輔助碼生效）
+  # 若爲 true，則首選是「不太冷」（bu tl l 被視作雙拼），次選可能是「郶」（l 輔助碼生效）
+  sentence_priority: true
+  # 句子優先的生效長度
+  # 只有在句子輸出大於該長度時，句子才會被前置。
+  # 例如，要輸入「哪個」時輸入 nagek，首先被嘗試理解爲 na'ge'k，輸出三個字。
+  # 若設爲 4，就可以保證 nagek 的首选出現「哪個」，而不是三個字的候選。
+  # 若設爲 0，則表示不加限制、永遠開啓。
+  sentence_priority_length: 0
+
+  # 四碼時是否優先單字
+  # ※ 該設置優先級高於 word_over_char_tolerance
+  #    若本選項爲 true，即使 word_over_char_tolerance 大於 0，四碼仍然是單字優先。
+  char_priority: false
+
+  # 允許多少詞出現在被輔候選之前，影響輸入長度爲偶數的情況
+  # 被輔單字太多的情況下，例如 ji'dj li'hl 等，允許一些詞出現在這些字之前。
+  # 若設爲 0，相當於被輔候選永遠在最前，輸入 xibk 時首選會是「兮」而不是細胞。
+  # 若設爲 1，相當於被輔候選會出現在次選。
+  # 必須是正整數。
+  #
+  # ※ 該設置優先級低於 single_char_input_len。
+  #    如果本設置大於 0，而 single_char_input_len=4 ，則
+  word_over_char_tolerance: 2
+  # 是否允許被輔候選和插入詞語之間調頻
+  # 僅在當 word_over_char_tolerance > 0 時有效
+  # 如 doxx 存在「多謝」和「多」兩個候選，具體順序依據用戶使用頻率而定。
+  # 若設置爲 true，「多謝」可能出現在「多」之前，也可能出現在「多」之後。
+  # 若設置爲 false，則詞語無條件出現在被輔候選之前。
+  word_over_char_adaptive: true
+
+  # 輸入輔助碼時，原來匹配的首選後移
+  # ※ 該選項也對詞語生效。
+  #
+  # 例如，假設輸入 he 的首選是「喝」，
+  # 如果進一步輸入 k，有很大可能意味着我們想找一個不是「喝」的字。
+  # 那麼「喝」應該被延遲到若干選項之後。
+  #
+  # 注意，該功能不影響僅輸入一碼或二碼時的行爲，
+  # 即若 h 的首選是「喝」，則輸入 he 的首選依然是「喝」。
+  # 若需要改變此行爲，可以參照上方的一二級簡碼設置。
+  #
+  # 若爲 true，則原來匹配的候選被延遲到若干選項之後。
+  # （延遲候選的個數由 aux_priority_defer 指定。）
+  # 若爲 false，則 hek 一定仍然是「喝」。
+  aux_priority: true
+  # 延遲多少位
+  aux_priority_defer: 2
+  # 設定 aux_priority 作用時的輔助碼長度
+  # 若爲 1，表示允許 he -> hek 時降權「喝」字，即從二碼輸入一碼到三碼時。
+  # 若爲 2，表示允許 hek -> hekh 時降權「喝」字，即從三碼輸入一碼到四碼時。
+  # 其他任何數字都是無效輸入。
+  aux_priority_length: 1
+  # 如果候選被後移，增加一個提示符。
+  aux_priority_indicator: "▾"
+
+  # 輔助碼作用位置
+  # 注：輔篩模式無論如何都是在 *首個詞語* 上進行篩選。
+  # 本配置只影響取用哪個輔助碼
+  # first：首字
+  # last：末字
+  # any：任意字
+  aux_position: any
 
 # 默認啓用語言模型
 __include: moran:/octagram/enable_for_sentence
