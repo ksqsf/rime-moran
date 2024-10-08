@@ -1,10 +1,12 @@
 -- Moran Reorder Filter
 -- Copyright (c) 2023, 2024 ksqsf
 --
--- Ver: 0.1.2
+-- Ver: 0.1.3
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.1.3: 修復一個導致候選重複輸出的 bug。
 --
 -- 0.1.2: 配合 show_chars_anyway 設置。從 show_chars_anyway 設置起，
 -- fixed 輸出有可能出現在 script 之後！此情況只覆寫 comment 而不做重排。
@@ -101,8 +103,9 @@ function Top.DoPhase1(env, fixed_list, smart_list, cand)
       table.remove(fixed_list, 1)
    end
    if #fixed_list == 0 then
-      for _, cand in ipairs(smart_list) do
+      for key, cand in ipairs(smart_list) do
          yield(cand)
+         smart_list[key] = nil
       end
       return 2
    end
