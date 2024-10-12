@@ -319,7 +319,7 @@ recognizer:
     reverse_bopomofo: '^ovy[A-Za-z0-9,.;/\-]*$'
     # CAVEAT: 排除 ^; 避免 ;d 無法自動上屏
     # CAVEAT: ^o 只保留 ^ou 和 ^o$，避免反查被干擾
-    has_emoji: '^([a-np-z]|ou)*$|^o$'
+    has_emoji: '(^[a-np-z][a-z]*/?$)|(^o$)|(^ou[a-z/]*$)'
     # 引導外語
     japanese_o: '^ojp[a-z]*$'
 

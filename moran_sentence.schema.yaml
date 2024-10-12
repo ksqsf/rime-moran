@@ -71,8 +71,8 @@ engine:
     #- lua_filter@*moran_aux_hint           # 輔助碼提示需要去掉本行開頭的 # 符號
     - lua_filter@*moran_charset_filter     # 字集過濾需要去掉本行開頭的 # 符號
     - simplifier@chaifen
-    - simplifier
     - simplifier@emoji
+    - simplifier
     - simplifier@std_tw
     - simplifier@std_hk
     - simplifier@std_dzing
