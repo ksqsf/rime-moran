@@ -1276,6 +1276,7 @@ A4紙	asv
 不動心	bdx
 拔刀相助	bdxv
 北大西洋	bdxy
+不等於	bdy
 不但要	bdy
 弊大於利	bdyl
 不得要領	bdyl
@@ -12197,6 +12198,7 @@ C++	cjj
 否	fbk
 封閉療法	fblf
 分崩離析	fblx
+方便麪	fbm
 鴀	fbn
 分不清楚	fbqi
 缶	fbr
@@ -31576,6 +31578,7 @@ C++	cjj
 鐦	kljk
 開間	kljm
 開禁	kljn
+鎧	kljq
 鎎	kljq
 開卷	kljr
 開掘	kljt
@@ -31846,6 +31849,7 @@ C++	cjj
 捆子	kpzi
 坤造	kpzk
 困在	kpzl
+況且	kq
 開啓	kq
 哭去吧	kqb
 口氣不善	kqbu
@@ -36806,6 +36810,7 @@ C++	cjj
 馬趴	mapa
 馬棚	mapg
 馬屁	mapi
+马匹	mapi
 馬槍	maqd
 馬球	maqq
 麻雀	maqt
@@ -38291,8 +38296,8 @@ C++	cjj
 冕旒	mmlq
 面露	mmlu
 棉鈴	mmly
-麵	mmm
 麪	mmm
+麵	mmm
 棉麻	mmma
 棉	mmmb
 櫋	mmmf
@@ -38852,6 +38857,7 @@ C++	cjj
 馬上做	msz
 毛遂自薦	mszj
 明天	mt
+每天	mt
 滿頭白髮	mtbf
 滿頭大汗	mtdh
 彌天大謊	mtdh
@@ -42692,8 +42698,8 @@ PC端	pcdr
 盤條	pjtc
 盤梯	pjti
 攀談	pjtj
-蟠桃	pjtk
 叛逃	pjtk
+蟠桃	pjtk
 否極泰來	pjtl
 盤陀	pjto
 叛徒	pjtu
@@ -52954,8 +52960,8 @@ PC端	pcdr
 通氣孔	tqk
 投親靠友	tqky
 太強了	tql
-汰漒𣱾	tql
 鈦鏹釕	tql
+汰漒𣱾	tql
 同氣連枝	tqlv
 臺前幕後	tqmh
 天清氣朗	tqql
@@ -55333,6 +55339,7 @@ PC端	pcdr
 神似	ufsi
 罧	ufsl
 伸縮	ufso
+參	ufsp
 神算	ufsr
 叄	ufss
 申訴	ufsu
@@ -64781,6 +64788,7 @@ WiFi	wifi
 危	wzd
 偉大	wzda
 微雕	wzdc
+為	wzdd
 危	wzde
 尾燈	wzdg
 濻	wzdg
@@ -65874,6 +65882,7 @@ WiFi	wifi
 心浮氣躁	xfqz
 學非所用	xfsy
 消防通道	xftd
+心肺停止	xftv
 想方設法	xfuf
 心腹之患	xfvh
 先發制人	xfvr
@@ -67991,6 +68000,7 @@ WiFi	wifi
 噱頭	xttb
 穴頭	xttb
 血糖	xtth
+學堂	xtth
 雪天	xttm
 血統	xtts
 學徒	xttu
@@ -68925,6 +68935,7 @@ WiFi	wifi
 寫真	xxvf
 星星之火	xxvh
 挾制	xxvi
+獬豸	xxvi
 寫照	xxvk
 欣喜之情	xxvq
 協助	xxvu
@@ -69763,6 +69774,7 @@ WiFi	wifi
 油瓶	ybpy
 猶	ybq
 尤其	ybqi
+油漆	ybqi
 有錢	ybqm
 獿	ybqn
 猷	ybqq
@@ -70067,7 +70079,7 @@ WiFi	wifi
 一代新人換舊人	ydxr
 異端邪說	ydxu
 壓電效應	ydxy
-運動員	ydy
+約等於	ydy
 一點也不	ydyb
 一點一滴	ydyd
 越多越好	ydyh
