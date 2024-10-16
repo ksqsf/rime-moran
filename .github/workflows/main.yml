@@ -4,7 +4,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: cd tools && python3 -m pip install pdm && pdm install
+      - run: cd tools && python3 -m pip install pdm --break-system-packages && pdm install
       - run: sudo apt install opencc p7zip-full
       - run: pdm use -f tools/.venv && $(pdm venv activate) && ./make_simp_dist.sh github
       - uses: actions/upload-artifact@v4
