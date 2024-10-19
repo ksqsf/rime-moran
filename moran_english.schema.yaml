@@ -30,5 +30,6 @@ speller:
     "zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA"
   algebra:
     __patch:
+      - moran_defs:/casefold
       - moran:/algebra/user_force_top?
       - moran:/algebra/user_force_bottom?

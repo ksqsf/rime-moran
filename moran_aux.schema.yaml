@@ -1,7 +1,7 @@
 schema:
   schema_id: moran_aux
   name: 魔然·輔篩
-  version: "20240926"
+  version: "20241019"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -74,7 +74,7 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: abcdefghijklmnopqrstuvwxyz
+  alphabet: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
   delimiter: " '"
   aux_algebra:
     __append:

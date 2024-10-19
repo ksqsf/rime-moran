@@ -1,7 +1,7 @@
 schema:
   schema_id: moran
   name: 魔然
-  version: "20240926"
+  version: "20241019"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -103,7 +103,7 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: abcdefghijklmnopqrstuvwxyz/;
+  alphabet: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ/;
   delimiter: " '"
   auto_select: true
   auto_select_pattern: ^;(\w+|;)
@@ -144,6 +144,7 @@ custom_phrase: # 自定義短語
 
 english:
   dictionary: moran_english
+  prism: moran_english
   enable_completion: true
   enable_sentence: false
   enable_user_dict: true
@@ -299,10 +300,12 @@ key_binder:
   bindings:
     __patch:
       - :/key_binder/custom_bindings?
-      - moran:/key_bindings/moran_capital_for_last_syllable
       - moran:/key_bindings/moran_tab
       - moran:/key_bindings/moran_switches
       - moran:/key_bindings/moran_keypad
+      # 大寫字母追加輔助碼到上一音節
+      # 該功能可使用 Shift-tab 替代
+      # - moran:/key_bindings/moran_capital_for_last_syllable
 
 recognizer:
   import_preset: default
