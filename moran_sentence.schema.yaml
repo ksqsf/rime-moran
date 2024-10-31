@@ -105,6 +105,7 @@ custom_phrase: # 自定義短語
   initial_quality: 10
 
 english:
+  tag: english
   dictionary: moran_english
   enable_completion: true
   enable_sentence: false
@@ -256,7 +257,8 @@ recognizer:
     reverse_cangjie5: "^ocj[A-Za-z]*$"
     reverse_zrlf: "^olf[A-Za-z]*$"
     reverse_bopomofo: '^ovy[A-Za-z0-9,.;/\-]*$'
-    punct: '^/([0-9]0?|[A-Za-z]+)$'
+    # 外語
+    english: '^[A-Za-z]{4}[A-Za-z]*'
 
 # 默認啓用語言模型
 __include: moran:/octagram/enable_for_sentence

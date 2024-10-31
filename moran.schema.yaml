@@ -143,6 +143,7 @@ custom_phrase: # 自定義短語
   initial_quality: 1000
 
 english:
+  tag: english
   dictionary: moran_english
   prism: moran_english
   enable_completion: true
@@ -323,6 +324,8 @@ recognizer:
     # CAVEAT: 排除 ^; 避免 ;d 無法自動上屏
     # CAVEAT: ^o 只保留 ^ou 和 ^o$，避免反查被干擾
     has_emoji: '(^[a-np-z][a-z]*/?$)|(^o$)|(^ou[a-z/]*$)'
+    # 外語
+    english: '^[A-Za-z]{4}[A-Za-z]*'
     # 引導外語
     japanese_o: '^ojp[a-z]*$'
 

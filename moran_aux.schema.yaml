@@ -113,6 +113,7 @@ fixed:
   encode_commit_history: true
 
 english:
+  tag: english
   dictionary: moran_english
   enable_user_dict: true
   enable_completion: true
@@ -235,6 +236,8 @@ recognizer:
     reverse_stroke: "^obh[a-z]*$"
     reverse_cangjie5: "^ocj[a-z]*$"
     reverse_zrlf: "^olf[a-z]*$"
+    # 外語
+    english: '^[A-Za-z]{4}[A-Za-z]*'
 
 moran:
   # 預取個數
