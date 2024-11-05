@@ -944,6 +944,7 @@ A4紙	asv
 把握	bawo
 巴烏	bawu
 覇	bax
+靶向	baxd
 巴西	baxi
 把戲	baxi
 八仙	baxm
@@ -1028,9 +1029,11 @@ A4紙	asv
 布帛菽粟	bbus
 並不是說	bbuu
 憋不住	bbv
+繃不住	bbv
 並不知道	bbvd
 不敗之地	bbvd
 八拜之交	bbvj
+繃不住了	bbvl
 百般折磨	bbvm
 秉筆直書	bbvu
 不辨真僞	bbvw
@@ -2730,6 +2733,7 @@ A4紙	asv
 報業	bkye
 不快也光	bkyg
 保養	bkyh
+包養	bkyh
 報以	bkyi
 不可言傳	bkyi
 褒義	bkyi
@@ -7186,6 +7190,7 @@ C++	cjj
 大齡	daly
 打雷	dalz
 地安門	dam
+打碼	dama
 大媽	dama
 大廟	damc
 大門	damf
@@ -13833,6 +13838,7 @@ C++	cjj
 輔料	fulc
 服了	fule
 福利	fuli
+複利	fuli
 腐爛	fulj
 父老	fulk
 佛老	fulk
@@ -15932,6 +15938,7 @@ C++	cjj
 高飛	gkfz
 稿費	gkfz
 鼛	gkg
+高光	gkgd
 高歌	gkge
 高跟	gkgf
 高幹	gkgj
@@ -21555,6 +21562,7 @@ C++	cjj
 晦澀	hvse
 繢	hvsg
 紅裝素裹	hvsg
+揮散	hvsj
 會所	hvso
 回縮	hvso
 毀損	hvsp
@@ -22600,6 +22608,7 @@ C++	cjj
 赤膊上陣	ibuv
 籌	ibv
 瞅着	ibve
+抽紙	ibvi
 瞅準	ibvp
 沉不住氣	ibvq
 抽中	ibvs
@@ -29189,6 +29198,7 @@ C++	cjj
 居委	juwz
 懼	jux
 巨響	juxd
+具象	juxd
 據悉	juxi
 怐	juxj
 懅	juxj
@@ -29979,6 +29989,7 @@ C++	cjj
 結束	jxuu
 謹小慎微	jxuw
 節	jxv
+結紮	jxva
 桀紂	jxvb
 界樁	jxvd
 接着	jxve
@@ -35497,6 +35508,7 @@ C++	cjj
 淚如雨下	lryx
 烈日炎炎	lryy
 亂營	lryy
+孿	lrz
 亂雜	lrza
 亂走	lrzb
 卵子	lrzi
@@ -49782,6 +49794,7 @@ PC端	pcdr
 死馬當作活馬醫	smdy
 什麼鬼	smg
 什麼梗	smgg
+什麼話	smh
 四面紅旗	smhq
 四面楚歌	smig
 四面出擊	smij
@@ -52008,6 +52021,7 @@ PC端	pcdr
 談妥	tjto
 痰桶	tjts
 貪圖	tjtu
+談吐	tjtu
 探聽	tjty
 碳	tju
 攤手	tjub
@@ -53462,6 +53476,7 @@ PC端	pcdr
 圖畫	tuhw
 稌	tuhy
 塗黑	tuhz
+圖牀	tuid
 禿瘡	tuid
 託收承付	tuif
 屠城	tuig
@@ -54244,7 +54259,7 @@ PC端	pcdr
 挺嚴	tyyj
 太陽眼鏡	tyyj
 聽音	tyyn
-停勻	tyyp
+停運	tyyp
 挺遠	tyyr
 庭院	tyyr
 停用	tyys
@@ -56142,6 +56157,7 @@ PC端	pcdr
 使喚	uihr
 視乎	uihu
 實惠	uihv
+石灰	uihv
 實話	uihw
 釋懷	uihy
 使壞	uihy
@@ -57045,7 +57061,6 @@ PC端	pcdr
 數米而炊	umei
 審美觀	umg
 水磨工夫	umgf
-什麼話	smh
 山盟海誓	umhu
 生猛海鮮	umhx
 舌面後音	umhy
@@ -58977,6 +58992,7 @@ PC端	pcdr
 戰鬥英雄	vdyx
 值得擁有	vdyy
 莊子	vdzi
+妝造	vdzk
 裝載	vdzl
 裝作	vdzo
 鎮定自若	vdzr
@@ -64359,6 +64375,7 @@ WiFi	wifi
 無聲手槍	wuuq
 萬事順遂	wuus
 無數	wuuu
+武術	wuuu
 污水	wuuv
 午睡	wuuv
 屼	wuuw
@@ -66543,6 +66560,7 @@ WiFi	wifi
 心靜自然涼	xjzl
 小家子氣	xjzq
 辛苦	xk
+笑哭	xk
 心口不一	xkby
 信口雌黃	xkch
 笑看風雲	xkfy
@@ -66775,6 +66793,7 @@ WiFi	wifi
 閒居	xmju
 現價	xmjw
 銜接	xmjx
+鍁	xmjx
 銑	xmjx
 鍌	xmjx
 幰	xmjx
@@ -67293,6 +67312,7 @@ WiFi	wifi
 訓練	xplm
 巡邏	xplo
 馴鹿	xplu
+尋路	xplu
 訓令	xply
 迅雷	xplz
 馴	xpm
@@ -69315,6 +69335,7 @@ WiFi	wifi
 行蹤	xyzs
 逍遙自在	xyzz
 現在	xz
+選擇	xz
 現在不	xzb
 行蹤不定	xzbd
 現在的	xzd
@@ -69383,6 +69404,7 @@ WiFi	wifi
 掗	yafy
 庌	yag
 牙垢	yagb
+亞光	yagd
 壓根	yagf
 壓港	yagh
 鴨肝	yagj
@@ -71317,6 +71339,7 @@ WiFi	wifi
 譯音	yiyn
 疑雲	yiyp
 醫院	yiyr
+意願	yiyr
 易用	yiys
 一月	yiyt
 詒	yiyt
@@ -71599,6 +71622,7 @@ WiFi	wifi
 閻	yjmj
 鹽	yjml
 掩埋	yjml
+燕麥	yjml
 顏面	yjmm
 菸民	yjmn
 淹沒	yjmo
@@ -74427,6 +74451,7 @@ WiFi	wifi
 幼吾幼以及人之幼	ywyy
 一誤再誤	ywzw
 一下	yx
+郵箱	yx
 野心勃勃	yxbb
 意想不到	yxbd
 一星半點兒	yxbe

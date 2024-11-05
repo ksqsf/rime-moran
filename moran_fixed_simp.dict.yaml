@@ -903,6 +903,7 @@ A4纸	asv
 把玩	bawj
 把握	bawo
 巴乌	bawu
+靶向	baxd
 巴西	baxi
 把戏	baxi
 八仙	baxm
@@ -992,9 +993,11 @@ A4纸	asv
 布帛菽粟	bbus
 并不是说	bbuu
 憋不住	bbv
+绷不住	bbv
 并不知道	bbvd
 不败之地	bbvd
 八拜之交	bbvj
+绷不住了	bbvl
 百般折磨	bbvm
 秉笔直书	bbvu
 不辨真伪	bbvw
@@ -2631,6 +2634,7 @@ A4纸	asv
 报业	bkye
 不快也光	bkyg
 保养	bkyh
+包养	bkyh
 报以	bkyi
 不可言传	bkyi
 褒义	bkyi
@@ -6917,6 +6921,7 @@ C语言	cyy
 大龄	daly
 打雷	dalz
 阘	dam
+打码	dama
 大妈	dama
 大庙	damc
 大门	damf
@@ -13262,6 +13267,7 @@ F盘	fpj
 辅料	fulc
 服了	fule
 福利	fuli
+复利	fuli
 腐烂	fulj
 父老	fulk
 佛老	fulk
@@ -15283,6 +15289,7 @@ F盘	fpj
 告负	gkfu
 高飞	gkfz
 稿费	gkfz
+高光	gkgd
 高歌	gkge
 高跟	gkgf
 高干	gkgj
@@ -20718,6 +20725,7 @@ H盘	hpj
 晦涩	hvse
 红装素裹	hvsg
 缋	hvsg
+挥散	hvsj
 会所	hvso
 回缩	hvso
 毁损	hvsp
@@ -21727,6 +21735,7 @@ H盘	hpj
 赤膊上阵	ibuv
 筹	ibv
 瞅着	ibve
+抽纸	ibvi
 瞅准	ibvp
 沉不住气	ibvq
 抽中	ibvs
@@ -22343,6 +22352,7 @@ H盘	hpj
 城区	igqu
 澄清	igqy
 承认	igrf
+成人	igrf
 承让	igrh
 成日	igri
 诚然	igrj
@@ -28083,6 +28093,7 @@ I盘	ipj
 居委	juwz
 举	jux
 巨响	juxd
+具象	juxd
 据悉	juxi
 惧	juxj
 及时行乐	juxl
@@ -28832,6 +28843,7 @@ I盘	ipj
 结束	jxuu
 谨小慎微	jxuw
 截	jxv
+结扎	jxva
 桀纣	jxvb
 界桩	jxvd
 接着	jxve
@@ -47908,6 +47920,7 @@ I盘	ipj
 死马当作活马医	smdy
 什么鬼	smg
 什么梗	smgg
+什么话	smh
 四面红旗	smhq
 四面楚歌	smig
 四面出击	smij
@@ -50052,6 +50065,7 @@ I盘	ipj
 谈妥	tjto
 痰桶	tjts
 贪图	tjtu
+谈吐	tjtu
 探听	tjty
 碳	tju
 摊手	tjub
@@ -51460,6 +51474,7 @@ I盘	ipj
 图画	tuhw
 稌	tuhy
 涂黑	tuhz
+图床	tuid
 秃疮	tuid
 托收承付	tuif
 屠城	tuig
@@ -52213,7 +52228,7 @@ T恤衫	txuj
 挺严	tyyj
 太阳眼镜	tyyj
 听音	tyyn
-停匀	tyyp
+停运	tyyp
 挺远	tyyr
 庭院	tyyr
 停用	tyys
@@ -54087,6 +54102,7 @@ T恤衫	txuj
 视乎	uihu
 炻	uihu
 实惠	uihv
+石灰	uihv
 实话	uihw
 释怀	uihy
 使坏	uihy
@@ -54950,7 +54966,6 @@ T恤衫	txuj
 数米而炊	umei
 审美观	umg
 水磨工夫	umgf
-什么话	smh
 山盟海誓	umhu
 生猛海鲜	umhx
 舌面后音	umhy
@@ -56863,6 +56878,7 @@ U盘	upj
 战斗英雄	vdyx
 值得拥有	vdyy
 庄子	vdzi
+妆造	vdzk
 装载	vdzl
 装作	vdzo
 镇定自若	vdzr
@@ -62039,6 +62055,7 @@ U盘	upj
 午	wuur
 万事顺遂	wuus
 无数	wuuu
+武术	wuuu
 污水	wuuv
 午睡	wuuv
 屼	wuuw
@@ -64097,6 +64114,7 @@ U盘	upj
 心静自然凉	xjzl
 小家子气	xjzq
 辛苦	xk
+笑哭	xk
 心口不一	xkby
 信口雌黄	xkch
 笑看风云	xkfy
@@ -64803,6 +64821,7 @@ U盘	upj
 训练	xplm
 巡逻	xplo
 驯鹿	xplu
+寻路	xplu
 训令	xply
 迅雷	xplz
 驯	xpm
@@ -66812,6 +66831,7 @@ U盘	upj
 压服	yafu
 揠	yafy
 牙垢	yagb
+亚光	yagd
 压根	yagf
 压港	yagh
 鸭肝	yagj
@@ -68685,6 +68705,7 @@ U盘	upj
 译音	yiyn
 疑云	yiyp
 医院	yiyr
+意愿	yiyr
 易用	yiys
 一月	yiyt
 依约	yiyt
@@ -68948,6 +68969,7 @@ U盘	upj
 严密	yjmi
 阎	yjmj
 掩埋	yjml
+燕麦	yjml
 颜面	yjmm
 烟民	yjmn
 淹没	yjmo
@@ -71665,6 +71687,7 @@ U盘	upj
 幼吾幼以及人之幼	ywyy
 一误再误	ywzw
 一下	yx
+邮箱	yx
 野心勃勃	yxbb
 意想不到	yxbd
 一星半点儿	yxbe
