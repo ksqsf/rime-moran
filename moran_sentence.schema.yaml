@@ -51,6 +51,7 @@ engine:
   segmentors:
     - ascii_segmentor
     - matcher
+    - matcher@recognizer_secondary
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
@@ -258,7 +259,10 @@ recognizer:
     reverse_cangjie5: "^ocj[A-Za-z]*$"
     reverse_zrlf: "^olf[A-Za-z]*$"
     reverse_bopomofo: '^ovy[A-Za-z0-9,.;/\-]*$'
-    # 外語
+
+recognizer_secondary:
+  patterns:
+    # {4} 表示輸入長度達到 4 後開始輸出英語
     english: '^[A-Za-z]{4}[A-Za-z]*'
 
 # 默認啓用語言模型

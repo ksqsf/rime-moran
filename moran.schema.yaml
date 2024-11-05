@@ -1,7 +1,7 @@
 schema:
   schema_id: moran
   name: 魔然
-  version: "20241027"
+  version: "20241105"
   author:
     - 自然碼發明人：周志農
     - 方案製作：ksqsf
@@ -63,6 +63,7 @@ engine:
   segmentors:
     - ascii_segmentor
     - matcher
+    - matcher@recognizer_secondary
     - affix_segmentor@japanese_o
     - abc_segmentor
     - punct_segmentor
@@ -323,11 +324,14 @@ recognizer:
     reverse_bopomofo: '^ovy[A-Za-z0-9,.;/\-]*$'
     # CAVEAT: 排除 ^; 避免 ;d 無法自動上屏
     # CAVEAT: ^o 只保留 ^ou 和 ^o$，避免反查被干擾
-    has_emoji: '(^[a-np-z][a-z]*/?$)|(^o$)|(^ou[a-z/]*$)'
-    # 外語
-    english: '^[A-Za-z]{4}[A-Za-z]*'
-    # 引導外語
+    has_emoji: '(^[a-np-z][a-z/]*$)|(^[a-z]$)|(^ou[a-z/]*$)'
+    # ojp 引導日語輸入
     japanese_o: '^ojp[a-z]*$'
+
+recognizer_secondary:
+  patterns:
+    # {4} 表示輸入長度達到 4 後開始輸出英語
+    english: '^[A-Za-z]{4}[A-Za-z]*'
 
 moran:
   # 簡快碼提示符
