@@ -106,7 +106,7 @@ custom_phrase: # 自定義短語
   initial_quality: 10
 
 english:
-  tag: english
+  # tag: english  # librime>=0.12 方可取消註釋
   dictionary: moran_english
   enable_completion: true
   enable_sentence: false

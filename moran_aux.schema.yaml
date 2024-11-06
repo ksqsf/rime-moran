@@ -114,7 +114,7 @@ fixed:
   encode_commit_history: true
 
 english:
-  tag: english
+  # tag: english  # librime>=0.12 方可取消註釋
   dictionary: moran_english
   enable_user_dict: true
   enable_completion: true
