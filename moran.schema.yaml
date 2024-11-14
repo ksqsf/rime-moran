@@ -51,6 +51,7 @@ switches:
 engine:
   processors:
     - key_binder
+    - lua_processor@*moran_pin*pin_processor
     - lua_processor@*moran_semicolon_processor
     - ascii_composer
     - recognizer
@@ -85,6 +86,7 @@ engine:
     - lua_translator@*moran_shijian        # 日期orq 節氣ojq 星期oxq 時間osj
     - lua_translator@*moran_number         # 數字轉大寫, 大寫S引導, 如 S123
     - lua_translator@*moran_unicode        # Unicode輸入, 大寫U引導, 如 U9b54
+    - lua_translator@*moran_pin*panacea_translator
     - history_translator@quick_repeat
   filters:
     - lua_filter@*moran_charset_filter
@@ -92,6 +94,7 @@ engine:
     - lua_filter@*moran_quick_code_hint
     - lua_filter@*moran_aux_hint
     - lua_filter@*moran_ijrq_filter
+    - lua_filter@*moran_pin*pin_filter
     - simplifier@emoji
     - simplifier@chaifen
     - simplifier@pinyinhint
@@ -377,6 +380,22 @@ moran:
   # 輸入四碼時，如果簡碼碼表中含有對應條目，則放置在第二選項。
   show_chars_anyway: false   # 是否輸出簡碼碼表單字，例：輸入 jwrg 時，次選爲「佳」
   show_words_anyway: true   # 是否輸出簡碼碼表詞語，例：輸入 lmsd 時，次選爲「兩面三刀」
+
+  # 「置頂」功能相關設置
+  # 輸入時通過快捷鍵 Ctrl+t 可以將高亮顯示的候選置頂，被置頂的候選位置固定，不再參與調頻
+  # 對同一輸入碼最高支持8個置頂詞，當嘗試置頂第9個詞時，最早被置頂的詞將會失效
+  pin:
+    # 置頂詞提示符
+    indicator: "📌"
+    # 「萬靈藥」加詞功能
+    # 通過輸入 「編碼A」// 「編碼B」 實現造詞功能，編碼A是這個新詞的新編碼 編碼B是目前可以打出該詞的編碼
+    # 例如 輸入 tnfb 不能得到「頭腦風暴」這一候選， 此時我們可以輸入 tnfb//tbnkfgbk 按下空格 讓「頭腦風暴」候選上屏，上屏的詞會被加入用戶詞庫中，之後我們可以用 tnfb 來得到「頭腦風暴」這一候選了
+    # 造出的詞與置頂詞是等同的
+    panacea:
+      # 加詞狀態提示
+      prompt: "〔加詞〕"
+      # 加詞中綴引導符
+      infix: "//"
 
 # 默認啓用語言模型
 __include: moran:/octagram/enable_for_sentence
