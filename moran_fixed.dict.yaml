@@ -463,6 +463,8 @@ A股	agu
 暗礁	anjc
 按季	anji
 氨基	anji
+案件	anjm
+安檢	anjm
 按鍵	anjm
 案卷	anjr
 安居	anju
@@ -769,6 +771,7 @@ A4紙	asv
 安之若素	avrs
 安枕無憂	avwy
 愛之慾其生	avyu
+安慰	aw
 安慰安慰	awaw
 愛屋及烏	awjw
 暗無天日	awtr
@@ -5577,7 +5580,6 @@ Bilibili	bvj
 刺穿	ciir
 此處	ciiu
 蠀	ciiz
-鈶	cij
 賜教	cijc
 刺激	ciji
 草船借箭	cijj
@@ -24309,6 +24311,7 @@ C++	cjj
 出了一口氣	ilyq
 炒了魷魚	ilyy
 拆字	ilzi
+沉默	im
 重碼	im
 出毛病了	imbl
 長命百歲	imbs
@@ -45095,6 +45098,7 @@ PC端	pcdr
 起來嗨	qlh
 秦樓楚館	qlig
 千里傳音	qliy
+輕量級	qlj
 黔驢技窮	qljq
 嘁哩喀喳	qlki
 牆裏開花牆外香	qlkx
@@ -47719,6 +47723,7 @@ PC端	pcdr
 礽	rgu
 仍是	rgui
 人工授精	rguj
+如果說	rguo
 人鬼殊途	rgut
 熱鍋上的螞蟻	rguy
 人工智能	rgvn
@@ -51211,6 +51216,7 @@ PC端	pcdr
 跳蚤	tczk
 迢	tczv
 挑嘴	tczv
+他的	td
 聽到	td
 天地不仁以萬物爲芻狗	tdbg
 天地不容	tdbr
@@ -64420,6 +64426,7 @@ WiFi	wifi
 無聲無息	wuwx
 爲時晚矣	wuwy
 萬事無憂	wuwy
+無畏	wuwz
 無謂	wuwz
 惡	wux
 無效	wuxc
@@ -64673,8 +64680,8 @@ WiFi	wifi
 五項原則	wxyz
 無形資產	wxzi
 無性雜交	wxzj
-唯一	wy
 我也	wy
+唯一	wy
 晚一步	wyb
 亡羊補牢	wybl
 五音不全	wybq
@@ -64693,6 +64700,7 @@ WiFi	wifi
 物慾橫流	wyhl
 污言穢語	wyhy
 毋庸諱言	wyhy
+唯一	wyi
 未雨綢繆	wyim
 我欲乘風歸去	wyiq
 玩一局	wyj
@@ -66054,6 +66062,7 @@ WiFi	wifi
 卌	xiaa
 喜愛	xiai
 西安	xian
+線程安全	xiaq
 習	xib
 夏蟲不可語冰	xibb
 戲本	xibf
@@ -66758,17 +66767,20 @@ WiFi	wifi
 險乎	xmhu
 賢惠	xmhv
 鮮花	xmhw
+線程	xmi
 蜆	xmi
 獻醜	xmib
 舷窗	xmid
 閒扯	xmie
 賢臣	xmif
+線程	xmig
 縣城	xmig
-蛝	xmig
 現成	xmig
+蛝	xmig
 現場	xmih
 先喫	xmii
 限產	xmij
+蜆	xmij
 現鈔	xmik
 線蟲	xmis
 獻出	xmiu
@@ -68820,6 +68832,7 @@ WiFi	wifi
 卸車	xxie
 謝忱	xxif
 寫成	xxig
+攜程	xxig
 鞋廠	xxih
 挾持	xxii
 學習成績	xxij
@@ -69561,6 +69574,7 @@ WiFi	wifi
 尤	ybad
 友愛	ybai
 幽暗	yban
+異步安全	ybaq
 一遍遍	ybb
 卣	ybba
 以不變應萬變	ybbb
@@ -72178,6 +72192,7 @@ WiFi	wifi
 一力承當	ylid
 疑慮重重	ylii
 娛樂場所	ylis
+羽量級	ylj
 輿論監督	yljd
 一兩句話	yljh
 一力降十會	yljh
@@ -85037,6 +85052,7 @@ WiFi	wifi
 遊樂場	ylih
 一連串	ylir
 鴨綠江	yljd
+羽量級	ylji
 養老金	yljn
 御林軍	yljp
 一兩句	ylju

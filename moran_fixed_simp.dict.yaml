@@ -440,6 +440,8 @@ A股	agu
 暗礁	anjc
 按季	anji
 氨基	anji
+案件	anjm
+安检	anjm
 按键	anjm
 案卷	anjr
 安居	anju
@@ -734,6 +736,7 @@ A4纸	asv
 安之若素	avrs
 安枕无忧	avwy
 爱之欲其生	avyu
+安慰	aw
 安慰安慰	awaw
 爱屋及乌	awjw
 暗无天日	awtr
@@ -23379,6 +23382,7 @@ H盘	hpj
 出了一口气	ilyq
 炒了鱿鱼	ilyy
 拆字	ilzi
+沉默	im
 重码	im
 出毛病了	imbl
 长命百岁	imbs
@@ -43398,6 +43402,7 @@ I盘	ipj
 起来嗨	qlh
 秦楼楚馆	qlig
 千里传音	qliy
+轻量级	qlj
 黔驴技穷	qljq
 嘁哩喀喳	qlki
 墙里开花墙外香	qlkx
@@ -45914,6 +45919,7 @@ I盘	ipj
 软骨头	rgt
 仍是	rgui
 人工授精	rguj
+如果说	rguo
 人鬼殊途	rgut
 热锅上的蚂蚁	rguy
 人工智能	rgvn
@@ -49285,6 +49291,7 @@ I盘	ipj
 跳蚤	tczk
 迢	tczv
 挑嘴	tczv
+他的	td
 听到	td
 天地不仁以万物为刍狗	tdbg
 天地不容	tdbr
@@ -62098,6 +62105,7 @@ U盘	upj
 无声无息	wuwx
 为时晚矣	wuwy
 万事无忧	wuwy
+无畏	wuwz
 无谓	wuwz
 悟	wux
 无效	wuxc
@@ -62347,8 +62355,8 @@ U盘	upj
 五项原则	wxyz
 无形资产	wxzi
 无性杂交	wxzj
-唯一	wy
 我也	wy
+唯一	wy
 晚一步	wyb
 亡羊补牢	wybl
 五音不全	wybq
@@ -62366,6 +62374,7 @@ U盘	upj
 物欲横流	wyhl
 污言秽语	wyhy
 毋庸讳言	wyhy
+唯一	wyi
 未雨绸缪	wyim
 我欲乘风归去	wyiq
 玩一局	wyj
@@ -64304,16 +64313,19 @@ U盘	upj
 燹	xmhu
 贤惠	xmhv
 鲜花	xmhw
+线程	xmi
 蚬	xmi
 献丑	xmib
 舷窗	xmid
 闲扯	xmie
 贤臣	xmif
-县城	xmig
+线程	xmig
 现成	xmig
+县城	xmig
 现场	xmih
 先吃	xmii
 限产	xmij
+蚬	xmij
 现钞	xmik
 线虫	xmis
 献出	xmiu
@@ -66263,6 +66275,7 @@ U盘	upj
 卸车	xxie
 谢忱	xxif
 写成	xxig
+携程	xxig
 蝎	xxih
 鞋厂	xxih
 挟持	xxii
@@ -69491,6 +69504,7 @@ U盘	upj
 一力承当	ylid
 疑虑重重	ylii
 娱乐场所	ylis
+羽量级	ylj
 舆论监督	yljd
 一两句话	yljh
 一力降十会	yljh
@@ -74567,7 +74581,7 @@ U盘	upj
 贼赃	zzzh
 贼子	zzzi
 自作自受	zzzu
-自自在在	zzzzh
+自自在在	zzzz
 
 啊啊啊	aaaa
 爱不爱	abai
@@ -79924,6 +79938,7 @@ U盘	upj
 三明治	smvi
 三门峡	smxw
 丧门星	smxy
+什么样	smyh
 扫描仪	smyi
 随你吧	snba
 三年级	snji
@@ -80583,7 +80598,6 @@ U盘	upj
 石墨烯	umxi
 生命线	umxm
 是没有	umyb
-什么样	smyh
 守门员	umyr
 数目字	umzi
 施耐庵	unan
@@ -82203,6 +82217,7 @@ U盘	upj
 游乐场	ylih
 一连串	ylir
 鸭绿江	yljd
+羽量级	ylji
 养老金	yljn
 御林军	yljp
 一两句	ylju
