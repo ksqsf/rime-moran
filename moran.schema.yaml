@@ -90,11 +90,11 @@ engine:
     - history_translator@quick_repeat
   filters:
     - lua_filter@*moran_charset_filter
+    - lua_filter@*moran_pin*pin_filter
     - lua_filter@*moran_reorder_filter
     - lua_filter@*moran_quick_code_hint
     - lua_filter@*moran_aux_hint
     - lua_filter@*moran_ijrq_filter
-    - lua_filter@*moran_pin*pin_filter
     - simplifier@emoji
     - simplifier@chaifen
     - simplifier@pinyinhint

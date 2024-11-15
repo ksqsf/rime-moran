@@ -1,10 +1,12 @@
 -- Moran Reorder Filter
 -- Copyright (c) 2023, 2024 ksqsf
 --
--- Ver: 0.1.3
+-- Ver: 0.1.4
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.1.4: 配合 moran_pin。
 --
 -- 0.1.3: 修復一個導致候選重複輸出的 bug。
 --
@@ -32,6 +34,7 @@ function Top.init(env)
    -- for performance's sake.
    env.reorder_threshold = 50
    env.quick_code_indicator = env.engine.schema.config:get_string("moran/quick_code_indicator") or "⚡️"
+   env.pin_indicator = env.engine.schema.config:get_string("moran/pin/indicator") or "📌"
 end
 
 function Top.fini(env)
@@ -52,7 +55,7 @@ function Top.func(t_input, env)
       end
 
       if reorder_phase == 0 then
-         if cand.comment == '`F' then
+         if cand.comment == '`F' or cand.type == 'pinned' then
             table.insert(fixed_list, cand)
          else
             -- Logically equivalent to goto the branch of reorder_phase=1.
@@ -96,9 +99,14 @@ end
 function Top.DoPhase1(env, fixed_list, smart_list, cand)
    table.insert(smart_list, cand)
    while #fixed_list > 0 and #smart_list > 0 and Top.CandidateMatch(smart_list[#smart_list], fixed_list[1]) do
-      cand = smart_list[#smart_list]
-      cand.comment = env.quick_code_indicator
-      yield(cand)
+      local fcand = fixed_list[1]
+      local scand = smart_list[#smart_list]
+      if fcand.comment == "`F" then
+         scand.comment = env.quick_code_indicator
+      elseif fcand.type == "pinned" then
+         scand.comment = env.pin_indicator
+      end
+      yield(scand)
       table.remove(smart_list, #smart_list)
       table.remove(fixed_list, 1)
    end
@@ -114,7 +122,9 @@ end
 
 function Top.ClearEntries(env, reorder_phase, fixed_list, smart_list)
    for i, cand in ipairs(fixed_list) do
-      cand.comment = env.quick_code_indicator
+      if cand.comment == "`F" then
+         cand.comment = env.quick_code_indicator
+      end
       yield(cand)
       fixed_list[i] = nil
    end

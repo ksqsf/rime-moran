@@ -273,8 +273,10 @@ function pin_processor.func(key_event, env)
     if key_event.keycode == 0x74 then
         local context = env.engine.context
         local input = context.input
-        local cand_text = context:get_selected_candidate().text
-        user_db.toggle_pin_status(input, cand_text)
+        local cand = context:get_selected_candidate()
+        local gcand = cand:get_genuine()
+        local text = gcand.text
+        user_db.toggle_pin_status(input, text)
         context:refresh_non_confirmed_composition()
         -- + a
     elseif key_event.keycode == 0x61 then
@@ -310,7 +312,9 @@ function pin_filter.func(t_input, env)
         return a.commits > b.commits
     end)
     for _, unpacked in ipairs(commits) do
-        yield(Candidate("pinned", 0, #input, unpacked.phrase, env.indicator))
+        local cand = Candidate("pinned", 0, #input, unpacked.phrase, env.indicator)
+        cand.preedit = input
+        yield(cand)
     end
     for cand in t_input:iter() do
         yield(cand)
@@ -373,3 +377,7 @@ return {
     pin_processor = pin_processor,
     panacea_translator = panacea_translator,
 }
+
+-- Local Variables:
+-- lua-indent-level: 4
+-- End:

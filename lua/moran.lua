@@ -123,6 +123,18 @@ function Module.codepoints(word)
     end
 end
 
+---Return true if @str is purely Chinese.
+---@param str str
+---@return boolean
+function Module.str_is_chinese(str)
+   for _, cp in Module.codepoints(str) do
+      if not Module.unicode_code_point_is_chinese(cp) then
+         return false
+      end
+   end
+   return true
+end
+
 ---Take_while but with a limit.
 ---@generic T
 ---@param iter function():T?
