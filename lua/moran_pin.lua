@@ -8,7 +8,7 @@
 -- 0.1.1: simple configuration
 -- 0.1.0: init
 
-
+local moran = require("moran")
 
 -- userdb
 -- 将用户的pin记录存储在userdb中
@@ -274,8 +274,13 @@ function pin_processor.func(key_event, env)
         local context = env.engine.context
         local input = context.input
         local cand = context:get_selected_candidate()
-        local gcand = cand:get_genuine()
-        local text = gcand.text
+        local text = cand.text
+        -- Special-case pure Chinese candidates: the text could be
+        -- output from OpenCC, so pin the genuine candidate instead to
+        -- preserve word frequency.
+        if moran.str_is_chinese(text) then
+            text = cand:get_genuine().text
+        end
         user_db.toggle_pin_status(input, text)
         context:refresh_non_confirmed_composition()
         -- + a
