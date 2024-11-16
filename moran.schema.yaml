@@ -101,7 +101,7 @@ engine:
     - simplifier@std_hk
     - simplifier@std_tw
     - simplifier@std_dzing
-    - simplifier
+    - simplifier@simplifier
     - lua_filter@*moran_charset_comment_filter  # Unicode 區位提示
     - lua_filter@*moran_unicode_display_filter  # Unicode 編碼提示
     - uniquifier
@@ -186,6 +186,7 @@ quick_repeat:  # 快速重複上屏
 simplifier:
   option_name: simplification
   opencc_config: moran_t2s.json
+  tags: [abc]
 
 chaifen:
   option_name: chaifen
@@ -211,16 +212,19 @@ std_hk:
   opencc_config: t2hk.json
   option_name: std_hk
   #tips: all
+  tags: [abc]
 
 std_tw:
   opencc_config: t2tw.json
   option_name: std_tw
   #tips: all
+  tags: [abc]
 
 std_dzing:
   opencc_config: moran_dzing.json
   option_name: std_dzing
   tips: all
+  tags: [abc]
 
 reverse_format:
   comment_format:
@@ -329,7 +333,7 @@ recognizer:
     # CAVEAT: ^o 只保留 ^ou 和 ^o$，避免反查被干擾
     has_emoji: '(^[a-np-z][a-z/]*$)|(^[a-z]$)|(^ou[a-z/]*$)'
     # ojp 引導日語輸入
-    japanese_o: '^ojp[a-z]*$'
+    japanese_o: '(^ojp[a-z]*$)'
 
 recognizer_secondary:
   patterns:
