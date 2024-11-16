@@ -43,6 +43,7 @@ end
 function user_db.query_and_unpack(input)
     local res = pin_db:query(input .. sep_t)
     local function iter()
+        if not res then return nil end
         local next_func, self = res:iter()
         return function()
             while true do
@@ -309,8 +310,11 @@ end
 function pin_filter.func(t_input, env)
     local input = env.engine.context.input
     local commits = {}
-    for unpacked in user_db.query_and_unpack(input) do
-        table.insert(commits, unpacked)
+    local entries = user_db.query_and_unpack(input)
+    if entries then
+        for unpacked in entries do
+            table.insert(commits, unpacked)
+        end
     end
     -- descending sort
     table.sort(commits, function(a, b)
