@@ -332,24 +332,68 @@ local panacea_translator = {}
 
 function panacea_translator.init(env)
     env.infix = env.engine.schema.config:get_string("moran/pin/panacea/infix") or '//'
-    env.enscaped_infix = string.gsub(env.infix, "([%^%$%(%)%%%.%[%]%*%+%-%?])", "%%%1")
+    env.escaped_infix = string.gsub(env.infix, "([%^%$%(%)%%%.%[%]%*%+%-%?])", "%%%1")
     env.prompt = env.engine.schema.config:get_string("moran/pin/panacea/prompt") or "〔加詞〕"
     env.indicator = env.engine.schema.config:get_string("moran/pin/indicator") or "📌"
+    env.freestyle = env.engine.schema.config:get_bool("moran/pin/panacea/freestyle") or false
+
+    env.freestyle_state = false
+    env.freestyle_text = ""
+    env.freestyle_code = ""
+
     user_db.acquire()
-    local pattern = string.format("(.+)%s(.+)", env.enscaped_infix)
+    local pattern = string.format("(.+)%s(.+)", env.escaped_infix)
     local function on_commit(ctx)
         local commit_text = ctx:get_commit_text()
+        local selected_cand = ctx:get_selected_candidate()
+        if selected_cand ~= nil then
+            if env.freestyle and selected_cand:get_genuine().type == "pin_tip" then
+                if env.freestyle_state then
+                    if env.freestyle_code and env.freestyle_code ~= "" and env.freestyle_text and env.freestyle_text ~= "" then
+                        user_db.toggle_pin_status(env.freestyle_code, env.freestyle_text)
+                        env.freestyle_code = ""
+                        env.freestyle_text = ""
+                    end
+                else
+                    if string.sub(ctx.input, - #env.infix) == env.infix then
+                        env.freestyle_code = string.sub(ctx.input, 1, #ctx.input - #env.infix)
+                    end
+
+                    if env.freestyle_code == "" then
+                        return
+                    end
+                end
+                env.freestyle_state = not env.freestyle_state
+                return
+            end
+        end
+        if env.freestyle_state then
+            env.freestyle_text = env.freestyle_text .. commit_text
+            return
+        end
+
+
         local code, original_code = ctx.input:match(pattern)
-        if original_code and code and commit_text then
+        if original_code and original_code ~= "" and
+            code and code ~= "" and
+            commit_text and commit_text ~= "" then
             user_db.toggle_pin_status(code, commit_text)
         end
     end
 
     local function on_update_or_select(ctx)
+        if env.freestyle_state then
+            local segment = ctx.composition:back()
+            if segment ~= nil then
+                segment.prompt = env.prompt .. " | " .. env.freestyle_text .. " | " .. env.freestyle_code
+            end
+            return
+        end
+
         local code, original_code = ctx.input:match(pattern)
         if original_code and code then
             local segment = ctx.composition:back()
-            segment.prompt = env.prompt .." | " .. code
+            segment.prompt = env.prompt .. " | " .. code
         end
     end
 
@@ -366,14 +410,21 @@ function panacea_translator.fini(env)
 end
 
 function panacea_translator.func(input, seg, env)
-    local pattern = "[a-z]+"..env.enscaped_infix
+    local pattern = "[a-z]*" .. env.escaped_infix
     local match = input:match(pattern)
 
     if match then
-        local tip_cand = Candidate("pin_tip", 0, #match, "", "➕"..env.indicator)
+        local comment = "➕" .. env.indicator
+        if env.freestyle then
+            if env.freestyle_state then
+                comment = "完成加詞" .. comment
+            else
+                comment = "開始加詞" .. comment
+            end
+        end
+        local tip_cand = Candidate("pin_tip", 0, #match, "", comment)
         tip_cand.quality = math.huge
         yield(tip_cand)
-        return
     end
 end
 
