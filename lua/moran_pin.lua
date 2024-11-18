@@ -2,7 +2,10 @@
 -- version: 0.1.1
 -- author: kuroame
 -- license: GPLv3
--- You may copy, distribute and modify the software as long as you track changes/dates in source files. Any modifications to or software including (via compiler) GPL-licensed code must also be made available under the GPL along with build & install instructions.
+-- You may copy, distribute and modify the software as long as you track
+-- changes/dates in source files. Any modifications to or software including
+-- (via compiler) GPL-licensed code must also be made available under the GPL
+-- along with build & install instructions.
 
 -- changelog
 -- 0.1.1: simple configuration
@@ -17,22 +20,25 @@ local sep_t = " \t"
 -- epoch : 2024/11/11 00:00 in min
 local epoch = 28854240
 local ref_count = 0
-local pin_db = UserDb("moran_pin", "userdb")
+local pin_db = nil
 function user_db.release()
     ref_count = ref_count - 1
-    if ref_count > 0 then
-        return
-    end
-    if pin_db:loaded() then
-        pin_db:close()
+    if ref_count == 0 then
+        if pin_db:loaded() then
+            pin_db:close()
+        end
+        pin_db = nil
     end
 end
 
 function user_db.acquire()
-    if not pin_db:loaded() then
-        pin_db:open()
+    if ref_count == 0 then
+        pin_db = LevelDb("moran_pin")
         if not pin_db:loaded() then
-            return
+            pin_db:open()
+            if not pin_db:loaded() then
+                return
+            end
         end
     end
     ref_count = ref_count + 1
@@ -49,6 +55,19 @@ function user_db.query_and_unpack(input)
             while true do
                 local key, value = next_func(self)
                 if key == nil then
+                    -- CAVEAT: DbAccessor must NOT outlive the
+                    -- database. Here, we force a GC to make sure
+                    -- DbAccessor is released BEFORE the db itself is
+                    -- released.
+                    --
+                    -- This, unfortunately, is a current limitation of
+                    -- librime-lua.  Ideally, we should be able to do
+                    -- something like res:close() and be done with it.
+                    input = nil
+                    res = nil
+                    self = nil
+                    next_func = nil
+                    collectgarbage()
                     return nil
                 end
                 local entry = user_db.unpack_entry(key, value)
