@@ -25,6 +25,7 @@ local pin_db = nil
 function user_db.release()
     ref_count = ref_count - 1
     if ref_count == 0 then
+        collectgarbage()
         if pin_db:loaded() then
             pin_db:close()
         end
@@ -56,19 +57,6 @@ function user_db.query_and_unpack(input)
             while true do
                 local key, value = next_func(self)
                 if key == nil then
-                    -- CAVEAT: DbAccessor must NOT outlive the
-                    -- database. Here, we force a GC to make sure
-                    -- DbAccessor is released BEFORE the db itself is
-                    -- released.
-                    --
-                    -- This, unfortunately, is a current limitation of
-                    -- librime-lua.  Ideally, we should be able to do
-                    -- something like res:close() and be done with it.
-                    input = nil
-                    res = nil
-                    self = nil
-                    next_func = nil
-                    collectgarbage()
                     return nil
                 end
                 local entry = user_db.unpack_entry(key, value)
