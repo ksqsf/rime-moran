@@ -29,6 +29,7 @@ switches:
 
 engine:
   processors:
+    - lua_processor@*moran_pin*pin_processor
     - ascii_composer
     - recognizer
     - key_binder
@@ -53,8 +54,10 @@ engine:
     - table_translator@fixed
     - table_translator@zkci
     - history_translator@repeat
+    - lua_translator@*moran_pin*panacea_translator
     - history_translator@quick_repeat
   filters:
+    - lua_filter@*moran_pin*pin_filter
     - simplifier@chaifen
     - simplifier@std_hk
     - simplifier@std_tw
@@ -65,11 +68,11 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: "abcdefghijklmnopqrstuvwxyz=;"
+  alphabet: "abcdefghijklmnopqrstuvwxyz=;" # 「置頂」功能：需要加上/
   delimiter: " '"
   max_code_length: 4
   auto_select: true
-  auto_select_pattern: ^;(\w|;)+|^\w{3}\w+
+  auto_select_pattern: ^;(\w|;)+|^\w{3}\w+ # 「置頂」功能：建議取消四碼唯一上屏模式，即改成auto_select_pattern: ^;(\w|;)+
   auto_clear: max_length # manual | auto | max_length
   algebra:
     __patch:
@@ -182,6 +185,8 @@ recognizer:
     reverse_lookup: "(^(`[a-z`]+))|(^([a-z]{2}(`[a-z`]?|[a-z`]`|[a-z][a-z]`)))"
     reverse_zrlf: "^olf[A-Za-z]*$"
     zkci: "^[a-z]*'[a-z']*$"
+    # 「置頂」功能：使用加置頂詞功能需要取消下面的註釋
+    # panacea: "^[a-z]*/{1,2}[a-z']*$"
     punct: '^/([0-9]0?|[A-Za-z]+)$'
 
 punctuator:
@@ -213,3 +218,28 @@ moran:
   # 注意：需先解除 engine/filters 中 lua_filter@*moran_quick_code_hint 行的註釋才能生效！！
   enable_quick_code_hint: true      # 在解除 lua_filter 註釋前不生效！
   quick_code_hint_skip_chars: true  # 是否跳過單字, 字詞模式中建議不提示單字避免干擾
+
+  # 「置頂」功能相關設置
+  # 輸入時通過快捷鍵 Ctrl+t 可以將高亮顯示的候選置頂
+  # 對同一輸入碼最高支持8個置頂詞，當嘗試置頂第9個詞時，最早被置頂的詞將會失效
+  #
+  # 注：該功能需要 librime>=1.12.0 否則置頂詞將無法在字詞模式中頂屏 體驗較差 不建議使用
+  # 如需開啓，請取消下面的註釋，並參考本配置標記了 「置頂」功能 的地方的修改建議
+  # pin:
+  #   # 「置頂」功能開關
+  #   enable: true
+  #   # 置頂詞提示符
+  #   indicator: "📌"
+  #   # 「萬靈藥」加詞功能
+  #   # 通過輸入 「編碼A」//「編碼B」 實現造詞功能，編碼A是這個新詞的新編碼 編碼B是目前可以打出該詞的編碼
+  #   # 例如 輸入 kx 不能得到「開心」這一候選， 此時我們可以輸入 kx//klxn 按下空格 讓「開心」候選上屏，上屏的詞會被加入用戶詞庫中，之後我們可以用 kx 來得到「開心」這一候選了
+  #   # 造出的詞與置頂詞是等同的
+  #   panacea:
+  #     # 加詞狀態提示
+  #     prompt: "〔加詞〕"
+  #     # 加詞中綴引導符
+  #     infix: "//"
+  #     # 自由加詞模式開關，開啓此模式後，輸入「編碼A」//並空格上屏後會進入加詞狀態，此時可以連續地、不受束縛地輸入，再次按下x//空格退出加詞狀態，期間輸入的內容將會被記錄爲「編碼A」的新置頂詞
+  #     # 能造出不受碼表的限制的詞，因此適合字詞模式使用
+  #     # 例如 輸入tnfb//空格 然後輸入tbnk上屏「頭腦」 fgbk上屏「風暴」，再輸入x//空格，則可以用tnfb上屏「頭腦風暴」
+  #     freestyle: false

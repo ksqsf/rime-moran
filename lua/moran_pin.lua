@@ -1,5 +1,5 @@
 -- moran_pin.lua
--- version: 0.1.1
+-- version: 0.1.2
 -- author: kuroame
 -- license: GPLv3
 -- You may copy, distribute and modify the software as long as you track
@@ -8,6 +8,7 @@
 -- along with build & install instructions.
 
 -- changelog
+-- 0.1.2: add freestyle mode, add switch to enable/disable pin
 -- 0.1.1: simple configuration
 -- 0.1.0: init
 
@@ -277,14 +278,24 @@ local kNoop = 2
 local pin_processor = {}
 
 function pin_processor.init(env)
+    env.pin_enable = env.engine.schema.config:get_bool("moran/pin/enable") or false
+    if not env.pin_enable then
+        return
+    end
     user_db.acquire()
 end
 
 function pin_processor.fini(env)
+    if not env.pin_enable then
+        return
+    end
     user_db.release()
 end
 
 function pin_processor.func(key_event, env)
+    if not env.pin_enable then
+        return kNoop
+    end
     -- ctrl + x to trigger
     if not key_event:ctrl() or key_event:release() then
         return kNoop
@@ -318,31 +329,40 @@ end
 local pin_filter = {}
 
 function pin_filter.init(env)
+    env.pin_enable = env.engine.schema.config:get_bool("moran/pin/enable") or false
+    if not env.pin_enable then
+        return
+    end
     env.indicator = env.engine.schema.config:get_string("moran/pin/indicator") or "📌"
     user_db.acquire()
 end
 
 function pin_filter.fini(env)
+    if not env.pin_enable then
+        return
+    end
     user_db.release()
 end
 
 function pin_filter.func(t_input, env)
-    local input = env.engine.context.input
-    local commits = {}
-    local entries = user_db.query_and_unpack(input)
-    if entries then
-        for unpacked in entries do
-            table.insert(commits, unpacked)
+    if env.pin_enable then
+        local input = env.engine.context.input
+        local commits = {}
+        local entries = user_db.query_and_unpack(input)
+        if entries then
+            for unpacked in entries do
+                table.insert(commits, unpacked)
+            end
         end
-    end
-    -- descending sort
-    table.sort(commits, function(a, b)
-        return a.commits > b.commits
-    end)
-    for _, unpacked in ipairs(commits) do
-        local cand = Candidate("pinned", 0, #input, unpacked.phrase, env.indicator)
-        cand.preedit = input
-        yield(cand)
+        -- descending sort
+        table.sort(commits, function(a, b)
+            return a.commits > b.commits
+        end)
+        for _, unpacked in ipairs(commits) do
+            local cand = Candidate("pinned", 0, #input, unpacked.phrase, env.indicator)
+            cand.preedit = input
+            yield(cand)
+        end
     end
     for cand in t_input:iter() do
         yield(cand)
@@ -354,6 +374,10 @@ end
 local panacea_translator = {}
 
 function panacea_translator.init(env)
+    env.pin_enable = env.engine.schema.config:get_bool("moran/pin/enable") or false
+    if not env.pin_enable then
+        return
+    end
     env.infix = env.engine.schema.config:get_string("moran/pin/panacea/infix") or '//'
     env.escaped_infix = string.gsub(env.infix, "([%^%$%(%)%%%.%[%]%*%+%-%?])", "%%%1")
     env.prompt = env.engine.schema.config:get_string("moran/pin/panacea/prompt") or "〔加詞〕"
@@ -426,6 +450,9 @@ function panacea_translator.init(env)
 end
 
 function panacea_translator.fini(env)
+    if not env.pin_enable then
+        return
+    end
     env.commit_notifier:disconnect()
     env.select_notifier:disconnect()
     env.update_notifier:disconnect()
@@ -433,6 +460,9 @@ function panacea_translator.fini(env)
 end
 
 function panacea_translator.func(input, seg, env)
+    if not env.pin_enable then
+        return
+    end
     local pattern = "[a-z]+" .. env.escaped_infix
     local match = input:match(pattern)
 
