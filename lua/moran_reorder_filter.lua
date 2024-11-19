@@ -48,6 +48,7 @@ function Top.func(t_input, env)
    -- phase 2: done reordering
    local reorder_phase = 0
    local threshold = env.reorder_threshold
+   local additional_check = 0
    for cand in t_input:iter() do
       if cand:get_genuine().type == "punct" then
          yield(cand)
@@ -55,8 +56,14 @@ function Top.func(t_input, env)
       end
 
       if reorder_phase == 0 then
-         if cand.comment == '`F' or cand.type == 'pinned' then
+         if cand.comment == '`F' then
             table.insert(fixed_list, cand)
+         elseif cand.type == 'pinned' then
+             table.insert(fixed_list, cand)
+             -- Need to check more candidates if pinned candidates are found to ensure all fixed candidates are included.
+             additional_check = additional_check + 1
+         elseif additional_check > 0 then
+            additional_check = additional_check - 1
          else
             -- Logically equivalent to goto the branch of reorder_phase=1.
             reorder_phase = 1
