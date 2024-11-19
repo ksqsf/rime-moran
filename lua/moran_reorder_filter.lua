@@ -60,8 +60,9 @@ function Top.func(t_input, env)
             table.insert(fixed_list, cand)
          elseif cand.type == 'pinned' then
              table.insert(fixed_list, cand)
-             -- Need to check more candidates if pinned candidates are found to ensure all fixed candidates are included.
-             additional_check = additional_check + 1
+             -- Need to check an extra candidate if pinned candidates are
+             -- found to ensure all fixed candidates are included.
+             additional_check = 1
          elseif additional_check > 0 then
             additional_check = additional_check - 1
          else
