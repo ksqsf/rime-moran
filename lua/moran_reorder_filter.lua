@@ -1,10 +1,12 @@
 -- Moran Reorder Filter
 -- Copyright (c) 2023, 2024 ksqsf
 --
--- Ver: 0.1.4
+-- Ver: 0.1.5
 --
 -- This file is part of Project Moran
 -- Licensed under GPLv3
+--
+-- 0.1.5: 少許性能優化。
 --
 -- 0.1.4: 配合 moran_pin。
 --
@@ -43,13 +45,16 @@ end
 function Top.func(t_input, env)
    local fixed_list = {}
    local smart_list = {}
-   -- the candidates we receive are: [pinned]* [fixed1]* smart1{1} [fixed2]* smart2+
+   local delay_slot = {}
+   local pin_set = {}
+   -- the candidates we receive are:
+   --   [pinned]* [fixed1]* smart1{1} [fixed2]* smart2+
    -- phase 0: pinned, fixed1, and smart1 cands not yet all handled
    -- phase 1: found the first smart2 candidate
    -- phase 2: done reordering
    local reorder_phase = 0
    local threshold = env.reorder_threshold
-   local additional_check = 0
+   local additional_check = 0  -- max length of the delay slot
    for cand in t_input:iter() do
       if cand:get_genuine().type == "punct" then
          yield(cand)
@@ -58,22 +63,40 @@ function Top.func(t_input, env)
 
       if reorder_phase == 0 then
          if cand.comment == '`F' then
-            table.insert(fixed_list, cand)
+            if not pin_set[cand.text] then
+               table.insert(fixed_list, cand)
+            end
          elseif cand.type == 'pinned' then
             table.insert(fixed_list, cand)
+            pin_set[cand.text] = true
             -- Need to check an extra candidate if pinned candidates are
             -- found to ensure all fixed candidates are included.
             additional_check = 1
          elseif additional_check > 0 then
             -- Smart1 case: just record it and possibly merge it later
             -- in Phase 1.
-            table.insert(smart_list, cand)
+            table.insert(delay_slot, cand)
             additional_check = additional_check - 1
-         else
+         elseif #delay_slot == 0 then
+            -- Smart2 case, where no smart1 found.
             -- Logically equivalent to goto the branch of reorder_phase=1.
             reorder_phase = 1
             threshold = threshold - 1
             reorder_phase = Top.DoPhase1(env, fixed_list, smart_list, cand)
+         elseif #delay_slot > 0 then
+            -- Smart2 case, where some smart1 candidates in the delay slot.
+            for _, c in ipairs(delay_slot) do
+               threshold = threshold - 1
+               reorder_phase = Top.DoPhase1(env, fixed_list, smart_list, c)
+            end
+            if reorder_phase == 2 then
+               -- all done. Yield current and future candidates directly.
+               yield(cand)
+            else
+               -- not done! Proceed to phase1.
+               threshold = threshold - 1
+               reorder_phase = Top.DoPhase1(env, fixed_list, smart_list, cand)
+            end
          end
       elseif reorder_phase == 1 then
          threshold = threshold - 1
@@ -108,28 +131,45 @@ function Top.CandidateMatch(scand, fcand)
          or (#scand.preedit == 5 and #fcand.preedit == 4 and (scand.preedit:sub(1,2) .. scand.preedit:sub(4,5)) == fcand.preedit))
 end
 
-function Top.DoPhase1(env, fixed_list, smart_list, cand, smart_type)
+local function reorderable(cand)
+   return not (utf8.len(cand.text) > 1 and #cand.preedit <= 3)
+end
+
+-- Return 2 if fixed_list is handled completely.
+-- Otherwise, return 1.
+function Top.DoPhase1(env, fixed_list, smart_list, cand)
    table.insert(smart_list, cand)
-   while #fixed_list > 0 and #smart_list > 0 and Top.CandidateMatch(smart_list[#smart_list], fixed_list[1]) do
-      local fcand = fixed_list[1]
+   while #fixed_list > 0 and #smart_list > 0 do
       local scand = smart_list[#smart_list]
-      if fcand.comment == "`F" then
-         scand.comment = env.quick_code_indicator
-      elseif fcand.type == "pinned" then
-         scand.comment = env.pin_indicator
+      local fcand = fixed_list[1]
+      if not reorderable(fcand) then
+         if fcand.comment == "`F" then
+            fcand.comment = env.quick_code_indicator
+         end
+         yield(fcand)
+         table.remove(fixed_list, 1)
+      elseif Top.CandidateMatch(scand, fcand) then
+         if fcand.comment == "`F" then
+            scand.comment = env.quick_code_indicator
+         elseif fcand.type == "pinned" then
+            scand.comment = env.pin_indicator
+         end
+         yield(scand)
+         table.remove(smart_list, #smart_list)
+         table.remove(fixed_list, 1)
+      else
+         break
       end
-      yield(scand)
-      table.remove(smart_list, #smart_list)
-      table.remove(fixed_list, 1)
    end
-   if #fixed_list == 0 and smart_type == 2 then
+   if #fixed_list == 0 then
       for key, cand in ipairs(smart_list) do
          yield(cand)
          smart_list[key] = nil
       end
       return 2
+   else
+      return 1
    end
-   return 1
 end
 
 function Top.ClearEntries(env, reorder_phase, fixed_list, smart_list)
