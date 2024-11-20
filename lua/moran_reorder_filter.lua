@@ -43,8 +43,9 @@ end
 function Top.func(t_input, env)
    local fixed_list = {}
    local smart_list = {}
-   -- phase 0: fixed cands not yet all removed
-   -- phase 1: found the first smart candidate
+   -- the candidates we receive are: [pinned]* [fixed1]* smart1{1} [fixed2]* smart2+
+   -- phase 0: pinned, fixed1, and smart1 cands not yet all handled
+   -- phase 1: found the first smart2 candidate
    -- phase 2: done reordering
    local reorder_phase = 0
    local threshold = env.reorder_threshold
@@ -59,11 +60,14 @@ function Top.func(t_input, env)
          if cand.comment == '`F' then
             table.insert(fixed_list, cand)
          elseif cand.type == 'pinned' then
-             table.insert(fixed_list, cand)
-             -- Need to check an extra candidate if pinned candidates are
-             -- found to ensure all fixed candidates are included.
-             additional_check = 1
+            table.insert(fixed_list, cand)
+            -- Need to check an extra candidate if pinned candidates are
+            -- found to ensure all fixed candidates are included.
+            additional_check = 1
          elseif additional_check > 0 then
+            -- Smart1 case: just record it and possibly merge it later
+            -- in Phase 1.
+            table.insert(smart_list, cand)
             additional_check = additional_check - 1
          else
             -- Logically equivalent to goto the branch of reorder_phase=1.
@@ -104,7 +108,7 @@ function Top.CandidateMatch(scand, fcand)
          or (#scand.preedit == 5 and #fcand.preedit == 4 and (scand.preedit:sub(1,2) .. scand.preedit:sub(4,5)) == fcand.preedit))
 end
 
-function Top.DoPhase1(env, fixed_list, smart_list, cand)
+function Top.DoPhase1(env, fixed_list, smart_list, cand, smart_type)
    table.insert(smart_list, cand)
    while #fixed_list > 0 and #smart_list > 0 and Top.CandidateMatch(smart_list[#smart_list], fixed_list[1]) do
       local fcand = fixed_list[1]
@@ -118,7 +122,7 @@ function Top.DoPhase1(env, fixed_list, smart_list, cand)
       table.remove(smart_list, #smart_list)
       table.remove(fixed_list, 1)
    end
-   if #fixed_list == 0 then
+   if #fixed_list == 0 and smart_type == 2 then
       for key, cand in ipairs(smart_list) do
          yield(cand)
          smart_list[key] = nil
