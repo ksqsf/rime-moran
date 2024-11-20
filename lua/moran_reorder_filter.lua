@@ -102,7 +102,7 @@ function Top.func(t_input, env)
          threshold = threshold - 1
          reorder_phase = Top.DoPhase1(env, fixed_list, smart_list, cand)
          if threshold < 0 then
-            Top.ClearEntries(env, reorder_phase, fixed_list, smart_list)
+            Top.ClearEntries(env, reorder_phase, fixed_list, smart_list, delay_slot)
             reorder_phase = 2
          end
       else
@@ -117,7 +117,7 @@ function Top.func(t_input, env)
       ::continue::
    end
 
-   Top.ClearEntries(env, reorder_phase, fixed_list, smart_list)
+   Top.ClearEntries(env, reorder_phase, fixed_list, smart_list, delay_slot)
 end
 
 function Top.CandidateMatch(scand, fcand)
@@ -172,13 +172,17 @@ function Top.DoPhase1(env, fixed_list, smart_list, cand)
    end
 end
 
-function Top.ClearEntries(env, reorder_phase, fixed_list, smart_list)
+function Top.ClearEntries(env, reorder_phase, fixed_list, smart_list, delay_slot)
    for i, cand in ipairs(fixed_list) do
       if cand.comment == "`F" then
          cand.comment = env.quick_code_indicator
       end
       yield(cand)
       fixed_list[i] = nil
+   end
+   for i, cand in ipairs(delay_slot) do
+      yield(cand)
+      delay_slot[i] = nil
    end
    for i, cand in ipairs(smart_list) do
       if cand.comment == "`F" then
