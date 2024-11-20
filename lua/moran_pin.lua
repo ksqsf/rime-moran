@@ -451,7 +451,7 @@ function panacea_translator.func(input, seg, env)
     if not env.pin_enable then
         return
     end
-    local pattern = "[a-z]+" .. env.escaped_infix
+    local pattern = "[a-zA-Z]+" .. env.escaped_infix
     local match = input:match(pattern)
 
     if match then
