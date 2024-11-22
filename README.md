@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/ca8a8c1f-d076-47de-94b0-4e935a99a516
 
 本方案的製作還得到了許多人的大力協助：
 
-- 方案設計和 Lua 編程：铁圈、䑝曻、蹄垫
+- 方案設計和 Lua 編程：铁圈、䑝曻、蹄垫、Kuroame
 - 簡體詞庫優化：呂奉先、SunShine、小幽幽、sky、Kuroame
 - 超集字數據：呂奉先、吥捨洳楓、聆竹聽風、SunShine
 
