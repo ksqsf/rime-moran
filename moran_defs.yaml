@@ -42,13 +42,13 @@ classic_zrm_jqx:
 # 19鍵鍵盤映射
 keyboard19:
   __append:
-    - 'derive/[we]/1/'
-    - 'derive/[rt]/2/'
-    - 'derive/[op]/3/'
-    - 'derive/[fg]/4/'
-    - 'derive/[jk]/5/'
-    - 'derive/[xc]/6/'
-    - 'derive/[bn]/7/'
+    - 'derive/[we]/W/'
+    - 'derive/[rt]/R/'
+    - 'derive/[op]/O/'
+    - 'derive/[fg]/F/'
+    - 'derive/[jk]/J/'
+    - 'derive/[xc]/X/'
+    - 'derive/[bn]/B/'
 
 # 飛鍵
 fly:
