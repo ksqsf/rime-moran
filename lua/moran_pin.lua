@@ -417,6 +417,10 @@ function panacea_translator.init(env)
     end
 
     local function on_update_or_select(ctx)
+        if not ctx.input then
+            return
+        end
+
         if env.freestyle_state then
             local segment = ctx.composition:back()
             if segment ~= nil then
