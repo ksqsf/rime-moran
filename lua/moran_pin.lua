@@ -333,7 +333,7 @@ function pin_filter.fini(env)
 end
 
 function pin_filter.func(t_input, env)
-    if env.pin_enable then
+    if env.pin_enable and env.engine.context.composition:toSegmentation():get_confirmed_position() == 0 then
         local input = env.engine.context.input
         local commits = {}
         local entries = user_db.query_and_unpack(input)
