@@ -2,7 +2,7 @@
 -- Synopsis: 選擇第二個首選項，但可用於跳過 emoji 濾鏡產生的候選
 -- Author: ksqsf
 -- License: MIT license
--- Version: 0.1.2
+-- Version: 0.1.3
 
 -- NOTE: This processor depends on, and thus should be placed before,
 -- the built-in "selector" processor.
@@ -35,7 +35,7 @@ local function processor(key_event, env)
 
    -- Special case: if there is only one candidate, just select it!
    if menu:candidate_count() == 1 then
-      env.engine:process_key(KeyEvent("1"))
+      context:select(0)
       return kAccepted
    end
 
@@ -43,7 +43,8 @@ local function processor(key_event, env)
    local page_size = env.engine.schema.page_size
    local selected_index = segment.selected_index
    if selected_index >= page_size then
-      env.engine:process_key(KeyEvent("2"))
+      local page_num = selected_index // page_size
+      context:select(page_num * page_size + 1)
       return kAccepted
    end
 
@@ -57,14 +58,14 @@ local function processor(key_event, env)
          or (codepoint >= 97 and codepoint <= 122)
          or (codepoint >= 65 and codepoint <= 90)
       then
-         env.engine:process_key(KeyEvent(tostring(i+1)))
+         context:select(i)
          return kAccepted
       end
       i = i + 1
    end
 
    -- No good candidates found. Just select the second candidate.
-   env.engine:process_key(KeyEvent("2"))
+   context:select(1)
    return kAccepted
 end
 
