@@ -59,31 +59,7 @@ fly:
     __append:
       - derive/xq;/xo;/
 
+# 小寫可匹配大寫編碼（用於英語混輸）
 casefold:
   __append:
-    - derive/A/a/
-    - derive/B/b/
-    - derive/C/c/
-    - derive/D/d/
-    - derive/E/e/
-    - derive/F/f/
-    - derive/G/g/
-    - derive/H/h/
-    - derive/I/i/
-    - derive/J/j/
-    - derive/K/k/
-    - derive/L/l/
-    - derive/M/m/
-    - derive/N/n/
-    - derive/O/o/
-    - derive/P/p/
-    - derive/Q/q/
-    - derive/R/r/
-    - derive/S/s/
-    - derive/T/t/
-    - derive/U/u/
-    - derive/V/v/
-    - derive/W/w/
-    - derive/X/x/
-    - derive/Y/y/
-    - derive/Z/z/
+    - derive/[A-Z]/\L$1\E/

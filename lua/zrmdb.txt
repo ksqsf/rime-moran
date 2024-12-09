@@ -12462,8 +12462,8 @@
 思 xt
 怞 xy
 怟 xd
-怠 sx
 怠 xt
+怠 sx
 怡 xt
 怢 xu
 怣 xu
@@ -37276,6 +37276,8 @@
 𡆝 kl
 𡆟 ki
 𡆠 ky
+𡆡 kd
+𡆢 ka
 𡆣 kr
 𡆤 ke
 𡆥 kb
@@ -96598,7 +96600,7 @@
 𱰿 tk
 𱱁 lt
 𱱁 tl
-𱱄 tk
+𱱄 tc
 𱱆 ct
 𱱆 tt
 𱱈 lx
@@ -97308,6 +97310,8 @@
 𱿼 ir
 𱿾 iq
 𱿾 qi
+𲀁 ij
+𲀁 ig
 𲀂 is
 𲀃 ib
 𲀆 iz
