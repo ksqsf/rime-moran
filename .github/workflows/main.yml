@@ -1,5 +1,18 @@
 on: [push]
 jobs:
+  test:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up mira
+        run: |
+          sudo apt-get -y install librime1t64 librime-plugin-lua libyaml-cpp0.8
+          wget https://github.com/rimeinn/mira/releases/download/latest/mira
+          chmod +x mira
+      - name: Test
+        run: |
+          ./mira -C mira-cache tests/moran.test.yaml
+
   simplified-moran:
     runs-on: ubuntu-latest
     steps:
