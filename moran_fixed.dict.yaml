@@ -2305,8 +2305,8 @@ A4紙	asv
 不見天日	bjtr
 半桶	bjts
 伴同	bjts
-半途	bjtu
 版圖	bjtu
+半途	bjtu
 不見兔子不撒鷹	bjty
 北京市	bju
 絆腳石	bju
@@ -6996,6 +6996,7 @@ C++	cjj
 存在主義	czvy
 操作系統	czxt
 的	d	debu	10000
+大	d
 打	da
 大	daa
 大礙	daai
@@ -11462,6 +11463,7 @@ C++	cjj
 二不跨五	ebkw
 耳鬢廝磨	ebsm
 而不是	ebu
+二筆	ebv
 二百五	ebw
 二次	ec
 二次方程	ecfi
@@ -19973,7 +19975,6 @@ C++	cjj
 嗐	hlkh
 咳	hlkh
 還看	hlkj
-還款	hlkr
 咍	hlkt
 喝了口水	hlku
 害苦	hlku
@@ -20651,6 +20652,7 @@ C++	cjj
 還口	hrkb
 圜	hrkh
 豁然開朗	hrkl
+還款	hrkr
 圂	hrku
 嚾	hrkv
 歡快	hrky
@@ -30679,6 +30681,7 @@ C++	cjj
 刻板印象	kbyx
 口不應心	kbyx
 膾不厭細	kbyx
+扛把子	kbz
 哭鼻子	kbz
 可變資本	kbzb
 口碑載道	kbzd
@@ -35122,6 +35125,7 @@ C++	cjj
 另闢蹊徑	lpxj
 憐貧惜老	lpxl
 淪陷	lpxm
+輪詢	lpxp
 輪訓	lpxp
 輪休	lpxq
 鯩	lpy
@@ -52475,7 +52479,7 @@ PC端	pcdr
 吐露心聲	tlxu
 太虛	tlxu
 臺下	tlxw
-鮐	tly
+酞	tly
 胎壓	tlya
 太爺	tlye
 太陽	tlyh
@@ -52485,6 +52489,7 @@ PC端	pcdr
 嘆了一口氣	tlyq
 太遠	tlyr
 太原	tlyr
+鮐	tlyt
 泰語	tlyu
 跆	tlz
 太髒	tlzh
@@ -55077,6 +55082,7 @@ PC端	pcdr
 設局	ueju
 射界	uejx
 射精	uejy
+舌	uek
 設卡	ueka
 麝	uel
 設立	ueli
@@ -63487,8 +63493,8 @@ WiFi	wifi
 玩	wjw
 玩玩	wjwj
 彎彎	wjwj
-玩物	wjwu
 萬物	wjwu
+玩物	wjwu
 無拘無束	wjwu
 琬	wjww
 無盡無休	wjwx
@@ -80726,6 +80732,7 @@ WiFi	wifi
 可比性	kbxy
 可不要	kbyk
 康拜因	kbyn
+扛把子	kbzi
 哭鼻子	kbzi
 康采恩	kcen
 苦菜花	kchw
@@ -86328,3 +86335,4 @@ WiFi	wifi
 沏	qidt		#qid + tea
 詩	uiyc		#取末尾小部件
 謄	tgy		#簡化字「誊」
+
