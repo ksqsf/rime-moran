@@ -26,6 +26,8 @@ switches:
     states: [ 通用, 增廣 ]
   - name: emoji
     states: [ 🈚, 🈶 ]
+  - name: chaifen
+    states: [ 不拆, 扌斥 ]
   - name: unicode_comment
     states: [ U關, U開 ]
   - name: dzing
@@ -69,6 +71,7 @@ engine:
     - lua_filter@*moran_fix_filter
     - simplifier
     - simplifier@emoji
+    - simplifier@chaifen
     - simplifier@std_tw
     - simplifier@std_hk
     - simplifier@std_dzing
@@ -137,6 +140,15 @@ emoji:
   opencc_config: moran_emoji.json
   option_name: emoji
   tips: all
+
+chaifen:
+  option_name: chaifen
+  opencc_config: moran_chaifen.json
+  tips: char
+  show_in_comment: true
+  inherit_comment: true
+  comment_form:
+    - "xform/-/ /"
 
 std_hk:
   opencc_config: t2hk.json
